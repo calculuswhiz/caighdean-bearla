@@ -40,3 +40,22 @@ For those interested, the following base will be used:
 - Vite for bundling
 
 For now, no markdown rendering, but may change later as the project grows.
+
+## Contributing
+
+Please create a branch and submit a pull request to make changes.
+
+- Translations are stored in **translation**.
+- UI components are found in **src/Components/**.
+- Chapter layouts are stored in **src/Components/Chapters**.
+
+### Testing your changes
+
+If you have the repo cloned:
+
+```bash
+npm i
+npm run dev
+```
+
+Click the localhost link.
