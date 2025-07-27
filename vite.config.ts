@@ -4,6 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "./",
   plugins: [react(), tailwindcss()],
   build: {
     // GH stupidly doesn't let you change this, so I guess we just go with this...
