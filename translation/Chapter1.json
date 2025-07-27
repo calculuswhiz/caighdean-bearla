@@ -1,0 +1,18 @@
+{
+    "Chapter1Title": {
+        "ga": "AN tALT",
+        "en": "The Article"
+    },
+    "1.1": {
+        "ga": "Ginearálta",
+        "en": "General"
+    },
+    "1.1.1": {
+        "ga": "Alt amháin atá sa Ghaeilge — an t-alt cinnte. Deirtear gur `ainmfhocal cinnte` ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: `an` agus `na`. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., `an baile; an mhír; na caoirigh; teach na cúirte;` nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., `an uile dhuine; scéal mhadra na n-ocht gcos; tús na chéad seachtaine`. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., `Tá an croí ag cur air; Bhí an ghrian ag baint na súl asam`.",
+        "en": "There is one article in the Irish language — the definite article. The subject of the article is called the definite noun. Here the article has two forms: `an` and `na`. The article is placed before the noun, e.g. `an baile; an mhír; na caoirigh; teach na cúirte;` or before whatever word is put before the noun as a qualifier e.g. `an uile dhuine; scéal mhadra na n-ocht gcos; tús na chéad seachtaine`. It is possible to replace the article with possessive adjectives e.g. `Tá an croí ag cur air; Bhí an ghrian ag baint na súl asam`."
+    },
+    "1.1.2": {
+        "ga": "Is litir bheag a bhíonn ar an alt i lár abairte, e.g., `Nach raibh tú ag an Oireachtas i mbliana?; Bhí aithne mhaith agam ar an Seabhac;` ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., `Cé a scríobh An tOileánach?`",
+        "en": "The article is written with a small letter in the middle of sentences e.g. `Nach raibh tú ag an Oireachtas i mbliana? Bhí aithne mhaith agam ar an Seabhac;` except in certain cases such as publication titles e.g. `Cé a scríobh An tOileánach?`"
+    }
+}
