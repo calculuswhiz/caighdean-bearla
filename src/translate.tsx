@@ -14,7 +14,12 @@ export function translateText(translation: Translation, selection: LanguageSelec
 
 /** Basic handling of text */
 export function translateTextMarkup(translation: Translation, selection: LanguageSelection) {
-    return applyBasicMarkup(translateText(translation, selection));
+    const englishExists = selection === "en" && translation.en === null;
+    return <span 
+        className={englishExists ? "text-red-900" : ""} 
+        title={englishExists ? "Translation not found." : undefined}>{
+        applyBasicMarkup(translateText(translation, selection))
+    }</span>;
 }
 
 /** Applies the following to the text:

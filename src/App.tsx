@@ -1,7 +1,7 @@
 import Chapter1 from "./Components/Chapters/Chapter1";
 
 function App() {
-  return <div className="max-w-[900px]">
+  return <div className="max-w-[900px] h-[150vh]">
     <Chapter1 />
   </div>;
 }

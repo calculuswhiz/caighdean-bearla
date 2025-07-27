@@ -14,5 +14,37 @@
     "1.1.2": {
         "ga": "Is litir bheag a bhíonn ar an alt i lár abairte, e.g., `Nach raibh tú ag an Oireachtas i mbliana?; Bhí aithne mhaith agam ar an Seabhac;` ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., `Cé a scríobh An tOileánach?`",
         "en": "The article is written with a small letter in the middle of sentences e.g. `Nach raibh tú ag an Oireachtas i mbliana? Bhí aithne mhaith agam ar an Seabhac;` except in certain cases such as publication titles e.g. `Cé a scríobh An tOileánach?`"
+    },
+    "1.1.3": {
+        "ga": "Má tá teideal a bhfuil an t-alt ann (féach1.1.5(a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., `An Ghníomhaireacht um Thacaíocht Teaghlaigh; Na Coimisinéirí Ioncaim; An Ceoláras Náisiúnta`.",
+        "en": "If a title containing an article (see 1.1.5 (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g. `An Ghníomhaireacht um Thacaíocht Teaghlaigh; Na Coimisinéirí Ioncaim; An Ceoláras Náisiúnta`."
+    },
+    "1.1.4": {
+        "ga": "Cuirtear fleiscín idir an réamhlitir `t` agus guta, ach amháin nuair is ceannlitir an guta, e.g., `an t-ospidéal, an tAlbanach`. Ní chuirtear fleiscín idir an réamhlitir `t` agus `s`, e.g., `an tsaoirse; an tSionainn; tús an tsaoil;` ná idir an réamhlitir `h` agus guta, e.g., `na hainmneacha; lár na habairte; stair na hUachtaránachta`.",
+        "en": "Put a hyphen between the preliminary letter `t` and a vowel, except when the vowel is capitalized e.g. `an t-ospidéal; an tAlbanach`. Do not put a hyphen between the preliminary letter `t` and `s` e.g. `an tsaoirse; an tSionainn; tús an tsaoil;` or between the preliminary letter `h` and a vowel e.g. `na hainmneacha; lár na habairte; stair na hUachtaránachta`."
+    },
+    "1.1.5": {
+        "ga": "Úsáidtear an t-alt sna cásanna seo a leanas.",
+        "en": "The article is used in the following cases."
+    },
+    "1.1.5.a": {
+        "ga": "``Teidil oifige``, e.g., `an tAire Airgeadais, an Príomh-Oifigeach Feidhmiúcháin, an Taoiseach, Ard-Rúnaí na Náisiún Aontaithe`.",
+        "en": "``Official Titles`` e.g. `an tAire Airgeadais, an Príomh-Oifigeach Feidhmiúcháin, an Taoiseach, Ard-Rúnaí na Náisiún Aontaithe`."
+    },
+    "1.1.5.a.sample.1": {
+        "ga": "Beidh an ``tAire Airgeadais`` ag freastal ar an gcruinniú.",
+        "en": "The ``Minister for Finance`` will attend the meeting."
+    },
+    "1.1.5.a.sample.2": {
+        "ga": "Cá bhfuil ``an Príomh-Oifigeach Feidhmiúcháin``?",
+        "en": "Where is the ``Chief Executive Officer``? "
+    },
+    "1.1.5.a.sample.3": {
+        "ga": "Tá ``an Taoiseach`` ag labhairt leis na daltaí.",
+        "en": "The ``Taoiseach`` is speaking with the students. "
+    },
+    "1.1.5.a.sample.4": {
+        "ga": "An é sin ``Ard-Rúnaí na Náisiún Aontaithe``?",
+        "en": "Is that the ``Secretary General of the United Nations``? "
     }
 }

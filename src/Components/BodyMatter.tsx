@@ -6,11 +6,13 @@ export function LanguageSelector(props: {
     position: 'left' | 'right';
     onClick: React.MouseEventHandler;
 }) {
-    return <div className={`ml-1 cursor-pointer text-sm select-none ${props.position === 'left' ? "float-left" : "float-right"}`}
-        onClick={props.onClick}
-        title="Click to toggle language">
-        <span className={`${props.selection === 'en' ? "bg-blue-500 text-white" : ""} p-0.5`}>EN</span>
-        <span className={`${props.selection === 'ga' ? "bg-emerald-500 text-white" : ""} p-0.5`}>GA</span>
+    return <div>
+        <div className={`ml-1 cursor-pointer text-sm select-none ${props.position === 'left' ? "float-left" : "float-right"} mt-1`}
+            onClick={props.onClick}
+            title="Click to toggle language">
+            <span className={`${props.selection === 'en' ? "bg-blue-500 text-white" : ""} p-0.5`}>EN</span>
+            <span className={`${props.selection === 'ga' ? "bg-emerald-500 text-white" : ""} p-0.5`}>GA</span>
+        </div>
     </div>;
 }
 

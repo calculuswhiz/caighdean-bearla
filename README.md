@@ -10,7 +10,7 @@ This project will hopefully be a way to get the ball rolling again with multiple
 As rightfully noted by David there are a lot of tables in the *Caighdeán*, among other complex formatting. To facilitate the translation project, the translation aspect should be abstracted away from the formatting markup as much as possible. For now, the line is drawn at anything more advanced than simple **bold** and *italic* markdown as it even suffers with nested listing formats.
 
 The translations will be stored in JSON format, divided by chapter. Here is the schema
-```json
+```
 {
     // ID of text. E.g. "[Chapter]_[Section]_[Index]"
     [id]: { 
