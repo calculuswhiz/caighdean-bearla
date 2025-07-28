@@ -1,6 +1,9 @@
 # caighdean-bearla
 Another shot at an unofficial translation project of "An Caighdeán Oifigiúil 2017"
 
+- Tracked at https://github.com/calculuswhiz/caighdean-bearla.
+- Webapp at https://calculuswhiz.github.io/caighdean-bearla/.
+
 I found a translation effort [here](https://caighdean.home.blog/), but it seems to have not been updated since 2019. There was an attempt to put it on GitHub, but according to the blog author, it had to be taken down due to a security flaw.
 
 This project will hopefully be a way to get the ball rolling again with multiple collaborators. The document is sourced from https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_ga.pdf.

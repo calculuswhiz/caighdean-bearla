@@ -1,7 +1,7 @@
 {
     "Chapter1Title": {
         "ga": "AN tALT",
-        "en": "The Article"
+        "en": "THE ARTICLE"
     },
     "1.1": {
         "ga": "Ginearálta",
@@ -32,19 +32,187 @@
         "en": "``Official Titles`` e.g. `an tAire Airgeadais, an Príomh-Oifigeach Feidhmiúcháin, an Taoiseach, Ard-Rúnaí na Náisiún Aontaithe`."
     },
     "1.1.5.a.sample.1": {
-        "ga": "Beidh an ``tAire Airgeadais`` ag freastal ar an gcruinniú.",
+        "ga": "Beidh ``an tAire Airgeadais`` ag freastal ar an gcruinniú.",
         "en": "The ``Minister for Finance`` will attend the meeting."
     },
     "1.1.5.a.sample.2": {
         "ga": "Cá bhfuil ``an Príomh-Oifigeach Feidhmiúcháin``?",
-        "en": "Where is the ``Chief Executive Officer``? "
+        "en": "Where is ``the Chief Executive Officer``? "
     },
     "1.1.5.a.sample.3": {
         "ga": "Tá ``an Taoiseach`` ag labhairt leis na daltaí.",
-        "en": "The ``Taoiseach`` is speaking with the students. "
+        "en": "``The Taoiseach`` is speaking with the students. "
     },
     "1.1.5.a.sample.4": {
         "ga": "An é sin ``Ard-Rúnaí na Náisiún Aontaithe``?",
-        "en": "Is that the ``Secretary General of the United Nations``? "
+        "en": "Is that ``the Secretary General of the United Nations``? "
+    },
+    "1.1.5.b": {
+        "ga": "``Teidil ranna rialtais agus comhlachtaí stáit``, e.g., `an Roinn Oideachais agus Scileanna, an Oifig um Rialú Tobac, Feidhmeannacht na Seirbhíse Sláinte, an Phríomh-Oifig Staidrimh`.",
+        "en": "``Titles of Govornment Departments and State Companies`` e.g. `an Roinn Oideachais agus Scileanna, an Oifig um Rialú Tobac, Feidhmeannacht na Seirbhíse Sláinte, an Phríomh-Oifig Staidrimh`."
+    },
+    "1.1.5.b.sample.1": {
+        "ga": "Is san fhoirgneamh sin thall atá ``an Roinn Oideachais agus Scileanna``.",
+        "en": "This building is opposite ``the Department of Education and Skills``."
+    },
+    "1.1.5.b.sample.2": {
+        "ga": "Chuaigh Seán go dtí ``an Oifig um Rialú Tobac``.",
+        "en": "Sean went to ``the Office of Tobacco Control``."
+    },
+    "1.1.5.b.sample.3": {
+        "ga": "Tá ``Feidhmeannacht na Seirbhíse`` Sláinte an-ghnóthach.",
+        "en": "``The Health Service Executive`` is very busy."
+    },
+    "1.1.5.b.sample.4": {
+        "ga": "Seo ``an Phríomh-Oifig Staidrimh``.",
+        "en": "This is ``the Central Statistics Office``."
+    },
+    "1.1.5.c": {
+        "ga": "``Teideal duine roimh ainm dílis``, e.g., `an tAthair Peadar Ua Laoghaire, an Captaen Ó Murchú, an tUachtarán Mhic Róibín, an Teachta de Barra, an Múinteoir Ailbhe, an Pápa Eoin Pól II, an Rí Anraí VIII`.",
+        "en": "``Titles of people before a proper noun``, , e.g., `an tAthair Peadar Ua Laoghaire, an Captaen Ó Murchú, an tUachtarán Mhic Róibín, an Teachta de Barra, an Múinteoir Ailbhe, an Pápa Eoin Pól II, an Rí Anraí VIII`."
+    },
+    "1.1.5.c.sample.1": {
+        "ga": "Ba é ``an tAthair Peadar Ua Laoghaire`` a scríobh an dráma `An Sprid`.",
+        "en": "``Father Peadar Ua Laoghaire`` wrote the play `An Sprid`."
+    },
+    "1.1.5.c.sample.2": {
+        "ga": "Labhair ``an Captaen Ó Murchú`` leis na himreoirí.",
+        "en": "``Captain Ó Murchu`` spoke to the players. "
+    },
+    "1.1.5.c.sample.3": {
+        "ga": "Bhí ``an tUachtarán Mhic Róibín`` le feiceáil sa ghrianghraf.",
+        "en": "``President Robinson`` was to be seen in the photograph. "
+    },
+    "1.1.5.c.sample.4": {
+        "ga": "Beidh ``an Dochtúir de Barra`` ar saoire ar feadh seachtaine.",
+        "en": "``Doctor De Barra`` will be on holiday for the week. "
+    },
+    "1.1.5.c.sample.5": {
+        "ga": "Tá ``an Múinteoir Ailbhe`` i bhfeighil ar rang a sé i mbliana.",
+        "en": "``Teacher Ailbhe`` is in charge of sixth class this year."
+    },
+    "1.1.5.c.sample.6": {
+        "ga": "Is í ``an Bhanríon Elsa a Dó`` atá sa scannán.",
+        "en": "It is ``Queen Elsa II`` in the film."
+    },
+    "1.1.5.d.p.1": {
+        "ga": "``Féilte``, e.g., `an Nollaig, an Cháisc, an Carghas`.",
+        "en": "``Festivals``, e.g. `an Nollaig, an Cháisc, an Carghas`."
+    },
+    "1.1.5.d.sample.1": {
+        "ga": "Tá ``an Nollaig`` ag teannadh linn.",
+        "en": "``Christmas`` is approaching us."
+    },
+    "1.1.5.d.sample.2": {
+        "ga": "Is i mí an Mhárta a bheid ``an Cháisc`` i mbliana.",
+        "en": "``Easter`` will be in March this year."
+    },
+    "1.1.5.d.sample.3": {
+        "ga": "Rinne mé ``an Carghas`` ar an ól.",
+        "en": "I gave up drinking for ``Lent``. "
+    },
+    "1.1.5.d.p.2": {
+        "ga": "Tabhair faoi deara nach n-úsáidtear an t-alt i leaganacha dobhriathartha áirithe, e.g., `faoi Cháisc, um Nollaig, faoi Bhealtaine`.",
+        "en": "Note that the article is not used in certain adverbial situations e.g. `faoi Cháisc, um Nollaig, faoi Bhealtaine`."
+    },
+    "1.1.5.e.p.1": {
+        "ga": "``Laethanta na seachtaine``, e.g., `an Luan, an Mháirt, an Chéadaoin`.",
+        "en": "``Days of the week``, e.g., `an Luan, an Mháirt, an Chéadaoin`."
+    },
+    "1.1.5.e.sample.1": {
+        "ga": "Is é ``an Luan`` an lá is ansa liom.",
+        "en": "``Monday`` is my favourite day."
+    },
+    "1.1.5.e.sample.2": {
+        "ga": "Téim ag snámh ar ``an Máirt``.",
+        "en": "I go swimming ``on Tuesdays``."
+    },
+    "1.1.5.e.sample.3": {
+        "ga": "Inniu ``an Chéadaoin``.",
+        "en": "Today ``is a Wednesday``."
+    },
+    "1.1.5.e.p.2": {
+        "ga": "Tabhair faoi deara go n-úsáidtear an dobhriathar ama `Dé` in ionad an ailt nuair atáthar ag tagairt do lá áirithe, e.g., `Bhí mé ag caint leis Dé Céadaoin seo caite`.",
+        "en": "Note that the adverb `Dé` is used in place of the article when referring to a particular day e.g. `Bhí mé ag caint leis Dé Céadaoin seo caite`."
+    },
+    "1.1.5.e.p3": {
+        "ga": "Má tá réamhfhocal á úsáid roimh lá áirithe, déantar an t-alt a chumasc leis an réamhfhocal, e.g., `Ní mór na hiarratais a bheith faighte faoin Aoine, an 16 Bealtaine`.",
+        "en": "If a preposition is used before certain days, the article is merged with the preposition e.g. `Ní mór na hiarratais a bheith faighte foin Aoine, an 16 Bealtaine`."
+    },
+    "1.1.5.f.p.1": {
+        "ga": "``Míonna na bliana``",
+        "en": "``Months and years``"
+    },
+    "1.1.5.f.p.2": {
+        "ga": "Úsáidtear an t-alt leis na míonna `Márta`, `Bealtaine`, `Meitheamh`, `Samhain` agus `Nollaig`. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha `san Aibreán`.",
+        "en": "The article is used for the months `Márta` (March), `Bealtaine` (May), `Meitheamh` (June), `Samhain` (November) agus `Nollaig` (December). The article is not used for the other months except for the static form `san Aibreán` (in April)."
+    },
+    "1.1.5.f.sample.1": {
+        "ga": "Is minic a bhíonn mí ``Eanáir`` níos fuaire ná mí ``na Nollag``.",
+        "en": "Often ``January`` is colder than ``December``."
+    },
+    "1.1.5.f.sample.2": {
+        "ga": "Tá an Cháisc i mí ``an Mhárta`` seachas ``mí Aibreáin`` i mbliana.",
+        "en": "Easter is in ``March`` rather than ``April`` this year."
+    },
+    "1.1.5.g.p.1": {
+        "ga": "``Dátaí``",
+        "en": "``Dates``"
+    },
+    "1.1.5.g.p.2": {
+        "ga": "Is cóir an t-alt a úsáid nuair a dhéantar tagairt do dhátaí in abairt.",
+        "en": "The article should be used when referring to a date in a sentence."
+    },
+    "1.1.5.g.sample.1": {
+        "ga": "Ba chóir é a dhéanamh tráth nach déanaí ná ``an 30 Meán Fómhair`` gach bliain.",
+        "en": "I should be done no later than ``30 September`` every year."
+    },
+    "1.1.5.g.sample.2": {
+        "ga": "Beidh an chóisir ar síúl ar ``an 12 Aibreán``.",
+        "en": "The party will be on ``the 12th of April``."
+    },
+    "1.1.5.g.sample.3": {
+        "ga": "Baineann na ráitis airgeadais leis an mbliain dar chríoch ``an 31 Nollaig 2014``.",
+        "en": "The financial reports are for the year ended ``31 December 2014``."
+    },
+    "1.1.5.g.sample.4": {
+        "ga": "Pósfaidh siad ``an 26 Feabhra``.",
+        "en": "They will marry on ``the 26th of February``."
+    },
+    "1.1.5.g.sample.5": {
+        "ga": "Ní ghlacfar le haon iarratas a gheofar tar éis ``an 7 Márta 2016``.",
+        "en": "No applications will be accepted after ``7 March 2016``."
+    },
+    "1.1.5.g.p.3": {
+        "ga": "Nuair atá an dáta leis féin — ar bharr litreach, nó mar dháta le sonrasc nó le hAcht, etc.— fágtar an t-alt ar lár, e.g., `26 Feabhra 2014`.",
+        "en": "When the date is by itself — in a letterhead, or as in the date on an invoice or Act etc. — omit the article e.g. `26 Feabhra 2014`."
+    },
+    "1.1.5.h.p.1": {
+        "ga": "``Ainmneacha bailte, sléibhte agus aibhneacha``",
+        "en": "``Names of towns, mountains and rivers``"
+    },
+    "1.1.5.h.i": {
+        "ga": "Roinnt cathracha agus bailte, e.g., `an Aithin, na Cealla Beaga, na Gleannta, an tSnaidhm, an Spidéal`.",
+        "en": "Some cities and towns e.g. `an Aithin, na Cealla Beaga, na Gleannta, an tSnaidhm, an Spidéal`."
+    },
+    "1.1.5.h.ii": {
+        "ga": "Cnoic agus sléibhte áirithe, e.g., `na hAindéis, na hAlpa, an Bhograch, an Chearc, na Comaraigh, an Earagail, na Himiléithe, an Mhucais`.",
+        "en": "Certain mountains and cities e.g. `na hAindéis, na hAlpa, an Bhograch an Chearc, na Comaraigh, an Earagail, na Himiléithe, an Mhucais`."
+    },
+    "1.1.5.h.iii": {
+        "ga": "Formhór na n-aibhneacha, e.g., `an Bhóinn, an Danóib, an Life, an Phó, an Réin, an Róin, an tSéin, an tSionainn, an Tibir`.",
+        "en": "Most rivers e.g. `an Bhóinn, an Danóib, an Life, an Phó, an Réin, an Róin, an tSéin, an tSionainn, an Tibir`."
+    },
+    "1.1.5.h.sample.1": {
+        "ga": "Rinne mé ``an Mhucais`` a shiúl inné.",
+        "en": "I did ``the Muckish`` walk yesterday."
+    },
+    "1.1.5.h.sample.2": {
+        "ga": "Ar bhuaig ``an Spidéal`` an cluiche?",
+        "en": "Did ``Spiddal`` win the game?"
+    },
+    "1.1.5.h.sample.3": {
+        "ga": "Bhí ``an tSionainn`` le feiceáil ón eitleán.",
+        "en": "``Shannon`` can be seen from the Airplane "
     }
 }

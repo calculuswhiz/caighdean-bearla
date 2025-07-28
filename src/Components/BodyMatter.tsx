@@ -80,7 +80,9 @@ export function Subsection(props: {
 }) {
     return <>
         <h3 className="text-lg">{props.heading}</h3>
-        {props.children}
+        <div className="border-l-3 border-gray-300">
+            {props.children}
+        </div>
     </>;
 }
 
@@ -88,8 +90,8 @@ export function Paragraph(props: {
     content: Translation;
 }) {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
-    return <div className="border-y-1 border-gray-300 py-1 flex flex-row">
-        <p className="pl-2">{
+    return <div className="border-y-1 border-gray-100 py-1 flex flex-row">
+        <p className="pl-2 grow-1">{
             translateTextMarkup(props.content, langSelect)
         }</p>
         <LanguageSelector
