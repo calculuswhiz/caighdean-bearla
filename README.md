@@ -31,7 +31,7 @@ The translations will be stored in JSON format, divided by chapter. Here is the 
 | Chapter Title | `ChapterXTitle` |
 | Chapter Sections | `[Chapter].[Section]` | 
 | Chapter Subsections | `[Chapter].[Section].[Subsection]` |
-| Elements under sections | `[...Parent Path].[Element name]` |
+| Elements under sections | `[...Parent Path].[Element name][Element index]` |
 
 The webpage will retrieve the data, then de-reference the corresponding id. If the translation does not exist, it will show up on the page as a TODO item.
 

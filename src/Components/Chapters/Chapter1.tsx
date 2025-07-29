@@ -26,7 +26,7 @@ export default function Chapter1() {
                     </Subsection>,
                     <Subsection key="1.1.5" heading="1.1.5">
                         <Paragraph content={chapter1Text["1.1.5"]} />
-                        <ol className="list-[lower-alpha] list-inside p-2">
+                        <ol className="list-[lower-alpha] list-inside pl-2">
                             <ListItem>
                                 <Paragraph content={chapter1Text["1.1.5.a"]} />
                                 <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter1Text[`1.1.5.a.sample${x}`])} />
@@ -63,7 +63,7 @@ export default function Chapter1() {
                             </ListItem>
                             <ListItem>
                                 <Paragraph content={chapter1Text["1.1.5.h.p1"]} />
-                                <ol className="list-[lower-roman] list-inside p-2">
+                                <ol className="list-[lower-roman] list-inside pl-2">
                                     <ListItem>
                                         <Paragraph content={chapter1Text["1.1.5.h.i"]} />
                                     </ListItem>
@@ -117,6 +117,29 @@ export default function Chapter1() {
                                         <SampleBox samples={([1, 2] as const).map(x => chapter1Text[`1.1.5.i.C.sample${x}`])} />
                                     </ListItem>
                                 </ol>
+                            </ListItem>
+                            <ListItem>
+                                <Paragraph content={chapter1Text["1.1.5.j.p"]} />
+                                <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.j.sample${x}`])} />
+                            </ListItem>
+                            <ListItem>
+                                <Paragraph content={chapter1Text["1.1.5.k.p1"]} />
+                                <Paragraph content={chapter1Text["1.1.5.k.p2"]} />
+                                <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.k.sample${x}`])} />
+                            </ListItem>
+                            <ListItem>
+                                <Paragraph content={chapter1Text["1.1.5.l.p1"]} />
+                                <SampleBox samples={([1, 2, 3, 4, 5, 6, 7] as const).map(x => chapter1Text[`1.1.5.l.sample${x}`])} />
+                                <Paragraph content={chapter1Text["1.1.5.l.p2"]} />
+                            </ListItem>
+                            <ListItem>
+                                <Paragraph content={chapter1Text["1.1.5.m.p"]} />
+                                <SampleBox samples={([1, 2] as const).map(x => chapter1Text[`1.1.5.m.sample${x}`])} />
+                            </ListItem>
+                            <ListItem>
+                                <Paragraph content={chapter1Text["1.1.5.n.p1"]} />
+                                <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.n.sample${x}`])} />
+                                <Paragraph content={chapter1Text["1.1.5.n.p2"]} />
                             </ListItem>
                         </ol>
                     </Subsection>,

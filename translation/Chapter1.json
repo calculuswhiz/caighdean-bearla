@@ -278,5 +278,109 @@
     "1.1.5.i.C.sample2": {
         "ga": "Rinneadh an scannán a thaifeadadh ``sna Garbhchríocha``.",
         "en": "The film was recorded in ``the Highlands``."
+    },
+    "1.1.5.j.p": {
+        "ga": "``Paidreacha agus roisc chatha áirithe``, e.g., `an Choróin Mhuire, an Ghlóir, an Dord Fiann`.",
+        "en": "``Prayers and certain battle cries``, e.g. `an Choróin Mhuire, an Ghlóir, an Dord Fiann`."
+    },
+    "1.1.5.j.sample1": {
+        "ga": "Dúradh ``an Ghlóir`` i lár an Aifrinn.",
+        "en": "``Glory`` was said in the middle of Hell."
+    },
+    "1.1.5.j.sample2": {
+        "ga": "Ní minic a chloistear ``an Dord Fiann``.",
+        "en": "``The Dord Fiann`` is not often heard."
+    },
+    "1.1.5.j.sample3": {
+        "ga": "Dúirt sé ``an Choróin Mhuire`` os ard.",
+        "en": "He said ``the rosary`` loudly."
+    },
+    "1.1.5.k.p1": {
+        "ga": "``Úsáid dháileach``",
+        "en": "``Distributive use``"
+    },
+    "1.1.5.k.p2": {
+        "ga": "Úsáidtear an t-alt chun ráta a chur in iúl nuair a bhíonn an bhrí `gach ceann ar leithligh` nó `in aghaidh` i gceist.",
+        "en": "The article is used to express rate when either `every individual separately` or `in opposition` is in question."
+    },
+    "1.1.5.k.sample1": {
+        "ga": "Dhíol sé na leabhair ar euro ``an ceann``.",
+        "en": "He sells the books for a euro ``each``."
+    },
+    "1.1.5.k.sample2": {
+        "ga": "Eagraítear comóradh uair ``sa bhliain``.",
+        "en": "An anniversary is organised once ``per year``."
+    },
+    "1.1.5.k.sample3": {
+        "ga": "Bhí mála ``an duine`` ag na páistí scoile.",
+        "en": "``Every`` schoolchild had a bag."
+    },
+    "1.1.5.l.p1": {
+        "ga": "``Brí theibí nó brí choincheapúil a bheith leis an ainmfhocal``",
+        "en": "``The noun has an abstract or conceptual meaning``"
+    },
+    "1.1.5.l.sample1": {
+        "ga": "Nuair a bhíonn ``an t-ól`` istigh, bíonn ``an chiall`` amuigh.",
+        "en": "When ``the drink`` is in, ``sense`` is out."
+    },
+    "1.1.5.l.sample2": {
+        "ga": "Ní maith í an fhearg.",
+        "en": "``Anger`` is not good."
+    },
+    "1.1.5.l.sample3": {
+        "ga": "Tugadh isteach ``an colscaradh`` in Éirinn roinnt blianta ó shin.",
+        "en": "``Divorce`` was introduced in Ireland some years ago."
+    },
+    "1.1.5.l.sample4": {
+        "ga": "Is rud nua í ``an taiscéalaíocht`` sa spás.",
+        "en": "Space ``exploration`` is a new thing."
+    },
+    "1.1.5.l.sample5": {
+        "ga": "Ní féidir taisteal ``san am``.",
+        "en": "It is not possible to travel through ``time``."
+    },
+    "1.1.5.l.sample6": {
+        "ga": "Inseoidh ``an aimsir``.",
+        "en": "``The weather`` will tell."
+    },
+    "1.1.5.l.sample7": {
+        "ga": "Is maith ``an t-anlann`` ``an t-ocras``.",
+        "en": "``Hunger`` is the best ``sauce``."
+    },
+    "1.1.5.l.p2": {
+        "ga": "Tabhair faoi deara nach nós an t-alt a úsáid i nathanna áirithe, e.g., `Tá ciall cheannaithe aige;` ná nuair nach bhfuil brí ghinearálta leis an ainmfhocal, e.g., `Bhí ocras orm; Tá siad i ngrá`.",
+        "en": "Note that the article is not used in some situations e.g. `Tá ciall cheannaith aige;` or when the noun does not have a general meaning e.g. `Bhí ocras orm; Tá siad i ngrá`."
+    },
+    "1.1.5.m.p": {
+        "ga": "``Tinnis áirithe``, e.g., `an ailse, an déideadh, an titimeas, an bhruitíneach`.",
+        "en": "``Certain Illnesses``, e.g., `an ailse, an déideadh, an titimeas, an bhruitíneach`."
+    },
+    "1.1.5.m.sample1": {
+        "ga": "Bhí ``an bhruitíneach`` fairsing in Éirinn go dtí na 1960idí.",
+        "en": "``Measles`` was widespread in Ireland until the 1960s."
+    },
+    "1.1.5.m.sample2": {
+        "ga": "An bhfuil leigheas ``ar an titimeas``?",
+        "en": "Is there a cure for ``epilepsy``?"
+    },
+    "1.1.5.n.p1": {
+        "ga": "``Teangacha``, e.g., `an Ghaeilge, an Ghearmáinis, an Béarla`.",
+        "en": "``Languages``, e.g., `an Ghaeilge, an Ghearmáinis, an Béarla`."
+    },
+    "1.1.5.n.sample1": {
+        "ga": "Is í ``an Ghaeilge`` teanga ár sinsear.",
+        "en": "``Irish`` is the language of our ancestors."
+    },
+    "1.1.5.n.sample2": {
+        "ga": "Labhraítear ``an Ghearmáinis`` san Ostair.",
+        "en": "``German`` is spoken in Austria."
+    },
+    "1.1.5.n.sample3": {
+        "ga": "Bhí ``an Béarla`` go maith aici.",
+        "en": "She had good ``English``."
+    },
+    "1.1.5.n.p2": {
+        "ga": "Tabhair faoi deara go ligtear an t-alt ar lár mura bhfuil an bhrí forleathan, e.g., `Tá Fraincis aici; Cuir i nGaeilge é; rang Iodáilise`.",
+        "en": "Note that the article should be omitted if the general case, e.g. `Tá Fraincis aici; Cuir i nGaeilge é; rang Iodáilise`."
     }
 }
