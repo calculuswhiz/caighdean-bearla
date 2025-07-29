@@ -19,8 +19,8 @@ export default function SampleBox(props: {
                 </tr>
             </thead>
             <tbody>{
-                props.samples.map(s =>
-                    <tr>
+                props.samples.map((s, i) =>
+                    <tr key={i}>
                         <td className="p-1 border-1 border-black">{applyBasicMarkup(s.ga)}</td>
                         <td className="p-1 border-1 border-black">{
                             s.en == null || s.en === ""

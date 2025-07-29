@@ -100,3 +100,12 @@ export function Paragraph(props: {
             position="right" />
     </div>;
 }
+
+/** Standard styled `li` element */
+export function ListItem(props: {
+    children?: React.ReactNode
+}) {
+    return <li className="border-l-3 border-gray-300 pl-2 mb-2 hover:border-orange-300">
+        {props.children}
+    </li>;
+}

@@ -31,19 +31,19 @@
         "ga": "``Teidil oifige``, e.g., `an tAire Airgeadais, an Príomh-Oifigeach Feidhmiúcháin, an Taoiseach, Ard-Rúnaí na Náisiún Aontaithe`.",
         "en": "``Official Titles`` e.g. `an tAire Airgeadais, an Príomh-Oifigeach Feidhmiúcháin, an Taoiseach, Ard-Rúnaí na Náisiún Aontaithe`."
     },
-    "1.1.5.a.sample.1": {
+    "1.1.5.a.sample1": {
         "ga": "Beidh ``an tAire Airgeadais`` ag freastal ar an gcruinniú.",
         "en": "The ``Minister for Finance`` will attend the meeting."
     },
-    "1.1.5.a.sample.2": {
+    "1.1.5.a.sample2": {
         "ga": "Cá bhfuil ``an Príomh-Oifigeach Feidhmiúcháin``?",
         "en": "Where is ``the Chief Executive Officer``? "
     },
-    "1.1.5.a.sample.3": {
+    "1.1.5.a.sample3": {
         "ga": "Tá ``an Taoiseach`` ag labhairt leis na daltaí.",
         "en": "``The Taoiseach`` is speaking with the students. "
     },
-    "1.1.5.a.sample.4": {
+    "1.1.5.a.sample4": {
         "ga": "An é sin ``Ard-Rúnaí na Náisiún Aontaithe``?",
         "en": "Is that ``the Secretary General of the United Nations``? "
     },
@@ -51,19 +51,19 @@
         "ga": "``Teidil ranna rialtais agus comhlachtaí stáit``, e.g., `an Roinn Oideachais agus Scileanna, an Oifig um Rialú Tobac, Feidhmeannacht na Seirbhíse Sláinte, an Phríomh-Oifig Staidrimh`.",
         "en": "``Titles of Govornment Departments and State Companies`` e.g. `an Roinn Oideachais agus Scileanna, an Oifig um Rialú Tobac, Feidhmeannacht na Seirbhíse Sláinte, an Phríomh-Oifig Staidrimh`."
     },
-    "1.1.5.b.sample.1": {
+    "1.1.5.b.sample1": {
         "ga": "Is san fhoirgneamh sin thall atá ``an Roinn Oideachais agus Scileanna``.",
         "en": "This building is opposite ``the Department of Education and Skills``."
     },
-    "1.1.5.b.sample.2": {
+    "1.1.5.b.sample2": {
         "ga": "Chuaigh Seán go dtí ``an Oifig um Rialú Tobac``.",
         "en": "Sean went to ``the Office of Tobacco Control``."
     },
-    "1.1.5.b.sample.3": {
+    "1.1.5.b.sample3": {
         "ga": "Tá ``Feidhmeannacht na Seirbhíse`` Sláinte an-ghnóthach.",
         "en": "``The Health Service Executive`` is very busy."
     },
-    "1.1.5.b.sample.4": {
+    "1.1.5.b.sample4": {
         "ga": "Seo ``an Phríomh-Oifig Staidrimh``.",
         "en": "This is ``the Central Statistics Office``."
     },
@@ -71,67 +71,67 @@
         "ga": "``Teideal duine roimh ainm dílis``, e.g., `an tAthair Peadar Ua Laoghaire, an Captaen Ó Murchú, an tUachtarán Mhic Róibín, an Teachta de Barra, an Múinteoir Ailbhe, an Pápa Eoin Pól II, an Rí Anraí VIII`.",
         "en": "``Titles of people before a proper noun``, , e.g., `an tAthair Peadar Ua Laoghaire, an Captaen Ó Murchú, an tUachtarán Mhic Róibín, an Teachta de Barra, an Múinteoir Ailbhe, an Pápa Eoin Pól II, an Rí Anraí VIII`."
     },
-    "1.1.5.c.sample.1": {
+    "1.1.5.c.sample1": {
         "ga": "Ba é ``an tAthair Peadar Ua Laoghaire`` a scríobh an dráma `An Sprid`.",
         "en": "``Father Peadar Ua Laoghaire`` wrote the play `An Sprid`."
     },
-    "1.1.5.c.sample.2": {
+    "1.1.5.c.sample2": {
         "ga": "Labhair ``an Captaen Ó Murchú`` leis na himreoirí.",
         "en": "``Captain Ó Murchu`` spoke to the players. "
     },
-    "1.1.5.c.sample.3": {
+    "1.1.5.c.sample3": {
         "ga": "Bhí ``an tUachtarán Mhic Róibín`` le feiceáil sa ghrianghraf.",
         "en": "``President Robinson`` was to be seen in the photograph. "
     },
-    "1.1.5.c.sample.4": {
+    "1.1.5.c.sample4": {
         "ga": "Beidh ``an Dochtúir de Barra`` ar saoire ar feadh seachtaine.",
         "en": "``Doctor De Barra`` will be on holiday for the week. "
     },
-    "1.1.5.c.sample.5": {
+    "1.1.5.c.sample5": {
         "ga": "Tá ``an Múinteoir Ailbhe`` i bhfeighil ar rang a sé i mbliana.",
         "en": "``Teacher Ailbhe`` is in charge of sixth class this year."
     },
-    "1.1.5.c.sample.6": {
+    "1.1.5.c.sample6": {
         "ga": "Is í ``an Bhanríon Elsa a Dó`` atá sa scannán.",
         "en": "It is ``Queen Elsa II`` in the film."
     },
-    "1.1.5.d.p.1": {
+    "1.1.5.d.p1": {
         "ga": "``Féilte``, e.g., `an Nollaig, an Cháisc, an Carghas`.",
         "en": "``Festivals``, e.g. `an Nollaig, an Cháisc, an Carghas`."
     },
-    "1.1.5.d.sample.1": {
+    "1.1.5.d.sample1": {
         "ga": "Tá ``an Nollaig`` ag teannadh linn.",
         "en": "``Christmas`` is approaching us."
     },
-    "1.1.5.d.sample.2": {
+    "1.1.5.d.sample2": {
         "ga": "Is i mí an Mhárta a bheid ``an Cháisc`` i mbliana.",
         "en": "``Easter`` will be in March this year."
     },
-    "1.1.5.d.sample.3": {
+    "1.1.5.d.sample3": {
         "ga": "Rinne mé ``an Carghas`` ar an ól.",
         "en": "I gave up drinking for ``Lent``. "
     },
-    "1.1.5.d.p.2": {
+    "1.1.5.d.p2": {
         "ga": "Tabhair faoi deara nach n-úsáidtear an t-alt i leaganacha dobhriathartha áirithe, e.g., `faoi Cháisc, um Nollaig, faoi Bhealtaine`.",
         "en": "Note that the article is not used in certain adverbial situations e.g. `faoi Cháisc, um Nollaig, faoi Bhealtaine`."
     },
-    "1.1.5.e.p.1": {
+    "1.1.5.e.p1": {
         "ga": "``Laethanta na seachtaine``, e.g., `an Luan, an Mháirt, an Chéadaoin`.",
         "en": "``Days of the week``, e.g., `an Luan, an Mháirt, an Chéadaoin`."
     },
-    "1.1.5.e.sample.1": {
+    "1.1.5.e.sample1": {
         "ga": "Is é ``an Luan`` an lá is ansa liom.",
         "en": "``Monday`` is my favourite day."
     },
-    "1.1.5.e.sample.2": {
+    "1.1.5.e.sample2": {
         "ga": "Téim ag snámh ar ``an Máirt``.",
         "en": "I go swimming ``on Tuesdays``."
     },
-    "1.1.5.e.sample.3": {
+    "1.1.5.e.sample3": {
         "ga": "Inniu ``an Chéadaoin``.",
         "en": "Today ``is a Wednesday``."
     },
-    "1.1.5.e.p.2": {
+    "1.1.5.e.p2": {
         "ga": "Tabhair faoi deara go n-úsáidtear an dobhriathar ama `Dé` in ionad an ailt nuair atáthar ag tagairt do lá áirithe, e.g., `Bhí mé ag caint leis Dé Céadaoin seo caite`.",
         "en": "Note that the adverb `Dé` is used in place of the article when referring to a particular day e.g. `Bhí mé ag caint leis Dé Céadaoin seo caite`."
     },
@@ -139,55 +139,55 @@
         "ga": "Má tá réamhfhocal á úsáid roimh lá áirithe, déantar an t-alt a chumasc leis an réamhfhocal, e.g., `Ní mór na hiarratais a bheith faighte faoin Aoine, an 16 Bealtaine`.",
         "en": "If a preposition is used before certain days, the article is merged with the preposition e.g. `Ní mór na hiarratais a bheith faighte foin Aoine, an 16 Bealtaine`."
     },
-    "1.1.5.f.p.1": {
+    "1.1.5.f.p1": {
         "ga": "``Míonna na bliana``",
         "en": "``Months and years``"
     },
-    "1.1.5.f.p.2": {
+    "1.1.5.f.p2": {
         "ga": "Úsáidtear an t-alt leis na míonna `Márta`, `Bealtaine`, `Meitheamh`, `Samhain` agus `Nollaig`. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha `san Aibreán`.",
         "en": "The article is used for the months `Márta` (March), `Bealtaine` (May), `Meitheamh` (June), `Samhain` (November) agus `Nollaig` (December). The article is not used for the other months except for the static form `san Aibreán` (in April)."
     },
-    "1.1.5.f.sample.1": {
+    "1.1.5.f.sample1": {
         "ga": "Is minic a bhíonn mí ``Eanáir`` níos fuaire ná mí ``na Nollag``.",
         "en": "Often ``January`` is colder than ``December``."
     },
-    "1.1.5.f.sample.2": {
+    "1.1.5.f.sample2": {
         "ga": "Tá an Cháisc i mí ``an Mhárta`` seachas ``mí Aibreáin`` i mbliana.",
         "en": "Easter is in ``March`` rather than ``April`` this year."
     },
-    "1.1.5.g.p.1": {
+    "1.1.5.g.p1": {
         "ga": "``Dátaí``",
         "en": "``Dates``"
     },
-    "1.1.5.g.p.2": {
+    "1.1.5.g.p2": {
         "ga": "Is cóir an t-alt a úsáid nuair a dhéantar tagairt do dhátaí in abairt.",
         "en": "The article should be used when referring to a date in a sentence."
     },
-    "1.1.5.g.sample.1": {
+    "1.1.5.g.sample1": {
         "ga": "Ba chóir é a dhéanamh tráth nach déanaí ná ``an 30 Meán Fómhair`` gach bliain.",
         "en": "I should be done no later than ``30 September`` every year."
     },
-    "1.1.5.g.sample.2": {
+    "1.1.5.g.sample2": {
         "ga": "Beidh an chóisir ar síúl ar ``an 12 Aibreán``.",
         "en": "The party will be on ``the 12th of April``."
     },
-    "1.1.5.g.sample.3": {
+    "1.1.5.g.sample3": {
         "ga": "Baineann na ráitis airgeadais leis an mbliain dar chríoch ``an 31 Nollaig 2014``.",
         "en": "The financial reports are for the year ended ``31 December 2014``."
     },
-    "1.1.5.g.sample.4": {
+    "1.1.5.g.sample4": {
         "ga": "Pósfaidh siad ``an 26 Feabhra``.",
         "en": "They will marry on ``the 26th of February``."
     },
-    "1.1.5.g.sample.5": {
+    "1.1.5.g.sample5": {
         "ga": "Ní ghlacfar le haon iarratas a gheofar tar éis ``an 7 Márta 2016``.",
         "en": "No applications will be accepted after ``7 March 2016``."
     },
-    "1.1.5.g.p.3": {
+    "1.1.5.g.p3": {
         "ga": "Nuair atá an dáta leis féin — ar bharr litreach, nó mar dháta le sonrasc nó le hAcht, etc.— fágtar an t-alt ar lár, e.g., `26 Feabhra 2014`.",
         "en": "When the date is by itself — in a letterhead, or as in the date on an invoice or Act etc. — omit the article e.g. `26 Feabhra 2014`."
     },
-    "1.1.5.h.p.1": {
+    "1.1.5.h.p1": {
         "ga": "``Ainmneacha bailte, sléibhte agus aibhneacha``",
         "en": "``Names of towns, mountains and rivers``"
     },
@@ -203,16 +203,80 @@
         "ga": "Formhór na n-aibhneacha, e.g., `an Bhóinn, an Danóib, an Life, an Phó, an Réin, an Róin, an tSéin, an tSionainn, an Tibir`.",
         "en": "Most rivers e.g. `an Bhóinn, an Danóib, an Life, an Phó, an Réin, an Róin, an tSéin, an tSionainn, an Tibir`."
     },
-    "1.1.5.h.sample.1": {
+    "1.1.5.h.sample1": {
         "ga": "Rinne mé ``an Mhucais`` a shiúl inné.",
         "en": "I did ``the Muckish`` walk yesterday."
     },
-    "1.1.5.h.sample.2": {
+    "1.1.5.h.sample2": {
         "ga": "Ar bhuaig ``an Spidéal`` an cluiche?",
         "en": "Did ``Spiddal`` win the game?"
     },
-    "1.1.5.h.sample.3": {
+    "1.1.5.h.sample3": {
         "ga": "Bhí ``an tSionainn`` le feiceáil ón eitleán.",
         "en": "``Shannon`` can be seen from the Airplane "
+    },
+    "1.1.5.i.p1": {
+        "ga": "``Ainmneacha tíortha agus réigiún``",
+        "en": "``Names of countries and regions``"
+    },
+    "1.1.5.i.A.p1": {
+        "ga": "Gabhann an t-alt le hainmneacha tíortha agus réigiún más rud é go bhfuil an t-ainmfhocal baininscneach agus:",
+        "en": "The article accompanies the names of countries and regions if the noun is feminine and:"
+    },
+    "1.1.5.i.A.i": {
+        "ga": "má chríochnaíonn sé ar chonsan caol, e.g., `an Airgintín, an Albáin, an Bhaváir, an Chatalóin, an Eastóin, an Eoraip, an Fhrainc, an Ghearmáin, an Mhacadóin, an Namaib, an Phacastáin, an tSeineagáil, an Spáinn, an tSúdáin;`",
+        "en": "if it ends with a slender consonant e.g. `an Airgintín, an Albáin, an Bhaváir, an Chatalóin, an Eastóin, an Eoraip, an Fhrainc, an Ghearmáin, an Mhacadóin, an Namaib, an Phacastáin, an tSeineagáil, an Spáinn, an tSúdáin;`"
+    },
+    "1.1.5.i.A.ii": {
+        "ga": "má chríochnaíonn sé ar `-ia`, e.g., `an India, an Laitvia, an tSiria;`",
+        "en": "if it ends with `-ia` e.g. `an India, an Laitvia, an tSiria;`"
+    },
+    "1.1.5.i.A.iii": {
+        "ga": "má chríochnaíonn sé ar `-e`, `-é`, e.g., `an Chóiré, an Chrimé, an Ghuine, an tSile`.",
+        "en": "if it ends with `-e`, `-é` e.g. `an Chóiré, an Chrimé, an Ghuine, an tSile`."
+    },
+    "1.1.5.i.A.p2": {
+        "ga": "Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., `Bairéin, Beinin, Cuáit, Éimin, Guadalúip, Lichtinstéin, Mósaimbíc`, nó atá san uimhir uatha agus a chríochnaíonn ar `-í` agus nach ngabhann an t-alt leo, e.g., `Geansaí, Geirsí, Háítí, Haváí, Mailí, Taihítí`. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás `Albain, Éire` (féach 3.1.4).",
+        "en": "Some names of countries and regions end with a slender consonant but are not accompanied by the article e.g. `Bairéin, Beinin, Cuáit, Éimin, Guadalúip, Lichtinstéin, Mósaimbíc`, or end with `-í` in the singular case but are not accompanied by the article e.g.` Geansaí, Geirsí, Háití, Haváí, Mailí, Taihítí`. The article is not used except for the genitive in the case of `Albain, Éire` (see 3.1.4)."
+    },
+    "1.1.5.i.A.sample1": {
+        "ga": "Is tír álainn í ``an Fhrainc``.",
+        "en": "``France`` is a beautiful country."
+    },
+    "1.1.5.i.A.sample2": {
+        "ga": "Luaitear ``Mósaimbíc`` sa leabhar.",
+        "en": "``Mozambique`` is mentioned in the book."
+    },
+    "1.1.5.i.B.p": {
+        "ga": "Ní ghabhann an t-alt le hainmneacha tíortha agus réigiún más rud é go bhfuil an t-ainmfhocal firinscneach agus:",
+        "en": "The article does not accompany the names of countries and regions if it is the case that the noun is masculine and:"
+    },
+    "1.1.5.i.B.i": {
+        "ga": "má chríochnaíonn sé ar chonsan leathan, e.g., `Barbadós, Eacuadór, Guam, Hondúras, Natal, Óman, Sead, Siam, Suranam;`",
+        "en": "if it ends with a broad consonant e.g. `Barbadíd, Eacuadór, Guam, Hondúras, Natal, Óman, Sead, Siam, Suranam;`"
+    },
+    "1.1.5.i.B.ii": {
+        "ga": "má chríochnaíonn sé ar `-eo`, `-ó`, e.g., `Boirneo, Maracó, Meicsiceo, Monacó, Samó` (eisceacht: `an Congó`);",
+        "en": "if it ends with `-eo`, `-ó`, e.g. `Boirneo, Maracó, Meicsiceo, Monacó, Samó` (exception: `an Congó`)`;`"
+    },
+    "1.1.5.i.B.iii": {
+        "ga": "má chríochnaíonn sé ar `-a`, `-á`, `-iú`, `-ua`, e.g., `Alasca, Ceanada, Cúba, Gána, Meiriceá, Nicearagua, Panama, Papua, Paragua, Peiriú, Sasana`;",
+        "en": "if it ends with `-a`, `-á`, `-iú`, `-ua`, e.g., `Alasca, Ceanada, Cúba, Gána, Meiriceá, Nicearagua, Panama, Papua, Paragua, Peiriú, Sasana`;"
+    },
+    "1.1.5.i.B.iv": {
+        "ga": "má chríochnaíonn sé ar `-ael`, e.g., `Iosrael`.",
+        "en": "if it ends with `-ael` e.g. `Iosrael`."
+    },
+    "1.1.5.i.C.p": {
+        "ga": "Gabhann an t-alt le hainmneacha tíortha agus réigiún is ainmfhocail san uimhir iolra, e.g., `na hAsóir, na Bahámaí, na Garbhchríocha, na Scigirí`.",
+        "en": "The article accompanies the names of countries and regions that are nouns in the plural case e.g. `na hAsóir, na Bahámaí, na Garbhchríocha, na Scigirí`."
+    },
+    "1.1.5.i.C.sample1": {
+        "ga": "I Muir Chairib atá ``na Bahámaí``.",
+        "en": "``The Bahamas`` are in the Caribbean."
+    },
+    "1.1.5.i.C.sample2": {
+        "ga": "Rinneadh an scannán a thaifeadadh ``sna Garbhchríocha``.",
+        "en": "The film was recorded in ``the Highlands``."
     }
 }
