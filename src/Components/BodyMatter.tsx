@@ -26,7 +26,7 @@ export function Chapter(props: {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
     return <article className="pl-1">
         <h1 id={`chapter-${props.number}`} className="mb-2 text-2xl font-bold border-b-1 border-black">
-            Chapter {props.number} | {translateText(props.title, langSelect)}
+            {langSelect === 'en' ? "CHAPTER" : "CAIBIDIL"} {props.number} | {translateText(props.title, langSelect)}
             <LanguageSelector
                 selection={langSelect}
                 onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
@@ -41,12 +41,21 @@ export function Chapter(props: {
  * be its own case unless we find a better way to handle it.
  */
 export function SectionGroupHeader(props: {
-    title: string;
-    content: string;
+    title: Translation;
+    content: Translation;
 }) {
+    const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
     return <>
-        <h2 className="text-xl mb-2">{props.title}</h2>
-        <p>{props.content}</p>
+        <h2 className="text-xl mb-2 border-b-1 border-black">
+            {translateText(props.title, langSelect)}
+            <LanguageSelector
+                selection={langSelect}
+                onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
+                position="right" />
+        </h2>
+        <p className="pl-2 mb-10 pb-10 border-b-3 border-gray-500">
+            {translateText(props.content, langSelect)}
+        </p>
     </>;
 }
 
@@ -55,7 +64,7 @@ export function ChapterSection(props: {
     title: Translation;
     /** E.g. 1.1 */
     sectionId: string;
-    subsections: React.ReactElement<Parameters<typeof Subsection>>[];
+    children?: React.ReactNode;
 }) {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
 
@@ -67,8 +76,8 @@ export function ChapterSection(props: {
                 onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
                 position="right" />
         </h2>
-        <section className="pl-2">
-            {props.subsections}
+        <section className="pl-2 mb-10 pb-10 border-b-3 border-gray-500">
+            {props.children}
         </section>
     </>;
 }
@@ -108,4 +117,17 @@ export function ListItem(props: {
     return <li className="border-l-3 border-gray-300 pl-2 mb-2 hover:border-orange-300">
         {props.children}
     </li>;
+}
+
+/** Caption-esque element. Reason it's not an actual caption is that the doc treats multiple tables as 1 table sometimes. */
+export function TableKey(props: {
+    language: LanguageSelection;
+    /** e.g. 1A */
+    tableId: string;
+    label: string;
+}) {
+    return <div>
+        <span className="font-bold mr-3">{props.language === 'en' ? "Table" : "Tábhla"} {props.tableId}</span>
+        <span>{props.label}</span>
+    </div>;
 }

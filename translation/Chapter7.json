@@ -1,0 +1,46 @@
+{
+    "Chapter7Title": {
+        "ga": "AN CHOPAIL",
+        "en": "THE COPULA"
+    },
+    "7.1": {
+        "ga": "Ginearálta",
+        "en": "General"
+    },
+    "7.1.p1": {
+        "ga": "Úsáidtear an chopail chun dhá fhocal nó dhá abairtín a cheangal le chéile.",
+        "en": "The copula is used to associate two words or phrases together."
+    },
+    "7.1.p2": {
+        "ga": "Is ionann an leagan den chopail a úsáidtear san aimsir láithreach agus an leagan a úsáidtear san aimsir fháistineach. Ina theannta sin, is ionann an leagan den chopail a úsáidtear san aimsir chaite agus an leagan a úsáidtear san aimsir ghnáthchaite agus sa mhodh coinníollach. Tabhair faoi deara, más san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach atá faisnéis na habairte, nach gá go mbeadh aimsir na copaile agus aimsir fhaisnéis na habairte ag aontú le chéile. Féach 7.2 le haghaidh fhoirmeacha simplí na copaile.",
+        "en": "The layout of the copula used in the present tense is the same as that used in the future tense. Moreover, the layout of the copula, when used in the past tense, the past habitual, and the conditional mood, is the same. Bear in mind, if the predicate of the sentence is in the past tense, the present tense, or  the conditional mood, the tense of the copula and the tense of the predicate would not necessarily agree with each other. See 7.2 for simple forms of the copula. ``[This paragraph needs to be rephrased to make it clearer. -dcw]``"
+    },
+    "7.1.1.p1": {
+        "ga": "``Feidhmeanna na Copaile``",
+        "en": "``Functions of the Copula``"
+    },
+    "7.1.1.p2": {
+        "ga": "Is iad príomhfheidhmeanna na copaile—",
+        "en": "The primary functions of the copula are—"
+    },
+    "7.1.1.a": {
+        "ga": "an t-ainmní a aicmiú:",
+        "en": "classification of the subject:"
+    },
+    "7.1.1.a.sample1": {
+        "ga": "``Is`` sáraisteoir í.",
+        "en": "She is an excellent actor."
+    },
+    "7.1.1.a.sample2": {
+        "ga": "``Is``éan é an faoileán.",
+        "en": "The seagull is a bird."
+    },
+    "7.1.1.a.sample3": {
+        "ga": "Strainséirí ``is`` ea iad.",
+        "en": "They are strangers."
+    },
+    "7.1.1.a.sample4": {
+        "ga": "``Is`` fear é.",
+        "en": "He is a man."
+    }
+}
