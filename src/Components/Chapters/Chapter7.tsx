@@ -16,6 +16,38 @@ function Section1() {
                     <Paragraph content={chapter7Text["7.1.1.a"]} />
                     <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter7Text[`7.1.1.a.sample${x}`])} />
                 </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.b"]} />
+                    <SampleBox samples={([1, 2] as const).map(x => chapter7Text[`7.1.1.b.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.c"]} />
+                    <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter7Text[`7.1.1.c.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.d"]} />
+                    <SampleBox samples={([1, 2, 3, 4, 5, 6] as const).map(x => chapter7Text[`7.1.1.d.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.e"]} />
+                    <SampleBox samples={([1, 2] as const).map(x => chapter7Text[`7.1.1.e.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.f"]} />
+                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter7Text[`7.1.1.f.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.g"]} />
+                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter7Text[`7.1.1.g.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.h"]} />
+                    <SampleBox samples={([1, 2, 3, 4, 5, 6, 7, 8] as const).map(x => chapter7Text[`7.1.1.h.sample${x}`])} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={chapter7Text["7.1.1.i"]} />
+                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter7Text[`7.1.1.i.sample${x}`])} />
+                </ListItem>
             </ol>
         </Subsection>
     </ChapterSection>;
