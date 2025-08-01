@@ -14,39 +14,39 @@ function Section1() {
             <ol className="list-[lower-alpha] list-inside pl-2">
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.a"]} />
-                    <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter7Text[`7.1.1.a.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.a.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.b"]} />
-                    <SampleBox samples={([1, 2] as const).map(x => chapter7Text[`7.1.1.b.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.b.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.c"]} />
-                    <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter7Text[`7.1.1.c.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.c.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.d"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5, 6] as const).map(x => chapter7Text[`7.1.1.d.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.d.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.e"]} />
-                    <SampleBox samples={([1, 2] as const).map(x => chapter7Text[`7.1.1.e.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.e.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.f"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter7Text[`7.1.1.f.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.f.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.g"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter7Text[`7.1.1.g.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.g.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.h"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5, 6, 7, 8] as const).map(x => chapter7Text[`7.1.1.h.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.h.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter7Text["7.1.1.i"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter7Text[`7.1.1.i.sample${x}`])} />
+                    <SampleBox samples={chapter7Text[`7.1.1.i.samples`]} />
                 </ListItem>
             </ol>
         </Subsection>
@@ -58,7 +58,7 @@ export default function Chapter7() {
         number={7}
         title={chapter7Text["Chapter7Title"]}
         sections={[
-            <Section1 />
+            <Section1 key={"c7.1"} />
         ]}
     />;
 }

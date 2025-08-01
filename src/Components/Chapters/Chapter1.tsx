@@ -26,36 +26,36 @@ function Section1() {
             <ol className="list-[lower-alpha] list-inside pl-2">
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.a"]} />
-                    <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter1Text[`1.1.5.a.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.a.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.b"]} />
-                    <SampleBox samples={([1, 2, 3, 4] as const).map(x => chapter1Text[`1.1.5.b.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.b.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.c"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5, 6] as const).map(x => chapter1Text[`1.1.5.c.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.c.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.d.p1"]} />
-                    <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.d.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.d.samples`]} />
                     <Paragraph content={chapter1Text["1.1.5.d.p2"]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.e.p1"]} />
-                    <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.e.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.e.samples`]} />
                     <Paragraph content={chapter1Text["1.1.5.e.p2"]} />
                     <Paragraph content={chapter1Text["1.1.5.e.p3"]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.f.p1"]} />
                     <Paragraph content={chapter1Text["1.1.5.f.p2"]} />
-                    <SampleBox samples={([1, 2] as const).map(x => chapter1Text[`1.1.5.f.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.f.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.g.p1"]} />
                     <Paragraph content={chapter1Text["1.1.5.g.p2"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5] as const).map(x => chapter1Text[`1.1.5.g.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.g.samples`]} />
                     <Paragraph content={chapter1Text["1.1.5.g.p3"]} />
                 </ListItem>
                 <ListItem>
@@ -71,7 +71,7 @@ function Section1() {
                             <Paragraph content={chapter1Text["1.1.5.h.iii"]} />
                         </ListItem>
                     </ol>
-                    <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.h.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.h.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.i.p1"]} />
@@ -90,7 +90,7 @@ function Section1() {
                                 </ListItem>
                             </ol>
                             <Paragraph content={chapter1Text["1.1.5.i.A.p2"]} />
-                            <SampleBox samples={([1, 2] as const).map(x => chapter1Text[`1.1.5.i.A.sample${x}`])} />
+                            <SampleBox samples={chapter1Text[`1.1.5.i.A.samples`]} />
                         </ListItem>
                         <ListItem>
                             <Paragraph content={chapter1Text["1.1.5.i.B.p"]} />
@@ -111,31 +111,31 @@ function Section1() {
                         </ListItem>
                         <ListItem>
                             <Paragraph content={chapter1Text["1.1.5.i.C.p"]} />
-                            <SampleBox samples={([1, 2] as const).map(x => chapter1Text[`1.1.5.i.C.sample${x}`])} />
+                            <SampleBox samples={chapter1Text[`1.1.5.i.C.samples`]} />
                         </ListItem>
                     </ol>
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.j.p"]} />
-                    <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.j.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.j.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.k.p1"]} />
                     <Paragraph content={chapter1Text["1.1.5.k.p2"]} />
-                    <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.k.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.k.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.l.p1"]} />
-                    <SampleBox samples={([1, 2, 3, 4, 5, 6, 7] as const).map(x => chapter1Text[`1.1.5.l.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.l.samples`]} />
                     <Paragraph content={chapter1Text["1.1.5.l.p2"]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.m.p"]} />
-                    <SampleBox samples={([1, 2] as const).map(x => chapter1Text[`1.1.5.m.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.m.samples`]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={chapter1Text["1.1.5.n.p1"]} />
-                    <SampleBox samples={([1, 2, 3] as const).map(x => chapter1Text[`1.1.5.n.sample${x}`])} />
+                    <SampleBox samples={chapter1Text[`1.1.5.n.samples`]} />
                     <Paragraph content={chapter1Text["1.1.5.n.p2"]} />
                 </ListItem>
             </ol>

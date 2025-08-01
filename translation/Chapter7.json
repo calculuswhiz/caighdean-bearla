@@ -27,206 +27,224 @@
         "ga": "an t-ainmní a aicmiú:",
         "en": "classification of the subject:"
     },
-    "7.1.1.a.sample1": {
-        "ga": "``Is`` sáraisteoir í.",
-        "en": "She is an excellent actor."
-    },
-    "7.1.1.a.sample2": {
-        "ga": "``Is``éan é an faoileán.",
-        "en": "The seagull is a bird."
-    },
-    "7.1.1.a.sample3": {
-        "ga": "Strainséirí ``is`` ea iad.",
-        "en": "They are strangers."
-    },
-    "7.1.1.a.sample4": {
-        "ga": "``Is`` fear é.",
-        "en": "He is a man."
-    },
+    "7.1.1.a.samples": [
+        [
+            "``Is`` sáraisteoir í.",
+            "She is an excellent actor."
+        ],
+        [
+            "``Is``éan é an faoileán.",
+            "The seagull is a bird."
+        ],
+        [
+            "Strainséirí ``is`` ea iad.",
+            "They are strangers."
+        ],
+        [
+            "``Is`` fear é.",
+            "He is a man."
+        ]
+    ],
     "7.1.1.b": {
         "ga": "an t-ainmní a ionannú:",
         "en": "identification of the subject:"
-    },    
-    "7.1.1.b.sample1": {
-        "ga": "``Ba`` í Úna an bainisteoir.",
-        "en": "Úna was the manager."
     },
-    "7.1.1.b.sample2": {
-        "ga": "``Is`` é Baile Átha Cliath príomhchathair na hÉireann.",
-        "en": "Dublin is the capital of Ireland."
-    },
+    "7.1.1.b.samples": [
+        [
+            "``Ba`` í Úna an bainisteoir.",
+            "Úna was the manager."
+        ],
+        [
+            "``Is`` é Baile Átha Cliath príomhchathair na hÉireann.",
+            "Dublin is the capital of Ireland."
+        ]
+    ],
     "7.1.1.c": {
         "ga": "an t-ainmní a cháiliú le faisnéis aidiachtach nó le frása a thosaíonn ar réamhfhocal:",
         "en": "qualification of the subject with a predicate adjective or with a phrase starting with a preposition:"
     },
-    "7.1.1.c.sample1": {
-        "ga": "``Nach`` deas é?",
-        "en": "Isn't it nice?"
-    },
-    "7.1.1.c.sample2": {
-        "ga": "``Is`` fíor sin.",
-        "en": "That is true."
-    },
-    "7.1.1.c.sample3": {
-        "ga": "``Is`` leor cúig euro.",
-        "en": "Five Euro is enough."
-    },
-    "7.1.1.c.sample4": {
-        "ga": "``Is`` as an Muileann gCearr di.",
-        "en": "She is from Mullingar."
-    },
+    "7.1.1.c.samples": [
+        [
+            "``Nach`` deas é?",
+            "Isn't it nice?"
+        ],
+        [
+            "``Is`` fíor sin.",
+            "That is true."
+        ],
+        [
+            "``Is`` leor cúig euro.",
+            "Five Euro is enough."
+        ],
+        [
+            "``Is`` as an Muileann gCearr di.",
+            "She is from Mullingar."
+        ]
+    ],
     "7.1.1.d": {
         "ga": "ainmfhocal nó clásal a cháiliú le haidiacht, nó le hainmfhocal, móide forainmneach réamhfhoclach:",
         "en": "qualification of a noun or clause, or with a noun plus a prepositional pronoun:"
     },
-    "7.1.1.d.sample1": {
-        "ga": "``Is`` maith léi an chispheil.",
-        "en": "She likes basketball."
-    },
-    "7.1.1.d.sample2": {
-        "ga": "``Ní`` mór dó imeacht.",
-        "en": "He must leave."
-    },
-    "7.1.1.d.sample3": {
-        "ga": "``An`` féidir leis é a dhéanamh?",
-        "en": "Can he do it?"
-    },
-    "7.1.1.d.sample4": {
-        "ga": "``Is`` leor liom an méid sin.",
-        "en": "That is enough for me."
-    },
-    "7.1.1.d.sample5": {
-        "ga": "``An`` cuimhin leat an teach sin?",
-        "en": "Do you remember that house?"
-    },
-    "7.1.1.d.sample6": {
-        "ga": "``Is`` dona linn an briseadh seo.",
-        "en": "We are sorry for this break. (?)"
-    },
+    "7.1.1.d.samples": [
+        [
+            "``Is`` maith léi an chispheil.",
+            "She likes basketball."
+        ],
+        [
+            "``Ní`` mór dó imeacht.",
+            "He must leave."
+        ],
+        [
+            "``An`` féidir leis é a dhéanamh?",
+            "Can he do it?"
+        ],
+        [
+            "``Is`` leor liom an méid sin.",
+            "That is enough for me."
+        ],
+        [
+            "``An`` cuimhin leat an teach sin?",
+            "Do you remember that house?"
+        ],
+        [
+            "``Is`` dona linn an briseadh seo.",
+            "We are sorry for this break. (?)"
+        ]
+    ],
     "7.1.1.e": {
         "ga": "ainmfhocal a cháiliú le breischéim aidiachta:",
         "en": "qualification of a noun with a comparative adjective:"
     },
-    "7.1.1.e.sample1": {
-        "ga": "Tabhair leat an ceann ``is`` fearr leat.",
-        "en": "Take the one you prefer."
-    },
-    "7.1.1.e.sample2": {
-        "ga": "Bhí na milseáin ``ba`` dheise ite sular shroich mé an chóisir.",
-        "en": "The nicest sweets were eaten before I arrived at the party."
-    },
+    "7.1.1.e.samples": [
+        [
+            "Tabhair leat an ceann ``is`` fearr leat.",
+            "Take the one you prefer."
+        ],
+        [
+            "Bhí na milseáin ``ba`` dheise ite sular shroich mé an chóisir.",
+            "The nicest sweets were eaten before I arrived at the party."
+        ]
+    ],
     "7.1.1.f": {
         "ga": "úinéireacht nó gaol idir daoine a chur in iúl trína húsáid leis an réamhfhocal `le`:",
         "en": "expression of ownership or relationship between people using the preposition `le`:"
     },
-    "7.1.1.f.sample1": {
-        "ga": "``Ba`` liomsa é.",
-        "en": "It was mine."
-    },
-    "7.1.1.f.sample2": {
-        "ga": "``Ní`` le Sorcha an ceann sin.",
-        "en": "That one is not Sorcha's."
-    },
-    "7.1.1.f.sample3": {
-        "ga": "Tóg ceann ar bith ``is`` leat.",
-        "en": "Take any one with you. (?)"
-    },
-    "7.1.1.f.sample4": {
-        "ga": "``Is`` iníon le Seán ise.",
-        "en": "She is Seán's daughter."
-    },
-    "7.1.1.f.sample5": {
-        "ga": "``Is`` comhghleacaí le Cáit eisean.",
-        "en": "He is Cáit's colleague."
-    },
+    "7.1.1.f.samples": [
+        [
+            "``Ba`` liomsa é.",
+            "It was mine."
+        ],
+        [
+            "``Ní`` le Sorcha an ceann sin.",
+            "That one is not Sorcha's."
+        ],
+        [
+            "Tóg ceann ar bith ``is`` leat.",
+            "Take any one with you. (?)"
+        ],
+        [
+            "``Is`` iníon le Seán ise.",
+            "She is Seán's daughter."
+        ],
+        [
+            "``Is`` comhghleacaí le Cáit eisean.",
+            "He is Cáit's colleague."
+        ]
+    ],
     "7.1.1.g": {
         "ga": "clásal a cháiliú le haidiacht:",
         "en": "qualification of a clause with an adjective:"
     },
-    "7.1.1.g.sample1": {
-        "ga": "``Is`` gearr go mbeidh a fhios againn.",
-        "en": "Soon we will know."
-    },
-    "7.1.1.g.sample2": {
-        "ga": "``Is`` fada ó bhí sé ann.",
-        "en": "It has been a long time since he was there."
-    },
-    "7.1.1.g.sample3": {
-        "ga": "``Is`` maith is eol duit é.",
-        "en": "You know it well."
-    },
-    "7.1.1.g.sample4": {
-        "ga": "``Is`` iomaí duine a thagann an treo seo.",
-        "en": "Many people come this way."
-    },
-    "7.1.1.g.sample5": {
-        "ga": "``B``'fhada ag teacht é.",
-        "en": "He was a long time coming."
-    },
+    "7.1.1.g.samples": [
+        [
+            "``Is`` gearr go mbeidh a fhios againn.",
+            "Soon we will know."
+        ],
+        [
+            "``Is`` fada ó bhí sé ann.",
+            "It has been a long time since he was there."
+        ],
+        [
+            "``Is`` maith is eol duit é.",
+            "You know it well."
+        ],
+        [
+            "``Is`` iomaí duine a thagann an treo seo.",
+            "Many people come this way."
+        ],
+        [
+            "``B``'fhada ag teacht é.",
+            "He was a long time coming."
+        ]
+    ],
     "7.1.1.h": {
         "ga": "béim a leagan ar chuid den abairt:",
         "en": "emphasizing part of the sentence:"
     },
-    "7.1.1.h.sample1": {
-        "ga": "``Ní`` inniu ná inné a saolaíodh eisean.",
-        "en": "He was not born today or yesterday."
-    },
-    "7.1.1.h.sample2": {
-        "ga": "``Is`` ag ceannach bainne a bhí mé.",
-        "en": "I was buying milk."
-    },
-    "7.1.1.h.sample3": {
-        "ga": "``Is`` chun na Spáinne a chuaigh sí.",
-        "en": "It was to Spain she went."
-    },
-    "7.1.1.h.sample4": {
-        "ga": "``Ní`` hí Muireann a chaill an eochair.",
-        "en": "It was not Muireann that lost the key."
-    },
-    "7.1.1.h.sample5": {
-        "ga": "``Ba`` í Nóra a d'aistrigh é sin.",
-        "en": "Nóra translated that."
-    },
-    "7.1.1.h.sample6": {
-        "ga": "``Is`` aici a bhí an ceart.",
-        "en": "She was right."
-    },
-    "7.1.1.h.sample7": {
-        "ga": "``Níorbh`` é sin an cineál comórtais a bhí ann in 1998.",
-        "en": "That was not the kind of competition that was there in 1998."
-    },
-    "7.1.1.h.sample8": {
-        "ga": "``Is`` inné a tháinig siad.",
-        "en": "Yesterday they came."
-    },
-    "7.1.1.h.sample9": {
-        "ga": "``Is`` é Peadar a dhéanfadh an beart dá mbeadh sé anseo.",
-        "en": "Peadar would make the move if he were here."
-    },
+    "7.1.1.h.samples": [
+        [
+            "``Ní`` inniu ná inné a saolaíodh eisean.",
+            "He was not born today or yesterday."
+        ],
+        [
+            "``Is`` ag ceannach bainne a bhí mé.",
+            "I was buying milk."
+        ],
+        [
+            "``Is`` chun na Spáinne a chuaigh sí.",
+            "It was to Spain she went."
+        ],
+        [
+            "``Ní`` hí Muireann a chaill an eochair.",
+            "It was not Muireann that lost the key."
+        ],
+        [
+            "``Ba`` í Nóra a d'aistrigh é sin.",
+            "Nóra translated that."
+        ],
+        [
+            "``Is`` aici a bhí an ceart.",
+            "She was right."
+        ],
+        [
+            "``Níorbh`` é sin an cineál comórtais a bhí ann in 1998.",
+            "That was not the kind of competition that was there in 1998."
+        ],
+        [
+            "``Is`` inné a tháinig siad.",
+            "Yesterday they came."
+        ],
+        [
+            "``Is`` é Peadar a dhéanfadh an beart dá mbeadh sé anseo.",
+            "Peadar would make the move if he were here."
+        ]
+    ],
     "7.1.1.i": {
         "ga": "í a úsáid in abairtí a chuireann comparáid in iúl:",
         "en": "using it in sentences that express a comparison:"
     },
-    "7.1.1.i.sample1": {
-        "ga": "``Is`` troime bonn dhá phingin ná bonn pingine.",
-        "en": "A twopence is heavier than a penny."
-    },
-    "7.1.1.i.sample2": {
-        "ga": "``Is`` gile an ghrian ná an ghealach agus ná na pláinéid.",
-        "en": "The sun is brighter than either the moon or the planets."
-    },
-    "7.1.1.i.sample3": {
-        "ga": "``Ní`` lia tír ná nós.",
-        "en": "Countries aren't more numerous than customs. (figuratively: so many men, so many minds)"
-    },
-    "7.1.1.i.sample4": {
-        "ga": "``Nach`` treise dúchas ná oiliúint?",
-        "en": "Isn't nature stronger than nurture?"
-    },
-    "7.1.1.i.sample5": {
-        "ga": "``Nárbh`` fhearr gluaisteán ná rothar?",
-        "en": "Would a car not be better than a bicycle?"
-    },
+    "7.1.1.i.samples": [
+        [
+            "``Is`` troime bonn dhá phingin ná bonn pingine.",
+            "A twopence is heavier than a penny."
+        ],
+        [
+            "``Is`` gile an ghrian ná an ghealach agus ná na pláinéid.",
+            "The sun is brighter than either the moon or the planets."
+        ],
+        [
+            "``Ní`` lia tír ná nós.",
+            "Countries aren't more numerous than customs. (figuratively: so many men, so many minds)"
+        ],
+        [
+            "``Nach`` treise dúchas ná oiliúint?",
+            "Isn't nature stronger than nurture?"
+        ],
+        [
+            "``Nárbh`` fhearr gluaisteán ná rothar?",
+            "Wouldn't a car be better than a bicycle?"
+        ]
+    ],
     "7.2": {
         "ga": "Foirmeacha Simplí na Copaile agus Athruithe Tosaigh",
         "en": "Simple Forms of the Copula and Initial Mutations"
