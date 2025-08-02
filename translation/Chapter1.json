@@ -574,6 +574,56 @@
     "title": {
       "ga": "An Tuiseal Tabharthach Uatha",
       "en": "The Singular Present Case"
+    },
+    ".1": {
+      "ga": "Tugtar an tuiseal tabharthach ar an tuiseal a thagann i ndiaidh na réamhfhocal `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` agus `um`. Is de réir mar atá leagtha amach sna táblaí ina dhiaidh seo a phléitear le hainmfhocail ar lorg an ailt sa tuiseal tabharthach uatha.",
+      "en": null
+    },
+    ".2": {
+      "ga": "Is é an tuiseal ainmneach a leanann na focail `ach, amhail, gan, go dtí, idir, mar, murach, ná` agus `seachas` agus an t-alt, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. Úsáidtear an tuiseal tabharthach sa leagan calctha `mar an gcéanna`.",
+      "en": null
+    },
+    ".3": {
+      "ga": "Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: `réamhfhocal` + `ainmfhocal` + `a` + `ainm briathartha`, e.g., `leis an ngnó a dhéanamh; as an árasán a dhíol`.",
+      "en": null
+    },
+    ".4": {
+      "ga": "I gcás na réamhfhocal `de, do, faoi, i` agus `ó`, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.",
+      "en": null
+    },
+    ".5": {
+      "ga": "Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.",
+      "en": null
+    }
+  },
+  "1.4": {
+    "title": {
+        "ga": "An Tuiseal Tabharthach Uatha — An Córas Lárnach",
+        "en": null
+    },
+    ".1": {
+      "text": {
+          "ga": "Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas `d`, `t` agus `s`), cuirtear séimhiú orthu i ndiaidh `den`, `don`, `sa/san` agus urú i ngach cás eile, mar a léirítear sa tábla thíos.",
+          "en": null
+      },
+      "Table1B": {
+        "title": {
+            "ga": "Ainmfhocail dar tús Consan seachas  `d`, `t` agus `s`",
+            "en": null
+        },
+        "col1Name": {
+          "ga": "Firinscneach",
+          "en": "Masculine"
+        },
+        "col2Name": {
+          "ga": "Baininscneach",
+          "en": "Feminine"
+        },
+        "note1": {
+            "ga": "`ACH i gcás` f `roimh ghuta:`",
+            "en": "`BUT where` f `precedes a vowel:`"
+        }
+      }
     }
   }
 }

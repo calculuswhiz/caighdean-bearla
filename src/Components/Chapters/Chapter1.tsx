@@ -13,16 +13,16 @@ function Section1() {
     >
         <Subsection heading="1.1.1">
             <Paragraph content={sectionObject[".1"]} />
-        </Subsection>,
+        </Subsection>
         <Subsection heading="1.1.2">
             <Paragraph content={sectionObject[".2"]} />
-        </Subsection>,
+        </Subsection>
         <Subsection heading="1.1.3">
             <Paragraph content={sectionObject[".3"]} />
-        </Subsection>,
+        </Subsection>
         <Subsection heading="1.1.4">
             <Paragraph content={sectionObject[".4"]} />
-        </Subsection>,
+        </Subsection>
         <Subsection heading="1.1.5">
             <Paragraph content={sectionObject[".5"].text} />
             <ol className="list-[lower-alpha] list-inside pl-2">
@@ -291,7 +291,7 @@ function Table1A() {
                 langSelect={langSelect} />
             <TableKey tableId="1A"
                 language={langSelect}
-                label={joinIfPossible(translateText(chapter1Text["1.2"].Table1A.footnote, langSelect))} />
+                label={joinIfPossible(translateText(chapter1Text["1.2"].title, langSelect))} />
             <div className="text-sm">{
                 translateTextMarkup(chapter1Text["1.2"].Table1A.footnote, langSelect)
             }</div>
@@ -308,11 +308,124 @@ function Section2() {
     </ChapterSection>
 }
 
+function ContractionTable(props: {
+    /** [preposition, result] */
+    entries: [string, string][]
+}) {
+    return <table>
+        <tbody>
+            {
+                props.entries.map(([prepososition, result]) =>
+                    <tr key={result}>
+                        <td className="bg-gray-100 p-2 border-2 border-white">{prepososition} + an</td>
+                        <td className="bg-gray-100 p-2 border-2 border-white">&rarr;</td>
+                        <td className="bg-gray-100 p-2 border-2 border-white">{result}</td>
+                    </tr>)
+            }
+        </tbody>
+    </table>;
+}
+
 function Section3() {
+    const sectionObject = chapter1Text["1.3"];
     return <ChapterSection
         sectionId="1.3"
-        title={chapter1Text["1.3"].title}>
-        Under construction.
+        title={sectionObject.title}>
+        <Subsection heading="1.3.1">
+            <Paragraph content={sectionObject[".1"]} />
+        </Subsection>
+        <Subsection heading="1.3.2">
+            <Paragraph content={sectionObject[".2"]} />
+        </Subsection>
+        <Subsection heading="1.3.3">
+            <Paragraph content={sectionObject[".3"]} />
+        </Subsection>
+        <Subsection heading="1.3.4">
+            <Paragraph content={sectionObject[".4"]} />
+            <ContractionTable entries={[
+                ["de", "den"],
+                ["do", "don"],
+                ["faoi", "faoin"],
+                ["i", "sa, san"],
+                ["ó", "ón"],
+            ]} />
+        </Subsection>
+        <Subsection heading="1.3.5">
+            <Paragraph content={sectionObject[".5"]} />
+            <ContractionTable entries={[
+                ["fara", "fairis an"],
+                ["le", "leis an"],
+                ["trí", "tríd an"],
+            ]} />
+        </Subsection>
+    </ChapterSection>;
+}
+
+function Section4() {
+    const sectionObject = chapter1Text["1.4"];
+
+    const [tableLanguage, setTableLanguage] = React.useState('en' as LanguageSelection);
+
+    return <ChapterSection
+        sectionId="1.4"
+        title={sectionObject.title}>
+        <Subsection heading="1.4.1">
+            <Paragraph content={sectionObject[".1"].text} />
+            <div>
+                <LanguageSelector
+                    selection={tableLanguage}
+                    position="right"
+                    onClick={() => setTableLanguage(tableLanguage === "en" ? "ga" : "en")} />
+                <table className="p-2 w-[100%]">
+                    <thead>
+                        <tr>
+                            <th className="bg-blue-950 text-white" colSpan={2}>{translateTextMarkup(sectionObject[".1"].Table1B.title, tableLanguage)}</th>
+                        </tr>
+                        <tr>
+                            <th className="bg-cyan-800 text-white">{translateText(sectionObject[".1"].Table1B.col1Name, tableLanguage)}</th>
+                            <th className="bg-cyan-800 text-white">{translateText(sectionObject[".1"].Table1B.col2Name, tableLanguage)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>{
+                        [
+                            ["ag an bhfear maith", "ag an gcuideachta bheag"],
+                            ["ar an mbosca dearg", "ar an mbean shaibhir"],
+                            ["as an ngleann mór", "as an bpáirc chéanna"],
+                            ["chuig an gCoimisinéir coinsiasach", "chuig an mbean ghairmiúil"],
+                            ["den chrann caol", "den bhean fhlaithiúil"],
+                            ["don fhear trom", "don chuideachta ghnóthach"],
+                            ["fairis an ngarda béasach", "fairis an mbean chairdiúil"],
+                            ["faoin bhfógra práinneach", "faoin ngrian bhreá"],
+                            [
+                                <>
+                                    sa bhosca buí<br />
+                                    sa fhraoch bán<br /><br />
+                                    &nbsp;{translateTextMarkup(sectionObject[".1"].Table1B.note1, tableLanguage)}<br />
+                                    san fhéar fliuch
+                                </>,
+                                <>
+                                    sa chomhairle shóisialta<br />
+                                    sa fhrithréabhlóid fhíochmhar<br /><br />
+                                    &nbsp;{translateTextMarkup(sectionObject[".1"].Table1B.note1, tableLanguage)}<br />
+                                    san fharraige ghlan
+                                </>
+                            ],
+                            ["leis an bhfasach cruinn", "leis an mbáisteach throm"],
+                            ["ón gcaisleán fuar", "ón gcathair mhór"],
+                            ["roimh an gcruinniú tábhachtach", "roimh an mbainis bheag"],
+                            ["thar an gcnoc bán", "thar an bhfarraige chiúin"],
+                            ["tríd an ngairdín breá", "tríd an bhfuinneog ghorm"],
+                            ["um an mBille fada", "um an ngníomhaireacht reachtúil"],
+                        ].map(([l, r], i) => <tr key={i}>
+                            <td className="bg-gray-200 border-2 border-white pl-2 py-1">{l}</td>
+                            <td className="bg-gray-200 border-2 border-white pl-2 py-1">{r}</td>
+                        </tr>)
+                    }
+                    </tbody>
+                </table>
+                <TableKey tableId="1B" label={translateTextMarkup(sectionObject[".1"].Table1B.title, tableLanguage)} language={tableLanguage} />
+            </div>
+        </Subsection>
     </ChapterSection>;
 }
 
@@ -324,6 +437,7 @@ export default function Chapter1() {
             <Section1 key="ch1.1" />,
             <SectionGroupHeader key="ch(1.5)" title={chapter1Text["(1.5).group"].title} content={chapter1Text["(1.5).group"].p} />,
             <Section2 key="ch1.2" />,
-            <Section3 key="ch1.3" />
+            <Section3 key="ch1.3" />,
+            <Section4 key="ch1.4" />
         ]} />;
 }

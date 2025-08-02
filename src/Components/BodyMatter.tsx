@@ -124,7 +124,7 @@ export function TableKey(props: {
     language: LanguageSelection;
     /** e.g. 1A */
     tableId: string;
-    label: string;
+    label: React.ReactNode;
 }) {
     return <div>
         <span className="font-bold mr-3">{props.language === 'en' ? "Table" : "Tábhla"} {props.tableId}</span>
