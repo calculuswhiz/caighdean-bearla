@@ -3,140 +3,142 @@ import { Chapter, ChapterSection, LanguageSelector, ListItem, Paragraph, Section
 import chapter1Text from "../../../translation/Chapter1.json";
 import SampleBox from "../SampleBox";
 import { translateText, translateTextMarkup, type LanguageSelection, type Translation } from "../../translate";
+import { joinIfPossible } from "../../utility";
 
 function Section1() {
+    const sectionObject = chapter1Text["1.1"];
     return <ChapterSection
-        title={chapter1Text["1.1"]}
+        title={sectionObject.title}
         sectionId="1.1"
     >
         <Subsection heading="1.1.1">
-            <Paragraph content={chapter1Text["1.1.1"]} />
+            <Paragraph content={sectionObject[".1"]} />
         </Subsection>,
         <Subsection heading="1.1.2">
-            <Paragraph content={chapter1Text["1.1.2"]} />
+            <Paragraph content={sectionObject[".2"]} />
         </Subsection>,
         <Subsection heading="1.1.3">
-            <Paragraph content={chapter1Text["1.1.3"]} />
+            <Paragraph content={sectionObject[".3"]} />
         </Subsection>,
         <Subsection heading="1.1.4">
-            <Paragraph content={chapter1Text["1.1.4"]} />
+            <Paragraph content={sectionObject[".4"]} />
         </Subsection>,
         <Subsection heading="1.1.5">
-            <Paragraph content={chapter1Text["1.1.5"]} />
+            <Paragraph content={sectionObject[".5"].text} />
             <ol className="list-[lower-alpha] list-inside pl-2">
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.a"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.a.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".a"].text} />
+                    <SampleBox samples={sectionObject[".5"][".a"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.b"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.b.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".b"].text} />
+                    <SampleBox samples={sectionObject[".5"][".b"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.c"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.c.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".c"].text} />
+                    <SampleBox samples={sectionObject[".5"][".c"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.d.p1"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.d.samples`]} />
-                    <Paragraph content={chapter1Text["1.1.5.d.p2"]} />
+                    <Paragraph content={sectionObject[".5"][".d"].p1} />
+                    <SampleBox samples={sectionObject[".5"][".d"].samples} />
+                    <Paragraph content={sectionObject[".5"][".d"].p2} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.e.p1"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.e.samples`]} />
-                    <Paragraph content={chapter1Text["1.1.5.e.p2"]} />
-                    <Paragraph content={chapter1Text["1.1.5.e.p3"]} />
+                    <Paragraph content={sectionObject[".5"][".e"].p1} />
+                    <SampleBox samples={sectionObject[".5"][".e"].samples} />
+                    <Paragraph content={sectionObject[".5"][".e"].p2} />
+                    <Paragraph content={sectionObject[".5"][".e"].p3} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.f.p1"]} />
-                    <Paragraph content={chapter1Text["1.1.5.f.p2"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.f.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".f"].p1} />
+                    <Paragraph content={sectionObject[".5"][".f"].p2} />
+                    <SampleBox samples={sectionObject[".5"][".f"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.g.p1"]} />
-                    <Paragraph content={chapter1Text["1.1.5.g.p2"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.g.samples`]} />
-                    <Paragraph content={chapter1Text["1.1.5.g.p3"]} />
+                    <Paragraph content={sectionObject[".5"][".g"].p1} />
+                    <Paragraph content={sectionObject[".5"][".g"].p2} />
+                    <SampleBox samples={sectionObject[".5"][".g"].samples} />
+                    <Paragraph content={sectionObject[".5"][".g"].p3} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.h.p1"]} />
+                    <Paragraph content={sectionObject[".5"][".h"].p1} />
                     <ol className="list-[lower-roman] list-inside pl-2">
                         <ListItem>
-                            <Paragraph content={chapter1Text["1.1.5.h.i"]} />
+                            <Paragraph content={sectionObject[".5"][".h"].i} />
                         </ListItem>
                         <ListItem>
-                            <Paragraph content={chapter1Text["1.1.5.h.ii"]} />
+                            <Paragraph content={sectionObject[".5"][".h"].ii} />
                         </ListItem>
                         <ListItem>
-                            <Paragraph content={chapter1Text["1.1.5.h.iii"]} />
+                            <Paragraph content={sectionObject[".5"][".h"].iii} />
                         </ListItem>
                     </ol>
-                    <SampleBox samples={chapter1Text[`1.1.5.h.samples`]} />
+                    <SampleBox samples={sectionObject[".5"][".h"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.i.p1"]} />
+                    <Paragraph content={sectionObject[".5"][".i"].p1} />
                     <ol className="list-[upper-alpha] list-inside p2">
                         <ListItem>
-                            <Paragraph content={chapter1Text["1.1.5.i.A.p1"]} />
+                            <Paragraph content={sectionObject[".5"][".i"][".A"].p1} />
                             <ol className="list-[lower-roman] list-inside p2">
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.A.i"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".A"][".i"]} />
                                 </ListItem>
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.A.ii"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".A"][".ii"]} />
                                 </ListItem>
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.A.iii"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".A"][".iii"]} />
                                 </ListItem>
                             </ol>
-                            <Paragraph content={chapter1Text["1.1.5.i.A.p2"]} />
-                            <SampleBox samples={chapter1Text[`1.1.5.i.A.samples`]} />
+                            <Paragraph content={sectionObject[".5"][".i"][".A"].p2} />
+                            <SampleBox samples={sectionObject[".5"][".i"][".A"].samples} />
                         </ListItem>
                         <ListItem>
-                            <Paragraph content={chapter1Text["1.1.5.i.B.p"]} />
+                            <Paragraph content={sectionObject[".5"][".i"][".B"].p} />
                             <ol className="list-[lower-roman] list-inside p2">
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.B.i"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".B"][".i"]} />
                                 </ListItem>
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.B.ii"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".B"][".ii"]} />
                                 </ListItem>
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.B.iii"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".B"][".iii"]} />
                                 </ListItem>
                                 <ListItem>
-                                    <Paragraph content={chapter1Text["1.1.5.i.B.iv"]} />
+                                    <Paragraph content={sectionObject[".5"][".i"][".B"][".iv"]} />
                                 </ListItem>
                             </ol>
                         </ListItem>
                         <ListItem>
-                            <Paragraph content={chapter1Text["1.1.5.i.C.p"]} />
-                            <SampleBox samples={chapter1Text[`1.1.5.i.C.samples`]} />
+                            <Paragraph content={sectionObject[".5"][".i"][".C"].p} />
+                            <SampleBox samples={sectionObject[".5"][".i"][".C"].samples} />
                         </ListItem>
                     </ol>
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.j.p"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.j.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".j"].p} />
+                    <SampleBox samples={sectionObject[".5"][".j"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.k.p1"]} />
-                    <Paragraph content={chapter1Text["1.1.5.k.p2"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.k.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".k"].p1} />
+                    <Paragraph content={sectionObject[".5"][".k"].p2} />
+                    <SampleBox samples={sectionObject[".5"][".k"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.l.p1"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.l.samples`]} />
-                    <Paragraph content={chapter1Text["1.1.5.l.p2"]} />
+                    <Paragraph content={sectionObject[".5"][".l"].p1} />
+                    <SampleBox samples={sectionObject[".5"][".l"].samples} />
+                    <Paragraph content={sectionObject[".5"][".l"].p2} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.m.p"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.m.samples`]} />
+                    <Paragraph content={sectionObject[".5"][".m"].p} />
+                    <SampleBox samples={sectionObject[".5"][".m"].samples} />
                 </ListItem>
                 <ListItem>
-                    <Paragraph content={chapter1Text["1.1.5.n.p1"]} />
-                    <SampleBox samples={chapter1Text[`1.1.5.n.samples`]} />
-                    <Paragraph content={chapter1Text["1.1.5.n.p2"]} />
+                    <Paragraph content={sectionObject[".5"][".n"].p1} />
+                    <SampleBox samples={sectionObject[".5"][".n"].samples} />
+                    <Paragraph content={sectionObject[".5"][".n"].p2} />
                 </ListItem>
             </ol>
         </Subsection>
@@ -147,7 +149,7 @@ function Table1aTemplate(props: {
     title: Translation;
     langSelect: LanguageSelection;
     consonantCases: {
-        initRule: React.ReactNode;
+        initRule: Translation;
         effect: Translation;
         // Shouldn't have to translate these
         samples: string[];
@@ -173,13 +175,11 @@ function Table1aTemplate(props: {
             </tr>
             <tr>
                 {
-                    ([
-                        "1.2.Table1A.col1Name", "1.2.Table1A.col2Name", "1.2.Table1A.col3Name", "1.2.Table1A.col4Name"
-                    ] as const).map((x, i) =>
+                    chapter1Text["1.2"].Table1A.colNames.map((t, i) =>
                         <td key={i}
                             className="border-2 border-white bg-cyan-800 text-white font-bold text-center text-l p-2"
                             colSpan={i === 0 ? 2 : 1}>
-                            {translateTextMarkup(chapter1Text[x], props.langSelect)}
+                            {translateTextMarkup(t, props.langSelect)}
                         </td>
                     )
                 }
@@ -188,10 +188,10 @@ function Table1aTemplate(props: {
         <tbody>
             <tr>
                 <td className="border-2 border-white p-2 bg-gray-300 font-bold text-center" rowSpan={props.consonantCases.length}>
-                    {translateTextMarkup(chapter1Text["1.2.Table1A.row1Name"], props.langSelect)}
+                    {translateTextMarkup(chapter1Text["1.2"].Table1A.row1Name, props.langSelect)}
                 </td>
                 <td className="border-2 border-white p-2 bg-gray-200">
-                    {props.consonantCases[0].initRule}
+                    {translateTextMarkup(props.consonantCases[0].initRule, props.langSelect)}
                 </td>
                 <td className="border-2 border-white p-2 bg-gray-200">an</td>
                 <td className="border-2 border-white p-2 bg-gray-200">
@@ -207,7 +207,7 @@ function Table1aTemplate(props: {
                 props.consonantCases.slice(1).map((cCase, i) => <tr key={i}>
                     {
                         [
-                            cCase.initRule,
+                            translateTextMarkup(cCase.initRule, props.langSelect),
                             "an",
                             translateTextMarkup(cCase.effect, props.langSelect),
                             <ul>{cCase.samples.map(s => <li key={s}>{s}</li>)}</ul>
@@ -219,7 +219,7 @@ function Table1aTemplate(props: {
             }
             <tr>
                 <td className="p-2 border-2 border-white bg-gray-300 font-bold text-center">
-                    {translateTextMarkup(chapter1Text["1.2.Table1A.row2Name"], props.langSelect)}
+                    {translateTextMarkup(chapter1Text["1.2"].Table1A.row2Name, props.langSelect)}
                 </td>
                 <td className="p-2 border-2 border-white bg-gray-200">
                     {translateTextMarkup(props.vowelInfo.initRule, props.langSelect)}
@@ -250,55 +250,51 @@ function Table1A() {
             position="right" />
         <div>
             <Table1aTemplate
-                title={chapter1Text["1.2.Table1A.Title1"]}
+                title={chapter1Text["1.2"].Table1A.Title1}
                 consonantCases={[
                     {
-                        initRule: <>{translateTextMarkup(chapter1Text["1.2.Table1A.masc(1,1)"], langSelect)}</>,
-                        effect: chapter1Text["1.2.Table1A.masc(1,3)"],
+                        initRule: chapter1Text["1.2"].Table1A.masc.cons[0],
+                        effect: chapter1Text["1.2"].Table1A.masc.cons[1],
                         samples: ["an cnoc", "an diabhal", "an fear", "an saol", "an Seapánach", "an teach"]
                     }
                 ]}
                 vowelInfo={{
-                    initRule: chapter1Text["1.2.Table1A.masc(2,1)"],
-                    effect: chapter1Text["1.2.Table1A.masc(2,3)"],
+                    initRule: chapter1Text["1.2"].Table1A.masc.vowel[0],
+                    effect: chapter1Text["1.2"].Table1A.masc.vowel[1],
                     samples: ["an t-íochtar", "an t-uisce", "an t-alt", "an tAcht", "an tUltach",]
                 }}
                 langSelect={langSelect} />
             <Table1aTemplate
-                title={chapter1Text["1.2.Table1A.Title2"]}
+                title={chapter1Text["1.2"].Table1A.Title2}
                 consonantCases={[
                     {
-                        initRule: <>
-                            {translateTextMarkup(chapter1Text["1.2.Table1A.fem(1,1,1).l1"], langSelect)}
-                            <br />
-                            {translateTextMarkup(chapter1Text["1.2.Table1A.fem(1,1,1).l2"], langSelect)}
-                        </>,
-                        effect: chapter1Text["1.2.Table1A.fem(1,3,1)"],
+                        initRule: chapter1Text["1.2"].Table1A.fem.cons.cases[0][0],
+                        effect: chapter1Text["1.2"].Table1A.fem.cons.cases[0][1],
                         samples: ["an fhuinneog", "an chaibidil"]
                     },
                     {
-                        initRule: <>{translateTextMarkup(chapter1Text["1.2.Table1A.fem(1,1,2)"], langSelect)}</>,
-                        effect: chapter1Text["1.2.Table1A.fem(1,3,2)"],
+                        initRule: chapter1Text["1.2"].Table1A.fem.cons.cases[1][0],
+                        effect: chapter1Text["1.2"].Table1A.fem.cons.cases[1][1],
                         samples: ["an deoch", "an teanga"]
                     },
                     {
-                        initRule: <>
-                            {translateTextMarkup(chapter1Text["1.2.Table1A.fem(1,1,3).l1"], langSelect)}
-                            <br />
-                            {translateTextMarkup(chapter1Text["1.2.Table1A.fem(1,1,3).l2"], langSelect)}
-                        </>,
-                        effect: chapter1Text["1.2.Table1A.fem(1,3,3)"],
+                        initRule: chapter1Text["1.2"].Table1A.fem.cons.cases[2][0],
+                        effect: chapter1Text["1.2"].Table1A.fem.cons.cases[2][1],
                         samples: ["an tsráid", "an tSeapáin"]
                     },
                 ]}
                 vowelInfo={{
-                    initRule: chapter1Text["1.2.Table1A.fem(2,1)"],
-                    effect: chapter1Text["1.2.Table1A.fem(2,3)"],
+                    initRule: chapter1Text["1.2"].Table1A.fem.vowel[0],
+                    effect: chapter1Text["1.2"].Table1A.fem.vowel[1],
                     samples: ["an áit", "an Astráil", "an Iodáil", "an obair",]
                 }}
                 langSelect={langSelect} />
-            <TableKey tableId="1A" language={langSelect} label={translateText(chapter1Text["1.2"], langSelect)} />
-            <div className="text-sm">{translateTextMarkup(chapter1Text["1.2.Table1A.footnote"], langSelect)}</div>
+            <TableKey tableId="1A"
+                language={langSelect}
+                label={joinIfPossible(translateText(chapter1Text["1.2"].Table1A.footnote, langSelect))} />
+            <div className="text-sm">{
+                translateTextMarkup(chapter1Text["1.2"].Table1A.footnote, langSelect)
+            }</div>
         </div>
     </div>
 }
@@ -306,8 +302,8 @@ function Table1A() {
 function Section2() {
     return <ChapterSection
         sectionId="1.2"
-        title={chapter1Text["1.2"]}>
-        <Paragraph content={chapter1Text["1.2.p1"]} />
+        title={chapter1Text["1.2"].title}>
+        <Paragraph content={chapter1Text["1.2"].p1} />
         <Table1A />
     </ChapterSection>
 }
@@ -315,7 +311,7 @@ function Section2() {
 function Section3() {
     return <ChapterSection
         sectionId="1.3"
-        title={chapter1Text["1.3"]}>
+        title={chapter1Text["1.3"].title}>
         Under construction.
     </ChapterSection>;
 }
@@ -326,7 +322,7 @@ export default function Chapter1() {
         title={chapter1Text.Chapter1Title}
         sections={[
             <Section1 key="ch1.1" />,
-            <SectionGroupHeader key="ch(1.5)" title={chapter1Text["(1.5).group.title"]} content={chapter1Text["(1.5).group.p"]} />,
+            <SectionGroupHeader key="ch(1.5)" title={chapter1Text["(1.5).group"].title} content={chapter1Text["(1.5).group"].p} />,
             <Section2 key="ch1.2" />,
             <Section3 key="ch1.3" />
         ]} />;
