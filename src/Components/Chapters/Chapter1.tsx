@@ -162,84 +162,86 @@ function ArticleTableTemplate(props: {
         samples: string[];
     }
 }) {
-    return <table className="p-2 w-[100%]">
-        <colgroup>
-            <col span={1} className="w-20" />
-            <col span={1} className="w-70" />
-            <col span={1} className="w-30" />
-            <col span={1} className="w-30" />
-        </colgroup>
-        <thead>
-            <tr>
-                <td className="border-2 border-white bg-blue-950 text-white font-bold text-center text-xl p-2" colSpan={5}>
-                    {translateTextMarkup(props.title, props.langSelect)}
-                </td>
-            </tr>
-            <tr>
-                {
-                    chapter1Text.ArticleTableCommon.colNames.map((t, i) =>
-                        <td key={i}
-                            className="border-2 border-white bg-cyan-800 text-white font-bold text-center text-l p-2"
-                            colSpan={i === 0 ? 2 : 1}>
-                            {translateTextMarkup(t, props.langSelect)}
-                        </td>
-                    )
-                }
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td className="border-2 border-white p-2 bg-gray-300 font-bold text-center" rowSpan={props.consonantCases.length}>
-                    {translateTextMarkup(chapter1Text.ArticleTableCommon.row1Name, props.langSelect)}
-                </td>
-                <td className="border-2 border-white p-2 bg-gray-200">
-                    {translateTextMarkup(props.consonantCases[0].initRule, props.langSelect)}
-                </td>
-                <td className="border-2 border-white p-2 bg-gray-200">an</td>
-                <td className="border-2 border-white p-2 bg-gray-200">
-                    {translateTextMarkup(props.consonantCases[0].effect, props.langSelect)}
-                </td>
-                <td className="border-2 border-white p-2 bg-gray-200">
-                    <ul>
-                        {props.consonantCases[0].samples.map(s => <li key={s}>{s}</li>)}
-                    </ul>
-                </td>
-            </tr>
-            {
-                props.consonantCases.slice(1).map((cCase, i) => <tr key={i}>
+    return <div className="max-w-[100%] overflow-x-auto">
+        <table className="p-2 w-[100%]">
+            <colgroup>
+                <col span={1} className="w-20" />
+                <col span={1} className="w-70" />
+                <col span={1} className="w-30" />
+                <col span={1} className="w-30" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <td className="border-2 border-white bg-blue-950 text-white font-bold text-center text-xl p-2" colSpan={5}>
+                        {translateTextMarkup(props.title, props.langSelect)}
+                    </td>
+                </tr>
+                <tr>
                     {
-                        [
-                            translateTextMarkup(cCase.initRule, props.langSelect),
-                            "an",
-                            translateTextMarkup(cCase.effect, props.langSelect),
-                            <ul>{cCase.samples.map(s => <li key={s}>{s}</li>)}</ul>
-                        ].map((x, i) =>
-                            <td key={i} className="p-2 border-2 border-white bg-gray-200">{x}</td>
+                        chapter1Text.ArticleTableCommon.colNames.map((t, i) =>
+                            <td key={i}
+                                className="border-2 border-white bg-cyan-800 text-white font-bold text-center text-l p-2"
+                                colSpan={i === 0 ? 2 : 1}>
+                                {translateTextMarkup(t, props.langSelect)}
+                            </td>
                         )
                     }
-                </tr>)
-            }
-            <tr>
-                <td className="p-2 border-2 border-white bg-gray-300 font-bold text-center">
-                    {translateTextMarkup(chapter1Text.ArticleTableCommon.row2Name, props.langSelect)}
-                </td>
-                <td className="p-2 border-2 border-white bg-gray-200">
-                    {translateTextMarkup(props.vowelInfo.initRule, props.langSelect)}
-                </td>
-                <td className="p-2 border-2 border-white bg-gray-200">
-                    an
-                </td>
-                <td className="p-2 border-2 border-white bg-gray-200">
-                    {translateTextMarkup(props.vowelInfo.effect, props.langSelect)}
-                </td>
-                <td className="p-2 border-2 border-white bg-gray-200">
-                    <ul>
-                        {props.vowelInfo.samples.map(s => <li key={s}>{s}</li>)}
-                    </ul>
-                </td>
-            </tr>
-        </tbody>
-    </table>;
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td className="border-2 border-white p-2 bg-gray-300 font-bold text-center" rowSpan={props.consonantCases.length}>
+                        {translateTextMarkup(chapter1Text.ArticleTableCommon.row1Name, props.langSelect)}
+                    </td>
+                    <td className="border-2 border-white p-2 bg-gray-200">
+                        {translateTextMarkup(props.consonantCases[0].initRule, props.langSelect)}
+                    </td>
+                    <td className="border-2 border-white p-2 bg-gray-200">an</td>
+                    <td className="border-2 border-white p-2 bg-gray-200">
+                        {translateTextMarkup(props.consonantCases[0].effect, props.langSelect)}
+                    </td>
+                    <td className="border-2 border-white p-2 bg-gray-200">
+                        <ul>
+                            {props.consonantCases[0].samples.map(s => <li key={s}>{s}</li>)}
+                        </ul>
+                    </td>
+                </tr>
+                {
+                    props.consonantCases.slice(1).map((cCase, i) => <tr key={i}>
+                        {
+                            [
+                                translateTextMarkup(cCase.initRule, props.langSelect),
+                                "an",
+                                translateTextMarkup(cCase.effect, props.langSelect),
+                                <ul>{cCase.samples.map(s => <li key={s}>{s}</li>)}</ul>
+                            ].map((x, i) =>
+                                <td key={i} className="p-2 border-2 border-white bg-gray-200">{x}</td>
+                            )
+                        }
+                    </tr>)
+                }
+                <tr>
+                    <td className="p-2 border-2 border-white bg-gray-300 font-bold text-center">
+                        {translateTextMarkup(chapter1Text.ArticleTableCommon.row2Name, props.langSelect)}
+                    </td>
+                    <td className="p-2 border-2 border-white bg-gray-200">
+                        {translateTextMarkup(props.vowelInfo.initRule, props.langSelect)}
+                    </td>
+                    <td className="p-2 border-2 border-white bg-gray-200">
+                        an
+                    </td>
+                    <td className="p-2 border-2 border-white bg-gray-200">
+                        {translateTextMarkup(props.vowelInfo.effect, props.langSelect)}
+                    </td>
+                    <td className="p-2 border-2 border-white bg-gray-200">
+                        <ul>
+                            {props.vowelInfo.samples.map(s => <li key={s}>{s}</li>)}
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>;
 }
 
 function Table1A() {
@@ -250,7 +252,7 @@ function Table1A() {
             selection={langSelect}
             onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
             position="right" />
-        <div>
+        <div className="max-w-[100%] overflow-auto">
             <ArticleTableTemplate
                 title={commonText.Masculine}
                 consonantCases={[
@@ -314,7 +316,7 @@ function ContractionTable(props: {
     /** [preposition, result] */
     entries: [string, string][]
 }) {
-    return <table>
+    return <table className="ml-1">
         <tbody>
             {
                 props.entries.map(([prepososition, result]) =>
