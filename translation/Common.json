@@ -1,0 +1,30 @@
+{
+    "Masculine": {
+        "ga": "Firinscneach",
+        "en": "Masculine"
+    },
+    "Feminine": {
+        "ga": "Baininscneach",
+        "en": "Feminine"
+    },
+    "MascAndFem": {
+        "ga": "Firinscneach agus Baininscneach",
+        "en": "Masculine and Feminine"
+    },
+    "Consonant": {
+        "ga": "Consan",
+        "en": "Consonants"
+    },
+    "Vowel": {
+        "ga": "Guta",
+        "en": "Vowel"
+    },
+    "Eclipsis": {
+        "ga": "urú",
+        "en": "eclipsis"
+    },
+    "Lenition": {
+        "ga": "séimhiú",
+        "en": "lenition"
+    }
+}

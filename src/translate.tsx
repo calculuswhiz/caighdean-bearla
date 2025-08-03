@@ -71,3 +71,9 @@ export function applyBasicMarkup<T extends Multipliable<string>>(text: T, keyPre
         return <>{outputBuffer}</>;
     }
 }
+
+export function translateIfAvailable(line: string | Translation, tableLanguage: LanguageSelection) {
+    return typeof line === 'string'
+        ? line
+        : <><span>&nbsp;&nbsp;</span>{translateTextMarkup(line, tableLanguage)}</>;
+}

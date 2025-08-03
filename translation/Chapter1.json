@@ -3,6 +3,34 @@
     "ga": "AN tALT",
     "en": "THE ARTICLE"
   },
+  "ArticleTableCommon": {
+    "colNames": [
+      {
+        "ga": "Túslitir an Ainmfhocail",
+        "en": "The Initial Letter of the Noun"
+      },
+      {
+        "ga": "Foirm an Ailt",
+        "en": "Form of the Article"
+      },
+      {
+        "ga": "An Tionchar ar an Túslitir",
+        "en": "The Effect on the Initial Letter"
+      },
+      {
+        "ga": "Samplaí",
+        "en": "Examples"
+      }
+    ],
+    "row1Name": {
+      "ga": "Consan",
+      "en": "Consonant"
+    },
+    "row2Name": {
+      "ga": "Guta",
+      "en": "Vowel"
+    }
+  },
   "1.1": {
     "title": {
       "ga": "Ginearálta",
@@ -456,40 +484,6 @@
       "en": "The noun form is the same for the nominative case and the singular objective case. See the table below which shows the effect of the article on the noun in those cases."
     },
     "Table1A": {
-      "Title1": {
-        "ga": "Firinscneach",
-        "en": "Masculine"
-      },
-      "Title2": {
-        "ga": "Baininscneach",
-        "en": "Feminine"
-      },
-      "colNames": [
-        {
-          "ga": "Túslitir an Ainmfhocail",
-          "en": "The Initial Letter of the Noun"
-        },
-        {
-          "ga": "Foirm an Ailt",
-          "en": "Form of the Article"
-        },
-        {
-          "ga": "An Tionchar ar an Túslitir",
-          "en": "The Effect on the Initial Letter"
-        },
-        {
-          "ga": "Samplaí",
-          "en": "Examples"
-        }
-      ],
-      "row1Name": {
-        "ga": "Consan",
-        "en": "Consonant"
-      },
-      "row2Name": {
-        "ga": "Guta",
-        "en": "Vowel"
-      },
       "masc": {
         "cons": [
           {
@@ -598,30 +592,300 @@
   },
   "1.4": {
     "title": {
-        "ga": "An Tuiseal Tabharthach Uatha — An Córas Lárnach",
-        "en": null
+      "ga": "An Tuiseal Tabharthach Uatha — An Córas Lárnach",
+      "en": null
     },
     ".1": {
       "text": {
-          "ga": "Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas `d`, `t` agus `s`), cuirtear séimhiú orthu i ndiaidh `den`, `don`, `sa/san` agus urú i ngach cás eile, mar a léirítear sa tábla thíos.",
-          "en": null
+        "ga": "Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas `d`, `t` agus `s`), cuirtear séimhiú orthu i ndiaidh `den`, `don`, `sa/san` agus urú i ngach cás eile, mar a léirítear sa tábla thíos.",
+        "en": null
       },
       "Table1B": {
         "title": {
-            "ga": "Ainmfhocail dar tús Consan seachas  `d`, `t` agus `s`",
-            "en": null
-        },
-        "col1Name": {
-          "ga": "Firinscneach",
-          "en": "Masculine"
-        },
-        "col2Name": {
-          "ga": "Baininscneach",
-          "en": "Feminine"
+          "ga": "Ainmfhocail dar tús Consan seachas  `d`, `t` agus `s`",
+          "en": null
         },
         "note1": {
-            "ga": "`ACH i gcás` f `roimh ghuta:`",
-            "en": "`BUT where` f `precedes a vowel:`"
+          "ga": "`ACH i gcás` f `roimh ghuta:`",
+          "en": "`BUT where` f `precedes a vowel:`"
+        }
+      }
+    },
+    ".2": {
+      "text": {
+        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús s sa tuiseal tabharthach. Cuirtear `t` roimh `s` ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús `sc-, sf-, sm-, sp-, st-` nó `sv-` a fhágtar lom) mar a léirítear sa tábla thíos.",
+        "en": null
+      },
+      "Table1C": {
+        "title": {
+          "ga": "An Córas Lárnach — Ainmfhocail dar tús `s`",
+          "en": null
+        },
+        "col1Desc": {
+          "ga": "Gan Athrú",
+          "en": "No change"
+        },
+        "col2Desc": {
+          "ga": "Cuirtear `t` roimh an `s`, seachas i gcás `sc-, sf-, sm-, sp-, st-` nó `sv-`",
+          "en": "`t` is put before the `s`, except in case of `sc-, sf-, sm-, sp-, st-` or `sv-`"
+        }
+      }
+    },
+    ".3": {
+      "text": {
+        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta.",
+        "en": null
+      },
+      "Table1D": {
+        "Title": {
+          "ga": "An Córas Lárnach — Ainmfhocail dar tús Guta",
+          "en": null
+        }
+      }
+    },
+    ".4": {
+      "text": {
+        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús `d` agus `t`.",
+        "en": null
+      },
+      "Table1E": {
+        "Title": {
+          "ga": "An Córas Lárnach — Ainmfhocail dar tús `d` agus `t`",
+          "en": null
+        }
+      },
+      "Notes": {
+        "p1": {
+          "ga": "I dteannta an Chórais Lárnaigh a thugtar sa chaibidil seo, ceadaítear na roghanna seo a leanas:",
+          "en": null
+        },
+        ".a": {
+          "ga": "urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh `den` agus `don`, e.g., `den gcrann, don bhfear;` nó",
+          "en": null
+        },
+        ".b": {
+          "ga": "urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh sa, e.g., `sa bpáirc, sa gcarr`.",
+          "en": null
+        }
+      }
+    }
+  },
+  "1.5": {
+    "title": {
+      "ga": "An Tuiseal Ginideach Uatha",
+      "en": null
+    },
+    ".1": {
+      "p1": {
+        "ga": "Is gnách foirm an ghinidigh a úsáid i gcás go bhfuil an t-ainmfhocal faoi réir ag ceann de na nithe seo a leanas—",
+        "en": null
+      },
+      ".a": {
+        "text": {
+          "ga": "ainmfhocal eile:",
+          "en": "other nouns:"
+        },
+        "samples": [
+          ["Cár fhág tú eochair an chairr?", null],
+          ["Tá muintir na háite sásta le foireann na leabharlainne.", null]
+        ]
+      },
+      ".b": {
+        "text": {
+          "ga": "ainm briathartha:",
+          "en": null
+        },
+        "samples": [
+          ["Is maith leis na gasúir a bheith ag réiteach an dinnéir.", null],
+          ["Is í Síle atá ag déanamh na hArdteiste i mbliana.", null]
+        ]
+      },
+      ".c": {
+        "text": {
+          "ga": "réamhfhocal comhshuite, e.g., `faoi chomhair, i gcás, le haghaidh`:",
+          "en": null
+        },
+        "samples": [
+          [
+            "Bíonn an cat ina shuí ansin os comhair na tine gach uile oíche.",
+            null
+          ],
+          ["Ba iad na hailtirí a bhí i mbun an scrúdaithe.", null]
+        ]
+      },
+      ".d": {
+        "text": {
+          "ga": "ceann de na focail `cois, dála, fearacht, timpeall, trasna`:",
+          "en": null
+        },
+        "samples": [
+          ["Chuala mé go ndeachaigh sibh ar thuras timpeall an domhain.", null],
+          ["Shiúlamar cois na habhann.", null]
+        ]
+      },
+      ".e": {
+        "text": {
+          "ga": "an réamhfhocal chun:",
+          "en": null
+        },
+        "samples": [
+          ["Tá an grúpa uile ag dul chun na Spáinne i mí Iúil.", null],
+          ["Rinne siad achomharc chun na cúirte.", null]
+        ]
+      },
+      "p2": {
+        "ga": "Féach 3.3 le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.",
+        "en": null
+      }
+    },
+    ".2": {
+      "text": {
+        "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.",
+        "en": null
+      },
+      "Table1F": {
+        "title": {
+          "ga": "An Tuiseal Ginideach Uatha",
+          "en": null
+        },
+        "comment": "Table 1F is pretty much the same as 1A with masc/fem swapped and instead of 't' prefix, it's 'h' prefix. We'll handle this in the layout code."
+      }
+    }
+  },
+  "1.6": {
+    "title": {
+      "ga": "An tIolra",
+      "en": "The Plural"
+    },
+    "p": {
+      "ga": "Is é `na` foirm iolra an ailt. Is ionann foirm an ailt don dá inscne agus sna tuisil go léir san uimhir iolra.",
+      "en": "The article's plural form is `na`. The article's form is the same in both genders and in all cases of the plural."
+    },
+    ".1": {
+      "title": {
+        "ga": "An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra",
+        "en": null
+      },
+      "p1": {
+        "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ainmneach iolra agus sa tuiseal cuspóireach iolra.",
+        "en": null
+      },
+      "Table1G": {
+        "comment": "Table 1G is the same as the Feminine sub-table of 1F.",
+        "title": {
+          "ga": "An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra",
+          "en": null
+        }
+      }
+    },
+    ".2": {
+      "title": {
+        "ga": "An Tuiseal Tabharthach Iolra",
+        "en": null
+      },
+      "p1": {
+        "ga": "Leanann an tuiseal tabharthach na réamhfhocail `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` agus `um`. Déantar cumasc idir an réamhfhocal `i` agus an t-alt san uimhir iolra: `i` + `na` = `sna`. Tá foirm ar leith ar `fara` agus le roimh an alt san uimhir iolra: `fara, fairis; le, leis`. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.",
+        "en": null
+      },
+      "Table1H": {
+        "comment": "Same cases as 1G.",
+        "title": {
+          "ga": "An Tuiseal Tabharthach Iolra",
+          "en": null
+        }
+      }
+    },
+    ".3": {
+      "title": {
+        "ga": "An Tuiseal Ginideach Iolra",
+        "en": "The Genitive Plural Case"
+      },
+      "p": {
+        "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach iolra.",
+        "en": null
+      },
+      "Table1I": {
+        "Row1Name": {
+          "ga": "Consan inuraithe*",
+          "en": "Eclipsable consonants*"
+        },
+        "footnote": {
+          "ga": "*Is iad seo na consain inuraithe: `b, c, d, f, g, p` agus `t`.",
+          "en": "*These are the eclipsable consonants: `b, c, d, f, g, p` and `t`."
+        }
+      }
+    }
+  },
+  "1.7": {
+    "Title": {
+      "ga": "An Tuiseal Tabharthach Uatha — Córas an tSéimhithe",
+      "en": null
+    },
+    ".1": {
+      "p": {
+        "ga": "Sa tuiseal tabharthach uatha amháin, tá rogha eile ann ar a dtugtar Córas an tSéimhithe. Moltar cloí le córas amháin — an Córas Lárnach nó Córas an tSéimhithe — agus gan na córais a mheascadh.",
+        "en": null
+      }
+    },
+    ".2": {
+      "p": {
+        "ga": "Is ionann na rialacha a bhaineann leis an tuiseal tabharthach iolra sa Chóras Lárnach agus i gCóras an tSéimhithe (féach 1.6.2).",
+        "en": null
+      }
+    },
+    ".3": {
+      "p": {
+        "ga": "I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas `d`, `t` agus `s`) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.",
+        "en": null
+      },
+      "Table1J": {
+        "Title": {
+          "ga": "Córas an tSéimhithe — Ainmfhocail dar tús Consan seachas `d`, `t` agus `s`",
+          "en": null
+        },
+        "note": {
+          "ga": "ACH i gcás f roimh ghuta:",
+          "en": "`BUT where` f `precedes a vowel:`"
+        }
+      }
+    },
+    ".4": {
+      "p": {
+        "ga": "Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús `s`, cuirtear `t` roimh an `s` (seachas i gcás ainmfhocail dar tús `sc-, sf-, sm-, sp-, st-` nó `sv-` a fhágtar lom) mar a léirítear sa tábla thíos.",
+        "en": null
+      },
+      "Table1K": {
+        "subheading": {
+          "ga": "Cuirtear `t` roimh an `s`, seachas i gcás `sc-, sf-, sm-, sp-, st-` nó `sv-`",
+          "en": "`t` is put before the `s`, except in case of `sc-, sf-, sm-, sp-, st-` or `sv-`"
+        },
+        "title": {
+          "ga": "Córas an tSéimhithe — Ainmfhocail dar tús s",
+          "en": null
+        }
+      }
+    },
+    ".5": {
+      "text": {
+        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.",
+        "en": null
+      },
+      "Table1L": {
+        "Title": {
+          "ga": "Córas an tSéimhithe — Ainmfhocail dar tús Guta",
+          "en": null
+        }
+      }
+    },
+    ".6": {
+      "text": {
+        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús `d` agus `t`. Féach an tábla thíos.",
+        "en": null
+      },
+      "Table1M": {
+        "Title": {
+          "ga": "Córas an tSéimhithe — Ainmfhocail dar tús `d` agus `t`",
+          "en": null
         }
       }
     }

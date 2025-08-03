@@ -1,8 +1,9 @@
 import React from "react";
 import { Chapter, ChapterSection, LanguageSelector, ListItem, Paragraph, SectionGroupHeader, Subsection, TableKey } from "../BodyMatter";
 import chapter1Text from "../../../translation/Chapter1.json";
+import commonText from "../../../translation/Common.json";
 import SampleBox from "../SampleBox";
-import { translateText, translateTextMarkup, type LanguageSelection, type Translation } from "../../translate";
+import { translateIfAvailable, translateText, translateTextMarkup, type LanguageSelection, type Translation } from "../../translate";
 import { joinIfPossible } from "../../utility";
 
 function Section1() {
@@ -145,7 +146,8 @@ function Section1() {
     </ChapterSection>;
 }
 
-function Table1aTemplate(props: {
+/** E.g. Table 1A, 1F, etc. */
+function ArticleTableTemplate(props: {
     title: Translation;
     langSelect: LanguageSelection;
     consonantCases: {
@@ -175,7 +177,7 @@ function Table1aTemplate(props: {
             </tr>
             <tr>
                 {
-                    chapter1Text["1.2"].Table1A.colNames.map((t, i) =>
+                    chapter1Text.ArticleTableCommon.colNames.map((t, i) =>
                         <td key={i}
                             className="border-2 border-white bg-cyan-800 text-white font-bold text-center text-l p-2"
                             colSpan={i === 0 ? 2 : 1}>
@@ -188,7 +190,7 @@ function Table1aTemplate(props: {
         <tbody>
             <tr>
                 <td className="border-2 border-white p-2 bg-gray-300 font-bold text-center" rowSpan={props.consonantCases.length}>
-                    {translateTextMarkup(chapter1Text["1.2"].Table1A.row1Name, props.langSelect)}
+                    {translateTextMarkup(chapter1Text.ArticleTableCommon.row1Name, props.langSelect)}
                 </td>
                 <td className="border-2 border-white p-2 bg-gray-200">
                     {translateTextMarkup(props.consonantCases[0].initRule, props.langSelect)}
@@ -219,7 +221,7 @@ function Table1aTemplate(props: {
             }
             <tr>
                 <td className="p-2 border-2 border-white bg-gray-300 font-bold text-center">
-                    {translateTextMarkup(chapter1Text["1.2"].Table1A.row2Name, props.langSelect)}
+                    {translateTextMarkup(chapter1Text.ArticleTableCommon.row2Name, props.langSelect)}
                 </td>
                 <td className="p-2 border-2 border-white bg-gray-200">
                     {translateTextMarkup(props.vowelInfo.initRule, props.langSelect)}
@@ -249,8 +251,8 @@ function Table1A() {
             onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
             position="right" />
         <div>
-            <Table1aTemplate
-                title={chapter1Text["1.2"].Table1A.Title1}
+            <ArticleTableTemplate
+                title={commonText.Masculine}
                 consonantCases={[
                     {
                         initRule: chapter1Text["1.2"].Table1A.masc.cons[0],
@@ -264,8 +266,8 @@ function Table1A() {
                     samples: ["an t-íochtar", "an t-uisce", "an t-alt", "an tAcht", "an tUltach",]
                 }}
                 langSelect={langSelect} />
-            <Table1aTemplate
-                title={chapter1Text["1.2"].Table1A.Title2}
+            <ArticleTableTemplate
+                title={commonText.Feminine}
                 consonantCases={[
                     {
                         initRule: chapter1Text["1.2"].Table1A.fem.cons.cases[0][0],
@@ -361,70 +363,220 @@ function Section3() {
     </ChapterSection>;
 }
 
+type ValidSampleEntry = Multipliable<string | Translation>;
+
+/** E.g. Table 1C */
+function MascFemTable(props: {
+    title: Translation;
+    /** For any subheadings that appear below gender cells. If 1 supplied, gives colspan 2. If not specified, no headings */
+    subheadings?: [Translation, Translation] | [Translation] | [];
+    samples: [ValidSampleEntry, ValidSampleEntry][];
+    tableKeyProps: {
+        id: string;
+        label: Translation;
+    };
+}) {
+    const [tableLanguage, setTableLanguage] = React.useState('en' as LanguageSelection);
+
+    return <div>
+        <LanguageSelector
+            selection={tableLanguage}
+            position="right"
+            onClick={() => setTableLanguage(tableLanguage === "en" ? "ga" : "en")} />
+        <table className="p-2 w-[100%]">
+            <colgroup>
+                <col span={1} className="w-[50%]" />
+                <col span={1} className="w-[50%]" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th className="bg-blue-950 text-white text-xl" colSpan={2}>{translateTextMarkup(props.title, tableLanguage)}</th>
+                </tr>
+                <tr>
+                    <th className="bg-cyan-800 text-white text-l">{translateText(commonText.Masculine, tableLanguage)}</th>
+                    <th className="bg-cyan-800 text-white text-l">{translateText(commonText.Feminine, tableLanguage)}</th>
+                </tr>
+                {
+                    props.subheadings != null && <tr>
+                        {
+                            props.subheadings.map((sh, shIdx) =>
+                                <th key={shIdx} className="text-l bg-gray-200 p-2" colSpan={3 - (props.subheadings?.length ?? 0)}>{
+                                    translateTextMarkup(sh, tableLanguage)
+                                }</th>
+                            )
+                        }
+                    </tr>
+                }
+            </thead>
+            <tbody>{
+                props.samples.map((entries, i) => <tr key={i}>{
+                    entries.map((ent, j) =>
+                        <td className="bg-gray-100 p-1 border-2 border-white " key={j}>{
+                            Array.isArray(ent)
+                                ? ent.map((line, lineNo) => <React.Fragment key={lineNo}>
+                                    {translateIfAvailable(line, tableLanguage)}
+                                    {lineNo < ent.length - 1 && <br />}
+                                </React.Fragment>
+                                )
+                                : translateIfAvailable(ent, tableLanguage)
+                        }</td>
+                    )
+                }</tr>)
+            }
+            </tbody>
+        </table>
+        <TableKey tableId={props.tableKeyProps.id}
+            label={translateTextMarkup(props.tableKeyProps.label, tableLanguage)}
+            language={tableLanguage} />
+    </div>;
+}
+
 function Section4() {
     const sectionObject = chapter1Text["1.4"];
-
-    const [tableLanguage, setTableLanguage] = React.useState('en' as LanguageSelection);
 
     return <ChapterSection
         sectionId="1.4"
         title={sectionObject.title}>
         <Subsection heading="1.4.1">
             <Paragraph content={sectionObject[".1"].text} />
-            <div>
-                <LanguageSelector
-                    selection={tableLanguage}
-                    position="right"
-                    onClick={() => setTableLanguage(tableLanguage === "en" ? "ga" : "en")} />
-                <table className="p-2 w-[100%]">
-                    <thead>
-                        <tr>
-                            <th className="bg-blue-950 text-white" colSpan={2}>{translateTextMarkup(sectionObject[".1"].Table1B.title, tableLanguage)}</th>
-                        </tr>
-                        <tr>
-                            <th className="bg-cyan-800 text-white">{translateText(sectionObject[".1"].Table1B.col1Name, tableLanguage)}</th>
-                            <th className="bg-cyan-800 text-white">{translateText(sectionObject[".1"].Table1B.col2Name, tableLanguage)}</th>
-                        </tr>
-                    </thead>
-                    <tbody>{
+            <MascFemTable
+                title={sectionObject[".1"].Table1B.title}
+                samples={[
+                    ["ag an bhfear maith", "ag an gcuideachta bheag"],
+                    ["ar an mbosca dearg", "ar an mbean shaibhir"],
+                    ["as an ngleann mór", "as an bpáirc chéanna"],
+                    ["chuig an gCoimisinéir coinsiasach", "chuig an mbean ghairmiúil"],
+                    ["den chrann caol", "den bhean fhlaithiúil"],
+                    ["don fhear trom", "don chuideachta ghnóthach"],
+                    ["fairis an ngarda béasach", "fairis an mbean chairdiúil"],
+                    ["faoin bhfógra práinneach", "faoin ngrian bhreá"],
+                    [
                         [
-                            ["ag an bhfear maith", "ag an gcuideachta bheag"],
-                            ["ar an mbosca dearg", "ar an mbean shaibhir"],
-                            ["as an ngleann mór", "as an bpáirc chéanna"],
-                            ["chuig an gCoimisinéir coinsiasach", "chuig an mbean ghairmiúil"],
-                            ["den chrann caol", "den bhean fhlaithiúil"],
-                            ["don fhear trom", "don chuideachta ghnóthach"],
-                            ["fairis an ngarda béasach", "fairis an mbean chairdiúil"],
-                            ["faoin bhfógra práinneach", "faoin ngrian bhreá"],
-                            [
-                                <>
-                                    sa bhosca buí<br />
-                                    sa fhraoch bán<br /><br />
-                                    &nbsp;{translateTextMarkup(sectionObject[".1"].Table1B.note1, tableLanguage)}<br />
-                                    san fhéar fliuch
-                                </>,
-                                <>
-                                    sa chomhairle shóisialta<br />
-                                    sa fhrithréabhlóid fhíochmhar<br /><br />
-                                    &nbsp;{translateTextMarkup(sectionObject[".1"].Table1B.note1, tableLanguage)}<br />
-                                    san fharraige ghlan
-                                </>
-                            ],
-                            ["leis an bhfasach cruinn", "leis an mbáisteach throm"],
-                            ["ón gcaisleán fuar", "ón gcathair mhór"],
-                            ["roimh an gcruinniú tábhachtach", "roimh an mbainis bheag"],
-                            ["thar an gcnoc bán", "thar an bhfarraige chiúin"],
-                            ["tríd an ngairdín breá", "tríd an bhfuinneog ghorm"],
-                            ["um an mBille fada", "um an ngníomhaireacht reachtúil"],
-                        ].map(([l, r], i) => <tr key={i}>
-                            <td className="bg-gray-200 border-2 border-white pl-2 py-1">{l}</td>
-                            <td className="bg-gray-200 border-2 border-white pl-2 py-1">{r}</td>
-                        </tr>)
-                    }
-                    </tbody>
-                </table>
-                <TableKey tableId="1B" label={translateTextMarkup(sectionObject[".1"].Table1B.title, tableLanguage)} language={tableLanguage} />
-            </div>
+                            "sa bhosca buí",
+                            "sa fhraoch bán",
+                            "",
+                            sectionObject[".1"].Table1B.note1,
+                            "san fhéar fliuch"
+                        ],
+                        [
+                            "sa chomhairle shóisialta",
+                            "sa fhrithréabhlóid fhíochmhar",
+                            "",
+                            sectionObject[".1"].Table1B.note1,
+                            "san fharraige ghlan"
+                        ]
+                    ],
+                    ["leis an bhfasach cruinn", "leis an mbáisteach throm"],
+                    ["ón gcaisleán fuar", "ón gcathair mhór"],
+                    ["roimh an gcruinniú tábhachtach", "roimh an mbainis bheag"],
+                    ["thar an gcnoc bán", "thar an bhfarraige chiúin"],
+                    ["tríd an ngairdín breá", "tríd an bhfuinneog ghorm"],
+                    ["um an mBille fada", "um an ngníomhaireacht reachtúil"],
+                ]}
+                tableKeyProps={{
+                    id: "1B",
+                    label: sectionObject[".1"].Table1B.title
+                }} />
+        </Subsection>
+        <Subsection heading="1.4.2">
+            <Paragraph content={sectionObject[".2"].text} />
+            <MascFemTable
+                title={sectionObject[".2"].Table1C.title}
+                subheadings={[sectionObject[".2"].Table1C.col1Desc, sectionObject[".2"].Table1C.col2Desc]}
+                samples={[
+                    ["ag an Seapánach cliste", "ag an tseanmháthair bhocht"],
+                    ["ar an suíochán fliuch", "ar an tsráid ghlan"],
+                    ["as an sailéad blasta", "as an tsaoire bhliantúil"],
+                    ["chuig an Seanadóir nuacheaptha", "chuig an tsatailít mhór"],
+                    ["den saighdiúir sásúil", "den tslándáil shóisialach"],
+                    ["don Seanad nua", "don tsaoirse cheart"],
+                    ["fairis an saineolaí lách", "fairis an tseanbhean shaibhir"],
+                    ["faoin sonrasc déanach", "faoin tslí dhíreach"],
+                    ["sa soitheach gorm", "sa tseacláid mhilis"],
+                    ["leis an salann bán", "leis an tslat fhada"],
+                    ["ón suirbhé pearsanta", "ón scoil bheag"],
+                    ["roimh an samhradh fada", "roimh an tseachtain mhór"],
+                    ["thar an seol mór", "thar an tSionainn fhada"],
+                    ["tríd an sorcas mór", "tríd an tseift chliste"],
+                    ["um an sainchomhairleoir cruinn", "um an tseirbhís mhaith"],
+                ]}
+                tableKeyProps={{
+                    id: "1C",
+                    label: sectionObject[".2"].Table1C.title
+                }} />
+        </Subsection>
+        <Subsection heading="1.4.3">
+            <Paragraph content={sectionObject[".3"].text} />
+            <MascFemTable
+                title={sectionObject[".3"].Table1D.Title}
+                samples={[
+                    ["ag an Albanach ciallmhar", "ag an aeráid ghaofar"],
+                    ["ar an eitleán dubh", "ar an olann bhán"],
+                    ["as an uisce glan", "as an iris cháiliúil"],
+                    ["chuig an Aire ilteangach", "chuig an Ostair shléibhtiúil"],
+                    ["den alt fada", "den uimhir chruinn"],
+                    ["don údarás céanna", "don obair chrua"],
+                    ["fairis an oifigeach múinte", "fairis an ógbhean chliste"],
+                ]}
+                tableKeyProps={{
+                    id: "1D",
+                    label: sectionObject[".3"].Table1D.Title
+                }} />
+        </Subsection>
+        <Subsection heading="1.4.4">
+            <Paragraph content={sectionObject[".4"].text} />
+            <MascFemTable
+                title={sectionObject[".4"].Table1E.Title}
+                samples={[
+                    ["faoin dréimire briste", "faoin deacracht bhreise"],
+                    ["sa teas mór", "sa deoch fhuar"],
+                    ["leis an duine ciúin", "leis an taithí mhaith"],
+                    ["ón deartháir cineálta", "ón teanga líofa"],
+                    ["roimh an tarbh fiáin", "roimh an deighilt mhór"],
+                    ["thar an teach gorm", "thar an diallait nua"],
+                    ["tríd an talamh crua", "tríd an drochaimsir ghránna"],
+                    ["um an dlí coiriúil", "um an tagairt chuí"],
+                ]}
+                tableKeyProps={{
+                    id: "1E",
+                    label: sectionObject[".4"].Table1E.Title
+                }} />
+            <h4 className="font-bold">N.B.</h4>
+            <Paragraph content={sectionObject[".4"].Notes.p1} />
+            <ol className="list-[lower-alpha] list-inside pl-2">
+                <ListItem>
+                    <Paragraph content={sectionObject[".4"].Notes[".a"]} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".4"].Notes[".b"]} />
+                </ListItem>
+            </ol>
+        </Subsection>
+    </ChapterSection>;
+}
+
+function Section5() {
+    const sectionObject = chapter1Text["1.5"];
+    return <ChapterSection
+        sectionId="1.5"
+        title={sectionObject.title}>
+        <Subsection heading="1.5.1">
+            <Paragraph content={sectionObject[".1"].p1} />
+            <ol className="list-[lower-alpha] list-inside pl-2">
+                {
+                    (["a", "b", "c", "d", "e"] as const).map(l =>
+                        <ListItem key={l}>
+                            <Paragraph content={sectionObject[".1"][`.${l}`].text} />
+                            <SampleBox samples={sectionObject[".1"][`.${l}`].samples} />
+                        </ListItem>
+                    )
+                }
+            </ol>
+            <Paragraph content={sectionObject[".1"].p2} />
+        </Subsection>
+        <Subsection heading="1.5.2">
+            <Paragraph content={sectionObject[".2"].text} />
+            Under construction...
         </Subsection>
     </ChapterSection>;
 }
@@ -438,6 +590,7 @@ export default function Chapter1() {
             <SectionGroupHeader key="ch(1.5)" title={chapter1Text["(1.5).group"].title} content={chapter1Text["(1.5).group"].p} />,
             <Section2 key="ch1.2" />,
             <Section3 key="ch1.3" />,
-            <Section4 key="ch1.4" />
+            <Section4 key="ch1.4" />,
+            <Section5 key="ch1.5" />,
         ]} />;
 }
