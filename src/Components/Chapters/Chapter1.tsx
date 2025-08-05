@@ -405,11 +405,11 @@ function MascFemTable(props: {
             </colgroup>
             <thead>
                 <tr>
-                    <th className="bg-blue-950 text-white text-xl" colSpan={2}>{translateTextMarkup(props.title, tableLanguage)}</th>
+                    <th className="bg-blue-950 text-white text-xl py-1" colSpan={2}>{translateTextMarkup(props.title, tableLanguage)}</th>
                 </tr>
                 <tr>
-                    <th className="bg-cyan-800 text-white text-l">{translateText(commonText.Masculine, tableLanguage)}</th>
-                    <th className="bg-cyan-800 text-white text-l">{translateText(commonText.Feminine, tableLanguage)}</th>
+                    <th className="bg-cyan-800 text-white text-l py-1">{translateText(commonText.Masculine, tableLanguage)}</th>
+                    <th className="bg-cyan-800 text-white text-l py-1">{translateText(commonText.Feminine, tableLanguage)}</th>
                 </tr>
                 {
                     props.subheadings != null && <tr>

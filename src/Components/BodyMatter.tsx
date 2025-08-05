@@ -26,7 +26,7 @@ export function Chapter(props: {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
     return <article className="pl-1">
         <h1 id={`chapter-${props.number}`} className="mb-2 text-2xl font-bold border-b-1 border-black">
-            {langSelect === 'en' ? "CHAPTER" : "CAIBIDIL"} {props.number} | {translateText(props.title, langSelect)}
+            <span>{langSelect === 'en' ? "CHAPTER" : "CAIBIDIL"} {props.number} | {translateText(props.title, langSelect)}</span>
             <LanguageSelector
                 selection={langSelect}
                 onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
@@ -47,7 +47,7 @@ export function SectionGroupHeader(props: {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
     return <>
         <h2 className="text-xl mb-2 border-b-1 border-black">
-            {translateText(props.title, langSelect)}
+            <span>{translateText(props.title, langSelect)}</span>
             <LanguageSelector
                 selection={langSelect}
                 onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
@@ -70,7 +70,7 @@ export function ChapterSection(props: {
 
     return <>
         <h2 id={`section-${props.sectionId.replaceAll(".", "-")}`} className="text-xl mb-2 border-b-1 border-black">
-            {props.sectionId} {translateText(props.title, langSelect)}
+            <span>{props.sectionId} {translateText(props.title, langSelect)}</span>
             <LanguageSelector
                 selection={langSelect}
                 onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}

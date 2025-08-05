@@ -1,32 +1,62 @@
 import React from "react";
 import Chapter1 from "./Components/Chapters/Chapter1";
 import Chapter7 from "./Components/Chapters/Chapter7";
+import { TableOfContents } from "./Components/TableOfContents";
 
 const availableChapters = [
   { label: "Chapter 1 - The Article", element: <Chapter1 /> },
   { label: "Chapter 7 - The Copula", element: <Chapter7 /> }
 ];
 
+function ChapterSelect(props: {
+  currentChapter: number;
+  onSelect: (x: number) => void;
+}) {
+  return <>
+    <b>Chapter Selection:</b>
+    <div className="flex flex-row border-1 border-dashed border-black mb-1">
+      {
+        availableChapters.map((x, i) =>
+          <button
+            key={x.label}
+            onClick={() => props.onSelect(i)}
+            className={`cursor-pointer text-white p-1 m-1 ${i === props.currentChapter ? "bg-amber-500 font-bold" : "bg-amber-700"}`}>{
+              x.label
+            }</button>
+        )
+      }
+    </div>
+  </>;
+}
+
 function App() {
   const [currentChapter, setCurrentChapter] = React.useState(-1 as number);
 
   return <div className="max-w-[900px] mb-[50vh]">
-    <div>
-      Note: This is under construction. Translations largely copied from ones hosted <a className="text-blue-300" href="https://caighdean.home.blog/">here</a>.
-    </div>
-    <div>Select a chapter:</div>
-    <select defaultValue={currentChapter} 
-      className="border-1 border-black rounded-sm" 
-      onChange={(e) => setCurrentChapter(+e.currentTarget.value)}>
-      <option value={-1}></option>
-      {
-        availableChapters.map((x, i) => <option key={i} value={i}>{x.label}</option>)
-      }
-    </select>
+    Notes:
+    <ul>
+      <li>
+        This is under construction. Translations largely copied from ones hosted <a className="text-blue-300" href="https://caighdean.home.blog/">here</a>.
+      </li>
+      <li>
+        The project is tracked at <a className="text-blue-300" href="https://github.com/calculuswhiz/caighdean-bearla">GitHub</a>.
+      </li>
+    </ul>
+    <ChapterSelect currentChapter={currentChapter} onSelect={(x) => {
+      setCurrentChapter(x);
+    }} />
     <hr />
+    {
+      currentChapter !== -1 && <TableOfContents currentChapter={currentChapter} />
+    }
     {
       currentChapter !== -1 && availableChapters[currentChapter].element
     }
+    <button
+      onClick={() => window.scrollTo({ top: 0 })}
+      className="fixed bottom-2 right-2 border-1 border-black p-2 bg-white cursor-pointer">
+      Back to top
+    </button>
   </div>;
 }
 
