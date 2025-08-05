@@ -29,6 +29,14 @@
     "row2Name": {
       "ga": "Guta",
       "en": "Vowel"
+    },
+    "LenitionNote": {
+      "ga": "*Is iad seo na consain inséimhithe: `b, c, d, f, g, m, p, s` agus `t`",
+      "en": "*These are the lenitable consonants: `b, c, d, f, g, m, p, s` and `t`"
+    },
+    "EclipsisNote": {
+      "ga": "*Is iad seo na consain inuraithe: `b, c, d, f, g, p` agus `t`.",
+      "en": "*These are the eclipsable consonants: `b, c, d, f, g, p` and `t`."
     }
   },
   "1.1": {
@@ -491,7 +499,7 @@
             "en": "every consonant"
           },
           {
-            "ga": "gan aon athru",
+            "ga": "gan aon athrú",
             "en": "no change"
           }
         ],
@@ -537,7 +545,7 @@
                 ],
                 "en": [
                   "`s`",
-                  "(seachas `sc-`, `sf-`, `sm-`, `sp-`, `st-`, `sv-`)"
+                  "(except `sc-`, `sf-`, `sm-`, `sp-`, `st-`, `sv-`)"
                 ]
               },
               {
@@ -553,41 +561,37 @@
             "en": "every vowel"
           },
           {
-            "ga": "`gan aon ahtrú",
+            "ga": "gan aon ahtrú",
             "en": "no change"
           }
         ]
-      },
-      "footnote": {
-        "ga": "*Is iad seo na consain inséimhithe: `b, c, d, f, g, m, p, s` agus `t`",
-        "en": "*These are the lenitable consonants: `b, c, d, f, g, m, p, s` and `t`"
       }
     }
   },
   "1.3": {
     "title": {
       "ga": "An Tuiseal Tabharthach Uatha",
-      "en": "The Singular Present Case"
+      "en": "The Dative Singular Case"
     },
     ".1": {
       "ga": "Tugtar an tuiseal tabharthach ar an tuiseal a thagann i ndiaidh na réamhfhocal `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` agus `um`. Is de réir mar atá leagtha amach sna táblaí ina dhiaidh seo a phléitear le hainmfhocail ar lorg an ailt sa tuiseal tabharthach uatha.",
-      "en": null
+      "en": "The dative case is given to the case following the preposition: `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` and `um`. Nouns that follow the article in the dative singular case are dealt with as laid out in the following tables."
     },
     ".2": {
       "ga": "Is é an tuiseal ainmneach a leanann na focail `ach, amhail, gan, go dtí, idir, mar, murach, ná` agus `seachas` agus an t-alt, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. Úsáidtear an tuiseal tabharthach sa leagan calctha `mar an gcéanna`.",
-      "en": null
+      "en": "The nominative case follows the words `ach, amhail, gan, go dtí, idir, mar, murach, ná` and `seachas` and the article, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. The dative case is used in the (calqued version)? `in the same way`."
     },
     ".3": {
       "ga": "Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: `réamhfhocal` + `ainmfhocal` + `a` + `ainm briathartha`, e.g., `leis an ngnó a dhéanamh; as an árasán a dhíol`.",
-      "en": null
+      "en": "The general rules of the dative are applied to forms of this type: `perposition` + `noun` + `a` + `verbal noun`, e.g., `leis an ngnó a dhéanamh; as an árasán a dhíol`."
     },
     ".4": {
       "ga": "I gcás na réamhfhocal `de, do, faoi, i` agus `ó`, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.",
-      "en": null
+      "en": "In the case of prepositions `de, do, faoi, i` and `ó`, the preposition and the singular article are merged as shown below."
     },
     ".5": {
       "ga": "Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.",
-      "en": null
+      "en": "The prepositions in the table below have specific forms when they precede the singular article."
     }
   },
   "1.4": {
@@ -763,7 +767,7 @@
     },
     ".1": {
       "title": {
-        "ga": "An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra",
+        "ga": "``An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra``",
         "en": null
       },
       "p1": {
@@ -780,7 +784,7 @@
     },
     ".2": {
       "title": {
-        "ga": "An Tuiseal Tabharthach Iolra",
+        "ga": "``An Tuiseal Tabharthach Iolra``",
         "en": null
       },
       "p1": {
@@ -797,8 +801,8 @@
     },
     ".3": {
       "title": {
-        "ga": "An Tuiseal Ginideach Iolra",
-        "en": "The Genitive Plural Case"
+        "ga": "``An Tuiseal Ginideach Iolra``",
+        "en": "``The Genitive Plural Case``"
       },
       "p": {
         "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach iolra.",
@@ -808,10 +812,6 @@
         "Row1Name": {
           "ga": "Consan inuraithe*",
           "en": "Eclipsable consonants*"
-        },
-        "footnote": {
-          "ga": "*Is iad seo na consain inuraithe: `b, c, d, f, g, p` agus `t`.",
-          "en": "*These are the eclipsable consonants: `b, c, d, f, g, p` and `t`."
         }
       }
     }
