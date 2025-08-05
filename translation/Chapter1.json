@@ -198,7 +198,7 @@
         },
         "p2": {
           "ga": "Úsáidtear an t-alt leis na míonna `Márta`, `Bealtaine`, `Meitheamh`, `Samhain` agus `Nollaig`. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha `san Aibreán`.",
-          "en": "The article is used for the months `Márta` (March), `Bealtaine` (May), `Meitheamh` (June), `Samhain` (November) agus `Nollaig` (December). The article is not used for the other months except for the static form `san Aibreán` (in April)."
+          "en": "The article is used for the months `Márta` (March), `Bealtaine` (May), `Meitheamh` (June), `Samhain` (November) agus `Nollaig` (December). The article is not used for the other months except for the calque `san Aibreán` (in April). `(`calque` appears to be the intended meaning here for `leagan calctha`. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another use.)`"
         },
         "samples": [
           [
@@ -479,17 +479,17 @@
     },
     "p": {
       "ga": "Cúig thuiseal atá sa Ghaeilge: an tuiseal ainmneach, an tuiseal cuspóireach, an tuiseal tabharthach, an tuiseal ginideach agus an tuiseal gairmeach (féach 2.1.2). Sna táblaí a leanas, taispeántar na hathruithe a dhéantar ar an alt agus ar thúslitir an ainmfhocail bunaithe ar cheithre ní — inscne, tuiseal, uimhir agus túslitir an ainmfhocail. Féach freisin Caibidil 10 le haghaidh eolas breise ar na hathruithe tosaigh.",
-      "en": "There are five cases in the Irish language: the nominative case, the objective/accusative case, the dative case, the genitive case and the vocative case (see 2.1.2). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items — gender, case, number and the first letter of the noun. Also see Chapter 10 for additional information about initial changes."
+      "en": "There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see 2.1.2). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items — gender, case, number and the first letter of the noun. Also see Chapter 10 for additional information about initial changes."
     }
   },
   "1.2": {
     "title": {
       "ga": "An Tuiseal Ainmneach agus an Tuiseal Cuspóireach Uatha",
-      "en": "The Nominative Case and the Singular Objective Case"
+      "en": "The Nominative Case and the Singular Accusative Case"
     },
     "p1": {
       "ga": "Is ionann foirm an ainmfhocail sa tuiseal ainmneach agus sa tuiseal cuspóireach uatha. Féach an tábla thíos ina léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sna tuisil sin.",
-      "en": "The noun form is the same for the nominative case and the singular objective case. See the table below which shows the effect of the article on the noun in those cases."
+      "en": "The noun form is the same for the nominative case and the singular accusative case. See the below table which shows the effect of the article on the noun in those cases."
     },
     "Table1A": {
       "masc": {
@@ -579,7 +579,7 @@
     },
     ".2": {
       "ga": "Is é an tuiseal ainmneach a leanann na focail `ach, amhail, gan, go dtí, idir, mar, murach, ná` agus `seachas` agus an t-alt, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. Úsáidtear an tuiseal tabharthach sa leagan calctha `mar an gcéanna`.",
-      "en": "The nominative case follows the words `ach, amhail, gan, go dtí, idir, mar, murach, ná` and `seachas` and the article, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. The dative case is used in the (calqued version)? `in the same way`."
+      "en": "The nominative case follows the words `ach, amhail, gan, go dtí, idir, mar, murach, ná` and `seachas` and the article, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. The dative case is used in the calque `mar an gcéanna`."
     },
     ".3": {
       "ga": "Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: `réamhfhocal` + `ainmfhocal` + `a` + `ainm briathartha`, e.g., `leis an ngnó a dhéanamh; as an árasán a dhíol`.",
@@ -591,13 +591,13 @@
     },
     ".5": {
       "ga": "Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.",
-      "en": "The prepositions in the table below have specific forms when they precede the singular article."
+      "en": "The prepositions in the below table have specific forms when they precede the singular article."
     }
   },
   "1.4": {
     "title": {
       "ga": "An Tuiseal Tabharthach Uatha — An Córas Lárnach",
-      "en": "The Dative Singular Case — The Central System"
+      "en": "The Dative Singular Case — The Core System"
     },
     ".1": {
       "text": {
@@ -618,12 +618,12 @@
     ".2": {
       "text": {
         "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús `s` sa tuiseal tabharthach. Cuirtear `t` roimh `s` ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús `sc-, sf-, sm-, sp-, st-` nó `sv-` a fhágtar lom) mar a léirítear sa tábla thíos.",
-        "en": "No change is done to masculine nouns starting with `s` in the dative case. A `t` precedes an `s` in feminine nouns (except in cases where the noun starts with `sc-, sf-, sm-, sp-, st-` or `sv-` they are left bare) as shown in the below table."
+        "en": "No change is done to masculine nouns starting with `s` in the dative case. A `t` precedes an `s` in feminine nouns (except in cases where the noun starts with `sc-, sf-, sm-, sp-, st-` or `sv-` which are left bare) as shown in the below table."
       },
       "Table1C": {
         "title": {
           "ga": "An Córas Lárnach — Ainmfhocail dar tús `s`",
-          "en": "The Central System — Nouns Starting with `s`"
+          "en": "The Core System — Nouns Starting with `s`"
         },
         "col1Desc": {
           "ga": "Gan Athrú",
@@ -643,7 +643,7 @@
       "Table1D": {
         "Title": {
           "ga": "An Córas Lárnach — Ainmfhocail dar tús Guta",
-          "en": "The Central System — Nouns Starting with Vowels"
+          "en": "The Core System — Nouns Starting with Vowels"
         }
       }
     },
@@ -655,13 +655,13 @@
       "Table1E": {
         "Title": {
           "ga": "An Córas Lárnach — Ainmfhocail dar tús `d` agus `t`",
-          "en": "The Central System — Nouns Starting with `d` and `t`"
+          "en": "The Core System — Nouns Starting with `d` and `t`"
         }
       },
       "Notes": {
         "p1": {
           "ga": "I dteannta an Chórais Lárnaigh a thugtar sa chaibidil seo, ceadaítear na roghanna seo a leanas:",
-          "en": "In addition to the Central System given in this chapter, the following choices are allowed:"
+          "en": "In addition to the Core System given in this chapter, the following choices are allowed:"
         },
         ".a": {
           "ga": "urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh `den` agus `don`, e.g., `den gcrann, don bhfear;` nó",
@@ -769,12 +769,12 @@
     ".2": {
       "text": {
         "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.",
-        "en": null
+        "en": "In the below table, the effect of the article on the noun in the genitive case is shown."
       },
       "Table1F": {
         "title": {
           "ga": "An Tuiseal Ginideach Uatha",
-          "en": null
+          "en": "The Genitive Singular Case"
         },
         "comment": "Table 1F is pretty much the same as 1A with masc/fem swapped and instead of 't' prefix, it's 'h' prefix. We'll handle this in the layout code."
       }
@@ -792,34 +792,34 @@
     ".1": {
       "title": {
         "ga": "``An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra``",
-        "en": null
+        "en": "``The Nominative Plural Case and the Accusative Plural Case``"
       },
       "p1": {
         "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ainmneach iolra agus sa tuiseal cuspóireach iolra.",
-        "en": null
+        "en": "In the table below, the effect of the article on the noun in the nominative plural case and in the accusative plural case."
       },
       "Table1G": {
         "comment": "Table 1G is the same as the Feminine sub-table of 1F.",
         "title": {
           "ga": "An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra",
-          "en": null
+          "en": "The Nominative Plural Case and the Accusative Plural Case"
         }
       }
     },
     ".2": {
       "title": {
         "ga": "``An Tuiseal Tabharthach Iolra``",
-        "en": null
+        "en": "``The Dative Plural Case``"
       },
       "p1": {
-        "ga": "Leanann an tuiseal tabharthach na réamhfhocail `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` agus `um`. Déantar cumasc idir an réamhfhocal `i` agus an t-alt san uimhir iolra: `i` + `na` = `sna`. Tá foirm ar leith ar `fara` agus le roimh an alt san uimhir iolra: `fara, fairis; le, leis`. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.",
-        "en": null
+        "ga": "Leanann an tuiseal tabharthach na réamhfhocail `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` agus `um`. Déantar cumasc idir an réamhfhocal `i` agus an t-alt san uimhir iolra: `i` + `na` = `sna`. Tá foirm ar leith ar `fara` agus `le` roimh an alt san uimhir iolra: `fara, fairis; le, leis`. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.",
+        "en": "The dative plural case follows the prepositions `a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí` and `um`. The prepostion `i` is combined with the article in the plural: `i` + `na` = `sna`. There is a separate form for `fara` and `le` before the article in the plural: `fara, fairis; le, leis`. Shown in the below table is the effect of the article on the noun in the dative plural case."
       },
       "Table1H": {
         "comment": "Same cases as 1G.",
         "title": {
           "ga": "An Tuiseal Tabharthach Iolra",
-          "en": null
+          "en": "The Dative Plural Case"
         }
       }
     },
@@ -830,7 +830,7 @@
       },
       "p": {
         "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach iolra.",
-        "en": null
+        "en": "In the below table, the effect of the article on the noun in the genitive case is shown."
       },
       "Table1I": {
         "Row1Name": {
@@ -843,29 +843,29 @@
   "1.7": {
     "Title": {
       "ga": "An Tuiseal Tabharthach Uatha — Córas an tSéimhithe",
-      "en": null
+      "en": "The Dative Singular Case — The Lenition System"
     },
     ".1": {
       "p": {
         "ga": "Sa tuiseal tabharthach uatha amháin, tá rogha eile ann ar a dtugtar Córas an tSéimhithe. Moltar cloí le córas amháin — an Córas Lárnach nó Córas an tSéimhithe — agus gan na córais a mheascadh.",
-        "en": null
+        "en": "In the dative plural case only, there are other choices given for the Lenition System. It is recommended to adhere to one system only — the Core System or the Lenition System — and  not to mix the systems."
       }
     },
     ".2": {
       "p": {
         "ga": "Is ionann na rialacha a bhaineann leis an tuiseal tabharthach iolra sa Chóras Lárnach agus i gCóras an tSéimhithe (féach 1.6.2).",
-        "en": null
+        "en": "The rules regarding the dative plural case in the Core System and in the Lenition System are the same (See 1.6.2)."
       }
     },
     ".3": {
       "p": {
         "ga": "I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas `d`, `t` agus `s`) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.",
-        "en": null
+        "en": "In the Lenition system, nouns starting with the a consonant are lenited (except `d`, `t` and `s`) and on the adjectives attached to them. See the below table."
       },
       "Table1J": {
         "Title": {
           "ga": "Córas an tSéimhithe — Ainmfhocail dar tús Consan seachas `d`, `t` agus `s`",
-          "en": null
+          "en": "The Lenition System — Nouns starting with a consonant except `d`, `t`, and `s`"
         },
         "note": {
           "ga": "ACH i gcás f roimh ghuta:",
@@ -876,7 +876,7 @@
     ".4": {
       "p": {
         "ga": "Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús `s`, cuirtear `t` roimh an `s` (seachas i gcás ainmfhocail dar tús `sc-, sf-, sm-, sp-, st-` nó `sv-` a fhágtar lom) mar a léirítear sa tábla thíos.",
-        "en": null
+        "en": "As for masculine nouns and feminine nouns starting with `s`, a `t` is placed before the `s` (except with nouns starting with `sc-, sf-, sm-, sp-, st-` or `sv-` which are left bare) as shown in the below table."
       },
       "Table1K": {
         "subheading": {
@@ -885,31 +885,31 @@
         },
         "title": {
           "ga": "Córas an tSéimhithe — Ainmfhocail dar tús s",
-          "en": null
+          "en": "The Lenition System — Nouns Starting with `s`"
         }
       }
     },
     ".5": {
       "text": {
         "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.",
-        "en": null
+        "en": "No change is done to either masculine nouns or feminine nouns starting with vowels. See the below table."
       },
       "Table1L": {
         "Title": {
           "ga": "Córas an tSéimhithe — Ainmfhocail dar tús Guta",
-          "en": null
+          "en": "The Lenition System — Nouns Starting with a Vowel"
         }
       }
     },
     ".6": {
       "text": {
         "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús `d` agus `t`. Féach an tábla thíos.",
-        "en": null
+        "en": "No change is done to either masculine nouns or feminine nouns starting with `d` and `t`. See the below table."
       },
       "Table1M": {
         "Title": {
           "ga": "Córas an tSéimhithe — Ainmfhocail dar tús `d` agus `t`",
-          "en": null
+          "en": "The Lenition System — Nouns Starting with `d` and `t`"
         }
       }
     }
