@@ -597,17 +597,17 @@
   "1.4": {
     "title": {
       "ga": "An Tuiseal Tabharthach Uatha — An Córas Lárnach",
-      "en": null
+      "en": "The Dative Singular Case — The Central System"
     },
     ".1": {
       "text": {
         "ga": "Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas `d`, `t` agus `s`), cuirtear séimhiú orthu i ndiaidh `den`, `don`, `sa/san` agus urú i ngach cás eile, mar a léirítear sa tábla thíos.",
-        "en": null
+        "en": "As for masculine and feminine nouns starting with a consonant (except `d`, `t` and `s`), apply lenition to them following `den`, `don`, `sa/san` and eclipsis in every other case, as shown in the below table."
       },
       "Table1B": {
         "title": {
-          "ga": "Ainmfhocail dar tús Consan seachas  `d`, `t` agus `s`",
-          "en": null
+          "ga": "Ainmfhocail dar tús Consan seachas `d`, `t` agus `s`",
+          "en": "Nouns Starting With a Consonant except `d`, `t` and `s`"
         },
         "note1": {
           "ga": "`ACH i gcás` f `roimh ghuta:`",
@@ -617,13 +617,13 @@
     },
     ".2": {
       "text": {
-        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús s sa tuiseal tabharthach. Cuirtear `t` roimh `s` ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús `sc-, sf-, sm-, sp-, st-` nó `sv-` a fhágtar lom) mar a léirítear sa tábla thíos.",
-        "en": null
+        "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús `s` sa tuiseal tabharthach. Cuirtear `t` roimh `s` ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús `sc-, sf-, sm-, sp-, st-` nó `sv-` a fhágtar lom) mar a léirítear sa tábla thíos.",
+        "en": "No change is done to masculine nouns starting with `s` in the dative case. A `t` precedes an `s` in feminine nouns (except in cases where the noun starts with `sc-, sf-, sm-, sp-, st-` or `sv-` they are left bare) as shown in the below table."
       },
       "Table1C": {
         "title": {
           "ga": "An Córas Lárnach — Ainmfhocail dar tús `s`",
-          "en": null
+          "en": "The Central System — Nouns Starting with `s`"
         },
         "col1Desc": {
           "ga": "Gan Athrú",
@@ -638,38 +638,38 @@
     ".3": {
       "text": {
         "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta.",
-        "en": null
+        "en": "No change is made to masculine nouns or feminine nouns starting with a vowel."
       },
       "Table1D": {
         "Title": {
           "ga": "An Córas Lárnach — Ainmfhocail dar tús Guta",
-          "en": null
+          "en": "The Central System — Nouns Starting with Vowels"
         }
       }
     },
     ".4": {
       "text": {
         "ga": "Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús `d` agus `t`.",
-        "en": null
+        "en": "No change is made to masculine nouns or feminine nouns starting with `d` and `t`."
       },
       "Table1E": {
         "Title": {
           "ga": "An Córas Lárnach — Ainmfhocail dar tús `d` agus `t`",
-          "en": null
+          "en": "The Central System — Nouns Starting with `d` and `t`"
         }
       },
       "Notes": {
         "p1": {
           "ga": "I dteannta an Chórais Lárnaigh a thugtar sa chaibidil seo, ceadaítear na roghanna seo a leanas:",
-          "en": null
+          "en": "In addition to the Central System given in this chapter, the following choices are allowed:"
         },
         ".a": {
           "ga": "urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh `den` agus `don`, e.g., `den gcrann, don bhfear;` nó",
-          "en": null
+          "en": "eclipsis of the noun (in instead of lenition) following `den` and `don`, e.g., `den gcrann, don bhfear;` or"
         },
         ".b": {
-          "ga": "urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh sa, e.g., `sa bpáirc, sa gcarr`.",
-          "en": null
+          "ga": "urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh `sa`, e.g., `sa bpáirc, sa gcarr`.",
+          "en": "eclipsis of the noun (instead of lenition) following `sa`, e.g., `sa bpáirc, sa gcarr`."
         }
       }
     }
@@ -677,12 +677,12 @@
   "1.5": {
     "title": {
       "ga": "An Tuiseal Ginideach Uatha",
-      "en": null
+      "en": "The Genitive Singular Case"
     },
     ".1": {
       "p1": {
         "ga": "Is gnách foirm an ghinidigh a úsáid i gcás go bhfuil an t-ainmfhocal faoi réir ag ceann de na nithe seo a leanas—",
-        "en": null
+        "en": "It is customary to use the genitive form in when the noun is governed by the following things—"
       },
       ".a": {
         "text": {
@@ -690,56 +690,80 @@
           "en": "other nouns:"
         },
         "samples": [
-          ["Cár fhág tú eochair an chairr?", null],
-          ["Tá muintir na háite sásta le foireann na leabharlainne.", null]
+          [
+            "Cár fhág tú ``eochair an chairr``?",
+            "Where did you leave the car keys?"
+          ],
+          [
+            "Tá muintir na háite sásta le ``foireann na leabharlainne``.",
+            "The local people are happy with the library staff."
+          ]
         ]
       },
       ".b": {
         "text": {
           "ga": "ainm briathartha:",
-          "en": null
+          "en": "verbal nouns:"
         },
         "samples": [
-          ["Is maith leis na gasúir a bheith ag réiteach an dinnéir.", null],
-          ["Is í Síle atá ag déanamh na hArdteiste i mbliana.", null]
+          [
+            "Is maith leis na gasúir a bheith ``ag réiteach an dinnéir``.",
+            "The youngsters like to be preparing dinner."
+          ],
+          [
+            "Is í Síle atá ``ag déanamh na hArdteiste`` i mbliana.",
+            "It is Síle who is doing the Leaving Certificate this year."
+          ]
         ]
       },
       ".c": {
         "text": {
           "ga": "réamhfhocal comhshuite, e.g., `faoi chomhair, i gcás, le haghaidh`:",
-          "en": null
+          "en": "compound prepositions, e.g., `faoi chomhair, i gcás, le haghaidh`:"
         },
         "samples": [
           [
-            "Bíonn an cat ina shuí ansin os comhair na tine gach uile oíche.",
-            null
+            "Bíonn an cat ina shuí ansin ``os comhair na tine`` gach uile oíche.",
+            "The cat sits in front of the fire every night."
           ],
-          ["Ba iad na hailtirí a bhí i mbun an scrúdaithe.", null]
+          [
+            "Ba iad na hailtirí a bhí ``i mbun an scrúdaithe``.",
+            "The architects were attending to the test."
+          ]
         ]
       },
       ".d": {
         "text": {
           "ga": "ceann de na focail `cois, dála, fearacht, timpeall, trasna`:",
-          "en": null
+          "en": "one of the words `cois, dála, fearacht, timpeall, trasna`:"
         },
         "samples": [
-          ["Chuala mé go ndeachaigh sibh ar thuras timpeall an domhain.", null],
-          ["Shiúlamar cois na habhann.", null]
+          [
+            "Chuala mé go ndeachaigh sibh ar thuras ``timpeall an domhain``.",
+            "I heard that you went on a journey around the world."
+          ],
+          ["Shiúlamar ``cois na habhann``.", "We walked beside the river."]
         ]
       },
       ".e": {
         "text": {
-          "ga": "an réamhfhocal chun:",
-          "en": null
+          "ga": "an réamhfhocal `chun`:",
+          "en": "the preposition `chun`:"
         },
         "samples": [
-          ["Tá an grúpa uile ag dul chun na Spáinne i mí Iúil.", null],
-          ["Rinne siad achomharc chun na cúirte.", null]
+          [
+            "Tá an grúpa uile ag dul ``chun na Spáinne`` i mí Iúil.",
+            "The whole group is going to Spain in July."
+          ],
+          [
+            "Rinne siad achomharc ``chun na cúirte``.",
+            "They made an appeal to the court."
+          ]
         ]
       },
       "p2": {
         "ga": "Féach 3.3 le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.",
-        "en": null
+        "en": "See 3.3 for cases where the nominative form is used instead of the genitive."
       }
     },
     ".2": {
