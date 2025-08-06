@@ -520,7 +520,7 @@
             [
               {
                 "ga": ["consan inséimhithe*", "(seachas `d`, `t` nó `s`)"],
-                "en": ["lenitable consonants*", "(except `d`, `t` nó `s`)"]
+                "en": ["lenitable consonants*", "(except `d`, `t` or `s`)"]
               },
               {
                 "ga": "séimhiú",
@@ -769,7 +769,7 @@
     ".2": {
       "text": {
         "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.",
-        "en": "In the below table, the effect of the article on the noun in the genitive case is shown."
+        "en": "In the below table, the effect of the article on the noun in the genitive singular case is shown."
       },
       "Table1F": {
         "title": {
@@ -830,9 +830,13 @@
       },
       "p": {
         "ga": "Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach iolra.",
-        "en": "In the below table, the effect of the article on the noun in the genitive case is shown."
+        "en": "In the below table, the effect of the article on the noun in the genitive plural case is shown."
       },
       "Table1I": {
+        "title": {
+          "ga": "An Tuiseal Ginideach Iolra",
+          "en": "The Genitive Plural Case"
+        },
         "Row1Name": {
           "ga": "Consan inuraithe*",
           "en": "Eclipsable consonants*"

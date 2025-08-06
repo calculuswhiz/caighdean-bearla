@@ -13,7 +13,7 @@
     },
     "Consonant": {
         "ga": "Consan",
-        "en": "Consonants"
+        "en": "Consonant"
     },
     "Vowel": {
         "ga": "Guta",
@@ -26,5 +26,9 @@
     "Lenition": {
         "ga": "séimhiú",
         "en": "lenition"
+    },
+    "Table": {
+        "ga": "Tábhla",
+        "en": "Table"
     }
 }

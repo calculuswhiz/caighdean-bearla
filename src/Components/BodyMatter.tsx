@@ -131,3 +131,9 @@ export function TableKey(props: {
         <span>{props.label}</span>
     </div>;
 }
+
+export function Footnote(props: {
+    children: React.ReactNode;
+}) {
+    return <div className="text-sm pl-2 text-gray-600">{props.children}</div>
+}
