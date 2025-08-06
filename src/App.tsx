@@ -36,7 +36,7 @@ function App() {
     Notes:
     <ul>
       <li>
-        This is under construction. Translations largely copied from ones hosted <a className="text-blue-300" href="https://caighdean.home.blog/">here</a>.
+        This is under construction. Many translations for chapter 1 and 7 were copied from <a className="text-blue-300" href="https://caighdean.home.blog/">here</a>.
       </li>
       <li>
         The project is tracked at <a className="text-blue-300" href="https://github.com/calculuswhiz/caighdean-bearla">GitHub</a>.
@@ -52,10 +52,14 @@ function App() {
     {
       currentChapter !== -1 && availableChapters[currentChapter].element
     }
+    <footer className="fixed bottom-0 w-[100%] p-2 border-y-1 border-black bg-white">
+      This is an unofficial translation.
+    </footer>
     <button
       onClick={() => window.scrollTo({ top: 0 })}
-      className="fixed bottom-2 right-2 border-1 border-black p-2 bg-white cursor-pointer">
-      Back to top
+      className="fixed bottom-12 right-2 border-1 border-black p-2 bg-white cursor-pointer"
+      title="Scroll to top">
+      ⌃
     </button>
   </div>;
 }

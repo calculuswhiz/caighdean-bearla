@@ -1,0 +1,125 @@
+{
+  "preface": {},
+  "preface1Ed": {},
+  "abbreviations": {
+    "comment": "Not sure we need this, but we can have a placeholder here as a reminder later."
+  },
+  "grammar": {
+    "tableTitle": {
+      "ga": "Mínithe Gramadaí",
+      "en": "Grammar Explanations"
+    },
+    "rowData": [
+      [
+        {
+          "ga": "`a` as `do`",
+          "en": "`a` out of `do`"
+        },
+        {
+          "ga": "tagairt don mhír `a` a dhíorthaítear as `do`, e.g., `rud a dhéanamh`",
+          "en": "refers to the particle `a` being derived from `do` e.g., `rud a dhéanamh`"
+        }
+      ],
+      [
+        {
+          "ga": "abairt chopaileach",
+          "en": "copular sentence"
+        },
+        {
+          "ga": "abairt ina gceanglaítear an t-ainmní leis an bhfaisnéis, e.g., `ba cheoltóir é; is fada liom uaim í`",
+          "en": "a sentence where the subject is connected to the object, e.g., `ba cheoltóir é; is fada liom uaim í`"
+        }
+      ],
+      [
+        {
+          "ga": "abairtín dobhriathartha",
+          "en": "adverbial phrase"
+        },
+        {
+          "ga": "abairtín a bhfuil feidhm dhobhriathair aige, e.g., `chríochnaigh siad ``ar deireadh``; níl sé ``ar fáil```",
+          "en": "a phrase that has applications as an adverb, e.g., `chríochnaigh siad ``ar deireadh``; níl sé ``ar fáil```"
+        }
+      ],
+      [
+        {
+          "ga": "aidiacht",
+          "en": "adjective"
+        },
+        {
+          "ga": "focal a cháilíonn ainmfhocal nó forainmneach, e.g., `an carr ``dearg``; an bosca ``mór``; tá sé ``fliuch```",
+          "en": "a word that qualifies a noun or pronoun, e.g., `an carr ``dearg``; an bosca ``mór``; tá sé ``fliuch```"
+        }
+      ],
+      [
+        {
+          "ga": "ainm briathartha",
+          "en": "verbal noun"
+        },
+        {
+          "ga": "focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige, e.g., `deireadh na ``heitilte``, ag ``eitilt``; ``foghlaim`` a fháil, ag ``foghlaim```",
+          "en": "a word that has applications both as a noun and a verb, e.g., `deireadh na ``heitilte``, ag ``eitilt``; ``foghlaim`` a fháil, ag ``foghlaim```"
+        }
+      ],
+      [
+        {
+          "ga": "ainm dílis",
+          "en": "proper noun"
+        },
+        {
+          "ga": "ainm duine nó áite áirithe, e.g., `Liam; Éire`",
+          "en": "a name of a certain person or a place, e.g., `Liam; Éire`"
+        }
+      ],
+      [
+        {
+          "ga": "ainmfhocal",
+          "en": "noun"
+        },
+        {
+          "ga": "focal a úsáidtear chun tagairt do dhuine nó d'áit nó do rud nó d'idé, e.g., `bean; bóthar; camán; díograis`",
+          "en": "word that is used in reference to a person or a place or a thing or an idea, e.g., `bean; bóthar; camán; díograis`"
+        }
+      ],
+      [
+        {
+          "ga": "ainmní",
+          "en": "subject"
+        },
+        {
+          "ga": "an príomh-ainmfhocal (nó a chothrom) in abairt, e.g., `cheannaigh ``Nuala`` mála nua, tá ``páipéar`` ar an mbord; canfaidh ``sé`` amhrán`",
+          "en": "the main noun (or its equivalent) in a sentence, e.g., `cheannaigh ``Nuala`` mála nua, tá ``páipéar`` ar an mbord; canfaidh ``sé`` amhrán`"
+        }
+      ],
+      [
+        {
+          "ga": "clásal",
+          "en": "clause"
+        },
+        {
+          "ga": "frása atá nasctha le frása eile, e.g., `chuaigh sí chun na hoifige [agus thosaigh sí ag obair]; [tá an lá tirim] ach níl sé te`",
+          "en": "phrase that is linked to another phrase, e.g., `chuaigh sí chun na hoifige [agus thosaigh sí ag obair]; [tá an lá tirim] ach níl sé te`"
+        }
+      ],
+      [
+        {
+          "ga": "clásal coibhneasta",
+          "en": "relative clause"
+        },
+        {
+          "ga": "clásal ina bhfuil mír choibhneasta nó ina bhfuil foirm choibhneasta den bhriathar, e.g., `sin í an cailín ``a dhún an doras ar maidin``; cá bhfuil an bhróg ``nár ghlan tú inné``?`",
+          "en": "clause in which there is a relative particle or in which there is a relative form of a verb, e.g., `sin í an cailín ``a dhún an doras ar maidin``; cá bhfuil an bhróg ``nár ghlan tú inné``?`"
+        }
+      ],
+      [
+        {
+          "ga": "consan caol",
+          "en": "slender consonant"
+        },
+        {
+            "ga": "consan ar `e` nó `i` an guta is cóngaraí dó",
+            "en": "consonant to which `e` or `i` is the closest vowel"
+        }
+      ]
+    ]
+  }
+}
