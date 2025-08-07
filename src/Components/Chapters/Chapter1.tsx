@@ -183,7 +183,7 @@ function ArticleTableRow(props: {
     return <>
         {
             props.content.map((rowData, idx) =>
-                <tr>
+                <tr key={idx}>
                     {idx === 0
                         && <th className="font-bold bg-gray-200 p-2 border-2 border-white"
                             rowSpan={props.content.length}>{props.initialText}</th>

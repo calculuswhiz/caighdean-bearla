@@ -1,4 +1,6 @@
-import { applyBasicMarkup } from "../translate";
+import markdownit from 'markdown-it';
+
+const md = markdownit();
 
 /** The little gray boxes that appear as examples. This is a translation project, 
  * so of course, we will need corresponding translations for each sample text. */
@@ -17,11 +19,13 @@ export default function SampleBox(props: {
                 props.samples.map(([ga, en], i) =>
                     <tr key={i}>
                         {/* ga should never be null */}
-                        <td className="p-1 border-1 border-black">{applyBasicMarkup(ga!)}</td>
+                        <td className="p-1 border-1 border-black">
+                            <span dangerouslySetInnerHTML={{ __html: md.render(ga!.replaceAll('`', "_")) }}></span>
+                        </td>
                         <td className="p-1 border-1 border-black">{
                             en == null || en === ""
                                 ? <span className="text-red-700 italic">Missing Translation</span>
-                                : applyBasicMarkup(en)
+                                : <span dangerouslySetInnerHTML={{ __html: md.render(en.replaceAll("`", "_")) }}></span>
                         }</td>
                     </tr>
                 )

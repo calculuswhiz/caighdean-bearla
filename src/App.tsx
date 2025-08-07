@@ -2,8 +2,10 @@ import React from "react";
 import Chapter1 from "./Components/Chapters/Chapter1";
 import Chapter7 from "./Components/Chapters/Chapter7";
 import { TableOfContents } from "./Components/TableOfContents";
+import { FrontMatter } from "./Components/Chapters/FrontMatter";
 
 const availableChapters = [
+  { label: "Front Matter", element: <FrontMatter /> },
   { label: "Chapter 1 - The Article", element: <Chapter1 /> },
   { label: "Chapter 7 - The Copula", element: <Chapter7 /> }
 ];
