@@ -30,5 +30,47 @@
     "Table": {
         "ga": "Tábhla",
         "en": "Table"
+    },
+    "General": {
+      "ga": "Ginearálta",
+      "en": "General"
+    },
+    "Singular": {
+        "ga": "Uatha",
+        "en": "Singular"
+    },
+    "Plural": {
+        "ga": "Iolra",
+        "en": "Plural"
+    },
+    "Nominative": {
+        "ga": "Ainmneach",
+        "en": "Nominative"
+    },
+    "Genitive": {
+        "ga": "Ginideach",
+        "en": "Genitive"
+    },
+    "Numbering": {
+        "first": {
+            "ga": "Chéad",
+            "en": "First"
+        },
+        "second": {
+            "ga": "Dara",
+            "en": "Second"
+        },
+        "third": {
+            "ga": "Triú",
+            "en": "Third"
+        },
+        "fourth": {
+            "ga": "Ceathrú",
+            "en": "Fourth"
+        },
+        "fifth": {
+            "ga": "Cúigiú",
+            "en": "Fifth"
+        }
     }
 }

@@ -10,7 +10,7 @@ import { Caption, TableStack } from "../TableHelpers";
 function Section1() {
     const sectionObject = chapter1Text["1.1"];
     return <ChapterSection
-        title={sectionObject.title}
+        title={commonText.General}
         sectionId="1.1"
     >
         <Subsection heading="1.1.1">

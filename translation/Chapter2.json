@@ -1,0 +1,98 @@
+{
+  "Title": {
+    "ga": "AN tAINMFHOCAL",
+    "en": "THE NOUN"
+  },
+  "Table2A": {
+    "Title": {
+        "ga": "Samplaí de Thréaniolraí",
+        "en": null
+    },
+    "CornerHeading": {
+        "ga": "AN DÍOCHLAONADH",
+        "en": "THE DECLENSIONS"
+    },
+    "Irregular": {
+        "ga": "Ainmfhocail Neamhrialta",
+        "en": "Irregular Nouns"
+    }
+  },
+  "2.1": {
+    ".1": {
+      "title": {
+        "ga": "Na Díochlaontaí",
+        "en": "The Declensions"
+      },
+      "p1": {
+          "ga": "Roinntear na hainmfhocail ina gcúig dhíochlaonadh, de réir fhoirm a dtuisil ghinidigh, mar a léirítear i dtábla 2E.",
+          "en": null
+      }
+    },
+    ".2": {
+        "title": {
+            "ga": "Na Tuisil",
+            "en": "The Cases"
+        },
+        ".a": {
+            "title": {
+                "ga": "An tAinmneach agus an Cuspóireach",
+                "en": null
+            },
+            "p1": {
+                "ga": "Is ionann foirm don dá thuiseal seo anois, san uatha agus san iolra, agus áirítear iad araon faoin teideal `Ainmneach` i ndíochlaonadh na n-ainmfhocal.",
+                "en": null
+            }
+        },
+        ".b": {
+            "title": {
+                "ga": "An Tabharthach",
+                "en": null
+            },
+            "p1": {
+                "ga": "Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach 2.3.3), agus áirítear an tuiseal sin freisin faoin teideal `Ainmneach`.",
+                "en": null
+            }
+        },
+        ".c": {
+            "title": {
+                "ga": "An Ginideach",
+                "en": "The Genitive"
+            },
+            "p1": {
+                "ga": "Tugtar foirm an ghinidigh sna díochlaontaí éagsúla sna táblaí sa chaibidil seo agus sa chur síos ar na díochlaontaí ar leithligh.",
+                "en": null
+            }
+        },
+        ".d": {
+            "title": {
+                "ga": "An Gairmeach",
+                "en": null
+            },
+            "p1": {
+                "ga": "Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach 2.2.3 agus 2.2.4(c)).",
+                "en": null
+            }
+        }
+    },
+    ".3": {
+        "title": {
+            "ga": "An tIolra",
+            "en": "The Plural"
+        },
+        "p1": {
+            "ga": "Is féidir iolraí na n-ainmfhocal a roinnt ina dhá bpríomhaicme: tréaniolraí agus lagiolraí. Déantar cur síos ar an dá aicme anseo thíos:",
+            "en": null
+        },
+        ".a": {
+            "title": {
+                "ga": "Tréaniolraí",
+                "en": null
+            },
+            "p1": {
+                "ga": "Tugtar tréaniolra ar iolra ainmfhocail i gcás gurb ionann foirm iolra an ainmfhocail sna tuisil go léir.",
+                "en": null
+            }
+        }
+    }
+  }
+}
