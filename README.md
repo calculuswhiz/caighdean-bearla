@@ -37,8 +37,8 @@ For those interested, the following base will be used:
 - React (TSX) for rendering
 - Tailwind for CSS
 - Vite for bundling
-
-For now, no markdown rendering, but may change later as the project grows.
+- Markdown-it for markdown rendering
+  - This is used in the translation JSON files. Note that backtick "`" characters will be treated the same as \* characters.
 
 ## Contributing
 

@@ -4,11 +4,15 @@ import { translateTextMarkup, type LanguageSelection } from "../../translate";
 import { LanguageSelector } from "../BodyMatter";
 
 export function Preface() {
-    return <>Preface TBD</>;
+    return <div>Preface TBD</div>;
+}
+
+export function AdvisoryCommittee() {
+    return <div>Members of the Advisory Committee TBD</div>;
 }
 
 export function Preface1stEdition() {
-    return <>Preface to 1st Ed. TBD</>
+    return <div>Preface to 1st Ed. TBD</div>
 }
 
 export function GrammarNotes() {
@@ -30,8 +34,8 @@ export function GrammarNotes() {
             <tbody>{
                 frontmatterText.grammar.rowData.map(([l, r], i) => 
                     <tr key={i}>
-                        <td className="bg-gray-100 p-1 border-1 border-white font-bold">{translateTextMarkup(l, langSelect)}</td>
-                        <td className="bg-gray-100 p-1 border-1 border-white">{translateTextMarkup(r, langSelect)}</td>
+                        <td className="bg-gray-200 p-1 border-2 border-white font-bold align-top">{translateTextMarkup(l, langSelect)}</td>
+                        <td className="bg-gray-200 p-1 border-2 border-white">{translateTextMarkup(r, langSelect)}</td>
                     </tr>
                 )
             }</tbody>
@@ -42,6 +46,7 @@ export function GrammarNotes() {
 export function FrontMatter() {
     return <>
         <Preface />
+        <AdvisoryCommittee />
         <Preface1stEdition />
         <GrammarNotes />
     </>;

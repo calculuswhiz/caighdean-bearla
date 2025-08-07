@@ -31,7 +31,7 @@ export function translateTextMarkup(
 
 function handleMarkdown(text: Multipliable<string>): string {
     if (Array.isArray(text)) {
-        return text.map(line => handleMarkdown(line)).join("<br /><br />");
+        return text.map(line => handleMarkdown(line)).join("<br />");
     } else {
         // Treat ` as _ characters
         return md.render(text.replaceAll("`", "_"));
