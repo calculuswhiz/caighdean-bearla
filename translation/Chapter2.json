@@ -5,16 +5,34 @@
   },
   "Table2A": {
     "Title": {
-        "ga": "Samplaí de Thréaniolraí",
-        "en": null
+      "ga": "Samplaí de Thréaniolraí",
+      "en": "Examples of Strong Plurals"
     },
     "CornerHeading": {
-        "ga": "AN DÍOCHLAONADH",
-        "en": "THE DECLENSIONS"
+      "ga": "AN DÍOCHLAONADH",
+      "en": "THE DECLENSIONS"
     },
     "Irregular": {
-        "ga": "Ainmfhocail Neamhrialta",
-        "en": "Irregular Nouns"
+      "ga": "Ainmfhocail Neamhrialta",
+      "en": "Irregular Nouns"
+    }
+  },
+  "Table2B": {
+    "title": {
+      "ga": "An Chéad Díochlaonadh — Lagiolraí",
+      "en": "The First Declension — Weak Plural"
+    }
+  },
+  "Table2C": {
+    "title": {
+      "ga": "An Dara Díochlaonadh — Lagiolraí",
+      "en": "The Second Declension — Weak Plural"
+    }
+  },
+  "Table2D": {
+    "title": {
+      "ga": "Lagiolraí Eile — Samplaí",
+      "en": "Other Weak Plurals — Examples"
     }
   },
   "2.1": {
@@ -24,75 +42,175 @@
         "en": "The Declensions"
       },
       "p1": {
-          "ga": "Roinntear na hainmfhocail ina gcúig dhíochlaonadh, de réir fhoirm a dtuisil ghinidigh, mar a léirítear i dtábla 2E.",
-          "en": null
+        "ga": "Roinntear na hainmfhocail ina gcúig dhíochlaonadh, de réir fhoirm a dtuisil ghinidigh, mar a léirítear i dtábla 2E.",
+        "en": "The nouns can be divided into five declensions, according to the genitive case form, as is seen in table 2E."
       }
     },
     ".2": {
+      "title": {
+        "ga": "Na Tuisil",
+        "en": "The Cases"
+      },
+      ".a": {
         "title": {
-            "ga": "Na Tuisil",
-            "en": "The Cases"
-        },
-        ".a": {
-            "title": {
-                "ga": "An tAinmneach agus an Cuspóireach",
-                "en": null
-            },
-            "p1": {
-                "ga": "Is ionann foirm don dá thuiseal seo anois, san uatha agus san iolra, agus áirítear iad araon faoin teideal `Ainmneach` i ndíochlaonadh na n-ainmfhocal.",
-                "en": null
-            }
-        },
-        ".b": {
-            "title": {
-                "ga": "An Tabharthach",
-                "en": null
-            },
-            "p1": {
-                "ga": "Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach 2.3.3), agus áirítear an tuiseal sin freisin faoin teideal `Ainmneach`.",
-                "en": null
-            }
-        },
-        ".c": {
-            "title": {
-                "ga": "An Ginideach",
-                "en": "The Genitive"
-            },
-            "p1": {
-                "ga": "Tugtar foirm an ghinidigh sna díochlaontaí éagsúla sna táblaí sa chaibidil seo agus sa chur síos ar na díochlaontaí ar leithligh.",
-                "en": null
-            }
-        },
-        ".d": {
-            "title": {
-                "ga": "An Gairmeach",
-                "en": null
-            },
-            "p1": {
-                "ga": "Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach 2.2.3 agus 2.2.4(c)).",
-                "en": null
-            }
-        }
-    },
-    ".3": {
-        "title": {
-            "ga": "An tIolra",
-            "en": "The Plural"
+          "ga": "An tAinmneach agus an Cuspóireach",
+          "en": "The Nominative and the Accusative"
         },
         "p1": {
-            "ga": "Is féidir iolraí na n-ainmfhocal a roinnt ina dhá bpríomhaicme: tréaniolraí agus lagiolraí. Déantar cur síos ar an dá aicme anseo thíos:",
-            "en": null
-        },
-        ".a": {
-            "title": {
-                "ga": "Tréaniolraí",
-                "en": null
-            },
-            "p1": {
-                "ga": "Tugtar tréaniolra ar iolra ainmfhocail i gcás gurb ionann foirm iolra an ainmfhocail sna tuisil go léir.",
-                "en": null
-            }
+          "ga": "Is ionann foirm don dá thuiseal seo anois, san uatha agus san iolra, agus áirítear iad araon faoin teideal `Ainmneach` i ndíochlaonadh na n-ainmfhocal.",
+          "en": "The form of the two cases are the same here, in the singular and in the plural, and they are both counted under the title `Nominative` in the declensions of nouns."
         }
+      },
+      ".b": {
+        "title": {
+          "ga": "An Tabharthach",
+          "en": "The Dative"
+        },
+        "p1": {
+          "ga": "Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach 2.3.3), agus áirítear an tuiseal sin freisin faoin teideal `Ainmneach`.",
+          "en": "The form of the dative is also the same as the nominative, singular and plural (but see 2.3.3), and that case is also counted under the title `Nominative`."
+        }
+      },
+      ".c": {
+        "title": {
+          "ga": "An Ginideach",
+          "en": "The Genitive"
+        },
+        "p1": {
+          "ga": "Tugtar foirm an ghinidigh sna díochlaontaí éagsúla sna táblaí sa chaibidil seo agus sa chur síos ar na díochlaontaí ar leithligh.",
+          "en": "The form of the genitive in the different declensions is given in the tables in this chapter and in the description of the particular declensions."
+        }
+      },
+      ".d": {
+        "title": {
+          "ga": "An Gairmeach",
+          "en": "The Vocative"
+        },
+        "p1": {
+          "ga": "Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach 2.2.3 agus 2.2.4(c)).",
+          "en": "In the vocative case, the vocative particle `a` is put before the noun and the initial consonant of the following noun is lenited. The form of the vocative is the same as the nominative except in the first declension and does not need to be specified separately outside of that declension (see 2.2.3 and 2.2.4(c))."
+        }
+      }
+    },
+    ".3": {
+      "title": {
+        "ga": "An tIolra",
+        "en": "The Plural"
+      },
+      "p1": {
+        "ga": "Is féidir iolraí na n-ainmfhocal a roinnt ina dhá bpríomhaicme: tréaniolraí agus lagiolraí. Déantar cur síos ar an dá aicme anseo thíos:",
+        "en": "The plurals of nouns can be divided into two main classes: strong plurals and weak plurals. The two classes are described as follows:"
+      },
+      ".a": {
+        "title": {
+          "ga": "Tréaniolraí",
+          "en": "Strong Plurals"
+        },
+        "p1": {
+          "ga": "Tugtar tréaniolra ar iolra ainmfhocail i gcás gurb ionann foirm iolra an ainmfhocail sna tuisil go léir.",
+          "en": "The plural of a noun is a strong plural if the noun's plural form is the same in all the cases."
+        }
+      },
+      ".b": {
+        "title": {
+          "ga": "Lagiolraí",
+          "en": "Weak Plurals"
+        },
+        "p1": {
+          "ga": "Tugtar lagiolra ar iolra ainmfhocail i gcás nach ionann foirm an ainmfhocail sa ghinideach iolra agus foirm an ainmfhocail sna tuisil eile san iolra. Leis an aicme sin, baineann:",
+          "en": "The plural of a noun is a weak plural if the noun's plural form is not the same in the genitive plural as the noun's plural form in the other plural cases. This class includes:"
+        },
+        ".i": {
+          "p1": {
+            "ga": "Ainmfhocail a chríochnaíonn ar chonsan leathan agus a gcaolaítear a gconsan deiridh san ainmneach iolra agus sa ghinideach uatha, e.g., `fear, tá na fir ag teacht, hata an fhir; eitleán, feictear na heitleáin sa spéir,` athraíodh roth an eitleáin. Is sa Chéad Díochlaonadh amháin atá na hainmfhocail sin. Léirítear sampla sa tábla thíos:",
+            "en": "Nouns that end on a broad consonant and the ending consonant becomes slender in the nominative plural and the genitive singular, e.g., `fear, tá na fir ag teacht, hata an fhir; eitleán, feictear na heitleáin sa spéir, athraíodh roth an eitleáin`. Those nouns are only in the First Declension. An example is in the below table:"
+          }
+        },
+        ".ii": {
+          "p1": {
+            "ga": "Ainmfhocail a ghabhann `-a` san ainmneach iolra gan coimriú ná malartú guta nó gutaí ná leathnú ar an ainmneach uatha – cailleann siad an guta deiridh `-a` sa ghinideach iolra. Is sa Dara Díochlaonadh is mó atá na hiolraí sin, e.g., `géag crainn, do ghéaga a shíneadh, laige na ngéag`. Léirítear sampla sa tábla thíos:",
+            "en": "Nouns that take an `a` in the nominative plural with neither syncope nor an exchange of vowel or vowels nor broadening in the nominative singular — lose the ending vowel `-a` in the genitive plural. Those plurals are mostly in the Second Declension, e.g., `géag crainn, do ghéaga a shíneadh, laige na ngéag`. This is shown in the below table:"
+          },
+          "p2": {
+            "ga": "Tabhair faoi deara go bhfuil roinnt ainmfhocal a leanann an patrún céanna sa Chéad Díochlaonadh, e.g., `úll, itheadh na húlla, blas na n-úll;` sa Tríú Díochlaonadh, e.g., `tréad caorach, tréada is comhaltas, seoladh na dtréad;` agus sa Cheathrú Díochlaonadh, e.g., `gach aon neach, na neacha daonna, teacht na neach neamhshaolta`.",
+            "en": "Notice that several nouns follow the same pattern as in the First Declension, e.g., `úll, itheadh na húlla, blas na n-úll`; in the Third Declension, e.g., `tréad caorach, tréada is comhaltas, seoladh na dtréad;` and in the Fourth Declension, e.g., `gach aon neach, na neacha daonna, teacht na neach neamhshaolta.`"
+          }
+        },
+        ".iii": {
+          "p1": {
+            "ga": "Dornán ainmfhocal sa Dara Díochlaonadh, e.g., `súil, leath na súile uirthi, radharc na súl;` dornán sa Tríú Díochlaonadh, e.g., `mionn, na mionnaí marbha, dar bhrí na mionn;` dornán sa Cheathrú Díochlaonadh, e.g., `bó, tá na ba sa gharraí, cró na mbó;` dornán sa Chúigiú Díochlaonadh, e.g., `caora, tá na caoirigh ann, líon na gcaorach;` agus corr-ainmfhocal neamhrialta, e.g., `bean, tá na mná ag teacht, hataí na mban;` a bhfuil foirm leithleach orthu sa ghinideach iolra. Léirítear samplaí sa tábla thíos:",
+            "en": "A few nouns in the Second Declension, e.g., `súil, leath na súile uirthi, radharc na súl;` a few in the Third Declension, e.g., `mionn, na mionnaí marbha, dar bhrí na mionn;` a few in the Fourth Declension, e.g., `bó, tá na ba sa gharraí, cró na mbó;` a few in the Fifth Declension, e.g., `caora, tá na caoirigh ann, líon na gcaorach;` and an occasional irregular noun, e.g. `bean, tá na mná ag teacht, hataí na mban;` have a separate form in the genitive plural. Examples are shown in the below table."
+          }
+        }
+      }
+    },
+    ".4": {
+      "title": {
+        "ga": "Caolú",
+        "en": "Narrowing (Caolú)"
+      },
+      "p": {
+        "ga": [
+          "Is é is caolú ann consan leathan a dhéanamh caol. Cuirtear `-i-` roimh an gconsan deiridh chun caolú a chur in iúl, e.g., `cnoc, cnoic`. Déantar an caolú céanna i gcás consan deiridh a bhfuil ae roimhe, e.g., `aer, aeir`.",
+          "",
+          "Is iondúil go n-athraítear gutaí áirithe nuair a chaolaítear an consan ina ndiaidh:"
+        ],
+        "en": [
+          "When a broad consonant is made slender, this is narrowing. An `-i-` is placed before the end consonant to indicate a narrowing, e.g., `cnoc, cnoic`. The narrowing is done in the same way if the end-consonant has an `ae` in front, e.g., `aer, aeir`.",
+          "",
+          "It is customary to change certain vowels when the following consonant is narrowed:"
+        ]
+      },
+      ".a": {
+        "p": {
+          "ga": "`-ea-` agus `-io-` go `-i-`, e.g., `ceann, cinn; fionn, finn` (ach in ainmfhocail aonsiollacha áirithe `ea-` go `ei-`, e.g., `each, eich`);",
+          "en": "`-ea-` and `-io-`  to `-i-`, e.g., `ceann, cinn; fionn, finn` (but in certain monosyllabic nouns `ea-` to `ei-`, e.g., `each`, `eich`);"
+        }
+      },
+      ".b": {
+        "p1": {
+          "ga": "`-éa-` agus `-ia-` go `-éi-`, e.g., `béal, béil; iasc, éisc;`",
+          "en": "`-éa-` and `-ia-` to `éi-`, e.g. `béal, béil; iasc, éisc;`"
+        }
+      },
+      ".c": {
+        "p1": {
+          "ga": "`-ío-` go `-í-`, e.g., `síol, síl;`",
+          "en": "`-ío-` to `-í-`, e.g., `síol, síl;`"
+        }
+      },
+      ".d": {
+        "p1": {
+          "ga": "in ainmfhocail ilsiollacha, `-ach` go `-aigh`, `-each` go `-igh`, `-íoch` go `-ígh`, e.g., `bithiúnach, bithiúnaigh; cléireach, cléirigh; gaiscíoch, gaiscígh`. Baineann an t-athrú sin leis na hainmfhocail aonsiollacha seo a leanas a scríobhtaí tráth mar fhocail dhéshiollacha, e.g., `dúch, dúigh; fiach, fiaigh;` agus le corr-ainmfhocal aonsiollach eile, e.g., `fraoch, fraoigh`.",
+          "en": "in the polysyllabic nouns, `-ach` to `-aigh`, `-each` to `-igh`, `-ioch` to `-igh`, e.g. `bithiúnach, bithiúnaigh; cléireach, cléirigh; gaiscíoch, gaiscígh`. That change applies to these monosyllabic nouns which were once written as disyllabic nouns, e.g. `dúch, dúigh; fiach, fiaigh;`, and occasionally with other monosyllabic nouns, e.g., `fraoch, fraoigh`."
+        }
+      }
+    },
+    ".5": {
+      "title": {
+        "ga": "Leathnú",
+        "en": null
+      },
+      "p": {
+        "ga": [
+          "Is é is leathnú ann consan caol a dhéanamh leathan. Déantar an -i- roimh an gconsan deiridh a ligean ar lár chun ainmfhocal a leathnú, e.g., `athair, athar; droim, droma.`",
+          "",
+          "Is iondúil go n-athraítear gutaí áirithe mar a leanas nuair a leathnaítear iad:"
+        ],
+        "en": [null, "", null]
+      },
+      ".a": {
+          "ga": "`-ei-` agus `-i-` go `-ea-`, e.g., `greim, greama; mil, meala;`",
+          "en": "`-ei-` and `-i-` to `-ea-`, e.g., `greim, greama; mil, meala;`"
+      },
+      ".b": {
+          "ga": "`-éi-` go `-éa-`, e.g., `úinéir, úinéara;`",
+          "en": "`-éi-` to `-éa-`, e.g., `úinéir, úinéara;`"
+      },
+      ".c": {
+          "ga": "`-oi-` agus `-ui-` go `-o-`, e.g., `fuil, fola; toil, tola`.",
+          "en": "`-oi-` and `-ui-` to `-o-`, e.g., `fuil, fola; toil, tola`."
+      }
     }
   }
 }
