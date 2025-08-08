@@ -6,11 +6,13 @@ import { FrontMatter } from "./Components/Chapters/FrontMatter";
 import Chapter2 from "./Components/Chapters/Chapter2";
 
 const availableChapters = [
-  { label: "Front Matter", element: <FrontMatter /> },
-  { label: "Chapter 1 - The Article", element: <Chapter1 /> },
-  { label: "Chapter 2 - The Noun", element: <Chapter2 /> },
-  { label: "Chapter 7 - The Copula", element: <Chapter7 /> }
+  { label: "Front Matter", id: "front-matter", element: <FrontMatter /> },
+  { label: "Chapter 1 - The Article", id: "section-1", element: <Chapter1 /> },
+  { label: "Chapter 2 - The Noun", id: "section-2", element: <Chapter2 /> },
+  { label: "Chapter 7 - The Copula", id: "section-7", element: <Chapter7 /> }
 ];
+
+const chapterMap = new Map<string, number>(availableChapters.map(({ id }, idx) => [id, idx]));
 
 function ChapterSelect(props: {
   currentChapter: number;
@@ -33,8 +35,33 @@ function ChapterSelect(props: {
   </>;
 }
 
+function getChapterHash() {
+  const postHash = location.hash.slice(1);
+  const hashParts = postHash.split('-');
+  const chapterId = hashParts.slice(0, 2).join('-');
+  const chapterIdx = chapterMap.get(chapterId);
+  return chapterIdx ?? -1;
+}
+
 function App() {
-  const [currentChapter, setCurrentChapter] = React.useState(-1 as number);
+  const [currentChapter, setCurrentChapter] = React.useState(getChapterHash());
+
+  /** Syntax is secion-{chapter}-{section} */
+  const setCurrentChapterBasedOnHash = () => {
+    setCurrentChapter(getChapterHash());
+  };
+
+  React.useEffect(() => {
+    window.addEventListener('hashchange', () => {
+      setCurrentChapterBasedOnHash();
+    });
+
+    setCurrentChapterBasedOnHash();
+  }, []);
+
+  React.useEffect(() => {
+    document.querySelector(location.hash)?.scrollIntoView();
+  }, [currentChapter])
 
   return <>
     <div className="max-w-[900px] mb-[50vh] pl-1 pt-1">
@@ -61,7 +88,8 @@ function App() {
         </li>
       </ul>
       <ChapterSelect currentChapter={currentChapter} onSelect={(x) => {
-        setCurrentChapter(x);
+        // Let this be navigable
+        location.href = `#${availableChapters[x].id}`;
       }} />
       <hr />
       {
