@@ -3,12 +3,37 @@ import markdownit from 'markdown-it';
 
 const md = markdownit();
 
-export type Translation = {
-    ga: Multipliable<string>;
-    en: Nullable<Multipliable<string>>;
+/** Represents an Irish-English equivalent grouping. An array in either is reducible to 
+ * a single string joined by "\n\n" due to markdown rendering.
+ */
+export type Translation<T extends Multipliable<string> = Multipliable<string>> = {
+    ga: T;
+    en: Nullable<T>;
 };
 
 export type LanguageSelection = 'ga' | 'en';
+
+function reduceTranslation(translation: Translation): Translation<string> {
+    return {
+        ga: Array.isArray(translation.ga) ? translation.ga.join("\n\n") : translation.ga,
+        en: Array.isArray(translation.en) ? translation.en.join("\n\n") : translation.en,
+    };
+}
+
+export function joinTranslations(joiner: string, ...translations: Translation[]): Translation<string> {
+    const merge = reduceTranslation({
+        ga: translations[0].ga,
+        en: translations[0].en,
+    });
+
+    for (const translation of translations.slice(1)) {
+        const reduction = reduceTranslation(translation);
+        merge.ga += joiner + reduction.ga;
+        merge.en += joiner + reduction.en;
+    }
+
+    return merge;
+}
 
 /** Basic handling of text */
 export function translateText(translation: Translation, selection: LanguageSelection) {
@@ -31,10 +56,10 @@ export function translateTextMarkup(
 
 function handleMarkdown(text: Multipliable<string>): string {
     if (Array.isArray(text)) {
-        return text.map(line => handleMarkdown(line)).join("<br />");
+        return text.map(line => handleMarkdown(line)).join("\n\n");
     } else {
         // Treat ` as _ characters
-        return md.render(text.replaceAll("`", "_"));
+        return md.renderInline(text.replaceAll("`", "_"));
     }
 }
 

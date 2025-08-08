@@ -72,5 +72,13 @@
             "ga": "Cúigiú",
             "en": "Fifth"
         }
+    },
+    "Declension": {
+        "ga": "Díochlaonadh",
+        "en": "Declension"
+    },
+    "note": {
+        "ga": "Nóta",
+        "en": "Note"
     }
 }

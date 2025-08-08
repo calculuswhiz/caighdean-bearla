@@ -9,8 +9,8 @@
       "en": "Examples of Strong Plurals"
     },
     "CornerHeading": {
-      "ga": "AN DÍOCHLAONADH",
-      "en": "THE DECLENSIONS"
+      "ga": "An Díochlaonadh",
+      "en": "The Declensions"
     },
     "Irregular": {
       "ga": "Ainmfhocail Neamhrialta",
@@ -35,6 +35,123 @@
       "en": "Other Weak Plurals — Examples"
     }
   },
+  "Table2E": {
+    "comment": "Title same as section",
+    "data": [
+      [
+        {
+          "ga": "Firinscneach",
+          "en": "Masculine"
+        },
+        {
+          "ga": "Críochnaíonn ar chonsan leathan, e.g., `bád, cás, ceol, marcach`.",
+          "en": null
+        },
+        {
+          "ga": "Caolaítear an consan deiridh, e.g., `báid, cáis, ceoil, marcaigh`.",
+          "en": null
+        },
+        [
+          [
+            {
+              "ga": "Bíonn ar aon fhoirm de ghnáth leis an nginideach uatha, e.g., báid, marcaigh.",
+              "en": null
+            },
+            {
+              "ga": "Bíonn ar aon fhoirm de ghnáth leis an ainmneach uatha, e.g., bád, marcach. Is ionann an fhoirm sna tuisil go léir, e.g., cásanna, ceolta",
+              "en": null
+            }
+          ],
+          {
+            "ga": "Is ionann an fhoirm sna tuisil go léir, e.g., `cásanna, ceolta`",
+            "en": null
+          }
+        ]
+      ],
+      [
+        {
+          "ga": "Baininscneach, ach `im, sliabh`.",
+          "en": "Feminine, but not `im, sliabh`."
+        },
+        {
+          "ga": "Críochnaíonn ar chonsan (leathan nó caol), e.g., aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír.",
+          "en": null
+        },
+        {
+          "ga": "Críochnaíonn ar `-e`, e.g., `aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;` nó ar `-(a)í, e.g., baintrí, scornaí`.",
+          "en": null
+        },
+        [
+          [
+            {
+              "ga": "Críochnaíonn ar `-a`, e.g., `baintreacha, bróga, scornacha.`",
+              "en": null
+            },
+            {
+              "ga": "Cailltear an `-a`, e.g., `baintreach, bróg, scornach`.",
+              "en": null
+            }
+          ],
+          [
+            {
+              "ga": "Críochnaíonn ar `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` agus is ionann an fhoirm sna tuisil go léir, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`.",
+              "en": null
+            }
+          ]
+        ]
+      ],
+      [
+        {
+          "ga": "Firinscneach agus Baininscneach",
+          "en": null
+        },
+        {
+          "ga": "Críochnaíonn ar chonsan (leathan nó caol), e.g., `bádóir, éacht, foráil, gleann, lus, táin`.",
+          "en": null
+        },
+        {
+          "ga": "Críochnaíonn ar `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána``.",
+          "en": null
+        },
+        {
+          "ga": "Críochnaíonn ar `-a, -acha, -(a)í, -(e)anna, -ta, -te` agus is ionann an fhoirm sna tuisil go léir, `e.g., bádóirí, éachtaí, forálacha, gleannta, lusanna, táinte`.",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Firinscneach agus Baininscneach",
+          "en": null
+        },
+        {
+          "ga": "Críochnaíonn ar ghuta nó ar `-ín` (seachas muinín agus muirín (sa bhrí `clann`) atá sa dara díochlaonadh), e.g., `acra, cailín, oibrí, trá. Ní athraíonn sa ghinideach`.",
+          "en": null
+        },
+        {
+          "ga": "Críochnaíonn ar `-(a)í, -(e)anna, -(i)te, -(i)the, -nna, -nna` agus is ionann an fhoirm sna tuisil go léir, e.g., `acraí, cailíní, oibrithe, tránna`.",
+          "en": null
+        }
+      ],
+      [
+        {
+            "ga": "Baininscneach, ach roinnt bheag Firinscneach",
+            "en": null
+        },
+        {
+            "ga": "Críochnaíonn ar `-il, -in, -ir` nó ar ghuta, e.g., `athair, cabhail, cáin, fiche`.",
+            "en": null
+        },
+        {
+            "ga": "Críochnaíonn ar chonsan leathan, e.g., `athar, cabhlach, cánach, fichead`.",
+            "en": null
+        },
+        {
+            "ga": "Críochnaíonn ar `-(e)acha, -idí, -na, -ne` agus is ionann an fhoirm sna tuisil go léir, e.g., `aithreacha, cabhlacha, cánacha, fichidí`.",
+            "en": null
+        }
+      ]
+    ]
+  },
   "2.1": {
     ".1": {
       "title": {
@@ -53,8 +170,8 @@
       },
       ".a": {
         "title": {
-          "ga": "An tAinmneach agus an Cuspóireach",
-          "en": "The Nominative and the Accusative"
+          "ga": "``An tAinmneach agus an Cuspóireach``",
+          "en": "``The Nominative and the Accusative``"
         },
         "p1": {
           "ga": "Is ionann foirm don dá thuiseal seo anois, san uatha agus san iolra, agus áirítear iad araon faoin teideal `Ainmneach` i ndíochlaonadh na n-ainmfhocal.",
@@ -63,8 +180,8 @@
       },
       ".b": {
         "title": {
-          "ga": "An Tabharthach",
-          "en": "The Dative"
+          "ga": "``An Tabharthach``",
+          "en": "``The Dative``"
         },
         "p1": {
           "ga": "Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach 2.3.3), agus áirítear an tuiseal sin freisin faoin teideal `Ainmneach`.",
@@ -73,8 +190,8 @@
       },
       ".c": {
         "title": {
-          "ga": "An Ginideach",
-          "en": "The Genitive"
+          "ga": "``An Ginideach``",
+          "en": "``The Genitive``"
         },
         "p1": {
           "ga": "Tugtar foirm an ghinidigh sna díochlaontaí éagsúla sna táblaí sa chaibidil seo agus sa chur síos ar na díochlaontaí ar leithligh.",
@@ -83,8 +200,8 @@
       },
       ".d": {
         "title": {
-          "ga": "An Gairmeach",
-          "en": "The Vocative"
+          "ga": "``An Gairmeach``",
+          "en": "``The Vocative``"
         },
         "p1": {
           "ga": "Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach 2.2.3 agus 2.2.4(c)).",
@@ -103,8 +220,8 @@
       },
       ".a": {
         "title": {
-          "ga": "Tréaniolraí",
-          "en": "Strong Plurals"
+          "ga": "``Tréaniolraí``",
+          "en": "``Strong Plurals``"
         },
         "p1": {
           "ga": "Tugtar tréaniolra ar iolra ainmfhocail i gcás gurb ionann foirm iolra an ainmfhocail sna tuisil go léir.",
@@ -113,8 +230,8 @@
       },
       ".b": {
         "title": {
-          "ga": "Lagiolraí",
-          "en": "Weak Plurals"
+          "ga": "``Lagiolraí``",
+          "en": "``Weak Plurals``"
         },
         "p1": {
           "ga": "Tugtar lagiolra ar iolra ainmfhocail i gcás nach ionann foirm an ainmfhocail sa ghinideach iolra agus foirm an ainmfhocail sna tuisil eile san iolra. Leis an aicme sin, baineann:",
@@ -128,7 +245,7 @@
         },
         ".ii": {
           "p1": {
-            "ga": "Ainmfhocail a ghabhann `-a` san ainmneach iolra gan coimriú ná malartú guta nó gutaí ná leathnú ar an ainmneach uatha – cailleann siad an guta deiridh `-a` sa ghinideach iolra. Is sa Dara Díochlaonadh is mó atá na hiolraí sin, e.g., `géag crainn, do ghéaga a shíneadh, laige na ngéag`. Léirítear sampla sa tábla thíos:",
+            "ga": "Ainmfhocail a ghabhann `-a` san ainmneach iolra gan coimriú ná malartú guta nó gutaí ná leathnú ar an ainmneach uatha — cailleann siad an guta deiridh `-a` sa ghinideach iolra. Is sa Dara Díochlaonadh is mó atá na hiolraí sin, e.g., `géag crainn, do ghéaga a shíneadh, laige na ngéag`. Léirítear sampla sa tábla thíos:",
             "en": "Nouns that take an `a` in the nominative plural with neither syncope nor an exchange of vowel or vowels nor broadening in the nominative singular — lose the ending vowel `-a` in the genitive plural. Those plurals are mostly in the Second Declension, e.g., `géag crainn, do ghéaga a shíneadh, laige na ngéag`. This is shown in the below table:"
           },
           "p2": {
@@ -200,16 +317,84 @@
         "en": [null, "", null]
       },
       ".a": {
-          "ga": "`-ei-` agus `-i-` go `-ea-`, e.g., `greim, greama; mil, meala;`",
-          "en": "`-ei-` and `-i-` to `-ea-`, e.g., `greim, greama; mil, meala;`"
+        "ga": "`-ei-` agus `-i-` go `-ea-`, e.g., `greim, greama; mil, meala;`",
+        "en": "`-ei-` and `-i-` to `-ea-`, e.g., `greim, greama; mil, meala;`"
       },
       ".b": {
-          "ga": "`-éi-` go `-éa-`, e.g., `úinéir, úinéara;`",
-          "en": "`-éi-` to `-éa-`, e.g., `úinéir, úinéara;`"
+        "ga": "`-éi-` go `-éa-`, e.g., `úinéir, úinéara;`",
+        "en": "`-éi-` to `-éa-`, e.g., `úinéir, úinéara;`"
       },
       ".c": {
-          "ga": "`-oi-` agus `-ui-` go `-o-`, e.g., `fuil, fola; toil, tola`.",
-          "en": "`-oi-` and `-ui-` to `-o-`, e.g., `fuil, fola; toil, tola`."
+        "ga": "`-oi-` agus `-ui-` go `-o-`, e.g., `fuil, fola; toil, tola`.",
+        "en": "`-oi-` and `-ui-` to `-o-`, e.g., `fuil, fola; toil, tola`."
+      }
+    },
+    ".6": {
+      "title": {
+        "ga": "Coimriú",
+        "en": null
+      },
+      "p": {
+        "ga": "Is é is coimriú ann guta nó gutaí atá gairid neamhaiceanta a ligean ar lár as focal nuair a dhéantar infhilleadh air, e.g., `cathair, cathrach; obair, oibre`.",
+        "en": null
+      }
+    },
+    ".7": {
+      "title": {
+        "ga": "An Comhfhocal",
+        "en": null
+      },
+      "p1": {
+        "ga": "Déantar comhfhocal nuair a cheanglaítear dhá fhocal nó níos mó le chéile, e.g., `bunscoil; príomhoifigeach; ríomheolaíocht`. Séimhítear an dara focal i gcomhfhocal, e.g., `deargbhuile; rósghairdín`, ach amháin nuair a thagann `d, n, t, l` nó `s` le chéile, e.g., `antráth; catsúil`. Úsáidtear an fleiscín i gcomhfhocal:",
+        "en": null
+      },
+      ".a": {
+        "ga": "idir dhá ghuta, e.g., `fo-aicme; mí-ádh; mí-iompar; ró-olc;`",
+        "en": null
+      },
+      ".b": {
+        "ga": "idir comhchonsain, e.g., `droch-chaint; gearr-rás; gnáth-thuarastal;`",
+        "en": null
+      },
+      ".c": {
+        "ga": "idir dhá réimír, e.g., `comh-cheolfhoireann; mór-cheoldráma; sin-seanathair;`",
+        "en": null
+      },
+      ".d": {
+        "ga": "i gcásanna inar bhaol go mbeadh an comhfhocal do-aitheanta d'éagmais an fhleiscín, mar shampla idir na réimíreanna `do-, fo-, so-` agus focail dar tús `bha-, bhla-, bhra-, dha-, gha-, ghla-, ghra-, mha-`, e.g., `do-ghlanta; fo-bhaile; so-mharaithe;`",
+        "en": null
+      },
+      ".e": {
+        "ga": "i dteidil shainiúla agus ceannlitreacha orthu, e.g., `an Ard-Chúirt; an tArd-Aighne; an Príomh-Aire; an Príomh-Bhreitheamh;`",
+        "en": null
+      },
+      ".f": {
+        "ga": "i ndiaidh `an-` (réimír threise) agus i ndiaidh `dea-`, e.g., `an-aimsir; dea-bhéas`. Tabhair faoi deara nach séimhítear an dara focal i gcomhfhocal i ndiaidh `an-` nuair a thagann `d, t` nó `s` ar a lorg, e.g., `an-duine is ea é; an-drochaimsir` (féach 10.2.12).",
+        "en": null
+      },
+      "notes": [
+        {
+          "ga": "Cuirtear dhá fhleiscín i gcomhfhocal nuair is gá ar mhaithe leis an tsoiléireacht, e.g., `an-dea-aimsir; an-droch-chaint; iar-nua-aimseartha; an Leas-Phríomh-Aire`.",
+          "en": null
+        },
+        {
+          "ga": "Ní gá fleiscín a chur i dtéarma riaracháin ina bhfuil níos mó ná réimír amháin má tá brí an téarma soiléir gan é, e.g., `comhfhochoiste; roghfhochoiste`.",
+          "en": null
+        },
+        {
+          "ga": "Tabhair faoi deara, má tá `iar` ag teacht roimh theideal a thosaíonn ar cheannlitir, nach gá fleiscín a chur idir iar agus an teideal, e.g., `an t-iarArd-Reachtaire Cuntas agus Ciste`.",
+          "en": null
+        }
+      ]
+    },
+    ".8": {
+      "title": {
+        "ga": "Gearrléiriú ar na Díochlaontaí",
+        "en": null
+      },
+      "notes": {
+        "ga": "Mar a luadh in 2.1.2, is ionann foirm don Tuiseal Ainmneach, don Tuiseal Cuspóireach agus don Tuiseal Tabharthach agus áirítear iad uile faoin teideal Ainmneach.",
+        "en": null
       }
     }
   }

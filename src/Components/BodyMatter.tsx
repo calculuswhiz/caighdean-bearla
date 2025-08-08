@@ -25,7 +25,7 @@ export function Chapter(props: {
 }) {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
     return <article className="pl-1">
-        <h1 id={`chapter-${props.number}`} className="mb-2 text-2xl font-bold border-b-1 border-black">
+        <h1 id={`section-${props.number}`} className="mb-2 text-2xl font-bold border-b-1 border-black">
             <span>{langSelect === 'en' ? "CHAPTER" : "CAIBIDIL"} {props.number} | {translateText(props.title, langSelect)}</span>
             <LanguageSelector
                 selection={langSelect}
@@ -85,10 +85,19 @@ export function ChapterSection(props: {
 /** Matter such as 1.1.1 */
 export function Subsection(props: {
     heading: string;
+    title?: Translation;
     children?: React.ReactNode
 }) {
+    const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
+
     return <>
-        <h3 className="text-lg">{props.heading}</h3>
+        <h3 className="text-lg" id={`section-${props.heading.replace(".", "-")}`}>
+            {props.heading} {props.title != null ? translateText(props.title, langSelect) : null}
+            {props.title != null && <LanguageSelector
+                selection={langSelect}
+                onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
+                position="right" />}
+        </h3>
         <div className="border-l-3 border-gray-300">
             {props.children}
         </div>

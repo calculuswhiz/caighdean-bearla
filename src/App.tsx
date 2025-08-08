@@ -60,7 +60,8 @@ function App() {
   }, []);
 
   React.useEffect(() => {
-    document.querySelector(location.hash)?.scrollIntoView();
+    if (location.hash)
+      document.querySelector(location.hash)?.scrollIntoView();
   }, [currentChapter])
 
   return <>
