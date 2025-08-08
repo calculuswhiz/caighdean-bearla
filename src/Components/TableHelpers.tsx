@@ -5,7 +5,7 @@ export function Caption(props: {
     content: React.ReactElement;
 }) {
     return <caption className="caption-bottom">
-        <span className="font-bold mr-4">{props.id}</span>
+        <span className="font-bold mr-4 inline">{props.id}</span>
         {props.content}
     </caption>;
 }
