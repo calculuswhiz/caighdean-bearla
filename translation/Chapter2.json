@@ -152,6 +152,82 @@
       ]
     ]
   },
+  "Table2F": {
+    "Title": {
+      "ga": "Tréaniolraí sa Chéad Díochlaonadh — Samplaí",
+      "en": null
+    },
+    "CornerHeading": {
+      "ga": "Aicmí Tréaniolraí",
+      "en": null
+    },
+    "Col2Subheading": {
+      "ga": "Gach Tuiseal",
+      "en": null
+    },
+    "Col1Data": [
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-ta`, `-tha` san iolra",
+          "en": null
+        },
+        {
+          "ga": "Formhór na n-ainmfhocal aonsiollach ina bhfuil guta fada (nó défhoghar) agus a chríochnaíonn ar `-l`, `-n` (ach ní ar `-ll`, `-nn`) san ainmneach uatha. Cuirtear `-tha` san iolra le corr-ainmfhocal a chríochnaíonn ar `-r` (ach ní ar `-rr`) san ainmneach uatha.",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-aí`, `-í` san iolra",
+          "en": null
+        },
+        {
+          "ga": "Ainmfhocail ilsiollacha áirithe a chríochnaíonn ar `-ch`, agus roinnt ar `-dh`, san ainmneach uatha, mar aon le roinnt ainmfhocail eile.",
+          "en": null
+        }
+      ],
+      {
+        "ga": "Ainmfhocail a chríochnaíonn ar -`taí`, `-thaí` san iolra",
+        "en": null
+      },
+      {
+        "ga": "Ainmfhocail a chríochnaíonn ar `-anna` san iolra",
+        "en": null
+      },
+      {
+        "ga": "Ainmfhocail a chríochnaíonn ar `-e` san iolra agus a dhéantar a choimriú",
+        "en": null
+      },
+      {
+        "ga": "Ainmfhocail a chríochnaíonn ar `-(e)acha` san iolra ",
+        "en": null
+      },
+      {
+        "ga": "Ainmfhocail a chríochnaíonn ar `-te` san iolra",
+        "en": null
+      },
+      {
+        "ga": "Ainmfhocail ilghnéitheacha",
+        "en": null
+      }
+    ]
+  },
+  "Table2G": {
+    "Title": {
+      "ga": "Lagiolraí sa Chéad Díochlaonadh — Samplaí",
+      "en": null
+    },
+    "Col1Data": [
+      {
+        "ga": "Ainmfhocail a chaolaítear san ainmneach iolra",
+        "en": null
+      },
+      {
+        "ga": "Ainmfhocail a chríochnaíonn ar `-a` san ainmneach iolra",
+        "en": null
+      }
+    ]
+  },
   "2.1": {
     ".1": {
       "title": {
@@ -392,6 +468,114 @@
         "ga": "Mar a luadh in 2.1.2, is ionann foirm don Tuiseal Ainmneach, don Tuiseal Cuspóireach agus don Tuiseal Tabharthach agus áirítear iad uile faoin teideal Ainmneach.",
         "en": null
       }
+    }
+  },
+  "2.2": {
+    "title": {
+      "ga": "An Chéad Díochlaonadh",
+      "en": "The First Declension"
+    },
+    ".1": {
+      "title": {
+        "ga": "An tUatha",
+        "en": "The Singular"
+      },
+      "p": {
+        "ga": "Is leis an díochlaonadh seo a bhaineann formhór na n-ainmfhocal firinscneach a chríochnaíonn ar chonsan leathan san ainmneach uatha. Is firinscneach do na hainmfhocail go léir sa chéad díochlaonadh.",
+        "en": null
+      }
+    },
+    ".2": {
+      "title": {
+        "ga": "An Ginideach Uatha",
+        "en": "The Genitive Singular"
+      },
+      ".a": {
+        "ga": "Sa ghinideach uatha, caolaítear an consan deiridh, e.g., `bord, boird; nuachtán, nuachtáin`.",
+        "en": null
+      },
+      ".b": {
+        "ga": "Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú ach ní athraítear `-ia-` go `-éi-` sna hainmfhocail seo: `Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;` agus `trian, triain`.",
+        "en": null
+      },
+      ".c": {
+        "ga": "Athraítear `mac` go `mic` sa ghinideach uatha agus san ainmneach iolra.",
+        "en": null
+      },
+      ".d": {
+        "ga": "Sa ghinideach uatha, athraítear `-ea-` go `-i-`, e.g., `breac, bric; cuireadh, cuiridh; leiceann, leicinn;` seachas i gcás ainmfhocail aonsiollacha áirithe, e.g., `each, eich`.",
+        "en": null
+      }
+    },
+    ".3": {
+      "title": {
+        "ga": "An Gairmeach Uatha",
+        "en": null
+      },
+      ".a": {
+        "ga": "Is ionann foirm de ghnáth don ghairmeach uatha agus don ghinideach uatha, e.g., a Chorcaígh, a mhic, a Sheáin.",
+        "en": null
+      },
+      ".b": {
+        "p": {
+          "ga": "Ní gnách, áfach, infhilleadh sa ghairmeach uatha:",
+          "en": null
+        },
+        ".i": {
+          "ga": "ar shlua-ainmneacha, e.g., a chomhthionól; a phobal;",
+          "en": null
+        },
+        ".ii": {
+          "ga": "ar ainmfhocail a úsáidtear le brí mheafarach nó mar ainmneacha ceana, e.g., a cheann cipín; a chumann; a ghrá geal; a rós geal; a rún; a stór;",
+          "en": null
+        },
+        ".iii": {
+          "ga": "ar ainmfhocal a bhfuil ginideach cinnte faoi réir aige, e.g., a Chléireach na Dála; a fhear an tí; a scáthán an chirt; a shólás na ndobrónach;",
+          "en": null
+        },
+        ".iv": {
+          "ga": "ar theideal oifige ilfhoclach, e.g., a Cheann Comhairle; a Oifigeach Ealaíon; a Cheann Scoile.",
+          "en": null
+        }
+      }
+    },
+    ".4": {
+      "title": {
+        "ga": "An tIolra",
+        "en": "The Plural"
+      },
+      "p1": {
+        "ga": "Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo. Is lagiolraí iad na hainmfhocail a gcaolaítear a ndeireadh, e.g., amhrán, amhráin; nó a gcuirtear -a leo gan aon athrú eile, e.g., nod, noda; úll, úlla; san ainmneach iolra. Tréaniolraí is ea na hainmfhocail eile.",
+        "en": null
+      },
+      "p2": {
+        "ga": "Tabhair faoi deara go bhfuil patrún an Chéad Díochlaonta le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcaolaítear an consan deiridh agus go n-athraítear -(e)ach go -(a)igh.",
+        "en": null
+      },
+      ".a": {
+        "ga": "``Tréaniolraí``",
+        "en": null
+      },
+      ".b": {
+        "ga": "``Lagiolraí``",
+        "en": null
+      },
+      ".c": {
+        "title": {
+          "ga": "An Gairmeach Iolra",
+          "en": null
+        },
+        "p1": {
+          "ga": "Is ionann foirm don ghairmeach iolra agus don ainmneach iolra ach amháin i gcás na lagiolraí. Is gnách -a a chur le foirm an ainmnigh uatha de na hainmfhocail sin chun an gairmeach iolra a dhéanamh, e.g., Corcaíoch, a Chorcaíocha; fear, a fheara; Gael, a Ghaela.",
+          "en": null
+        }
+      }
+    }
+  },
+  "2.3": {
+    "title": {
+      "ga": "An Dara Díochlaonadh",
+      "en": "The Second Declension"
     }
   }
 }
