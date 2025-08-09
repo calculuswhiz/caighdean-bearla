@@ -26,7 +26,7 @@ export function GrammarNotes() {
         <table className="w-[100%]">
             <thead>
                 <tr>
-                    <th className="bg-blue-900 text-white font-bold" colSpan={2}>
+                    <th className="bg-blue-900 text-white" colSpan={2}>
                         {translateTextMarkup(frontmatterText.grammar.tableTitle, langSelect)}
                     </th>
                 </tr>
@@ -34,8 +34,8 @@ export function GrammarNotes() {
             <tbody>{
                 frontmatterText.grammar.rowData.map(([l, r], i) => 
                     <tr key={i}>
-                        <td className="bg-gray-200 p-1 border-2 border-white font-bold align-top">{translateTextMarkup(l, langSelect)}</td>
-                        <td className="bg-gray-200 p-1 border-2 border-white">{translateTextMarkup(r, langSelect)}</td>
+                        <td className="bg-gray-200 p-1 font-bold align-top">{translateTextMarkup(l, langSelect)}</td>
+                        <td className="bg-gray-200 p-1">{translateTextMarkup(r, langSelect)}</td>
                     </tr>
                 )
             }</tbody>

@@ -25,7 +25,7 @@ export function Chapter(props: {
 }) {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
     return <article className="pl-1">
-        <h1 id={`section-${props.number}`} className="mb-2 text-2xl font-bold border-b-1 border-black">
+        <h1 id={`section-${props.number}`} className={`mb-2 text-2xl font-bold border-b-1 border-black section-${props.number}`}>
             <span>{langSelect === 'en' ? "CHAPTER" : "CAIBIDIL"} {props.number} | {translateText(props.title, langSelect)}</span>
             <LanguageSelector
                 selection={langSelect}

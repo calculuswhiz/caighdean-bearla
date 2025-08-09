@@ -4,7 +4,7 @@ import markdownit from 'markdown-it';
 const md = markdownit();
 
 /** Represents an Irish-English equivalent grouping. An array in either is reducible to 
- * a single string joined by "\n\n" due to markdown rendering.
+ * a single string joined by "<br />" due to markdown rendering.
  */
 export type Translation<T extends Multipliable<string> = Multipliable<string>> = {
     ga: T;
@@ -15,8 +15,8 @@ export type LanguageSelection = 'ga' | 'en';
 
 function reduceTranslation(translation: Translation): Translation<string> {
     return {
-        ga: Array.isArray(translation.ga) ? translation.ga.join("\n\n") : translation.ga,
-        en: Array.isArray(translation.en) ? translation.en.join("\n\n") : translation.en,
+        ga: Array.isArray(translation.ga) ? translation.ga.join("<br />") : translation.ga,
+        en: Array.isArray(translation.en) ? translation.en.join("<br />") : translation.en,
     };
 }
 
@@ -56,7 +56,7 @@ export function translateTextMarkup(
 
 function handleMarkdown(text: Multipliable<string>): string {
     if (Array.isArray(text)) {
-        return text.map(line => handleMarkdown(line)).join("\n\n");
+        return text.map(line => handleMarkdown(line)).join("<br>");
     } else {
         // Treat ` as _ characters
         return md.renderInline(text.replaceAll("`", "_"));

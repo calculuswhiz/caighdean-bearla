@@ -18,9 +18,78 @@ const declensionTranslations =
         chapter2Text.Table2A.Irregular
     ];
 
-function Table2A() {
+function Table2ATemplate(props: {
+    id: string;
+    title: Translation;
+    tableData: string[][][];
+    declensionOffset: number;
+}) {
     const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
+    return <div>
+        <LanguageSelector
+            selection={langSelect}
+            onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
+            position="right" />
+        <table className="p-2 w-[100%] text-center chapter-2">
+            <Caption
+                id={joinIfPossible(`${translateText(commonText.Table, langSelect)} ${props.id}`)}
+                content={translateTextMarkup(props.title, langSelect)}
+            />
+            <thead>
+                <tr>
+                    <th className="p-2 uppercase" rowSpan={2}>
+                        {translateTextMarkup(chapter2Text.Table2A.CornerHeading, langSelect)}
+                    </th>
+                    <th className="p-2 uppercase" colSpan={2}>
+                        {translateTextMarkup(commonText.Singular, langSelect)}
+                    </th>
+                    <th className="p-2 uppercase" colSpan={2}>
+                        {translateTextMarkup(commonText.Plural, langSelect)}
+                    </th>
+                </tr>
+                <tr>
+                    <th className=" p-2">
+                        {translateTextMarkup(commonText.Nominative, langSelect)}
+                    </th>
+                    <th className="p-2">
+                        {translateTextMarkup(commonText.Genitive, langSelect)}
+                    </th>
+                    <th className="p-2">
+                        {translateTextMarkup(commonText.Nominative, langSelect)}
+                    </th>
+                    <th className="p-2">
+                        {translateTextMarkup(commonText.Genitive, langSelect)}
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                {props.tableData.map((bigRow, rowBigI) =>
+                    <React.Fragment key={rowBigI}>
+                        <tr>
+                            <th rowSpan={bigRow.length} className="p-2 bg-gray-300 text-black">
+                                {translateTextMarkup(declensionTranslations[rowBigI + props.declensionOffset], langSelect)}
+                            </th>
+                            {
+                                bigRow[0].map((ent, i) => <td key={i} className="p-2 bg-gray-200">
+                                    {ent}
+                                </td>)
+                            }
+                        </tr>
+                        {
+                            bigRow[1] != null &&
+                            <tr>
+                                {bigRow[1].map((ent, i) => <td key={i} className="p-2 bg-gray-200">
+                                    {ent}
+                                </td>)}
+                            </tr>
+                        }
+                    </React.Fragment>)}
+            </tbody>
+        </table>
+    </div>;
+}
 
+function Table2A() {
     const tableData = [
         [["cás", "cáis", "cásanna", "cásanna"],
         ["ceol", "ceoil", "ceolta", "ceolta"]],
@@ -36,65 +105,11 @@ function Table2A() {
         ["teach", "tí", "tithe", "tithe"]]
     ];
 
-    return <div>
-        <LanguageSelector
-            selection={langSelect}
-            onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
-            position="right" />
-        <table className="p-2 w-[100%] text-center">
-            <Caption
-                id={joinIfPossible(`${translateText(commonText.Table, langSelect)} 2A`)}
-                content={translateTextMarkup(chapter2Text.Table2A.Title, langSelect)}
-            />
-            <thead>
-                <tr>
-                    <th className="bg-orange-500 text-white font-bold p-2 border-2 border-white uppercase" rowSpan={2}>
-                        {translateTextMarkup(chapter2Text.Table2A.CornerHeading, langSelect)}
-                    </th>
-                    <th className="bg-orange-500 text-white font-bold p-2 border-2 border-white uppercase" colSpan={2}>
-                        {translateTextMarkup(commonText.Singular, langSelect)}
-                    </th>
-                    <th className="bg-orange-500 text-white font-bold p-2 border-2 border-white uppercase" colSpan={2}>
-                        {translateTextMarkup(commonText.Plural, langSelect)}
-                    </th>
-                </tr>
-                <tr>
-                    <th className="bg-gray-700 text-white font-bold p-2 border-2 border-white">
-                        {translateTextMarkup(commonText.Nominative, langSelect)}
-                    </th>
-                    <th className="bg-gray-700 text-white font-bold p-2 border-2 border-white">
-                        {translateTextMarkup(commonText.Genitive, langSelect)}
-                    </th>
-                    <th className="bg-gray-700 text-white font-bold p-2 border-2 border-white">
-                        {translateTextMarkup(commonText.Nominative, langSelect)}
-                    </th>
-                    <th className="bg-gray-700 text-white font-bold p-2 border-2 border-white">
-                        {translateTextMarkup(commonText.Genitive, langSelect)}
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                {tableData.map(([eg1, eg2], rowBigI) =>
-                    <React.Fragment key={rowBigI}>
-                        <tr>
-                            <th rowSpan={2} className="p-2 border-2 border-white bg-gray-300">
-                                {translateTextMarkup(declensionTranslations[rowBigI], langSelect)}
-                            </th>
-                            {
-                                eg1.map((ent, i) => <td key={i} className="p-2 border-2 border-white bg-gray-200">
-                                    {ent}
-                                </td>)
-                            }
-                        </tr>
-                        <tr>
-                            {eg2.map((ent, i) => <td key={i} className="p-2 border-2 border-white bg-gray-200">
-                                {ent}
-                            </td>)}
-                        </tr>
-                    </React.Fragment>)}
-            </tbody>
-        </table>
-    </div>;
+    return <Table2ATemplate
+        id="2A"
+        title={chapter2Text.Table2A.Title}
+        tableData={tableData}
+        declensionOffset={0} />;
 }
 
 function DeclensionTable(props: {
@@ -112,40 +127,40 @@ function DeclensionTable(props: {
             selection={langSelect}
             onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
             position="right" />
-        <table className="text-center">
+        <table className="text-center chapter-2">
             <Caption
                 id={joinIfPossible(translateText(commonText.Table, langSelect) + " " + props.caption.id)}
                 content={translateTextMarkup(props.caption.content, langSelect)} />
             <thead>
                 <tr>
-                    <th colSpan={3} className="bg-orange-500 text-white capitalize p-2 border-2 border-white">
+                    <th colSpan={3} className="capitalize p-2">
                         {translateTextMarkup(props.title, langSelect)}
                     </th>
                 </tr>
                 <tr>
-                    <th className="bg-orange-500 text-white capitalize p-2 border-2 border-white"></th>
-                    <th className="bg-gray-700 text-white capitalize p-2 border-2 border-white">
+                    <th className="bg-orange-500 capitalize p-2"></th>
+                    <th className="capitalize p-2">
                         {translateTextMarkup(commonText.Nominative, langSelect)}
                     </th>
-                    <th className="bg-gray-700 text-white capitalize p-2 border-2 border-white">
+                    <th className="capitalize p-2">
                         {translateTextMarkup(commonText.Genitive, langSelect)}
                     </th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <th className="bg-orange-500 text-white capitalize p-2 border-2 border-white">
+                    <th className="bg-orange-500 text-white capitalize p-2">
                         {translateTextMarkup(commonText.Singular, langSelect)}
                     </th>
-                    <td className="bg-gray-300 p-2 border-2 border-white">{props.data[0][0]}</td>
-                    <td className="bg-gray-200 p-2 border-2 border-white">{props.data[0][1]}</td>
+                    <td className="bg-gray-300 p-2">{props.data[0][0]}</td>
+                    <td className="bg-gray-200 p-2">{props.data[0][1]}</td>
                 </tr>
                 <tr>
-                    <th className="bg-orange-500 text-white capitalize p-2 border-2 border-white">
+                    <th className="bg-orange-500 text-white capitalize p-2">
                         {translateTextMarkup(commonText.Singular, langSelect)}
                     </th>
-                    <td className="bg-gray-200 p-2 border-2 border-white">{props.data[1][0]}</td>
-                    <td className="bg-gray-300 p-2 border-2 border-white">{props.data[1][1]}</td>
+                    <td className="bg-gray-200 p-2">{props.data[1][0]}</td>
+                    <td className="bg-gray-300 p-2">{props.data[1][1]}</td>
                 </tr>
             </tbody>
         </table>
@@ -171,6 +186,27 @@ function Table2C() {
             ["fuinneoga", "fuinneog"],
         ]}
     />;
+}
+
+function Table2D() {
+    const tableData = [
+        [["ealaín", "ealaíne", "ealaíona", "ealaíon"],
+        ["súil", "súile", "súile", "súl"]],
+        [["mionn", "mionna", "mionnaí", "mionn"]],
+        [["bó", "bó", "ba", "bó"],
+        ["grásta", "grásta", "grásta", "grást"]],
+        [["caora", "caorach", "caoirigh", "caorach"],
+        ["lacha", "lachan", "lachain", "lachan"]],
+        [["bean", "mná", "mná", "ban"],
+        ["olann", "olla", "olanna", "olann"]],
+    ];
+
+    return <Table2ATemplate
+        id="2D"
+        title={chapter2Text.Table2D.title}
+        tableData={tableData}
+        // Starts on 2nd declension
+        declensionOffset={1} />;
 }
 
 function Section1() {
@@ -222,9 +258,20 @@ function Section1() {
                         </ListItem>
                         <ListItem>
                             <Paragraph content={sectionObject[".3"][".b"][".iii"].p1} />
+                            <Table2D />
                         </ListItem>
                     </ol>
                 </ListItem>
+            </ol>
+        </Subsection>
+        <Subsection heading="2.1.4" title={sectionObject[".4"].title}>
+            <Paragraph content={sectionObject[".4"].p1} />
+            <Paragraph content={sectionObject[".4"].p2} />
+            <ol className="list-inside list-[lower-alpha]">
+                <ListItem><Paragraph content={sectionObject[".4"][".a"].p} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".4"][".b"].p1} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".4"][".c"].p1} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".4"][".d"].p1} /></ListItem>
             </ol>
         </Subsection>
     </ChapterSection>;

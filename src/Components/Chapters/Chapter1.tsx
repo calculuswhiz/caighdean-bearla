@@ -27,7 +27,7 @@ function Section1() {
         </Subsection>
         <Subsection heading="1.1.5">
             <Paragraph content={sectionObject[".5"].text} />
-            <ol className="list-[lower-alpha] list-inside pl-2">
+            <ol className="list-[lower-alpha] pl-2">
                 <ListItem>
                     <Paragraph content={sectionObject[".5"][".a"].text} />
                     <SampleBox samples={sectionObject[".5"][".a"].samples} />
@@ -64,7 +64,7 @@ function Section1() {
                 </ListItem>
                 <ListItem>
                     <Paragraph content={sectionObject[".5"][".h"].p1} />
-                    <ol className="list-[lower-roman] list-inside pl-2">
+                    <ol className="list-[lower-roman] pl-2">
                         <ListItem>
                             <Paragraph content={sectionObject[".5"][".h"].i} />
                         </ListItem>
@@ -79,10 +79,10 @@ function Section1() {
                 </ListItem>
                 <ListItem>
                     <Paragraph content={sectionObject[".5"][".i"].p1} />
-                    <ol className="list-[upper-alpha] list-inside p2">
+                    <ol className="list-[upper-alpha] p-2">
                         <ListItem>
                             <Paragraph content={sectionObject[".5"][".i"][".A"].p1} />
-                            <ol className="list-[lower-roman] list-inside p2">
+                            <ol className="list-[lower-roman] p-2">
                                 <ListItem>
                                     <Paragraph content={sectionObject[".5"][".i"][".A"][".i"]} />
                                 </ListItem>
@@ -98,7 +98,7 @@ function Section1() {
                         </ListItem>
                         <ListItem>
                             <Paragraph content={sectionObject[".5"][".i"][".B"].p} />
-                            <ol className="list-[lower-roman] list-inside p2">
+                            <ol className="list-[lower-roman] p-2">
                                 <ListItem>
                                     <Paragraph content={sectionObject[".5"][".i"][".B"][".i"]} />
                                 </ListItem>
@@ -154,22 +154,22 @@ function ArticleTableHeaders(props: {
 }) {
     return <thead>
         <tr>
-            <th className="border-2 border-white bg-blue-950 text-white font-bold text-center text-xl p-2" colSpan={props.hideInitalCategory ? 4 : 5}>
+            <th className="text-center text-xl p-2" colSpan={props.hideInitalCategory ? 4 : 5}>
                 {translateTextMarkup(props.titleContent, props.langSelect)}
             </th>
         </tr>
         <tr>
             {
                 chapter1Text.ArticleTableCommon.colNames.map((t, i) =>
-                    <td key={i}
-                        className="border-2 border-white bg-cyan-800 text-white font-bold text-center text-l p-2"
+                    <th key={i}
+                        className="text-center text-l p-2"
                         // The first column is 2-span, unless hidden
                         colSpan={i === 0
                             ? !props.hideInitalCategory
                                 ? 2 : 1
                             : 1}>
                         {translateTextMarkup(t, props.langSelect)}
-                    </td>
+                    </th>
                 )
             }
         </tr>
@@ -185,11 +185,11 @@ function ArticleTableRow(props: {
             props.content.map((rowData, idx) =>
                 <tr key={idx}>
                     {idx === 0
-                        && <th className="font-bold bg-gray-200 p-2 border-2 border-white"
+                        && <th className="bg-gray-200 p-2"
                             rowSpan={props.content.length}>{props.initialText}</th>
                     }
                     {rowData.map((cellContent, cellIdx) =>
-                        <td key={cellIdx} className="bg-gray-100 p-2 border-2 border-white">
+                        <td key={cellIdx} className="bg-gray-100 p-2">
                             {cellContent}
                         </td>)
                     }
@@ -213,7 +213,7 @@ function Table1A() {
                 content: translateTextMarkup(chapter1Text["1.2"].title, langSelect)
             }}
             tables={[
-                <table key="m" className="w-[100%]">
+                <table key="m" className="w-[100%] chapter-1">
                     <colgroup>
                         <col span={1} className="w-20" />
                         <col span={1} className="w-70" />
@@ -253,7 +253,7 @@ function Table1A() {
                             ]]} />
                     </tbody>
                 </table>,
-                <table key="f" className="w-[100%]">
+                <table key="f" className="w-[100%] chapter-1">
                     <colgroup>
                         <col span={1} className="w-20" />
                         <col span={1} className="w-70" />
@@ -333,9 +333,9 @@ function ContractionTable(props: {
             {
                 props.entries.map(([prepososition, result]) =>
                     <tr key={result}>
-                        <td className="bg-gray-100 p-2 border-2 border-white">{prepososition} + an</td>
-                        <td className="bg-gray-100 p-2 border-2 border-white">&rarr;</td>
-                        <td className="bg-gray-100 p-2 border-2 border-white">{result}</td>
+                        <td className="bg-gray-100 p-2">{prepososition} + an</td>
+                        <td className="bg-gray-100 p-2">&rarr;</td>
+                        <td className="bg-gray-100 p-2">{result}</td>
                     </tr>)
             }
         </tbody>
@@ -397,7 +397,7 @@ function MascFemTable(props: {
             selection={tableLanguage}
             position="right"
             onClick={() => setTableLanguage(tableLanguage === "en" ? "ga" : "en")} />
-        <table className="p-2 w-[100%]">
+        <table className="p-2 w-[100%] chapter-1">
             <Caption
                 id={joinIfPossible(`${translateText(commonText.Table, tableLanguage)} ${props.tableKeyProps.id}`)}
                 content={translateTextMarkup(props.tableKeyProps.label, tableLanguage)}
@@ -408,11 +408,11 @@ function MascFemTable(props: {
             </colgroup>
             <thead>
                 <tr>
-                    <th className="bg-blue-950 text-white text-xl py-1" colSpan={2}>{translateTextMarkup(props.title, tableLanguage)}</th>
+                    <th className="text-xl py-1" colSpan={2}>{translateTextMarkup(props.title, tableLanguage)}</th>
                 </tr>
                 <tr>
-                    <th className="bg-cyan-800 text-white text-l py-1">{translateText(commonText.Masculine, tableLanguage)}</th>
-                    <th className="bg-cyan-800 text-white text-l py-1">{translateText(commonText.Feminine, tableLanguage)}</th>
+                    <th className="text-l py-1">{translateText(commonText.Masculine, tableLanguage)}</th>
+                    <th className="text-l py-1">{translateText(commonText.Feminine, tableLanguage)}</th>
                 </tr>
                 {
                     props.subheadings != null && <tr>
@@ -429,7 +429,7 @@ function MascFemTable(props: {
             <tbody>{
                 props.samples.map((entries, i) => <tr key={i}>{
                     entries.map((ent, j) =>
-                        <td className="bg-gray-100 p-1 border-2 border-white " key={j}>{
+                        <td className="bg-gray-100 p-1" key={j}>{
                             Array.isArray(ent)
                                 ? ent.map((line, lineNo) => <React.Fragment key={lineNo}>
                                     {translateIfAvailable(line, tableLanguage)}
@@ -558,7 +558,7 @@ function Section4() {
                 }} />
             <h4 className="font-bold">N.B.</h4>
             <Paragraph content={sectionObject[".4"].Notes.p1} />
-            <ol className="list-[lower-alpha] list-inside pl-2">
+            <ol className="list-[lower-alpha] pl-2">
                 <ListItem>
                     <Paragraph content={sectionObject[".4"].Notes[".a"]} />
                 </ListItem>
@@ -690,7 +690,7 @@ function Section5() {
     return <ChapterSection sectionId="1.5" title={sectionObject.title}>
         <Subsection heading="1.5.1">
             <Paragraph content={sectionObject[".1"].p1} />
-            <ol className="list-[lower-alpha] list-inside pl-2">
+            <ol className="list-[lower-alpha] pl-2">
                 {
                     (["a", "b", "c", "d", "e"] as const).map(l =>
                         <ListItem key={l}>

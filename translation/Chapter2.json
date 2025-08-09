@@ -134,20 +134,20 @@
       ],
       [
         {
-            "ga": "Baininscneach, ach roinnt bheag Firinscneach",
-            "en": null
+          "ga": "Baininscneach, ach roinnt bheag Firinscneach",
+          "en": null
         },
         {
-            "ga": "Críochnaíonn ar `-il, -in, -ir` nó ar ghuta, e.g., `athair, cabhail, cáin, fiche`.",
-            "en": null
+          "ga": "Críochnaíonn ar `-il, -in, -ir` nó ar ghuta, e.g., `athair, cabhail, cáin, fiche`.",
+          "en": null
         },
         {
-            "ga": "Críochnaíonn ar chonsan leathan, e.g., `athar, cabhlach, cánach, fichead`.",
-            "en": null
+          "ga": "Críochnaíonn ar chonsan leathan, e.g., `athar, cabhlach, cánach, fichead`.",
+          "en": null
         },
         {
-            "ga": "Críochnaíonn ar `-(e)acha, -idí, -na, -ne` agus is ionann an fhoirm sna tuisil go léir, e.g., `aithreacha, cabhlacha, cánacha, fichidí`.",
-            "en": null
+          "ga": "Críochnaíonn ar `-(e)acha, -idí, -na, -ne` agus is ionann an fhoirm sna tuisil go léir, e.g., `aithreacha, cabhlacha, cánacha, fichidí`.",
+          "en": null
         }
       ]
     ]
@@ -266,17 +266,13 @@
         "ga": "Caolú",
         "en": "Narrowing (Caolú)"
       },
-      "p": {
-        "ga": [
-          "Is é is caolú ann consan leathan a dhéanamh caol. Cuirtear `-i-` roimh an gconsan deiridh chun caolú a chur in iúl, e.g., `cnoc, cnoic`. Déantar an caolú céanna i gcás consan deiridh a bhfuil ae roimhe, e.g., `aer, aeir`.",
-          "",
-          "Is iondúil go n-athraítear gutaí áirithe nuair a chaolaítear an consan ina ndiaidh:"
-        ],
-        "en": [
-          "When a broad consonant is made slender, this is narrowing. An `-i-` is placed before the end consonant to indicate a narrowing, e.g., `cnoc, cnoic`. The narrowing is done in the same way if the end-consonant has an `ae` in front, e.g., `aer, aeir`.",
-          "",
-          "It is customary to change certain vowels when the following consonant is narrowed:"
-        ]
+      "p1": {
+        "ga": "Is é is caolú ann consan leathan a dhéanamh caol. Cuirtear `-i-` roimh an gconsan deiridh chun caolú a chur in iúl, e.g., `cnoc, cnoic`. Déantar an caolú céanna i gcás consan deiridh a bhfuil ae roimhe, e.g., `aer, aeir`.",
+        "en": "When a broad consonant is made slender, this is narrowing. An `-i-` is placed before the end consonant to indicate a narrowing, e.g., `cnoc, cnoic`. The narrowing is done in the same way if the end-consonant has an `ae` in front, e.g., `aer, aeir`."
+      },
+      "p2": {
+        "ga": "Is iondúil go n-athraítear gutaí áirithe nuair a chaolaítear an consan ina ndiaidh:",
+        "en": "It is customary to change certain vowels when the following consonant is narrowed:"
       },
       ".a": {
         "p": {

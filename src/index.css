@@ -1,1 +1,31 @@
 @import "tailwindcss";
+
+@layer base {
+  th,
+  td {
+    @apply border-2 border-white;
+  }
+  th {
+    @apply font-bold;
+  }
+  ol,
+  ul {
+    @apply list-inside;
+  }
+
+  .chapter-1 thead tr:first-child th {
+    @apply bg-blue-950 text-white;
+  }
+
+  .chapter-1 thead tr:nth-of-type(2) th {
+    @apply bg-cyan-800 text-white;
+  }
+
+  .chapter-2 thead tr:first-child th {
+    @apply bg-orange-500 text-white;
+  }
+
+  .chapter-2 thead tr:nth-of-type(2) th {
+    @apply bg-gray-700 text-white;
+  }
+}
