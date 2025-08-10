@@ -228,6 +228,186 @@
       }
     ]
   },
+  "Table2H": {
+    "Title": {
+      "ga": "Tréaniolraí sa Dara Díochlaonadh — Samplaí",
+      "en": null
+    },
+    "CornerHeading": {
+      "ga": "Aicmí Tréaniolraí",
+      "en": null
+    },
+    "Col1Data": [
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-a` san iolra agus a ndéantar coimriú",
+          "en": null
+        },
+        { "ga": "leathnú nó malartú ar a ngutaí", "en": null }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-(e)anna` san iolra",
+          "en": null
+        }
+      ],
+      [
+        { "ga": "Ainmfhocail a chríochnaíonn ar -í san iolra", "en": null },
+        {
+          "ga": "Ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha.",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-(e)acha` san iolra",
+          "en": null
+        },
+        {
+          "ga": "Ainmfhocail aonsiollacha, agus ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha (seachas `iníon` a chríochnaíonn ar chonsan leathan).",
+          "en": null
+        }
+      ],
+      [
+        { "ga": "Ainmfhocail a chríochnaíonn ar `-ta` san iolra", "en": null },
+        {
+          "ga": "Roinnt ainmfhocail aonsiollacha a chríochnaíonn ar `-l` nó `-n` leathan san ainmneach uatha.",
+          "en": null
+        }
+      ],
+      [
+        { "ga": "Ainmfhocail a chríochnaíonn ar `-te` san iolra", "en": null },
+        {
+          "ga": "Corr-ainmfhocal a chríochnaíonn ar `-l` nó `-n` caol san ainmneach uatha.",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-e` san iolra agus a dhéantar a choimriú",
+          "en": null
+        }
+      ],
+      [{ "ga": "Ainmfhocail ilghnéitheacha", "en": null }]
+    ]
+  },
+  "Table2I": {
+    "Title": {
+      "ga": "Lagiolraí sa Dara Díochlaonadh — Samplaí",
+      "en": null
+    },
+    "CornerHeading": {
+      "ga": "Aicmí Lagiolraí",
+      "en": null
+    },
+    "Col1Data": [
+      [
+        {
+          "ga": "Ainmfhocail aonsiollacha agus ilsiollacha a chríochnaíonn ar chonsan leathan san ainmneach uatha agus a gcuirtear `-a` leo san ainmneach iolra gan aon athrú eile",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a leathnaítear agus a chríochnaíonn ar `-a` san ainmneach iolra",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Corr-ainmfhocal a chríochnaíonn ar chonsan caol san ainmneach uatha agus a chríochnaíonn ar `-e` san ainmneach iolra",
+          "en": null
+        }
+      ]
+    ]
+  },
+  "Table2J": {
+    "Title": {
+      "ga": "Tréaniolraí sa Tríú Díochlaonadh — Samplaí",
+      "en": "Strong Plurals in the Third Declension — Examples"
+    },
+    "CornerHeading": {
+      "ga": "Aicmí Tréaniolraí",
+      "en": null
+    },
+    "Col1Data": [
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-(a)í` san iolra",
+          "en": null
+        },
+        {
+          "ga": "Ainmfhocail ilsiollacha (firinscneach seachas corrcheann, e.g., `altóir, seanmóir`) a chríochnaíonn ar `-éir, -eoir, -óir, -úir`, agus ainmfhocail ilsiollacha (baininscneach seachas corrcheann, e.g., `bunreacht, comhlacht, complacht, gnólacht`) a chríochnaíonn ar `-cht, -irt, -úint` san ainmneach uatha.",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-(e)anna` san iolra",
+          "en": null
+        },
+        {
+          "ga": "Ainmfhocail fhirinscneacha ilsiollacha (seachas roinnt ainmfhocal atá baininscneach, e.g., `cuid, dleacht, troid, uaim`).",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-a` san iolra agus a ndéantar coimriú, leathnú nó malartú ar a ngutaí",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-acha` san iolra",
+          "en": null
+        },
+        {
+          "ga": [
+            "Ainmfhocail ilsiollacha bhaininscneacha a chríochnaíonn ar `-l`, `-n` nó `-r` caol (eisceachtaí: `anam, anama, anamacha; úim, úma, úmacha`) san ainmneach uatha.",
+            "Tabhair faoi deara gur mar sin a chumtar ginideach uatha ainmfhocal a chríochnaíonn ar `-aíl` freisin, e.g., `feadaíl, feadaíola; sceamhaíl, sceamhaíola`."
+          ],
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-ta` san iolra",
+          "en": null
+        },
+        {
+          "ga": "Ainmfhocail aonsiollacha a chríochnaíonn ar -`l nó ` leathan (firinscneach) nó caol (baininscneach) san ainmneach uatha.",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail a chríochnaíonn ar `-te` san iolra",
+          "en": null
+        }
+      ],
+      [
+        {
+          "ga": "Ainmfhocail ilghnéitheacha",
+          "en": null
+        }
+      ]
+    ]
+  },
+  "Table2K": {
+    "Title": {
+      "ga": "Lagiolraí sa Tríú Díochlaonadh — Samplaí",
+      "en": "Weak Plurals in the Third Declension — Examples"
+    },
+    "CornerHeading": {
+      "ga": "Aicmí Lagiolraí",
+      "en": null
+    },
+    "Col1Text": {
+      "ga": "Ainmfhocail ilghnéitheacha",
+      "en": null
+    }
+  },
   "2.1": {
     ".1": {
       "title": {
@@ -576,6 +756,164 @@
     "title": {
       "ga": "An Dara Díochlaonadh",
       "en": "The Second Declension"
+    },
+    ".1": {
+      "title": {
+        "ga": "An tUatha",
+        "en": null
+      },
+      "p": {
+        "ga": "Críochnaíonn ainmfhocail an díochlaonta seo ar chonsan, leathan nó caol, san ainmneach uatha. Is baininscneach dóibh uile seachas `im` agus `sliabh`.",
+        "en": null
+      }
+    },
+    ".2": {
+      "title": {
+        "ga": "An Ginideach Uatha",
+        "en": null
+      },
+      ".a": {
+        "ga": "Cuirtear `-e` leis an ainmneach uatha agus más consan leathan is críoch dó caolaítear é, e.g., `bróg, bróige; coill, coille; earr, eirre;` ach amháin i gcás ainmfhocail ilsiollacha a chríochnaíonn ar `-(e)ach`.",
+        "en": null
+      },
+      ".b": {
+        "ga": "I gcás ainmfhocail ilsiollacha a chríochnaíonn ar `-(e)ach`, déantar `-(a)í` den `-(e)ach`, e.g., `scornach, scornaí; cailleach, caillí`.",
+        "en": null
+      },
+      ".c": {
+        "p1": {
+          "ga": "Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:",
+          "en": null
+        },
+        ".i": {
+          "ga": "`-ea-` go `-ei-`, e.g., `beach, beiche` (athraítear `-ea-` go `-i-` san ainmfhocal aonsiollach, e.g., `beann, binne; cearc, circe;` agus sa siolla neamhaiceanta d'ainmfhocail ilsiollacha, e.g., `bruinneall, bruinnille; ficheall, fichille`); agus",
+          "en": null
+        },
+        ".ii": {
+          "ga": "`-ia-` go `-i-` san fhocal `scian, scine`.",
+          "en": null
+        }
+      }
+    },
+    ".3": {
+      "title": {
+        "ga": "An Tabharthach Uatha",
+        "en": null
+      },
+      "p1": {
+        "ga": "Tá dhá fhoirm den tabharthach uatha ann i gcás ainmfhocail a chríochnaíonn ar chonsan leathan:",
+        "en": null
+      },
+      ".a": {
+        "ga": "foirm is ionann agus foirm an ainmnigh uatha;",
+        "en": null
+      },
+      ".b": {
+        "ga": "seanfhoirm leithleach nach n-úsáidtear ach in abairtíní seanbhunaithe, e.g., `cur i gcéill; cur dá chois; airgead ar láimh; bolg le gréin; imithe le gealaigh; cur de láimh; faoi bhois an chait; bíonn a chroí ar a bhois i gcónaí aige; ar éill;` etc.",
+        "en": null
+      }
+    },
+    ".4": {
+      "title": {
+        "ga": "An tIolra",
+        "en": null
+      },
+      "p1": {
+        "ga": "Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.",
+        "en": null
+      },
+      "p2": {
+        "ga": "Tabhair faoi deara go bhfuil patrún an Dara Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar `-e` agus go gcaolaítear an consan deiridh más consan leathan é, agus i gcás ainmfhocail ilsiollacha a chríochnaíonn ar `-(e)ach`, go n-athraítear `-(e)ach` go `-(a)í`.",
+        "en": null
+      },
+      ".a": {
+        "title": {
+          "ga": "Tréaniolraí",
+          "en": "Strong Plurals"
+        }
+      },
+      ".b": {
+        "title": {
+          "ga": "Lagiolraí",
+          "en": "Weak Plurals"
+        }
+      }
+    }
+  },
+  "2.4": {
+    "title": {
+      "ga": "An Tríú Díochlaonadh",
+      "en": "The Third Declension"
+    },
+    ".1": {
+      "title": {
+        "ga": "An tUatha",
+        "en": null
+      },
+      ".a": {
+        "ga": "Is leis an díochlaonadh seo a bhaineann ainmfhocail ilsiollacha a chríochnaíonn ar `-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir` (seachas i gcás ainmneacha tíortha atá sa Dara Díochlaonadh, e.g., `an Ailgéir, an Bhrasaíl, an Iodáil`).",
+        "en": null
+      },
+      ".b": {
+        "ga": "Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan, leathan nó caol, san ainmneach uatha. I gcás na n-ainmfhocal sin, críochnaíonn an ginideach uatha ar `-a` agus leathnaítear an consan deiridh más gá, e.g., `buachaill, buachalla; gleann, gleanna` (féach 2.1.5).",
+        "en": null
+      }
+    },
+    ".2": {
+      "title": {
+        "ga": "An Ginideach Uatha",
+        "en": "The Genitive Singular"
+      },
+      "a": {
+        "ga": "Mar a luadh in (b) thuas, críochnaíonn an ginideach uatha ar `-a`.",
+        "en": null
+      },
+      "b": {
+        "ga": "Is iondúil go n-athraítear `-io-` go `-ea-` sa ghinideach uatha i gcás ainmfhocail aonsiollacha, e.g., `crios, creasa; lios, leasa;` ach `cion` (sa bhrí `coir`), `ciona`.",
+        "en": null
+      },
+      "c": {
+        "ga": "Ligtear an `-t` ar lár sa ghinideach uatha as ainmfhocail a chríochnaíonn ar `-int`, e.g., `oiliúint, oiliúna` (ach amháin sna heisceachtaí `cogaint, coganta; cosaint, cosanta; seachaint, seachanta`). Déantar `-th-` den `-t` i gcás ainmfhocail a chríochnaíonn ar `-irt`, e.g., `imirt, imeartha`.",
+        "en": null
+      }
+    },
+    ".3": {
+      "title": {
+        "ga": "An tIolra",
+        "en": "The Plural"
+      },
+      "p1": {
+        "ga": "Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.",
+        "en": null
+      },
+      "p2": {
+        "ga": "Tabhair faoi deara go bhfuil patrún an Tríú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar `-a` agus go leathnaítear an consan deiridh más consan caol é.",
+        "en": null
+      },
+      ".a": {
+        "title": {
+          "ga": "Tréaniolraí",
+          "en": "Strong Plurals"
+        }
+      },
+      ".b": {
+        "title": {
+          "ga": "Lagiolraí",
+          "en": "Weak Plurals"
+        }
+      }
+    }
+  },
+  "2.5": {
+    "title": {
+        "ga": "An Ceathrú Díochlaonadh",
+        "en": "The Fourth Declension"
+    },
+    ".1": {
+      "Title": {
+          "ga": "An tUatha",
+          "en": null
+      }
     }
   }
 }
