@@ -20,8 +20,18 @@
 		"prefix": "tlentry",
 		"body": [
 			"\"$1\": {",
-			"    \"ga\": \"$2\",",
-			"    \"en\": ${3:null}",
+			"  \"ga\": \"$2\",",
+			"  \"en\": ${3:null}",
+			"}"
+		]
+	},
+	"TL-entry from selection": {
+		"scope": "json",
+		"prefix": "selTlEntry",
+		"body": [
+			"\"$1\": {",
+			"  \"ga\": \"${TM_SELECTED_TEXT}\",",
+			"  \"en\": ${3:null}",
 			"}"
 		]
 	}
