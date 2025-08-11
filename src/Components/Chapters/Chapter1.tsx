@@ -1,5 +1,5 @@
 import React from "react";
-import { Chapter, ChapterSection, Footnote, LanguageSelector, ListItem, Paragraph, SectionGroupHeader, Subsection } from "../BodyMatter";
+import { AlphaList, Chapter, ChapterSection, Footnote, LanguageSelector, ListItem, Paragraph, SectionGroupHeader, Subsection } from "../BodyMatter";
 import chapter1Text from "../../../translation/Chapter1.json";
 import commonText from "../../../translation/Common.json";
 import SampleBox from "../SampleBox";
@@ -27,7 +27,7 @@ function Section1() {
         </Subsection>
         <Subsection heading="1.1.5">
             <Paragraph content={sectionObject[".5"].text} />
-            <ol className="list-[lower-alpha] pl-2">
+            <AlphaList>
                 <ListItem>
                     <Paragraph content={sectionObject[".5"][".a"].text} />
                     <SampleBox samples={sectionObject[".5"][".a"].samples} />
@@ -142,7 +142,7 @@ function Section1() {
                     <SampleBox samples={sectionObject[".5"][".n"].samples} />
                     <Paragraph content={sectionObject[".5"][".n"].p2} />
                 </ListItem>
-            </ol>
+            </AlphaList>
         </Subsection>
     </ChapterSection>;
 }
@@ -558,14 +558,14 @@ function Section4() {
                 }} />
             <h4 className="font-bold">N.B.</h4>
             <Paragraph content={sectionObject[".4"].Notes.p1} />
-            <ol className="list-[lower-alpha] pl-2">
+            <AlphaList>
                 <ListItem>
                     <Paragraph content={sectionObject[".4"].Notes[".a"]} />
                 </ListItem>
                 <ListItem>
                     <Paragraph content={sectionObject[".4"].Notes[".b"]} />
                 </ListItem>
-            </ol>
+            </AlphaList>
         </Subsection>
     </ChapterSection>;
 }
@@ -690,7 +690,7 @@ function Section5() {
     return <ChapterSection sectionId="1.5" title={sectionObject.title}>
         <Subsection heading="1.5.1">
             <Paragraph content={sectionObject[".1"].p1} />
-            <ol className="list-[lower-alpha] pl-2">
+            <AlphaList>
                 {
                     (["a", "b", "c", "d", "e"] as const).map(l =>
                         <ListItem key={l}>
@@ -699,7 +699,7 @@ function Section5() {
                         </ListItem>
                     )
                 }
-            </ol>
+            </AlphaList>
             <Paragraph content={sectionObject[".1"].p2} />
         </Subsection>
         <Subsection heading="1.5.2">

@@ -1,5 +1,6 @@
 import React from "react";
 import { translateText, translateTextMarkup, type LanguageSelection, type Translation } from "../translate";
+import commonText from "../../translation/Common.json";
 
 export function LanguageSelector(props: {
     selection: LanguageSelection;
@@ -117,6 +118,32 @@ export function Paragraph(props: {
             onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
             position="right" />
     </div>;
+}
+
+export function Notes(props: {
+    children?: React.ReactNode
+
+}) {
+    const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
+
+    return <>
+        <h4 className="font-bold">
+            {translateTextMarkup(commonText.note, langSelect)}:
+            <LanguageSelector
+                selection={langSelect}
+                onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
+                position="right" />
+        </h4>
+        {props.children}
+    </>;
+}
+
+export function AlphaList(props: {
+    children?: React.ReactNode
+}) {
+    return <ol className="list-inside list-[lower-alpha] pl-1">
+        {props.children}
+    </ol>
 }
 
 /** Standard styled `li` element */

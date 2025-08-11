@@ -1,4 +1,4 @@
-import { Chapter, ChapterSection, LanguageSelector, ListItem, Paragraph, Subsection } from "../BodyMatter";
+import { AlphaList, Chapter, ChapterSection, LanguageSelector, ListItem, Notes, Paragraph, Subsection } from "../BodyMatter";
 import chapter2Text from "../../../translation/Chapter2.json";
 import commonText from "../../../translation/Common.json";
 import { Caption } from "../TableHelpers";
@@ -216,7 +216,7 @@ function Section1() {
             <Paragraph content={sectionObject[".1"].p1} />
         </Subsection>
         <Subsection heading="2.1.2" title={sectionObject[".2"].title}>
-            <ol className="list-[lower-alpha] list-inside">
+            <AlphaList>
                 <ListItem>
                     <Paragraph content={sectionObject[".2"][".a"].title} />
                     <Paragraph content={sectionObject[".2"][".a"].p1} />
@@ -233,11 +233,11 @@ function Section1() {
                     <Paragraph content={sectionObject[".2"][".d"].title} />
                     <Paragraph content={sectionObject[".2"][".d"].p1} />
                 </ListItem>
-            </ol>
+            </AlphaList>
         </Subsection>
         <Subsection heading="2.1.3" title={sectionObject[".3"].title}>
             <Paragraph content={sectionObject[".3"].p1} />
-            <ol className="list-inside list-[lower-alpha]">
+            <AlphaList>
                 <ListItem>
                     <Paragraph content={sectionObject[".3"][".a"].title} />
                     <Paragraph content={sectionObject[".3"][".a"].p1} />
@@ -262,17 +262,47 @@ function Section1() {
                         </ListItem>
                     </ol>
                 </ListItem>
-            </ol>
+            </AlphaList>
         </Subsection>
         <Subsection heading="2.1.4" title={sectionObject[".4"].title}>
             <Paragraph content={sectionObject[".4"].p1} />
             <Paragraph content={sectionObject[".4"].p2} />
-            <ol className="list-inside list-[lower-alpha]">
+            <AlphaList>
                 <ListItem><Paragraph content={sectionObject[".4"][".a"].p} /></ListItem>
                 <ListItem><Paragraph content={sectionObject[".4"][".b"].p1} /></ListItem>
                 <ListItem><Paragraph content={sectionObject[".4"][".c"].p1} /></ListItem>
                 <ListItem><Paragraph content={sectionObject[".4"][".d"].p1} /></ListItem>
-            </ol>
+            </AlphaList>
+        </Subsection>
+        <Subsection heading="2.1.5" title={sectionObject[".5"].title}>
+            <Paragraph content={sectionObject[".5"].p1} />
+            <Paragraph content={sectionObject[".5"].p2} />
+            <AlphaList>
+                <ListItem><Paragraph content={sectionObject[".5"][".a"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".5"][".b"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".5"][".c"]} /></ListItem>
+            </AlphaList>
+        </Subsection>
+        <Subsection heading="2.1.6" title={sectionObject[".6"].title}>
+            <Paragraph content={sectionObject[".6"].p} />
+        </Subsection>
+        <Subsection heading="2.1.7" title={sectionObject[".7"].title}>
+            <Paragraph content={sectionObject[".7"].p1} />
+            <AlphaList>
+                <ListItem><Paragraph content={sectionObject[".7"][".a"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".7"][".b"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".7"][".c"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".7"][".d"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".7"][".e"]} /></ListItem>
+                <ListItem><Paragraph content={sectionObject[".7"][".f"]} /></ListItem>
+            </AlphaList>
+            <Notes>
+                <ul className="list-inside pl-1 list-disc">
+                    {sectionObject[".7"].notes.map((n, i) =>
+                        <ListItem key={i}><Paragraph content={n} /></ListItem>
+                    )}
+                </ul>
+            </Notes>
         </Subsection>
     </ChapterSection>;
 }

@@ -195,8 +195,8 @@
         "p2": {
           "ga": "Úsáidtear an t-alt leis na míonna `Márta`, `Bealtaine`, `Meitheamh`, `Samhain` agus `Nollaig`. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha `san Aibreán`.",
           "en": [
-            "The article is used for the months `Márta` (March), `Bealtaine` (May), `Meitheamh` (June), `Samhain` (November) agus `Nollaig` (December). The article is not used for the other months except for the calqued form `san Aibreán` (in April).",
-            "``Note``: (`calqued form` appears to be the intended meaning here for `leagan calctha`. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)"
+            "The article is used for the months `Márta` (March), `Bealtaine` (May), `Meitheamh` (June), `Samhain` (November) agus `Nollaig` (December). The article is not used for the other months except for the calqued version `san Aibreán` (in April).",
+            "``Note``: (`calqued version` appears to be the intended meaning here for `leagan calctha`. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)"
           ]
         },
         "samples": [
@@ -578,7 +578,7 @@
     },
     ".2": {
       "ga": "Is é an tuiseal ainmneach a leanann na focail `ach, amhail, gan, go dtí, idir, mar, murach, ná` agus `seachas` agus an t-alt, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. Úsáidtear an tuiseal tabharthach sa leagan calctha `mar an gcéanna`.",
-      "en": "The nominative case follows the words `ach, amhail, gan, go dtí, idir, mar, murach, ná` and `seachas` and the article, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. The dative case is used in the calqued form `mar an gcéanna`."
+      "en": "The nominative case follows the words `ach, amhail, gan, go dtí, idir, mar, murach, ná` and `seachas` and the article, e.g., `gan an t-uisce; idir an t-am sin agus an t-am seo; mar an t-aistriúchán`. The dative case is used in the calqued version `mar an gcéanna`."
     },
     ".3": {
       "ga": "Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: `réamhfhocal` + `ainmfhocal` + `a` + `ainm briathartha`, e.g., `leis an ngnó a dhéanamh; as an árasán a dhíol`.",

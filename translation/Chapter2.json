@@ -44,27 +44,61 @@
           "en": "Masculine"
         },
         {
-          "ga": "Críochnaíonn ar chonsan leathan, e.g., `bád, cás, ceol, marcach`.",
-          "en": null
+          "ga": [
+            "Críochnaíonn ar chonsan leathan,",
+            "e.g., `bád, cás, ceol, marcach`."
+          ],
+          "en": [
+            "Ends with a broad consonant,",
+            "e.g., `bád, cás, ceol, marcach`."
+          ]
         },
         {
-          "ga": "Caolaítear an consan deiridh, e.g., `báid, cáis, ceoil, marcaigh`.",
-          "en": null
+          "ga": [
+            "Caolaítear an consan deiridh,",
+            "e.g., `báid, cáis, ceoil, marcaigh`."
+          ],
+          "en": [
+            "Narrowing of the last consonant,",
+            "e.g., `báid, cáis, ceoil, marcaigh`."
+          ]
         },
         [
           [
             {
-              "ga": "Bíonn ar aon fhoirm de ghnáth leis an nginideach uatha, e.g., báid, marcaigh.",
-              "en": null
+              "ga": "Firinscneach",
+              "en": "Masculine"
             },
             {
-              "ga": "Bíonn ar aon fhoirm de ghnáth leis an ainmneach uatha, e.g., bád, marcach. Is ionann an fhoirm sna tuisil go léir, e.g., cásanna, ceolta",
-              "en": null
+              "ga": [
+                "Bíonn ar aon fhoirm de ghnáth leis an nginideach uatha,",
+                "e.g., `báid, marcaigh`."
+              ],
+              "en": [
+                "The form is usually the same as in the genitive singular,",
+                "e.g., `báid, marcaigh`."
+              ]
+            },
+            {
+              "ga": [
+                "Bíonn ar aon fhoirm de ghnáth leis an ainmneach uatha,",
+                "e.g., `bád, marcach`."
+              ],
+              "en": [
+                "The form is usually the same as in the nominative singular,",
+                "e.g., `bád, marcach`."
+              ]
             }
           ],
           {
-            "ga": "Is ionann an fhoirm sna tuisil go léir, e.g., `cásanna, ceolta`",
-            "en": null
+            "ga": [
+              "Is ionann an fhoirm sna tuisil go léir,",
+              "e.g., `cásanna, ceolta`"
+            ],
+            "en": [
+              "The form in the plural is completely the same.",
+              "e.g., `cásanna, ceolta`"
+            ]
           }
         ]
       ],
@@ -74,28 +108,32 @@
           "en": "Feminine, but not `im, sliabh`."
         },
         {
-          "ga": "Críochnaíonn ar chonsan (leathan nó caol), e.g., aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír.",
-          "en": null
+          "ga": "Críochnaíonn ar chonsan (leathan nó caol), e.g., `aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír`.",
+          "en": "Ends with a consonant (broad or slender), e.g., `aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír`."
         },
         {
           "ga": "Críochnaíonn ar `-e`, e.g., `aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;` nó ar `-(a)í, e.g., baintrí, scornaí`.",
-          "en": null
+          "en": "Ends with `-e`, e.g., `aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;` or with `-(a)í, e.g., baintrí, scornaí`."
         },
         [
+          {
+            "ga": "Firinscneach agus Baininscneach",
+            "en": "Masculine and Feminine"
+          },
           [
             {
               "ga": "Críochnaíonn ar `-a`, e.g., `baintreacha, bróga, scornacha.`",
-              "en": null
+              "en": "Ends with `-a`, e.g., `baintreacha, bróga, scornacha.`"
             },
             {
               "ga": "Cailltear an `-a`, e.g., `baintreach, bróg, scornach`.",
-              "en": null
+              "en": "The `-a` is omitted, e.g., `baintreach, bróg, scornach`."
             }
           ],
           [
             {
               "ga": "Críochnaíonn ar `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` agus is ionann an fhoirm sna tuisil go léir, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`.",
-              "en": null
+              "en": "Ends with `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` and is completely the same as the plural form, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`."
             }
           ]
         ]
@@ -103,51 +141,51 @@
       [
         {
           "ga": "Firinscneach agus Baininscneach",
-          "en": null
+          "en": "Masculine and Feminine"
         },
         {
           "ga": "Críochnaíonn ar chonsan (leathan nó caol), e.g., `bádóir, éacht, foráil, gleann, lus, táin`.",
-          "en": null
+          "en": "Ends with a consonant (broad or slender), e.g., `bádóir, éacht, foráil, gleann, lus, táin`."
         },
         {
           "ga": "Críochnaíonn ar `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána``.",
-          "en": null
+          "en": "Ends with `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána``."
         },
         {
-          "ga": "Críochnaíonn ar `-a, -acha, -(a)í, -(e)anna, -ta, -te` agus is ionann an fhoirm sna tuisil go léir, `e.g., bádóirí, éachtaí, forálacha, gleannta, lusanna, táinte`.",
-          "en": null
+          "ga": "Críochnaíonn ar `-a, -acha, -(a)í, -(e)anna, -ta, -te` agus is ionann an fhoirm sna tuisil go léir, e.g., `bádóirí, éachtaí, forálacha, gleannta, lusanna, táinte`.",
+          "en": "Ends with `-a, -acha, -(a)í, -(e)anna, -ta, -te` and the form is completely the same as in the plural, e.g. `bádóirí, éachtaí, forálacha, gleannta, lusanna, táinte`."
         }
       ],
       [
         {
           "ga": "Firinscneach agus Baininscneach",
-          "en": null
+          "en": "Masculine and Feminine"
         },
         {
-          "ga": "Críochnaíonn ar ghuta nó ar `-ín` (seachas muinín agus muirín (sa bhrí `clann`) atá sa dara díochlaonadh), e.g., `acra, cailín, oibrí, trá. Ní athraíonn sa ghinideach`.",
-          "en": null
+          "ga": "Críochnaíonn ar ghuta nó ar `-ín` (seachas `muinín` agus `muirín` (sa bhrí `clann`) atá sa dara díochlaonadh), e.g., `acra, cailín, oibrí, trá`. Ní athraíonn sa ghinideach.",
+          "en": "Ends with a vowel or with `-ín` (except `muinín` and `muirín` (meaning `clann`) which are in the second declension), e.g. `acra, cailín, oibrí, trá`. Does not change the genitive."
         },
         {
           "ga": "Críochnaíonn ar `-(a)í, -(e)anna, -(i)te, -(i)the, -nna, -nna` agus is ionann an fhoirm sna tuisil go léir, e.g., `acraí, cailíní, oibrithe, tránna`.",
-          "en": null
+          "en": "Ends with `-(a)í, -(e)anna, -(i)te, -(i)the, -nna, -nna` and the form is completely the same as in the plural, e.g., `acraí, cailíní, oibrithe, tránna`."
         }
       ],
       [
         {
           "ga": "Baininscneach, ach roinnt bheag Firinscneach",
-          "en": null
+          "en": "Feminine, except a few are Masculine"
         },
         {
           "ga": "Críochnaíonn ar `-il, -in, -ir` nó ar ghuta, e.g., `athair, cabhail, cáin, fiche`.",
-          "en": null
+          "en": "Ends with `-il, -in, -ir` or with a vowel, e.g., `athair, cabhail, cáin, fiche`."
         },
         {
           "ga": "Críochnaíonn ar chonsan leathan, e.g., `athar, cabhlach, cánach, fichead`.",
-          "en": null
+          "en": "Ends with a broad consonant, e.g., `athar, cabhlach, cánach, fichead`."
         },
         {
           "ga": "Críochnaíonn ar `-(e)acha, -idí, -na, -ne` agus is ionann an fhoirm sna tuisil go léir, e.g., `aithreacha, cabhlacha, cánacha, fichidí`.",
-          "en": null
+          "en": "Ends with `-(e)acha, -idí, -na, -ne` and the form is completely the same as in the plural, e.g., `aithreacha, cabhlacha, cánacha, fichidí`."
         }
       ]
     ]
@@ -698,15 +736,15 @@
     ".5": {
       "title": {
         "ga": "Leathnú",
-        "en": null
+        "en": "Widening (Leathnú)"
       },
-      "p": {
-        "ga": [
-          "Is é is leathnú ann consan caol a dhéanamh leathan. Déantar an -i- roimh an gconsan deiridh a ligean ar lár chun ainmfhocal a leathnú, e.g., `athair, athar; droim, droma.`",
-          "",
-          "Is iondúil go n-athraítear gutaí áirithe mar a leanas nuair a leathnaítear iad:"
-        ],
-        "en": [null, "", null]
+      "p1": {
+        "ga": "Is é is leathnú ann consan caol a dhéanamh leathan. Déantar an `-i-` roimh an gconsan deiridh a ligean ar lár chun ainmfhocal a leathnú, e.g., `athair, athar; droim, droma.`",
+        "en": "When a slender consonant is made broad, this is widening. The `-i-` directly in fronbt of the consonant is dropped to widen the noun, e.g., `athair, athar; droim, droma.`"
+      },
+      "p2": {
+        "ga": "Is iondúil go n-athraítear gutaí áirithe mar a leanas nuair a leathnaítear iad:",
+        "en": "Certain vowels are usually changed as follows when they are widened:"
       },
       ".a": {
         "ga": "`-ei-` agus `-i-` go `-ea-`, e.g., `greim, greama; mil, meala;`",
@@ -724,69 +762,69 @@
     ".6": {
       "title": {
         "ga": "Coimriú",
-        "en": null
+        "en": "Syncopation (Coimriú)"
       },
       "p": {
         "ga": "Is é is coimriú ann guta nó gutaí atá gairid neamhaiceanta a ligean ar lár as focal nuair a dhéantar infhilleadh air, e.g., `cathair, cathrach; obair, oibre`.",
-        "en": null
+        "en": "When a short, unaccented vowel or vowels are dropped from the word when it is inflected, this is syncopation, e.g., `cathair, cathrach; obair, oibre`."
       }
     },
     ".7": {
       "title": {
         "ga": "An Comhfhocal",
-        "en": null
+        "en": "The Compound Word"
       },
       "p1": {
         "ga": "Déantar comhfhocal nuair a cheanglaítear dhá fhocal nó níos mó le chéile, e.g., `bunscoil; príomhoifigeach; ríomheolaíocht`. Séimhítear an dara focal i gcomhfhocal, e.g., `deargbhuile; rósghairdín`, ach amháin nuair a thagann `d, n, t, l` nó `s` le chéile, e.g., `antráth; catsúil`. Úsáidtear an fleiscín i gcomhfhocal:",
-        "en": null
+        "en": "A compound word is made by connecting two words or more together, e.g, `bunscoil; príomhoifigeach; ríomheolaíocht`. The second word in a compound word is lenited, e.g., `deargbhuile; rósghairdín`, except when `d, n, t, l` or `s` occur together, e.g., `antráth; catsúil`. The hyphen is used in a compound:"
       },
       ".a": {
         "ga": "idir dhá ghuta, e.g., `fo-aicme; mí-ádh; mí-iompar; ró-olc;`",
-        "en": null
+        "en": "between two vowels, e.g. `fo-aicme; mí-ádh; mí-iompar; ró-olc;`"
       },
       ".b": {
         "ga": "idir comhchonsain, e.g., `droch-chaint; gearr-rás; gnáth-thuarastal;`",
-        "en": null
+        "en": "between common consonants, e.g. `droch-chaint; gearr-rás; gnáth-thuarastal;`"
       },
       ".c": {
         "ga": "idir dhá réimír, e.g., `comh-cheolfhoireann; mór-cheoldráma; sin-seanathair;`",
-        "en": null
+        "en": "between two prefixes, e.g., `comh-cheolfhoireann; mór-cheoldráma; sin-seanathair;`"
       },
       ".d": {
         "ga": "i gcásanna inar bhaol go mbeadh an comhfhocal do-aitheanta d'éagmais an fhleiscín, mar shampla idir na réimíreanna `do-, fo-, so-` agus focail dar tús `bha-, bhla-, bhra-, dha-, gha-, ghla-, ghra-, mha-`, e.g., `do-ghlanta; fo-bhaile; so-mharaithe;`",
-        "en": null
+        "en": "in cases when the compound would be unrcognizable without the hyphen, for example, between the prefixes `do-, fo-, so-` and words starting with `bha-, bhla-, bhra-, dha-, gha-, ghla-, ghra-, mha-`, e.g., `do-ghlanta; fo-bhaile; so-mharaithe;`"
       },
       ".e": {
         "ga": "i dteidil shainiúla agus ceannlitreacha orthu, e.g., `an Ard-Chúirt; an tArd-Aighne; an Príomh-Aire; an Príomh-Bhreitheamh;`",
-        "en": null
+        "en": "in specific titles and their initials, e.g., `an Ard-Chúirt; an tArd-Aighne; an Príomh-Aire; an Príomh-Bhreitheamh;`"
       },
       ".f": {
         "ga": "i ndiaidh `an-` (réimír threise) agus i ndiaidh `dea-`, e.g., `an-aimsir; dea-bhéas`. Tabhair faoi deara nach séimhítear an dara focal i gcomhfhocal i ndiaidh `an-` nuair a thagann `d, t` nó `s` ar a lorg, e.g., `an-duine is ea é; an-drochaimsir` (féach 10.2.12).",
-        "en": null
+        "en": "after `an-` (emphatic prefix) and after `dea-`, e.g. `an-aimsir; dea-bhéas`. Note that there is no lenition of the second word in a compound word after `an-` when `d, t` or `s` follows it, e.g., `an-duine is ea é; an-drochaimsir` (see 10.2.12)."
       },
       "notes": [
         {
           "ga": "Cuirtear dhá fhleiscín i gcomhfhocal nuair is gá ar mhaithe leis an tsoiléireacht, e.g., `an-dea-aimsir; an-droch-chaint; iar-nua-aimseartha; an Leas-Phríomh-Aire`.",
-          "en": null
+          "en": "Two hyphens are placed in a compound word when it is necessary for the sake of clarity, e.g. `an-dea-aimsir; an-droch-chaint; iar-nua-aimseartha; an Leas-Phríomh-Aire`."
         },
         {
           "ga": "Ní gá fleiscín a chur i dtéarma riaracháin ina bhfuil níos mó ná réimír amháin má tá brí an téarma soiléir gan é, e.g., `comhfhochoiste; roghfhochoiste`.",
-          "en": null
+          "en": "The placement of a hyphen is not needed in an administrative term with more than one prefix if the meaning of the term is clear without it, e.g., `comhfhochoiste; roghfhochoiste`."
         },
         {
-          "ga": "Tabhair faoi deara, má tá `iar` ag teacht roimh theideal a thosaíonn ar cheannlitir, nach gá fleiscín a chur idir iar agus an teideal, e.g., `an t-iarArd-Reachtaire Cuntas agus Ciste`.",
-          "en": null
+          "ga": "Tabhair faoi deara, má tá `iar` ag teacht roimh theideal a thosaíonn ar cheannlitir, nach gá fleiscín a chur idir `iar` agus an teideal, e.g., `an t-iarArd-Reachtaire Cuntas agus Ciste`.",
+          "en": "Note if `iar` is coming before a title starting with a capital letter, the placement of a hyphen is not necessary between `iar` and the title, e.g., `an t-iarArd-Reachtaire Cuntas agus Ciste`."
         }
       ]
     },
     ".8": {
       "title": {
         "ga": "Gearrléiriú ar na Díochlaontaí",
-        "en": null
+        "en": "A Brief Overview of the Declensions"
       },
       "notes": {
         "ga": "Mar a luadh in 2.1.2, is ionann foirm don Tuiseal Ainmneach, don Tuiseal Cuspóireach agus don Tuiseal Tabharthach agus áirítear iad uile faoin teideal Ainmneach.",
-        "en": null
+        "en": "As mentioned in 2.1.2, the form is the same in the Nominative Case, the Accusative Case and the Dative Case and all of them are included under the title Nominative."
       }
     }
   },
