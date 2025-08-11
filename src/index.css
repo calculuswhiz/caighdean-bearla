@@ -5,9 +5,15 @@
   td {
     @apply border-2 border-white;
   }
+
+  td {
+    @apply bg-gray-200 p-1
+  }
+
   th {
     @apply font-bold;
   }
+
   ol,
   ul {
     @apply list-inside;

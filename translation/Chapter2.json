@@ -63,44 +63,36 @@
             "e.g., `báid, cáis, ceoil, marcaigh`."
           ]
         },
-        [
-          [
-            {
-              "ga": "Firinscneach",
-              "en": "Masculine"
-            },
-            {
-              "ga": [
-                "Bíonn ar aon fhoirm de ghnáth leis an nginideach uatha,",
-                "e.g., `báid, marcaigh`."
-              ],
-              "en": [
-                "The form is usually the same as in the genitive singular,",
-                "e.g., `báid, marcaigh`."
-              ]
-            },
-            {
-              "ga": [
-                "Bíonn ar aon fhoirm de ghnáth leis an ainmneach uatha,",
-                "e.g., `bád, marcach`."
-              ],
-              "en": [
-                "The form is usually the same as in the nominative singular,",
-                "e.g., `bád, marcach`."
-              ]
-            }
+        {
+          "ga": [
+            "Bíonn ar aon fhoirm de ghnáth leis an nginideach uatha,",
+            "e.g., `báid, marcaigh`."
           ],
-          {
-            "ga": [
-              "Is ionann an fhoirm sna tuisil go léir,",
-              "e.g., `cásanna, ceolta`"
-            ],
-            "en": [
-              "The form in the plural is completely the same.",
-              "e.g., `cásanna, ceolta`"
-            ]
-          }
-        ]
+          "en": [
+            "The form is usually the same as in the genitive singular,",
+            "e.g., `báid, marcaigh`."
+          ]
+        },
+        {
+          "ga": [
+            "Bíonn ar aon fhoirm de ghnáth leis an ainmneach uatha,",
+            "e.g., `bád, marcach`."
+          ],
+          "en": [
+            "The form is usually the same as in the nominative singular,",
+            "e.g., `bád, marcach`."
+          ]
+        },
+        {
+          "ga": [
+            "Is ionann an fhoirm sna tuisil go léir,",
+            "e.g., `cásanna, ceolta`"
+          ],
+          "en": [
+            "The form in the plural is completely the same.",
+            "e.g., `cásanna, ceolta`"
+          ]
+        }
       ],
       [
         {
@@ -115,28 +107,23 @@
           "ga": "Críochnaíonn ar `-e`, e.g., `aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;` nó ar `-(a)í, e.g., baintrí, scornaí`.",
           "en": "Ends with `-e`, e.g., `aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;` or with `-(a)í, e.g., baintrí, scornaí`."
         },
-        [
-          {
-            "ga": "Firinscneach agus Baininscneach",
-            "en": "Masculine and Feminine"
-          },
-          [
-            {
-              "ga": "Críochnaíonn ar `-a`, e.g., `baintreacha, bróga, scornacha.`",
-              "en": "Ends with `-a`, e.g., `baintreacha, bróga, scornacha.`"
-            },
-            {
-              "ga": "Cailltear an `-a`, e.g., `baintreach, bróg, scornach`.",
-              "en": "The `-a` is omitted, e.g., `baintreach, bróg, scornach`."
-            }
-          ],
-          [
-            {
-              "ga": "Críochnaíonn ar `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` agus is ionann an fhoirm sna tuisil go léir, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`.",
-              "en": "Ends with `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` and is completely the same as the plural form, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`."
-            }
-          ]
-        ]
+        {
+          "ga": "Firinscneach agus Baininscneach",
+          "en": "Masculine and Feminine"
+        },
+
+        {
+          "ga": "Críochnaíonn ar `-a`, e.g., `baintreacha, bróga, scornacha.`",
+          "en": "Ends with `-a`, e.g., `baintreacha, bróga, scornacha.`"
+        },
+        {
+          "ga": "Cailltear an `-a`, e.g., `baintreach, bróg, scornach`.",
+          "en": "The `-a` is omitted, e.g., `baintreach, bróg, scornach`."
+        },
+        {
+          "ga": "Críochnaíonn ar `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` agus is ionann an fhoirm sna tuisil go léir, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`.",
+          "en": "Ends with `-a, -e, -(e)acha, -(e)anna, -í, -t(h)a, -te` and is completely the same as the plural form, e.g., `aislingí, áiteanna, coillte, foirmeacha, pianta, tíortha`."
+        }
       ],
       [
         {
@@ -148,8 +135,8 @@
           "en": "Ends with a consonant (broad or slender), e.g., `bádóir, éacht, foráil, gleann, lus, táin`."
         },
         {
-          "ga": "Críochnaíonn ar `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána``.",
-          "en": "Ends with `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána``."
+          "ga": "Críochnaíonn ar `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána`.",
+          "en": "Ends with `-a`, e.g., `bádóra, éachta, forála, gleanna, lusa, tána`."
         },
         {
           "ga": "Críochnaíonn ar `-a, -acha, -(a)í, -(e)anna, -ta, -te` agus is ionann an fhoirm sna tuisil go léir, e.g., `bádóirí, éachtaí, forálacha, gleannta, lusanna, táinte`.",

@@ -36,7 +36,7 @@ export function TableStack(props: {
         }
         <tbody>{
             props.tables.map((subTable, i) =>
-                <tr key={i}><td>{subTable}</td></tr>
+                <tr key={i}><td className="p-0 border-0">{subTable}</td></tr>
             )
         }</tbody>
     </table>;

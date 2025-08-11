@@ -51,6 +51,10 @@
         "ga": "Ginideach",
         "en": "Genitive"
     },
+    "EveryCase": {
+        "ga": "Gach Tuiseal",
+        "en": "Every Case"
+    },
     "Numbering": {
         "first": {
             "ga": "Chéad",
@@ -80,5 +84,9 @@
     "note": {
         "ga": "Nóta",
         "en": "Note"
+    },
+    "Gender": {
+        "ga": "Inscne",
+        "en": "Gender"
     }
 }

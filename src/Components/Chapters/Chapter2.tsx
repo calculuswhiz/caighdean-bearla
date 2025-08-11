@@ -1,9 +1,9 @@
 import { AlphaList, Chapter, ChapterSection, LanguageSelector, ListItem, Notes, Paragraph, Subsection } from "../BodyMatter";
 import chapter2Text from "../../../translation/Chapter2.json";
 import commonText from "../../../translation/Common.json";
-import { Caption } from "../TableHelpers";
+import { Caption, TableStack } from "../TableHelpers";
 import { joinIfPossible } from "../../utility";
-import { joinTranslations, translateText, translateTextMarkup, type LanguageSelection, type Translation } from "../../translate";
+import { joinTranslations, makeUniversal, translateText, translateTextMarkup, type LanguageSelection, type Translation } from "../../translate";
 import React from "react";
 
 const declensionTranslations =
@@ -209,6 +209,161 @@ function Table2D() {
         declensionOffset={1} />;
 }
 
+function Table2E() {
+    const tableObject = chapter2Text.Table2E;
+    const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
+
+    const colGroupFactory = () => <colgroup>
+        <col span={1} className="w-40" />
+        <col span={2} className="w-50" />
+        <col span={2} className="w-50" />
+    </colgroup>;
+
+    return <div>
+        <LanguageSelector
+            selection={langSelect}
+            onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
+            position="right" />
+        <TableStack
+            caption={{
+                id: `${translateText(commonText.Table, langSelect)} 2E`,
+                content: translateTextMarkup(chapter2Text["2.1"][".8"].title, langSelect)
+            }}
+            tables={[
+                <table key={"d-1"} className="w-[100%] chapter-2">
+                    {/* Each table should have 5 columns of width, same dimensions. */}
+                    {colGroupFactory()}
+                    <thead>
+                        <tr>
+                            <th colSpan={5}>{translateTextMarkup(declensionTranslations[0], langSelect)}</th>
+                        </tr>
+                        <tr>
+                            <th>{translateTextMarkup(commonText.Gender, langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Plural), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Plural), langSelect)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td rowSpan={2}>{translateTextMarkup(tableObject.data[0][0], langSelect)}</td>
+                            <td rowSpan={2}>{translateTextMarkup(tableObject.data[0][1], langSelect)}</td>
+                            <td rowSpan={2}>{translateTextMarkup(tableObject.data[0][2], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[0][3], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[0][4], langSelect)}</td>
+                        </tr>
+                        <tr>
+                            <td colSpan={2}>{translateTextMarkup(tableObject.data[0][4], langSelect)}</td>
+                        </tr>
+                    </tbody>
+                </table>,
+                <table key={"d-2"} className="w-[100%] chapter-2">
+                    {colGroupFactory()}
+
+                    <thead>
+                        <tr>
+                            <th colSpan={5}>{translateTextMarkup(declensionTranslations[1], langSelect)}</th>
+
+                        </tr>
+                        <tr>
+                            <th>{translateTextMarkup(commonText.Gender, langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Plural), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Plural), langSelect)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td rowSpan={2}>{translateTextMarkup(tableObject.data[1][0], langSelect)}</td>
+                            <td rowSpan={2}>{translateTextMarkup(tableObject.data[1][1], langSelect)}</td>
+                            <td rowSpan={2}>{translateTextMarkup(tableObject.data[1][2], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[1][3], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[1][4], langSelect)}</td>
+                        </tr>
+                        <tr>
+                            <td colSpan={2}>{translateTextMarkup(tableObject.data[1][4], langSelect)}</td>
+                        </tr>
+                    </tbody>
+                </table>,
+                <table key={"d-3"} className="w-[100%] chapter-2">
+                    {colGroupFactory()}
+
+                    <thead>
+                        <tr>
+                            <th colSpan={5}>{translateTextMarkup(declensionTranslations[2], langSelect)}</th>
+                        </tr>
+                        <tr>
+                            <th>{translateTextMarkup(commonText.Gender, langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Plural), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Plural), langSelect)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{translateTextMarkup(tableObject.data[2][0], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[2][1], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[2][2], langSelect)}</td>
+                            <td colSpan={2}>{translateTextMarkup(tableObject.data[2][3], langSelect)}</td>
+                        </tr>
+                    </tbody>
+                </table>,
+                <table key={"d-4"} className="w-[100%] chapter-2">
+                    {colGroupFactory()}
+
+                    <thead>
+                        <tr>
+                            <th colSpan={5}>{translateTextMarkup(declensionTranslations[3], langSelect)}</th>
+                        </tr>
+                        <tr>
+                            <th>{translateTextMarkup(commonText.Gender, langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Singular), langSelect)}</th>
+                            <th colSpan={2}>{translateTextMarkup(
+                                joinTranslations(" ", commonText.EveryCase, makeUniversal("—"), commonText.Plural),
+                                langSelect)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{translateTextMarkup(tableObject.data[3][0], langSelect)}</td>
+                            <td colSpan={2}>{translateTextMarkup(tableObject.data[3][1], langSelect)}</td>
+                            <td colSpan={2}>{translateTextMarkup(tableObject.data[3][2], langSelect)}</td>
+                        </tr>
+                    </tbody>
+                </table>,
+                <table key={"d-5"} className="w-[100%] chapter-2">
+                    {colGroupFactory()}
+
+                    <thead>
+                        <tr>
+                            <th colSpan={5}>{translateTextMarkup(declensionTranslations[4], langSelect)}</th>
+                        </tr>
+                        <tr>
+                            <th>{translateTextMarkup(commonText.Gender, langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Nominative, commonText.Singular), langSelect)}</th>
+                            <th>{translateTextMarkup(joinTranslations(" ", commonText.Genitive, commonText.Singular), langSelect)}</th>
+                            <th colSpan={2}>{translateTextMarkup(
+                                joinTranslations(" ", commonText.EveryCase, makeUniversal("—"), commonText.Plural),
+                                langSelect)}</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>{translateTextMarkup(tableObject.data[4][0], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[4][1], langSelect)}</td>
+                            <td>{translateTextMarkup(tableObject.data[4][2], langSelect)}</td>
+                            <td colSpan={2}>{translateTextMarkup(tableObject.data[4][2], langSelect)}</td>
+                        </tr>
+                    </tbody>
+                </table>,
+            ]} />
+    </div>;
+}
+
 function Section1() {
     const sectionObject = chapter2Text["2.1"];
     return <ChapterSection sectionId="2.1" title={commonText.General}>
@@ -304,6 +459,73 @@ function Section1() {
                 </ul>
             </Notes>
         </Subsection>
+        <Subsection heading="2.1.8" title={sectionObject[".8"].title}>
+            <Table2E />
+            <Notes>
+                <Paragraph content={sectionObject[".8"].notes} />
+            </Notes>
+        </Subsection>
+    </ChapterSection>;
+}
+
+function Section2() {
+    const sectionObject = chapter2Text["2.2"];
+
+    return <ChapterSection sectionId="2.2"
+        title={sectionObject.title}>
+        <Subsection heading="2.2.1" title={sectionObject[".1"].title}>
+            <Paragraph content={sectionObject[".1"].p} />
+        </Subsection>
+        <Subsection heading="2.2.2" title={sectionObject[".2"].title}>
+            <AlphaList>
+                <ListItem>
+                    <Paragraph content={sectionObject[".2"][".a"]} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".2"][".b"]} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".2"][".c"]} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".2"][".d"]} />
+                </ListItem>
+            </AlphaList>
+        </Subsection>
+        <Subsection heading="2.2.3" title={sectionObject[".3"].title}>
+            <AlphaList>
+                <ListItem>
+                    <Paragraph content={sectionObject[".3"][".a"]} />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".3"][".b"].p} />
+                    <ol className="list-inside list-[lower-roman]">
+                        <ListItem>
+                            <Paragraph content={sectionObject[".3"][".b"][".i"]} />
+                        </ListItem>
+                        <ListItem>
+                            <Paragraph content={sectionObject[".3"][".b"][".ii"]} />
+                        </ListItem>
+                        <ListItem>
+                            <Paragraph content={sectionObject[".3"][".b"][".iii"]} />
+                        </ListItem>
+                        <ListItem>
+                            <Paragraph content={sectionObject[".3"][".b"][".iv"]} />
+                        </ListItem>
+                    </ol>
+                </ListItem>
+            </AlphaList>
+        </Subsection>
+        <Subsection heading="2.2.4" title={sectionObject[".4"].title}>
+            <Paragraph content={sectionObject[".4"].p1} />
+            <Paragraph content={sectionObject[".4"].p2} />
+            <AlphaList>
+                <ListItem>
+                    <Paragraph content={sectionObject[".4"][".a"]} />
+                    TODO... Starting at Table 2F.
+                </ListItem>
+            </AlphaList>
+        </Subsection>
     </ChapterSection>;
 }
 
@@ -312,6 +534,7 @@ export default function Chapter2() {
         number={2}
         title={chapter2Text.Title}
         sections={[
-            <Section1 key="ch2.1" />
+            <Section1 key="ch2.1" />,
+            <Section2 key="ch2.2" />
         ]} />;
 }

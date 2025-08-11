@@ -68,3 +68,7 @@ export function translateIfAvailable(line: string | Translation, tableLanguage: 
         ? line
         : <><span>&nbsp;&nbsp;</span>{translateTextMarkup(line, tableLanguage)}</>;
 }
+
+export function makeUniversal(s: string): Translation<string> {
+    return { ga: s, en: s }
+}
