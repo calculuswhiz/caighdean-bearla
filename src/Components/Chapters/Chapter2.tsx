@@ -364,6 +364,151 @@ function Table2E() {
     </div>;
 }
 
+function Table2FTemplate(props: {
+    id: string;
+    title: Translation;
+    col1Data: (Multipliable<Translation>)[];
+    // Row, col, list item
+    tableData: (string | Translation<string>)[][][];
+}) {
+    const [langSelect, setLangSelect] = React.useState('en' as LanguageSelection);
+
+    const hasDifferentGenPlural = props.tableData[0].length === 4;
+
+    return <div>
+        <LanguageSelector
+            selection={langSelect}
+            onClick={() => setLangSelect(langSelect === 'en' ? 'ga' : 'en')}
+            position="right" />
+        <table className="w-[100%] chapter-2">
+            <Caption
+                id={joinIfPossible(`${translateText(commonText.Table, langSelect)} ${props.id}`)}
+                content={translateTextMarkup(props.title, langSelect)}
+            />
+            <colgroup>
+                <col className="w-15"></col>
+                <col span={2} className="w-8"></col>
+                <col span={2} className="w-8"></col>
+            </colgroup>
+            <thead>
+                <tr>
+                    <th className="text-center" rowSpan={2}>{translateTextMarkup(chapter2Text.Table2F.CornerHeading, langSelect)}</th>
+                    <th className="text-center" colSpan={2}>{translateTextMarkup(commonText.Singular, langSelect)}</th>
+                    <th className="text-center" colSpan={hasDifferentGenPlural ? 2 : 1}>{
+                        translateTextMarkup(commonText.Plural, langSelect)
+                    }</th>
+                </tr>
+                <tr>
+                    <th className="text-center">{translateTextMarkup(commonText.Nominative, langSelect)}</th>
+                    <th className="text-center">{translateTextMarkup(commonText.Genitive, langSelect)}</th>
+                    {hasDifferentGenPlural
+                        ? <>
+                            <th className="text-center">{translateTextMarkup(commonText.Nominative, langSelect)}</th>
+                            <th className="text-center">{translateTextMarkup(commonText.Genitive, langSelect)}</th>
+                        </>
+                        : <th className="text-center">{translateTextMarkup(commonText.EveryCase, langSelect)}</th>
+                    }
+                </tr>
+            </thead>
+            <tbody>
+                {props.col1Data.map((data, rowIdx) =>
+                    <tr key={rowIdx}>
+                        <td className="bg-gray-300 px-2">{
+                            Array.isArray(data)
+                                ? translateTextMarkup(joinTranslations("  \n", ...data), langSelect)
+                                : translateTextMarkup(data, langSelect)
+                        }</td>
+                        {
+                            props.tableData[rowIdx].map((col, colIdx) =>
+                                <td key={colIdx}>
+                                    <ul>{
+                                        col.map((item, itemIdx) => <li key={itemIdx}>{
+                                            typeof item === 'string'
+                                                ? item
+                                                : translateTextMarkup(item, langSelect)
+                                        }</li>)
+                                    }</ul>
+                                </td>
+                            )
+                        }
+                    </tr>
+                )}
+            </tbody>
+        </table>
+    </div>;
+
+}
+
+function Table2F() {
+    return <Table2FTemplate
+        id="2F"
+        title={chapter2Text.Table2F.Title}
+        col1Data={chapter2Text.Table2F.Col1Data}
+        tableData={[
+            [
+                ["braon", "fál", "glór", "líon", "pór", "tuar"],
+                ["braoin", "fáil", "glóir", "lín", "póir", "tuair"],
+                ["braonta", "fálta", "glórtha", "líonta", "pórtha", "tuartha"]
+            ],
+            [
+                ["árthach", "cladach", "cúram", "daichead", "margadh"],
+                ["árthaigh", "cladaigh", "cúraim", "daichid", "margaidh"],
+                ["árthaí", { ga: "cladaí (`gin. iol.` cladach)", en: "cladaí (`g.sg.` cladach)" }, "cúraimí", "daichidí", "margaí"],
+            ],
+            [
+                ["aonach", "dearcadh", "toradh"],
+                ["aonaigh", "dearcaidh", "toraidh"],
+                ["aontaí", "dearcthaí", "torthaí"],
+            ],
+            [
+                ["cás", "praghas", "saghas"],
+                ["cáis", "praghais", "saghais"],
+                ["cásanna", "praghsanna", "saghsanna"],
+            ],
+            [
+                ["bóthar", "doras", "uasal"],
+                ["bóthair", "dorais", "uasail"],
+                ["bóithre", "doirse", "uaisle"],
+            ],
+            [
+                ["cineál", "coinníoll", "tobar"],
+                ["cineáil", "coinníll", "tobair"],
+                ["cineálacha", "coinníollacha", "toibreacha"],
+            ],
+            [
+                ["claíomh", "muileann", "smaoineamh"],
+                ["claímh", "muilinn", "smaoinimh"],
+                ["claimhte", "muilte", "smaointe"],
+            ],
+            [
+                ["breitheamh", "briathar", "gníomh", "scaitheamh"],
+                ["breithimh", "briathair", "gnímh", "scaithimh"],
+                ["breithiúna", "briathra", "gníomhartha", "scaití"],
+            ]
+        ]} />
+}
+
+function Table2G() {
+    return <Table2FTemplate
+        id="2G"
+        title={chapter2Text.Table2G.Title}
+        col1Data={chapter2Text.Table2G.Col1Data}
+        tableData={[
+            [
+                ["amhrán", "beithíoch", "foirgneamh", "iasc"],
+                ["amhráin", "beithígh", "foirgnimh", "éisc"],
+                ["amhráin", "beithígh", "foirgnimh", "éisc"],
+                ["amhrán", "beithíoch", "foirgneamh", "iasc"],
+            ],
+            [
+                ["bruach", "ceap", "giall", "úll"],
+                ["bruaigh", "cip", "géill", "úill"],
+                ["bruacha", "ceapa", "gialla", "úlla"],
+                ["bruach", "ceap", "giall", "úll"],
+            ]
+        ]} />
+}
+
 function Section1() {
     const sectionObject = chapter2Text["2.1"];
     return <ChapterSection sectionId="2.1" title={commonText.General}>
@@ -522,7 +667,15 @@ function Section2() {
             <AlphaList>
                 <ListItem>
                     <Paragraph content={sectionObject[".4"][".a"]} />
-                    TODO... Starting at Table 2F.
+                    <Table2F />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".4"][".b"]} />
+                    <Table2G />
+                </ListItem>
+                <ListItem>
+                    <Paragraph content={sectionObject[".4"][".c"].title} />
+                    <Paragraph content={sectionObject[".4"][".c"].p1} />
                 </ListItem>
             </AlphaList>
         </Subsection>

@@ -180,87 +180,83 @@
   "Table2F": {
     "Title": {
       "ga": "Tréaniolraí sa Chéad Díochlaonadh — Samplaí",
-      "en": null
+      "en": "Strong Plurals in the First Declension — Examples"
     },
     "CornerHeading": {
       "ga": "Aicmí Tréaniolraí",
-      "en": null
-    },
-    "Col2Subheading": {
-      "ga": "Gach Tuiseal",
-      "en": null
+      "en": "Strong Plural Classes"
     },
     "Col1Data": [
       [
         {
           "ga": "Ainmfhocail a chríochnaíonn ar `-ta`, `-tha` san iolra",
-          "en": null
+          "en": "Nouns ending in `-ta`, `-tha` in the singular"
         },
         {
           "ga": "Formhór na n-ainmfhocal aonsiollach ina bhfuil guta fada (nó défhoghar) agus a chríochnaíonn ar `-l`, `-n` (ach ní ar `-ll`, `-nn`) san ainmneach uatha. Cuirtear `-tha` san iolra le corr-ainmfhocal a chríochnaíonn ar `-r` (ach ní ar `-rr`) san ainmneach uatha.",
-          "en": null
+          "en": "Most of the monosyllabic nouns in which there is a long vowel (or diphthong) and end with `-l`, `-n` (but not `-ll`, `-nn`) in the nominative singular. `-tha` is put in the plural with occasional nouns ending with `-r` (but not `-rr`) in the nominative singular."
         }
       ],
       [
         {
           "ga": "Ainmfhocail a chríochnaíonn ar `-aí`, `-í` san iolra",
-          "en": null
+          "en": "Nouns ending with `-aí`, `-i` in the plural"
         },
         {
           "ga": "Ainmfhocail ilsiollacha áirithe a chríochnaíonn ar `-ch`, agus roinnt ar `-dh`, san ainmneach uatha, mar aon le roinnt ainmfhocail eile.",
-          "en": null
+          "en": "Certain monosyllabic nouns ending with `-ch`, and some in `-dh`, in the nominative singular, as with some other nouns."
         }
       ],
       {
-        "ga": "Ainmfhocail a chríochnaíonn ar -`taí`, `-thaí` san iolra",
-        "en": null
+        "ga": "Ainmfhocail a chríochnaíonn ar `-taí`, `-thaí` san iolra",
+        "en": "Nouns ending with `-taí`, `-thaí` in the plural"
       },
       {
         "ga": "Ainmfhocail a chríochnaíonn ar `-anna` san iolra",
-        "en": null
+        "en": "Nouns ending with `-anna` in the plural"
       },
       {
         "ga": "Ainmfhocail a chríochnaíonn ar `-e` san iolra agus a dhéantar a choimriú",
-        "en": null
+        "en": "Nouns ending with `-e` in the plural and syoncpated"
       },
       {
         "ga": "Ainmfhocail a chríochnaíonn ar `-(e)acha` san iolra ",
-        "en": null
+        "en": "Nouns ending with `-(e)acha` in the plural"
       },
       {
         "ga": "Ainmfhocail a chríochnaíonn ar `-te` san iolra",
-        "en": null
+        "en": "Nouns ending with `-te` in the plural"
       },
       {
         "ga": "Ainmfhocail ilghnéitheacha",
-        "en": null
+        "en": "Miscellaneous nouns"
       }
     ]
   },
   "Table2G": {
     "Title": {
       "ga": "Lagiolraí sa Chéad Díochlaonadh — Samplaí",
-      "en": null
+      "en": "Weak Plurals in the First Declension — Examples"
     },
     "Col1Data": [
       {
         "ga": "Ainmfhocail a chaolaítear san ainmneach iolra",
-        "en": null
+        "en": "Nouns that get narrowed in the nominative plural"
       },
       {
         "ga": "Ainmfhocail a chríochnaíonn ar `-a` san ainmneach iolra",
-        "en": null
+        "en": "Nouns ending in `-a` in the nominative plural"
       }
     ]
   },
   "Table2H": {
     "Title": {
       "ga": "Tréaniolraí sa Dara Díochlaonadh — Samplaí",
-      "en": null
+      "en": "Strong Plurals in the Second Declension — Examples"
     },
     "CornerHeading": {
       "ga": "Aicmí Tréaniolraí",
-      "en": null
+      "en": "Strong Plural Classes"
     },
     "Col1Data": [
       [
@@ -323,7 +319,7 @@
     },
     "CornerHeading": {
       "ga": "Aicmí Lagiolraí",
-      "en": null
+      "en": "Weak Plural Classes"
     },
     "Col1Data": [
       [
@@ -353,7 +349,7 @@
     },
     "CornerHeading": {
       "ga": "Aicmí Tréaniolraí",
-      "en": null
+      "en": "Strong Plural Classes"
     },
     "Col1Data": [
       [
@@ -426,7 +422,7 @@
     },
     "CornerHeading": {
       "ga": "Aicmí Lagiolraí",
-      "en": null
+      "en": "Weak Plural Classes"
     },
     "Col1Text": {
       "ga": "Ainmfhocail ilghnéitheacha",
@@ -440,7 +436,7 @@
     },
     "CornerHeading": {
       "ga": "Aicmí Tréaniolraí",
-      "en": null
+      "en": "Strong Plural Classes"
     },
     "Col1Data": [
       [
@@ -510,7 +506,7 @@
     },
     "CornerHeading": {
       "ga": "Aicmí Tréaniolraí",
-      "en": null
+      "en": "Strong Plural Classes"
     },
     "Col1Data": [
       [
@@ -827,7 +823,7 @@
       },
       "p": {
         "ga": "Is leis an díochlaonadh seo a bhaineann formhór na n-ainmfhocal firinscneach a chríochnaíonn ar chonsan leathan san ainmneach uatha. Is firinscneach do na hainmfhocail go léir sa chéad díochlaonadh.",
-        "en": null
+        "en": "This declension includes most of the masculine nouns ending in a broad consonant in the nominative singular. The nouns in the first declension are all masculine."
       }
     },
     ".2": {
@@ -837,50 +833,50 @@
       },
       ".a": {
         "ga": "Sa ghinideach uatha, caolaítear an consan deiridh, e.g., `bord, boird; nuachtán, nuachtáin`.",
-        "en": null
+        "en": "In the genitive singular, the last consonant is narrowed, e.g., `bord, boird; nuachtán, nuachtáin`."
       },
       ".b": {
         "ga": "Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú ach ní athraítear `-ia-` go `-éi-` sna hainmfhocail seo: `Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;` agus `trian, triain`.",
-        "en": null
+        "en": "The changes under 2.1.4 apply with the narrowing, but `-ia-` is not changed to `-éi-` in these nouns: `Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;` agus `trian, triain`."
       },
       ".c": {
         "ga": "Athraítear `mac` go `mic` sa ghinideach uatha agus san ainmneach iolra.",
-        "en": null
+        "en": "`mac` is changed to `mic` in the genitive singular and in the genitive plural."
       },
       ".d": {
         "ga": "Sa ghinideach uatha, athraítear `-ea-` go `-i-`, e.g., `breac, bric; cuireadh, cuiridh; leiceann, leicinn;` seachas i gcás ainmfhocail aonsiollacha áirithe, e.g., `each, eich`.",
-        "en": null
+        "en": "In the genitive singular, `-ea-` is changed to `-i-`, e.g., `breac, bric; cuireadh, cuiridh; leiceann, leicinn;` except with certain monosyllabic nouns, e.g., `each, eich`."
       }
     },
     ".3": {
       "title": {
         "ga": "An Gairmeach Uatha",
-        "en": null
+        "en": "The Vocative Singular"
       },
       ".a": {
-        "ga": "Is ionann foirm de ghnáth don ghairmeach uatha agus don ghinideach uatha, e.g., a Chorcaígh, a mhic, a Sheáin.",
-        "en": null
+        "ga": "Is ionann foirm de ghnáth don ghairmeach uatha agus don ghinideach uatha, e.g., `a Chorcaígh, a mhic, a Sheáin`.",
+        "en": "The normal foarm of the vocative singular is the same as the genitive singular, e.g., `a Chorcaígh, a mhic, a Sheáin`."
       },
       ".b": {
         "p": {
           "ga": "Ní gnách, áfach, infhilleadh sa ghairmeach uatha:",
-          "en": null
+          "en": "It is not normal, however, to inflect the vocative singular:"
         },
         ".i": {
-          "ga": "ar shlua-ainmneacha, e.g., a chomhthionól; a phobal;",
-          "en": null
+          "ga": "ar shlua-ainmneacha, e.g., `a chomhthionól; a phobal;`",
+          "en": "on collective names, e.g., `a chomhthionól; a phobal;`"
         },
         ".ii": {
-          "ga": "ar ainmfhocail a úsáidtear le brí mheafarach nó mar ainmneacha ceana, e.g., a cheann cipín; a chumann; a ghrá geal; a rós geal; a rún; a stór;",
-          "en": null
+          "ga": "ar ainmfhocail a úsáidtear le brí mheafarach nó mar ainmneacha ceana, e.g., `a cheann cipín; a chumann; a ghrá geal; a rós geal; a rún; a stór;`",
+          "en": "on nouns used with a metaphorical meaning or as proper names, e.g. `a cheann cipín; a chumann; a ghrá geal; a rós geal; a rún; a stór;`"
         },
         ".iii": {
-          "ga": "ar ainmfhocal a bhfuil ginideach cinnte faoi réir aige, e.g., a Chléireach na Dála; a fhear an tí; a scáthán an chirt; a shólás na ndobrónach;",
-          "en": null
+          "ga": "ar ainmfhocal a bhfuil ginideach cinnte faoi réir aige, e.g., `a Chléireach na Dála; a fhear an tí; a scáthán an chirt; a shólás na ndobrónach;`",
+          "en": "on nouns that have a definite genitive subject, e.g., `a Chléireach na Dála; a fhear an tí; a scáthán an chirt; a shólás na ndobrónach;`"
         },
         ".iv": {
-          "ga": "ar theideal oifige ilfhoclach, e.g., a Cheann Comhairle; a Oifigeach Ealaíon; a Cheann Scoile.",
-          "en": null
+          "ga": "ar theideal oifige ilfhoclach, e.g., `a Cheann Comhairle; a Oifigeach Ealaíon; a Cheann Scoile`.",
+          "en": "on multi-word official titles, e.g., `a Cheann Comhairle; a Oifigeach Ealaíon; a Cheann Scoile`."
         }
       }
     },
@@ -890,29 +886,29 @@
         "en": "The Plural"
       },
       "p1": {
-        "ga": "Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo. Is lagiolraí iad na hainmfhocail a gcaolaítear a ndeireadh, e.g., amhrán, amhráin; nó a gcuirtear -a leo gan aon athrú eile, e.g., nod, noda; úll, úlla; san ainmneach iolra. Tréaniolraí is ea na hainmfhocail eile.",
-        "en": null
+        "ga": "Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo. Is lagiolraí iad na hainmfhocail a gcaolaítear a ndeireadh, e.g., `amhrán, amhráin;` nó a gcuirtear `-a` leo gan aon athrú eile, e.g., `nod, noda; úll, úlla;` san ainmneach iolra. Tréaniolraí is ea na hainmfhocail eile.",
+        "en": "There are both weak plurals and strong plurals in this declension. The nouns that narrow the final consonant are weak plurals, e.g. `amhrán, amhráin;` or have `-a` with them without other changes, e.g. `nod, noda; úll, úlla;` in the genitive plural. All the other nouns are strong plurals."
       },
       "p2": {
-        "ga": "Tabhair faoi deara go bhfuil patrún an Chéad Díochlaonta le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcaolaítear an consan deiridh agus go n-athraítear -(e)ach go -(a)igh.",
-        "en": null
+        "ga": "Tabhair faoi deara go bhfuil patrún an Chéad Díochlaonta le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcaolaítear an consan deiridh agus go n-athraítear `-(e)ach` go `-(a)igh`.",
+        "en": "Note that the First Declension pattern appears in the genitive singular column in the following tables, namely, that the final consonant is narrowed and `-(e)ach` is changed to `-(a)igh`."
       },
       ".a": {
         "ga": "``Tréaniolraí``",
-        "en": null
+        "en": "``Strong Plurals``"
       },
       ".b": {
         "ga": "``Lagiolraí``",
-        "en": null
+        "en": "``Weak Plurals``"
       },
       ".c": {
         "title": {
-          "ga": "An Gairmeach Iolra",
-          "en": null
+          "ga": "``An Gairmeach Iolra``",
+          "en": "``The Vocative Plural``"
         },
         "p1": {
-          "ga": "Is ionann foirm don ghairmeach iolra agus don ainmneach iolra ach amháin i gcás na lagiolraí. Is gnách -a a chur le foirm an ainmnigh uatha de na hainmfhocail sin chun an gairmeach iolra a dhéanamh, e.g., Corcaíoch, a Chorcaíocha; fear, a fheara; Gael, a Ghaela.",
-          "en": null
+          "ga": "Is ionann foirm don ghairmeach iolra agus don ainmneach iolra ach amháin i gcás na lagiolraí. Is gnách `-a` a chur le foirm an ainmnigh uatha de na hainmfhocail sin chun an gairmeach iolra a dhéanamh, e.g., `Corcaíoch, a Chorcaíocha; fear, a fheara; Gael, a Ghaela`.",
+          "en": "The vocative plural form is the same as the nominative plural except in the weak plurals. Normally, `-a` is added to the form inf the nominative singular of those nouns to form the vocative plural, e.g. `Corcaíoch, a Chorcaíocha; fear, a fheara; Gael, a Ghaela`."
         }
       }
     }
