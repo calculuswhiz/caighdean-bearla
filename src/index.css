@@ -1,13 +1,39 @@
 @import "tailwindcss";
 
 @layer base {
+  body {
+    @apply p-1;
+  }
+
+  .sectionbody,
+  .sect2 h3 ~ *,
+  li {
+    @apply pl-1 border-l-3 border-gray-200;
+  }
+
+  h1 {
+    @apply text-2xl border-b-1 border-black;
+  }
+
+  h2 {
+    @apply text-xl border-b-1 border-black;
+  }
+
+  h3 {
+    @apply text-lg;
+  }
+
+  hr {
+    @apply my-5 border-2 border-gray-500
+  }
+
   th,
   td {
     @apply border-2 border-white;
   }
 
   td {
-    @apply bg-gray-200 p-1
+    @apply bg-gray-200;
   }
 
   th {
@@ -19,12 +45,32 @@
     @apply list-inside;
   }
 
-  .chapter-1 thead tr:first-child th {
-    @apply bg-blue-950 text-white;
+  caption {
+    @apply caption-bottom;
   }
 
-  .chapter-1 thead tr:nth-of-type(2) th {
-    @apply bg-cyan-800 text-white;
+  .samplebox td {
+    @apply bg-gray-100;
+  }
+
+  .table-stack table {
+    @apply w-[100%];
+  }
+
+  .sub-header {
+    @apply font-bold text-center;
+  }
+
+  .chapter-1.table-stack >tbody > tr:nth-child(odd) th {
+    @apply bg-blue-950 text-white text-2xl py-1;
+  }
+
+  .chapter-1.table-stack table thead th {
+    @apply bg-cyan-900 text-white py-1;
+  }
+
+  .chapter-1.table-stack table tbody th {
+    @apply bg-gray-300 py-1;
   }
 
   .chapter-2 thead tr:first-child th {
@@ -33,5 +79,9 @@
 
   .chapter-2 thead tr:nth-of-type(2) th {
     @apply bg-gray-700 text-white;
+  }
+
+  .sidebarblock .title {
+    @apply font-bold;
   }
 }

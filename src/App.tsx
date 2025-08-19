@@ -1,13 +1,13 @@
 import React from "react";
-import Chapter1 from "./Components/Chapters/Chapter1";
 import Chapter7 from "./Components/Chapters/Chapter7";
 import { TableOfContents } from "./Components/TableOfContents";
 import { FrontMatter } from "./Components/Chapters/FrontMatter";
 import Chapter2 from "./Components/Chapters/Chapter2";
+import { Chapter1 } from "./Components/Chapters/Chapter1";
 
 const availableChapters = [
   { label: "Front Matter", id: "front-matter", element: <FrontMatter /> },
-  { label: "Chapter 1 - The Article", id: "section-1", element: <Chapter1 /> },
+  { label: "Chapter 1 - The Article", id: "1", element: <Chapter1 /> },
   { label: "Chapter 2 - The Noun", id: "section-2", element: <Chapter2 /> },
   { label: "Chapter 7 - The Copula", id: "section-7", element: <Chapter7 /> }
 ];
@@ -37,9 +37,8 @@ function ChapterSelect(props: {
 
 function getChapterHash() {
   const postHash = location.hash.slice(1);
-  const hashParts = postHash.split('-');
-  const chapterId = hashParts.slice(0, 2).join('-');
-  const chapterIdx = chapterMap.get(chapterId);
+  const hashParts = postHash.split('_');
+  const chapterIdx = chapterMap.get(hashParts[1]);
   return chapterIdx ?? -1;
 }
 
@@ -65,6 +64,7 @@ function App() {
   }, [currentChapter])
 
   return <>
+    {/* <ExChapter1 /> */}
     <div className="max-w-[900px] mb-[50vh] pl-1 pt-1">
       <header className="border-b-1 border-black text-center bg-green-100 select-none">
         <h1 className="text-2xl font-bold">Irish Grammar</h1>
@@ -90,7 +90,8 @@ function App() {
       </ul>
       <ChapterSelect currentChapter={currentChapter} onSelect={(x) => {
         // Let this be navigable
-        location.href = `#${availableChapters[x].id}`;
+        // location.href = `#${availableChapters[x].id}`;
+        setCurrentChapter(x);
       }} />
       <hr />
       {

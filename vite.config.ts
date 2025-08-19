@@ -6,6 +6,7 @@ import tailwindcss from '@tailwindcss/vite'
 export default defineConfig({
   base: "./",
   plugins: [react(), tailwindcss()],
+  assetsInclude: ['**/*.adoc'],
   build: {
     // GH stupidly doesn't let you change this, so I guess we just go with this...
     outDir: "docs"

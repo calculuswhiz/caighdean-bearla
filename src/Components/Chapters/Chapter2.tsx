@@ -682,12 +682,20 @@ function Section2() {
     </ChapterSection>;
 }
 
+function Section3() {
+    const sectionObject = chapter2Text["2.3"];
+    return <ChapterSection sectionId="2.4" title={sectionObject.title}>
+        Under construction...
+    </ChapterSection>;
+}
+
 export default function Chapter2() {
     return <Chapter
         number={2}
         title={chapter2Text.Title}
         sections={[
             <Section1 key="ch2.1" />,
-            <Section2 key="ch2.2" />
+            <Section2 key="ch2.2" />,
+            <Section3 key="ch2.3" />
         ]} />;
 }

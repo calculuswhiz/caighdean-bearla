@@ -30,7 +30,7 @@ export function TableOfContents(props: {
             const hNum = +hTag.tagName.slice(1);
             const entryObject = {
                 id: hTag.id,
-                label: hTag.querySelector('span')?.textContent ?? "Missing text"
+                label: hTag.textContent ?? "Missing text"
             };
             if (hNum > headerState) {
                 const entry: typeof newStruct[number] = [entryObject];
