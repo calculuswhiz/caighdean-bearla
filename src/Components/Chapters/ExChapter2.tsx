@@ -1,12 +1,12 @@
 import Asciidoctor from "asciidoctor";
-import chapterAdoc from '../../../translation/Chapter1/Chapter1.adoc?raw';
-import rawChapterAttributes from '../../../translation/Chapter1/attributes.adoc?raw';
+import chapterAdoc from '../../../translation/Chapter2/Chapter2.adoc?raw';
+import rawChapterAttributes from '../../../translation/Chapter2/attributes.adoc?raw';
 import rawCommonAttributes from '../../../translation/CommonAttributes.adoc?raw';
 import { processAdocFileContents } from "../../utility";
 
 const asciidoctor = Asciidoctor();
 
-export function Chapter1() {
+export function ExChapter2() {
     const languageSelection = 'en';
     
     const [chapterAttributes, commonAttributes] = [rawChapterAttributes, rawCommonAttributes]
