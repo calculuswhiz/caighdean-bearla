@@ -3,12 +3,12 @@ import Chapter7 from "./Components/Chapters/Chapter7";
 import { TableOfContents } from "./Components/TableOfContents";
 import { FrontMatter } from "./Components/Chapters/FrontMatter";
 import { Chapter1 } from "./Components/Chapters/Chapter1";
-import { ExChapter2 } from "./Components/Chapters/ExChapter2";
+import { Chapter2 } from "./Components/Chapters/Chapter2";
 
 const availableChapters = [
   { label: "Front Matter", id: "front-matter", element: <FrontMatter /> },
   { label: "Chapter 1 - The Article", id: "1", element: <Chapter1 /> },
-  { label: "Chapter 2 - The Noun", id: "2", element: <ExChapter2 /> },
+  { label: "Chapter 2 - The Noun", id: "2", element: <Chapter2 /> },
   { label: "Chapter 7 - The Copula", id: "section-7", element: <Chapter7 /> }
 ];
 

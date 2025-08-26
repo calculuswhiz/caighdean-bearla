@@ -2,4 +2,1434 @@
 :showtitle:
 :table-caption!:
 
+== 2.1 {General}
 
+=== 2.1.1 {2-1-1-title}
+
+{2-1-1-p1}
+
+=== 2.1.2 {2-1-2-title}
+
+[list-[lower-alpha]]
+. {2-1-2-a-title}
++
+{2-1-2-a-p1}
+
+. {2-1-2-b-title}
++
+{2-1-2-b-p1}
+
+. {2-1-2-c-title}
++
+{2-1-2-c-p1}
+
+. {2-1-2-d-title}
++
+{2-1-2-d-p1}
+
+=== 2.1.3 {2-1-3-title}
+
+{2-1-3-p1}
+
+[list-[lower-alpha]]
+. {2-1-3-a-title}
++
+{2-1-3-a-p1}
+// It's just too much of a pain to try to get multi-row headers to work
+// If we care enough, we'll just control this in software later.
+// For now, just mark headers with classes
++
+.*{Table} 2A*  {Table2A-Title}
+[.chapter-2]
+[%noheader]
+[%autowidth]
+[cols="2,1,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2A-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+2+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+
+.2+h|
+{declension-1}
+| cás | cáis | cásanna | cásanna 
+| ceol | ceoil | ceolta | ceolta
+
+.2+h|
+{declension-2}
+| foirm | foirme | foirmeacha | foirmeacha
+| sliabh | sléibhe | sléibhte | sléibhte
+
+.2+h|
+{declension-3}
+| feirmeoir | feirmeora | feirmeoirí | feirmeoirí
+| foráil | forála | forálacha | forálacha
+
+.2+h|
+{declension-4}
+| amhránaí | amhránaí | amhránaithe | amhránaithe
+| gloine | gloine | gloiní | gloiní
+
+.2+h|
+{declension-5}
+| deartháir | dearthár | deartháireacha | deartháireacha
+| lasair | lasrach | lasracha | lasracha
+
+.2+h|
+{Table2A-Irregular}
+| leaba | leapa | leapacha | leapacha
+| teach | tí | tithe | tithe
+
+|===
+
+. {2-1-3-b-title}
++
+{2-1-3-b-p1}
+
+[list-[lower-roman]]
+.. {2-1-3-b-i-p1}
++
+
+.*{Table} 2B*  {Table2B-Title}
+[.chapter-2]
+[%noheader]
+[%autowidth]
+[cols="1,1,1"]
+|===
+
+3+a|
+[.table-header]
+{declension-1}
+
+| 
+h| {Nominative} h| {Genitive}
+
+h| {Singular} | fear | fir
+h| {Plural} | fir | fear
+
+|===
+
+.. {2-1-3-b-ii-p1}
++
+
+.*{Table} 2C*  {Table2C-Title}
+[.chapter-2]
+[%noheader]
+[%autowidth]
+[cols="1,1,1"]
+|===
+
+3+a|
+[.table-header]
+{declension-2}
+
+| 
+h| {Nominative} h| {Genitive}
+
+h| {Singular} | fuinneog | fuinneoige
+h| {Plural} | fuinneoga | fuinneog
+
+|===
++
+{2-1-3-b-ii-p2}
+
+.. {2-1-3-b-iii-p1}
+
+.*{Table} 2D*  {Table2D-Title}
+[.chapter-2]
+[%noheader]
+[%autowidth]
+[cols="2,1,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2A-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+2+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+
+.2+h|
+{declension-2}
+| ealaín | ealaíne | ealaíona | ealaíon
+| súil | súile | súile | súl
+
+h|
+{declension-3}
+| mionn | mionna | mionnaí | mionn
+
+.2+h|
+{declension-4}
+| bó | bó | ba | bó
+| grásta | grásta | grásta | grást
+
+.2+h|
+{declension-5}
+| caora | caorach | caoirigh | caorach
+| lacha | lachan | lachain | lachan
+
+.2+h|
+{Table2A-Irregular}
+| bean | mná | mná | ban
+| olann | olla | olanna | olann
+
+|===
+
+=== 2.1.4 {2-1-4-title}
+
+{2-1-4-p1}
+
+{2-1-4-p2}
+
+[list-[lower-alpha]]
+. {2-1-4-a-p}
+. {2-1-4-b-p1}
+. {2-1-4-c-p1}
+. {2-1-4-d-p1}
+
+=== 2.1.5 {2-1-5-title}
+
+{2-1-5-p1}
+
+{2-1-5-p2}
+
+[list-[lower-alpha]]
+. {2-1-5-a}
+. {2-1-5-b}
+. {2-1-5-c}
+
+=== 2.1.6 {2-1-6-title}
+
+{2-1-6-p}
+
+=== 2.1.7 {2-1-7-title}
+
+{2-1-7-p1}
+
+[list-[lower-alpha]]
+. {2-1-7-a}
+. {2-1-7-b}
+. {2-1-7-c}
+. {2-1-7-d}
+. {2-1-7-e}
+. {2-1-7-f}
+
+==== **{Note}**
+. - {2-1-7-notes-1}
+. - {2-1-7-notes-2}
+. - {2-1-7-notes-3}
+
+=== 2.1.8 {2-1-8-title}
+
+// Same as section
+.*{Table} 2E*  {2-1-8-title}
+[.table-stack]
+[.chapter-2]
+[%autowidth]
+[%noheader]
+[cols="2a"]
+|===
+
+h| {declension-1}
+
+| [cols="3,3,3,3,3"]
+!===
+
+h! {Gender} h! {Nominative} {Singular} h!  {Genitive} {Singular} h! {Nominative} {Plural} h!  {Genitive} {Plural}
+
+.2+! {Table2E-row1-cell1} 
+.2+! {Table2E-row1-cell2}
+.2+! {Table2E-row1-cell3}
+! {Table2E-row1-cell4}
+! {Table2E-row1-cell5}
+
+2+! {Table2E-row1-cell6}
+
+!===
+
+h| {declension-2}
+
+| [cols="3,3,3,3,3"]
+!===
+
+h! {Gender} h! {Nominative} {Singular} h!  {Genitive} {Singular} h! {Nominative} {Plural} h!  {Genitive} {Plural}
+
+.2+! {Table2E-row2-cell1} 
+.2+! {Table2E-row2-cell2}
+.2+! {Table2E-row2-cell3}
+! {Table2E-row2-cell4}
+! {Table2E-row2-cell5}
+
+2+! {Table2E-row2-cell6}
+
+!===
+
+h| {declension-3}
+
+| [cols="3,3,3,3,3"]
+!===
+
+h! {Gender} h! {Nominative} {Singular} h!  {Genitive} {Singular} h! {Nominative} {Plural} h!  {Genitive} {Plural}
+
+! {Table2E-row3-cell1} 
+! {Table2E-row3-cell2}
+! {Table2E-row3-cell3}
+2+! {Table2E-row3-cell4}
+
+!===
+
+h| {declension-4}
+
+| [cols="3,3,3,3,3"]
+!===
+
+h! {Gender} h! {Nominative} {Singular} h!  {Genitive} {Singular}
+2+h! {EveryCase} -- {Plural} 
+
+! {Table2E-row4-cell1} 
+2+! {Table2E-row4-cell2}
+2+! {Table2E-row4-cell3}
+
+!===
+
+h| {declension-5}
+
+| [cols="3,3,3,3,3"]
+!===
+
+h! {Gender} h! {Nominative} {Singular} h!  {Genitive} {Singular}
+2+h! {EveryCase} -- {Plural} 
+
+! {Table2E-row5-cell1} 
+! {Table2E-row5-cell2}
+! {Table2E-row5-cell3}
+2+! {Table2E-row5-cell4}
+
+!===
+
+|===
+
+*{Note}*: {2-1-8-notes}
+
+'''
+
+== 2.2 {2-2-title}
+
+=== 2.2.1 {2-2-1-title}
+
+{2-2-1-p}
+
+=== 2.2.2 {2-2-2-title}
+
+[list-[lower-alpha]]
+a. {2-2-2-a}
+b. {2-2-2-b}
+c. {2-2-2-c}
+d. {2-2-2-d}
+
+=== 2.2.3 {2-2-3-title}
+
+[list-[lower-alpha]]
+a. {2-2-3-a}
+b. {2-2-3-b-p}
++
+[list-[lower-roman]]
+.. {2-2-3-b-i}
+.. {2-2-3-b-ii}
+.. {2-2-3-b-iii}
+.. {2-2-3-b-iv}
+
+=== 2.2.4 {2-2-4-title}
+
+{2-2-4-p1}
+
+{2-2-4-p2}
+
+[list-[lower-alpha]]
+a. *{2-2-4-a}*
++
+.*{Table} 2F*  {Table2F-Title}
+[.chapter-2]
+[%noheader]
+[cols="3,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2F-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{EveryCase}
+
+h| {Table2F-rh1}
+a| . braon
+. fál
+. glór
+. líon
+. pór
+. tuar
+a| . braoin
+. fáil
+. glóir
+. lín
+. póir
+. tuair
+a| . braonta
+. fálta
+. glórtha
+. líonta
+. pórtha
+. tuartha
+
+h| {Table2F-rh2}
+
+a| . árthach
+. cladach
+. {nbsp}
+. cúram
+. daichead
+. margadh
+a| . árthaigh
+. cladaigh
+. {nbsp}
+. cúraim
+. daichid
+. margaidh
+a| . árthaí
+. cladaí
+. (gin. iol. cladach)
+. cúraimí
+. daichidí
+. margaí
+
+h| {Table2F-rh3}
+a| . aonach
+. dearcadh
+. toradh
+a| . aonaigh
+. dearcaidh
+. toraidh
+a| . aontaí
+. dearcthaí
+. torthaí
+
+h| {Table2F-rh4}
+a| . cás
+. praghas
+. saghas
+a| . cáis
+. praghais
+. saghais
+a| . cásanna
+. praghsanna
+. saghsanna
+
+h| {Table2F-rh5}
+a| . bóthar
+. doras
+. uasal
+a| . bóthair
+. dorais
+. uasail
+a| . bóithre
+. doirse
+. uaisle
+
+h| {Table2F-rh6}
+a| . cineál
+. coinníoll
+. tobar
+a| . cineáil
+. coinníll
+. tobair
+a| . cineálacha
+. coinníollacha
+. toibreacha
+
+h| {Table2F-rh7}
+a| . claíomh
+. muileann
+. smaoineamh
+a| . claímh
+. muilinn
+. smaoinimh
+a| . claimhte
+. muilte
+. smaointe
+
+h| {Table2F-rh8}
+a| . breitheamh
+. briathar
+. gníomh
+. scaitheamh
+a| . breithimh
+. briathair
+. gnímh
+. scaithimh
+a| . breithiúna
+. briathra
+. gníomhartha
+. scaití
+
+|===
+
+b. *{2-2-4-b}*
++
+.*{Table} 2G*  {Table2G-Title}
+[.chapter-2]
+[%noheader]
+[cols="2,1,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2G-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+2+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+
+h|
+{Table2G-rh1}
+a| . amhrán
+. beithíoch
+. foirgneamh
+. iasc
+a| . amhráin
+. beithígh
+. foirgnimh
+. éisc
+a| . amhráin
+. beithígh
+. foirgnimh
+. éisc
+a| . amhrán
+. beithíoch
+. foirgneamh
+. iasc
+
+h|
+{Table2G-rh2}
+a| . bruach
+. ceap
+. giall
+. úll
+a| . bruaigh
+. cip
+. géill
+. úill
+a| . bruacha
+. ceapa
+. gialla
+. úlla
+a| . bruach
+. ceap
+. giall
+. úll
+
+|===
++
+c. *{2-2-4-c-title}*
++
+{2-2-4-c-p1}
+
+'''
+
+== 2.3 {2-3-title}
+
+=== 2.3.1 {2-3-1-title}
+
+{2-3-1-p}
+
+=== 2.3.2 {2-3-2-title}
+
+[list-[lower-alpha]]
+a. {2-3-2-a}
+b. {2-3-2-b}
+c. {2-3-2-c-p1}
+[list-[lower-roman]]
+.. {2-3-2-c-i}
+.. {2-3-2-c-ii}
+
+=== 2.3.3 {2-3-3-title}
+
+{2-3-3-p1}
+
+[list-[lower-alpha]]
+a. {2-3-3-a}
+b. {2-3-3-b}
+
+=== 2.3.4 {2-3-4-title}
+
+{2-3-4-p1}
+
+{2-3-4-p2}
+
+[list-[lower-alpha]]
+a. *{2-3-4-a-title}*
++
+.*{Table} 2H*  {Table2H-Title}
+[.chapter-2]
+[%noheader]
+[cols="3,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2H-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{EveryCase}
+
+h| {Table2H-rh1}
+a| . dabhach
+. roinn
+. scian
+a| . daibhche
+. roinne
+. scine
+a| . dabhcha
+. ranna
+. sceana
+
+h| {Table2H-rh2}
+a| . áit
+. blaosc
+. im
+a| . áite
+. blaoisce
+. ime
+a| . áiteanna
+. blaoscanna
+. imeanna
+
+h| {Table2H-rh3}
+a| . abairt
+. cáipéis
+. earráid
+a| . abairte
+. cáipéise
+. earráide
+a| . abairtí
+. cáipéisí
+. earráidí
+
+h| {Table2H-rh4}
+a| . bainis
+. iall
+. iníon
+. maidin
+a| . bainise
+. éille
+. iníne
+. maidine
+a| . bainiseacha
+. iallacha
+. iníonacha
+. maidineacha
+
+h| {Table2H-rh5}
+a| . buíon
+. grian
+. steall
+a| . buíne
+. gréine
+. steille
+a| . buíonta
+. grianta
+. steallta
+
+h| {Table2H-rh6}
+a| . aill
+. bléin
+. linn
+a| . aille
+. bléine
+. linne
+a| . aillte
+. bléinte
+. linnte
+
+h| {Table2H-rh7}
+a| . caingean
+. coinneal
+. foireann
+. maighean
+a| . caingne
+. coinnle
+. foirne
+. maighne
+a| . caingne
+. coinnle
+. foirne
+. maighne
+
+h| {Table2H-rh8}
+a| . culaith
+. gualainn
+. sliabh
+. uair
+a| . culaithe
+. gualainne
+. sléibhe
+. uaire
+a| . cultacha
+. guaillí
+. sléibhte
+. uaireanta
+
+|===
+
+b. *{2-3-4-b-title}*
++
+.*{Table} 2I*  {Table2I-Title}
+[.chapter-2]
+[%noheader]
+[cols="2,1,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2I-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+2+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+
+h| {Table2I-rh1}
+a| . amharclann
+. beach
+. dallóg
+. gealach
+. girseach
+. maighdean
+a| . amharclainne
+. beiche
+. dallóige
+. gealaí
+. girsí
+. maighdine
+a| . amharclanna
+. beacha
+. dallóga
+. gealacha
+. girseacha
+. maighdeana
+a| . amharclann
+. beach
+. dallóg
+. gealach
+. girseach
+. maighdean
+
+h| {Table2I-rh2}
+a| . cill
+. deoir
+. ealaín
+. rinn
+a| . cille
+. deoire
+. ealaíne
+. rinne
+a| . cealla
+. deora
+. ealaíona
+. reanna
+a| . ceall
+. deor
+. ealaíon
+. reann
+
+h| {Table2I-rh3}
+a| . ainimh
+. dúil
+. glúin
+. súil
+a| . ainimhe
+. dúile
+. glúine
+. súile
+a| . ainimhe
+. dúile
+. glúine
+. súile
+a| . aineamh
+. dúl
+. glún
+. sú
+
+|===
+
+'''
+
+== 2.4 {2-4-title}
+
+=== 2.4.1 {2-4-1-title}
+
+[list-[lower-alpha]]
+a. {2-4-1-a}
+b. {2-4-1-b}
+
+=== 2.4.2 {2-4-2-title}
+
+[list-[lower-alpha]]
+a. {2-4-2-a}
+b. {2-4-2-b}
+c. {2-4-2-c}
+
+=== 2.4.3 {2-4-3-title}
+
+{2-4-3-p1}
+
+{2-4-3-p2}
+
+[list-[lower-alpha]]
+a. *Tréaniolraí*
++
+.*{Table} 2J*  {Table2J-Title}
+[.chapter-2]
+[%noheader]
+[cols="3,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2J-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{EveryCase}
+
+h| {Table2J-rh1}
+a| . athnuachan
+. bagairt
+. báicéir
+. beannacht
+. dlíodóir
+. dochtúir
+. eisiúint
+. múinteoir
+a| . athnuachana
+. bagartha
+. báicéara
+. beannachta
+. dlíodóra
+. dochtúra
+. eisiúna
+. múinteora
+a| . athnuachaintí
+. bagairtí
+. báicéirí
+. beannachtaí
+. dlíodóirí
+. dochtúirí
+. eisiúintí
+. múinteoirí
+
+h| {Table2J-rh2}
+a| . droim
+. rang
+. troid
+a| . droma
+. ranga
+. troda
+a| . dromanna
+. ranganna
+. troideanna
+
+h| {Table2J-rh3}
+a| . feadhain
+. gamhain
+. slios
+a| . feadhna
+. gamhna
+. sleasa
+a| . feadhna
+. gamhna
+. sleasa
+
+h| {Table2J-rh4}
+a| . admháil
+. barúil
+. fíniúin
+. onóir
+a| . admhála
+. barúla
+. fíniúna
+. onóra
+a| . admhálacha
+. barúlacha
+. fíniúnacha
+. onóracha
+
+h| {Table2J-rh5}
+a| . cion (sa bhrí coir)
+. feoil
+. gleann
+a| . ciona
+. feola
+. gleanna
+a| . cionta
+. feolta
+. gleannta
+
+h| {Table2J-rh6}
+a| . cluain
+. móin
+. táin
+a| . cluana
+. móna
+. tána
+a| . cluainte
+. móinte
+. táinte
+
+h| {Table2J-rh7}
+a| . anacair
+. buachaill
+. conradh
+. maitheas
+. roth
+a| . anacra
+. buachalla
+. conartha
+. maitheasa
+. rotha
+a| . anacraí
+. buachaillí
+. conarthaí
+. maitheasaí
+. rothaí
+
+|===
+
+b. *{2-4-3-b-title}*
++
+.*{Table} 2K*  {Table2K-Title}
+[.chapter-2]
+[%noheader]
+[cols="2,1,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2K-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+2+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+
+h| {Table2K-Col1Text}
+a| . béas
+. dreas
+. mionn
+. tréad
+. treas
+a| . béasa
+. dreasa
+. mionna
+. tréada
+. treasa
+a| . béasa
+. dreasa
+. mionnaí
+. tréada
+. treasa
+a| . béas
+. dreas
+. mionn
+. tréad
+. treas
+
+|===
+
+'''
+
+== 2.5 {2-5-title}
+
+=== 2.5.1 {2-5-1-Title}
+[list-[lower-alpha]]
+a. {2-5-1-a}
+b. {2-5-1-b}
+c. {2-5-1-c}
+
+=== 2.5.2 {2-5-2-Title}
+[list-[lower-alpha]]
+a. {2-5-2-a}
+b. {2-5-2-b}
+c. {2-5-2-c}
+
+=== 2.5.3 {2-5-3-Title}
+{2-5-3-p1}
+
+{2-5-3-p2}
+
+[list-[lower-alpha]]
+a. *{2-5-3-a-title}*
++
+.*{Table} 2L*  {Table2L-Title}
+[.chapter-2]
+[%noheader]
+[cols="4,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2L-CornerHeading}
+a|
+[.table-header]
+{Singular}
+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{EveryCase}
+a|
+[.sub-header]
+{EveryCase}
+
+h| {Table2L-rh1}
+a| . altra
+. báidín
+. fáinne
+a| . altraí
+. báidíní
+. fáinní
+
+h| {Table2L-rh2}
+a| . baile
+. sloinne
+. tine
+a| . bailte
+. sloinnte
+. tinte
+
+h| {Table2L-rh3}
+a| . ainmhí
+. draoi
+. giúiré
+. rí
+a| . ainmhithe
+. draoithe
+. giúiréithe
+. ríthe
+
+h| {Table2L-rh4}
+a| . bogha
+. ceo
+. cnó
+. cú
+. grua
+. íomhá
+. lao
+. meá
+. nia
+a| . boghanna
+. ceonna
+. cnónna
+. cúnna
+. gruanna
+. íomhánna
+. laonna
+. meánna
+. nianna
+
+h| {Table2L-rh5}
+a| . bus
+. seic
+. téacs
+a| . busanna
+. seiceanna
+. téacsanna
+
+h| {Table2L-rh6}
+a| . comhrá
+. cró
+. crú
+. rá
+. slua
+a| . comhráite
+. cróite
+. crúite
+. ráite
+. sluaite
+
+h| {Table2L-rh7}
+a| . achainí
+. airí
+. aithne
+. aturnae
+. bó
+. cine
+. claí
+. duine
+. gabha
+. gnó
+. oíche
+. slí
+. teanga
+a| . achainíocha
+. airíonna
+. aitheanta
+. aturnaetha
+. ba (gin. iol. bó)
+. ciníocha
+. claíocha
+. daoine
+. gaibhne
+. gnóthaí
+. oícheanta
+. slite
+. teangacha
+
+|===
++ 
+**{Note}**: {2-5-3-Note}
+
+'''
+
+== 2.6 {2-6-title}
+
+=== 2.6.1 {2-6-1-title}
+[list-[lower-alpha]]
+a. {2-6-1-a}
+b. {2-6-1-b}
+
+=== 2.6.2 {2-6-2-title}
+{2-6-2-p1}
+
+{2-6-2-p2}
+
+[list-[lower-alpha]]
+a. *{2-6-2-a-title}*
++
+.*{Table} 2M*  {Table2M-Title}
+[.chapter-2]
+[%noheader]
+[cols="2,1,1,1"]
+|===
+
+.2+a|
+[.table-header]
+{Table2M-CornerHeading}
+2+a|
+[.table-header]
+{Singular}
+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{EveryCase}
+
+h| {Table2M-rh1}
+a| . cathair
+. draein
+. litir
+. riail
+. traein
+. treoir
+. triail
+. uimhir
+a| . cathrach
+. draenach
+. litreach
+. rialach
+. traenach
+. treorach
+. trialach
+. uimhreach
+a| . cathracha
+. draenacha
+. litreacha
+. rialacha
+. traenacha
+. treoracha
+. trialacha
+. uimhreacha
+
+h| {Table2M-rh2}
+a| . abhainn
+. máthair
+. teorainn
+a| . abhann
+. máthar
+. teorann
+a| . aibhneacha
+. máithreacha
+. teorainneacha
+
+h| {Table2M-rh3}
+a| . ceathrú
+. comharsa + 
+ {nbsp}
+. ionga
+. leite
+. monarcha
+. pearsa +
+ {nbsp}
+a| . ceathrún
+. comharsan + 
+ {nbsp}
+. iongan
+. leitean
+. monarchan
+. pearsan +
+ {nbsp}
+a| . ceathrúna
+. comharsana +
+ ({Table2M-genPlNote} comharsan)
+. ingne
+. --
+. monarchana
+. pearsana +
+ ({Table2M-genPlNote} pearsan)
+
+h| {Table2M-rh4}
+a| . fiche +
+ ({Table2M-datSgNote} fichid)
+. tríocha
+. ceathracha
+. caoga
+. seasca
+. seachtó
+. ochtó
+. nócha
+a| . fichead +
+ {nbsp}
+. tríochad
+. ceathrachad
+. caogad
+. seascad
+. seachtód
+. ochtód
+. nóchad
+a| . fichidí +
+ {nbsp}
+. tríochaidí
+. ceathrachaidí
+. caogaidí
+. seascaidí
+. seachtóidí
+. ochtóidí
+. nóchaidí
+
+h| {Table2M-rh5}
+a| . bráid
+. cara
+. caora + 
+ {nbsp}
+. Éire + 
+ ({Table2M-datSgNote} Éirinn)
+. namhaid
+. Nollaig
+a| . brád
+. carad
+. caorach + 
+ {nbsp}
+. Éireann + 
+ {nbsp}
+. namhad
+. Nollag
+a| . bráide
+. cairde
+. caoirigh + 
+ ({Table2M-genPlNote} caorach)
+. --{nbsp} +
+ {nbsp}
+. naimhde
+. Nollaigí
+
+|===
+
+== 2.7 {2-7-title}
+{2-7-p}
+
+.*{Table} 2N*  {Table2N-Title}
+[.chapter-2]
+[%noheader]
+[cols="3,3,3"]
+|===
+
+2+a|
+[.table-header]
+{Singular}
+a|
+[.table-header]
+{Plural}
+
+a|
+[.sub-header]
+{Nominative} 
+a|
+[.sub-header]
+{Genitive} 
+a|
+[.sub-header]
+{EveryCase}
+
+a| . bean
+. deirfiúr
+. deoch
+. dia
+. lá
+. leaba
+. mí
+. olann
+. talamh ({Table2N-masc}) + 
+ {nbsp}
+. talún
+. teach
+a| . mná
+. deirféar
+. dí
+. dé
+. lae
+. leapa
+. míosa
+. olla
+. talaimh ({Table2N-masc})
+. talún ({Table2N-fem})
+. tí
+a| . mná ({Table2N-genPlNote} ban)
+. deirfiúracha
+. deochanna
+. déithe
+. laethanta
+. leapacha
+. míonna
+. olanna ({Table2N-genPlNote} olann)
+. tailte + 
+ {nbsp}
+. tithe
+
+|===
+
+**{Note}**: {2-7-Note}
