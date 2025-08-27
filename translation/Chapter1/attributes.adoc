@@ -77,7 +77,7 @@
 :1-1-5-i-A-p1_en: The article accompanies the names of countries and regions if the noun is feminine and:
 
 :1-1-5-i-A-i_ga: má chríochnaíonn sé ar chonsan caol, e.g., _an Airgintín, an Albáin, an Bhaváir, an Chatalóin, an Eastóin, an Eoraip, an Fhrainc, an Ghearmáin, an Mhacadóin, an Namaib, an Phacastáin, an tSeineagáil, an Spáinn, an tSúdáin;_
-:1-1-5-i-A-i_en: if it ends with a slender consonant e.g. _an Airgintín, an Albáin, an Bhaváir, an Chatalóin, an Eastóin, an Eoraip, an Fhrainc, an Ghearmáin, an Mhacadóin, an Namaib, an Phacastáin, an tSeineagáil, an Spáinn, an tSúdáin;_
+:1-1-5-i-A-i_en: if it ends with a narrow consonant e.g. _an Airgintín, an Albáin, an Bhaváir, an Chatalóin, an Eastóin, an Eoraip, an Fhrainc, an Ghearmáin, an Mhacadóin, an Namaib, an Phacastáin, an tSeineagáil, an Spáinn, an tSúdáin;_
 
 :1-1-5-i-A-ii_ga: má chríochnaíonn sé ar _-ia_, e.g., _an India, an Laitvia, an tSiria;_
 :1-1-5-i-A-ii_en: if it ends with _-ia_ e.g. _an India, an Laitvia, an tSiria;_
@@ -86,7 +86,7 @@
 :1-1-5-i-A-iii_en: if it ends with _-e_, _-é_ e.g. _an Chóiré, an Chrimé, an Ghuine, an tSile_.
 
 :1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin, Beinin, Cuáit, Éimin, Guadalúip, Lichtinstéin, Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí, Geirsí, Háítí, Haváí, Mailí, Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain, Éire_ (féach 3.1.4).
-:1-1-5-i-A-p2_en: Some names of countries and regions end with a slender consonant but are not accompanied by the article e.g. _Bairéin, Beinin, Cuáit, Éimin, Guadalúip, Lichtinstéin, Mósaimbíc_, or end with _-í_ in the singular case but are not accompanied by the article e.g._ Geansaí, Geirsí, Háití, Haváí, Mailí, Taihítí_. The article is not used except for the genitive in the case of _Albain, Éire_ (see 3.1.4).
+:1-1-5-i-A-p2_en: Some names of countries and regions end with a narrow consonant but are not accompanied by the article e.g. _Bairéin, Beinin, Cuáit, Éimin, Guadalúip, Lichtinstéin, Mósaimbíc_, or end with _-í_ in the singular case but are not accompanied by the article e.g._ Geansaí, Geirsí, Háití, Haváí, Mailí, Taihítí_. The article is not used except for the genitive in the case of _Albain, Éire_ (see 3.1.4).
 
 :1-1-5-i-B-p_ga: Ní ghabhann an t-alt le hainmneacha tíortha agus réigiún más rud é go bhfuil an t-ainmfhocal firinscneach agus:
 :1-1-5-i-B-p_en: The article does not accompany the names of countries and regions if it is the case that the noun is masculine and:

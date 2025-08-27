@@ -875,7 +875,7 @@ c. {2-4-2-c}
 {2-4-3-p2}
 
 [list-[lower-alpha]]
-a. *Tréaniolraí*
+a. *{2-4-3-a-title}*
 +
 .*{Table} 2J*  {Table2J-Title}
 [.chapter-2]

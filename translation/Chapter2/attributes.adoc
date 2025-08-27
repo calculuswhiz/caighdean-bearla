@@ -130,7 +130,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-1-3-b-p1_en: The plural of a noun is a weak plural if the noun's plural form is not the same in the genitive plural as the noun's plural form in the other plural cases. This class includes:
 
 :2-1-3-b-i-p1_ga: Ainmfhocail a chríochnaíonn ar chonsan leathan agus a gcaolaítear a gconsan deiridh san ainmneach iolra agus sa ghinideach uatha, e.g., _fear, tá na fir ag teacht, hata an fhir; eitleán, feictear na heitleáin sa spéir,_ athraíodh roth an eitleáin. Is sa Chéad Díochlaonadh amháin atá na hainmfhocail sin. Léirítear sampla sa tábla thíos:
-:2-1-3-b-i-p1_en: Nouns that end on a broad consonant and the ending consonant becomes slender in the nominative plural and the genitive singular, e.g., _fear, tá na fir ag teacht, hata an fhir; eitleán, feictear na heitleáin sa spéir, athraíodh roth an eitleáin_. Those nouns are only in the First Declension. An example is in the below table:
+:2-1-3-b-i-p1_en: Nouns that end on a broad consonant and the ending consonant becomes narrow in the nominative plural and the genitive singular, e.g., _fear, tá na fir ag teacht, hata an fhir; eitleán, feictear na heitleáin sa spéir, athraíodh roth an eitleáin_. Those nouns are only in the First Declension. An example is in the below table:
 
 :Table2B-title_ga: An Chéad Díochlaonadh -- Lagiolraí
 :Table2B-title_en: The First Declension -- Weak Plural
@@ -148,7 +148,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-1-4-title_en: Narrowing
 
 :2-1-4-p1_ga: Is é is caolú ann consan leathan a dhéanamh caol. Cuirtear _-i-_ roimh an gconsan deiridh chun caolú a chur in iúl, e.g., _cnoc, cnoic_. Déantar an caolú céanna i gcás consan deiridh a bhfuil ae roimhe, e.g., _aer, aeir_.
-:2-1-4-p1_en: When a broad consonant is made slender, this is narrowing. An _-i-_ is placed before the end consonant to indicate a narrowing, e.g., _cnoc, cnoic_. The narrowing is done in the same way if the end-consonant has an _ae_ in front, e.g., _aer, aeir_.
+:2-1-4-p1_en: When a broad consonant is made narrow, this is narrowing. An _-i-_ is placed before the end consonant to indicate a narrowing, e.g., _cnoc, cnoic_. The narrowing is done in the same way if the end-consonant has an _ae_ in front, e.g., _aer, aeir_.
 
 :2-1-4-p2_ga: Is iondúil go n-athraítear gutaí áirithe nuair a chaolaítear an consan ina ndiaidh:
 :2-1-4-p2_en: It is customary to change certain vowels when the following consonant is narrowed:
@@ -169,7 +169,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-1-5-title_en: Widening
 
 :2-1-5-p1_ga: Is é is leathnú ann consan caol a dhéanamh leathan. Déantar an _-i-_ roimh an gconsan deiridh a ligean ar lár chun ainmfhocal a leathnú, e.g., _athair, athar; droim, droma._
-:2-1-5-p1_en: When a slender consonant is made broad, this is widening. The _-i-_ directly in fronbt of the consonant is dropped to widen the noun, e.g., _athair, athar; droim, droma._
+:2-1-5-p1_en: When a narrow consonant is made broad, this is widening. The _-i-_ directly in fronbt of the consonant is dropped to widen the noun, e.g., _athair, athar; droim, droma._
 
 :2-1-5-p2_ga: Is iondúil go n-athraítear gutaí áirithe mar a leanas nuair a leathnaítear iad:
 :2-1-5-p2_en: Certain vowels are usually changed as follows when they are widened:
@@ -244,7 +244,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :Table2E-row2-cell1_en: Feminine, but not _im, sliabh_.
 
 :Table2E-row2-cell2_ga: Críochnaíonn ar chonsan (leathan nó caol), e.g., _aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír_.
-:Table2E-row2-cell2_en: Ends with a consonant (broad or slender), e.g., _aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír_.
+:Table2E-row2-cell2_en: Ends with a consonant (broad or narrow), e.g., _aisling, áit, baintreach, bróg, coill, foirm, muinín, pian, scornach, tír_.
 
 :Table2E-row2-cell3_ga: Críochnaíonn ar _-e_, e.g., _aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;_ nó ar _-(a)í, e.g., baintrí, scornaí_.
 :Table2E-row2-cell3_en: Ends with _-e_, e.g., _aislinge, áite, bróige, coille, foirme, muiníne, péine, tíre;_ or with _-(a)í, e.g., baintrí, scornaí_.
@@ -262,7 +262,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :Table2E-row3-cell1_en: Masculine and Feminine
 
 :Table2E-row3-cell2_ga: Críochnaíonn ar chonsan (leathan nó caol), e.g., _bádóir, éacht, foráil, gleann, lus, táin_.
-:Table2E-row3-cell2_en: Ends with a consonant (broad or slender), e.g., _bádóir, éacht, foráil, gleann, lus, táin_.
+:Table2E-row3-cell2_en: Ends with a consonant (broad or narrow), e.g., _bádóir, éacht, foráil, gleann, lus, táin_.
 
 :Table2E-row3-cell3_ga: Críochnaíonn ar _-a_, e.g., _bádóra, éachta, forála, gleanna, lusa, tána_.
 :Table2E-row3-cell3_en: Ends with _-a_, e.g., _bádóra, éachta, forála, gleanna, lusa, tána_.
@@ -312,8 +312,8 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-2-2-a_ga: Sa ghinideach uatha, caolaítear an consan deiridh, e.g., _bord, boird; nuachtán, nuachtáin_.
 :2-2-2-a_en: In the genitive singular, the last consonant is narrowed, e.g., _bord, boird; nuachtán, nuachtáin_.
 
-:2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi 2-1.4 leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;_ agus _trian, triain_.
-:2-2-2-b_en: The changes under 2-1.4 apply with the narrowing, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;_ agus _trian, triain_.
+:2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;_ agus _trian, triain_.
+:2-2-2-b_en: The changes under 2.1.4 apply with the narrowing, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian, Briain; cliant, cliaint; fiar, fiair; giar, giair; rian, riain; srian, sriain;_ agus _trian, triain_.
 
 :2-2-2-c_ga: Athraítear _mac_ go _mic_ sa ghinideach uatha agus san ainmneach iolra.
 :2-2-2-c_en: _mac_ is changed to _mic_ in the genitive singular and in the genitive plural.
@@ -370,46 +370,46 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-3-1-title_en: The Singular
 
 :2-3-1-p_ga: Críochnaíonn ainmfhocail an díochlaonta seo ar chonsan, leathan nó caol, san ainmneach uatha. Is baininscneach dóibh uile seachas _im_ agus _sliabh_.
-:2-3-1-p_en: [TODO]Críochnaíonn ainmfhocail an díochlaonta seo ar chonsan, leathan nó caol, san ainmneach uatha. Is baininscneach dóibh uile seachas _im_ agus _sliabh_.
+:2-3-1-p_en: Nouns in this declension end with a consonant, broad or narrow, in the nominative singular. They are all feminine except _im_ and _sliabh_.
 
 :2-3-2-title_ga: An Ginideach Uatha
 :2-3-2-title_en: The Genitive Singular
 
 :2-3-2-a_ga: Cuirtear _-e_ leis an ainmneach uatha agus más consan leathan is críoch dó caolaítear é, e.g., _bróg, bróige; coill, coille; earr, eirre;_ ach amháin i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_.
-:2-3-2-a_en: [TODO]Cuirtear _-e_ leis an ainmneach uatha agus más consan leathan is críoch dó caolaítear é, e.g., _bróg, bróige; coill, coille; earr, eirre;_ ach amháin i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_.
+:2-3-2-a_en: An _-e_ is put with the nominative singular and if it ends with a broad consonant, it is narrowed, e.g. _bróg, bróige; coill, coille; earr, eirre;_ except with polysyllabic nouns ending with _-(e)ach_.
 
 :2-3-2-b_ga: I gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, déantar _-(a)í_ den _-(e)ach_, e.g., _scornach, scornaí; cailleach, caillí_.
-:2-3-2-b_en: [TODO]I gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, déantar _-(a)í_ den _-(e)ach_, e.g., _scornach, scornaí; cailleach, caillí_.
+:2-3-2-b_en: When polysyllabic nouns end with _-(e)ach_, make _-(a)í_ from _-(e)ach_, e.g., _scornach, scornaí; cailleach, caillí_.
 
-:2-3-2-c-p1_ga: Gabhann na hathruithe a luaitear faoi 2-1.4 leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
-:2-3-2-c-p1_en: [TODO]Gabhann na hathruithe a luaitear faoi 2-1.4 leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
+:2-3-2-c-p1_ga: Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
+:2-3-2-c-p1_en: The narrowing changes mentioned in 2.1.4 apply to the nouns as follows:
 
 :2-3-2-c-i_ga: _-ea-_ go _-ei-_, e.g., _beach, beiche_ (athraítear _-ea-_ go _-i-_ san ainmfhocal aonsiollach, e.g., _beann, binne; cearc, circe;_ agus sa siolla neamhaiceanta d'ainmfhocail ilsiollacha, e.g., _bruinneall, bruinnille; ficheall, fichille_); agus
-:2-3-2-c-i_en: [TODO] _-ea-_ go _-ei-_, e.g., _beach, beiche_ (athraítear _-ea-_ go _-i-_ san ainmfhocal aonsiollach, e.g., _beann, binne; cearc, circe;_ agus sa siolla neamhaiceanta d'ainmfhocail ilsiollacha, e.g., _bruinneall, bruinnille; ficheall, fichille_); agus
+:2-3-2-c-i_en: _-ea-_ to _-ei-_, e.g., _beach, beiche_ (_-ea-_ is changed to _-i-_ in a monosyllabic noun, e.g., _beann, binne; cearc, circe;_ and in the unnaccented syllable of the polysyllabic noun, e.g., _bruinneall, bruinnille; ficheall, fichille_); and
 
 :2-3-2-c-ii_ga: _-ia-_ go _-i-_ san fhocal _scian, scine_.
-:2-3-2-c-ii_en: [TODO] _-ia-_ go _-i-_ san fhocal _scian, scine_.
+:2-3-2-c-ii_en: _-ia-_ to _-i-_ in the word _scian, scine_.
 
 :2-3-3-title_ga: An Tabharthach Uatha
 :2-3-3-title_en: The Dative Singular
 
 :2-3-3-p1_ga: Tá dhá fhoirm den tabharthach uatha ann i gcás ainmfhocail a chríochnaíonn ar chonsan leathan:
-:2-3-3-p1_en: [TODO]Tá dhá fhoirm den tabharthach uatha ann i gcás ainmfhocail a chríochnaíonn ar chonsan leathan:
+:2-3-3-p1_en: There are two forms of the dative singular when nouns end with a broad consonant:
 
 :2-3-3-a_ga: foirm is ionann agus foirm an ainmnigh uatha;
-:2-3-3-a_en: [TODO]foirm is ionann agus foirm an ainmnigh uatha;
+:2-3-3-a_en: one form is the same as the nominative singular;
 
 :2-3-3-b_ga: seanfhoirm leithleach nach n-úsáidtear ach in abairtíní seanbhunaithe, e.g., _cur i gcéill; cur dá chois; airgead ar láimh; bolg le gréin; imithe le gealaigh; cur de láimh; faoi bhois an chait; bíonn a chroí ar a bhois i gcónaí aige; ar éill;_ etc.
-:2-3-3-b_en: [TODO]seanfhoirm leithleach nach n-úsáidtear ach in abairtíní seanbhunaithe, e.g., _cur i gcéill; cur dá chois; airgead ar láimh; bolg le gréin; imithe le gealaigh; cur de láimh; faoi bhois an chait; bíonn a chroí ar a bhois i gcónaí aige; ar éill;_ etc.
+:2-3-3-b_en: a distinct old form used only in well-established expressions, e.g., _cur i gcéill; cur dá chois; airgead ar láimh; bolg le gréin; imithe le gealaigh; cur de láimh; faoi bhois an chait; bíonn a chroí ar a bhois i gcónaí aige; ar éill;_ etc.
 
 :2-3-4-title_ga: An tIolra
 :2-3-4-title_en: The Plural
 
 :2-3-4-p1_ga: Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.
-:2-3-4-p1_en: [TODO]Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.
+:2-3-4-p1_en: There are weak plurals and strong plurals in this declension.
 
 :2-3-4-p2_ga: Tabhair faoi deara go bhfuil patrún an Dara Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-e_ agus go gcaolaítear an consan deiridh más consan leathan é, agus i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, go n-athraítear _-(e)ach_ go _-(a)í_.
-:2-3-4-p2_en: [TODO]Tabhair faoi deara go bhfuil patrún an Dara Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-e_ agus go gcaolaítear an consan deiridh más consan leathan é, agus i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, go n-athraítear _-(e)ach_ go _-(a)í_.
+:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables, that is, the genitive singular ends with _-e_ and the final consonant is narrowed if it is a broad consonant, and in the case of polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
 
 :2-3-4-a-title_ga: Tréaniolraí
 :2-3-4-a-title_en: Strong Plurals
@@ -421,40 +421,40 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :Table2H-CornerHeading_en: Strong Plural Classes
 
 :Table2H-rh1_ga: *Ainmfhocail a chríochnaíonn ar _-a_ san iolra agus a ndéantar coimriú, leathnú nó malartú ar a ngutaí*
-:Table2H-rh1_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-a_ san iolra agus a ndéantar coimriú, leathnú nó malartú ar a ngutaí*
+:Table2H-rh1_en: *Nouns ending in _-a_ in the plural and syncopated, whose vowels are broadened or exchanged*
 
 :Table2H-rh2_ga: *Ainmfhocail a chríochnaíonn ar _-(e)anna_ san iolra*
-:Table2H-rh2_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(e)anna_ san iolra*
+:Table2H-rh2_en: *Nouns ending in _-(e)anna_ in the plural*
 
 :Table2H-rh3_ga: *Ainmfhocail a chríochnaíonn ar _-í_ san iolra* + \
 Ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha.
 
-:Table2H-rh3_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-í_ san iolra* + \
-Ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha.
+:Table2H-rh3_en: *Nouns ending in _-í_ in the plural* + \
+Polysyllabic nouns ending in a narrow consonant in the nominative singular.
 
 :Table2H-rh4_ga: *Ainmfhocail a chríochnaíonn ar _-(e)acha_ san iolra* + \
 Ainmfhocail aonsiollacha, agus ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha (seachas _iníon_ a chríochnaíonn ar chonsan leathan).
 
-:Table2H-rh4_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(e)acha_ san iolra* + \
-Ainmfhocail aonsiollacha, agus ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha (seachas _iníon_ a chríochnaíonn ar chonsan leathan).
+:Table2H-rh4_en: *Nouns ending in _-(e)acha_ in the plural* + \
+Monosyllabic nouns, and polysyllabic nouns ending in a narrow consonant in the nominative singular (except _iníon_ which ends on a broad consonant).
 
 :Table2H-rh5_ga: *Ainmfhocail a chríochnaíonn ar _-ta_ san iolra* + \
 Roinnt ainmfhocail aonsiollacha a chríochnaíonn ar _-l_ nó _-n_ leathan san ainmneach uatha.
 
-:Table2H-rh5_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-ta_ san iolra* + \
-Roinnt ainmfhocail aonsiollacha a chríochnaíonn ar _-l_ nó _-n_ leathan san ainmneach uatha.
+:Table2H-rh5_en: *Nouns ending in _-ta_ in the plural* + \
+Some monosyllabic nouns ending in a broad _-l_ or _-n_ in the nominative singular.
 
 :Table2H-rh6_ga: *Ainmfhocail a chríochnaíonn ar _-te_ san iolra* + \
 Corr-ainmfhocal a chríochnaíonn ar _-l_ nó _-n_ caol san ainmneach uatha.
 
-:Table2H-rh6_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-te_ san iolra* + \
-Corr-ainmfhocal a chríochnaíonn ar _-l_ nó _-n_ caol san ainmneach uatha.
+:Table2H-rh6_en: *Nouns ending in _-te_ in the plural* + \
+The occasional noun ending in a narrow _-l_ or _-n_ in the nominative singular.
 
 :Table2H-rh7_ga: *Ainmfhocail a chríochnaíonn ar _-e_ san iolra agus a dhéantar a choimriú*
-:Table2H-rh7_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-e_ san iolra agus a dhéantar a choimriú*
+:Table2H-rh7_en: *Nouns ending in _-e_ in the plural and that are syncopated*
 
 :Table2H-rh8_ga: *Ainmfhocail ilghnéitheacha*
-:Table2H-rh8_en: [TODO] *Ainmfhocail ilghnéitheacha*
+:Table2H-rh8_en: *Miscellaneous nouns*
 
 :2-3-4-b-title_ga: Lagiolraí
 :2-3-4-b-title_en: Weak Plurals
@@ -466,13 +466,13 @@ Corr-ainmfhocal a chríochnaíonn ar _-l_ nó _-n_ caol san ainmneach uatha.
 :Table2I-CornerHeading_en: Weak Plural Classes
 
 :Table2I-rh1_ga: *Ainmfhocail aonsiollacha agus ilsiollacha a chríochnaíonn ar chonsan leathan san ainmneach uatha agus a gcuirtear _-a_ leo san ainmneach iolra gan aon athrú eile*
-:Table2I-rh1_en: [TODO] *Ainmfhocail aonsiollacha agus ilsiollacha a chríochnaíonn ar chonsan leathan san ainmneach uatha agus a gcuirtear _-a_ leo san ainmneach iolra gan aon athrú eile*
+:Table2I-rh1_en: *Monosyllabic and polysyllabic nouns ending in a broad consonant in the nominative singular and have a _-a_ added in the nominative plural and no other changes*
 
-:Table2I-rh2_ga: [TODO] *Ainmfhocail a leathnaítear agus a chríochnaíonn ar _-a_ san ainmneach iolra*
-:Table2I-rh2_en: *Ainmfhocail a leathnaítear agus a chríochnaíonn ar _-a_ san ainmneach iolra*
+:Table2I-rh2_ga: *Ainmfhocail a leathnaítear agus a chríochnaíonn ar _-a_ san ainmneach iolra*
+:Table2I-rh2_en: *Nouns that are broadened and end in _-a_ in the nominative plural*
 
-:Table2I-rh3_ga: [TODO] *Corr-ainmfhocal a chríochnaíonn ar chonsan caol san ainmneach uatha agus a chríochnaíonn ar _-e_ san ainmneach iolra*
-:Table2I-rh3_en: *Corr-ainmfhocal a chríochnaíonn ar chonsan caol san ainmneach uatha agus a chríochnaíonn ar _-e_ san ainmneach iolra*
+:Table2I-rh3_ga: *Corr-ainmfhocal a chríochnaíonn ar chonsan caol san ainmneach uatha agus a chríochnaíonn ar _-e_ san ainmneach iolra*
+:Table2I-rh3_en: *The occasional noun ending in a narrow consonant in the nominative singular and ending in _-e_ in the nominative plural*
 
 :2-4-title_ga: An Tríú Díochlaonadh
 :2-4-title_en: The Third Declension
@@ -481,31 +481,31 @@ Corr-ainmfhocal a chríochnaíonn ar _-l_ nó _-n_ caol san ainmneach uatha.
 :2-4-1-title_en: The Singular
 
 :2-4-1-a_ga: Is leis an díochlaonadh seo a bhaineann ainmfhocail ilsiollacha a chríochnaíonn ar _-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir_ (seachas i gcás ainmneacha tíortha atá sa Dara Díochlaonadh, e.g., _an Ailgéir, an Bhrasaíl, an Iodáil_).
-:2-4-1-a_en: [TODO]Is leis an díochlaonadh seo a bhaineann ainmfhocail ilsiollacha a chríochnaíonn ar _-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir_ (seachas i gcás ainmneacha tíortha atá sa Dara Díochlaonadh, e.g., _an Ailgéir, an Bhrasaíl, an Iodáil_).
+:2-4-1-a_en: This declension has the polysyllabic nouns ending in _-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir_ (except country names that are in the second declension, e.g., _an Ailgéir, an Bhrasaíl, an Iodáil_).
 
 :2-4-1-b_ga: Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan, leathan nó caol, san ainmneach uatha. I gcás na n-ainmfhocal sin, críochnaíonn an ginideach uatha ar _-a_ agus leathnaítear an consan deiridh más gá, e.g., _buachaill, buachalla; gleann, gleanna_ (féach 2.1.5).
-:2-4-1-b_en: [TODO]Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan, leathan nó caol, san ainmneach uatha. I gcás na n-ainmfhocal sin, críochnaíonn an ginideach uatha ar _-a_ agus leathnaítear an consan deiridh más gá, e.g., _buachaill, buachalla; gleann, gleanna_ (féach 2.1.5).
+:2-4-1-b_en: This declension also has some nouns ending in a consonant, borad or narrow, in the nominative singular. For these nouns, the genitive singular ends with _-a_ and the final consonant is broadened if necessary, e.g., _buachaill, buachalla; gleann, gleanna_ (see 2.1.5).
 
 :2-4-2-title_ga: An Ginideach Uatha
 :2-4-2-title_en: The Genitive Singular
 
 :2-4-2-a_ga: Mar a luadh in (b) thuas, críochnaíonn an ginideach uatha ar _-a_.
-:2-4-2-a_en: [TODO]Mar a luadh in (b) thuas, críochnaíonn an ginideach uatha ar _-a_.
+:2-4-2-a_en: As with in (b) above, the genitive singular ends with _-a_.
 
 :2-4-2-b_ga: Is iondúil go n-athraítear _-io-_ go _-ea-_ sa ghinideach uatha i gcás ainmfhocail aonsiollacha, e.g., _crios, creasa; lios, leasa;_ ach _cion_ (sa bhrí _coir_), _ciona_.
-:2-4-2-b_en: [TODO]Is iondúil go n-athraítear _-io-_ go _-ea-_ sa ghinideach uatha i gcás ainmfhocail aonsiollacha, e.g., _crios, creasa; lios, leasa;_ ach _cion_ (sa bhrí _coir_), _ciona_.
+:2-4-2-b_en: It is customary to change _-io-_ to _-ea-_ in the genitive singular for monosyllabic nouns, e.g., _crios, creasa; lios, leasa;_ but not _cion_ (meaning _coir_), _ciona_.
 
 :2-4-2-c_ga: Ligtear an _-t_ ar lár sa ghinideach uatha as ainmfhocail a chríochnaíonn ar _-int_, e.g., _oiliúint, oiliúna_ (ach amháin sna heisceachtaí _cogaint, coganta; cosaint, cosanta; seachaint, seachanta_). Déantar _-th-_ den _-t_ i gcás ainmfhocail a chríochnaíonn ar _-irt_, e.g., _imirt, imeartha_.
-:2-4-2-c_en: [TODO]Ligtear an _-t_ ar lár sa ghinideach uatha as ainmfhocail a chríochnaíonn ar _-int_, e.g., _oiliúint, oiliúna_ (ach amháin sna heisceachtaí _cogaint, coganta; cosaint, cosanta; seachaint, seachanta_). Déantar _-th-_ den _-t_ i gcás ainmfhocail a chríochnaíonn ar _-irt_, e.g., _imirt, imeartha_.
+:2-4-2-c_en: The _-t_ is dropped in the genitive singular from nouns ending in _-int_, e.g., _oiliúint, oiliúna_ (with these exceptions _cogaint, coganta; cosaint, cosanta; seachaint, seachanta_). The _-th-_ is turned to _-t_ when nouns end in _-irt_, e.g., _imirt, imeartha_.
 
 :2-4-3-title_ga: An tIolra
 :2-4-3-title_en: The Plural
 
 :2-4-3-p1_ga: Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.
-:2-4-3-p1_en: [TODO]Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.
+:2-4-3-p1_en: There are both weak plurals and strong plurals in this declension.
 
 :2-4-3-p2_ga: Tabhair faoi deara go bhfuil patrún an Tríú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-a_ agus go leathnaítear an consan deiridh más consan caol é.
-:2-4-3-p2_en: [TODO]Tabhair faoi deara go bhfuil patrún an Tríú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-a_ agus go leathnaítear an consan deiridh más consan caol é.
+:2-4-3-p2_en: Note that the pattern of the Third Declension is seen in the genitive singular column in the following table, that is, the genitive singular ends with _-a_ and the last consonant is broadened if is a narrow consonant.
 
 :2-4-3-a-title_ga: Tréaniolraí
 :2-4-3-a-title_en: Strong Plurals
