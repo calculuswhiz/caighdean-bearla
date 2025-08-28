@@ -15,7 +15,6 @@ export function Chapter1() {
         // Common should come first so we can share it with other attribute imports
         commonAttributes, chapterAttributes, chapterAdoc
     ].join('\n');
-
     const resultHtml = asciidoctor.convert(toConvert) as string;
 
     return <div dangerouslySetInnerHTML={{ __html: resultHtml }}>

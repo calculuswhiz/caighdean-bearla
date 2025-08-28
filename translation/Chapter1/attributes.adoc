@@ -161,7 +161,6 @@
 
 :EclipsisNote_ga: *Is iad seo na consain inuraithe: _b, c, d, f, g, p_ agus _t_.
 :EclipsisNote_en: *These are the eclipsable consonants: _b, c, d, f, g, p_ and _t_
-    
 
 // Consonant/vowel covered by CommonAttributes
 

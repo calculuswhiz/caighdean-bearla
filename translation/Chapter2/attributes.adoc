@@ -145,7 +145,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-1-3-b-iii-p1_en: A few nouns in the Second Declension, e.g., _súil, leath na súile uirthi, radharc na súl;_ a few in the Third Declension, e.g., _mionn, na mionnaí marbha, dar bhrí na mionn;_ a few in the Fourth Declension, e.g., _bó, tá na ba sa gharraí, cró na mbó;_ a few in the Fifth Declension, e.g., _caora, tá na caoirigh ann, líon na gcaorach;_ and an occasional irregular noun, e.g. _bean, tá na mná ag teacht, hataí na mban;_ have a separate form in the genitive plural. Examples are shown in the below table.
 
 :2-1-4-title_ga: Caolú
-:2-1-4-title_en: Narrowing
+:2-1-4-title_en: Narrowing (Palatization)
 
 :2-1-4-p1_ga: Is é is caolú ann consan leathan a dhéanamh caol. Cuirtear _-i-_ roimh an gconsan deiridh chun caolú a chur in iúl, e.g., _cnoc, cnoic_. Déantar an caolú céanna i gcás consan deiridh a bhfuil ae roimhe, e.g., _aer, aeir_.
 :2-1-4-p1_en: When a broad consonant is made slender, this is narrowing. An _-i-_ is placed before the end consonant to indicate a narrowing, e.g., _cnoc, cnoic_. The narrowing is done in the same way if the end-consonant has an _ae_ in front, e.g., _aer, aeir_.

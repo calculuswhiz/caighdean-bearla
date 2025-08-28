@@ -11,9 +11,20 @@ export function processAdocFileContents(contents: string, language: LanguageSele
     const lines = contents.split('\n');
     const outputBuffer = new Array<string>;
 
+    let inBlockComment = false;
+
     // Line-by-line is easier and faster than global regex.
     for (const line of lines) {
-        const langSelect = line.replace(new RegExp(`_${language}:`), ':');
+        const trimmed = line.trim();
+        if (trimmed.startsWith('////')) {
+            inBlockComment = !inBlockComment;
+            continue;
+        } else if (inBlockComment) 
+            continue;
+         else if (trimmed.startsWith('//'))
+            continue;
+
+        const langSelect = trimmed.replace(new RegExp(`_${language}:`), ':');
         // Default behavior is "pass" as a lot of our text is marked up.
         // Allow cancelling "pass" by prefixing id with `nopass-`
         if (langSelect.startsWith(":nopass-") || langSelect === '') {
