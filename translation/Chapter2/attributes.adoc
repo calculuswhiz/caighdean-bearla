@@ -651,19 +651,19 @@ Nouns ending in _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ in the singular
 :2-6-1-title_en: The Singular
 
 :2-6-1-a_ga: Is baininscneach d'fhormhór na n-ainmfhocal sa díochlaonadh seo.
-:2-6-1-a_en: [TODO]Is baininscneach d'fhormhór na n-ainmfhocal sa díochlaonadh seo.
+:2-6-1-a_en: The majority of the nouns in this declension are feminine.
 
 :2-6-1-b_ga: Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan caol nó ar ghuta san ainmneach uatha agus ar chonsan leathan (_-ch, -d, -(n)n, -r_) sa ghinideach uatha.
-:2-6-1-b_en: [TODO]Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan caol nó ar ghuta san ainmneach uatha agus ar chonsan leathan (_-ch, -d, -(n)n, -r_) sa ghinideach uatha.
+:2-6-1-b_en: This declension also has some nouns ending in narrow consonants or a vowel in the nominative singular and on a broad consonant (_-ch, -d, -(n)n, -r_) in the genitive singular.
 
 :2-6-2-title_ga: An tIolra
 :2-6-2-title_en: The Plural
 
 :2-6-2-p1_ga: Tréaniolraí atá ag formhór mór na n-ainmfhocal atá sa díochlaonadh seo.
-:2-6-2-p1_en: [TODO]Tréaniolraí atá ag formhór mór na n-ainmfhocal atá sa díochlaonadh seo.
+:2-6-2-p1_en: The vast majority of nouns in this declension have strong plurals.
 
 :2-6-2-p2_ga: Tabhair faoi deara go bhfuil patrún an Chúigiú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sa tábla ina dhiaidh seo, is é sin, críochnaíonn an ginideach uatha ar na consain leathana _-ch, -d, -(n)n, -r_ (seachas correisceacht, e.g., _Nollaig, Nollag_).
-:2-6-2-p2_en: [TODO]Tabhair faoi deara go bhfuil patrún an Chúigiú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sa tábla ina dhiaidh seo, is é sin, críochnaíonn an ginideach uatha ar na consain leathana _-ch, -d, -(n)n, -r_ (seachas correisceacht, e.g., _Nollaig, Nollag_).
+:2-6-2-p2_en: Note that the pattern of the Fifth Declension is shown in the column of the genitive singular in the following table, that is, the genitive singular ends with broad consonants _-ch, -d, -(n)n, -r_ (except for rare exceptions, e.g., _Nollaig, Nollag_).
 
 :2-6-2-a-title_ga: Tréaniolraí
 :2-6-2-a-title_en: Strong Plurals
@@ -678,32 +678,32 @@ Nouns ending in _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ in the singular
 Ainmfhocail bhaininscneacha a chríochnaíonn ar _-il, -in, -ir_ san ainmneach uatha (eisceacht: _siúr, siúrach_). Sa ghinideach uatha, leathnaítear consan deiridh ainmfhocal aonsiollach, agus ainmfhocal eile nach ndéantar coimriú orthu, agus cuirtear _-ach_ leo (eisceacht: _cathaoir, cathaoireach_). + \
 Coimrítear ainmfhocail ilsiollacha más guta gearr atá sa siolla deiridh acu agus cuirtear _-(e)ach_ leo.
 
-:Table2M-rh1_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(e)acha_ san iolra* + \
-Ainmfhocail bhaininscneacha a chríochnaíonn ar _-il, -in, -ir_ san ainmneach uatha (eisceacht: _siúr, siúrach_). Sa ghinideach uatha, leathnaítear consan deiridh ainmfhocal aonsiollach, agus ainmfhocal eile nach ndéantar coimriú orthu, agus cuirtear _-ach_ leo (eisceacht: _cathaoir, cathaoireach_). + \
-Coimrítear ainmfhocail ilsiollacha más guta gearr atá sa siolla deiridh acu agus cuirtear _-(e)ach_ leo.
+:Table2M-rh1_en: *Nouns ending in _-(e)acha_ in the plural* + \
+Feminine nouns ending in _-il, -in, -ir_ in the nominative singular (exceptions: _siúr, siúrach_). In the genitive singular, the final consonant of a monosyllabic noun is broadened, and other nouns do not undergo syncopation, and an _-ach_ is added (exceptions: _cathaoir, cathaoireach_). + \
+Polysyllabic nouns are syncopated if ther is a short vowel in their last syllable and an _-(e)ach_ is added.
 
 :Table2M-rh2_ga: *Corr-ainmfhocal a chríochnaíonn ar _-inn, -ir_ san ainmneach uatha, a leathnaítear sa ghinideach uatha agus a chríochnaíonn ar _-(e)acha_ san iolra.* + \
 (Eisceacht: _bráthair, bráthar, bráithre_.)
 
-:Table2M-rh2_en: [TODO] *Corr-ainmfhocal a chríochnaíonn ar _-inn, -ir_ san ainmneach uatha, a leathnaítear sa ghinideach uatha agus a chríochnaíonn ar _-(e)acha_ san iolra.* + \
-(Eisceacht: _bráthair, bráthar, bráithre_.)
+:Table2M-rh2_en: *The occasional nouns that ends in _-inn, -ir_ in the nominative singular, broadened in the genitive singular and ending in _-(e)acha_ in the plural.* + \
+(Exceptions: _bráthair, bráthar, bráithre_.)
 
 :Table2M-rh3_ga: *Ainmfhocail a chríochnaíonn ar _-na, -ne_ san iolra* + \
 Ainmfhocail bhaininscneacha a chríochnaíonn ar ghuta san ainmneach uatha agus ar _-n_ sa ghinideach uatha (eisceachtaí: _díle, díleann, dílí; lacha, lachan, lachain_ (gin. iol. _lachan_)).
 
-:Table2M-rh3_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-na, -ne_ san iolra* + \
-Ainmfhocail bhaininscneacha a chríochnaíonn ar ghuta san ainmneach uatha agus ar _-n_ sa ghinideach uatha (eisceachtaí: _díle, díleann, dílí; lacha, lachan, lachain_ (gin. iol. _lachan_)).
+:Table2M-rh3_en: *Nouns endin in _-na, -ne_ in the plural* + \
+Feminine nouns ending in a vowel in the nominative singular and in _-n_ in the geinitive singular (exceptions: _díle, díleann, dílí; lacha, lachan, lachain_ (gen. sg. _lachan_)).
 
 :Table2M-rh4_ga: *Ainmfhocail a chríochnaíonn ar _-idí_ san iolra* + \
 Corr-ainmfhocal firinscneach a chríochnaíonn ar _-d_ sa ghinideach uatha. + \
 Tabhair faoi deara go mbaineann _daichead_ (_daichid, daichidí_) leis an gcéad díochlaonadh.
 
-:Table2M-rh4_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-idí_ san iolra* + \
-Corr-ainmfhocal firinscneach a chríochnaíonn ar _-d_ sa ghinideach uatha. + \
-Tabhair faoi deara go mbaineann _daichead_ (_daichid, daichidí_) leis an gcéad díochlaonadh.
+:Table2M-rh4_en: *Nouns ending in _-idí_ in the plural* + \
+The occasional masculine noun ending in _-d_ in the genitive singular. + \
+Note that _daichead_ (_daichid, daichidí_) belongs to the first declension.
 
 :Table2M-rh5_ga: *Ainmfhocail ilghnéitheacha*
-:Table2M-rh5_en: [TODO] *Ainmfhocail ilghnéitheacha*
+:Table2M-rh5_en: *Miscellaneous nouns*
 
 :Table2M-genPlNote_ga: _gin. iol._
 :Table2M-genPlNote_en: _gen. pl._
@@ -715,7 +715,7 @@ Tabhair faoi deara go mbaineann _daichead_ (_daichid, daichidí_) leis an gcéad
 :2-7-title_en: Irregular Nouns
 
 :2-7-p_ga: Ní fhreagraíonn infhilleadh na n-ainmfhocal seo a leanas d'aon cheann de na díochlaontaí:
-:2-7-p_en: [TODO]Ní fhreagraíonn infhilleadh na n-ainmfhocal seo a leanas d'aon cheann de na díochlaontaí:
+:2-7-p_en: The inflection of the following nouns do not correspond to any of the declensions:
 
 :Table2N-Title_ga: Ainmfhocail Neamhrialta -- Samplaí
 :Table2N-Title_en: Irregular Nouns -- Examples
@@ -730,4 +730,4 @@ Tabhair faoi deara go mbaineann _daichead_ (_daichid, daichidí_) leis an gcéad
 :Table2N-genPlNote_en: _gen. pl._
 
 :2-7-Note_ga: Tabhair faoi deara go n-úsáidtear seanfhoirm leithleach den fhocal _lá_ sa fhrása seanbhunaithe _ar athló_, e.g., _Tá an Dáil ar athló_.
-:2-7-Note_en: [TODO]Tabhair faoi deara go n-úsáidtear seanfhoirm leithleach den fhocal _lá_ sa fhrása seanbhunaithe _ar athló_, e.g., _Tá an Dáil ar athló_.
+:2-7-Note_en: Note that a disctinct old form of the word _lá_ is used in the old phrase _ar athló_, e.g., _Tá an Dáil ar athló_.
