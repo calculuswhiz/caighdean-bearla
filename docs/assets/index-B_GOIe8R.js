@@ -3954,37 +3954,37 @@ The occasional noun ending in a narrow _-l_ or _-n_ in the nominative singular.
 :Table2J-rh1_ga: *Ainmfhocail a chríochnaíonn ar _-(a)í_ san iolra* + \\
 Ainmfhocail ilsiollacha (firinscneach seachas corrcheann, e.g., _altóir, seanmóir_) a chríochnaíonn ar _-éir, -eoir, -óir, -úir_, agus ainmfhocail ilsiollacha (baininscneach seachas corrcheann, e.g., _bunreacht, comhlacht, complacht, gnólacht_) a chríochnaíonn ar _-cht, -irt, -úint_ san ainmneach uatha.
 
-:Table2J-rh1_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(a)í_ san iolra* + \\
-Ainmfhocail ilsiollacha (firinscneach seachas corrcheann, e.g., _altóir, seanmóir_) a chríochnaíonn ar _-éir, -eoir, -óir, -úir_, agus ainmfhocail ilsiollacha (baininscneach seachas corrcheann, e.g., _bunreacht, comhlacht, complacht, gnólacht_) a chríochnaíonn ar _-cht, -irt, -úint_ san ainmneach uatha.
+:Table2J-rh1_en: *Nouns ending in _-(a)í_ in the plural* + \\
+Polysyllabic nouns (masculine except for a few, e.g., _altóir, seanmóir_) ending in _-éir, -eoir, -óir, -úir_, and polysyllabic nouns (feminine except for a few, e.g., _bunreacht, comhlacht, complacht, gnólacht_) ending in _-cht, -irt, -úint_ in the nominative singular.
 
 :Table2J-rh2_ga: *Ainmfhocail a chríochnaíonn ar _-(e)anna_ san iolra* + \\
 Ainmfhocail fhirinscneacha ilsiollacha (seachas roinnt ainmfhocal atá baininscneach, e.g., _cuid, dleacht, troid, uaim_).
 
-:Table2J-rh2_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(e)anna_ san iolra* + \\
-Ainmfhocail fhirinscneacha ilsiollacha (seachas roinnt ainmfhocal atá baininscneach, e.g., _cuid, dleacht, troid, uaim_).
+:Table2J-rh2_en: *Nouns ending in _-(e)anna_ in the plural* + \\
+Polysyllabic masculine nouns (except for some that are feminine, e.g., _cuid, dleacht, troid, uaim_).
 
 :Table2J-rh3_ga: *Ainmfhocail a chríochnaíonn ar _-a_ san iolra agus a ndéantar coimriú, leathnú nó malartú ar a ngutaí*
-:Table2J-rh3_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-a_ san iolra agus a ndéantar coimriú, leathnú nó malartú ar a ngutaí*
+:Table2J-rh3_en: *Nouns ending in _-a_ in the plural and syncopated, broadened or exchanged vowels*
 
 :Table2J-rh4_ga: *Ainmfhocail a chríochnaíonn ar _-acha_ san iolra* + \\
 Ainmfhocail ilsiollacha bhaininscneacha a chríochnaíonn ar _-l_, _-n_ nó _-r_ caol (eisceachtaí: _anam, anama, anamacha; úim, úma, úmacha_) san ainmneach uatha. + \\
 Tabhair faoi deara gur mar sin a chumtar ginideach uatha ainmfhocal a chríochnaíonn ar _-aíl_ freisin, e.g., _feadaíl, feadaíola; sceamhaíl, sceamhaíola_.
 
-:Table2J-rh4_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-acha_ san iolra* + \\
-Ainmfhocail ilsiollacha bhaininscneacha a chríochnaíonn ar _-l_, _-n_ nó _-r_ caol (eisceachtaí: _anam, anama, anamacha; úim, úma, úmacha_) san ainmneach uatha. + \\
-Tabhair faoi deara gur mar sin a chumtar ginideach uatha ainmfhocal a chríochnaíonn ar _-aíl_ freisin, e.g., _feadaíl, feadaíola; sceamhaíl, sceamhaíola_.
+:Table2J-rh4_en: *Nouns ending in _-acha_ in the plural* + \\
+Polysyllabic feminine nouns ending in a narrow _-l_, _-n_ or _-r_ (exceptions: _anam, anama, anamacha; úim, úma, úmacha_) in the nominative singular. + \\
+Note that this is also how the genitive singular of a noun ending in _-aíl_ is formed, e.g., _feadaíl, feadaíola; sceamhaíl, sceamhaíola_.
 
 :Table2J-rh5_ga: *Ainmfhocail a chríochnaíonn ar _-ta_ san iolra* + \\
-Ainmfhocail aonsiollacha a chríochnaíonn ar -_l nó _ leathan (firinscneach) nó caol (baininscneach) san ainmneach uatha.
+Ainmfhocail aonsiollacha a chríochnaíonn ar _-l_ nó _-n_ leathan (firinscneach) nó caol (baininscneach) san ainmneach uatha.
 
-:Table2J-rh5_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-ta_ san iolra* + \\
-Ainmfhocail aonsiollacha a chríochnaíonn ar -_l nó _ leathan (firinscneach) nó caol (baininscneach) san ainmneach uatha.
+:Table2J-rh5_en: *Nouns ending in _-ta_ in the plural* + \\
+Monosyllabic nouns ending in _-l_ or _-n_ that is broad (masculine) or narrow (feminine) in the nominative singular.
 
 :Table2J-rh6_ga: *Ainmfhocail a chríochnaíonn ar _-te_ san iolra*
-:Table2J-rh6_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-te_ san iolra*
+:Table2J-rh6_en: *Nouns ending in _-te_ in the plural*
 
 :Table2J-rh7_ga: *Ainmfhocail ilghnéitheacha*
-:Table2J-rh7_en: [TODO] *Ainmfhocail ilghnéitheacha*
+:Table2J-rh7_en: *Miscellaneous Nouns*
 
 :2-4-3-b-title_ga: Lagiolraí
 :2-4-3-b-title_en: Weak Plurals
@@ -3996,7 +3996,7 @@ Ainmfhocail aonsiollacha a chríochnaíonn ar -_l nó _ leathan (firinscneach) n
 :Table2K-CornerHeading_en: Weak Plural Classes
 
 :Table2K-Col1Text_ga: Ainmfhocail ilghnéitheacha
-:Table2K-Col1Text_en: [TODO] Ainmfhocail ilghnéitheacha
+:Table2K-Col1Text_en: Miscellaneous nouns
 
 :2-5-title_ga: An Ceathrú Díochlaonadh
 :2-5-title_en: The Fourth Declension
@@ -4005,34 +4005,34 @@ Ainmfhocail aonsiollacha a chríochnaíonn ar -_l nó _ leathan (firinscneach) n
 :2-5-1-Title_en: The Singular
 
 :2-5-1-a_ga: Is leis an díochlaonadh seo a bhaineann ainmfhocail fhirinscneacha a chríochnaíonn ar _-ín_, díspeagthaí a chríochnaíonn ar _-ín_, formhór na n-ainmfhocal a chríochnaíonn ar ghuta, agus líon beag ainmfhocail eile.
-:2-5-1-a_en: [TODO]Is leis an díochlaonadh seo a bhaineann ainmfhocail fhirinscneacha a chríochnaíonn ar _-ín_, díspeagthaí a chríochnaíonn ar _-ín_, formhór na n-ainmfhocal a chríochnaíonn ar ghuta, agus líon beag ainmfhocail eile.
+:2-5-1-a_en: This declension has the masculine nouns ending in _-ín_, diminutives ending in _-ín_, the majority of the nouns ending in a vowel, and a small number of other nouns.
 
 :2-5-1-b_ga: Is firinscneach freisin d'ainmneacha ceirde a chríochnaíonn ar _-(a)í_ nó _-aire_, e.g., _ceannaí, cócaire_.
-:2-5-1-b_en: [TODO]Is firinscneach freisin d'ainmneacha ceirde a chríochnaíonn ar _-(a)í_ nó _-aire_, e.g., _ceannaí, cócaire_.
+:2-5-1-b_en: Occupational nouns ending in _-(a)í_ or _-aire_ are also masculine, e.g., _ceannaí, cócaire_.
 
 :2-5-1-c_ga: Is baininscneach d'ainmfhocail theibí a chríochnaíonn ar _-e_ agus a chumtar ó aidiachtaí, e.g., _airde, gile, saoirse_.
-:2-5-1-c_en: [TODO]Is baininscneach d'ainmfhocail theibí a chríochnaíonn ar _-e_ agus a chumtar ó aidiachtaí, e.g., _airde, gile, saoirse_.
+:2-5-1-c_en: Abstract nouns ending in _-e_ and formed from adjective are feminine, e.g., _airde, gile, saoirse_.
 
 :2-5-2-Title_ga: An Ginideach Uatha
 :2-5-2-Title_en: The Genitive Singular
 
 :2-5-2-a_ga: Ní théann aon athrú foirme ar ainmfhocail an díochlaonta seo sa ghinideach uatha.
-:2-5-2-a_en: [TODO]Ní théann aon athrú foirme ar ainmfhocail an díochlaonta seo sa ghinideach uatha.
+:2-5-2-a_en: Nouns of this declension do not undergo any change in the genitive singular.
 
-:2-5-2-b_ga: Is baininscneach de ghnáth don díspeagadh _-ín_, más focal baininscneach coitianta an bunfhocal. Tá eisceachtaí ann, e.g., _paidir_ (bain.), _paidrín_ (fir.); _toit_ (bain.), _toitín_ (fir.). Is mar ainmfhocal firinscneach, áfach, a dhíochlaontar gach díspeagadh sa ghinideach agus sa ghairmeach uatha, e.g., an _bheainín bheag, teach an bheainín bhig, a bheainín bhig_.
-:2-5-2-b_en: [TODO]Is baininscneach de ghnáth don díspeagadh _-ín_, más focal baininscneach coitianta an bunfhocal. Tá eisceachtaí ann, e.g., _paidir_ (bain.), _paidrín_ (fir.); _toit_ (bain.), _toitín_ (fir.). Is mar ainmfhocal firinscneach, áfach, a dhíochlaontar gach díspeagadh sa ghinideach agus sa ghairmeach uatha, e.g., an _bheainín bheag, teach an bheainín bhig, a bheainín bhig_.
+:2-5-2-b_ga: Is baininscneach de ghnáth don díspeagadh _-ín_, más focal baininscneach coitianta an bunfhocal. Tá eisceachtaí ann, e.g., _paidir_ (bain.), _paidrín_ (fir.); _toit_ (bain.), _toitín_ (fir.). Is mar ainmfhocal firinscneach, áfach, a dhíochlaontar gach díspeagadh sa ghinideach agus sa ghairmeach uatha, e.g., _an bheainín bheag, teach an bheainín bhig, a bheainín bhig_.
+:2-5-2-b_en: The diminutive _-ín_ normally is feminine, if the original word is a common feminine word. Ther are exceptions, e.g., _paidir_ (fem.), _paidrín_ (masc.); _toit_ (fem.), _toitín_ (masc.). However, it is declined in every diminutive in the genitive and in the accusative singular as a masculine noun, e.g., _an bheainín bheag, teach an bheainín bhig, a bheainín bhig_.
 
 :2-5-2-c_ga: Tá roinnt ainmfhocal sa Díochlaonadh seo nach bhfuil aon uimhir iolra acu, e.g., _cruach_ (sa bhrí _miotal_), _dóthain, gorta, lucht_ (sa bhrí _daoine_), _oiread, tobac_.
-:2-5-2-c_en: [TODO]Tá roinnt ainmfhocal sa Díochlaonadh seo nach bhfuil aon uimhir iolra acu, e.g., _cruach_ (sa bhrí _miotal_), _dóthain, gorta, lucht_ (sa bhrí _daoine_), _oiread, tobac_.
+:2-5-2-c_en: There are some nouns in this Declension that do not have any plural, e.g., _cruach_ (meaning _miotal_), _dóthain, gorta, lucht_ (meaning _daoine_), _oiread, tobac_.
 
 :2-5-3-title_ga: An tIolra
-:2-5-3-title_en: [TODO]An tIolra
+:2-5-3-title_en: The Plural
 
 :2-5-3-p1_ga: Tréaniolraí atá ag formhór mór na n-ainmfhocal sa díochlaonadh seo.
-:2-5-3-p1_en: [TODO]Tréaniolraí atá ag formhór mór na n-ainmfhocal sa díochlaonadh seo.
+:2-5-3-p1_en: The vast majority of the nouns in this declension have strong plurals.
 
 :2-5-3-p2_ga: Tabhair faoi deara go bhfuil patrún an Cheathrú Díochlaonadh le feiceáil i gcolún an uatha sa tábla ina dhiaidh seo, is é sin, gurb ionann foirm an ghinidigh uatha agus foirm an ainmnigh uatha.
-:2-5-3-p2_en: [TODO]Tabhair faoi deara go bhfuil patrún an Cheathrú Díochlaonadh le feiceáil i gcolún an uatha sa tábla ina dhiaidh seo, is é sin, gurb ionann foirm an ghinidigh uatha agus foirm an ainmnigh uatha.
+:2-5-3-p2_en: Note that the Fourth Declension's pattern is shown in the singular column in the below table, that is, that the form of the genitive singular is the same as the form of the nominative plural.
 
 :2-5-3-a-title_ga: Tréaniolraí
 :2-5-3-a-title_en: Strong Plurals
@@ -4046,38 +4046,38 @@ Ainmfhocail aonsiollacha a chríochnaíonn ar -_l nó _ leathan (firinscneach) n
 :Table2L-rh1_ga: *Ainmfhocail a chríochnaíonn ar _-(a)í_ san iolra* + \\
 Ainmfhocail a chríochnaíonn ar _-a_, _-e_, _-ín_ san uatha.
 
-:Table2L-rh1_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(a)í_ san iolra* + \\
-Ainmfhocail a chríochnaíonn ar _-a_, _-e_, _-ín_ san uatha.
+:Table2L-rh1_en: *Nouns ending in _-(a)í_ in the plural* + \\
+Nouns ending in _-a_, _-e_, _-ín_ in the singular.
 
 :Table2L-rh2_ga: *Ainmfhocail a chríochnaíonn ar _-te_ san iolra* + \\
 Corr-ainmfhocal a chríochnaíonn ar _-le_, _-ne_ san uatha.
 
-:Table2L-rh2_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-te_ san iolra* + \\
-Corr-ainmfhocal a chríochnaíonn ar _-le_, _-ne_ san uatha.
+:Table2L-rh2_en: *Nouns ending in _-te_ in the plural* + \\
+Occasional nouns ending in _-le_, _-ne_ in the singular.
 
 :Table2L-rh3_ga: *Ainmfhocail a chríochnaíonn ar _-(i)the_ san iolra* + \\
 Ainmfhocail a chríochnaíonn ar _-(a)í_, _-aoi_, _-é_ san uatha (ní ghiorraítear _-í-_ sna hainmfhocail aonsiollacha, seachas _ní_, _nithe_).
 
-:Table2L-rh3_en: [TODO] *Ainmfhocail a chríochnaíonn ar _-(i)the_ san iolra* + \\
-Ainmfhocail a chríochnaíonn ar _-(a)í_, _-aoi_, _-é_ san uatha (ní ghiorraítear _-í-_ sna hainmfhocail aonsiollacha, seachas _ní_, _nithe_).
+:Table2L-rh3_en: *Nouns ending in _-(i)the_ in the plural* + \\
+Nouns ending in _-(a)í_, _-aoi_, _-é_ in the singular (_-í-_ is not shortened in the monosyllabic nouns, except _ní_, _nithe_).
 
 :Table2L-rh4_ga: *Ainmfhocail a gcuirtear _-nna_ leo san iolra gan aon athrú eile* + \\
 Ainmfhocail a chríochnaíonn ar _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ san uatha.
 
-:Table2L-rh4_en: [TODO] *Ainmfhocail a gcuirtear _-nna_ leo san iolra gan aon athrú eile* + \\
-Ainmfhocail a chríochnaíonn ar _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ san uatha. 
+:Table2L-rh4_en: *Nouns that have _-nna_ added in the plural and no other changes* + \\
+Nouns ending in _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ in the singular.
 
 :Table2L-rh5_ga: *Roinnt ainmfhocal a chríochnaíonn ar chonsan san uatha agus a gcuirtear _-(e)anna_ leo san iolra gan aon athrú eile*
-:Table2L-rh5_en: [TODO] *Roinnt ainmfhocal a chríochnaíonn ar chonsan san uatha agus a gcuirtear _-(e)anna_ leo san iolra gan aon athrú eile*
+:Table2L-rh5_en: *Some nouns ending in a consonant in the singular and have _-(e)anna_ added in the plural and no other changes*
 
 :Table2L-rh6_ga: *Corr-ainmfhocal a chríochnaíonn ar _-ite_ san iolra*
-:Table2L-rh6_en: [TODO]  *Corr-ainmfhocal a chríochnaíonn ar _-ite_ san iolra*
+:Table2L-rh6_en: *Occasional nouns ending in _-ite_ in the plural*
 
 :Table2L-rh7_ga: *Ainmfhocail ilghnéitheacha*
-:Table2L-rh7_en: [TODO] *Ainmfhocail ilghnéitheacha*
+:Table2L-rh7_en: *Miscellaneous nouns*
 
-:2-5-3-Note_ga: Tabhair faoi deara go mbaineann na hainmfhocail seo a leanas, nach dual dóibh foirm iolra a bheith orthu, leis an díochlaonadh seo freisin: _cruach_ (sa bhrí _miotal_), _dóthain, gorta, iomad, lucht_ (sa bhrí _daoine_), _oiread, tobac;_ mar aon le hainmneacha pearsanta áirithe, e.g., _Cáit, Liam, Pilib, Siobhán, Uileag_
-:2-5-3-Note_en: [TODO]Tabhair faoi deara go mbaineann na hainmfhocail seo a leanas, nach dual dóibh foirm iolra a bheith orthu, leis an díochlaonadh seo freisin: _cruach_ (sa bhrí _miotal_), _dóthain, gorta, iomad, lucht_ (sa bhrí _daoine_), _oiread, tobac;_ mar aon le hainmneacha pearsanta áirithe, e.g., _Cáit, Liam, Pilib, Siobhán, Uileag_
+:2-5-3-Note_ga: Tabhair faoi deara go mbaineann na hainmfhocail seo a leanas, nach dual dóibh foirm iolra a bheith orthu, leis an díochlaonadh seo freisin: _cruach_ (sa bhrí _miotal_), _dóthain, gorta, iomad, lucht_ (sa bhrí _daoine_), _oiread, tobac;_ mar aon le hainmneacha pearsanta áirithe, e.g., _Cáit, Liam, Pilib, Siobhán, Uileag_.
+:2-5-3-Note_en: Note that in the following nouns, which do not necessarily have a plural form, also belong to this declension: _cruach_ (meaning _miotal_), _dóthain, gorta, iomad, lucht_ (meaning _daoine_), _oiread, tobac;_ along with some personal names, e.g., _Cáit, Liam, Pilib, Siobhán, Uileag_.
 
 :2-6-title_ga: An Cúigiú Díochlaonadh
 :2-6-title_en: The Fifth Declension
