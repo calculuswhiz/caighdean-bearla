@@ -82,7 +82,7 @@ function App() {
         </li>
         <li>
           In terms of work focus, currently priority is being given to the parts of the book that pertain specifically to
-          grammar and the language. This means the font matter will likely be the last thing to be translated.
+          grammar and the language. This means the front matter will likely be the last thing to be translated.
         </li>
         <li>
           The project is tracked at <a className="text-blue-400" href="https://github.com/calculuswhiz/caighdean-bearla">GitHub</a>.
