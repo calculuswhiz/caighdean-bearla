@@ -1,9 +1,9 @@
 import React from "react";
-import Chapter7 from "./Components/Chapters/Chapter7";
 import { TableOfContents } from "./Components/TableOfContents";
 import { FrontMatter } from "./Components/Chapters/FrontMatter";
 import { Chapter1 } from "./Components/Chapters/Chapter1";
 import { Chapter2 } from "./Components/Chapters/Chapter2";
+import { Chapter7 } from "./Components/Chapters/Chapter7";
 
 const availableChapters = [
   { label: "Front Matter", id: "front-matter", element: <FrontMatter /> },

@@ -1,37 +1,24 @@
-import { Chapter, ChapterSection, ListItem, Paragraph, Subsection } from "../BodyMatter";
-import chapter7Text from "../../../translation/Chapter7.json";
-import SampleBox from "../SampleBox";
+import Asciidoctor from "asciidoctor";
+import chapterAdoc from '../../../translation/Chapter7/Chapter7.adoc?raw';
+import rawChapterAttributes from '../../../translation/Chapter7/attributes.adoc?raw';
+import rawCommonAttributes from '../../../translation/CommonAttributes.adoc?raw';
+import { processAdocFileContents } from "../../utility";
 
-function Section1() {
-    const sectionText = chapter7Text["7.1"];
-    return <ChapterSection
-        sectionId="7.1"
-        title={sectionText.title}>
-        <Paragraph content={sectionText.p1} />
-        <Paragraph content={sectionText.p2} />
-        <Subsection heading={"7.1.1"}>
-            <Paragraph content={sectionText[".1"].p1} />
-            <Paragraph content={sectionText[".1"].p2} />
-            <ol className="list-[lower-alpha] list-inside pl-2">
-                {
-                    (["a", "b", "c", "d", "e", "f", "g", "h", "i"] as const).map(x =>
-                        <ListItem key={`li-${x}`}>
-                            <Paragraph content={sectionText[".1"][`.${x}`].text} />
-                            <SampleBox samples={sectionText[".1"][`.${x}`].samples} />
-                        </ListItem>
-                    )
-                }
-            </ol>
-        </Subsection>
-    </ChapterSection>;
-}
+const asciidoctor = Asciidoctor();
 
-export default function Chapter7() {
-    return <Chapter
-        number={7}
-        title={chapter7Text["Chapter7Title"]}
-        sections={[
-            <Section1 key={"c7.1"} />
-        ]}
-    />;
+export function Chapter7() {
+    const languageSelection = 'en';
+    
+    const [chapterAttributes, commonAttributes] = [rawChapterAttributes, rawCommonAttributes]
+        .map(x => processAdocFileContents(x, languageSelection));
+    const toConvert = [
+        // Common should come first so we can share it with other attribute imports
+        commonAttributes, chapterAttributes, chapterAdoc
+    ].join('\n');
+
+    const resultHtml = asciidoctor.convert(toConvert) as string;
+
+    return <div dangerouslySetInnerHTML={{ __html: resultHtml }}>
+
+    </div>;
 }
