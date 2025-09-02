@@ -1,5 +1,7 @@
 # caighdean-bearla
 
+Probably not the best repo name, but we can always rename it later.
+
 Another shot at an unofficial translation project of "An Caighdeán Oifigiúil 2017"
 
 - Tracked at https://github.com/calculuswhiz/caighdean-bearla.
@@ -11,34 +13,36 @@ This project will hopefully be a way to get the ball rolling again with multiple
 
 # How it works
 
-As rightfully noted by David there are a lot of tables in the _Caighdeán_, among other complex formatting. To facilitate the translation project, the translation aspect should be abstracted away from the formatting markup as much as possible. For now, the line is drawn at anything more advanced than simple **bold** and _italic_ markdown as it even suffers with nested listing formats.
+As rightfully noted by David there are a lot of tables in the _Caighdeán_, among other complex formatting. To facilitate the translation project, the translation aspect should be abstracted away from the formatting markup as much as possible.
 
-The translations will be stored in JSON format, divided by chapter. For most translation objects, you will see this format:
+The best compromise I have found for this purpose is using AsciiDoc (to html via [AsciiDoctor.js](https://docs.asciidoctor.org/)). While it does have certain shortcomings (tables are still somewhat inconvenient to work with), I have found that it does minimize the amount of work needed to do the majority of the layout tasks. It is also more powerful than standard markdown languages.
 
-```
-{
-    // ID of text. E.g. "title"
-    [id]: {
-        "ga": string, // Text to be translated
-        "en": string | null // Translation. If null, no translation exists yet. If empty, mark as none needed.
-    }
-}
-```
+When this was first started, I used React for layout, but quickly found that this was extremely cumbersome. There was just too much representational overhead for the amount of text being rendered. The learning curve may also be a deterrent for those coming in with no background in web programming.
 
-## IDs
+## Using AsciiDoc
 
-The webpage will retrieve the data, then de-reference the corresponding id. If the translation does not exist, it will show up on the page as a TODO item.
-IDs can be nested and organized in sub-objects.
+In the **translation** folder, each chapter has a main **.adoc** file and an **attributes.adoc** file. Outside, there is also a **CommonAttributes.adoc** file that holds very common text. The attributes are referenced in the main file. Each chapter has a preprocessor script that merges the two files, so we don't have to worry about using AsciiDoctor's macro system. The rendered HTML is then loaded to the page.
+
+Notes:
+- The attributes names have an English and Irish version, suffixed with `_en` and `_ga` respectively.
+- For attributes that reference other attributes, prefix the attribute with `nopass-`.
+- To reference another attributes, leave out the language suffix in the reference. The preprocessor scrubs these.
+
+### Table standardization
+
+This is still a work in progress, and we will have to revisit chapters 1 and 2 for consistency. However, going forward, we shall handle complex tables as follows:
+
+- If a table has multiple sub-tables (e.g. 2A), it shall be grouped as one table. The tables will both be contained in the `tbody`, including the header
+- Do not use the auto-header. It simply does not handle enough cases to be useful consistently. Instead, the add the class `.table-header` to one of the header cells for a primary header, and `.sub-header` to the secondary headers. More may be added later. In any case, a utility script will extract these at runtime and place them in the `thead`, where they belong.
 
 ## Tech stack
 
 For those interested, the following base will be used:
 
-- React (TSX) for rendering
+- React (TSX) for web-app interaction
 - Tailwind for CSS
 - Vite for bundling
-- Markdown-it for markdown rendering
-  - This is used in the translation JSON files. Note that backtick "`" characters will be treated the same as \* characters.
+- AsciiDoctor.js for markup rendering.
 
 ## Contributing
 
