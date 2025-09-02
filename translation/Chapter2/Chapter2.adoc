@@ -53,20 +53,16 @@
 [.table-header]
 {Singular}
 2+a|
-[.table-header]
 {Plural}
 
 a|
 [.sub-header]
 {Nominative} 
 a|
-[.sub-header]
 {Genitive} 
 a|
-[.sub-header]
 {Nominative} 
 a|
-[.sub-header]
 {Genitive} 
 
 .2+h|

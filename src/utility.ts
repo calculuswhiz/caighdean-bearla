@@ -19,9 +19,9 @@ export function processAdocFileContents(contents: string, language: LanguageSele
         if (trimmed.startsWith('////')) {
             inBlockComment = !inBlockComment;
             continue;
-        } else if (inBlockComment) 
+        } else if (inBlockComment)
             continue;
-         else if (trimmed.startsWith('//'))
+        else if (trimmed.startsWith('//'))
             continue;
 
         const langSelect = trimmed.replace(new RegExp(`_${language}:`), ':');
@@ -38,4 +38,61 @@ export function processAdocFileContents(contents: string, language: LanguageSele
     }
 
     return outputBuffer.join("\n");
+}
+
+/** Find the root table containing the table header */
+function findParentRow(element: HTMLElement) {
+    let current: Nullable<HTMLElement> = element;
+    while (!(current instanceof HTMLTableRowElement)) {
+        if (current == null)
+            throw new Error(`Misplaced row element`);
+        current = current.parentElement;
+    }
+
+    return current;
+}
+
+function tdToTh(td: HTMLTableCellElement) {
+    const th = document.createElement('th');
+    th.innerHTML = td.innerHTML;
+    for (const attribute of td.attributes) {
+        th.setAttribute(attribute.name, attribute.value);
+    }
+    td.replaceWith(th);
+}
+
+/** Scans and extracts table elements that should be part of the table header,
+ * as marked by the class table-header. Asciidoc does not allow multi-row thead
+ * elements to be generated.
+ */
+export function tableScan() {
+    const allTables = document.querySelectorAll('table');
+
+    for (const table of allTables) {
+        for (; ;) {
+            const toMove = table.querySelector<HTMLDivElement>("tbody .table-header, tbody .sub-header");
+            if (toMove == null)
+                break;
+            const containingRow = findParentRow(toMove);
+            if (containingRow == null)
+                throw new Error("missing row");
+
+            let tHead = table.querySelector('thead');
+            const tBody = table.querySelector("tbody");
+            if (tBody == null)
+                throw new Error("missing tbody");
+            // Make thead if it does not exist
+            if (tHead == null) {
+                tHead = document.createElement('thead');
+                table.insertBefore(tHead, tBody);
+            }
+
+            for (const td of containingRow.querySelectorAll('td')) {
+                tdToTh(td);
+            }
+
+            // Transfer the row
+            tHead.appendChild(containingRow);
+        }
+    }
 }

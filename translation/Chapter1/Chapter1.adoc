@@ -455,72 +455,75 @@ a! . an áit
 {1-4-1}
 
 .*{Table} 1B*  {1-4-title} -- {Table1B-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {CoreSystem} -- {Table1B-caption}
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1B-caption}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
 
-! ag an bhfear maith
-! ag an gcuideachta bheag
+| ag an bhfear maith
+| ag an gcuideachta bheag
 
-! ar an mbosca dearg
-! ar an mbean shaibhir
+| ar an mbosca dearg
+| ar an mbean shaibhir
 
-! as an ngleann mór
-! as an bpáirc chéanna
+| as an ngleann mór
+| as an bpáirc chéanna
 
-! chuig an gCoimisinéir coinsiasach
-! chuig an mbean ghairmiúil
+| chuig an gCoimisinéir coinsiasach
+| chuig an mbean ghairmiúil
 
-! den chrann caol
-! den bhean fhlaithiúil
+| den chrann caol
+| den bhean fhlaithiúil
 
-! don fhear trom
-! don chuideachta ghnóthach
+| don fhear trom
+| don chuideachta ghnóthach
 
-! fairis an ngarda béasach
-! fairis an mbean chairdiúil
+| fairis an ngarda béasach
+| fairis an mbean chairdiúil
 
-! faoin bhfógra práinneach
-! faoin ngrian bhreá
+| faoin bhfógra práinneach
+| faoin ngrian bhreá
 
-! sa bhosca buí +
+| sa bhosca buí +
 sa fhraoch bán +
  +
 {Table1B-note} +
 san fhéar fliuch
 
-! sa chomhairle shóisialta +
+| sa chomhairle shóisialta +
 sa fhrithréabhlóid fhíochmhar +
  +
 {Table1B-note} +
 san fharraige ghlan
 
-! leis an bhfasach cruinn
-! leis an mbáisteach throm
+| leis an bhfasach cruinn
+| leis an mbáisteach throm
 
-! ón gcaisleán fuar
-! ón gcathair mhór
+| ón gcaisleán fuar
+| ón gcathair mhór
 
-! roimh an gcruinniú tábhachtach
-! roimh an mbainis bheag
+| roimh an gcruinniú tábhachtach
+| roimh an mbainis bheag
 
-! thar an gcnoc bán
-! thar an bhfarraige chiúin
+| thar an gcnoc bán
+| thar an bhfarraige chiúin
 
-! tríd an ngairdín breá
-! tríd an bhfuinneog ghorm
+| tríd an ngairdín breá
+| tríd an bhfuinneog ghorm
 
-! um an mBille fada
-! um an ngníomhaireacht reachtúil
-!===
+| um an mBille fada
+| um an ngníomhaireacht reachtúil
 
 |===
 
@@ -528,154 +531,164 @@ san fharraige ghlan
 {1-4-2}
 
 .*{Table} 1C*  {1-4-title} -- {Table1C-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {CoreSystem} -- {Table1C-caption}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1C-caption}
+
+a|
+[.sub-header]
+{Masculine}
+a|
+[.sub-header]
+{Feminine}
 
 // No way to have more than one row in header, so this is our workaround...
-a!
-[.sub-header]
-{NoChange}
-a! 
-[.sub-header]
-{Table1C-col2-subheader}
+a|
+[.text-center]
+*{NoChange}*
+a| 
+[.text-center]
+*{Table1C-col2-subheader}*
 
-! ag an Seapánach cliste
-! ag an tseanmháthair bhocht
+| ag an Seapánach cliste
+| ag an tseanmháthair bhocht
 
-! ar an suíochán fliuch
-! ar an tsráid ghlan
+| ar an suíochán fliuch
+| ar an tsráid ghlan
 
-! as an sailéad blasta
-! as an tsaoire bhliantúil
+| as an sailéad blasta
+| as an tsaoire bhliantúil
 
-! chuig an Seanadóir nuacheaptha
-! chuig an tsatailít mhór
+| chuig an Seanadóir nuacheaptha
+| chuig an tsatailít mhór
 
-! den saighdiúir sásúil
-! den tslándáil shóisialach
+| den saighdiúir sásúil
+| den tslándáil shóisialach
 
-! don Seanad nua
-! don tsaoirse cheart
+| don Seanad nua
+| don tsaoirse cheart
 
-! fairis an saineolaí lách
-! fairis an tseanbhean shaibhir
+| fairis an saineolaí lách
+| fairis an tseanbhean shaibhir
 
-! faoin sonrasc déanach
-! faoin tslí dhíreach
+| faoin sonrasc déanach
+| faoin tslí dhíreach
 
-! sa soitheach gorm
-! sa tseacláid mhilis
+| sa soitheach gorm
+| sa tseacláid mhilis
 
-! leis an salann bán
-! leis an tslat fhada
+| leis an salann bán
+| leis an tslat fhada
 
-! ón suirbhé pearsanta
-! ón scoil bheag
+| ón suirbhé pearsanta
+| ón scoil bheag
 
-! roimh an samhradh fada
-! roimh an tseachtain mhór
+| roimh an samhradh fada
+| roimh an tseachtain mhór
 
-! thar an seol mór
-! thar an tSionainn fhada
+| thar an seol mór
+| thar an tSionainn fhada
 
-! tríd an sorcas mór
-! tríd an tseift chliste
+| tríd an sorcas mór
+| tríd an tseift chliste
 
-! um an sainchomhairleoir cruinn
-! um an tseirbhís mhaith
-!===
+| um an sainchomhairleoir cruinn
+| um an tseirbhís mhaith
 |===
 
 === 1.4.3
 {1-4-3}
 
 .*{Table} 1D*  {1-4-title} -- {Table1D-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {CoreSystem} -- {Table1D-caption}
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1D-caption}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a| 
+[.sub-header]
+{Masculine}
+a| 
+[.sub-header]
+{Feminine}
 
-! ag an Albanach ciallmhar
-! ag an aeráid ghaofar
+| ag an Albanach ciallmhar
+| ag an aeráid ghaofar
 
-! ar an eitleán dubh
-! ar an olann bhán
+| ar an eitleán dubh
+| ar an olann bhán
 
-! as an uisce glan
-! as an iris cháiliúil
+| as an uisce glan
+| as an iris cháiliúil
 
-! chuig an Aire ilteangach
-! chuig an Ostair shléibhtiúil
+| chuig an Aire ilteangach
+| chuig an Ostair shléibhtiúil
 
-! den alt fada
-! den uimhir chruinn
+| den alt fada
+| den uimhir chruinn
 
-! don údarás céanna
-! don obair chrua
+| don údarás céanna
+| don obair chrua
 
-! fairis an oifigeach múinte
-! fairis an ógbhean chliste
+| fairis an oifigeach múinte
+| fairis an ógbhean chliste
 
-!===
 |===
 
 === 1.4.4
 {1-4-4}
 
 .*{Table} 1E*  {1-4-title} -- {Table1E-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {CoreSystem} -- {Table1E-caption}
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1E-caption}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a|
+[.sub-header]
+{Masculine}
+a|
+[.sub-header]
+{Feminine}
 
-! faoin dréimire briste
-! faoin deacracht bhreise
+| faoin dréimire briste
+| faoin deacracht bhreise
 
-! sa teas mór
-! sa deoch fhuar
+| sa teas mór
+| sa deoch fhuar
 
-! leis an duine ciúin
-! leis an taithí mhaith
+| leis an duine ciúin
+| leis an taithí mhaith
 
-! ón deartháir cineálta
-! ón teanga líofa
+| ón deartháir cineálta
+| ón teanga líofa
 
-! roimh an tarbh fiáin
-! roimh an deighilt mhór
+| roimh an tarbh fiáin
+| roimh an deighilt mhór
 
-! thar an teach gorm
-! thar an diallait nua
+| thar an teach gorm
+| thar an diallait nua
 
-! tríd an talamh crua
-! tríd an drochaimsir ghránna
+| tríd an talamh crua
+| tríd an drochaimsir ghránna
 
-! um an dlí coiriúil
-! um an tagairt chuí
+| um an dlí coiriúil
+| um an tagairt chuí
 
-!===
 |===
 
 .N.B.
@@ -841,37 +854,46 @@ a! . timpeall na háite
 {1-6-1-p1}
 
 .*{Table} 1G*  {Table1G-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="3,3,3,4"]
 |===
-h| {MascAndFem}
+4+a|
+[.table-header]
+{MascAndFem}
 
-| [cols="3,3,3,4"]
-!===
-! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+a|
+[.sub-header]
+{ArticleTable-col1-th} 
+a|
+[.sub-header]
+{ArticleTable-col2-th} 
+a|
+[.sub-header]
+{ArticleTable-col3-th} 
+a|
+[.sub-header]
+{ArticleTable-col4-th}
 
-h! {Consonant}
-! na
-! {Table1G-cons-col3}
-a! . na capaill ghlasa
+h| {Consonant}
+| na
+| {Table1G-cons-col3}
+a| . na capaill ghlasa
 . na cnoic arda
 . na fuinneoga móra
 . na Seapánaigh
 . na sráideanna
 
-h! {Vowel}
-! na
-! {Table1G-vowel-col3}
-a! . na hAchtanna tábhachtacha
+h| {Vowel}
+| na
+| {Table1G-vowel-col3}
+a| . na hAchtanna tábhachtacha
 . na háiteanna
 . na hAlbanaigh bhródúla
 . na hÉireannaigh
 . na híomhánna
 
-!===
 |===
 
 === 1.6.2 {1-6-2-title}
@@ -879,22 +901,32 @@ a! . na hAchtanna tábhachtacha
 {1-6-2-p1}
 
 .*{Table} 1H*  {Table1H-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="3,3,3,4"]
 |===
-h| {MascAndFem}
+4+a|
+[.table-header]
+{MascAndFem}
 
-| [cols="3,3,3,4"]
-!===
-! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+a|
+[.sub-header]
+{ArticleTable-col1-th} 
+a|
+[.sub-header]
+{ArticleTable-col2-th} 
+a|
+[.sub-header]
+{ArticleTable-col3-th} 
+a|
+[.sub-header]
+{ArticleTable-col4-th}
 
-h! {Consonant}
-! na
-! {Table1H-cons-col3}
-a! . ag na fir mhóra
+h| {Consonant}
+| na
+| {Table1H-cons-col3}
+a| . ag na fir mhóra
 . ar na mná cliste
 . as na seirbhísí poiblí
 . chuig na mic léinn ghlóracha
@@ -910,10 +942,10 @@ a! . ag na fir mhóra
 . trí na gairdíní
 . um na coillte
 
-h! {Vowel}
-! na
-! {Table1H-vowel-col3}
-a! . ag na hiníonacha fásta
+h| {Vowel}
+| na
+| {Table1H-vowel-col3}
+a| . ag na hiníonacha fásta
 . ar na hoileáin ghaofara
 . as na hirisí acadúla
 . chuig na hoifigigh dheasa
@@ -929,7 +961,6 @@ a! . ag na hiníonacha fásta
 . trí na haistriúcháin
 . um na hAchtanna
 
-!===
 |===
 
 === 1.6.3 {1-6-3-title}
@@ -937,33 +968,42 @@ a! . ag na hiníonacha fásta
 {1-6-3-p}
 
 .*{Table} 1I*  {Table1I-caption}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="3,3,3,4"]
 |===
-h| {MascAndFem}
+4+a|
+[.table-header]
+{MascAndFem}
 
-| [cols="3,3,3,4"]
-!===
-! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+a|
+[.sub-header]
+{ArticleTable-col1-th} 
+a|
+[.sub-header]
+{ArticleTable-col2-th} 
+a|
+[.sub-header]
+{ArticleTable-col3-th} 
+a|
+[.sub-header]
+{ArticleTable-col4-th}
 
-h! {Table1I-Row1Name}
-! na
-! {Eclipsis}
-a! . trasna na gcnoc íseal
+h| {Table1I-Row1Name}
+| na
+| {Eclipsis}
+a| . trasna na gcnoc íseal
 . leaca na bhfuinneog
 . i measc na ndaoine
 
-h! {Vowel}
-! na
-! {Eclipsis}
-a! . líon na n-áiteanna breátha
+h| {Vowel}
+| na
+| {Eclipsis}
+a| . líon na n-áiteanna breátha
 . costas na n-oibreacha
 . líon na nAlbanach
 
-!===
 |===
 
 {EclipsisNote}
@@ -985,73 +1025,76 @@ a! . líon na n-áiteanna breátha
 {1-7-3-p}
 
 .*{Table} 1J*  {Table1J-caption-start} -- {Table1J-header}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {Table1J-header}
+2+a|
+[.table-header]
+{Table1J-header}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a| 
+[.sub-header]
+{Masculine}
+a| 
+[.sub-header]
+{Feminine}
 
-! ag an fhear mhaith
-! ag an chuideachta bheag
+| ag an fhear mhaith
+| ag an chuideachta bheag
 
-! ar an bhosca dhearg
-! ar an bhean shaibhir
+| ar an bhosca dhearg
+| ar an bhean shaibhir
 
-! as an ghleann mhór
-! as an pháirc chéanna
+| as an ghleann mhór
+| as an pháirc chéanna
 
-! chuig an Choimisinéir choinsiasach
-! chuig an bhean ghairmiúil
+| chuig an Choimisinéir choinsiasach
+| chuig an bhean ghairmiúil
 
-! den chrann chaol
-! den bhean fhlaithiúil
+| den chrann chaol
+| den bhean fhlaithiúil
 
-! don fhear throm
-! don chuideachta ghnóthach
+| don fhear throm
+| don chuideachta ghnóthach
 
-! fairis an gharda bhéasach
-! fairis an bhean chairdiúil
+| fairis an gharda bhéasach
+| fairis an bhean chairdiúil
 
-! faoin fhógra phráinneach
-! faoin ghrian bhreá
+| faoin fhógra phráinneach
+| faoin ghrian bhreá
 
-! sa bhosca buí +
+| sa bhosca buí +
 sa fhraoch bán +
  +
 {Table1B-note} +
 san fhéar fliuch
 
-! sa chomhairle shóisialta +
+| sa chomhairle shóisialta +
 sa fhrithréabhlóid fhíochmhar +
  +
 {Table1B-note} +
 san fharraige ghlan
 
-! leis an fhasach chruinn
-! leis an bháisteach throm
+| leis an fhasach chruinn
+| leis an bháisteach throm
 
-! ón chaisleán fhuar
-! ón chathair mhór
+| ón chaisleán fhuar
+| ón chathair mhór
 
-! roimh an chruinniú thábhachtach
-! roimh an bhainis bheag
+| roimh an chruinniú thábhachtach
+| roimh an bhainis bheag
 
-! thar an chnoc bhán
-! thar an fharraige chiúin
+| thar an chnoc bhán
+| thar an fharraige chiúin
 
-! tríd an ghairdín bhreá
-! tríd an fhuinneog ghorm
+| tríd an ghairdín bhreá
+| tríd an fhuinneog ghorm
 
-! um an Bhille fhada
-! um an ghníomhaireacht reachtúi
+| um an Bhille fhada
+| um an ghníomhaireacht reachtúi
 
-!===
 |===
 
 === 1.7.4
@@ -1059,69 +1102,70 @@ san fharraige ghlan
 {1-7-4}
 
 .*{Table} 1K*  {Table1K-caption-start} -- {Table1K-header}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {Table1K-header}
+2+a| {Table1K-header}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
 
 // No way to have more than one row in header, so this is our workaround...
-2+a!
+2+a|
 [.sub-header]
 {Table1K-subheading}
 
-! ag an tSeapánach chliste
-! ag an tseanmháthair bhocht
+| ag an tSeapánach chliste
+| ag an tseanmháthair bhocht
 
-! ar an tsuíochán fhliuch
-! ar an tsráid ghlan
+| ar an tsuíochán fhliuch
+| ar an tsráid ghlan
 
-! as an tsailéad bhlasta
-! as an tsaoire bhliantúil
+| as an tsailéad bhlasta
+| as an tsaoire bhliantúil
 
-! chuig an tSeanadóir nuacheaptha
-! chuig an tsatailít mhór
+| chuig an tSeanadóir nuacheaptha
+| chuig an tsatailít mhór
 
-! den tsaighdiúir shásúil
-! den tslándáil shóisialach
+| den tsaighdiúir shásúil
+| den tslándáil shóisialach
 
-! don tSeanadóir nua
-! don tsaoirse cheart
+| don tSeanadóir nua
+| don tsaoirse cheart
 
-! fairis an tsaineolaí lách
-! fairis an tseanbhean shaibhir
+| fairis an tsaineolaí lách
+| fairis an tseanbhean shaibhir
 
-! faoin tsonrasc dhéanach
-! faoin tslí dhíreach
+| faoin tsonrasc dhéanach
+| faoin tslí dhíreach
 
-! sa tsoitheach ghorm
-! sa tseacláid mhilis
+| sa tsoitheach ghorm
+| sa tseacláid mhilis
 
-! leis an tsalann bhán
-! leis an tslat fhada
+| leis an tsalann bhán
+| leis an tslat fhada
 
-! ón tsuirbhé phearsanta
-! ón scoil bheag
+| ón tsuirbhé phearsanta
+| ón scoil bheag
 
-! roimh an tsamhradh fhada
-! roimh an tseachtain mhór
+| roimh an tsamhradh fhada
+| roimh an tseachtain mhór
 
-! thar an tseol mhór
-! thar an tSionainn fhada
+| thar an tseol mhór
+| thar an tSionainn fhada
 
-! tríd an tsorcas mhór
-! tríd an tseift chliste
+| tríd an tsorcas mhór
+| tríd an tseift chliste
 
-! um an tsainchomhairleoir chruinn
-! um an tseirbhís mhait
+| um an tsainchomhairleoir chruinn
+| um an tseirbhís mhait
 
-!===
 |===
 
 === 1.7.5
@@ -1129,40 +1173,43 @@ h| {Table1K-header}
 {1-7-5}
 
 .*{Table} 1L*  {Table1L-caption-start} -- {Table1L-header}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {Table1L-header}
+2+a|
+[.table-header]
+{Table1L-header}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
 
-! ag an Albanach chiallmhar
-! ag an aeráid ghaofar
+| ag an Albanach chiallmhar
+| ag an aeráid ghaofar
 
-! ar an eitleán dhubh
-! ar an olann bhán
+| ar an eitleán dhubh
+| ar an olann bhán
 
-! as an uisce ghlan
-! as an iris cháiliúil
+| as an uisce ghlan
+| as an iris cháiliúil
 
-! chuig an Aire ilteangach
-! chuig an Ostair shléibhtiúil
+| chuig an Aire ilteangach
+| chuig an Ostair shléibhtiúil
 
-! den alt fhada
-! den uimhir chruinn
+| den alt fhada
+| den uimhir chruinn
 
-! don údarás chéanna
-! don obair chrua
+| don údarás chéanna
+| don obair chrua
 
-! fairis an oifigeach mhúinte
-! fairis an ógbhean chliste
+| fairis an oifigeach mhúinte
+| fairis an ógbhean chliste
 
-!===
 |===
 
 === 1.7.6
@@ -1170,41 +1217,42 @@ h| {Table1L-header}
 {1-7-6}
 
 .*{Table} 1M*  {Table1M-caption-start} -- {Table1M-header}
-[.table-stack]
 [.chapter-1]
 [%autowidth]
 [%noheader]
-[cols="2a"]
+[cols="1,1"]
 |===
-h| {Table1M-header}
+2+a| {Table1M-header}
 
-| [cols="1,1"]
-!===
-! {Masculine} ! {Feminine}
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
 
-! faoin dréimire bhriste
-! faoin deacracht bhreise
+| faoin dréimire bhriste
+| faoin deacracht bhreise
 
-! sa teas mhór
-! sa deoch fhuar
+| sa teas mhór
+| sa deoch fhuar
 
-! leis an duine chiúin
-! leis an taithí mhaith
+| leis an duine chiúin
+| leis an taithí mhaith
 
-! ón deartháir chineálta
-! ón teanga líofa
+| ón deartháir chineálta
+| ón teanga líofa
 
-! roimh an tarbh fhiáin
-! roimh an deighilt mhór
+| roimh an tarbh fhiáin
+| roimh an deighilt mhór
 
-! thar an teach ghorm
-! thar an diallait nua
+| thar an teach ghorm
+| thar an diallait nua
 
-! tríd an talamh chrua
-! tríd an drochaimsir ghránna
+| tríd an talamh chrua
+| tríd an drochaimsir ghránna
 
-! um an dlí choiriúil
-! um an tagairt chuí
+| um an dlí choiriúil
+| um an tagairt chuí
 
-!===
 |===

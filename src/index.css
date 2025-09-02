@@ -24,7 +24,7 @@
   }
 
   hr {
-    @apply my-5 border-2 border-gray-500
+    @apply my-5 border-2 border-gray-500;
   }
 
   th,
@@ -34,10 +34,6 @@
 
   td {
     @apply bg-gray-200;
-  }
-
-  th {
-    @apply font-bold;
   }
 
   ol,
@@ -61,15 +57,38 @@
     @apply font-bold text-center;
   }
 
-  .chapter-1.table-stack >tbody > tr:nth-child(odd) th {
+  /* Chapter 1 */
+
+  .chapter-1.table-stack > tbody > tr:nth-child(odd) th,
+  .chapter-1 .table-header {
     @apply bg-blue-950 text-white text-2xl py-1;
   }
 
-  .chapter-1.table-stack table thead th {
+  .chapter-1.table-stack table thead th,
+  .chapter-1 .sub-header {
     @apply bg-cyan-900 text-white py-1;
   }
 
   .chapter-1.table-stack table tbody th {
+    @apply bg-gray-300 py-1;
+  }
+
+  .chapter-1 thead tr:first-child th {
+    @apply bg-blue-950 text-white;
+  }
+
+  /* Chapter 2 */
+
+  .chapter-2.table-stack > tbody > tr:nth-child(odd) th {
+    @apply bg-orange-500 text-white text-2xl py-1;
+  }
+
+  .chapter-2.table-stack table thead th,
+  .chapter-2 .sub-header {
+    @apply bg-cyan-900 text-white py-1;
+  }
+
+  .chapter-2.table-stack table tbody th {
     @apply bg-gray-300 py-1;
   }
 
