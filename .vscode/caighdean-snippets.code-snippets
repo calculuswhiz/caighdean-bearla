@@ -25,5 +25,14 @@
 			"$1",
 			"|==="
 		]
+	},
+	"tlPair": {
+		"scope": "asciidoc",
+		"prefix": "tlPair",
+		"body": [
+			":$1_ga: $2",
+			":$1_en: [TODO] $2",
+			"$0"
+		]
 	}
 }

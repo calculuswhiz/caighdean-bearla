@@ -1,0 +1,32 @@
+:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGUS FOIRM AN AINMNIGH IN IONAD AN GHINIDIGH
+:chapterTitle_en: DEFINITE AND INDEFINITE NOUNS, ABBREVIATIONS AND THE FORM OF THE NOMINATIVE IN THE PLACE OF THE GENITIVE
+
+:3-1-title_ga: Ainmfhocail Chinnte agus Éiginnte
+:3-1-title_en: Definite and Indefinite Nouns
+
+:3-1-1-p_ga: Bíonn ainmfhocal cinnte nó éiginnte. Is ainmfhocal cinnte ainmfhocal a thagraíonn do dhuine nó do rud cinnte. Is ar cheann de na slite a léirítear in 3.1.2 thíos a dhéantar tagairt do dhuine nó do rud cinnte. Is ainmfhocal éiginnte ainmfhocal in aon chás eile.
+:3-1-1-p_en: [TODO]
+
+:3-1-2-p_ga: Is ainmfhocal cinnte--
+:3-1-2-p_en: [TODO]
+
+:3-1-2-a_ga: ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán, Gráinne, Leamhcán_:
+:3-1-2-a_en: [TODO]
+
+:3-1-2-b_ga: ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
+:3-1-2-b_en: [TODO] ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
+
+:3-1-2-c_ga: ainmfhocal a bhfuil aidiacht shealbhach roimhe, e.g., _mo mhac, a hathair, a ngluaisteán_:
+:3-1-2-c_en: [TODO] ainmfhocal a bhfuil aidiacht shealbhach roimhe, e.g., _mo mhac, a hathair, a ngluaisteán_:
+
+:3-1-2-d_ga: ainmfhocal a bhfuil `gach, gach aon` nó `gach uile` roimhe:
+:3-1-2-d_en: [TODO] ainmfhocal a bhfuil `gach, gach aon` nó `gach uile` roimhe:
+
+:3-1-2-e_ga: ainmfhocal a bhfuil uimhir nó litir ar a lorg, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
+:3-1-2-e_en: [TODO] ainmfhocal a bhfuil uimhir nó litir ar a lorg, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
+
+:3-1-2-f_ga: ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
+:3-1-2-f_en: [TODO] ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
+
+:3-1-2-g_ga: ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
+:3-1-2-g_en: [TODO] ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
