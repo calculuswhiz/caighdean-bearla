@@ -5,13 +5,13 @@
 :3-1-title_en: Definite and Indefinite Nouns
 
 :3-1-1-p_ga: Bíonn ainmfhocal cinnte nó éiginnte. Is ainmfhocal cinnte ainmfhocal a thagraíonn do dhuine nó do rud cinnte. Is ar cheann de na slite a léirítear in 3.1.2 thíos a dhéantar tagairt do dhuine nó do rud cinnte. Is ainmfhocal éiginnte ainmfhocal in aon chás eile.
-:3-1-1-p_en: [TODO]
+:3-1-1-p_en: [TODO] Bíonn ainmfhocal cinnte nó éiginnte. Is ainmfhocal cinnte ainmfhocal a thagraíonn do dhuine nó do rud cinnte. Is ar cheann de na slite a léirítear in 3.1.2 thíos a dhéantar tagairt do dhuine nó do rud cinnte. Is ainmfhocal éiginnte ainmfhocal in aon chás eile.
 
-:3-1-2-p_ga: Is ainmfhocal cinnte--
-:3-1-2-p_en: [TODO]
+:3-1-2-p_ga: Is ainmfhocal cinnte --
+:3-1-2-p_en: [TODO] Is ainmfhocal cinnte --
 
 :3-1-2-a_ga: ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán, Gráinne, Leamhcán_:
-:3-1-2-a_en: [TODO]
+:3-1-2-a_en: [TODO] ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán, Gráinne, Leamhcán_:
 
 :3-1-2-b_ga: ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
 :3-1-2-b_en: [TODO] ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
@@ -30,3 +30,470 @@
 
 :3-1-2-g_ga: ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
 :3-1-2-g_en: [TODO] ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
+
+:3-1-3-p1_ga: Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
+:3-1-3-p1_en: [TODO] Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
+
+:3-1-3-p2_ga: Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
+:3-1-3-p2_en: [TODO] Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
+
+:3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (féach 1.1.5(i)A).
+:3-1-4-p1_en: [TODO] Úsáidtear an t-alt roimh ghinideach _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (féach 1.1.5(i)A).
+
+:3-1-4-p2_ga: Fágtar an t-alt ar lár roimh _Éireann_ i roinnt leaganacha oifigiúla, áfach, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, agus i roinnt seanleaganacha agus leaganacha fileata, e.g., _plúr ban Éireann, bánchnoic Éireann_.
+:3-1-4-p2_en: [TODO] Fágtar an t-alt ar lár roimh _Éireann_ i roinnt leaganacha oifigiúla, áfach, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, agus i roinnt seanleaganacha agus leaganacha fileata, e.g., _plúr ban Éireann, bánchnoic Éireann_.
+
+:3-1-5-p_ga: Is féidir an t-alt a úsáid le hainmneacha trádála nuair atá feidhm aidiachtach acu, e.g.,_an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
+:3-1-5-p_en: [TODO] Is féidir an t-alt a úsáid le hainmneacha trádála nuair atá feidhm aidiachtach acu, e.g.,_an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
+
+:3-1-6-p1_ga: Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
+:3-1-6-p1_en: [TODO] Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
+
+:3-1-6-p2_ga: Cuirtear an t-alt roimh an gcéad ainmfhocal má tá sé cáilithe le hainmfhocal éiginnte, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (cineál áirithe tiománaí); _an freastalaí beáir, an freastalaí bialainne_ (cineál áirithe freastalaí); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (cineál áirithe oifigigh) (féach 3.1.9).
+:3-1-6-p2_en: [TODO] Cuirtear an t-alt roimh an gcéad ainmfhocal má tá sé cáilithe le hainmfhocal éiginnte, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (cineál áirithe tiománaí); _an freastalaí beáir, an freastalaí bialainne_ (cineál áirithe freastalaí); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (cineál áirithe oifigigh) (féach 3.1.9).
+
+:3-1-7-p1_ga: Tá roinnt frásaí ainmfhoclacha ann a bhfuil ainmfhocal iontu a bheadh cinnte de réir 3.1.2 ach atá éiginnte toisc go bhfuil an frása iomlán á úsáid ina aonad amháin brí mar ainmfhocal éiginnte. Uaireanta, sna cásanna sin, úsáidtear an t-alt nuair atá an frása iomlán ag feidhmiú mar ainmfhocal cinnte, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
+:3-1-7-p1_en: [TODO] Tá roinnt frásaí ainmfhoclacha ann a bhfuil ainmfhocal iontu a bheadh cinnte de réir 3.1.2 ach atá éiginnte toisc go bhfuil an frása iomlán á úsáid ina aonad amháin brí mar ainmfhocal éiginnte. Uaireanta, sna cásanna sin, úsáidtear an t-alt nuair atá an frása iomlán ag feidhmiú mar ainmfhocal cinnte, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
+
+:3-1-7-p2_ga: Tabhair faoi deara go gcoinnítear an t-alt freisin i gcás go dtagann uimhir nó litir i ndiaidh ainmfhocal atá á cháiliú le forainmneach taispeántach, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
+:3-1-7-p2_en: [TODO] Tabhair faoi deara go gcoinnítear an t-alt freisin i gcás go dtagann uimhir nó litir i ndiaidh ainmfhocal atá á cháiliú le forainmneach taispeántach, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
+
+:3-1-8-p_ga: Maidir le teidil a mbíonn blianta ag gabháil leo -- teidil féilte agus tuarascálacha bliantúla, mar shampla -- níor cheart an t-alt a úsáid ach amháin más aonaid bhrí ar leithligh iad an dáta agus an chuid eile den teideal. Ní hionann brí _An tOireachtas_, _2010_ agus _Oireachtas 2010_ ná _An Tuarascáil Bhliantúil_, _2009_ agus _Tuarascáil Bhliantúil 2009_.
+:3-1-8-p_en: [TODO] Maidir le teidil a mbíonn blianta ag gabháil leo -- teidil féilte agus tuarascálacha bliantúla, mar shampla -- níor cheart an t-alt a úsáid ach amháin más aonaid bhrí ar leithligh iad an dáta agus an chuid eile den teideal. Ní hionann brí _An tOireachtas_, _2010_ agus _Oireachtas 2010_ ná _An Tuarascáil Bhliantúil_, _2009_ agus _Tuarascáil Bhliantúil 2009_.
+
+:3-1-9-p_ga: Úsáidtear an tuiseal ginideach sna cásanna seo a leanas (féach na cásanna eile in 1.5.1)--
+:3-1-9-p_en: [TODO] Úsáidtear an tuiseal ginideach sna cásanna seo a leanas (féach na cásanna eile in 1.5.1)--
+
+:3-1-9-a-p_ga: nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal cinnte eile:
+:3-1-9-a-p_en: [TODO] nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal cinnte eile:
+
+:3-1-9-b-p_ga: nuair atá ainmfhocal éiginnte á cháiliú le hainmfhocal éiginnte eile:
+:3-1-9-b-p_en: [TODO] nuair atá ainmfhocal éiginnte á cháiliú le hainmfhocal éiginnte eile:
+
+:3-1-9-c-p_ga: nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal éiginnte:
+:3-1-9-c-p_en: [TODO] nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal éiginnte:
+
+:3-1-10-p_ga: A thúisce a cháilítear ainmfhocal éiginnte le hainmfhocal cinnte, ní ainmfhocal éiginnte é a thuilleadh ach ainmfhocal cinnte. Dá réir sin, más brí éiginnte atá i gceist, ní foláir fochlásal réamhfhoclach nó réamhfhocal a úsáid chun an nasc idir na hainmfhocail a léiriú.
+:3-1-10-p_en: [TODO] A thúisce a cháilítear ainmfhocal éiginnte le hainmfhocal cinnte, ní ainmfhocal éiginnte é a thuilleadh ach ainmfhocal cinnte. Dá réir sin, más brí éiginnte atá i gceist, ní foláir fochlásal réamhfhoclach nó réamhfhocal a úsáid chun an nasc idir na hainmfhocail a léiriú.
+
+:3-1-10-a-p_ga: Úsáidtear _de_ más cuid nó páirt atá i gceist, e.g., _Ballstát den Aontas Eorpach_; _gloine den bheoir gheal_:
+:3-1-10-a-p_en: [TODO] Úsáidtear _de_ más cuid nó páirt atá i gceist, e.g., _Ballstát den Aontas Eorpach_; _gloine den bheoir gheal_:
+
+:3-1-10-b-p_ga: Úsáidtear _de chuid_ i gcás gur ní as measc grúpa de nithe iomadúla den saghas céanna atá i gceist, e.g., _iománaí de chuid na Gaillimhe_; _feidhmeanna áirithe de chuid an choiste_:
+:3-1-10-b-p_en: [TODO] Úsáidtear _de chuid_ i gcás gur ní as measc grúpa de nithe iomadúla den saghas céanna atá i gceist, e.g., _iománaí de chuid na Gaillimhe_; _feidhmeanna áirithe de chuid an choiste_:
+
+:3-1-10-c-p_ga: Úsáidtear réamhfhocal eile (_le_, etc.) i gcásanna eile chun éiginnteacht a chur in iúl, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
+:3-1-10-c-p_en: [TODO] Úsáidtear réamhfhocal eile (_le_, etc.) i gcásanna eile chun éiginnteacht a chur in iúl, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
+
+:3-1-11-p_ga: Is minic i gcás 3.1.10(b) thuas, áfach, gur feiliúnaí ceann de na focail ionadacha _ceann_, _cuid_ nó _duine_ a chur in ionad an chéad ainmfhocail, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. Is féidir, freisin, an t-ainmfhocal a úsáid faoi dhó, e.g., _dán de dhánta Uí Bhruadair_.
+:3-1-11-p_en: [TODO] Is minic i gcás 3.1.10(b) thuas, áfach, gur feiliúnaí ceann de na focail ionadacha _ceann_, _cuid_ nó _duine_ a chur in ionad an chéad ainmfhocail, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. Is féidir, freisin, an t-ainmfhocal a úsáid faoi dhó, e.g., _dán de dhánta Uí Bhruadair_.
+
+:3-1-11-note_ga: Úsáidtear na struchtúir chéanna uaireanta i gcás ainmfhocail chinnte, e.g., _an ghloine dheireanach den fhíon dearg_; _an chuid is fearr den leabhar_.
+:3-1-11-note_en: [TODO] Úsáidtear na struchtúir chéanna uaireanta i gcás ainmfhocail chinnte, e.g., _an ghloine dheireanach den fhíon dearg_; _an chuid is fearr den leabhar_.
+
+:3-2-title_ga: Giorrúcháin agus Acrainmneacha
+:3-2-title_en: Abbreviations and Acronyms
+
+:3-2-1-title_ga: Ginearálta
+:3-2-1-title_en: General
+
+:3-2-1-a-p_ga: Ní dhéantar infhilleadh ná athrú tosaigh ar ghiorrúchán nó ar acrainm riamh. (_SAM -- Stáit Aontaithe Mheiriceá_; _OÉ -- Ollscoil na hÉireann_.)
+:3-2-1-a-p_en: [TODO] Ní dhéantar infhilleadh ná athrú tosaigh ar ghiorrúchán nó ar acrainm riamh. (_SAM -- Stáit Aontaithe Mheiriceá_; _OÉ -- Ollscoil na hÉireann_.)
+
+:3-2-1-b-p_ga: Is é _in_ (seachas _i_) an fhoirm den réamhfhocal _i_ a úsáidtear roimh ghiorrúchán nó acrainm. (RTÉ -- Raidió Teilifís Éireann; CSE -- Ciste Sóisialta na hEorpa.)
+:3-2-1-b-p_en: [TODO] Is é _in_ (seachas _i_) an fhoirm den réamhfhocal _i_ a úsáidtear roimh ghiorrúchán nó acrainm. (RTÉ -- Raidió Teilifís Éireann; CSE -- Ciste Sóisialta na hEorpa.)
+
+:3-2-1-c-p1_ga: Ní chiorraítear na réamhfhocail _de_ agus _do_ go _d'_ roimh ghiorrúchán nó acrainm a thosaíonn ar ghuta. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
+:3-2-1-c-p1_en: [TODO] Ní chiorraítear na réamhfhocail _de_ agus _do_ go _d'_ roimh ghiorrúchán nó acrainm a thosaíonn ar ghuta. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
+
+:3-2-1-c-p2_ga: Tabhair faoi deara go mbíonn sé de rogha ag an scríbhneoir na focail ar a bhfuil an giorrúchán nó an t-acrainm bunaithe a scríobh amach i gcónaí.
+:3-2-1-c-p2_en: [TODO] Tabhair faoi deara go mbíonn sé de rogha ag an scríbhneoir na focail ar a bhfuil an giorrúchán nó an t-acrainm bunaithe a scríobh amach i gcónaí.
+
+:3-2-2-title_ga: Nithe Aonaracha
+:3-2-2-title_en: [TODO] Nithe Aonaracha
+
+:3-2-2-p_ga: Tá dhá chóras is féidir a úsáid chun plé le giorrúcháin agus le hacrainmneacha ar teidil iad ar eagraíochtaí, foilseacháin, conarthaí, comhaontuithe, scéimeanna, córais nó nithe eile dá samhail nach ann ach do cheann amháin acu -- an córas gan an t-alt agus an córas leis an alt. Cé is moite de théacsanna reachtúla ina n-úsáidtear an córas gan an t-alt i gcónaí, is faoin scríbhneoir atá sé an córas a úsáidfear a roghnú. Moltar gan an dá chóras a mheascadh.
+:3-2-2-p_en: [TODO] Tá dhá chóras is féidir a úsáid chun plé le giorrúcháin agus le hacrainmneacha ar teidil iad ar eagraíochtaí, foilseacháin, conarthaí, comhaontuithe, scéimeanna, córais nó nithe eile dá samhail nach ann ach do cheann amháin acu -- an córas gan an t-alt agus an córas leis an alt. Cé is moite de théacsanna reachtúla ina n-úsáidtear an córas gan an t-alt i gcónaí, is faoin scríbhneoir atá sé an córas a úsáidfear a roghnú. Moltar gan an dá chóras a mheascadh.
+
+:3-2-2-A-title_ga: Nithe aonaracha -- an córas gan an t-alt
+:3-2-2-A-title_en: [TODO] Nithe aonaracha -- an córas gan an t-alt
+
+:3-2-2-A-a-p_ga: Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+:3-2-2-A-a-p_en: [TODO] Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+
+:3-2-2-A-b-p_ga: Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
+:3-2-2-A-b-p_en: [TODO] Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
+
+:3-2-2-B-title_ga: Nithe aonaracha -- an córas leis an alt
+:3-2-2-B-title_en: [TODO] Nithe aonaracha -- an córas leis an alt
+
+:3-2-2-B-p_ga: Sa chóras leis an alt, úsáidtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha de réir mar is cuí. Bíonn úsáid an ailt faoi réir ag struchtúr na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, mar seo a leanas --
+:3-2-2-B-p_en: [TODO] Sa chóras leis an alt, úsáidtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha de réir mar is cuí. Bíonn úsáid an ailt faoi réir ag struchtúr na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, mar seo a leanas --
+
+:3-2-2-B-a-p_ga: ní chuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail chinnte nach gcuirtear an t-alt leo, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, nó má tá an t-alt i lár na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
+:3-2-2-B-a-p_en: [TODO] ní chuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail chinnte nach gcuirtear an t-alt leo, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, nó má tá an t-alt i lár na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
+
+:3-2-2-B-b-p_ga: cuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail a gcuirtear an t-alt rompu chun iad a dhéanamh cinnte. Úsáidtear foirm uatha nó iolra an ailt ag brath ar uimhir na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe:
+:3-2-2-B-b-p_en: [TODO] cuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail a gcuirtear an t-alt rompu chun iad a dhéanamh cinnte. Úsáidtear foirm uatha nó iolra an ailt ag brath ar uimhir na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe:
+
+:3-2-2-B-c-p_ga: is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar (_an IEA -- an Ionstraim Eorpach Aonair_.)
+:3-2-2-B-c-p_en: [TODO] is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar (_an IEA -- an Ionstraim Eorpach Aonair_.)
+
+:3-2-3-title_ga: Nithe Iomadúla
+:3-2-3-title_en: [TODO] Nithe Iomadúla
+
+:3-2-3-a-p_ga: Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
+:3-2-3-a-p_en: [TODO] Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
+
+:3-2-3-b-p_ga: Is féidir an t-alt a úsáid le hainmfhocal atá á cháiliú le giorrúchán nó le hacrainm a bhfuil feidhm aidiachtach leis ar mhaithe le rud sonrach as measc nithe iomadúla a aithint. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
+:3-2-3-b-p_en: [TODO] Is féidir an t-alt a úsáid le hainmfhocal atá á cháiliú le giorrúchán nó le hacrainm a bhfuil feidhm aidiachtach leis ar mhaithe le rud sonrach as measc nithe iomadúla a aithint. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
+
+:3-2-3-c-p_ga: Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
+:3-2-3-c-p_en: [TODO] Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
+
+:3-3-title_ga: Foirm an Ainmnigh in ionad an Ghinidigh
+:3-3-title_en: The Form of the Nominative in Place of the Genitive
+
+:3-3-1-title_ga: An tAinmfhocal Cinnte
+:3-3-1-title_en: The Definite Nouns
+
+:3-3-1-a-p1_ga: Má thagann ainmfhocal cinnte sa ghinideach i ndiaidh ainmfhocal eile, is gnách an t-ainmfhocal eile sin a fhágáil gan infhilleadh agus a thúschonsan a shéimhiú nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é (féach freisin 10.2.6). Fágtar ainmfhocal a bhfuil uimhir nó litir ar a lorg gan infhilleadh agus séimhítear a thúschonsan freisin --
+:3-3-1-a-p1_en: [TODO] Má thagann ainmfhocal cinnte sa ghinideach i ndiaidh ainmfhocal eile, is gnách an t-ainmfhocal eile sin a fhágáil gan infhilleadh agus a thúschonsan a shéimhiú nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é (féach freisin 10.2.6). Fágtar ainmfhocal a bhfuil uimhir nó litir ar a lorg gan infhilleadh agus séimhítear a thúschonsan freisin --
+
+:3-3-1-a-i-p_ga: ainm dílis (ainm duine nó áite áirithe):
+:3-3-1-a-i-p_en: [TODO] ainm dílis (ainm duine nó áite áirithe):
+
+:3-3-1-a-ii-p_ga: ainmfhocal a bhfuil an t-alt roimhe:
+:3-3-1-a-ii-p_en: [TODO] ainmfhocal a bhfuil an t-alt roimhe:
+
+:3-3-1-a-iii-p_ga: ainmfhocal a bhfuil aidiacht shealbhach roimhe:
+:3-3-1-a-iii-p_en: [TODO] ainmfhocal a bhfuil aidiacht shealbhach roimhe:
+
+:3-3-1-a-iv-p_ga: ainmfhocal a bhfuil _gach_, _gach aon_, nó _gach uile_ roimhe:
+:3-3-1-a-iv-p_en: [TODO] ainmfhocal a bhfuil _gach_, _gach aon_, nó _gach uile_ roimhe:
+
+:3-3-1-a-v-p_ga: ainmfhocal a bhfuil uimhir nó litir ar a lorg:
+:3-3-1-a-v-p_en: [TODO] ainmfhocal a bhfuil uimhir nó litir ar a lorg:
+
+:3-3-1-a-vi-p_ga: ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg:
+:3-3-1-a-vi-p_en: [TODO] ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg:
+
+:3-3-1-a-p2_ga: *Ach*, más ainm briathartha an t-ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, déantar athrú an ghinidigh air má thagann ainmfhocal eile roimhe, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
+:3-3-1-a-p2_en: [TODO] *Ach*, más ainm briathartha an t-ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, déantar athrú an ghinidigh air má thagann ainmfhocal eile roimhe, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
+
+:3-3-1-b-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é:
+:3-3-1-b-p_en: [TODO] I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é:
+
+:3-3-1-b-i-p_ga: má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. . Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach 3.3.3(c)):
+:3-3-1-b-i-p_en: [TODO] má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. . Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach 3.3.3(c)):
+
+:3-3-1-b-ii-p_ga: má tá aidiacht shealbhach roimh an ainm briathartha, déantar a thúschonsan a shéimhiú nó a urú, de réir mar is cuí, ach fágtar é gan infhilleadh, e.g., _i bhfianaise mo chur chuige_; _luas ár ndul chun cinn_; _ag moladh a gcur chuige_ (iol.):
+:3-3-1-b-ii-p_en: [TODO] má tá aidiacht shealbhach roimh an ainm briathartha, déantar a thúschonsan a shéimhiú nó a urú, de réir mar is cuí, ach fágtar é gan infhilleadh, e.g., _i bhfianaise mo chur chuige_; _luas ár ndul chun cinn_; _ag moladh a gcur chuige_ (iol.):
+
+:3-3-2-title_ga: Ainmfhocal Cinnte nó Éiginnte
+:3-3-2-title_en: [TODO] Ainmfhocal Cinnte nó Éiginnte
+
+:3-3-2-a-p_ga: Nuair atá ainmfhocal nó abairtín ainmfhoclach á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha, fágtar an t-ainmfhocal san ainmneach ar lorg focal nó leagan a leanann an ginideach é.
+:3-3-2-a-p_en: [TODO] Nuair atá ainmfhocal nó abairtín ainmfhoclach á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha, fágtar an t-ainmfhocal san ainmneach ar lorg focal nó leagan a leanann an ginideach é.
+
+:Table-3A-Col1Title_ga: An Ginideach
+:Table-3A-Col1Title_en: The Genitive
+
+:Table-3A-Col2Title_ga: Foirm an Ainmnigh in ionad an Ghinidigh
+:Table-3A-Col2Title_en: Form of the Nominative in Place of the Genitive
+
+:Table-3A-caption-part_ga: Ainmfhocal nó Abairtín Cinnte nó Éiginnte á cheangal ag an Réamhfhocal a le hAinm Briathartha
+:Table-3A-caption-part_en: [TODO] Ainmfhocal nó Abairtín Cinnte nó Éiginnte á cheangal ag an Réamhfhocal a le hAinm Briathartha
+
+:3-3-2-b-p1_ga: Ní dhéantar athrú an ghinidigh ar na focail _ceann_ agus _cuid_ nuair atá ginideach rannaíoch nó tabharthach rannaíoch faoina réir.
+:3-3-2-b-p1_en: [TODO] Ní dhéantar athrú an ghinidigh ar na focail _ceann_ agus _cuid_ nuair atá ginideach rannaíoch nó tabharthach rannaíoch faoina réir.
+
+:3-3-2-b-p2_ga: *Ach*, infhilltear iad nuair is gnáth-ainmfhocail iad.
+:3-3-2-b-p2_en: [TODO] *Ach*, infhilltear iad nuair is gnáth-ainmfhocail iad.
+
+:3-3-2-c-p1_ga: Nuair a úsáidtear aon ainmfhocal coiteann amháin gan an t-alt leis mar ainm comhlachta, cumainn nó cláir, ní dhéantar infhilleadh ná athrú tosaigh ar an ainmfhocal, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
+:3-3-2-c-p1_en: [TODO] Nuair a úsáidtear aon ainmfhocal coiteann amháin gan an t-alt leis mar ainm comhlachta, cumainn nó cláir, ní dhéantar infhilleadh ná athrú tosaigh ar an ainmfhocal, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
+
+:3-3-3-title_ga: An tAinmfhocal Éiginnte -- An tAinm Briathartha
+:3-3-3-title_en: [TODO] An tAinmfhocal Éiginnte -- An tAinm Briathartha
+
+:3-3-3-p_ga: Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. . Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
+:3-3-3-p_en: [TODO] Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. . Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
+
+:3-3-3-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainm briathartha nuair atá an forainmneach réamhthagrach _a_ roimhe.
+:3-3-3-a-p_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainm briathartha nuair atá an forainmneach réamhthagrach _a_ roimhe.
+
+:3-3-3-b-p1_ga: Má tá ainm briathartha sa struchtúr _chun_ + _ainm briathartha_ á úsáid chun gníomh atá le teacht a chur in iúl, ní dhéantar athrú an ghinidigh air.
+:3-3-3-b-p1_en: [TODO] Má tá ainm briathartha sa struchtúr _chun_ + _ainm briathartha_ á úsáid chun gníomh atá le teacht a chur in iúl, ní dhéantar athrú an ghinidigh air.
+
+:3-3-3-b-p2_ga: *Ach*, más í an bhrí _le haghaidh_ atá ag _chun_, úsáidtear an ginideach.
+:3-3-3-b-p2_en: [TODO] *Ach*, más í an bhrí _le haghaidh_ atá ag _chun_, úsáidtear an ginideach.
+
+:3-3-3-c-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é, má tá sé éiginnte fágtar an t-ainm briathartha gan infhilleadh agus ní dhéantar a thúschonsan a shéimhiú, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (féach 3.3.1(b)):
+:3-3-3-c-p_en: [TODO] I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é, má tá sé éiginnte fágtar an t-ainm briathartha gan infhilleadh agus ní dhéantar a thúschonsan a shéimhiú, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (féach 3.3.1(b)):
+
+:3-3-4-title_ga: An tAinmfhocal Éiginnte -- Ainmfhocail Éiginnte a úsáidtear mar Ainmneacha Briathartha
+:3-3-4-title_en: [TODO] An tAinmfhocal Éiginnte -- Ainmfhocail Éiginnte a úsáidtear mar Ainmneacha Briathartha
+
+:3-3-4-a-p1_ga: Má tá gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, ní dhéantar athrú an ghinidigh air nuair a úsáidtear mar ainm briathartha é.
+:3-3-4-a-p1_en: [TODO] Má tá gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, ní dhéantar athrú an ghinidigh air nuair a úsáidtear mar ainm briathartha é.
+
+:3-3-4-a-p2_ga: *Ach*, déantar athrú an ghinidigh ar an ainmfhocal nuair a úsáidtear mar ainmfhocal éiginnte é.
+:3-3-4-a-p2_en: [TODO] *Ach*, déantar athrú an ghinidigh ar an ainmfhocal nuair a úsáidtear mar ainmfhocal éiginnte é.
+
+:3-3-4-b-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
+:3-3-4-b-p1_en: [TODO] Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
+
+:3-3-4-b-p2_ga: *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
+:3-3-4-b-p2_en: [TODO] *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
+
+:3-3-4-c-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé faoi réir ag réamhfhocal comhshuite nó i ndiaidh _chun_, ní dhéantar athrú an ghinidigh air.
+:3-3-4-c-p1_en: [TODO] Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé faoi réir ag réamhfhocal comhshuite nó i ndiaidh _chun_, ní dhéantar athrú an ghinidigh air.
+
+:3-3-4-c-p2_ga: *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
+:3-3-4-c-p2_en: [TODO] *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
+
+:3-3-5-title_ga: An tAinmfhocal Éiginnte -- Clásail Ainm Bhriathartha nach Abairtí Neamhspleácha
+:3-3-5-title_en: [TODO] An tAinmfhocal Éiginnte -- Clásail Ainm Bhriathartha nach Abairtí Neamhspleácha
+
+:3-3-5-p1_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte i gclásal ina bhfuil an t-ainmfhocal éiginnte faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe más rud é nach féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach a bheith ina dhiaidh. Na focail a bhfuil cló trom orthu anseo thíos, ní féidir leo feidhmiú go neamhspleách astu féin.
+:3-3-5-p1_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte i gclásal ina bhfuil an t-ainmfhocal éiginnte faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe más rud é nach féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach a bheith ina dhiaidh. Na focail a bhfuil cló trom orthu anseo thíos, ní féidir leo feidhmiú go neamhspleách astu féin.
+
+:3-3-5-p2_ga: *Ach*, d'ainneoin sin, más rud é gur dlúthchuid den chlásal ainm bhriathartha an t-ainmfhocal éiginnte agus gur féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sin. Na focail a bhfuil cló trom orthu anseo thíos, is féidir leo feidhmiú go neamhspleách astu féin agus déantar athrú an ghinidigh ar an ainmfhocal éiginnte dá réir sin.
+:3-3-5-p2_en: [TODO] *Ach*, d'ainneoin sin, más rud é gur dlúthchuid den chlásal ainm bhriathartha an t-ainmfhocal éiginnte agus gur féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sin. Na focail a bhfuil cló trom orthu anseo thíos, is féidir leo feidhmiú go neamhspleách astu féin agus déantar athrú an ghinidigh ar an ainmfhocal éiginnte dá réir sin.
+
+:3-3-6-title_ga: An tAinmfhocal Éiginnte -- Téarmaí ar Leith
+:3-3-6-title_en: [TODO] An tAinmfhocal Éiginnte -- Téarmaí ar Leith
+
+:3-3-6-a-p_ga: Má tá frásaí ilfhoclacha áirithe a bhfuil brí ar leith leo, e.g., _bolg le gréin_; _buail isteach_; _buaileam sciath_; _cos ar bolg_; _cúl le rath_; _uisce faoi thalamh_; etc. faoi réir ag focal nó ag leagan a leanann an ginideach é, ní infhilltear an chéad ainmfhocal sa fhrása ilfhoclach ná ní chuirtear séimhiú air.
+:3-3-6-a-p_en: [TODO] Má tá frásaí ilfhoclacha áirithe a bhfuil brí ar leith leo, e.g., _bolg le gréin_; _buail isteach_; _buaileam sciath_; _cos ar bolg_; _cúl le rath_; _uisce faoi thalamh_; etc. faoi réir ag focal nó ag leagan a leanann an ginideach é, ní infhilltear an chéad ainmfhocal sa fhrása ilfhoclach ná ní chuirtear séimhiú air.
+
+:3-3-6-b-p_ga: I gcás aonad dhá ainmfhocal éiginnte arb é _tús_, _lár_ nó _deiradh_ (san uatha) an chéad ainmfhocal den aonad sin, fágtar an chéad ainmfhocal sa tuiseal ainmneach nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é.
+:3-3-6-b-p_en: [TODO] I gcás aonad dhá ainmfhocal éiginnte arb é _tús_, _lár_ nó _deiradh_ (san uatha) an chéad ainmfhocal den aonad sin, fágtar an chéad ainmfhocal sa tuiseal ainmneach nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é.
+
+:3-3-7-title_ga: Cainníocht Chinnte i Liosta
+:3-3-7-title_en: [TODO] Cainníocht Chinnte i Liosta
+
+:3-3-7-p1_ga: Má tá ainmfhocal éiginnte atá faoi réir ag ainmfhocal lena gcuirtear cainníocht chinnte in iúl á chur i láthair in oideas nó i bhfoirm liosta, ní dhéantar athrú an ghinidigh ar an ainmfhocal ná ar aidiacht atá á cháiliú.
+:3-3-7-p1_en: [TODO] Má tá ainmfhocal éiginnte atá faoi réir ag ainmfhocal lena gcuirtear cainníocht chinnte in iúl á chur i láthair in oideas nó i bhfoirm liosta, ní dhéantar athrú an ghinidigh ar an ainmfhocal ná ar aidiacht atá á cháiliú.
+
+:3-3-7-p2_ga: Is é an tabharthach rannaíoch a úsáidtear sa phrós.
+:3-3-7-p2_en: [TODO] Is é an tabharthach rannaíoch a úsáidtear sa phrós.
+
+:3-3-8-title_ga: An tAinmfhocal Éiginnte -- Cáilitheoirí
+:3-3-8-title_en: [TODO] An tAinmfhocal Éiginnte -- Cáilitheoirí
+
+:3-3-8-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí 3B, 3C agus 3D ina dhiaidh seo.
+:3-3-8-a-p_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí 3B, 3C agus 3D ina dhiaidh seo.
+
+:3-3-8-b-p_ga: Ní foláir an t-ainmfhocal éiginnte féin a bheith cáilithe leis an gcáilitheoir chun an ginideach a chur ar ceal. Má tá feidhm seachas feidhm aidiachtach ag an gcáilitheoir (feidhm dhobhriathair, mar shampla), déantar athrú an ghinidigh ar an ainmfhocal éiginnte (féach 3.3.12(b)).
+:3-3-8-b-p_en: [TODO] Ní foláir an t-ainmfhocal éiginnte féin a bheith cáilithe leis an gcáilitheoir chun an ginideach a chur ar ceal. Má tá feidhm seachas feidhm aidiachtach ag an gcáilitheoir (feidhm dhobhriathair, mar shampla), déantar athrú an ghinidigh ar an ainmfhocal éiginnte (féach 3.3.12(b)).
+
+:3-3-9-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Ainm Briathartha a bhfuil ag nó do (nó a as do) roimhe
+:3-3-9-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Ainm Briathartha a bhfuil ag nó do (nó a as do) roimhe
+
+:3-3-9-p_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+:3-3-9-p_en: [TODO] Nuair atá ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+
+:Table3B-caption_ga: Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Ainm Briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3B-caption_en: [TODO] Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Ainm Briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+
+:Table3B-Col1_ga: Cáilitheoir
+:Table3B-Col1_en: [TODO] Cáilitheoir
+
+:Table3B-Col2_ga: Uatha
+:Table3B-Col2_en: Singular
+
+:Table3B-Col3_ga: Iolra
+:Table3B-Col3_en: Plural
+
+:Table3B-row1_ga: Aidiacht cháilíochta, nó ainmfhocal i gcáil aidiachta
+:Table3B-row1_en: [TODO] Aidiacht cháilíochta, nó ainmfhocal i gcáil aidiachta
+
+:Table3B-row2_ga: Frása réamhfhoclach amhail _ar bith_, _ar leith_, _den scoth_, etc. má tá feidhm aidiachtach aige
+:Table3B-row2_en: [TODO] Frása réamhfhoclach amhail _ar bith_, _ar leith_, _den scoth_, etc. má tá feidhm aidiachtach aige
+
+:Table3B-row3_ga: Clásal coibhneasta
+:Table3B-row3_en: [TODO] Clásal coibhneasta
+
+:Table3B-row4_ga: An aidiacht éiginnte _aon_ nó an réimír threise _an-_
+:Table3B-row4_en: [TODO] An aidiacht éiginnte _aon_ nó an réimír threise _an-_
+
+:3-3-10-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Réamhfhocal Comhshuite
+:3-3-10-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Réamhfhocal Comhshuite
+
+:3-3-10-p1_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite (nó _cois_, _dála_, _fearacht_, _timpeall_, _trasna_) cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+:3-3-10-p1_en: [TODO] Nuair atá ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite (nó _cois_, _dála_, _fearacht_, _timpeall_, _trasna_) cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+
+// Shares headers with 3B
+
+:Table3C-caption_ga: Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
+:Table3C-caption_en: [TODO] Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
+
+:Table3C-Row3_ga: Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
+:Table3C-Row3_en: [TODO] Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
+
+:Table3D-Row5_ga: An aidiacht éiginnte
+:Table3D-Row5_en: [TODO] An aidiacht éiginnte
+
+:3-3-10-p2_ga: Tabhair faoi deara gur frása réamhfhoclach a bhfuil brí faoi leith aige é réamhfhocal comhshuite, e.g., _i gcás_ sa bhrí _más rud é_. _Réamhfhocal simplí + ainmfhocal_ is múnla dó. Níl feidhm ag tábla 3C má tá ainmfhocal éiginnte faoi réir ag réamhfhocal agus ainmfhocal nach réamhfhocal comhshuite, e.g., _i gcas_ sa bhrí _in imeachtaí dlí_, _i mála_.
+:3-3-10-p2_en: [TODO] Tabhair faoi deara gur frása réamhfhoclach a bhfuil brí faoi leith aige é réamhfhocal comhshuite, e.g., _i gcás_ sa bhrí _más rud é_. _Réamhfhocal simplí + ainmfhocal_ is múnla dó. Níl feidhm ag tábla 3C má tá ainmfhocal éiginnte faoi réir ag réamhfhocal agus ainmfhocal nach réamhfhocal comhshuite, e.g., _i gcas_ sa bhrí _in imeachtaí dlí_, _i mála_.
+
+:3-3-11-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Cainníocht Éiginnte
+:3-3-11-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Cainníocht Éiginnte
+
+:3-3-11-p1_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag focal nó frása lena gcuirtear cainníocht éiginnte in iúl, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+:3-3-11-p1_en: [TODO] Nuair atá ainmfhocal éiginnte atá faoi réir ag focal nó frása lena gcuirtear cainníocht éiginnte in iúl, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+
+// Shares headers with 3B
+
+:Table3D-Caption_ga: Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Cainníocht Éiginnte
+:Table3D-Caption_en: [TODO] Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Cainníocht Éiginnte
+
+:3-3-11-p2_ga: Tabhair faoi deara go mbreathnaítear ar chainníocht éiginnte mar chainníocht chinnte nuair a chuirtear aidiacht shealbhach roimpi agus sa chás sin go ndéantar athrú an ghinidigh ar an ainmfhocal a thagann ina dhiaidh (agus ar an aidiacht a ghabhann leis), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
+:3-3-11-p2_en: [TODO] Tabhair faoi deara go mbreathnaítear ar chainníocht éiginnte mar chainníocht chinnte nuair a chuirtear aidiacht shealbhach roimpi agus sa chás sin go ndéantar athrú an ghinidigh ar an ainmfhocal a thagann ina dhiaidh (agus ar an aidiacht a ghabhann leis), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
+
+:3-3-12-title_ga: Foirm an Ghinidigh
+:3-3-12-title_en: [TODO] Foirm an Ghinidigh
+
+:3-3-12-a-p_ga: Lasmuigh de na cásanna atá sonraithe i dtáblaí 3B, 3C agus 3D, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sa struchtúr _ainmfhocal_ + _ainmfhocal éiginnte_ + _cáilitheoir_.
+:3-3-12-a-p_en: [TODO] Lasmuigh de na cásanna atá sonraithe i dtáblaí 3B, 3C agus 3D, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sa struchtúr _ainmfhocal_ + _ainmfhocal éiginnte_ + _cáilitheoir_.
+
+:Table3E-caption_ga: Foirm an Ghinidigh -- Ainmfhocal + Ainmfhocal Éiginnte + Cáilitheoir
+:Table3E-caption_en: [TODO] Foirm an Ghinidigh -- Ainmfhocal + Ainmfhocal Éiginnte + Cáilitheoir
+
+:3-3-12-b-p_ga: Déantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite agus a dtagann frása réamhfhoclach, fochlásal réamhfhoclach nó forainmneach réamhfhoclach ina dhiaidh mura bhfuil an t-ainmfhocal éiginnte cáilithe leis an bhfrása réamhfhoclach, leis an bhfochlásal réamhfhoclach nó leis an bhforainmneach réamhfhoclach sin (mar shampla, más é an briathar seachas an t-ainmfhocal éiginnte atá cáilithe) ná le haon cheann de na cáilitheoirí eile a luaitear i dtábla 3C.
+:3-3-12-b-p_en: [TODO] Déantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite agus a dtagann frása réamhfhoclach, fochlásal réamhfhoclach nó forainmneach réamhfhoclach ina dhiaidh mura bhfuil an t-ainmfhocal éiginnte cáilithe leis an bhfrása réamhfhoclach, leis an bhfochlásal réamhfhoclach nó leis an bhforainmneach réamhfhoclach sin (mar shampla, más é an briathar seachas an t-ainmfhocal éiginnte atá cáilithe) ná le haon cheann de na cáilitheoirí eile a luaitear i dtábla 3C.
+
+:Table3F-caption_ga: Foirm an Ghinidigh -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
+:Table3F-caption_en: [TODO] Foirm an Ghinidigh -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
+
+:3-3-13-title_ga: Achoimre ar Fhoirm an Ainmnigh in ionad an Ghinidigh
+:3-3-13-title_en: [TODO] Achoimre ar Fhoirm an Ainmnigh in ionad an Ghinidigh
+
+:3-3-13-p_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
+:3-3-13-p_en: [TODO] Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
+
+:Table3G-caption_ga: Achoimre ar na Cásanna ina n-úsáidtear Foirm an Ainmnigh in ionad an Ghinidigh
+:Table3G-caption_en: [TODO] Achoimre ar na Cásanna ina n-úsáidtear Foirm an Ainmnigh in ionad an Ghinidigh
+
+:Table3G-col1_ga: Má tá:
+:Table3G-col1_en: [TODO] Má tá:
+
+:Table3G-col2_ga: Faoi réir ag:
+:Table3G-col2_en: [TODO] Faoi réir ag:
+
+:Table3G-col3_ga: Úsáidtear foirm an ainmnigh in ionad an ghinidigh:
+:Table3G-col3_en: [TODO] Úsáidtear foirm an ainmnigh in ionad an ghinidigh:
+
+:Table3G-row1-condition_ga: Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (3.3.1(a))
+:Table3G-row1-condition_en: [TODO] Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (3.3.1(a))
+
+:Table3G-row1-rule_ga: Focal nó leagan a leanann an ginideach é
+:Table3G-row1-rule_en: [TODO] Focal nó leagan a leanann an ginideach é
+
+:Table3G-row2-condition_ga: Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.1(b))
+:Table3G-row2-condition_en: [TODO] Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.1(b))
+
+:nopass-Table3G-row2-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row2-rule_en: {Table3G-row1-rule}
+
+:Table3G-row3-condition_ga: Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (3.3.2(a))
+:Table3G-row3-condition_en: [TODO] Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (3.3.2(a))
+
+:nopass-Table3G-row3-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row3-rule_en: {Table3G-row1-rule}
+
+:Table3G-row4-condition_ga: _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (3.3.2(b))
+:Table3G-row4-condition_en: [TODO] _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (3.3.2(b))
+
+:nopass-Table3G-row4-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row4-rule_en: {Table3G-row1-rule}
+
+:Table3G-row5-condition_ga: Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (3.3.2(c))
+:Table3G-row5-condition_en: [TODO] Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (3.3.2(c))
+
+:nopass-Table3G-row5-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row5-rule_en: {Table3G-row1-rule}
+
+// FYI Page break in doc
+
+:Table3G-row6-condition_ga: Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (3.3.3(a))
+:Table3G-row6-condition_en: [TODO] Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (3.3.3(a))
+
+:nopass-Table3G-row6-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row6-rule_en: {Table3G-row1-rule}
+
+:Table3G-row7-condition_ga: Ainm briathartha (3.3.3(b))
+:Table3G-row7-condition_en: [TODO] Ainm briathartha (3.3.3(b))
+
+:Table3G-row7-rule_ga: _chun_, sa struchtúr _chun_ + _ainm briathartha_ a úsáidtear chun gníomh atá le teacht a chur in iúl
+:Table3G-row7-rule_en: [TODO] _chun_, sa struchtúr _chun_ + _ainm briathartha_ a úsáidtear chun gníomh atá le teacht a chur in iúl
+
+:Table3G-row8-condition_ga: Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.3(c))
+:Table3G-row8-condition_en: [TODO] Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.3(c))
+
+:nopass-Table3G-row8-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row8-rule_en: {Table3G-row1-rule}
+
+:Table3G-row9-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (3.3.4(a))
+:Table3G-row9-condition_en: [TODO] Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (3.3.4(a))
+
+:Table3G-row9-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe nó réamhfhocal comhshuite
+:Table3G-row9-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe nó réamhfhocal comhshuite
+
+:Table3G-row10-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá mar chuspóir díreach ainm bhriathartha (3.3.4(b))
+:Table3G-row10-condition_en: [TODO] Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá mar chuspóir díreach ainm bhriathartha (3.3.4(b))
+
+:Table3G-row10-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3G-row10-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+
+:Table3G-row11-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí (3.3.4(c))
+:Table3G-row11-condition_en: [TODO] Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí (3.3.4(c))
+
+:Table3G-row11-rule_ga: Réamhfhocal comhshuite nó _chun_ sa bhrí _i dtreo_
+:Table3G-row11-rule_en: [TODO] Réamhfhocal comhshuite nó _chun_ sa bhrí _i dtreo_
+
+:Table3G-row12-condition_ga: Ainmfhocal éiginnte i gclásal ainm bhriathartha nach féidir feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach ina dhiaidh (3.3.5)
+:Table3G-row12-condition_en: [TODO] Ainmfhocal éiginnte i gclásal ainm bhriathartha nach féidir feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach ina dhiaidh (3.3.5)
+
+:Table3G-row12-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3G-row12-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+
+:Table3G-row13-condition_ga: An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (3.3.6(a))
+:Table3G-row13-condition_en: [TODO] An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (3.3.6(a)) 
+
+:nopass-Table3G-row13-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row13-rule_en: {Table3G-row1-rule}
+
+:Table3G-row14-condition_ga: _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (3.3.6(b))
+:Table3G-row14-condition_en: [TODO] _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (3.3.6(b))
+
+:nopass-Table3G-row14-rule_ga: {Table3G-row1-rule}
+:nopass-Table3G-row14-rule_en: {Table3G-row1-rule}
+
+// FYI Page break in doc
+:Table3G-row15-condition_ga: Ainmfhocal i liosta (3.3.7)
+:Table3G-row15-condition_en: [TODO] Ainmfhocal i liosta (3.3.7)
+
+:Table3G-row15-rule_ga: Focal nó frása lena gcuirtear cainníocht chinnte in iúl
+:Table3G-row15-rule_en: [TODO] Focal nó frása lena gcuirtear cainníocht chinnte in iúl
+
+:Table3G-row16-condition_ga: Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.9)
+:Table3G-row16-condition_en: [TODO] Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.9)
+
+:Table3G-row16-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3G-row16-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+
+:Table3G-row17-condition_ga: Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.10)
+:Table3G-row17-condition_en: [TODO] Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.10)
+
+:Table3G-row17-rule_ga: Réamhfhocal comhshuite
+:Table3G-row17-rule_en: [TODO] Réamhfhocal comhshuite
+
+:Table3G-row18-condition_ga: Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.11)
+:Table3G-row18-condition_en: [TODO] Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.11)
+
+:Table3G-row18-rule_ga: Focal nó frása lena gcuirtear cainníocht éiginnte in iúl
+:Table3G-row18-rule_en: [TODO] Focal nó frása lena gcuirtear cainníocht éiginnte in iúl
+

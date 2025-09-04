@@ -3,3 +3,772 @@
 :table-caption!:
 
 == 3.1 {3-1-title}
+
+=== 3.1.1
+
+{3-1-1-p}
+
+=== 3.1.2
+
+{3-1-2-p}
+
+[list-[lower-alpha]]
+a. {3-1-2-a}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Caoimhe* is ainm di. | Her name is *Caoimhe*.
+| Tá cónaí orthu i *Meiriceá*. | They live in *America*.
+|===
+
+b. {3-1-2-b}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| An bhfaca tú *an t-eitleán* mór sin? | Did you see *that* big *airplaine*?
+| Tá *an ghealach* lán anocht. | *The moon* is full tonight.
+| An raibh *an tiománaí* tacsaí ag an gcruinniú? | [TODO]
+|===
+
+c. {3-1-2-c}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Ar bhuail tú le *mo dheartháir*? | [TODO]
+| *A hathair* a d'inis an scéal di. | [TODO]
+| Bhí sí ag glanadh *a bróg* peile. (_iol._) | [TODO]
+| Chuaigh sé i gcomhair *a chupáin* tae. (_u._) | [TODO]
+|===
+
+d. {3-1-2-d}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhí *gach duine* den teaghlach i láthair. | [TODO]
+| Buaileann sé isteach ag an am céanna *gach aon lá*. | [TODO]
+| Baineann an t-acht leasaithe le *gach uile fheithicil* inneallghluaiste. | [TODO]
+|===
+
+e. {3-1-2-e}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Bain triail as *ceist a ceathair*. | [TODO]
+| Ar sheiceáil tú *Aguisín A*? | [TODO]
+|===
+
+f. {3-1-2-f}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá an fhéile á heagrú i gcomhar le *muintir Thamhlachta*. | [TODO]
+| An é *leabhar an mhúinteora* é? | [TODO]
+| Ar labhair tú le *bainisteoir an óstáin*? | [TODO]
+| Thug sé cuairt ar *theach a iníne*. | [TODO]
+| Tá *ainm gach imreora* ar eolas aige. | [TODO]
+| Tugadh ardmholadh *d'fhoireann Bhus 16*. | [TODO]
+|===
+
+g. {3-1-2-g}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Céard atá á dhéanamh agat ansin, *a mhic*? | [TODO]
+| Ní chreidfeá é, *a thaisce*. | [TODO]
+|===
+
+=== 3.1.3
+
+{3-1-3-p1}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhí mé ar *an Earagail* inné. | [TODO]
+| Cé a scríobh _**An Grá agus an Ghruaim**_? | [TODO]
+|===
+
+{3-1-3-p2}
+
+=== 3.1.4
+
+{3-1-4-p1}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá an-eolas aici ar litríocht *na hÉireann*. | [TODO]
+| Blas *na Gaillimhe* atá ar a cuid cainte. | [TODO]
+|===
+
+{3-1-4-p2}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Is clár de chuid *Raidió Teilifís Éireann* é. | [TODO]
+| Is í *rogha ban Éireann* í. | [TODO]
+|===
+
+=== 3.1.5
+
+{3-1-5-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Is é sin *an t-inneall fuála Singer* a cheannaigh mo sheanmháthair. | [TODO]
+| Shábháil mé sa *scarbhileog Excel* chéanna é. | [TODO]
+|===
+
+=== 3.1.6
+
+{3-1-6-p1}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| An raibh *úinéir an tsiopa* in ann cabhrú leat? | [TODO]
+| Fágadh na heochracha in oifig chuntasóir *úinéir an tsiopa*. | [TODO]
+|===
+
+{3-1-6-p2}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Is é *an t-úinéir talún* is fearr sa cheantar é. | [TODO]
+| Is í *an t-imreoir sacair* is gasta dá bhfaca mé riamh í. | [TODO]
+|===
+
+=== 3.1.7
+
+{3-1-7-p1}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| D'imigh siad leo nuair a bhí *an uair an chloig* caite. | [TODO]
+| Nach é *an trua Mhuire* é! | [TODO]
+|===
+
+{3-1-7-p2}
+
+=== 3.1.8
+
+{3-1-8-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| An bhfuil *Tuarascáil Bhliantúil 2015* réidh? | [TODO]
+| Foilseofar *Tuarascáil Bhliantúil an Choimisinéara Faisnéise, 2014* go luath. | [TODO]
+| Eisíodh *an tAcht Oideachais, 2015* inné. | [TODO]
+|===
+
+=== 3.1.9
+
+{3-1-9-p}
+
+[list-[lower-alpha]]
+a. {3-1-9-a-p}
++
+[cols="4,1,4"]
+|===
+| an cóta + an bhean | -> | Is é sin *cóta na mná*.
+| an t-údar + na leabhair | -> | Is í *údar na leabhar* í.
+|===
+
+b. {3-1-9-b-p}
++
+[cols="4,1,4"]
+|===
+| cóta + bean | -> | Is *cóta mná* é.
+| údar + leabhair | -> | Is *údar leabhar* í.
+|===
+
+c. {3-1-9-c-p}
++
+[cols="2,1,4"]
+|===
+| an cóta + bean | -> | An bhfaca tú *an cóta mná* sin?
+| an t-údar + leabhair | -> | Is í *an t-údar leabhar* is cáiliúla in Éirinn í.
+|===
+
+=== 3.1.10
+
+{3-1-10-p}
+
+[list-[lower-alpha]]
+a. {3-1-10-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| An bhfuair tú cuid *den* airgead? | [TODO]
+| Tháinig na ceisteanna ó dhaoine *den* phobal. | [TODO]
+|===
+
+b. {3-1-10-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Briseadh ríomhaire *de chuid* na hoifige. | [TODO]
+| Is deontas *de chuid* na Roinne é. | [TODO]
+|===
+
+c. {3-1-10-c-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Ba *bhréagán le Caoimhe* an bréagán a bhris sé. | [TODO]
+| Ar léigh sibh *tuarascáil ó Pharlaimint na hEorpa*? | [TODO]
+|===
+
+=== 3.3.11
+
+{3-1-11-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhris sé *ceann* de na cupáin sa chistin. | [TODO]
+| Rachaidh *cuid* den aos óg thar sáile i gcónaí. | [TODO]
+| Is *duine* d'fhoireann na hoifige é. | [TODO]
+| Nach *amhrán* d'amhráin Kíla é? | [TODO]
+|===
+
+*{Note}:* {3-1-11-note}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhí *gach ríomhaire de chuid* na cuideachta briste. | [TODO]
+| Ba é *an ceann* ba mheasa *de* na scannáin uile a chonaiceamar é. | [TODO]
+|===
+
+== 3.2 {3-2-title}
+
+=== 3.2.1 {3-2-1-title}
+
+[list-[lower-alpha]]
+a. {3-2-1-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Scríobh sé leabhar *faoi SAM*. | [TODO]
+| Tá agallamh aige *le OÉ* Gaillimh. | [TODO]
+|===
+
+b. {3-2-1-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá sí ag obair *in RTÉ*. | [TODO]
+| Tá na milliúin euro *in CSE*. | [TODO]
+|===
+
+c. {3-2-1-c-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is ag cruinnithe *de OLAF* a pléadh an cheist. | [TODO]
+| Tugadh aitheantas *do ÍMAT* mar chóras cánach a bhfuil ag éirí go maith leis. | [TODO]
+|===
++
+{3-2-1-c-p2}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| An bhfuil an cur chuige bunaithe ar an *Ionstraim Eorpach Aonair*? | [TODO]
+| Tá súil ag na *Náisiúin Aontaithe* go mbeidh dea-thoradh ar an bpróiseas. | [TODO]
+|===
+
+=== 3.2.2 {3-2-2-title}
+
+{3-2-2-p}
+
+[list-[upper-alpha]]
+A. *{3-2-2-A-title}*
+[list-[lower-alpha]]
+  a. {3-2-2-A-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá *SAM* ina bhall den Chomhairle Slándála. | [TODO]
+| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | [TODO]
+| Tagann Airí Bhallstáit *AE* le chéile sa Chomhairle. | [TODO]
+| Tá obair ar bun le haghaidh dhíscaoileadh *CTT*. | [TODO]
+| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *NA*. | [TODO]
+|===
++
+  b. {3-2-2-A-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| An *é* FSS a bhfuil freagracht *air* as cúrsaí sláinte? | [TODO]
+| Maidir le NA, is é 193 líon *a* bhall. | [TODO]
+|===
+
+B. *{3-2-2-B-title}*
++
+{3-2-2-B-p}
+[list[lower-alpha]]
+  a. {3-2-2-B-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá *SAM* ina bhall den Chomhairle Slándála. | [TODO]
+| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | [TODO]
+|===
++
+  b. {3-2-2-B-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tagann Airí Bhallstáit *an AE* le chéile sa Chomhairle. | [TODO]
+| Cé atá i dteideal maoiniú *faoin CTT*? | [TODO]
+| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *na NA*. | [TODO]
+|===
++
+  c. {3-2-2-B-c-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Maidir leis *na NA*, is é 193 líon *a* bhall. | [TODO]
+| Síníodh *an IEA* sa bhliain 1986 agus tá feidhm reachtach *aige*. | [TODO]
+|===
+
+=== 3.2.3 {3-2-3-title}
+
+[list-[lower-alpha]]
+a. {3-2-3-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is fostaí de chuid *CIN* rannpháirteach í. | [TODO]
+| - _ach_ Is fostaí de chuid *an CIN rannpháirtigh sin* í. | [TODO]
+| Úsáidtear an seomra mar oifig *PO*. | [TODO]
+| - _ach_ Úsáidtear an seomra mar oifig *an PO sin*. | [TODO]
+|===
+
+b. {3-2-3-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tabharfar *uimhir PSP* duit. | [TODO]
+| - _ach_ Cá bhfuil *an uimhir PSP* a tugadh duit? | [TODO]
+| Tá *ráta ard CBL* i bhfeidhm. | [TODO]
+| - _ach_ Tá *an ráta céanna CBL* i bhfeidhm le fada. | [TODO]
+| Tá *stáisiún DART* sa cheantar seo. | [TODO]
+| - _ach_ An é *an stáisiún DART sin* atá i gceist? | [TODO]
+|===
+
+c. {3-2-3-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Nach *iad* sin *na CINanna* a bhfuil dea-cháil *orthu*? | [TODO]
+| Is *POnna* ar fad *iad* sin. | [TODO]
+|===
+
+== 3.3 {3-3-title}
+
+=== 3.3.1 {3-3-1-title}
+
+[list-[lower-alpha]]
+a. {3-3-1-a-p1}
+[list-[lower-roman]]
+  .. {3-3-1-a-i-p}
++
+[cols="4,1,4"]
+|===
+| Sin é *teach Ghráinne*. | -> | Sin í *eochair theach Ghráinne*.
+| An raibh *foireann Chorcaí* ann?  | -> | Bhí *bus fhoireann Chorcaí* ann.
+|===
++
+  .. {3-3-1-a-ii-p}
++
+[cols="4,1,4"]
+|===
+| Pléadh *forais chreidmheasa an Stáit*. | -> | Dúradh go bhfuil *cobhsaíocht fhorais chreidmheasa an Stáit* ríthábhachtach.
+| Ar labhair tú le *bainisteoir na hoifige*? | -> | D'fhág mé nóta *le haghaidh bhainisteoir na hoifige*.
+|===
++
+  .. {3-3-1-a-iii-p}
++
+[cols="4,1,4"]
+|===
+| Cad atá á dhéanamh le *doras a ghluaisteáin*? | -> | Tá an meicneoir *ag deisiú dhoras a ghluaisteáin*.
+| An le toil *a dtuismitheoirí* a rinne siad é? | -> | Ní hea, ach *in éadan thoil a dtuismitheoirí*.
+|===
++
+  .. {3-3-1-a-iv-p}
++
+[cols="4,1,4"]
+|===
+| Cheartaigh sé *ceacht gach linbh*. | -> | Chuir sé réalta órga *ag bun cheacht gach linbh*.
+| Tá *cearta gach aon saoránaigh* tábhachtach. | -> | Tá siad ag gníomhú *ar son chearta gach aon saoránaigh*.
+|===
++
+  .. {3-3-1-a-v-p}
++
+[cols="4,1,4"]
+|===
+| Sin é *Traein 20*. | -> | Cá bhfuil *tiománaí Thraein 20*?
+| Ar luaigh tú *fomhír (i)*? | -> | Luaigh, tá an fhaisnéis *i lár fhomhír (i)*.
+|===
++
+  .. {3-3-1-a-vi-p}
++
+[cols="4,1,4"]
+|===
+| Tá *téarmaí an Achta* soiléir. | -> | Tá na ceapacháin *faoi réir théarmaí an Achta*.
+| Cá bhfuil *bainisteoir an óstáin*? | -> | Tá *oifigí bhainisteoir an óstáin* san fhoirgneamh sin.
+|===
+
++
+{3-3-1-a-p2}
+
+b. {3-3-1-b-p}
+[list-[lower-roman]]
+  .. {3-3-1-b-i-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá an t-iniúchóir *ag fiosrú an chur i gcéill* sin faoi láthair. | [TODO]
+| Bhí sí *i mbun an chur i láthair* nuair a theip ar an ríomhaire. | [TODO]
+|===
++
+  .. {3-3-1-b-ii-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá siad *ag moladh a chur chuige* ó mhínigh sé dóibh é. | [TODO]
+| Dúirt sí go raibh an t-eolas ag teastáil *le haghaidh a cur i láthair*. | [TODO]
+|===
+
+=== 3.3.2 {3-3-2-title}
+
+[list-[lower-alpha]]
+a. {3-3-2-a-p}
++
+.*{Table} 3A*  {Table-3A-Col2Title} -- {Table-3A-caption-part}
+[.chapter-3]
+[%noheader]
+[cols="1,1"]
+|===
+a|
+[.table-header]
+{Table-3A-Col1Title}
+a| {Table-3A-Col2Title}
+
+| Chuir sé *chun an rialtais* é. | Tá sé ann *chun an obair a dhéanamh*.
+| Ní fhanann sé i bhfad *tar éis dinnéir*. | Tá na leanaí *tar éis dinnéar a réiteach* duit.
+| Tharla sé *le linn na tréimhse* sin. | Is *le linn na hoibrithe a fhostú* a tháinig an cheist sin chun cinn.
+| Tá an lánúin óg *ar tí a bpósta*. | Bhí na fir shlándála *ar tí na doirse a dhúnadh*.
+| Cuideachta áitiúil atá *i mbun na hoibre*. | Cuideachta áitiúil atá *i mbun an teach a thógáil*.
+| An bhfuil siad *ag geallúint an airgid* dúinn? | Níl aon duine *ag bagairt an t-airgead a thógáil* ar ais.
+|===
+
+b. {3-3-2-b-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Gortaíodh í *le linn ceann de na cluichí áitiúla*. | [TODO]
+| Tá laghdú tagtha ar *mhéid mo chuid oibre*. | [TODO]
+| Bhí siad *ag díbirt cuid mhór acu*. | [TODO]
+| Ritheadh é *d'ainneoin an chuid eile den alt*. | [TODO]
+|===
++
+{3-3-2-b-p2}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| D'ainneoin *na Coda* sin, ritheadh an Bille. | [TODO]
+| Thit sí ar mhullach *a cinn*. | [TODO]
+|===
+
+c. {3-3-2-c-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhuail mé le *Príomhfheidhmeannach Trócaire* ann. | [TODO]
+| Cá bhfuil *príomhoifig Bóthar*? | [TODO]
+|===
+
+=== 3.3.3 {3-3-3-title}
+
+{3-3-3-p}
+
+[list-[lower-alpha]]
+a. {3-3-3-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá sé *tar éis a rá* go ndéanfaidh sé é. | [TODO]
+| Tá sé *ag iarraidh a dheimhniú* go mbeidh gach ní ina cheart. | [TODO]
+|===
+
+b. {3-3-3-b-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| An bhfuil sé *chun iomáint* le Corcaigh? | [TODO]
+| Níl an eagraíocht *chun snámh* in aghaidh easa. | [TODO]
+| Tá na páistí *chun dul abhaile*. | [TODO]
+| Tá an ghaoth *chun séideadh* níos measa. | [TODO]
+| Níl siad *chun seasamh* siar. | [TODO]
+| Tá sí *chun pósadh* go luath. | [TODO]
+| Tá sé *chun imirt*. | [TODO]
+|===
++
+{3-3-3-b-p2}
+
+c. {3-3-3-c-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Cén *cineál cur chuige* a d'úsáid siad? | [TODO]
+| Bhí sí *i mbun cur i láthair* nuair a theip ar an teilgeoir. | [TODO]
+| Tá an *plean dul chun cinn* sa tuarascáil bhliantúil | [TODO]
+|===
+
+=== 3.3.4 {3-3-4-title}
+[list-[lower-alpha]]
+a. {3-3-4-a-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhí na léirsitheoirí *ag diúltú imeacht*. | [TODO]
+| Níl na déagóirí *ag iarraidh troid* (_sa bhrí_ ag iarraidh troid a dhéanamh). | [TODO]
+| Tá sé *tar éis siúl* abhaile. | [TODO]
+|===
++
+{3-3-4-a-p2}
+
+b. {3-3-4-b-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá siad *ag déanamh leasú* (athrú, marú, coigeartú). | [TODO]
+| Is minic é *a thabhairt moladh* (bualadh, ordú, ardú). | [TODO]
+| Acht *do dhéanamh leasú* (iniúchadh, scrúdú) de réir moladh ón Aire. | [TODO]
+| An bhfuil tú *ag iarraidh suí* (éirí, pósadh)? | [TODO]
+| Tá sí *ag fáil ardú* (cáiliú, breisiú, greadadh). | [TODO]
+| Cé a bhí *a dhéanamh cáineadh* (múineadh, díscaoileadh, fuirseadh)? | [TODO]
+|===
++
+{3-3-4-b-p2}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Cé atá *ag déanamh an athraithe*? | [TODO]
+| An bhfuil an tArd-Rúnaí *ag dréachtú an ordaithe*? | [TODO]
+| Bhí a gcairde *ag beannú a bpósta*. | [TODO]
+| Is *ag léamh gach leasaithe* roimh an gcruinniú atá sí. | [TODO]
+|===
+
+c. {3-3-4-c-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá an lánúin sin *ar tí pósadh*. | [TODO]
+| Nílim ach *tar éis éirí*. | [TODO]
+| Nach deas dul ag siúl *i ndiaidh suí*? | [TODO]
+| Tá an lá ag dul *chun síneadh*. | [TODO]
+|===
++
+{3-3-4-c-p2}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Níl siad ar son *an cholscartha*. | [TODO]
+| Tá sé ar tí *a phósta*. | [TODO]
+| Ní mór staidéar a dhéanamh i gcomhair *gach scrúdaithe*. | [TODO]
+|===
+
+=== 3.3.5 {3-3-5-title}
+
+{3-3-5-p1}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| *Tá siad ag tabhairt aghaidh* ar an bhfoireann eile anois. | [TODO]
+| *Is ag baint leas* as an gcóras atá siad. | [TODO]
+| *Tá an scoil ag cur deireadh* leis an scéim. | [TODO]
+| *Is léir go bhfuil na mic léinn ag baint taitneamh* as an oíche. | [TODO]
+| *Tá sé ag fágáil slán* leis. | [TODO]
+| *Stiúrthóirí do thabhairt aird* ar leasanna fostaithe. | [TODO]
+| *Tá siad ag baint triail* as roghchlár nua. | [TODO]
+| *Bhí an eagraíocht ag cur tionscadail* chun cinn. (_iol._) | [TODO]
+| *Tá an Roinn ag cur beartais* i bhfeidhm. (_iol._) | [TODO]
+|===
+
+{3-3-5-p2}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| *Bhí sé ag cur báistí* (i gCorcaigh). | [TODO]
+| *Tá sí ag déanamh oibre* (san oifig). | [TODO]
+| *Bíonn siad ag bailiú airgid* (ann). | [TODO]
+| *Beidh sé ag tabhairt cabhrach* (in am an ghátair). | [TODO]
+| *Tá sí ag fáil bháis* (san ospidéal). | [TODO]
+| *An bhfuil sí ag imirt peile* (leis na comharsana)? | [TODO]
+| *Bhí siad ag gabháil fhoinn* (sa teach). | [TODO]
+|===
+
+=== 3.3.6 {3-3-6-title}
+
+[list-[lower-alpha]]
+a. {3-3-6-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Gheobhaidh mé bia *beir leat* ar mo shlí abhaile dom. | [TODO]
+| Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair. | [TODO]
+| Tá ionad *buail isteach* acu i lár na cathrach. | [TODO]
+|===
+
+b. {3-3-6-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá gach rud eagraithe don chruinniú tús bliana. | [TODO]
+| Bain taitneamh as an sos lár téarma! | [TODO]
+| Déantar ócáid deireadh seachtaine a eagrú gach bliain. | [TODO]
+|===
+
+=== 3.3.7 {3-3-7-title}
+
+{3-3-7-p1}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| 500g *plúr* | [TODO]
+| 1lb *plúr bán* | [TODO]
+| 250g *siúcra mín* | [TODO]
+| 150ml *uachtar* | [TODO]
+| 1/2 taesp. *púdar bácála* | [TODO]
+| 2 spúnóg bhoird *mil* | [TODO]
+|===
+
+{3-3-7-p2}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Déan *500g de phlúr bán* agus *250g de shiúcra mín* a mheascadh i mbabhla. | [TODO]
+| Cuir *150ml de bhainne* agus *150ml d'uachtar* leis an meascán. | [TODO]
+|===
+
+=== 3.3.8 {3-3-8-title}
+
+[list-[lower-alpha]]
+a. {3-3-8-a-p}
+b. {3-3-8-b-p}
+
+=== 3.3.9 {3-3-9-title}
+
+{3-3-9-p}
+
+.*{Table} 3B*  {Table3B-caption}
+[.chapter-3]
+[%noheader]
+[cols="1,2,2"]
+|===
+a|
+[.table-header]
+{Table3B-Col1}
+a|
+[.table-header]
+{Table3B-Col2}
+a|
+[.table-header]
+{Table3B-Col3}
+
+.4+h| {Table3B-row1}
+| Thosaigh sé *ag imirt peil Mheiriceánach* sna Stáit Aontaithe anuraidh.
+| Chaith sé tamall *ag glacadh grianghraif áille* i nGarraithe Náisiúnta na Lus.
+
+| Tá siad *ag coinneáil súil ghéar* ar na himeachtaí. 
+| Bímse *ag ullmhú lóin shláintiúla* dom féin.
+
+| Táim *ag réiteach cupán tae*.
+| Níl siad ach *ag éileamh pinsin stáit*.
+| Bíonn siad *ag casadh ceol tíre* ar an Aoine.
+| An mbíonn sé *ag scríobh leabhair staire*?
+
+.3+h| {Table3B-row2}
+| Níl siad *ag fáil pingin ar bith*.
+| Bíonn an chuideachta sin *ag tógáil foirgnimh den scoth*.
+| Tá an Chomhairle Contae *ag ullmhú scéim den sórt sin*.
+| Tá na fostaithe *ag iarraidh tuarastail as an ngnáth*.
+
+| Ritheadh ionstraim *do leasú riail ar leith*.
+| Ritheadh ordú *d'fhionraí liúntais den sórt sin*.
+
+.3+h| {Table3B-row3}
+| Tá sé *ag cuardach scéal a scríobh sé* anuraidh.
+| Tá an coiste *ag athbhreithniú cláir ar cuireadh tús leo fadó*.
+
+| Tá an Rialtas *ag leasú Acht a ritheadh san ochtú haois déag*.
+| Bhí sé *ag moladh scannáin a mbeadh spéis agam iontu*.
+
+| Ní fiú bheith *ag ordú trealamh atá daor*.
+| Thosaigh siad *ag díol milseáin a bhí an-bhlasta*.
+
+.3+h| {Table3B-row4}
+| An bhfuil sí *ag réiteach aon straitéis* chun déileáil leis?
+| An bhfuil siad *ag tógáil aon fhoirgnimh* faoi láthair?
+
+| Ní léir dom go bhfuil siad *ag déanamh aon iarracht*.
+| Nílim *ag ceannach aon dearbháin* uait i mbliana.
+
+| Tá na mic léinn *ag déanamh an-obair* ar an tionscadal sin.
+|
+
+|===
+
+=== 3.3.10 {3-3-10-title}
+
+{3-3-10-p1}
