@@ -4743,10 +4743,10 @@ a. {3-2-3-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is fostaí de chuid *CIN* rannpháirteach í. | [TODO]
-| - _ach_ Is fostaí de chuid *an CIN rannpháirtigh sin* í. | [TODO]
-| Úsáidtear an seomra mar oifig *PO*. | [TODO]
-| - _ach_ Úsáidtear an seomra mar oifig *an PO sin*. | [TODO]
+| Is fostaí de chuid *CIN* rannpháirteach í. | She is *a* participating *CIN* employee.
+| - _ach_ Is fostaí de chuid *an CIN rannpháirtigh sin* í. | - _but_ She is an employee of *that particpating CIN*.
+| Úsáidtear an seomra mar oifig *PO*. | The room is used as *a PO* office.
+| - _ach_ Úsáidtear an seomra mar oifig *an PO sin*. | - _but_ The room is used as *that PO office*.
 |===
 
 b. {3-2-3-b-p}
@@ -4754,22 +4754,24 @@ b. {3-2-3-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tabharfar *uimhir PSP* duit. | [TODO]
-| - _ach_ Cá bhfuil *an uimhir PSP* a tugadh duit? | [TODO]
-| Tá *ráta ard CBL* i bhfeidhm. | [TODO]
-| - _ach_ Tá *an ráta céanna CBL* i bhfeidhm le fada. | [TODO]
-| Tá *stáisiún DART* sa cheantar seo. | [TODO]
-| - _ach_ An é *an stáisiún DART sin* atá i gceist? | [TODO]
+| Tabharfar *uimhir PSP* duit. | You will be given *a PSP number*.
+| - _ach_ Cá bhfuil *an uimhir PSP* a tugadh duit? | - _but_ Where is *the PSP number* that was given to you?
+| Tá *ráta ard CBL* i bhfeidhm. | *A high CBL rate* is in effect.
+| - _ach_ Tá *an ráta céanna CBL* i bhfeidhm le fada. | - _but_ *The same CBL rate* has been in effect for a long time.
+| Tá *stáisiún DART* sa cheantar seo. | There is *a DART station* in this area.
+| - _ach_ An é *an stáisiún DART sin* atá i gceist? | - _but_ Is *that the DART station* in question?
 |===
 
-c. {3-2-3-b-p}
+c. {3-2-3-c-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Nach *iad* sin *na CINanna* a bhfuil dea-cháil *orthu*? | [TODO]
-| Is *POnna* ar fad *iad* sin. | [TODO]
+| Nach *iad* sin *na CINanna* a bhfuil dea-cháil *orthu*? | Aren't *those the* reputable *CINs*? 
+| Is *POnna* ar fad *iad* sin. | *Those* are all *POs*.
 |===
+
+'''
 
 == 3.3 {3-3-title}
 
@@ -5568,13 +5570,13 @@ Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_u._)
 :3-2-3-title_en: Multiple Things
 
 :3-2-3-a-p_ga: Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
-:3-2-3-a-p_en: [TODO] Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
+:3-2-3-a-p_en: If an abbreviation or acronym refers to multiple things (things that have more than one item in them), the article can be placed in front of it in order to distinguish it from other things of the same kind. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
 
 :3-2-3-b-p_ga: Is féidir an t-alt a úsáid le hainmfhocal atá á cháiliú le giorrúchán nó le hacrainm a bhfuil feidhm aidiachtach leis ar mhaithe le rud sonrach as measc nithe iomadúla a aithint. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
-:3-2-3-b-p_en: [TODO] Is féidir an t-alt a úsáid le hainmfhocal atá á cháiliú le giorrúchán nó le hacrainm a bhfuil feidhm aidiachtach leis ar mhaithe le rud sonrach as measc nithe iomadúla a aithint. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
+:3-2-3-b-p_en: The article can be used with a noun that is qualified by an abbreviation or an acronym which has an adjectival function in order to identify something specific from many things. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
 
 :3-2-3-c-p_ga: Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
-:3-2-3-c-p_en: [TODO] Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
+:3-2-3-c-p_en: A plural form is created from an abbreviation or an acronym when referring to multple things by adding _-anna_ to it if it ends with a consonant and by adding _-nna_ to it if it ends with a vowel. An abbreviation or acronym in the plural is referred to as a plural masculine noun.
 
 :3-3-title_ga: Foirm an Ainmnigh in ionad an Ghinidigh
 :3-3-title_en: The Form of the Nominative in Place of the Genitive

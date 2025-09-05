@@ -143,13 +143,13 @@
 :3-2-3-title_en: Multiple Things
 
 :3-2-3-a-p_ga: Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
-:3-2-3-a-p_en: [TODO] Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
+:3-2-3-a-p_en: If an abbreviation or acronym refers to multiple things (things that have more than one item in them), the article can be placed in front of it in order to distinguish it from other things of the same kind. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
 
 :3-2-3-b-p_ga: Is féidir an t-alt a úsáid le hainmfhocal atá á cháiliú le giorrúchán nó le hacrainm a bhfuil feidhm aidiachtach leis ar mhaithe le rud sonrach as measc nithe iomadúla a aithint. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
-:3-2-3-b-p_en: [TODO] Is féidir an t-alt a úsáid le hainmfhocal atá á cháiliú le giorrúchán nó le hacrainm a bhfuil feidhm aidiachtach leis ar mhaithe le rud sonrach as measc nithe iomadúla a aithint. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
+:3-2-3-b-p_en: The article can be used with a noun that is qualified by an abbreviation or an acronym which has an adjectival function in order to identify something specific from many things. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
 
 :3-2-3-c-p_ga: Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
-:3-2-3-c-p_en: [TODO] Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
+:3-2-3-c-p_en: A plural form is created from an abbreviation or an acronym when referring to multple things by adding _-anna_ to it if it ends with a consonant and by adding _-nna_ to it if it ends with a vowel. An abbreviation or acronym in the plural is referred to as a plural masculine noun.
 
 :3-3-title_ga: Foirm an Ainmnigh in ionad an Ghinidigh
 :3-3-title_en: The Form of the Nominative in Place of the Genitive
