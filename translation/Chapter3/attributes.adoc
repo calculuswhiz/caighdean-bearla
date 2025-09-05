@@ -333,8 +333,8 @@
 :Table3C-Row3_ga: Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
 :Table3C-Row3_en: [TODO] Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
 
-:Table3D-Row5_ga: An aidiacht éiginnte
-:Table3D-Row5_en: [TODO] An aidiacht éiginnte
+:Table3C-Row5_ga: An aidiacht éiginnte _aon_
+:Table3C-Row5_en: [TODO] An aidiacht éiginnte _aon_
 
 :3-3-10-p2_ga: Tabhair faoi deara gur frása réamhfhoclach a bhfuil brí faoi leith aige é réamhfhocal comhshuite, e.g., _i gcás_ sa bhrí _más rud é_. _Réamhfhocal simplí + ainmfhocal_ is múnla dó. Níl feidhm ag tábla 3C má tá ainmfhocal éiginnte faoi réir ag réamhfhocal agus ainmfhocal nach réamhfhocal comhshuite, e.g., _i gcas_ sa bhrí _in imeachtaí dlí_, _i mála_.
 :3-3-10-p2_en: [TODO] Tabhair faoi deara gur frása réamhfhoclach a bhfuil brí faoi leith aige é réamhfhocal comhshuite, e.g., _i gcás_ sa bhrí _más rud é_. _Réamhfhocal simplí + ainmfhocal_ is múnla dó. Níl feidhm ag tábla 3C má tá ainmfhocal éiginnte faoi réir ag réamhfhocal agus ainmfhocal nach réamhfhocal comhshuite, e.g., _i gcas_ sa bhrí _in imeachtaí dlí_, _i mála_.
