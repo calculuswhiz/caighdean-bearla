@@ -98,49 +98,49 @@
 :3-2-1-title_en: General
 
 :3-2-1-a-p_ga: Ní dhéantar infhilleadh ná athrú tosaigh ar ghiorrúchán nó ar acrainm riamh. (_SAM -- Stáit Aontaithe Mheiriceá_; _OÉ -- Ollscoil na hÉireann_.)
-:3-2-1-a-p_en: [TODO] Ní dhéantar infhilleadh ná athrú tosaigh ar ghiorrúchán nó ar acrainm riamh. (_SAM -- Stáit Aontaithe Mheiriceá_; _OÉ -- Ollscoil na hÉireann_.)
+:3-2-1-a-p_en: An abbreviation or acronym is never inflected or changed at the beginning. (_SAM -- Stáit Aontaithe Mheiriceá_; _OÉ -- Ollscoil na hÉireann_.)
 
-:3-2-1-b-p_ga: Is é _in_ (seachas _i_) an fhoirm den réamhfhocal _i_ a úsáidtear roimh ghiorrúchán nó acrainm. (RTÉ -- Raidió Teilifís Éireann; CSE -- Ciste Sóisialta na hEorpa.)
-:3-2-1-b-p_en: [TODO] Is é _in_ (seachas _i_) an fhoirm den réamhfhocal _i_ a úsáidtear roimh ghiorrúchán nó acrainm. (RTÉ -- Raidió Teilifís Éireann; CSE -- Ciste Sóisialta na hEorpa.)
+:3-2-1-b-p_ga: Is é _in_ (seachas _i_) an fhoirm den réamhfhocal _i_ a úsáidtear roimh ghiorrúchán nó acrainm. (_RTÉ -- Raidió Teilifís Éireann_; _CSE -- Ciste Sóisialta na hEorpa_.)
+:3-2-1-b-p_en: _in_ (rather than _i_) is the form of the preposition _i_ used before an abbreviation or acronym. (_RTÉ -- Raidió Teilifís Éireann_; _CSE -- Ciste Sóisialta na hEorpa_.)
 
 :3-2-1-c-p1_ga: Ní chiorraítear na réamhfhocail _de_ agus _do_ go _d'_ roimh ghiorrúchán nó acrainm a thosaíonn ar ghuta. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
-:3-2-1-c-p1_en: [TODO] Ní chiorraítear na réamhfhocail _de_ agus _do_ go _d'_ roimh ghiorrúchán nó acrainm a thosaíonn ar ghuta. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
+:3-2-1-c-p1_en: The preposition _de_ and _do_ are not shortened to _d'_ before abbreviations and acronyms starting with a vowel. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
 
 :3-2-1-c-p2_ga: Tabhair faoi deara go mbíonn sé de rogha ag an scríbhneoir na focail ar a bhfuil an giorrúchán nó an t-acrainm bunaithe a scríobh amach i gcónaí.
-:3-2-1-c-p2_en: [TODO] Tabhair faoi deara go mbíonn sé de rogha ag an scríbhneoir na focail ar a bhfuil an giorrúchán nó an t-acrainm bunaithe a scríobh amach i gcónaí.
+:3-2-1-c-p2_en: Note that the writer always has the choice of writing the words on which the abbreviation or acronym is based.
 
 :3-2-2-title_ga: Nithe Aonaracha
-:3-2-2-title_en: [TODO] Nithe Aonaracha
+:3-2-2-title_en: Individual Things
 
 :3-2-2-p_ga: Tá dhá chóras is féidir a úsáid chun plé le giorrúcháin agus le hacrainmneacha ar teidil iad ar eagraíochtaí, foilseacháin, conarthaí, comhaontuithe, scéimeanna, córais nó nithe eile dá samhail nach ann ach do cheann amháin acu -- an córas gan an t-alt agus an córas leis an alt. Cé is moite de théacsanna reachtúla ina n-úsáidtear an córas gan an t-alt i gcónaí, is faoin scríbhneoir atá sé an córas a úsáidfear a roghnú. Moltar gan an dá chóras a mheascadh.
-:3-2-2-p_en: [TODO] Tá dhá chóras is féidir a úsáid chun plé le giorrúcháin agus le hacrainmneacha ar teidil iad ar eagraíochtaí, foilseacháin, conarthaí, comhaontuithe, scéimeanna, córais nó nithe eile dá samhail nach ann ach do cheann amháin acu -- an córas gan an t-alt agus an córas leis an alt. Cé is moite de théacsanna reachtúla ina n-úsáidtear an córas gan an t-alt i gcónaí, is faoin scríbhneoir atá sé an córas a úsáidfear a roghnú. Moltar gan an dá chóras a mheascadh.
+:3-2-2-p_en: There are two systems that can be used to deal with abbreviations and with acronyms that are titles of organizations, publications, contracts, agreements, schemes, systems or other similar things of which only one exists -- the system without the article and the system with the article. Except for statuatory texts where the system without the article is always used, it is up to the writer to choose which system to use. It is recommended not to mix the two systems.
 
 :3-2-2-A-title_ga: Nithe aonaracha -- an córas gan an t-alt
-:3-2-2-A-title_en: [TODO] Nithe aonaracha -- an córas gan an t-alt
+:3-2-2-A-title_en: Individual things -- the system without the article
 
 :3-2-2-A-a-p_ga: Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
-:3-2-2-A-a-p_en: [TODO] Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+:3-2-2-A-a-p_en: In the system without the article, abbreviations and acronyms are treated as nouns are not preceded with the article (but see 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
 
 :3-2-2-A-b-p_ga: Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
-:3-2-2-A-b-p_en: [TODO] Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
+:3-2-2-A-b-p_en: An abbreviation or acronym is referred to as a singular masculine noun regardless of the number or gender on which the words are based. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
 
 :3-2-2-B-title_ga: Nithe aonaracha -- an córas leis an alt
-:3-2-2-B-title_en: [TODO] Nithe aonaracha -- an córas leis an alt
+:3-2-2-B-title_en: Individual things -- the system with the article
 
 :3-2-2-B-p_ga: Sa chóras leis an alt, úsáidtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha de réir mar is cuí. Bíonn úsáid an ailt faoi réir ag struchtúr na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, mar seo a leanas --
-:3-2-2-B-p_en: [TODO] Sa chóras leis an alt, úsáidtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha de réir mar is cuí. Bíonn úsáid an ailt faoi réir ag struchtúr na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, mar seo a leanas --
+:3-2-2-B-p_en: In the system with the article, the article is used before abbreviations or before acronyms as appropriate. The use of the article is subject to the structure of the words the abbreviations or the acronym are based, as follows --
 
 :3-2-2-B-a-p_ga: ní chuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail chinnte nach gcuirtear an t-alt leo, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, nó má tá an t-alt i lár na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
-:3-2-2-B-a-p_en: [TODO] ní chuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail chinnte nach gcuirtear an t-alt leo, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, nó má tá an t-alt i lár na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
+:3-2-2-B-a-p_en: the article is not used before abbreviations or acronyms if they are based on a definite noun that do not have the article, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, or if the article is in the middle of the words on which the abbreviations or the acronymes are based, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
 
 :3-2-2-B-b-p_ga: cuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail a gcuirtear an t-alt rompu chun iad a dhéanamh cinnte. Úsáidtear foirm uatha nó iolra an ailt ag brath ar uimhir na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe:
-:3-2-2-B-b-p_en: [TODO] cuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail a gcuirtear an t-alt rompu chun iad a dhéanamh cinnte. Úsáidtear foirm uatha nó iolra an ailt ag brath ar uimhir na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe:
+:3-2-2-B-b-p_en: the article is placed before abbreviations or acronymes if they are based on words having an article to make it definite. The singular or plural form of the article is used depending on the number of words on which the abbreviations or the acronymes are based:
 
-:3-2-2-B-c-p_ga: is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar (_an IEA -- an Ionstraim Eorpach Aonair_.)
-:3-2-2-B-c-p_en: [TODO] is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar (_an IEA -- an Ionstraim Eorpach Aonair_.)
+:3-2-2-B-c-p_ga: is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_an IEA -- an Ionstraim Eorpach Aonair_.)
+:3-2-2-B-c-p_en: an abbreviation or acronym is referred to as a singular masculine noun regardless of the number or gender of the words on which it is based (_an IEA -- an Ionstraim Eorpach Aonair_.)
 
 :3-2-3-title_ga: Nithe Iomadúla
-:3-2-3-title_en: [TODO] Nithe Iomadúla
+:3-2-3-title_en: Multiple Things
 
 :3-2-3-a-p_ga: Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
 :3-2-3-a-p_en: [TODO] Má bhaineann giorrúchán nó acrainm le nithe iomadúla (nithe a bhfuil níos mó ná ceann amháin acu ann), is féidir an t-alt a chur roimhe ar mhaithe lena idirdhealú ó nithe eile den chineál céanna. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)

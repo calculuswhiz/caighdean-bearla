@@ -234,7 +234,7 @@ c. {3-1-10-c-p}
 | Ar léigh sibh *tuarascáil ó Pharlaimint na hEorpa*? | Have you (all) read *a report from the European Parliament*?
 |===
 
-=== 3.3.11
+=== 3.1.11
 
 {3-1-11-p}
 
@@ -256,6 +256,8 @@ c. {3-1-10-c-p}
 | Ba é *an ceann* ba mheasa *de* na scannáin uile a chonaiceamar é. | It was *the* worst *of all* the movies we saw.
 |===
 
+'''
+
 == 3.2 {3-2-title}
 
 === 3.2.1 {3-2-1-title}
@@ -266,8 +268,8 @@ a. {3-2-1-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Scríobh sé leabhar *faoi SAM*. | [TODO]
-| Tá agallamh aige *le OÉ* Gaillimh. | [TODO]
+| Scríobh sé leabhar *faoi SAM*. | He wrote a book *about the SAM*.
+| Tá agallamh aige *le OÉ* Gaillimh. | He has an interview *with OÉ* Galway
 |===
 
 b. {3-2-1-b-p}
@@ -275,8 +277,8 @@ b. {3-2-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá sí ag obair *in RTÉ*. | [TODO]
-| Tá na milliúin euro *in CSE*. | [TODO]
+| Tá sí ag obair *in RTÉ*. | She works *at RTÉ*.
+| Tá na milliúin euro *in CSE*. | There are millions of euros *in the ESF*.
 |===
 
 c. {3-2-1-c-p1}
@@ -284,8 +286,8 @@ c. {3-2-1-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is ag cruinnithe *de OLAF* a pléadh an cheist. | [TODO]
-| Tugadh aitheantas *do ÍMAT* mar chóras cánach a bhfuil ag éirí go maith leis. | [TODO]
+| Is ag cruinnithe *de OLAF* a pléadh an cheist. | The issue was discussed *at OLAF* meetings.
+| Tugadh aitheantas *do ÍMAT* mar chóras cánach a bhfuil ag éirí go maith leis. | *ÍMAT* has been recognized as a successful tax system.
 |===
 +
 {3-2-1-c-p2}
@@ -293,8 +295,8 @@ c. {3-2-1-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| An bhfuil an cur chuige bunaithe ar an *Ionstraim Eorpach Aonair*? | [TODO]
-| Tá súil ag na *Náisiúin Aontaithe* go mbeidh dea-thoradh ar an bpróiseas. | [TODO]
+| An bhfuil an cur chuige bunaithe ar an *Ionstraim Eorpach Aonair*? | Is this approach based on the *Single European Act*?
+| Tá súil ag na *Náisiúin Aontaithe* go mbeidh dea-thoradh ar an bpróiseas. | The *United Nations* hopes that the process will have a positive outcome.
 |===
 
 === 3.2.2 {3-2-2-title}
@@ -309,20 +311,20 @@ A. *{3-2-2-A-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá *SAM* ina bhall den Chomhairle Slándála. | [TODO]
-| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | [TODO]
-| Tagann Airí Bhallstáit *AE* le chéile sa Chomhairle. | [TODO]
-| Tá obair ar bun le haghaidh dhíscaoileadh *CTT*. | [TODO]
-| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *NA*. | [TODO]
+| Tá *SAM* ina bhall den Chomhairle Slándála. | *The SAM* is a member of the Security Council.
+| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | The *OÉ*'s policies are focused on developing education.
+| Tagann Airí Bhallstáit *AE* le chéile sa Chomhairle. | Ministers of the *AE* Member States meet in the Council.
+| Tá obair ar bun le haghaidh dhíscaoileadh *CTT*. | Work is underway to disolve the *CTT*.
+| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *NA*. | She is working in collaboration with an *NA* Investigation Group.
 |===
 +
   b. {3-2-2-A-b-p}
 +
 [.samplebox]
-[cols="1,1"]
 |===
-| An *é* FSS a bhfuil freagracht *air* as cúrsaí sláinte? | [TODO]
-| Maidir le NA, is é 193 líon *a* bhall. | [TODO]
+// No need to translate to English since the Irish concept here is self-evident.
+| An *é* FSS a bhfuil freagracht *air* as cúrsaí sláinte?
+| Maidir le NA, is é 193 líon *a* bhall.
 |===
 
 B. *{3-2-2-B-title}*
@@ -334,8 +336,8 @@ B. *{3-2-2-B-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá *SAM* ina bhall den Chomhairle Slándála. | [TODO]
-| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | [TODO]
+| Tá *SAM* ina bhall den Chomhairle Slándála. | *The SAM* is a member of the Security Council.
+| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | The *OÉ*'s policies are focused on developing education.
 |===
 +
   b. {3-2-2-B-b-p}
@@ -343,18 +345,17 @@ B. *{3-2-2-B-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tagann Airí Bhallstáit *an AE* le chéile sa Chomhairle. | [TODO]
-| Cé atá i dteideal maoiniú *faoin CTT*? | [TODO]
-| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *na NA*. | [TODO]
+| Tagann Airí Bhallstáit *an AE* le chéile sa Chomhairle. | Ministers of *the AE* Member States meet in the Council.
+| Cé atá i dteideal maoiniú *faoin CTT*? | Who is eligible for funding *under the CTT*?
+| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *na NA*. | She is working in collaboration with an Investigation Team of *the NA*.
 |===
 +
   c. {3-2-2-B-c-p}
 +
 [.samplebox]
-[cols="1,1"]
 |===
-| Maidir leis *na NA*, is é 193 líon *a* bhall. | [TODO]
-| Síníodh *an IEA* sa bhliain 1986 agus tá feidhm reachtach *aige*. | [TODO]
+| Maidir leis *na NA*, is é 193 líon *a* bhall.
+| Síníodh *an IEA* sa bhliain 1986 agus tá feidhm reachtach *aige*.
 |===
 
 === 3.2.3 {3-2-3-title}
