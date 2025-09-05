@@ -29,7 +29,7 @@ b. {3-1-2-b}
 |===
 | An bhfaca tú *an t-eitleán* mór sin? | Did you see *that* big *airplaine*?
 | Tá *an ghealach* lán anocht. | *The moon* is full tonight.
-| An raibh *an tiománaí* tacsaí ag an gcruinniú? | [TODO]
+| An raibh *an tiománaí* tacsaí ag an gcruinniú? | Was *the* taxi *driver* at the meeting?
 |===
 
 c. {3-1-2-c}
@@ -37,10 +37,10 @@ c. {3-1-2-c}
 [.samplebox]
 [cols="1,1"]
 |===
-| Ar bhuail tú le *mo dheartháir*? | [TODO]
-| *A hathair* a d'inis an scéal di. | [TODO]
-| Bhí sí ag glanadh *a bróg* peile. (_iol._) | [TODO]
-| Chuaigh sé i gcomhair *a chupáin* tae. (_u._) | [TODO]
+| Ar bhuail tú le *mo dheartháir*? | Have you met *my brother*?
+| *A hathair* a d'inis an scéal di. | *Her father* told her the story.
+| Bhí sí ag glanadh *a bróg* peile. (_iol._) | She was cleaining *her* football *shoes*. (_pl._)
+| Chuaigh sé i gcomhair *a chupáin* tae. (_u._) | He went for *his cup* of tea. (_sg._)
 |===
 
 d. {3-1-2-d}
@@ -48,9 +48,9 @@ d. {3-1-2-d}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí *gach duine* den teaghlach i láthair. | [TODO]
-| Buaileann sé isteach ag an am céanna *gach aon lá*. | [TODO]
-| Baineann an t-acht leasaithe le *gach uile fheithicil* inneallghluaiste. | [TODO]
+| Bhí *gach duine* den teaghlach i láthair. | *Every person* in the family was present. 
+| Buaileann sé isteach ag an am céanna *gach aon lá*. | He comes in at the same time *every single day*.
+| Baineann an t-acht leasaithe le *gach uile fheithicil* inneallghluaiste. | The amended act applies to *all* mechanical *vehicles*.
 |===
 
 e. {3-1-2-e}
@@ -58,8 +58,8 @@ e. {3-1-2-e}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bain triail as *ceist a ceathair*. | [TODO]
-| Ar sheiceáil tú *Aguisín A*? | [TODO]
+| Bain triail as *ceist a ceathair*. | Try *question four*.
+| Ar sheiceáil tú *Aguisín A*? | Did you check *Appendix A*?
 |===
 
 f. {3-1-2-f}
@@ -67,12 +67,12 @@ f. {3-1-2-f}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an fhéile á heagrú i gcomhar le *muintir Thamhlachta*. | [TODO]
-| An é *leabhar an mhúinteora* é? | [TODO]
-| Ar labhair tú le *bainisteoir an óstáin*? | [TODO]
-| Thug sé cuairt ar *theach a iníne*. | [TODO]
-| Tá *ainm gach imreora* ar eolas aige. | [TODO]
-| Tugadh ardmholadh *d'fhoireann Bhus 16*. | [TODO]
+| Tá an fhéile á heagrú i gcomhar le *muintir Thamhlachta*. | The festival is being organized in collaboration with *the people of Tallaght*.
+| An é *leabhar an mhúinteora* é? | Is it the *teacher's book*? 
+| Ar labhair tú le *bainisteoir an óstáin*? | Did you speak with *the hotel manager*?
+| Thug sé cuairt ar *theach a iníne*. | He visited *his daughter's house*.
+| Tá *ainm gach imreora* ar eolas aige. | He knows *the name of every player*.
+| Tugadh ardmholadh *d'fhoireann Bhus 16*. | The *Bus 16 Team* was highly commended.
 |===
 
 g. {3-1-2-g}
@@ -80,8 +80,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Céard atá á dhéanamh agat ansin, *a mhic*? | [TODO]
-| Ní chreidfeá é, *a thaisce*. | [TODO]
+| Céard atá á dhéanamh agat ansin, *a mhic*? | What are you doing there, *son*?
+| Ní chreidfeá é, *a thaisce*. | You would not believe it, *dear*.
 |===
 
 === 3.1.3
@@ -91,8 +91,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí mé ar *an Earagail* inné. | [TODO]
-| Cé a scríobh _**An Grá agus an Ghruaim**_? | [TODO]
+| Bhí mé ar *an Earagail* inné. | I was on *the Erigail* yesterday.
+| Cé a scríobh _**An Grá agus an Ghruaim**_? | Who wrote _**Love and Grief**_
 |===
 
 {3-1-3-p2}
@@ -104,8 +104,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an-eolas aici ar litríocht *na hÉireann*. | [TODO]
-| Blas *na Gaillimhe* atá ar a cuid cainte. | [TODO]
+| Tá an-eolas aici ar litríocht *na hÉireann*. | She knows a lot about *the* literature *of Ireland*.
+| Blas *na Gaillimhe* atá ar a cuid cainte. | Her speech has *the* flavor of *Galway*.
 |===
 
 {3-1-4-p2}
@@ -113,8 +113,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is clár de chuid *Raidió Teilifís Éireann* é. | [TODO]
-| Is í *rogha ban Éireann* í. | [TODO]
+| Is clár de chuid *Raidió Teilifís Éireann* é. | It is a program from *Raidió Teilifís Éireann*
+| Is í *rogha ban Éireann* í. | It is the *choice of Irish women*.
 |===
 
 === 3.1.5
@@ -124,8 +124,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is é sin *an t-inneall fuála Singer* a cheannaigh mo sheanmháthair. | [TODO]
-| Shábháil mé sa *scarbhileog Excel* chéanna é. | [TODO]
+| Is é sin *an t-inneall fuála Singer* a cheannaigh mo sheanmháthair. | This is *the Singer sewing machine* that my grandmother bought.
+| Shábháil mé sa *scarbhileog Excel* chéanna é. | I saved it in the same *Excel spreadsheet*.
 |===
 
 === 3.1.6

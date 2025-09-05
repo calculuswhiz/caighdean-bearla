@@ -4406,7 +4406,7 @@ b. {3-1-2-b}
 |===
 | An bhfaca tú *an t-eitleán* mór sin? | Did you see *that* big *airplaine*?
 | Tá *an ghealach* lán anocht. | *The moon* is full tonight.
-| An raibh *an tiománaí* tacsaí ag an gcruinniú? | [TODO]
+| An raibh *an tiománaí* tacsaí ag an gcruinniú? | Was *the* taxi *driver* at the meeting?
 |===
 
 c. {3-1-2-c}
@@ -4414,10 +4414,10 @@ c. {3-1-2-c}
 [.samplebox]
 [cols="1,1"]
 |===
-| Ar bhuail tú le *mo dheartháir*? | [TODO]
-| *A hathair* a d'inis an scéal di. | [TODO]
-| Bhí sí ag glanadh *a bróg* peile. (_iol._) | [TODO]
-| Chuaigh sé i gcomhair *a chupáin* tae. (_u._) | [TODO]
+| Ar bhuail tú le *mo dheartháir*? | Have you met *my brother*?
+| *A hathair* a d'inis an scéal di. | *Her father* told her the story.
+| Bhí sí ag glanadh *a bróg* peile. (_iol._) | She was cleaining *her* football *shoes*. (_pl._)
+| Chuaigh sé i gcomhair *a chupáin* tae. (_u._) | He went for *his cup* of tea. (_sg._)
 |===
 
 d. {3-1-2-d}
@@ -4425,9 +4425,9 @@ d. {3-1-2-d}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí *gach duine* den teaghlach i láthair. | [TODO]
-| Buaileann sé isteach ag an am céanna *gach aon lá*. | [TODO]
-| Baineann an t-acht leasaithe le *gach uile fheithicil* inneallghluaiste. | [TODO]
+| Bhí *gach duine* den teaghlach i láthair. | *Every person* in the family was present. 
+| Buaileann sé isteach ag an am céanna *gach aon lá*. | He comes in at the same time *every single day*.
+| Baineann an t-acht leasaithe le *gach uile fheithicil* inneallghluaiste. | The amended act applies to *all* mechanical *vehicles*.
 |===
 
 e. {3-1-2-e}
@@ -4435,8 +4435,8 @@ e. {3-1-2-e}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bain triail as *ceist a ceathair*. | [TODO]
-| Ar sheiceáil tú *Aguisín A*? | [TODO]
+| Bain triail as *ceist a ceathair*. | Try *question four*.
+| Ar sheiceáil tú *Aguisín A*? | Did you check *Appendix A*?
 |===
 
 f. {3-1-2-f}
@@ -4444,12 +4444,12 @@ f. {3-1-2-f}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an fhéile á heagrú i gcomhar le *muintir Thamhlachta*. | [TODO]
-| An é *leabhar an mhúinteora* é? | [TODO]
-| Ar labhair tú le *bainisteoir an óstáin*? | [TODO]
-| Thug sé cuairt ar *theach a iníne*. | [TODO]
-| Tá *ainm gach imreora* ar eolas aige. | [TODO]
-| Tugadh ardmholadh *d'fhoireann Bhus 16*. | [TODO]
+| Tá an fhéile á heagrú i gcomhar le *muintir Thamhlachta*. | The festival is being organized in collaboration with *the people of Tallaght*.
+| An é *leabhar an mhúinteora* é? | Is it the *teacher's book*? 
+| Ar labhair tú le *bainisteoir an óstáin*? | Did you speak with *the hotel manager*?
+| Thug sé cuairt ar *theach a iníne*. | He visited *his daughter's house*.
+| Tá *ainm gach imreora* ar eolas aige. | He knows *the name of every player*.
+| Tugadh ardmholadh *d'fhoireann Bhus 16*. | The *Bus 16 Team* was highly commended.
 |===
 
 g. {3-1-2-g}
@@ -4457,8 +4457,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Céard atá á dhéanamh agat ansin, *a mhic*? | [TODO]
-| Ní chreidfeá é, *a thaisce*. | [TODO]
+| Céard atá á dhéanamh agat ansin, *a mhic*? | What are you doing there, *son*?
+| Ní chreidfeá é, *a thaisce*. | You would not believe it, *dear*.
 |===
 
 === 3.1.3
@@ -4468,8 +4468,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí mé ar *an Earagail* inné. | [TODO]
-| Cé a scríobh _**An Grá agus an Ghruaim**_? | [TODO]
+| Bhí mé ar *an Earagail* inné. | I was on *the Erigail* yesterday.
+| Cé a scríobh _**An Grá agus an Ghruaim**_? | Who wrote _**Love and Grief**_
 |===
 
 {3-1-3-p2}
@@ -4481,8 +4481,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an-eolas aici ar litríocht *na hÉireann*. | [TODO]
-| Blas *na Gaillimhe* atá ar a cuid cainte. | [TODO]
+| Tá an-eolas aici ar litríocht *na hÉireann*. | She knows a lot about *the* literature *of Ireland*.
+| Blas *na Gaillimhe* atá ar a cuid cainte. | Her speech has *the* flavor of *Galway*.
 |===
 
 {3-1-4-p2}
@@ -4490,8 +4490,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is clár de chuid *Raidió Teilifís Éireann* é. | [TODO]
-| Is í *rogha ban Éireann* í. | [TODO]
+| Is clár de chuid *Raidió Teilifís Éireann* é. | It is a program from *Raidió Teilifís Éireann*
+| Is í *rogha ban Éireann* í. | It is the *choice of Irish women*.
 |===
 
 === 3.1.5
@@ -4501,8 +4501,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is é sin *an t-inneall fuála Singer* a cheannaigh mo sheanmháthair. | [TODO]
-| Shábháil mé sa *scarbhileog Excel* chéanna é. | [TODO]
+| Is é sin *an t-inneall fuála Singer* a cheannaigh mo sheanmháthair. | This is *the Singer sewing machine* that my grandmother bought.
+| Shábháil mé sa *scarbhileog Excel* chéanna é. | I saved it in the same *Excel spreadsheet*.
 |===
 
 === 3.1.6
@@ -5432,43 +5432,43 @@ Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_u._)
 :3-1-1-p_en: [TODO] Bíonn ainmfhocal cinnte nó éiginnte. Is ainmfhocal cinnte ainmfhocal a thagraíonn do dhuine nó do rud cinnte. Is ar cheann de na slite a léirítear in 3.1.2 thíos a dhéantar tagairt do dhuine nó do rud cinnte. Is ainmfhocal éiginnte ainmfhocal in aon chás eile.
 
 :3-1-2-p_ga: Is ainmfhocal cinnte --
-:3-1-2-p_en: [TODO] Is ainmfhocal cinnte --
+:3-1-2-p_en: A definite noun is --
 
 :3-1-2-a_ga: ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán, Gráinne, Leamhcán_:
-:3-1-2-a_en: [TODO] ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán, Gráinne, Leamhcán_:
+:3-1-2-a_en: a proper name (names of particular people or places), e.g., _Fionnán, Gráinne, Leamhcán_:
 
 :3-1-2-b_ga: ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
-:3-1-2-b_en: [TODO] ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
+:3-1-2-b_en: a noun that is preceded by the article, e.g., _an tAcht, an obair, an fhadhb_:
 
 :3-1-2-c_ga: ainmfhocal a bhfuil aidiacht shealbhach roimhe, e.g., _mo mhac, a hathair, a ngluaisteán_:
-:3-1-2-c_en: [TODO] ainmfhocal a bhfuil aidiacht shealbhach roimhe, e.g., _mo mhac, a hathair, a ngluaisteán_:
+:3-1-2-c_en: a noun that is preceded by a possessive adjective, e.g., _mo mhac, a hathair, a ngluaisteán_:
 
-:3-1-2-d_ga: ainmfhocal a bhfuil \`gach, gach aon\` nó \`gach uile\` roimhe:
-:3-1-2-d_en: [TODO] ainmfhocal a bhfuil \`gach, gach aon\` nó \`gach uile\` roimhe:
+:3-1-2-d_ga: ainmfhocal a bhfuil _gach, gach aon_ nó _gach uile_ roimhe:
+:3-1-2-d_en: a noun that is preceded by _gach, gach aon_ or _gach uile_:
 
 :3-1-2-e_ga: ainmfhocal a bhfuil uimhir nó litir ar a lorg, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
-:3-1-2-e_en: [TODO] ainmfhocal a bhfuil uimhir nó litir ar a lorg, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
+:3-1-2-e_en: a noun that has a number or letter following it, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
 
 :3-1-2-f_ga: ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
-:3-1-2-f_en: [TODO] ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
+:3-1-2-f_en: a noun that has a definite noun following it, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
 
 :3-1-2-g_ga: ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
-:3-1-2-g_en: [TODO] ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
+:3-1-2-g_en: a noun in the vocative case, e.g., _a bhean, a dhuine uasail_:
 
 :3-1-3-p1_ga: Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
-:3-1-3-p1_en: [TODO] Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
+:3-1-3-p1_en: The article is often a part of the proper name (especially for place names) and the article must be used in these cases, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (when it comes to the book), _na Cruacha Dubha_.
 
 :3-1-3-p2_ga: Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
-:3-1-3-p2_en: [TODO] Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
+:3-1-3-p2_en: Note, in cases where it is usual to use the article with a proper name, the article is not put in if the proper name is functioning as an adjective, e.g., _an Nollaig_ vs _cárta Nollag_; _an Ardteist_ vs _scrúdú Ardteiste_; _an Cháisc_ vs _ubh Chásca_.
 
 :3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (féach 1.1.5(i)A).
-:3-1-4-p1_en: [TODO] Úsáidtear an t-alt roimh ghinideach _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (féach 1.1.5(i)A).
+:3-1-4-p1_en: The article is used before genitive _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (see 1.1.5(i)A).
 
 :3-1-4-p2_ga: Fágtar an t-alt ar lár roimh _Éireann_ i roinnt leaganacha oifigiúla, áfach, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, agus i roinnt seanleaganacha agus leaganacha fileata, e.g., _plúr ban Éireann, bánchnoic Éireann_.
-:3-1-4-p2_en: [TODO] Fágtar an t-alt ar lár roimh _Éireann_ i roinnt leaganacha oifigiúla, áfach, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, agus i roinnt seanleaganacha agus leaganacha fileata, e.g., _plúr ban Éireann, bánchnoic Éireann_.
+:3-1-4-p2_en: The article is left out before _Éireann_ in some official forms, however, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, and in some old forms and poetic forms, e.g., _plúr ban Éireann, bánchnoic Éireann_.
 
 :3-1-5-p_ga: Is féidir an t-alt a úsáid le hainmneacha trádála nuair atá feidhm aidiachtach acu, e.g.,_an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
-:3-1-5-p_en: [TODO] Is féidir an t-alt a úsáid le hainmneacha trádála nuair atá feidhm aidiachtach acu, e.g.,_an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
+:3-1-5-p_en: It is possible to use the article with trade names when they have adjectival function, e.g., _an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
 
 :3-1-6-p1_ga: Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
 :3-1-6-p1_en: [TODO] Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
