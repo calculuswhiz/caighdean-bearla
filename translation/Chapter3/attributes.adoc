@@ -47,49 +47,49 @@
 :3-1-5-p_en: It is possible to use the article with trade names when they have adjectival function, e.g., _an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
 
 :3-1-6-p1_ga: Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
-:3-1-6-p1_en: [TODO] Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
+:3-1-6-p1_en: The article is not put in front of a noun if it is qualified with a definite noun in the genitive, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (when a certain taxi is involved).
 
 :3-1-6-p2_ga: Cuirtear an t-alt roimh an gcéad ainmfhocal má tá sé cáilithe le hainmfhocal éiginnte, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (cineál áirithe tiománaí); _an freastalaí beáir, an freastalaí bialainne_ (cineál áirithe freastalaí); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (cineál áirithe oifigigh) (féach 3.1.9).
-:3-1-6-p2_en: [TODO] Cuirtear an t-alt roimh an gcéad ainmfhocal má tá sé cáilithe le hainmfhocal éiginnte, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (cineál áirithe tiománaí); _an freastalaí beáir, an freastalaí bialainne_ (cineál áirithe freastalaí); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (cineál áirithe oifigigh) (féach 3.1.9).
+:3-1-6-p2_en: The article is put in front of the first noun if it is qualified with an indefinite noun, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (a certain type of driver); _an freastalaí beáir, an freastalaí bialainne_ (a certain type of server); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (a certain type of officer) (see 3.1.9).
 
 :3-1-7-p1_ga: Tá roinnt frásaí ainmfhoclacha ann a bhfuil ainmfhocal iontu a bheadh cinnte de réir 3.1.2 ach atá éiginnte toisc go bhfuil an frása iomlán á úsáid ina aonad amháin brí mar ainmfhocal éiginnte. Uaireanta, sna cásanna sin, úsáidtear an t-alt nuair atá an frása iomlán ag feidhmiú mar ainmfhocal cinnte, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
-:3-1-7-p1_en: [TODO] Tá roinnt frásaí ainmfhoclacha ann a bhfuil ainmfhocal iontu a bheadh cinnte de réir 3.1.2 ach atá éiginnte toisc go bhfuil an frása iomlán á úsáid ina aonad amháin brí mar ainmfhocal éiginnte. Uaireanta, sna cásanna sin, úsáidtear an t-alt nuair atá an frása iomlán ag feidhmiú mar ainmfhocal cinnte, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
+:3-1-7-p1_en: There are some noun phrases that have nouns in them which would be definite according to 3.1.2 are indefinite because the whole phrase is being used as a single unit of meaning as an indefnite noun. Sometimes, in these cases, the article is used when the whole phrase functions as a definite noun, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
 
 :3-1-7-p2_ga: Tabhair faoi deara go gcoinnítear an t-alt freisin i gcás go dtagann uimhir nó litir i ndiaidh ainmfhocal atá á cháiliú le forainmneach taispeántach, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
-:3-1-7-p2_en: [TODO] Tabhair faoi deara go gcoinnítear an t-alt freisin i gcás go dtagann uimhir nó litir i ndiaidh ainmfhocal atá á cháiliú le forainmneach taispeántach, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
+:3-1-7-p2_en: Note that the article is also retained when a number or letter comes after a noun that is qualified by a demonstrative pronoun, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
 
 :3-1-8-p_ga: Maidir le teidil a mbíonn blianta ag gabháil leo -- teidil féilte agus tuarascálacha bliantúla, mar shampla -- níor cheart an t-alt a úsáid ach amháin más aonaid bhrí ar leithligh iad an dáta agus an chuid eile den teideal. Ní hionann brí _An tOireachtas_, _2010_ agus _Oireachtas 2010_ ná _An Tuarascáil Bhliantúil_, _2009_ agus _Tuarascáil Bhliantúil 2009_.
-:3-1-8-p_en: [TODO] Maidir le teidil a mbíonn blianta ag gabháil leo -- teidil féilte agus tuarascálacha bliantúla, mar shampla -- níor cheart an t-alt a úsáid ach amháin más aonaid bhrí ar leithligh iad an dáta agus an chuid eile den teideal. Ní hionann brí _An tOireachtas_, _2010_ agus _Oireachtas 2010_ ná _An Tuarascáil Bhliantúil_, _2009_ agus _Tuarascáil Bhliantúil 2009_.
+:3-1-8-p_en: As for titles with years accompanying them -- festival titles and annual reports, for example -- it is not correct to use the article except when the date and title have sparate units of meaning. These have different meanings: _An tOireachtas, 2010_ and _Oireachtas 2010_ or _An Tuarascáil Bhliantúil, 2009_ and _Tuarascáil Bhliantúil 2009_.
 
-:3-1-9-p_ga: Úsáidtear an tuiseal ginideach sna cásanna seo a leanas (féach na cásanna eile in 1.5.1)--
-:3-1-9-p_en: [TODO] Úsáidtear an tuiseal ginideach sna cásanna seo a leanas (féach na cásanna eile in 1.5.1)--
+:3-1-9-p_ga: Úsáidtear an tuiseal ginideach sna cásanna seo a leanas (féach na cásanna eile in 1.5.1) --
+:3-1-9-p_en: The genitive case is used in the following situations (see other situations in 1.5.1) --
 
 :3-1-9-a-p_ga: nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal cinnte eile:
-:3-1-9-a-p_en: [TODO] nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal cinnte eile:
+:3-1-9-a-p_en: when the definite noun is qualified by other definite nouns:
 
 :3-1-9-b-p_ga: nuair atá ainmfhocal éiginnte á cháiliú le hainmfhocal éiginnte eile:
-:3-1-9-b-p_en: [TODO] nuair atá ainmfhocal éiginnte á cháiliú le hainmfhocal éiginnte eile:
+:3-1-9-b-p_en: when an indefnite noun is qualified by another indefinite noun:
 
 :3-1-9-c-p_ga: nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal éiginnte:
-:3-1-9-c-p_en: [TODO] nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal éiginnte:
+:3-1-9-c-p_en: when the definite noun is qualified by an indefnite noun:
 
 :3-1-10-p_ga: A thúisce a cháilítear ainmfhocal éiginnte le hainmfhocal cinnte, ní ainmfhocal éiginnte é a thuilleadh ach ainmfhocal cinnte. Dá réir sin, más brí éiginnte atá i gceist, ní foláir fochlásal réamhfhoclach nó réamhfhocal a úsáid chun an nasc idir na hainmfhocail a léiriú.
-:3-1-10-p_en: [TODO] A thúisce a cháilítear ainmfhocal éiginnte le hainmfhocal cinnte, ní ainmfhocal éiginnte é a thuilleadh ach ainmfhocal cinnte. Dá réir sin, más brí éiginnte atá i gceist, ní foláir fochlásal réamhfhoclach nó réamhfhocal a úsáid chun an nasc idir na hainmfhocail a léiriú.
+:3-1-10-p_en: Once an indefinite noun is qualified with a definite noun, it is no longer an indefinite noun but a definite noun. Accordingly, if the meaning is indefinite, a prepositional clause or preposition must be used to indeicate the connection between the nouns.
 
 :3-1-10-a-p_ga: Úsáidtear _de_ más cuid nó páirt atá i gceist, e.g., _Ballstát den Aontas Eorpach_; _gloine den bheoir gheal_:
-:3-1-10-a-p_en: [TODO] Úsáidtear _de_ más cuid nó páirt atá i gceist, e.g., _Ballstát den Aontas Eorpach_; _gloine den bheoir gheal_:
+:3-1-10-a-p_en: _de_ is used if referring to a portion or part, e.g., _Ballstát den Aontas Eorpach_; _gloine den bheoir gheal_:
 
 :3-1-10-b-p_ga: Úsáidtear _de chuid_ i gcás gur ní as measc grúpa de nithe iomadúla den saghas céanna atá i gceist, e.g., _iománaí de chuid na Gaillimhe_; _feidhmeanna áirithe de chuid an choiste_:
-:3-1-10-b-p_en: [TODO] Úsáidtear _de chuid_ i gcás gur ní as measc grúpa de nithe iomadúla den saghas céanna atá i gceist, e.g., _iománaí de chuid na Gaillimhe_; _feidhmeanna áirithe de chuid an choiste_:
+:3-1-10-b-p_en: _de chuid_ is used when the item in question is one of a group of many items of the same type, e.g., _iománaí de chuid na Gaillimhe_; _feidhmeanna áirithe de chuid an choiste_:
 
 :3-1-10-c-p_ga: Úsáidtear réamhfhocal eile (_le_, etc.) i gcásanna eile chun éiginnteacht a chur in iúl, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
-:3-1-10-c-p_en: [TODO] Úsáidtear réamhfhocal eile (_le_, etc.) i gcásanna eile chun éiginnteacht a chur in iúl, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
+:3-1-10-c-p_en: Another preposition is used (_le_, etc.) in other cases to express indefiniteness, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
 
 :3-1-11-p_ga: Is minic i gcás 3.1.10(b) thuas, áfach, gur feiliúnaí ceann de na focail ionadacha _ceann_, _cuid_ nó _duine_ a chur in ionad an chéad ainmfhocail, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. Is féidir, freisin, an t-ainmfhocal a úsáid faoi dhó, e.g., _dán de dhánta Uí Bhruadair_.
-:3-1-11-p_en: [TODO] Is minic i gcás 3.1.10(b) thuas, áfach, gur feiliúnaí ceann de na focail ionadacha _ceann_, _cuid_ nó _duine_ a chur in ionad an chéad ainmfhocail, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. Is féidir, freisin, an t-ainmfhocal a úsáid faoi dhó, e.g., _dán de dhánta Uí Bhruadair_.
+:3-1-11-p_en: Often as with 3.1.10(b) above, however, one of the substitute words _ceann_, _cuid_ or _duine_ is more appropriate to replace the first noun, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. It is also possible to use the noun twice, e.g., _dán de dhánta Uí Bhruadair_.
 
 :3-1-11-note_ga: Úsáidtear na struchtúir chéanna uaireanta i gcás ainmfhocail chinnte, e.g., _an ghloine dheireanach den fhíon dearg_; _an chuid is fearr den leabhar_.
-:3-1-11-note_en: [TODO] Úsáidtear na struchtúir chéanna uaireanta i gcás ainmfhocail chinnte, e.g., _an ghloine dheireanach den fhíon dearg_; _an chuid is fearr den leabhar_.
+:3-1-11-note_en: The same structures are used sometimes for definite nouns, e.g., _an ghloine dheireanach den fhíon dearg_; _an chuid is fearr den leabhar_.
 
 :3-2-title_ga: Giorrúcháin agus Acrainmneacha
 :3-2-title_en: Abbreviations and Acronyms
