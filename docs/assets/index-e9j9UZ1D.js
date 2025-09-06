@@ -5018,15 +5018,15 @@ c. {3-3-4-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Tá siad ag tabhairt aghaidh* ar an bhfoireann eile anois. | [TODO]
-| *Is ag baint leas* as an gcóras atá siad. | [TODO]
-| *Tá an scoil ag cur deireadh* leis an scéim. | [TODO]
-| *Is léir go bhfuil na mic léinn ag baint taitneamh* as an oíche. | [TODO]
-| *Tá sé ag fágáil slán* leis. | [TODO]
-| *Stiúrthóirí do thabhairt aird* ar leasanna fostaithe. | [TODO]
-| *Tá siad ag baint triail* as roghchlár nua. | [TODO]
-| *Bhí an eagraíocht ag cur tionscadail* chun cinn. (_iol._) | [TODO]
-| *Tá an Roinn ag cur beartais* i bhfeidhm. (_iol._) | [TODO]
+| *Tá siad ag tabhairt aghaidh* ar an bhfoireann eile anois. | *They are facing* the other team now.
+| *Is ag baint leas* as an gcóras atá siad. | They are *taking advantage* of the system.
+| *Tá an scoil ag cur deireadh* leis an scéim. | *The school is ending* the scheme.
+| *Is léir go bhfuil na mic léinn ag baint taitneamh* as an oíche. | *The students are are clearly enjoying* the night.
+| *Tá sé ag fágáil slán* leis. | *He is saying good-bye* to him.
+| *Stiúrthóirí do thabhairt aird* ar leasanna fostaithe. | *Directors to give attention* to the interests of employees.
+| *Tá siad ag baint triail* as roghchlár nua. | *They are trying out* a new menu.
+| *Bhí an eagraíocht ag cur tionscadail* chun cinn. (_iol._) | *The organization was* advancing *projects*. (_pl._)
+| *Tá an Roinn ag cur beartais* i bhfeidhm. (_iol._) | *The Department is* implementing *policies*. (_pl._)
 |===
 
 {3-3-5-p2}
@@ -5034,13 +5034,13 @@ c. {3-3-4-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Bhí sé ag cur báistí* (i gCorcaigh). | [TODO]
-| *Tá sí ag déanamh oibre* (san oifig). | [TODO]
-| *Bíonn siad ag bailiú airgid* (ann). | [TODO]
-| *Beidh sé ag tabhairt cabhrach* (in am an ghátair). | [TODO]
-| *Tá sí ag fáil bháis* (san ospidéal). | [TODO]
-| *An bhfuil sí ag imirt peile* (leis na comharsana)? | [TODO]
-| *Bhí siad ag gabháil fhoinn* (sa teach). | [TODO]
+| *Bhí sé ag cur báistí* (i gCorcaigh). | *It was raining* (in Cork).
+| *Tá sí ag déanamh oibre* (san oifig). | *She was doing work* (in the office).
+| *Bíonn siad ag bailiú airgid* (ann). | *They are collecting money* (there).
+| *Beidh sé ag tabhairt cabhrach* (in am an ghátair). | *He will give help* (in times of need).
+| *Tá sí ag fáil bháis* (san ospidéal). | *She is dying* (in the hospital).
+| *An bhfuil sí ag imirt peile* (leis na comharsana)? | *Is she playing football* (with the neighbors)?
+| *Bhí siad ag gabháil fhoinn* (sa teach). | *They were singing* (in the house).
 |===
 
 '''
@@ -5709,10 +5709,10 @@ Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_u._)
 :3-3-5-title_en: The Indefinite Noun -- Verbal Noun Clauses that are not Independent Sentences
 
 :3-3-5-p1_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte i gclásal ina bhfuil an t-ainmfhocal éiginnte faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe más rud é nach féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach a bheith ina dhiaidh. Na focail a bhfuil cló trom orthu anseo thíos, ní féidir leo feidhmiú go neamhspleách astu féin.
-:3-3-5-p1_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte i gclásal ina bhfuil an t-ainmfhocal éiginnte faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe más rud é nach féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach a bheith ina dhiaidh. Na focail a bhfuil cló trom orthu anseo thíos, ní féidir leo feidhmiú go neamhspleách astu féin.
+:3-3-5-p1_en: The genitive of an indefinite noun is not changed in clauses where the indefinite noun is subject to a verbal noun where _ag_ or _do_ (or _a_ from _do_) precedes it if that verbal noun clause cannot function independently without being followed by a simple prepostition or a prepositional clause. The words in bold below cannot function independently on their own.
 
 :3-3-5-p2_ga: *Ach*, d'ainneoin sin, más rud é gur dlúthchuid den chlásal ainm bhriathartha an t-ainmfhocal éiginnte agus gur féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sin. Na focail a bhfuil cló trom orthu anseo thíos, is féidir leo feidhmiú go neamhspleách astu féin agus déantar athrú an ghinidigh ar an ainmfhocal éiginnte dá réir sin.
-:3-3-5-p2_en: [TODO] *Ach*, d'ainneoin sin, más rud é gur dlúthchuid den chlásal ainm bhriathartha an t-ainmfhocal éiginnte agus gur féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sin. Na focail a bhfuil cló trom orthu anseo thíos, is féidir leo feidhmiú go neamhspleách astu féin agus déantar athrú an ghinidigh ar an ainmfhocal éiginnte dá réir sin.
+:3-3-5-p2_en: *But*, despite this, if the indefinite noun is an integral part of the verbal noun clause, and the verbal noun clause can function independently, the genitive case of that indefinite noun is changed. The words in bold below can function independently on their own and the genitive case of the indefinite noun is changed accordingly.
 
 :3-3-6-title_ga: An tAinmfhocal Éiginnte -- Téarmaí ar Leith
 :3-3-6-title_en: [TODO] An tAinmfhocal Éiginnte -- Téarmaí ar Leith
