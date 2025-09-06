@@ -70,3 +70,10 @@ npm run dev
 ```
 
 Visit the localhost link.
+
+## Translation notes
+
+### Abbreviations and sources
+Some of these may appear in annotations and comments in the asciidoc code.
+- GT - Google Translate
+- FGB - Foclóir Gaeilge-Béarla, Ó Dónaill, 1977

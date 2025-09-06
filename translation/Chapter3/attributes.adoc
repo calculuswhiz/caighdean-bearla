@@ -5,7 +5,7 @@
 :3-1-title_en: Definite and Indefinite Nouns
 
 :3-1-1-p_ga: Bíonn ainmfhocal cinnte nó éiginnte. Is ainmfhocal cinnte ainmfhocal a thagraíonn do dhuine nó do rud cinnte. Is ar cheann de na slite a léirítear in 3.1.2 thíos a dhéantar tagairt do dhuine nó do rud cinnte. Is ainmfhocal éiginnte ainmfhocal in aon chás eile.
-:3-1-1-p_en: [TODO] Bíonn ainmfhocal cinnte nó éiginnte. Is ainmfhocal cinnte ainmfhocal a thagraíonn do dhuine nó do rud cinnte. Is ar cheann de na slite a léirítear in 3.1.2 thíos a dhéantar tagairt do dhuine nó do rud cinnte. Is ainmfhocal éiginnte ainmfhocal in aon chás eile.
+:3-1-1-p_en: A noun is either definite or indefinite. A definite noun is a noun that refers to a definite person or thing. A definite person or thing is referred to in one of the ways shown in 3.1.2 below. Any other noun is an indefinite noun.
 
 :3-1-2-p_ga: Is ainmfhocal cinnte --
 :3-1-2-p_en: A definite noun is --
@@ -217,44 +217,44 @@
 :3-3-3-title_ga: An tAinmfhocal Éiginnte -- An tAinm Briathartha
 :3-3-3-title_en: The Indefinite Noun -- The Verbal Noun
 
-:3-3-3-p_ga: Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. . Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
-:3-3-3-p_en: [TODO] Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. . Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
+:3-3-3-p_ga: Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
+:3-3-3-p_en: A verbal noun is a word that has both the function of a noun and a verb. It is possible to use words like _eitilt_, _foghlaim_, _snámh_, etc. like nouns, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, and as a verbal noun, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. This accounts for cases where the nominative form is used instead of the genitive form.
 
 :3-3-3-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainm briathartha nuair atá an forainmneach réamhthagrach _a_ roimhe.
-:3-3-3-a-p_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainm briathartha nuair atá an forainmneach réamhthagrach _a_ roimhe.
+:3-3-3-a-p_en: The genitive case of a verbal noun is not changed when preceded by the prepositional pronoun _a_.
 
 :3-3-3-b-p1_ga: Má tá ainm briathartha sa struchtúr _chun_ + _ainm briathartha_ á úsáid chun gníomh atá le teacht a chur in iúl, ní dhéantar athrú an ghinidigh air.
-:3-3-3-b-p1_en: [TODO] Má tá ainm briathartha sa struchtúr _chun_ + _ainm briathartha_ á úsáid chun gníomh atá le teacht a chur in iúl, ní dhéantar athrú an ghinidigh air.
+:3-3-3-b-p1_en: If there is a verbal noun in the structure _chun_ + _ainm briathartha_ used to express an upcoming action, the genitive case is not changed.
 
 :3-3-3-b-p2_ga: *Ach*, más í an bhrí _le haghaidh_ atá ag _chun_, úsáidtear an ginideach.
-:3-3-3-b-p2_en: [TODO] *Ach*, más í an bhrí _le haghaidh_ atá ag _chun_, úsáidtear an ginideach.
+:3-3-3-b-p2_en: *But*, if the meaning of _chun_ is _le haghaidh (for)_, the genitive is used.
 
 :3-3-3-c-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é, má tá sé éiginnte fágtar an t-ainm briathartha gan infhilleadh agus ní dhéantar a thúschonsan a shéimhiú, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (féach 3.3.1(b)):
-:3-3-3-c-p_en: [TODO] I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é, má tá sé éiginnte fágtar an t-ainm briathartha gan infhilleadh agus ní dhéantar a thúschonsan a shéimhiú, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (féach 3.3.1(b)):
+:3-3-3-c-p_en: When the verbal noun is an integral part of a particular unit, e.g., _cur chun cinn_; _cur chuige_; subject to another noun or a form followed by a genitive, if it is indefinite, the verbal noun is left uninflected and the initial consonant is not lenited, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (see 3.3.1(b)):
 
 :3-3-4-title_ga: An tAinmfhocal Éiginnte -- Ainmfhocail Éiginnte a úsáidtear mar Ainmneacha Briathartha
-:3-3-4-title_en: [TODO] An tAinmfhocal Éiginnte -- Ainmfhocail Éiginnte a úsáidtear mar Ainmneacha Briathartha
+:3-3-4-title_en: The Indefinite Noun -- Indefinite Nouns used as Verbal Nouns
 
 :3-3-4-a-p1_ga: Má tá gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, ní dhéantar athrú an ghinidigh air nuair a úsáidtear mar ainm briathartha é.
-:3-3-4-a-p1_en: [TODO] Má tá gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, ní dhéantar athrú an ghinidigh air nuair a úsáidtear mar ainm briathartha é.
+:3-3-4-a-p1_en: If an indefinite noun has a normal genitive following one of the declensions (see 5.6.1) also used as a verbal noun, the genitive case is not changed when it is used as a verbal noun.
 
 :3-3-4-a-p2_ga: *Ach*, déantar athrú an ghinidigh ar an ainmfhocal nuair a úsáidtear mar ainmfhocal éiginnte é.
-:3-3-4-a-p2_en: [TODO] *Ach*, déantar athrú an ghinidigh ar an ainmfhocal nuair a úsáidtear mar ainmfhocal éiginnte é.
+:3-3-4-a-p2_en: *But*, the genitive case of a noun is changed when it is used as an indefinite noun.
 
 :3-3-4-b-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
-:3-3-4-b-p1_en: [TODO] Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
+:3-3-4-b-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see 5.6.1(a)), and if it is the direct object of a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_), the genitive is not changed.
 
 :3-3-4-b-p2_ga: *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
-:3-3-4-b-p2_en: [TODO] *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
+:3-3-4-b-p2_en: *But*, when it is the definite noun, the genitive is changed.
 
 :3-3-4-c-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé faoi réir ag réamhfhocal comhshuite nó i ndiaidh _chun_, ní dhéantar athrú an ghinidigh air.
-:3-3-4-c-p1_en: [TODO] Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé faoi réir ag réamhfhocal comhshuite nó i ndiaidh _chun_, ní dhéantar athrú an ghinidigh air.
+:3-3-4-c-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see 5.6.1(a)), and if it is subject to a compound preposition or follows _chun_, the genitive is not changed.
 
 :3-3-4-c-p2_ga: *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
-:3-3-4-c-p2_en: [TODO] *Ach*, nuair atá an t-ainmfhocal cinnte, déantar athrú an ghinidigh air.
+:3-3-4-c-p2_en: *But*, when it is the definite noun, the genitive is changed.
 
 :3-3-5-title_ga: An tAinmfhocal Éiginnte -- Clásail Ainm Bhriathartha nach Abairtí Neamhspleácha
-:3-3-5-title_en: [TODO] An tAinmfhocal Éiginnte -- Clásail Ainm Bhriathartha nach Abairtí Neamhspleácha
+:3-3-5-title_en: The Indefinite Noun -- Verbal Noun Clauses that are not Independent Sentences
 
 :3-3-5-p1_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte i gclásal ina bhfuil an t-ainmfhocal éiginnte faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe más rud é nach féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach a bheith ina dhiaidh. Na focail a bhfuil cló trom orthu anseo thíos, ní féidir leo feidhmiú go neamhspleách astu féin.
 :3-3-5-p1_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte i gclásal ina bhfuil an t-ainmfhocal éiginnte faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe más rud é nach féidir leis an gclásal ainm bhriathartha sin feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach a bheith ina dhiaidh. Na focail a bhfuil cló trom orthu anseo thíos, ní féidir leo feidhmiú go neamhspleách astu féin.
