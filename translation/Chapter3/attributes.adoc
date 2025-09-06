@@ -158,43 +158,43 @@
 :3-3-1-title_en: The Definite Nouns
 
 :3-3-1-a-p1_ga: Má thagann ainmfhocal cinnte sa ghinideach i ndiaidh ainmfhocal eile, is gnách an t-ainmfhocal eile sin a fhágáil gan infhilleadh agus a thúschonsan a shéimhiú nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é (féach freisin 10.2.6). Fágtar ainmfhocal a bhfuil uimhir nó litir ar a lorg gan infhilleadh agus séimhítear a thúschonsan freisin --
-:3-3-1-a-p1_en: [TODO] Má thagann ainmfhocal cinnte sa ghinideach i ndiaidh ainmfhocal eile, is gnách an t-ainmfhocal eile sin a fhágáil gan infhilleadh agus a thúschonsan a shéimhiú nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é (féach freisin 10.2.6). Fágtar ainmfhocal a bhfuil uimhir nó litir ar a lorg gan infhilleadh agus séimhítear a thúschonsan freisin --
+:3-3-1-a-p1_en: If a definite noun in the genitive comes after another word, it is normal for the other word to be left without inflection and its initual consonant to be lenited when it is subject to a word or form followed by the genitive (see also 10.2.6). A noun that has a number or letter at the end is left without inflection and its initial consonant is also lenited --
 
 :3-3-1-a-i-p_ga: ainm dílis (ainm duine nó áite áirithe):
-:3-3-1-a-i-p_en: [TODO] ainm dílis (ainm duine nó áite áirithe):
+:3-3-1-a-i-p_en: proper name (name of a particlualr person or place):
 
 :3-3-1-a-ii-p_ga: ainmfhocal a bhfuil an t-alt roimhe:
-:3-3-1-a-ii-p_en: [TODO] ainmfhocal a bhfuil an t-alt roimhe:
+:3-3-1-a-ii-p_en: a noun that is preceded by the article:
 
 :3-3-1-a-iii-p_ga: ainmfhocal a bhfuil aidiacht shealbhach roimhe:
-:3-3-1-a-iii-p_en: [TODO] ainmfhocal a bhfuil aidiacht shealbhach roimhe:
+:3-3-1-a-iii-p_en: a noun with a possessive adjective:
 
 :3-3-1-a-iv-p_ga: ainmfhocal a bhfuil _gach_, _gach aon_, nó _gach uile_ roimhe:
-:3-3-1-a-iv-p_en: [TODO] ainmfhocal a bhfuil _gach_, _gach aon_, nó _gach uile_ roimhe:
+:3-3-1-a-iv-p_en: a noun that has _gach_, _gach aon_, or _gach uile_ before it:
 
 :3-3-1-a-v-p_ga: ainmfhocal a bhfuil uimhir nó litir ar a lorg:
-:3-3-1-a-v-p_en: [TODO] ainmfhocal a bhfuil uimhir nó litir ar a lorg:
+:3-3-1-a-v-p_en: a noun that has a number or letter following it:
 
 :3-3-1-a-vi-p_ga: ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg:
-:3-3-1-a-vi-p_en: [TODO] ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg:
+:3-3-1-a-vi-p_en: a noun that has a definite noun following:
 
 :3-3-1-a-p2_ga: *Ach*, más ainm briathartha an t-ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, déantar athrú an ghinidigh air má thagann ainmfhocal eile roimhe, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
-:3-3-1-a-p2_en: [TODO] *Ach*, más ainm briathartha an t-ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, déantar athrú an ghinidigh air má thagann ainmfhocal eile roimhe, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
+:3-3-1-a-p2_en: *But*, if the noun that is followed by a definite noun is a verbal noun, the genitive case changes if another noun precedes it, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
 
 :3-3-1-b-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é:
-:3-3-1-b-p_en: [TODO] I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é:
+:3-3-1-b-p_en: When a verbal noun is an integral part of a particular unit, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; which is subject to another noun or to a form followed by the genitive:
 
-:3-3-1-b-i-p_ga: má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. . Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach 3.3.3(c)):
-:3-3-1-b-i-p_en: [TODO] má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. . Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach 3.3.3(c)):
+:3-3-1-b-i-p_ga: má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach 3.3.3(c)):
+:3-3-1-b-i-p_en: if the article is before that verbal noun, it is the singular masculine that precedes it in every case and the verbal noun is not inflected, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. The article applies to the initial letter of the verbal noun, however, is it would apply on a singular masculine noun in the genitive, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (see 3.3.3(c)):
 
 :3-3-1-b-ii-p_ga: má tá aidiacht shealbhach roimh an ainm briathartha, déantar a thúschonsan a shéimhiú nó a urú, de réir mar is cuí, ach fágtar é gan infhilleadh, e.g., _i bhfianaise mo chur chuige_; _luas ár ndul chun cinn_; _ag moladh a gcur chuige_ (iol.):
-:3-3-1-b-ii-p_en: [TODO] má tá aidiacht shealbhach roimh an ainm briathartha, déantar a thúschonsan a shéimhiú nó a urú, de réir mar is cuí, ach fágtar é gan infhilleadh, e.g., _i bhfianaise mo chur chuige_; _luas ár ndul chun cinn_; _ag moladh a gcur chuige_ (iol.):
+:3-3-1-b-ii-p_en: if there is a possessive adjective before a verbal noun, the initial consonant is lenited or eclipsed, as appropriate, but is left without inflection, e.g., _i bhfianaise mo chur chuige_; _luas ár ndul chun cinn_; _ag moladh a gcur chuige_ (pl.):
 
 :3-3-2-title_ga: Ainmfhocal Cinnte nó Éiginnte
-:3-3-2-title_en: [TODO] Ainmfhocal Cinnte nó Éiginnte
+:3-3-2-title_en: Definite and Indefinite Nouns
 
 :3-3-2-a-p_ga: Nuair atá ainmfhocal nó abairtín ainmfhoclach á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha, fágtar an t-ainmfhocal san ainmneach ar lorg focal nó leagan a leanann an ginideach é.
-:3-3-2-a-p_en: [TODO] Nuair atá ainmfhocal nó abairtín ainmfhoclach á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha, fágtar an t-ainmfhocal san ainmneach ar lorg focal nó leagan a leanann an ginideach é.
+:3-3-2-a-p_en: When a noun or noun phrase is connected by the preposition _a_ (from _do_) with a verbal noun, the noun is left in the nominative, followed by a word or form that follows the genitive.
 
 :Table-3A-Col1Title_ga: An Ginideach
 :Table-3A-Col1Title_en: The Genitive
@@ -202,20 +202,20 @@
 :Table-3A-Col2Title_ga: Foirm an Ainmnigh in ionad an Ghinidigh
 :Table-3A-Col2Title_en: Form of the Nominative in Place of the Genitive
 
-:Table-3A-caption-part_ga: Ainmfhocal nó Abairtín Cinnte nó Éiginnte á cheangal ag an Réamhfhocal a le hAinm Briathartha
-:Table-3A-caption-part_en: [TODO] Ainmfhocal nó Abairtín Cinnte nó Éiginnte á cheangal ag an Réamhfhocal a le hAinm Briathartha
+:Table-3A-caption-part_ga: Ainmfhocal nó Abairtín Cinnte nó Éiginnte á cheangal ag an Réamhfhocal _a_ le hAinm Briathartha
+:Table-3A-caption-part_en: Definite or Indefinite Noun or Phrase connected by the preposition _a_ with a Verbal Noun
 
 :3-3-2-b-p1_ga: Ní dhéantar athrú an ghinidigh ar na focail _ceann_ agus _cuid_ nuair atá ginideach rannaíoch nó tabharthach rannaíoch faoina réir.
-:3-3-2-b-p1_en: [TODO] Ní dhéantar athrú an ghinidigh ar na focail _ceann_ agus _cuid_ nuair atá ginideach rannaíoch nó tabharthach rannaíoch faoina réir.
+:3-3-2-b-p1_en: The genitive is not changed by the words _ceann_ and _cuid_ when there is a partitive genitive or partitive dative following.
 
 :3-3-2-b-p2_ga: *Ach*, infhilltear iad nuair is gnáth-ainmfhocail iad.
-:3-3-2-b-p2_en: [TODO] *Ach*, infhilltear iad nuair is gnáth-ainmfhocail iad.
+:3-3-2-b-p2_en: *But*, they are inflected when they are normal nouns.
 
 :3-3-2-c-p1_ga: Nuair a úsáidtear aon ainmfhocal coiteann amháin gan an t-alt leis mar ainm comhlachta, cumainn nó cláir, ní dhéantar infhilleadh ná athrú tosaigh ar an ainmfhocal, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
-:3-3-2-c-p1_en: [TODO] Nuair a úsáidtear aon ainmfhocal coiteann amháin gan an t-alt leis mar ainm comhlachta, cumainn nó cláir, ní dhéantar infhilleadh ná athrú tosaigh ar an ainmfhocal, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
+:3-3-2-c-p1_en: When using a single common noun without the article as the name of a company, association or program, no inflection or initial change is made to the noun, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
 
 :3-3-3-title_ga: An tAinmfhocal Éiginnte -- An tAinm Briathartha
-:3-3-3-title_en: [TODO] An tAinmfhocal Éiginnte -- An tAinm Briathartha
+:3-3-3-title_en: The Indefinite Noun -- The Verbal Noun
 
 :3-3-3-p_ga: Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. . Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
 :3-3-3-p_en: [TODO] Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. . Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.

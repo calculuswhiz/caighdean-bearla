@@ -461,8 +461,8 @@ b. {3-3-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an t-iniúchóir *ag fiosrú an chur i gcéill* sin faoi láthair. | [TODO]
-| Bhí sí *i mbun an chur i láthair* nuair a theip ar an ríomhaire. | [TODO]
+| Tá an t-iniúchóir *ag fiosrú an chur i gcéill* sin faoi láthair. | The auditor *is currently investigating* this allegation.
+| Bhí sí *i mbun an chur i láthair* nuair a theip ar an ríomhaire. | She was *giving the presentation* when the computer failed.
 |===
 +
   .. {3-3-1-b-ii-p}
@@ -470,8 +470,9 @@ b. {3-3-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá siad *ag moladh a chur chuige* ó mhínigh sé dóibh é. | [TODO]
-| Dúirt sí go raibh an t-eolas ag teastáil *le haghaidh a cur i láthair*. | [TODO]
+| Tá siad *ag moladh a chur chuige* ó mhínigh sé dóibh é. | They *have been praising his approach* since he explained it to them.
+// TODO Can't find "cur i láthair" anywhere
+| Dúirt sí go raibh an t-eolas ag teastáil *le haghaidh a cur i láthair*. | She said the information was needed *for her presentation*.
 |===
 
 === 3.3.2 {3-3-2-title}
@@ -502,10 +503,10 @@ b. {3-3-2-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Gortaíodh í *le linn ceann de na cluichí áitiúla*. | [TODO]
-| Tá laghdú tagtha ar *mhéid mo chuid oibre*. | [TODO]
-| Bhí siad *ag díbirt cuid mhór acu*. | [TODO]
-| Ritheadh é *d'ainneoin an chuid eile den alt*. | [TODO]
+| Gortaíodh í *le linn ceann de na cluichí áitiúla*. | She was injured *during one of the local games*.
+| Tá laghdú tagtha ar *mhéid mo chuid oibre*. | The *amount of my work* has decreased.
+| Bhí siad *ag díbirt cuid mhór acu*. | They were *expelling many of them*.
+| Ritheadh é *d'ainneoin an chuid eile den alt*. | It was passed *despite the rest of the article*.
 |===
 +
 {3-3-2-b-p2}
@@ -513,8 +514,8 @@ b. {3-3-2-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| D'ainneoin *na Coda* sin, ritheadh an Bille. | [TODO]
-| Thit sí ar mhullach *a cinn*. | [TODO]
+| D'ainneoin *na Coda* sin, ritheadh an Bille. | Despite *that Section*, the Bill was passed.
+| Thit sí ar mhullach *a cinn*. | She fell on *her head*.
 |===
 
 c. {3-3-2-c-p1}
@@ -522,9 +523,11 @@ c. {3-3-2-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhuail mé le *Príomhfheidhmeannach Trócaire* ann. | [TODO]
-| Cá bhfuil *príomhoifig Bóthar*? | [TODO]
+| Bhuail mé le *Príomhfheidhmeannach Trócaire* ann. | I met the *Chief Executive of Trócaire* there.
+| Cá bhfuil *príomhoifig Bóthar*? | Where is *Bóthar's main office*?
 |===
+
+'''
 
 === 3.3.3 {3-3-3-title}
 
