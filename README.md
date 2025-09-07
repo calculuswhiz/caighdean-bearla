@@ -72,6 +72,11 @@ npm run dev
 Visit the localhost link.
 
 ## Translation notes
+- **US or UK?** I personally do not care which one the final product uses, but as I am from the US, I will be using spelling for the parts I do. Depending on what people may want, we can change this later. Some UK spellings from chapter 1 still remain to be reconciled.
+- **"Case"** The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to translate this "when" if there is a perceived risk of ambiguity in a given context.
+- **Machine Translation** Machine translation (usually Google Translate) is used extensively to assist with the translation. These are to be vetted with caution.
+- **Generative AI Assistance** Generative AI is only permitted to translate words and idioms not found in available dictionaries, and even then, it is to be carefully scrutinized in relation to its context. It is not to be used to translate anything at the sentence level or beyond.
+- **Sample Boxes** The gray boxes that show examples will generally be more literally translated to highlight Irish Grammar points (with some attempt to bold corresponding words). If the correspondence does not help, no words may be bolded. If the translation does not serve for this, it may be omitted.
 
 ### Abbreviations and sources
 Some of these may appear in annotations and comments in the asciidoc code.

@@ -676,9 +676,12 @@ a. {3-3-6-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Gheobhaidh mé bia *beir leat* ar mo shlí abhaile dom. | [TODO]
-| Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair. | [TODO]
-| Tá ionad *buail isteach* acu i lár na cathrach. | [TODO]
+// As best I can tell, "beir leat" is an adjective here.
+| Gheobhaidh mé bia *beir leat* ar mo shlí abhaile dom. | I will get *takeaway* food on my way home.
+// FGB says this under "bolg". GT suggests "make a fool", but I don't know if this is also correct.
+| Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair. | He is sunbathing in France currently. (_Lit._ *belly with sun*)
+// Two different things translate to "center" here.
+| Tá ionad *buail isteach* acu i lár na cathrach. | They have a *drop-in* center in the middle of the city.
 |===
 
 b. {3-3-6-b-p}
@@ -686,9 +689,9 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá gach rud eagraithe don chruinniú tús bliana. | [TODO]
-| Bain taitneamh as an sos lár téarma! | [TODO]
-| Déantar ócáid deireadh seachtaine a eagrú gach bliain. | [TODO]
+| Tá gach rud eagraithe don chruinniú *tús* bliana. | Everything is organized for the *beginning* of the year meeting.
+| Bain taitneamh as an sos *lár* téarma! | Enjoy the *mid*-term break!
+| Déantar ócáid *deireadh* seachtaine a eagrú gach bliain. | A week-*end* event is organized every year.
 |===
 
 '''

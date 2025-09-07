@@ -5053,9 +5053,12 @@ a. {3-3-6-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Gheobhaidh mé bia *beir leat* ar mo shlí abhaile dom. | [TODO]
-| Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair. | [TODO]
-| Tá ionad *buail isteach* acu i lár na cathrach. | [TODO]
+// As best I can tell, "beir leat" is an adjective here.
+| Gheobhaidh mé bia *beir leat* ar mo shlí abhaile dom. | I will get *takeaway* food on my way home.
+// FGB says this under "bolg". GT suggests "make a fool", but I don't know if this is also correct.
+| Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair. | He is sunbathing in France currently. (_Lit._ *belly with sun*)
+// Two different things translate to "center" here.
+| Tá ionad *buail isteach* acu i lár na cathrach. | They have a *drop-in* center in the middle of the city.
 |===
 
 b. {3-3-6-b-p}
@@ -5063,9 +5066,9 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá gach rud eagraithe don chruinniú tús bliana. | [TODO]
-| Bain taitneamh as an sos lár téarma! | [TODO]
-| Déantar ócáid deireadh seachtaine a eagrú gach bliain. | [TODO]
+| Tá gach rud eagraithe don chruinniú *tús* bliana. | Everything is organized for the *beginning* of the year meeting.
+| Bain taitneamh as an sos *lár* téarma! | Enjoy the *mid*-term break!
+| Déantar ócáid *deireadh* seachtaine a eagrú gach bliain. | A week-*end* event is organized every year.
 |===
 
 '''
@@ -5715,13 +5718,13 @@ Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_u._)
 :3-3-5-p2_en: *But*, despite this, if the indefinite noun is an integral part of the verbal noun clause, and the verbal noun clause can function independently, the genitive case of that indefinite noun is changed. The words in bold below can function independently on their own and the genitive case of the indefinite noun is changed accordingly.
 
 :3-3-6-title_ga: An tAinmfhocal Éiginnte -- Téarmaí ar Leith
-:3-3-6-title_en: [TODO] An tAinmfhocal Éiginnte -- Téarmaí ar Leith
+:3-3-6-title_en: The Indefinite Noun -- Specific Terms
 
 :3-3-6-a-p_ga: Má tá frásaí ilfhoclacha áirithe a bhfuil brí ar leith leo, e.g., _bolg le gréin_; _buail isteach_; _buaileam sciath_; _cos ar bolg_; _cúl le rath_; _uisce faoi thalamh_; etc. faoi réir ag focal nó ag leagan a leanann an ginideach é, ní infhilltear an chéad ainmfhocal sa fhrása ilfhoclach ná ní chuirtear séimhiú air.
-:3-3-6-a-p_en: [TODO] Má tá frásaí ilfhoclacha áirithe a bhfuil brí ar leith leo, e.g., _bolg le gréin_; _buail isteach_; _buaileam sciath_; _cos ar bolg_; _cúl le rath_; _uisce faoi thalamh_; etc. faoi réir ag focal nó ag leagan a leanann an ginideach é, ní infhilltear an chéad ainmfhocal sa fhrása ilfhoclach ná ní chuirtear séimhiú air.
+:3-3-6-a-p_en: If there are certain multi-word phrases that have a specific meaning, e.g., _bolg le gréin_; _buail isteach_; _buaileam sciath_; _cos ar bolg_; _cúl le rath_; _uisce faoi thalamh_; etc. subject to a word or a form followed by a genitive, the first noun in the multi-word phrase is neither inflected nor lenited.
 
 :3-3-6-b-p_ga: I gcás aonad dhá ainmfhocal éiginnte arb é _tús_, _lár_ nó _deiradh_ (san uatha) an chéad ainmfhocal den aonad sin, fágtar an chéad ainmfhocal sa tuiseal ainmneach nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é.
-:3-3-6-b-p_en: [TODO] I gcás aonad dhá ainmfhocal éiginnte arb é _tús_, _lár_ nó _deiradh_ (san uatha) an chéad ainmfhocal den aonad sin, fágtar an chéad ainmfhocal sa tuiseal ainmneach nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é.
+:3-3-6-b-p_en: Where a unit of two indefinite nouns in which the first noun of that unit is _tús_, _lár_ or _deiradh_ (in the singular), the first noun is left in the nominative case when it is subject to a word or a form followed by the genitive.
 
 :3-3-7-title_ga: Cainníocht Chinnte i Liosta
 :3-3-7-title_en: [TODO] Cainníocht Chinnte i Liosta
