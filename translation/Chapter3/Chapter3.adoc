@@ -703,12 +703,12 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| 500g *plúr* | [TODO]
-| 1lb *plúr bán* | [TODO]
-| 250g *siúcra mín* | [TODO]
-| 150ml *uachtar* | [TODO]
-| 1/2 taesp. *púdar bácála* | [TODO]
-| 2 spúnóg bhoird *mil* | [TODO]
+| 500g *plúr* | 500g *flour*
+| 1lb *plúr bán* | 1lb *white flour*
+| 250g *siúcra mín* | 250g *castor sugar*
+| 150ml *uachtar* | 150ml *cream* 
+| 1/2 taesp. *púdar bácála* | 1/2 taesp. *baking powder* 
+| 2 spúnóg bhoird *mil* | 2 tablesponns *honey*
 |===
 
 {3-3-7-p2}
@@ -716,8 +716,8 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Déan *500g de phlúr bán* agus *250g de shiúcra mín* a mheascadh i mbabhla. | [TODO]
-| Cuir *150ml de bhainne* agus *150ml d'uachtar* leis an meascán. | [TODO]
+| Déan *500g de phlúr bán* agus *250g de shiúcra mín* a mheascadh i mbabhla. | Mix *500g of white flour* and *250g of castor sugar* in a bowl.
+| Cuir *150ml de bhainne* agus *150ml d'uachtar* leis an meascán. | Add *150ml of milk* and *150ml of cream* to the mixture.
 |===
 
 '''

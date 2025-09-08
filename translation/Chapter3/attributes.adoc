@@ -272,16 +272,16 @@
 :3-3-6-b-p_en: Where a unit of two indefinite nouns in which the first noun of that unit is _tús_, _lár_ or _deiradh_ (in the singular), the first noun is left in the nominative case when it is subject to a word or a form followed by the genitive.
 
 :3-3-7-title_ga: Cainníocht Chinnte i Liosta
-:3-3-7-title_en: [TODO] Cainníocht Chinnte i Liosta
+:3-3-7-title_en: A Definite Quantity in a List
 
 :3-3-7-p1_ga: Má tá ainmfhocal éiginnte atá faoi réir ag ainmfhocal lena gcuirtear cainníocht chinnte in iúl á chur i láthair in oideas nó i bhfoirm liosta, ní dhéantar athrú an ghinidigh ar an ainmfhocal ná ar aidiacht atá á cháiliú.
-:3-3-7-p1_en: [TODO] Má tá ainmfhocal éiginnte atá faoi réir ag ainmfhocal lena gcuirtear cainníocht chinnte in iúl á chur i láthair in oideas nó i bhfoirm liosta, ní dhéantar athrú an ghinidigh ar an ainmfhocal ná ar aidiacht atá á cháiliú.
+:3-3-7-p1_en: If an indefinite noun that is subject to a noun expressing definite quantity is presented in a recipe or in the form of a list, the genitive case of the noun or adjective being qualified is not changed.
 
 :3-3-7-p2_ga: Is é an tabharthach rannaíoch a úsáidtear sa phrós.
-:3-3-7-p2_en: [TODO] Is é an tabharthach rannaíoch a úsáidtear sa phrós.
+:3-3-7-p2_en: The partitive dative is used in prose.
 
 :3-3-8-title_ga: An tAinmfhocal Éiginnte -- Cáilitheoirí
-:3-3-8-title_en: [TODO] An tAinmfhocal Éiginnte -- Cáilitheoirí
+:3-3-8-title_en: The Indefinite Noun -- Qualifiers
 
 :3-3-8-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí 3B, 3C agus 3D ina dhiaidh seo.
 :3-3-8-a-p_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí 3B, 3C agus 3D ina dhiaidh seo.
