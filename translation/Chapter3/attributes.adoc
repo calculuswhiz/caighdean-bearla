@@ -284,22 +284,22 @@
 :3-3-8-title_en: The Indefinite Noun -- Qualifiers
 
 :3-3-8-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí 3B, 3C agus 3D ina dhiaidh seo.
-:3-3-8-a-p_en: [TODO] Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí 3B, 3C agus 3D ina dhiaidh seo.
+:3-3-8-a-p_en: The genitive case of an indefinite noun that is subject to a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_), subject to compound preposition or subject to an indefinite quantity is not changed if the indefinite noun is qualified by one of the qualifiers listed in tables 3B, 3C and 3D below.
 
 :3-3-8-b-p_ga: Ní foláir an t-ainmfhocal éiginnte féin a bheith cáilithe leis an gcáilitheoir chun an ginideach a chur ar ceal. Má tá feidhm seachas feidhm aidiachtach ag an gcáilitheoir (feidhm dhobhriathair, mar shampla), déantar athrú an ghinidigh ar an ainmfhocal éiginnte (féach 3.3.12(b)).
-:3-3-8-b-p_en: [TODO] Ní foláir an t-ainmfhocal éiginnte féin a bheith cáilithe leis an gcáilitheoir chun an ginideach a chur ar ceal. Má tá feidhm seachas feidhm aidiachtach ag an gcáilitheoir (feidhm dhobhriathair, mar shampla), déantar athrú an ghinidigh ar an ainmfhocal éiginnte (féach 3.3.12(b)).
+:3-3-8-b-p_en: The indefinite noun itself must be qualified with the qualifier to cancel the genitive. If the qualifier functions as something other than an adjective (as an adverb, for example), the indefinite noun is changed to the genitive case (see 3.3.12(b)).
 
-:3-3-9-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Ainm Briathartha a bhfuil ag nó do (nó a as do) roimhe
-:3-3-9-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Ainm Briathartha a bhfuil ag nó do (nó a as do) roimhe
+:3-3-9-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Ainm Briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:3-3-9-title_en: A Qualified Indefinite Noun subject to a Verbal Noun preceded by _ag_ or _do_ (or _a_ from _do_)
 
 :3-3-9-p_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
-:3-3-9-p_en: [TODO] Nuair atá ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+:3-3-9-p_en: When an indefinite noun is subject to a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_) qualified with the qualifiers listed below, the indefinite noun is not changed in the genitive (or the accompanying adjective).
 
 :Table3B-caption_ga: Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Ainm Briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
-:Table3B-caption_en: [TODO] Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Ainm Briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3B-caption_en: Qualifiers -- An Indefinite Noun subject to a Verbal Noun preceded by _ag_ or _do_ (or _a_ from _do_)
 
 :Table3B-Col1_ga: Cáilitheoir
-:Table3B-Col1_en: [TODO] Cáilitheoir
+:Table3B-Col1_en: Qualifier
 
 :Table3B-Col2_ga: Uatha
 :Table3B-Col2_en: Singular
@@ -308,36 +308,37 @@
 :Table3B-Col3_en: Plural
 
 :Table3B-row1_ga: Aidiacht cháilíochta, nó ainmfhocal i gcáil aidiachta
-:Table3B-row1_en: [TODO] Aidiacht cháilíochta, nó ainmfhocal i gcáil aidiachta
+// See FGB - "cáilíocht"
+:Table3B-row1_en: Attributive adjective, or a noun in the capacity of an adjective
 
 :Table3B-row2_ga: Frása réamhfhoclach amhail _ar bith_, _ar leith_, _den scoth_, etc. má tá feidhm aidiachtach aige
-:Table3B-row2_en: [TODO] Frása réamhfhoclach amhail _ar bith_, _ar leith_, _den scoth_, etc. má tá feidhm aidiachtach aige
+:Table3B-row2_en: Prepositional phrase like _ar bith_, _ar leith_, _den scoth_, etc. if it has an adjectival function
 
 :Table3B-row3_ga: Clásal coibhneasta
-:Table3B-row3_en: [TODO] Clásal coibhneasta
+:Table3B-row3_en: Relative clause
 
 :Table3B-row4_ga: An aidiacht éiginnte _aon_ nó an réimír threise _an-_
-:Table3B-row4_en: [TODO] An aidiacht éiginnte _aon_ nó an réimír threise _an-_
+:Table3B-row4_en: The indefinite adjective _aon_ or the emphatic prefix _an-_
 
 :3-3-10-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Réamhfhocal Comhshuite
-:3-3-10-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Réamhfhocal Comhshuite
+:3-3-10-title_en: Qualified Indefinite Noun subject to a Compound Preposition
 
 :3-3-10-p1_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite (nó _cois_, _dála_, _fearacht_, _timpeall_, _trasna_) cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
-:3-3-10-p1_en: [TODO] Nuair atá ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite (nó _cois_, _dála_, _fearacht_, _timpeall_, _trasna_) cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+:3-3-10-p1_en: When an indefinite noun that is subject to a compound preposition (or _cois_, _dála_, _fearacht_, _timpeall_, _trasna_) qualified with one of the qualifiers shown below, the genitive of the indefinite noun is not changed (or the adjective accompanying it).
 
 // Shares headers with 3B
 
 :Table3C-caption_ga: Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
-:Table3C-caption_en: [TODO] Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
+:Table3C-caption_en: Qualifiers -- Indefinite Noun subject to a Compound Preposition
 
 :Table3C-Row3_ga: Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
-:Table3C-Row3_en: [TODO] Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
+:Table3C-Row3_en: Prepositional dependent clause, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., or prepositional pronoun, e.g., _air_, _fúithi_, _uainn_, etc., if it has a adjectival function
 
 :Table3C-Row5_ga: An aidiacht éiginnte _aon_
-:Table3C-Row5_en: [TODO] An aidiacht éiginnte _aon_
+:Table3C-Row5_en: The indefinite adjective _aon_
 
 :3-3-10-p2_ga: Tabhair faoi deara gur frása réamhfhoclach a bhfuil brí faoi leith aige é réamhfhocal comhshuite, e.g., _i gcás_ sa bhrí _más rud é_. _Réamhfhocal simplí + ainmfhocal_ is múnla dó. Níl feidhm ag tábla 3C má tá ainmfhocal éiginnte faoi réir ag réamhfhocal agus ainmfhocal nach réamhfhocal comhshuite, e.g., _i gcas_ sa bhrí _in imeachtaí dlí_, _i mála_.
-:3-3-10-p2_en: [TODO] Tabhair faoi deara gur frása réamhfhoclach a bhfuil brí faoi leith aige é réamhfhocal comhshuite, e.g., _i gcás_ sa bhrí _más rud é_. _Réamhfhocal simplí + ainmfhocal_ is múnla dó. Níl feidhm ag tábla 3C má tá ainmfhocal éiginnte faoi réir ag réamhfhocal agus ainmfhocal nach réamhfhocal comhshuite, e.g., _i gcas_ sa bhrí _in imeachtaí dlí_, _i mála_.
+:3-3-10-p2_en: Note that a prepositional phrase that has a compound preposition with a specific meaning, e.g., _i gcás_ meaning _más rud é_ (_if_). _Simple preposition + noun_ is the model for this. Table 3C does not apply if an indefinite noun is present that is subject to a preposition and a noun that is not a compound preposition, e.g., _i gcas_ meaning _in imeachtaí dlí_ (in a legal proceeding), _i mála_ (in a bag).
 
 :3-3-11-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Cainníocht Éiginnte
 :3-3-11-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Cainníocht Éiginnte
