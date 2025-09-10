@@ -341,78 +341,78 @@
 :3-3-10-p2_en: Note that a prepositional phrase that has a compound preposition with a specific meaning, e.g., _i gcás_ meaning _más rud é_ (_if_). _Simple preposition + noun_ is the model for this. Table 3C does not apply if an indefinite noun is present that is subject to a preposition and a noun that is not a compound preposition, e.g., _i gcas_ meaning _in imeachtaí dlí_ (in a legal proceeding), _i mála_ (in a bag).
 
 :3-3-11-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Cainníocht Éiginnte
-:3-3-11-title_en: [TODO] Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Cainníocht Éiginnte
+:3-3-11-title_en: A Qualified Indefinite Noun subject to An Indefinite Quantity
 
 :3-3-11-p1_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag focal nó frása lena gcuirtear cainníocht éiginnte in iúl, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
-:3-3-11-p1_en: [TODO] Nuair atá ainmfhocal éiginnte atá faoi réir ag focal nó frása lena gcuirtear cainníocht éiginnte in iúl, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
+:3-3-11-p1_en: When an indefinite noun is subject to a word or phrase expressing an indefinite quantity, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, qualified with one a qualifier in the below table, the genitive of the indefinite noun is not changed (or the adjective accompanying it).
 
 // Shares headers with 3B
 
 :Table3D-Caption_ga: Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Cainníocht Éiginnte
-:Table3D-Caption_en: [TODO] Cáilitheoirí -- Ainmfhocal Éiginnte atá faoi réir ag Cainníocht Éiginnte
+:Table3D-Caption_en: Qualifiers -- Indefinite Noun subject to an Indefinite Quantity
 
 :3-3-11-p2_ga: Tabhair faoi deara go mbreathnaítear ar chainníocht éiginnte mar chainníocht chinnte nuair a chuirtear aidiacht shealbhach roimpi agus sa chás sin go ndéantar athrú an ghinidigh ar an ainmfhocal a thagann ina dhiaidh (agus ar an aidiacht a ghabhann leis), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
-:3-3-11-p2_en: [TODO] Tabhair faoi deara go mbreathnaítear ar chainníocht éiginnte mar chainníocht chinnte nuair a chuirtear aidiacht shealbhach roimpi agus sa chás sin go ndéantar athrú an ghinidigh ar an ainmfhocal a thagann ina dhiaidh (agus ar an aidiacht a ghabhann leis), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
+:3-3-11-p2_en: Note that an indefinite quantity is observed as a definite quantity when a possessive adjective preceds it and in this case the genitive of the following noun is changed (and the adjective accompanying it), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
 
 :3-3-12-title_ga: Foirm an Ghinidigh
-:3-3-12-title_en: [TODO] Foirm an Ghinidigh
+:3-3-12-title_en: Form of the Genitive
 
 :3-3-12-a-p_ga: Lasmuigh de na cásanna atá sonraithe i dtáblaí 3B, 3C agus 3D, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sa struchtúr _ainmfhocal_ + _ainmfhocal éiginnte_ + _cáilitheoir_.
-:3-3-12-a-p_en: [TODO] Lasmuigh de na cásanna atá sonraithe i dtáblaí 3B, 3C agus 3D, déantar athrú an ghinidigh ar an ainmfhocal éiginnte sa struchtúr _ainmfhocal_ + _ainmfhocal éiginnte_ + _cáilitheoir_.
+:3-3-12-a-p_en: Apart from the cases specified in tables 3B, 3C and 3D, the genitive of the indefinite noun is changed in the structure _noun_ + _indefinite noun_ + _qualifier_.
 
 :Table3E-caption_ga: Foirm an Ghinidigh -- Ainmfhocal + Ainmfhocal Éiginnte + Cáilitheoir
-:Table3E-caption_en: [TODO] Foirm an Ghinidigh -- Ainmfhocal + Ainmfhocal Éiginnte + Cáilitheoir
+:Table3E-caption_en: Form of the Genitive -- Noun + Indefinite Noun + Qualifier
 
 :3-3-12-b-p_ga: Déantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite agus a dtagann frása réamhfhoclach, fochlásal réamhfhoclach nó forainmneach réamhfhoclach ina dhiaidh mura bhfuil an t-ainmfhocal éiginnte cáilithe leis an bhfrása réamhfhoclach, leis an bhfochlásal réamhfhoclach nó leis an bhforainmneach réamhfhoclach sin (mar shampla, más é an briathar seachas an t-ainmfhocal éiginnte atá cáilithe) ná le haon cheann de na cáilitheoirí eile a luaitear i dtábla 3C.
-:3-3-12-b-p_en: [TODO] Déantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite agus a dtagann frása réamhfhoclach, fochlásal réamhfhoclach nó forainmneach réamhfhoclach ina dhiaidh mura bhfuil an t-ainmfhocal éiginnte cáilithe leis an bhfrása réamhfhoclach, leis an bhfochlásal réamhfhoclach nó leis an bhforainmneach réamhfhoclach sin (mar shampla, más é an briathar seachas an t-ainmfhocal éiginnte atá cáilithe) ná le haon cheann de na cáilitheoirí eile a luaitear i dtábla 3C.
+:3-3-12-b-p_en: The genitive is changed for an indefinite noun is subject to a compound preposition and followed by a prepositional phrase, prepositional phrase or prepositional pronoun unless the indefinite noun is qualified by that prepositional phrase, prepositional dependent clause or prepositional pronoun (for example, if the verb rather than the indefinite noun is qualified) or by any of the other qualifier mentioned in table 3C.
 
 :Table3F-caption_ga: Foirm an Ghinidigh -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
-:Table3F-caption_en: [TODO] Foirm an Ghinidigh -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
+:Table3F-caption_en: Form of the Genitive -- An Indefinite Noun subject to a Compound Preposition
 
 :3-3-13-title_ga: Achoimre ar Fhoirm an Ainmnigh in ionad an Ghinidigh
-:3-3-13-title_en: [TODO] Achoimre ar Fhoirm an Ainmnigh in ionad an Ghinidigh
+:3-3-13-title_en: Summary of the Form of the Nominative in place of the Genitive
 
 :3-3-13-p_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
-:3-3-13-p_en: [TODO] Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
+:3-3-13-p_en: For reference, a summary of the situations where the form of the nominative is used in place of the genitive is given here.
 
 :Table3G-caption_ga: Achoimre ar na Cásanna ina n-úsáidtear Foirm an Ainmnigh in ionad an Ghinidigh
-:Table3G-caption_en: [TODO] Achoimre ar na Cásanna ina n-úsáidtear Foirm an Ainmnigh in ionad an Ghinidigh
+:Table3G-caption_en: Summary of the Situations where the Form of the Nominative is used in place of the Genitive
 
 :Table3G-col1_ga: Má tá:
-:Table3G-col1_en: [TODO] Má tá:
+:Table3G-col1_en: If:
 
 :Table3G-col2_ga: Faoi réir ag:
-:Table3G-col2_en: [TODO] Faoi réir ag:
+:Table3G-col2_en: Is subject to:
 
 :Table3G-col3_ga: Úsáidtear foirm an ainmnigh in ionad an ghinidigh:
-:Table3G-col3_en: [TODO] Úsáidtear foirm an ainmnigh in ionad an ghinidigh:
+:Table3G-col3_en: The form of the nominative is used in place of the genitive:
 
 :Table3G-row1-condition_ga: Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (3.3.1(a))
-:Table3G-row1-condition_en: [TODO] Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (3.3.1(a))
+:Table3G-row1-condition_en: A noun that comes before a definite noun in the genitive (3.3.1(a))
 
 :Table3G-row1-rule_ga: Focal nó leagan a leanann an ginideach é
-:Table3G-row1-rule_en: [TODO] Focal nó leagan a leanann an ginideach é
+:Table3G-row1-rule_en: Word or form following the genitive
 
 :Table3G-row2-condition_ga: Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.1(b))
-:Table3G-row2-condition_en: [TODO] Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.1(b))
+:Table3G-row2-condition_en: A certain definite unit of which a verbal noun is an integral part (3.3.1(b))
 
 :nopass-Table3G-row2-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row2-rule_en: {Table3G-row1-rule}
 
 :Table3G-row3-condition_ga: Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (3.3.2(a))
-:Table3G-row3-condition_en: [TODO] Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (3.3.2(a))
+:Table3G-row3-condition_en: A noun or noun phrase, definite or indefinite, connected by a preposition _a_ (from _do_) to a verbal noun (3.3.2(a))
 
 :nopass-Table3G-row3-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row3-rule_en: {Table3G-row1-rule}
 
 :Table3G-row4-condition_ga: _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (3.3.2(b))
-:Table3G-row4-condition_en: [TODO] _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (3.3.2(b))
+:Table3G-row4-condition_en: _cuid_ and _ceann_, and genitive partitive or dative partitive subject to it (3.3.2(b))
 
 :nopass-Table3G-row4-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row4-rule_en: {Table3G-row1-rule}
 
 :Table3G-row5-condition_ga: Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (3.3.2(c))
-:Table3G-row5-condition_en: [TODO] Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (3.3.2(c))
+:Table3G-row5-condition_en: A single common noun without the article that is used as the name of a company, association or program (3.3.2(c))
 
 :nopass-Table3G-row5-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row5-rule_en: {Table3G-row1-rule}
@@ -420,81 +420,81 @@
 // FYI Page break in doc
 
 :Table3G-row6-condition_ga: Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (3.3.3(a))
-:Table3G-row6-condition_en: [TODO] Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (3.3.3(a))
+:Table3G-row6-condition_en: A verbal noun that is preceded by the proleptic pronoun _a_ (3.3.3(a))
 
 :nopass-Table3G-row6-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row6-rule_en: {Table3G-row1-rule}
 
 :Table3G-row7-condition_ga: Ainm briathartha (3.3.3(b))
-:Table3G-row7-condition_en: [TODO] Ainm briathartha (3.3.3(b))
+:Table3G-row7-condition_en: A verbal noun (3.3.3(b))
 
 :Table3G-row7-rule_ga: _chun_, sa struchtúr _chun_ + _ainm briathartha_ a úsáidtear chun gníomh atá le teacht a chur in iúl
-:Table3G-row7-rule_en: [TODO] _chun_, sa struchtúr _chun_ + _ainm briathartha_ a úsáidtear chun gníomh atá le teacht a chur in iúl
+:Table3G-row7-rule_en: _chun_, in the structure _chun_ + _verbal noun_ used to express an upcoming action
 
 :Table3G-row8-condition_ga: Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.3(c))
-:Table3G-row8-condition_en: [TODO] Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (3.3.3(c))
+:Table3G-row8-condition_en: A certain indefinite unit has a verbal noun as an integral part (3.3.3(c))
 
 :nopass-Table3G-row8-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row8-rule_en: {Table3G-row1-rule}
 
 :Table3G-row9-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (3.3.4(a))
-:Table3G-row9-condition_en: [TODO] Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (3.3.4(a))
+:Table3G-row9-condition_en: An indefinite noun is used as a verbal noun also, and has a normal genitive subject to one of the declensions, that is used as a verbal noun (3.3.4(a))
 
 :Table3G-row9-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe nó réamhfhocal comhshuite
-:Table3G-row9-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe nó réamhfhocal comhshuite
+:Table3G-row9-rule_en: A verbal noun is preceded by _ag_ or _do_ (or _a_ from _do_) or a compound preposition
 
 :Table3G-row10-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá mar chuspóir díreach ainm bhriathartha (3.3.4(b))
-:Table3G-row10-condition_en: [TODO] Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá mar chuspóir díreach ainm bhriathartha (3.3.4(b))
+:Table3G-row10-condition_en: An indefinite noun is used as a verbal noun also, and does not have a normal genitive subject to one of the declensions, that is the direct object of a verbal noun (3.3.4(b))
 
 :Table3G-row10-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
-:Table3G-row10-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3G-row10-rule_en: Verbal noun preceded by _ag_ or _do_ (or _a_ from _do_)
 
 :Table3G-row11-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí (3.3.4(c))
-:Table3G-row11-condition_en: [TODO] Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí (3.3.4(c))
+:Table3G-row11-condition_en: An indefinite noun that is used as a verbal noun also, and does not have a normal genitive subject to one of the declensions (3.3.4(c))
 
 :Table3G-row11-rule_ga: Réamhfhocal comhshuite nó _chun_ sa bhrí _i dtreo_
-:Table3G-row11-rule_en: [TODO] Réamhfhocal comhshuite nó _chun_ sa bhrí _i dtreo_
+:Table3G-row11-rule_en: A compound preposition or _chun_ meaning _i dtreo_ (_towards_)
 
 :Table3G-row12-condition_ga: Ainmfhocal éiginnte i gclásal ainm bhriathartha nach féidir feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach ina dhiaidh (3.3.5)
-:Table3G-row12-condition_en: [TODO] Ainmfhocal éiginnte i gclásal ainm bhriathartha nach féidir feidhmiú go neamhspleách gan réamhfhocal simplí nó clásal réamhfhoclach ina dhiaidh (3.3.5)
+:Table3G-row12-condition_en: An indefinite noun in a verbal noun clause that cannot function independently without a simple preposition or prepositional clause following it (3.3.5)
 
 :Table3G-row12-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
-:Table3G-row12-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3G-row12-rule_en: Verbal noun preceded by _ag_ or _do_ (or _a_ from _do_)
 
 :Table3G-row13-condition_ga: An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (3.3.6(a))
-:Table3G-row13-condition_en: [TODO] An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (3.3.6(a)) 
+:Table3G-row13-condition_en: The first indefinite noun in a multi-word phrase that has a specific meaning (3.3.6(a)) 
 
 :nopass-Table3G-row13-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row13-rule_en: {Table3G-row1-rule}
 
 :Table3G-row14-condition_ga: _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (3.3.6(b))
-:Table3G-row14-condition_en: [TODO] _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (3.3.6(b))
+:Table3G-row14-condition_en: _tús_, _lár_ or _deireadh_, if they are the first noun in a unit of two indefinite nouns (3.3.6(b))
 
 :nopass-Table3G-row14-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row14-rule_en: {Table3G-row1-rule}
 
 // FYI Page break in doc
 :Table3G-row15-condition_ga: Ainmfhocal i liosta (3.3.7)
-:Table3G-row15-condition_en: [TODO] Ainmfhocal i liosta (3.3.7)
+:Table3G-row15-condition_en: A noun in a list (3.3.7)
 
 :Table3G-row15-rule_ga: Focal nó frása lena gcuirtear cainníocht chinnte in iúl
-:Table3G-row15-rule_en: [TODO] Focal nó frása lena gcuirtear cainníocht chinnte in iúl
+:Table3G-row15-rule_en: A word or phrase used to express a definite quantity
 
 :Table3G-row16-condition_ga: Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.9)
-:Table3G-row16-condition_en: [TODO] Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.9)
+:Table3G-row16-condition_en: An indefinite noun qualified by a certain qualifier (3.3.9)
 
 :Table3G-row16-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
-:Table3G-row16-rule_en: [TODO] Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
+:Table3G-row16-rule_en: Verbal noun preceded _ag_ or _do_ (or _a_ from _do_)
 
 :Table3G-row17-condition_ga: Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.10)
-:Table3G-row17-condition_en: [TODO] Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.10)
+:Table3G-row17-condition_en: An indefinite noun qualified by a certain qualifier (3.3.10)
 
 :Table3G-row17-rule_ga: Réamhfhocal comhshuite
-:Table3G-row17-rule_en: [TODO] Réamhfhocal comhshuite
+:Table3G-row17-rule_en: A compound preposition
 
 :Table3G-row18-condition_ga: Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.11)
-:Table3G-row18-condition_en: [TODO] Ainmfhocal éiginnte atá cáilithe le cáilitheoirí áirithe (3.3.11)
+:Table3G-row18-condition_en: An indefinite noun qualified by a certain qualifier (3.3.11)
 
 :Table3G-row18-rule_ga: Focal nó frása lena gcuirtear cainníocht éiginnte in iúl
-:Table3G-row18-rule_en: [TODO] Focal nó frása lena gcuirtear cainníocht éiginnte in iúl
+:Table3G-row18-rule_en: Word or phrase used to express an indefinite quantity
 
