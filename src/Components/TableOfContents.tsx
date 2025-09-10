@@ -27,6 +27,13 @@ export function TableOfContents(props: {
         for (const hTag of headings) {
             if ((hTag.id ?? "") === "")
                 continue;
+
+            // Add permalink
+            hTag.style.cursor = 'pointer';
+            hTag.addEventListener('click', () => {
+                location.hash = `#${hTag.id}`;
+            });
+
             const hNum = +hTag.tagName.slice(1);
             const entryObject = {
                 id: hTag.id,

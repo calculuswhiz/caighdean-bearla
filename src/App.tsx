@@ -11,10 +11,19 @@ const availableChapters = [
   { label: "Chapter 1 - The Article", id: "1", element: <Chapter1 /> },
   { label: "Chapter 2 - The Noun", id: "2", element: <Chapter2 /> },
   { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", element: <Chapter3 /> },
-  { label: "Chapter 7 - The Copula", id: "section-7", element: <Chapter7 /> }
+  { label: "Chapter 4 - The Adjective", id: "4", element: <>Under Construction</> },
+  { label: "Chapter 5 - The Verb", id: "5", element: <>Under Construction</> },
+  { label: "Chapter 6 - The Adverb", id: "6", element: <>Under Construction</> },
+  { label: "Chapter 7 - The Copula", id: "7", element: <Chapter7 /> },
+  { label: "Chapter 8 - The Pronominal", id: "8", element: <>Under Construction</> },
+  { label: "Chapter 9 - The Number", id: "9", element: <>Under Construction</> },
+  { label: "Chapter 10 - The Initial Changes", id: "10", element: <>Under Construction</> },
+  { label: "Chapter 11 - The Relative Clause", id: "11", element: <>Under Construction</> },
 ];
 
-const chapterMap = new Map<string, number>(availableChapters.map(({ id }, idx) => [id, idx]));
+const chapterMap = new Map<string, number>(
+  availableChapters.map(({ id }, idx) => [id, idx])
+);
 
 function ChapterSelect(props: {
   currentChapter: number;
@@ -22,13 +31,18 @@ function ChapterSelect(props: {
 }) {
   return <>
     <b>Chapter Selection:</b>
-    <div className="flex flex-row border-1 border-dashed border-black mb-1">
+    <div className="flex flex-row flex-wrap border-1 border-dashed border-black mb-1">
       {
         availableChapters.map((x, i) =>
           <button
             key={x.label}
             onClick={() => props.onSelect(i)}
-            className={`cursor-pointer text-white p-1 m-1 ${i === props.currentChapter ? "bg-amber-500 font-bold" : "bg-amber-700"}`}>{
+            title={x.label}
+            className={`text-nowrap cursor-pointer overflow-ellipsis 
+              max-w-50 overflow-hidden
+              text-white p-1 m-1 
+              ${i === props.currentChapter ? "bg-amber-500 font-bold" : "bg-amber-700"}`
+            }>{
               x.label
             }</button>
         )
@@ -47,7 +61,7 @@ function getChapterHash() {
 function App() {
   const [currentChapter, setCurrentChapter] = React.useState(getChapterHash());
 
-  /** Syntax is secion-{chapter}-{section} */
+  /** Syntax is section-{chapter}-{section} */
   const setCurrentChapterBasedOnHash = () => {
     setCurrentChapter(getChapterHash());
   };
