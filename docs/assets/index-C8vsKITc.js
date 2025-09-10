@@ -2019,8 +2019,14 @@ This will (mostly) just be some algebra here...
 :Singular_ga: Uatha
 :Singular_en: Singular
 
+:Sg_ga: u.
+:Sg_en: sg.
+
 :Plural_ga: Iolra
 :Plural_en: Plural
+
+:Pl_ga: iol.
+:Pl_en: pl.
 
 :Nominative_ga: Ainmneach
 :Nominative_en: Nominative
@@ -5433,24 +5439,24 @@ Tá an lá ag dul chun *síneadh*.
 
 | {Table3G-row16-condition}
 | {Table3G-row16-rule}
-| Bímse ag ullmhú *lóin shláintiúla* dom féin. (_iol._) +
-Táim ag réiteach *cupán tae*. (_u._) + 
-Níl siad ag fáil *pingin ar bith*. (_u._) +
-Ní fiú bheith ag ordú *trealamh atá daor*. (_u._) +
-Nílim ag ceannach *aon dearbháin* i mbliana. (_iol._) +
-Tá na mic léinn ag déanamh *an-obair* ar an tionscadal sin. (_u._)
+| Bímse ag ullmhú *lóin shláintiúla* dom féin. (_{Pl}_) +
+Táim ag réiteach *cupán tae*. (_{Sg}_) + 
+Níl siad ag fáil *pingin ar bith*. (_{Sg}_) +
+Ní fiú bheith ag ordú *trealamh atá daor*. (_{Sg}_) +
+Nílim ag ceannach *aon dearbháin* i mbliana. (_{Pl}_) +
+Tá na mic léinn ag déanamh *an-obair* ar an tionscadal sin. (_{Sg}_)
 
 | {Table3G-row17-condition}
 | {Table3G-row17-rule}
-| Chuaigh sé i gcomhair *cupán tae*. (_u._) +
-D'fhéadfaí a leithéid a rá i gcás *cláir ar bith*. (_iol._) +
-Fuarthas an admháil i measc *iarratais ó dhaltaí scoile*. (_iol._) +
-Fágadh gan mhaoiniú iad de bharr *scéim ar tháinig deireadh léi*. (_u._) +
-Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_u._)
+| Chuaigh sé i gcomhair *cupán tae*. (_{Sg}_) +
+D'fhéadfaí a leithéid a rá i gcás *cláir ar bith*. (_{Pl}_) +
+Fuarthas an admháil i measc *iarratais ó dhaltaí scoile*. (_{Pl}_) +
+Fágadh gan mhaoiniú iad de bharr *scéim ar tháinig deireadh léi*. (_{Sg}_) +
+Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_{Sg}_)
 
 | {Table3G-row18-condition}
 | {Table3G-row18-rule}
-| Thit go leor *báisteach throm* an tseachtain seo caite. (_u._)
+| Thit go leor *báisteach throm* an tseachtain seo caite. (_{Sg}_)
 
 |===
 `,tb=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGUS FOIRM AN AINMNIGH IN IONAD AN GHINIDIGH

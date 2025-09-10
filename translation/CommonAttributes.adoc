@@ -31,8 +31,14 @@
 :Singular_ga: Uatha
 :Singular_en: Singular
 
+:Sg_ga: u.
+:Sg_en: sg.
+
 :Plural_ga: Iolra
 :Plural_en: Plural
+
+:Pl_ga: iol.
+:Pl_en: pl.
 
 :Nominative_ga: Ainmneach
 :Nominative_en: Nominative
