@@ -1,20 +1,17 @@
 import React from "react";
 import { TableOfContents } from "./Components/TableOfContents";
-import { FrontMatter } from "./Components/Chapters/FrontMatter";
-import { Chapter1 } from "./Components/Chapters/Chapter1";
-import { Chapter2 } from "./Components/Chapters/Chapter2";
-import { Chapter7 } from "./Components/Chapters/Chapter7";
-import { Chapter3 } from "./Components/Chapters/Chapter3";
+import { FrontMatter } from "./Components/FrontMatter";
+import { Chapter } from "./Components/Chapter";
 
 const availableChapters = [
   { label: "Front Matter", id: "front-matter", element: <FrontMatter /> },
-  { label: "Chapter 1 - The Article", id: "1", element: <Chapter1 /> },
-  { label: "Chapter 2 - The Noun", id: "2", element: <Chapter2 /> },
-  { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", element: <Chapter3 /> },
+  { label: "Chapter 1 - The Article", id: "1", element: <Chapter number={1} language="en" /> },
+  { label: "Chapter 2 - The Noun", id: "2", element: <Chapter number={2} language="en" /> },
+  { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", element: <Chapter number={3} language="en" /> },
   { label: "Chapter 4 - The Adjective", id: "4", element: <>Under Construction</> },
   { label: "Chapter 5 - The Verb", id: "5", element: <>Under Construction</> },
   { label: "Chapter 6 - The Adverb", id: "6", element: <>Under Construction</> },
-  { label: "Chapter 7 - The Copula", id: "7", element: <Chapter7 /> },
+  { label: "Chapter 7 - The Copula", id: "7", element: <Chapter number={7} language="en" /> },
   { label: "Chapter 8 - The Pronominal", id: "8", element: <>Under Construction</> },
   { label: "Chapter 9 - The Number", id: "9", element: <>Under Construction</> },
   { label: "Chapter 10 - The Initial Changes", id: "10", element: <>Under Construction</> },

@@ -1,7 +1,7 @@
 import React from "react";
-import * as frontmatterText from "../../../translation/FrontMatter.json";
-import { translateTextMarkup, type LanguageSelection } from "../../translate";
-import { LanguageSelector } from "../BodyMatter";
+import * as frontmatterText from "../../translation/FrontMatter.json";
+import { translateTextMarkup, type LanguageSelection } from "../translate";
+import { LanguageSelector } from "./BodyMatter";
 
 export function Preface() {
     return <div>Preface TBD</div>;
