@@ -15,11 +15,16 @@ function List(props: {
 }
 
 export function TableOfContents(props: {
-    currentChapter: number;
+    loadCounter: number;
 }) {
-    const [structure, setStructure] = useState([] as Multipliable<{ id: string, label: string; }>[]);
+    const [structure, setStructure] = useState(
+        [] as Multipliable<{ id: string, label: string; }>[]
+    );
     const [expanded, setExpanded] = useState(false);
     useEffect(() => {
+        if (props.loadCounter === 0)
+            return;
+
         const headings = document.querySelectorAll<HTMLHeadElement>('h1, h2');
         const newStruct: Multipliable<{ id: string, label: string; }>[] = [];
         let headerState = 1;
@@ -52,7 +57,7 @@ export function TableOfContents(props: {
             }
         }
         setStructure(newStruct);
-    }, [props.currentChapter]);
+    }, [props.loadCounter]);
 
     return <div className="bg-gray-100 p-2">
         <div>

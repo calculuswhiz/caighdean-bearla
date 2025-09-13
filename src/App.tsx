@@ -4,18 +4,18 @@ import { FrontMatter } from "./Components/FrontMatter";
 import { Chapter } from "./Components/Chapter";
 
 const availableChapters = [
-  { label: "Front Matter", id: "front-matter", element: <FrontMatter /> },
-  { label: "Chapter 1 - The Article", id: "1", element: <Chapter number={1} language="en" /> },
-  { label: "Chapter 2 - The Noun", id: "2", element: <Chapter number={2} language="en" /> },
-  { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", element: <Chapter number={3} language="en" /> },
-  { label: "Chapter 4 - The Adjective", id: "4", element: <>Under Construction</> },
-  { label: "Chapter 5 - The Verb", id: "5", element: <>Under Construction</> },
-  { label: "Chapter 6 - The Adverb", id: "6", element: <>Under Construction</> },
-  { label: "Chapter 7 - The Copula", id: "7", element: <Chapter number={7} language="en" /> },
-  { label: "Chapter 8 - The Pronominal", id: "8", element: <>Under Construction</> },
-  { label: "Chapter 9 - The Number", id: "9", element: <>Under Construction</> },
-  { label: "Chapter 10 - The Initial Changes", id: "10", element: <>Under Construction</> },
-  { label: "Chapter 11 - The Relative Clause", id: "11", element: <>Under Construction</> },
+  { label: "Front Matter", id: "front-matter" },
+  { label: "Chapter 1 - The Article", id: "1" },
+  { label: "Chapter 2 - The Noun", id: "2" },
+  { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3" },
+  { label: "Chapter 4 - The Adjective", id: "4" },
+  { label: "Chapter 5 - The Verb", id: "5" },
+  { label: "Chapter 6 - The Adverb", id: "6" },
+  { label: "Chapter 7 - The Copula", id: "7" },
+  { label: "Chapter 8 - The Pronominal", id: "8" },
+  { label: "Chapter 9 - The Number", id: "9" },
+  { label: "Chapter 10 - The Initial Changes", id: "10" },
+  { label: "Chapter 11 - The Relative Clause", id: "11" },
 ];
 
 const chapterMap = new Map<string, number>(
@@ -57,6 +57,12 @@ function getChapterHash() {
 
 function App() {
   const [currentChapter, setCurrentChapter] = React.useState(getChapterHash());
+  const [tocLoadCounter, setTocLoadCounter] = React.useState(0);
+
+  const tocLoadSignal = React.useCallback(
+    () => setTocLoadCounter(t => t + 1),
+    []
+  );
 
   /** Syntax is section-{chapter}-{section} */
   const setCurrentChapterBasedOnHash = () => {
@@ -108,10 +114,18 @@ function App() {
       }} />
       <hr />
       {
-        currentChapter !== -1 && <TableOfContents currentChapter={currentChapter} />
+        currentChapter !== -1
+        && <TableOfContents loadCounter={tocLoadCounter} />
       }
       {
-        currentChapter !== -1 && availableChapters[currentChapter].element
+        currentChapter === 0
+          ? <FrontMatter />
+          : 1 <= currentChapter && currentChapter <= 11
+            ? <Chapter
+              number={currentChapter}
+              language="en"
+              onContentReady={tocLoadSignal} />
+            : null
       }
       <footer className="fixed bottom-0 w-[100%] p-2 border-y-1 border-black bg-white">
         This is an unofficial translation.

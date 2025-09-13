@@ -1,0 +1,119 @@
+const n=`= {Chapter} 7 | {chapterTitle}
+:showtitle:
+:table-caption!:
+
+== 7.1 {7_1_title}
+
+{7_1_p1}
+
+{7_1_p2}
+
+=== 7.1.1 {7_1_1_title}
+
+{7_1_1_p}
+
+[list-[lower-alpha]]
+a. {7_1_1_a_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Is* sáraisteoir í. | She is an excellent actor.
+| *Is* éan é an faoileán. | The seagull is a bird.
+| Strainséirí *is* ea iad. | They are strangers.
+| *Is* fear é. | He is a man.
+|===
+
+b. {7_1_1_b_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Ba* í Úna an bainisteoir. | Úna was the manager.
+| *Is* é Baile Átha Cliath príomhchathair na hÉireann. | Dublin is the capital of Ireland.
+|===
+
+c. {7_1_1_c_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Nach* deas é? | Isn't it nice?
+| *Is* fíor sin. | That is true.
+| *Is* leor cúig euro. | Five Euro is enough.
+| *Is* as an Muileann gCearr di. | She is from Mullingar.
+|===
+
+d. {7_1_1_d_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Is* maith léi an chispheil. | She likes basketball.
+| *Ní* mór dó imeacht. | He must leave.
+| *An* féidir leis é a dhéanamh? | Can he do it?"
+| *Is* leor liom an méid sin. | That is enough for me.
+| *An* cuimhin leat an teach sin? | Do you remember that house?
+| *Is* dona linn an briseadh seo. | We are sorry for this break. (?)
+|===
+
+e. {7_1_1_e_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tabhair leat an ceann *is* fearr leat. | Take the one you prefer.
+| Bhí na milseáin *ba* dheise ite sular shroich mé an chóisir. | The nicest sweets were eaten before I arrived at the party.
+|===
+
+f. {7_1_1_f_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Ba* liomsa é. | It was mine.
+| *Ní* le Sorcha an ceann sin. | That one is not Sorcha's.
+| Tóg ceann ar bith *is* leat. | Take any one with you. (?)
+| *Is* iníon le Seán ise. | She is Seán's daughter.
+| *Is* comhghleacaí le Cáit eisean. | He is Cáit's colleague.
+|===
+
+g. {7_1_1_g_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Is* gearr go mbeidh a fhios againn. | Soon we will know.
+| *Is* fada ó bhí sé ann. | It has been a long time since he was there.
+| *Is* maith is eol duit é. | You know it well.
+| *Is* iomaí duine a thagann an treo seo. | Many people come this way.
+| *B*'fhada ag teacht é. | He was a long time coming.
+|===
+
+h. {7_1_1_h_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Ní* inniu ná inné a saolaíodh eisean. | "He was not born today or yesterday.
+| *Is* ag ceannach bainne a bhí mé. | I was buying milk.
+| *Is* chun na Spáinne a chuaigh sí. | It was to Spain she went.
+| *Ní* hí Muireann a chaill an eochair. | It was not Muireann that lost the key.
+| *Ba* í Nóra a d'aistrigh é sin. | Nóra translated that.
+| *Is* aici a bhí an ceart. | She was right.
+| *Níorbh* é sin an cineál comórtais a bhí ann in 1998. | That was not the kind of competition that was there in 1998.
+| *Is* inné a tháinig siad. | Yesterday they came.
+| *Is* é Peadar a dhéanfadh an beart dá mbeadh sé anseo. | Peadar would make the move if he were here.
+|===
+i. {7_1_1_i_text}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| *Is* troime bonn dhá phingin ná bonn pingine. | A twopence is heavier than a penny.
+| *Is* gile an ghrian ná an ghealach agus ná na pláinéid. | The sun is brighter than either the moon or the planets.
+| *Ní* lia tír ná nós. | Countries aren't more numerous than customs. (figuratively: so many men, so many minds)
+| *Nach* treise dúchas ná oiliúint? | Isn't nature stronger than nurture?
+| *Nárbh* fhearr gluaisteán ná rothar? | Wouldn't a car be better than a bicycle?
+|===
+`;export{n as default};

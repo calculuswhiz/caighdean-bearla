@@ -6,10 +6,11 @@ const asciidoctor = Asciidoctor();
 
 interface ChapterProps {
   number: number;
-  language?: "en" | "ga"; // or whatever set of languages you support
+  language?: "en" | "ga";
+  onContentReady(): void;
 }
 
-export function Chapter({ number, language = "en" }: ChapterProps) {
+export function Chapter({ number, language = "en", onContentReady }: ChapterProps) {
   const [chapterAdoc, setChapterAdoc] = React.useState<string>("");
 
   React.useEffect(() => {
@@ -32,17 +33,20 @@ export function Chapter({ number, language = "en" }: ChapterProps) {
         processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
       ].join("\n");
 
-      setChapterAdoc(asciidoctor.convert(combined) as string);
+      
+      const renderedContents = asciidoctor.convert(combined) as string;
+      setChapterAdoc(renderedContents);
     }
 
     loadChapter();
   }, [number, language]);
 
   React.useEffect(() => {
-    if (chapterAdoc) {
+    if (chapterAdoc !== "") {
       tableScan();
+      onContentReady();
     }
-  }, [chapterAdoc]);
+  }, [chapterAdoc, onContentReady]);
 
   return (
     <div dangerouslySetInnerHTML={{ __html: chapterAdoc }} />

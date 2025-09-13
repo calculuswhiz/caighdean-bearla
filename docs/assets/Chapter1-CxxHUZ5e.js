@@ -1,0 +1,1259 @@
+const n=`= {Chapter} 1 | {chapterTitle}
+:showtitle:
+:table-caption!:
+
+== 1.1 {General}
+
+=== 1.1.1
+{1-1-1}
+
+=== 1.1.2
+{1-1-2}
+
+=== 1.1.3
+{1-1-3}
+
+=== 1.1.4
+{1-1-4}
+
+=== 1.1.5
+{1-1-5}
+
+[list-[lower-alpha]]
+. {1-1-5-a}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Beidh *an tAire Airgeadais* ag freastal ar an gcruinniú.
+| The *Minister for Finance* will attend the meeting.
+
+| Cá bhfuil *an Príomh-Oifigeach Feidhmiúcháin*?
+| Where is *the Chief Executive Officer*?
+
+| Tá *an Taoiseach* ag labhairt leis na daltaí.
+| *The Taoiseach* is speaking with the students. 
+
+| An é sin *Ard-Rúnaí na Náisiún Aontaithe*?
+| Is that *the Secretary General of the United Nations*?
+|===
+
+. {1-1-5-b}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is san fhoirgneamh sin thall atá *an Roinn Oideachais agus Scileanna*.
+| This building is opposite *the Department of Education and Skills*.
+
+| Chuaigh Seán go dtí *an Oifig um Rialú Tobac*.
+| Sean went to *the Office of Tobacco Control*.
+
+| Tá *Feidhmeannacht na Seirbhíse* Sláinte an-ghnóthach.
+| *The Health Service Executive* is very busy.
+
+| Seo *an Phríomh-Oifig Staidrimh*.
+| This is *the Central Statistics Office*.
+|===
+
+. {1-1-5-c}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Ba é *an tAthair Peadar Ua Laoghaire* a scríobh an dráma _An Sprid_.
+| *Father Peadar Ua Laoghaire* wrote the play _An Sprid_.
+
+| Labhair *an Captaen Ó Murchú* leis na himreoirí.
+| *Captain Ó Murchu* spoke to the players. 
+
+| Bhí *an tUachtarán Mhic Róibín* le feiceáil sa ghrianghraf.
+| *President Robinson* was to be seen in the photograph. 
+
+| Beidh *an Dochtúir de Barra* ar saoire ar feadh seachtaine.
+| *Doctor De Barra* will be on holiday for the week. 
+
+| Tá *an Múinteoir Ailbhe* i bhfeighil ar rang a sé i mbliana.
+| *Teacher Ailbhe* is in charge of sixth class this year.
+
+| Is í *an Bhanríon Elsa a Dó* atá sa scannán.
+| It is *Queen Elsa II* in the film.
+|===
+
+. {1-1-5-d-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá *an Nollaig* ag teannadh linn.
+| *Christmas* is approaching us.
+
+| Is i mí an Mhárta a bheid *an Cháisc* i mbliana.
+| *Easter* will be in March this year.
+
+| Rinne mé *an Carghas* ar an ól.
+| I gave up drinking for *Lent*. 
+|===
+{1-1-5-d-p2}
+
+. {1-1-5-e-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is é *an Luan* an lá is ansa liom.
+| *Monday* is my favourite day.
+
+| Téim ag snámh ar *an Máirt*.
+| I go swimming *on Tuesdays*.
+
+| Inniu *an Chéadaoin*.
+| Today *is a Wednesday*.
+|===
+{1-1-5-e-p2}
+{1-1-5-e-p3}
+
+. *{1-1-5-f-p1}*
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is minic a bhíonn mí *Eanáir* níos fuaire ná mí *na Nollag*.
+| Often *January* is colder than *December*.
+
+| Tá an Cháisc i mí *an Mhárta* seachas *mí Aibreáin* i mbliana.
+| Easter is in *March* rather than *April* this year.
+|===
+{1-1-5-f-p2}
+
+. *{1-1-5-g-p1}*
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Ba chóir é a dhéanamh tráth nach déanaí ná *an 30 Meán Fómhair* gach bliain.
+| I should be done no later than *30 September* every year.
+
+| Beidh an chóisir ar síúl ar *an 12 Aibreán*.
+| The party will be on *the 12th of April*.
+
+| Baineann na ráitis airgeadais leis an mbliain dar chríoch *an 31 Nollaig 2014*.
+| The financial reports are for the year ended *31 December 2014*.
+
+| Pósfaidh siad *an 26 Feabhra*.
+| They will marry on *the 26th of February*.
+
+| Ní ghlacfar le haon iarratas a gheofar tar éis *an 7 Márta 2016*.
+| No applications will be accepted after *7 March 2016*.
+|===
+{1-1-5-g-p2}
+{1-1-5-g-p3}
+
+. *{1-1-5-h-p1}*
+[list-[lower-roman]]
+.. {1-1-5-h-i_ga}
+.. {1-1-5-h-ii_ga}
+.. {1-1-5-h-iii_ga}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Rinne mé *an Mhucais* a shiúl inné.
+| I did *the Muckish* walk yesterday.
+
+| Ar bhuaig *an Spidéal* an cluiche?
+| Did *Spiddal* win the game?
+
+| Bhí *an tSionainn* le feiceáil ón eitleán.
+| *Shannon* can be seen from the Airplane 
+|===
+
+. *{1-1-5-i-p1}*
+[list-[upper-alpha]]
+.. {1-1-5-i-A-p1}
++
+--
+[list-[lower-roman]]
+... {1-1-5-i-A-i}
+... {1-1-5-i-A-ii}
+... {1-1-5-i-A-iii}
+--
+{1-1-5-i-A-p2}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is tír álainn í *an Fhrainc*.
+| *France* is a beautiful country.
+
+| Luaitear *Mósaimbíc* sa leabhar.
+| *Mozambique* is mentioned in the book.
+|===
+
+.. {1-1-5-i-B-p}
++
+--
+[list-[lower-roman]]
+... {1-1-5-i-B-i}
+... {1-1-5-i-B-ii}
+... {1-1-5-i-B-iii}
+... {1-1-5-i-B-iv}
+--
+
+.. {1-1-5-i-C-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| I Muir Chairib atá *na Bahámaí*.
+| *The Bahamas* are in the Caribbean.
+
+| Rinneadh an scannán a thaifeadadh *sna Garbhchríocha*.
+| The film was recorded in *the Highlands*.
+|===
+
+. {1-1-5-j-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Dúradh *an Ghlóir* i lár an Aifrinn.
+| *Glory* was said in the middle of Hell.
+
+| Ní minic a chloistear *an Dord Fiann*.
+| *The Dord Fiann* is not often heard.
+
+| Dúirt sé *an Choróin Mhuire* os ard.
+| He said *the rosary* loudly.
+|===
+
+. *{1-1-5-k-p1}*
++
+{1-1-5-k-p2}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Dhíol sé na leabhair ar euro *an ceann*.
+| He sells the books for a euro *each*.
+
+| Eagraítear comóradh uair *sa bhliain*.
+| An anniversary is organised once *per year*.
+
+| Bhí mála *an duine* ag na páistí scoile.
+| *Every* schoolchild had a bag.
+|===
+
+. *{1-1-5-l-p1}*
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Nuair a bhíonn *an t-ól* istigh, bíonn *an chiall* amuigh.
+| When *the drink* is in, *sense* is out.
+
+| Ní maith í an fhearg.
+| *Anger* is not good.
+
+| Tugadh isteach *an colscaradh* in Éirinn roinnt blianta ó shin.
+| *Divorce* was introduced in Ireland some years ago.
+
+| Is rud nua í *an taiscéalaíocht* sa spás.
+| Space *exploration* is a new thing.
+
+| Ní féidir taisteal *san am*.
+| It is not possible to travel through *time*.
+
+| Inseoidh *an aimsir*.
+| *The weather* will tell.
+
+| Is maith *an t-anlann* *an t-ocras*.
+| *Hunger* is the best *sauce*.
+|===
+{1-1-5-l-p2}
+
+. {1-1-5-m-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Bhí *an bhruitíneach* fairsing in Éirinn go dtí na 1960idí.
+| *Measles* was widespread in Ireland until the 1960s.
+
+| An bhfuil leigheas *ar an titimeas*?
+| Is there a cure for *epilepsy*?
+|===
+
+. {1-1-5-n-p1}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is í *an Ghaeilge* teanga ár sinsear.
+| *Irish* is the language of our ancestors.
+
+| Labhraítear *an Ghearmáinis* san Ostair.
+| *German* is spoken in Austria.
+
+| Bhí *an Béarla* go maith aici.
+| She had good *English*.
+|===
+{1-1-5-n-p2}
+
+'''
+
+// Evidently this is not a real "subsection"
+[discrete]
+== {1-1_5-title}
+
+{1-1_5-p}
+
+== 1.2 {1-2-title}
+
+{1-2-p1}
+
+.*{Table} 1A*  {Table1a-caption}
+[.table-stack]
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="2a"]
+|===
+h| {Masculine}
+
+| [cols="5,3,3,3,3"]
+!===
+2+! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+
+h! {Consonant}
+! {Table1A-masc-cons-col1}
+! an
+! {Table1A-masc-cons-col3}
+a! . an cnoc
+. an diabhal
+. an fear
+. an saol
+. an Seapánach
+. an teach
+
+h! {Vowel}
+! {Table1A-masc-vowel-col1}
+! an
+! {Table1A-masc-vowel-col3}
+a! . an t-íochtar
+. an t-uisce
+. an t-alt
+. an tAcht
+. an tUltach
+
+!===
+
+h| {Feminine}
+
+| [cols="5,3,3,3,3"]
+!===
+2+! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+
+.3+h! {Consonant}
+! {Table1A-fem-cons-case1-col1}
+! an
+! {Table1A-fem-cons-case1-col3}
+a! . an fhuinneog
+. an chaibidil
+
+! {Table1A-fem-cons-case2-col1}
+! an
+! {Table1A-fem-cons-case2-col3}
+a! . an deoch
+. an teanga
+
+! {Table1A-fem-cons-case3-col1}
+! an
+! {Table1A-fem-cons-case3-col3}
+a! . an tsráid
+. an tSeapáin
+
+h! {Vowel}
+! {Table1A-fem-vowel-col1}
+! an
+! {Table1A-fem-vowel-col3}
+a! . an áit
+. an Astráil
+. an Iodáil
+. an obair
+
+!===
+
+|===
+
+{LenitionNote}
+
+'''
+
+== 1.3 {1-3-title}
+
+=== 1.3.1 
+{1-3-1}
+
+=== 1.3.2 
+{1-3-2}
+
+=== 1.3.3 
+{1-3-3}
+
+=== 1.3.4 
+{1-3-4}
+
+[%noheader]
+[cols="2,1,2"]
+|===
+| de + an
+| ->
+| den
+
+| do + an
+| ->
+| don
+
+| faoi + an
+| ->
+| faoin
+
+| i + an
+| ->
+| sa, san
+
+| ó + an
+| ->
+| ón
+|===
+
+=== 1.3.5 
+{1-3-5}
+
+[%noheader]
+[cols="2,1,2"]
+|===
+| fara + an
+|->
+| fairis an
+
+| le + an
+|->
+| leis an
+
+| trí + an
+|->
+| tríd an
+|===
+
+'''
+
+== 1.4 {1-4-title}
+
+=== 1.4.1
+{1-4-1}
+
+.*{Table} 1B*  {1-4-title} -- {Table1B-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1B-caption}
+
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
+
+| ag an bhfear maith
+| ag an gcuideachta bheag
+
+| ar an mbosca dearg
+| ar an mbean shaibhir
+
+| as an ngleann mór
+| as an bpáirc chéanna
+
+| chuig an gCoimisinéir coinsiasach
+| chuig an mbean ghairmiúil
+
+| den chrann caol
+| den bhean fhlaithiúil
+
+| don fhear trom
+| don chuideachta ghnóthach
+
+| fairis an ngarda béasach
+| fairis an mbean chairdiúil
+
+| faoin bhfógra práinneach
+| faoin ngrian bhreá
+
+| sa bhosca buí +
+sa fhraoch bán +
+ +
+{Table1B-note} +
+san fhéar fliuch
+
+| sa chomhairle shóisialta +
+sa fhrithréabhlóid fhíochmhar +
+ +
+{Table1B-note} +
+san fharraige ghlan
+
+| leis an bhfasach cruinn
+| leis an mbáisteach throm
+
+| ón gcaisleán fuar
+| ón gcathair mhór
+
+| roimh an gcruinniú tábhachtach
+| roimh an mbainis bheag
+
+| thar an gcnoc bán
+| thar an bhfarraige chiúin
+
+| tríd an ngairdín breá
+| tríd an bhfuinneog ghorm
+
+| um an mBille fada
+| um an ngníomhaireacht reachtúil
+
+|===
+
+=== 1.4.2
+{1-4-2}
+
+.*{Table} 1C*  {1-4-title} -- {Table1C-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1C-caption}
+
+a|
+[.sub-header]
+{Masculine}
+a|
+[.sub-header]
+{Feminine}
+
+// No way to have more than one row in header, so this is our workaround...
+a|
+[.text-center]
+*{NoChange}*
+a| 
+[.text-center]
+*{Table1C-col2-subheader}*
+
+| ag an Seapánach cliste
+| ag an tseanmháthair bhocht
+
+| ar an suíochán fliuch
+| ar an tsráid ghlan
+
+| as an sailéad blasta
+| as an tsaoire bhliantúil
+
+| chuig an Seanadóir nuacheaptha
+| chuig an tsatailít mhór
+
+| den saighdiúir sásúil
+| den tslándáil shóisialach
+
+| don Seanad nua
+| don tsaoirse cheart
+
+| fairis an saineolaí lách
+| fairis an tseanbhean shaibhir
+
+| faoin sonrasc déanach
+| faoin tslí dhíreach
+
+| sa soitheach gorm
+| sa tseacláid mhilis
+
+| leis an salann bán
+| leis an tslat fhada
+
+| ón suirbhé pearsanta
+| ón scoil bheag
+
+| roimh an samhradh fada
+| roimh an tseachtain mhór
+
+| thar an seol mór
+| thar an tSionainn fhada
+
+| tríd an sorcas mór
+| tríd an tseift chliste
+
+| um an sainchomhairleoir cruinn
+| um an tseirbhís mhaith
+|===
+
+=== 1.4.3
+{1-4-3}
+
+.*{Table} 1D*  {1-4-title} -- {Table1D-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1D-caption}
+
+a| 
+[.sub-header]
+{Masculine}
+a| 
+[.sub-header]
+{Feminine}
+
+| ag an Albanach ciallmhar
+| ag an aeráid ghaofar
+
+| ar an eitleán dubh
+| ar an olann bhán
+
+| as an uisce glan
+| as an iris cháiliúil
+
+| chuig an Aire ilteangach
+| chuig an Ostair shléibhtiúil
+
+| den alt fada
+| den uimhir chruinn
+
+| don údarás céanna
+| don obair chrua
+
+| fairis an oifigeach múinte
+| fairis an ógbhean chliste
+
+|===
+
+=== 1.4.4
+{1-4-4}
+
+.*{Table} 1E*  {1-4-title} -- {Table1E-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a|
+[.table-header]
+{CoreSystem} -- {Table1E-caption}
+
+a|
+[.sub-header]
+{Masculine}
+a|
+[.sub-header]
+{Feminine}
+
+| faoin dréimire briste
+| faoin deacracht bhreise
+
+| sa teas mór
+| sa deoch fhuar
+
+| leis an duine ciúin
+| leis an taithí mhaith
+
+| ón deartháir cineálta
+| ón teanga líofa
+
+| roimh an tarbh fiáin
+| roimh an deighilt mhór
+
+| thar an teach gorm
+| thar an diallait nua
+
+| tríd an talamh crua
+| tríd an drochaimsir ghránna
+
+| um an dlí coiriúil
+| um an tagairt chuí
+
+|===
+
+.N.B.
+****
+{1-4-4-NB-p1}
+
+[list-[lower-alpha]]
+. {1-4-4-NB-a}
+. {1-4-4-NB-b}
+****
+
+'''
+
+== 1.5 {1-5-title}
+
+=== 1.5.1
+{1-5-1-p1}
+
+[list-[lower-alpha]]
+. {1-5-1-a}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Cár fhág tú *eochair an chairr*?
+| Where did you leave the car keys?
+
+| Tá muintir na háite sásta le *foireann na leabharlainne*.
+| The local people are happy with the library staff.
+|===
+
+. {1-5-1-b}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Is maith leis na gasúir a bheith *ag réiteach an dinnéir*.
+| The youngsters like to be preparing dinner.
+
+| Is í Síle atá *ag déanamh na hArdteiste* i mbliana.
+| It is Síle who is doing the Leaving Certificate this year.
+|===
+
+. {1-5-1-c}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Bíonn an cat ina shuí ansin *os comhair na tine* gach uile oíche.
+| The cat sits in front of the fire every night.
+
+| Ba iad na hailtirí a bhí *i mbun an scrúdaithe*.
+| The architects were attending to the test.
+|===
+
+. {1-5-1-d}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Chuala mé go ndeachaigh sibh ar thuras *timpeall an domhain*.
+| I heard that you went on a journey around the world.
+
+| Shiúlamar *cois na habhann*.
+| We walked beside the river.
+|===
+
+. {1-5-1-e}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Tá an grúpa uile ag dul *chun na Spáinne* i mí Iúil.
+| The whole group is going to Spain in July.
+
+| Rinne siad achomharc *chun na cúirte*.
+| They made an appeal to the court.
+|===
+
+{1-5-1-p2}
+
+=== 1.5.2
+
+{1-5-2-p}
+
+.*{Table} 1F*  {Table1F-caption}
+[.table-stack]
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="2a"]
+|===
+h| {Masculine}
+
+| [cols="5,3,3,3,3"]
+!===
+2+! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+
+.3+h! {Consonant}
+! {Table1F-masc-cons-case1-col1}
+! an
+! {Table1F-masc-cons-case1-col3}
+a! . barr an chnoic
+. hata an fhir
+
+! {Table1F-masc-cons-case2-col1}
+! an
+! {Table1F-masc-cons-case2-col3}
+a! . chun an diabhail
+. doras an tí
+
+! {Table1F-masc-cons-case3-col1}
+! an
+! {Table1F-masc-cons-case3-col3}
+a! . tús an tsaoil
+. pas an tSeapánaigh
+
+h! {Vowel}
+! {Table1F-masc-vowel-col1}
+! an
+! {Table1F-masc-vowel-col3}
+a! . de réir an ailt
+. faoi réir an Achta
+. pas an Albanaigh
+
+!===
+
+h| {Feminine}
+
+| [cols="5,3,3,3,3"]
+!===
+2+! {ArticleTable-col1-th} ! {ArticleTable-col2-th} ! {ArticleTable-col3-th} ! {ArticleTable-col4-th}
+
+h! {Consonant}
+! {Table1F-fem-cons-col1}
+! na
+! {Table1F-fem-cons-col3}
+a! . leac na fuinneoige
+. deireadh na caibidle
+. bun na sráide
+. muintir na Téalainne
+
+h! {Vowel}
+! {Table1F-fem-vowel-col1}
+! na
+! {Table1F-fem-vowel-col3}
+a! . timpeall na háite
+. foireann na hÍsiltíre
+
+!===
+|===
+
+{LenitionNote}
+
+'''
+
+== 1.6 {1-6-title}
+
+{1-6-p}
+
+=== 1.6.1 {1-6-1-title}
+
+{1-6-1-p1}
+
+.*{Table} 1G*  {Table1G-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="3,3,3,4"]
+|===
+4+a|
+[.table-header]
+{MascAndFem}
+
+a|
+[.sub-header]
+{ArticleTable-col1-th} 
+a|
+[.sub-header]
+{ArticleTable-col2-th} 
+a|
+[.sub-header]
+{ArticleTable-col3-th} 
+a|
+[.sub-header]
+{ArticleTable-col4-th}
+
+h| {Consonant}
+| na
+| {Table1G-cons-col3}
+a| . na capaill ghlasa
+. na cnoic arda
+. na fuinneoga móra
+. na Seapánaigh
+. na sráideanna
+
+h| {Vowel}
+| na
+| {Table1G-vowel-col3}
+a| . na hAchtanna tábhachtacha
+. na háiteanna
+. na hAlbanaigh bhródúla
+. na hÉireannaigh
+. na híomhánna
+
+|===
+
+=== 1.6.2 {1-6-2-title}
+
+{1-6-2-p1}
+
+.*{Table} 1H*  {Table1H-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="3,3,3,4"]
+|===
+4+a|
+[.table-header]
+{MascAndFem}
+
+a|
+[.sub-header]
+{ArticleTable-col1-th} 
+a|
+[.sub-header]
+{ArticleTable-col2-th} 
+a|
+[.sub-header]
+{ArticleTable-col3-th} 
+a|
+[.sub-header]
+{ArticleTable-col4-th}
+
+h| {Consonant}
+| na
+| {Table1H-cons-col3}
+a| . ag na fir mhóra
+. ar na mná cliste
+. as na seirbhísí poiblí
+. chuig na mic léinn ghlóracha
+. de na crainn
+. do na Teachtaí
+. faoi na daoine
+. fairis na gardaí
+. leis na fasaigh
+. ó na múinteoirí
+. roimh na cait
+. sna boscaí
+. thar na farraigí
+. trí na gairdíní
+. um na coillte
+
+h| {Vowel}
+| na
+| {Table1H-vowel-col3}
+a| . ag na hiníonacha fásta
+. ar na hoileáin ghaofara
+. as na hirisí acadúla
+. chuig na hoifigigh dheasa
+. de na huimhreacha
+. do na hoibreacha
+. faoi na heachtraí
+. fairis na hógmhná
+. leis na heochracha
+. ó na hÉireannaigh
+. roimh na héin
+. sna heitleáin
+. thar na háiteanna
+. trí na haistriúcháin
+. um na hAchtanna
+
+|===
+
+=== 1.6.3 {1-6-3-title}
+
+{1-6-3-p}
+
+.*{Table} 1I*  {Table1I-caption}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="3,3,3,4"]
+|===
+4+a|
+[.table-header]
+{MascAndFem}
+
+a|
+[.sub-header]
+{ArticleTable-col1-th} 
+a|
+[.sub-header]
+{ArticleTable-col2-th} 
+a|
+[.sub-header]
+{ArticleTable-col3-th} 
+a|
+[.sub-header]
+{ArticleTable-col4-th}
+
+h| {Table1I-Row1Name}
+| na
+| {Eclipsis}
+a| . trasna na gcnoc íseal
+. leaca na bhfuinneog
+. i measc na ndaoine
+
+h| {Vowel}
+| na
+| {Eclipsis}
+a| . líon na n-áiteanna breátha
+. costas na n-oibreacha
+. líon na nAlbanach
+
+|===
+
+{EclipsisNote}
+
+'''
+
+== 1.7 {1-7-Title}
+
+=== 1.7.1
+
+{1-7-1-p}
+
+=== 1.7.2
+
+{1-7-2-p}
+
+=== 1.7.3
+
+{1-7-3-p}
+
+.*{Table} 1J*  {Table1J-caption-start} -- {Table1J-header}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a|
+[.table-header]
+{Table1J-header}
+
+a| 
+[.sub-header]
+{Masculine}
+a| 
+[.sub-header]
+{Feminine}
+
+| ag an fhear mhaith
+| ag an chuideachta bheag
+
+| ar an bhosca dhearg
+| ar an bhean shaibhir
+
+| as an ghleann mhór
+| as an pháirc chéanna
+
+| chuig an Choimisinéir choinsiasach
+| chuig an bhean ghairmiúil
+
+| den chrann chaol
+| den bhean fhlaithiúil
+
+| don fhear throm
+| don chuideachta ghnóthach
+
+| fairis an gharda bhéasach
+| fairis an bhean chairdiúil
+
+| faoin fhógra phráinneach
+| faoin ghrian bhreá
+
+| sa bhosca buí +
+sa fhraoch bán +
+ +
+{Table1B-note} +
+san fhéar fliuch
+
+| sa chomhairle shóisialta +
+sa fhrithréabhlóid fhíochmhar +
+ +
+{Table1B-note} +
+san fharraige ghlan
+
+| leis an fhasach chruinn
+| leis an bháisteach throm
+
+| ón chaisleán fhuar
+| ón chathair mhór
+
+| roimh an chruinniú thábhachtach
+| roimh an bhainis bheag
+
+| thar an chnoc bhán
+| thar an fharraige chiúin
+
+| tríd an ghairdín bhreá
+| tríd an fhuinneog ghorm
+
+| um an Bhille fhada
+| um an ghníomhaireacht reachtúi
+
+|===
+
+=== 1.7.4
+
+{1-7-4}
+
+.*{Table} 1K*  {Table1K-caption-start} -- {Table1K-header}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a| {Table1K-header}
+
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
+
+// No way to have more than one row in header, so this is our workaround...
+2+a|
+[.sub-header]
+{Table1K-subheading}
+
+| ag an tSeapánach chliste
+| ag an tseanmháthair bhocht
+
+| ar an tsuíochán fhliuch
+| ar an tsráid ghlan
+
+| as an tsailéad bhlasta
+| as an tsaoire bhliantúil
+
+| chuig an tSeanadóir nuacheaptha
+| chuig an tsatailít mhór
+
+| den tsaighdiúir shásúil
+| den tslándáil shóisialach
+
+| don tSeanadóir nua
+| don tsaoirse cheart
+
+| fairis an tsaineolaí lách
+| fairis an tseanbhean shaibhir
+
+| faoin tsonrasc dhéanach
+| faoin tslí dhíreach
+
+| sa tsoitheach ghorm
+| sa tseacláid mhilis
+
+| leis an tsalann bhán
+| leis an tslat fhada
+
+| ón tsuirbhé phearsanta
+| ón scoil bheag
+
+| roimh an tsamhradh fhada
+| roimh an tseachtain mhór
+
+| thar an tseol mhór
+| thar an tSionainn fhada
+
+| tríd an tsorcas mhór
+| tríd an tseift chliste
+
+| um an tsainchomhairleoir chruinn
+| um an tseirbhís mhait
+
+|===
+
+=== 1.7.5
+
+{1-7-5}
+
+.*{Table} 1L*  {Table1L-caption-start} -- {Table1L-header}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a|
+[.table-header]
+{Table1L-header}
+
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
+
+| ag an Albanach chiallmhar
+| ag an aeráid ghaofar
+
+| ar an eitleán dhubh
+| ar an olann bhán
+
+| as an uisce ghlan
+| as an iris cháiliúil
+
+| chuig an Aire ilteangach
+| chuig an Ostair shléibhtiúil
+
+| den alt fhada
+| den uimhir chruinn
+
+| don údarás chéanna
+| don obair chrua
+
+| fairis an oifigeach mhúinte
+| fairis an ógbhean chliste
+
+|===
+
+=== 1.7.6
+
+{1-7-6}
+
+.*{Table} 1M*  {Table1M-caption-start} -- {Table1M-header}
+[.chapter-1]
+[%autowidth]
+[%noheader]
+[cols="1,1"]
+|===
+2+a| {Table1M-header}
+
+a|
+[.sub-header]
+{Masculine} 
+a|
+[.sub-header]
+{Feminine}
+
+| faoin dréimire bhriste
+| faoin deacracht bhreise
+
+| sa teas mhór
+| sa deoch fhuar
+
+| leis an duine chiúin
+| leis an taithí mhaith
+
+| ón deartháir chineálta
+| ón teanga líofa
+
+| roimh an tarbh fhiáin
+| roimh an deighilt mhór
+
+| thar an teach ghorm
+| thar an diallait nua
+
+| tríd an talamh chrua
+| tríd an drochaimsir ghránna
+
+| um an dlí choiriúil
+| um an tagairt chuí
+
+|===
+`;export{n as default};

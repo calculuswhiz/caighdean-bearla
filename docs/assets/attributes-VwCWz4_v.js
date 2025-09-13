@@ -1,4 +1,4 @@
-:chapterTitle_ga: AN AIDIACHT
+const a=`:chapterTitle_ga: AN AIDIACHT
 :chapterTitle_en: THE ADJECTIVE
 
 :4-1-title_ga: An Aidiacht Cháilíochta
@@ -89,3 +89,4 @@
 :Table4B-col2-sub_en: [TODO] Ainmfhocal dar críoch consan leathan nó guta san iolra
 
 
+`;export{a as default};
