@@ -31,8 +31,7 @@
 		"prefix": "tlPair",
 		"body": [
 			":$1_ga: $2",
-			":$1_en: [TODO] $2",
-			"$0"
+			":$1_en: [TODO] $0"
 		]
 	}
 }

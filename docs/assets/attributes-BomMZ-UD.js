@@ -1,4 +1,4 @@
-:chapterTitle_ga: AN AIDIACHT
+const a=`:chapterTitle_ga: AN AIDIACHT
 :chapterTitle_en: THE ADJECTIVE
 
 :4-1-title_ga: An Aidiacht Cháilíochta
@@ -367,4 +367,4 @@
 :4-12-1-c-p_en: [TODO] 
 
 :4-12-1-d-p_ga: mar aidiacht fhaisnéiseach ar lorg an bhriathair _bí_ ag léiriú staid an ghníomhaí tar éis an ghnímh, e.g., _Táimid beirthe go maith leis an socrú sin_.
-:4-12-1-d-p_en: [TODO] 
+:4-12-1-d-p_en: [TODO] `;export{a as default};

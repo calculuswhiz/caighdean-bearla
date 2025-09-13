@@ -30,8 +30,20 @@ const n=`= {Chapter} 4 | {chapterTitle}
 |===
 
 === 4.2.2
+
 [list-[lower-alpha]]
 a. {4-2-2-a-p}
 [list-[lower-roman]]
-  .. {4-2-2-a-i-p}
-  .. {4-2-2-a-ii-p}`;export{n as default};
+.. {4-2-2-a-i-p}
+.. {4-2-2-a-ii-p}
+
+b. {4-2-2-b-p}
+
+=== 4.2.3
+
+{4-2-3-p}
+
+=== 4.2.4 {4-2-4-title}
+
+{4-2-4-p}
+`;export{n as default};
