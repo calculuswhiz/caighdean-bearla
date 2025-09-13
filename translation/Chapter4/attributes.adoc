@@ -88,4 +88,42 @@
 :Table4B-col2-sub_ga: Ainmfhocal dar críoch consan leathan nó guta san iolra
 :Table4B-col2-sub_en: [TODO] Ainmfhocal dar críoch consan leathan nó guta san iolra
 
+:4-3-title_ga: Díochlaonadh na hAidiachta
+:4-3-title_en: Declensions of the Adjectives
+
+:4-3-1-p_ga: Is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach uatha, agus is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach iolra.
+:4-3-1-p_en: [TODO] Is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach uatha, agus is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach iolra.
+
+:4-3-2-p_ga: Sa tuiseal ginideach iolra --
+:4-3-2-p_en: In the genitive plural case --
+
+:4-3-2-a-p_ga: más tréaniolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach iolra:
+:4-3-2-a-p_en: [TODO] más tréaniolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach iolra:
+
+:4-3-2-a-sample-row1_ga: Ainmneach iolra
+:4-3-2-a-sample-row1_en: Nominative plural
+
+:4-3-2-a-sample-row2_ga: Ginideach iolra
+:4-3-2-a-sample-row2_en: Genitive plural
+
+:4-3-2-b-p_ga: más lagiolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach uatha:
+:4-3-2-b-p_en: [TODO] más lagiolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach uatha:
+
+:4-3-2-b-sample-row1_ga: Ainmneach uatha
+:4-3-2-b-sample-row1_en: Nominative singular
+
+:4-3-2-b-sample-row2_ga: Ginideach iolra
+:4-3-2-b-sample-row2_en: Genitive plural
+
+:4-3-3-a_ga: Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
+:4-3-3-a_en: [TODO] Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
+
+:4-3-3-b_ga: Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
+:4-3-3-b_en: [TODO] Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
+
+:4-3-4-p_ga: Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
+:4-3-4-p_en: [TODO] Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
+
+:4-3-5-p_ga: Ní infhilltear an aidiacht ná ní dhéantar athrú tosaigh uirthi ar lorg dobhriathra nó aidiachtaí a úsáidtear mar dhobhriathra amhail _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
+:4-3-5-p_en: [TODO] Ní infhilltear an aidiacht ná ní dhéantar athrú tosaigh uirthi ar lorg dobhriathra nó aidiachtaí a úsáidtear mar dhobhriathra amhail _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
 
