@@ -1,4 +1,4 @@
-= {Chapter} 4 | {chapterTitle}
+const n=`= {Chapter} 4 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -129,3 +129,4 @@ a| {Table4B-col2-sub}
 |===
 
 == 4.3 {4-3-title}
+`;export{n as default};

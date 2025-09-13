@@ -40,6 +40,12 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-2-4-p_ga: Fágtar aidiacht lom nó cuirtear séimhiú uirthi bunaithe ar inscne agus tuiseal an ainmfhocail atá á cháiliú léi. Léirítear na cásanna sa tábla thíos. Féach an plé ar dhíochlaonadh na haidiachta (4.3) chun eolas a fháil ar athrú foirme (seachas séimhiú) ar an aidiacht féin.
 :4-2-4-p_en: [TODO] Fágtar aidiacht lom nó cuirtear séimhiú uirthi bunaithe ar inscne agus tuiseal an ainmfhocail atá á cháiliú léi. Léirítear na cásanna sa tábla thíos. Féach an plé ar dhíochlaonadh na haidiachta (4.3) chun eolas a fháil ar athrú foirme (seachas séimhiú) ar an aidiacht féin.
 
+:lenition_ga: séimhiú
+:lenition_en: lenition
+
+:no-lenition_ga: gan séimhiú
+:no-lenition_en: no lenition
+
 :Table4A-caption_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
 :Table4A-caption_en: [TODO] Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
 
@@ -64,8 +70,8 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :Table4A-row4_ga: Ginideach
 :Table4A-row4_en: Genitive
 
-:Table4A-footnote_ga: *Ach féach 1.7 Córas an tSéimhithe
-:Table4A-footnote_en: *But see 1.7 The Lenition System
+:Table4A-footnote_ga: Ach féach 1.7 Córas an tSéimhithe
+:Table4A-footnote_en: But see 1.7 The Lenition System
 
 :4-2-5-title_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Iolra
 :4-2-5-title_en: Lenition of Attributive Adjective in the Singular Number
