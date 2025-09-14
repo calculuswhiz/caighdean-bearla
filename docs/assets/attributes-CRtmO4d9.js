@@ -121,11 +121,11 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-3-2-b-sample-row2_ga: Ginideach iolra
 :4-3-2-b-sample-row2_en: Genitive plural
 
-:4-3-3-a_ga: Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
-:4-3-3-a_en: [TODO] Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
+:4-3-3-a-p_ga: Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
+:4-3-3-a-p_en: [TODO] Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
 
-:4-3-3-b_ga: Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
-:4-3-3-b_en: [TODO] Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
+:4-3-3-b-p_ga: Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
+:4-3-3-b-p_en: [TODO] Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
 
 :4-3-4-p_ga: Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
 :4-3-4-p_en: [TODO] Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
@@ -157,17 +157,17 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-4-1-a-i-p_ga: Más consan leathan is críoch don aidiacht, caolaítear an consan mar a dhéantar le hainmfhocail sa Chéad Díochlaonadh (féach 2.2.2).
 :4-4-1-a-i-p_en: [TODO] Más consan leathan is críoch don aidiacht, caolaítear an consan mar a dhéantar le hainmfhocail sa Chéad Díochlaonadh (féach 2.2.2).
 
-:4-4-1-a-ii_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
-:4-4-1-a-ii_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
+:4-4-1-a-ii-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
+:4-4-1-a-ii-p_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
 
-:4-4-1-a-iii_ga: Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
-:4-4-1-a-iii_en: [TODO] Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
+:4-4-1-a-iii-p_ga: Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
+:4-4-1-a-iii-p_en: [TODO] Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
 
-:4-4-1-a-iv_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
-:4-4-1-a-iv_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
+:4-4-1-a-iv-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
+:4-4-1-a-iv-p_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
 
-:4-4-1-a-v_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
-:4-4-1-a-v_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
+:4-4-1-a-v-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
+:4-4-1-a-v-p_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
 
 :4-4-1-b-title_ga: Baininscneach
 :4-4-1-b-title_en: Feminine

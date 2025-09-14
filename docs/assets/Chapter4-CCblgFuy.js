@@ -1,4 +1,4 @@
-= {Chapter} 4 | {chapterTitle}
+const n=`= {Chapter} 4 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -352,3 +352,4 @@ a|
 |===
 
 '''
+`;export{n as default};
