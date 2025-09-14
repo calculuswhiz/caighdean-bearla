@@ -352,3 +352,71 @@ a|
 |===
 
 '''
+
+== 4.5 {4-5-title}
+
+{4-5-p}
+
+=== 4.5.1 {4-5-1-title}
+
+[list-[lower-alpha]]
+a. *{4-5-1-a-title}*
++
+{4-5-1-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Cá bhfuil athair an fhir *chóir*? | [TODO]
+| Léigh mé tús an leabhair *shuimiúil*. | [TODO]
+|===
+b. *{4-5-1-b-title}*
++
+{4-5-1-b-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Cá bhfuil athair na mná *cáiliúla*? | [TODO]
+| Léigh mé tús na haiste *deacra*. | [TODO]
+|===
+
+=== 4.5.2 {4-5-2-title}
+
+[list-[lower-alpha]]
+a. {4-5-2-a-p}
++
+[.samplebox]
+[cols="1,1"]
+|===
+| Cá bhfuil na fir *cháiliúla* agus na mná *dathúla*? | [TODO]
+| Léigh mé na dánta *suimiúla* inné. | [TODO]
+|===
+
+b. {4-5-2-b-p}
+
+'''
+
+== 4.6 {4-6-title}
+
+=== 4.6.1
+
+{4-6-1-p}
+
+=== 4.6.2
+
+{4-6-2-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| _{4-6-2-sample-row1}_ | Tine *bhreá the* a bhí ann.
+| _{4-6-2-sample-row2}_ | Dath na tine *breátha te*.
+| _{4-6-2-sample-row3}_ | Lasadh na tinte *breátha teo*.
+|===
+
+'''
+
+== 4.7 {4-7-title}
+
+

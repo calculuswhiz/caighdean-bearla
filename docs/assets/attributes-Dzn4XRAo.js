@@ -229,6 +229,9 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-5-1-a-p_ga: Ní théann aon infhilleadh ar aidiachtaí an díochlaonta seo.
 :4-5-1-a-p_en: [TODO] 
 
+:4-5-1-b-p_ga: Leathnaítear an consan deiridh agus cuirtear _-a_ leis.
+:4-5-1-b-p_en: [TODO] 
+
 :nopass-4-5-1-b-title_ga: {Feminine}
 :nopass-4-5-1-b-title_en: {Feminine}
 
@@ -260,7 +263,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-6-2-sample-row3_en: Nominative plural
 
 :4-7-title_ga: Achoimre ar Dhíochlaontaí na nAidiachtaí
-:4-7-title_en: [TODO] 
+:4-7-title_en: Summary of the Adjectives' Declensions
 
 :Table4D-title_ga: Ainmfhocal Firinscneach Uatha
 :Table4D-title_en: Masculine Singular Noun
