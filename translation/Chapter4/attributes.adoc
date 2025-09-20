@@ -269,7 +269,7 @@
 :Table4D-title_en: Masculine Singular Noun
 
 :Table4D-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Firinscneach Uatha
-:Table4D-caption_en: [TODO] 
+:Table4D-caption_en: Summary of the Adjectives' Declensions -- Masculine Singular
 
 :Table4D-col1_ga: Tuiseal
 :Table4D-col1_en: Case
@@ -289,8 +289,8 @@
 :Table4D-case2_ga: Gairmeach
 :Table4D-case2_en: Vocative
 
-:Table4D-case3_ga: Tabharthach*
-:Table4D-case3_en: Accusative*
+:Table4D-case3_ga: Tabharthach
+:Table4D-case3_en: Accusative
 
 :Table4D-case4_ga: Ginideach
 :Table4D-case4_en: Genitive
@@ -302,7 +302,7 @@
 :Table4E-title_en: Feminine Singular Noun
 
 :Table4E-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Baininscneach Uatha
-:Table4E-caption_en: [TODO] 
+:Table4E-caption_en: Summary of the Adjectives' Declensions -- Feminine Singular
 
 // 4E-G re-uses headers form other sources
 
@@ -310,13 +310,13 @@
 :Table4F-title_en: Masculine Plural Noun
 
 :Table4F-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Firinscneach Iolra
-:Table4F-caption_en: [TODO] 
+:Table4F-caption_en: Summary of the Adjectives' Declensions -- Masculine Plural
 
 :Table4G-title_ga: Ainmfhocal Baininscneach Iolra
 :Table4G-title_en: Feminine Plural Noun
 
 :Table4G-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Baininscneach Iolra
-:Table4G-caption_en: [TODO] 
+:Table4G-caption_en: Summary of the Adjectives' Declensions -- Feminine Plural
 
 :4-8-title_ga: Céimeanna Comparáide na hAidiachta
 :4-8-title_en: [TODO] 
@@ -330,8 +330,8 @@
 :4-8-2-p_ga: Tá foirmeacha neamhrialta ar roinnt aidiachtaí, e.g., _eag_, _lú_; _dócha_, _dóichí_; _fada_, _faide (sia)_; _fogas_, _foisce_; _furasta_, _fusa_; _gearr_, _giorra_; _iomaí_, _lia_; _maith_, _fearr_; _mór_, _mó_; _olc_, _measa_; _te_, _teo_.
 :4-8-2-p_en: [TODO] 
 
-:4-8-3-p_ga: Foirmeacha ar lorg _dá_ agus _a_
-:4-8-3-p_en: [TODO] 
+:4-8-3-title_ga: Foirmeacha ar lorg _dá_ agus _a_
+:4-8-3-title_en: [TODO] 
 
 :4-8-3-a-p_ga: I ndiaidh _dá_ agus _a_ , is cuma feidhm réamhthagrach nó feidhm iarthagrach a bheith acu, is gnách go n-úsáidtear foirm is ionann agus foirm na breischéime den aidiacht nó foirm a dhíorthaíonn ón mbreischéim nó ón mbunchéim agus a chríochnaíonn ar _cht_.
 :4-8-3-a-p_en: [TODO] 
