@@ -11,34 +11,34 @@
 :4-1-2-p_en: The adjective is not declined except when it is used as an attributive adjective.
 
 :4-1-3-p_ga: Braitheann foirm aidiachta cáilíochta ar inscne, tuiseal agus uimhir an ainmfhocail atá á cháiliú léi agus ar dhíochlaonadh na haidiachta féin. Féach Caibidil 9 le haghaidh rialacha maidir le haidiachtaí a úsáid le huimhreacha.
-:4-1-3-p_en: [TODO] Braitheann foirm aidiachta cáilíochta ar inscne, tuiseal agus uimhir an ainmfhocail atá á cháiliú léi agus ar dhíochlaonadh na haidiachta féin. Féach Caibidil 9 le haghaidh rialacha maidir le haidiachtaí a úsáid le huimhreacha.
+:4-1-3-p_en: The form of the attributive adjective depends on gender, case and number of the noun that it is qualifying and on the declension of the adjective itself. See Chapter 9 for rules on using adjectives with numbers.
 
 :4-2-title_ga: Inscne, Tuiseal agus Uimhir na hAidiachta Cáilíochta
 :4-2-title_en: Gender, Case and Number of the Attributive Adjective
 
 :4-2-1-p_ga: Réitíonn an aidiacht cháilíochta leis an ainmfhocal ó thaobh inscne, tuisil agus uimhreach. I gcás sraith ainmfhocal, réitíonn an aidiacht leis an ainmfhocal deiridh, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. I gcás sraith aidiachtaí i ndiaidh ainmfhocal amháin, réitíonn gach aidiacht leis an ainmfhocal, e.g., _ailt shuimiúla thábhachtacha fhada_.
-:4-2-1-p_en: [TODO] Réitíonn an aidiacht cháilíochta leis an ainmfhocal ó thaobh inscne, tuisil agus uimhreach. I gcás sraith ainmfhocal, réitíonn an aidiacht leis an ainmfhocal deiridh, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. I gcás sraith aidiachtaí i ndiaidh ainmfhocal amháin, réitíonn gach aidiacht leis an ainmfhocal, e.g., _ailt shuimiúla thábhachtacha fhada_.
+:4-2-1-p_en: The qualifying adjective agrees with the noun in gender, case and number. When there is a series of nouns, the adjective agrees with the final noun, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. When a series of adjectives follows a single noun, every adjectve agrees with the noun, e.g., _ailt shuimiúla thábhachtacha fhada_.
 
 :4-2-2-a-p_ga: San uimhir uatha --
 :4-2-2-a-p_en: In the singular number --
 
 :4-2-2-a-i-p_ga: i gcás ainmfhocal firinscneach, ní shéimhítear an aidiacht atá á cháiliú, e.g., _an fear beag_; _ag an bhfear beag_; ach amháin sa tuiseal gairmeach agus sa tuiseal ginideach e.g., _a fhir bhig_; _hata an fhir bhig_;
-:4-2-2-a-i-p_en: [TODO] i gcás ainmfhocal firinscneach, ní shéimhítear an aidiacht atá á cháiliú, e.g., _an fear beag_; _ag an bhfear beag_; ach amháin sa tuiseal gairmeach agus sa tuiseal ginideach e.g., _a fhir bhig_; _hata an fhir bhig_;
+:4-2-2-a-i-p_en: when there is a masculine noun, the adjective that qualifies it is not lenited, e.g., _an fear beag_; _ag an bhfear beag_; except in the vocative case and in the genitive case e.g., _a fhir bhig_; _hata an fhir bhig_;
 
 :4-2-2-a-ii-p_ga: má tá Córas an tSéimhithe (féach 1.7) in úsáid, séimhítear an aidiacht a cháilíonn ainmfhocal firinscneach sa tuiseal tabharthach má ghabhann an t-alt leis an ainmfhocal sin, e.g., _ag an fhear bheag_.
-:4-2-2-a-ii-p_en: [TODO] má tá Córas an tSéimhithe (féach 1.7) in úsáid, séimhítear an aidiacht a cháilíonn ainmfhocal firinscneach sa tuiseal tabharthach má ghabhann an t-alt leis an ainmfhocal sin, e.g., _ag an fhear bheag_.
+:4-2-2-a-ii-p_en: if the Lenition System (see 1.7) is in use, the adjective that qualifies the masculine noun is lenited in the dative case if the article goes with that noun, e.g., _ag an fhear bheag_.
 
 :4-2-2-b-p_ga: San uimhir uatha, i gcás ainmfhocal baininscneach, séimhítear an aidiacht atá á cháiliú sna tuisil go léir, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; ach amháin sa tuiseal ginideach, e.g., _hata na mná bige_.
-:4-2-2-b-p_en: [TODO] San uimhir uatha, i gcás ainmfhocal baininscneach, séimhítear an aidiacht atá á cháiliú sna tuisil go léir, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; ach amháin sa tuiseal ginideach, e.g., _hata na mná bige_.
+:4-2-2-b-p_en: In the singular number, when there is a feminine noun, the adjective that qualifies it is lenited in all the cases, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; except in the genitive case, e.g., _hata na mná bige_.
 
 :4-2-3-p_ga: Tugtar léiriú i gCaibidil 9 ar an aidiacht cháilíochta nuair atá uimhir roimh an ainmfhocal atá á cháiliú.
-:4-2-3-p_en: [TODO] Tugtar léiriú i gCaibidil 9 ar an aidiacht cháilíochta nuair atá uimhir roimh an ainmfhocal atá á cháiliú.
+:4-2-3-p_en: Chapter 9 provides an illustration of the attributive adjective when a number precedes the noun being qualified.
 
 :4-2-4-title_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
-:4-2-4-title_en: [TODO] Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
+:4-2-4-title_en: Lenition of an Attributive Adjective in the Singular Number
 
 :4-2-4-p_ga: Fágtar aidiacht lom nó cuirtear séimhiú uirthi bunaithe ar inscne agus tuiseal an ainmfhocail atá á cháiliú léi. Léirítear na cásanna sa tábla thíos. Féach an plé ar dhíochlaonadh na haidiachta (4.3) chun eolas a fháil ar athrú foirme (seachas séimhiú) ar an aidiacht féin.
-:4-2-4-p_en: [TODO] Fágtar aidiacht lom nó cuirtear séimhiú uirthi bunaithe ar inscne agus tuiseal an ainmfhocail atá á cháiliú léi. Léirítear na cásanna sa tábla thíos. Féach an plé ar dhíochlaonadh na haidiachta (4.3) chun eolas a fháil ar athrú foirme (seachas séimhiú) ar an aidiacht féin.
+:4-2-4-p_en: An adjective is either left bare or inflected based on the gender and case of the noun it is qualifying. The cases are shown in the table below. See the discussion of adjective declension (4.3) for information on form change (other than lenition) of the adjective itself.
 
 :lenition_ga: séimhiú
 :lenition_en: lenition

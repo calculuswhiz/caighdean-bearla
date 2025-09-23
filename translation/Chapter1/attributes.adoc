@@ -186,7 +186,7 @@
 (seachas _d_, _t_ nó _s_)
 
 :Table1A-fem-cons-case1-col1_en: lenitable consonants*, + \
-(except _d_, _t_ or _s_)
+(other than _d_, _t_ or _s_)
 
 :Table1A-fem-cons-case1-col3_ga: séimhiú
 :Table1A-fem-cons-case1-col3_en: lenition
@@ -201,7 +201,7 @@
 (seachas _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
 
 :Table1A-fem-cons-case3-col1_en: _s_ + \
-(except _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
+(other than _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
 
 
 :Table1A-fem-cons-case3-col3_ga: _t_ roimhe
@@ -238,22 +238,22 @@
 :nopass-1-4-title_en: The Dative Singular Case -- {CoreSystem}
 
 :1-4-1_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas _d_, _t_ agus _s_), cuirtear séimhiú orthu i ndiaidh _den_, _don_, _sa/san_ agus urú i ngach cás eile, mar a léirítear sa tábla thíos.
-:1-4-1_en: As for masculine and feminine nouns starting with a consonant (except _d_, _t_ and _s_), apply lenition to them following _den_, _don_, _sa/san_ and eclipsis in every other case, as shown in the below table.
+:1-4-1_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), apply lenition to them following _den_, _don_, _sa/san_ and eclipsis in every other case, as shown in the below table.
 
 :Table1B-caption_ga: Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
-:Table1B-caption_en: Nouns starting with a Consonant except _d_, _t_ and _s_
+:Table1B-caption_en: Nouns starting with a Consonant other than _d_, _t_ and _s_
 
 :Table1B-note_ga: _ACH i gcás_ f _roimh ghuta:_
 :Table1B-note_en: _BUT where_ f _precedes a vowel:_
 
 :1-4-2_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús _s_ sa tuiseal tabharthach. Cuirtear _t_ roimh _s_ ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús _sc-, sf-, sm-, sp-, st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-4-2_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (except in cases where the noun starts with _sc-, sf-, sm-, sp-, st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-4-2_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than cases in which the noun starts with _sc-, sf-, sm-, sp-, st-_ or _sv-_ which are left bare) as shown in the below table.
 
 :Table1C-caption_ga: Ainmfhocail dar tús _s_
 :Table1C-caption_en: Nouns Starting with _s_
 
 :Table1C-col2-subheader_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-, sf-, sm-, sp-, st-_ nó _sv-_
-:Table1C-col2-subheader_en: _t_ is put before the _s_, except in case of _sc-, sf-, sm-, sp-, st-_ or _sv-_
+:Table1C-col2-subheader_en: _t_ is put before the _s_, other than in case of _sc-, sf-, sm-, sp-, st-_ or _sv-_
 
 :1-4-3_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta.
 :1-4-3_en: No change is made to masculine nouns or feminine nouns starting with a vowel.
@@ -408,19 +408,19 @@ This will (mostly) just be some algebra here...
 :1-7-2-p_en: The rules regarding the dative plural case in the Core System and in the Lenition System are the same (See 1.6.2).
 
 :1-7-3-p_ga: I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas _d_, _t_ agus _s_) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.
-:1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (except _d_, _t_ and _s_) and on the adjectives attached to them. See the below table.
+:1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) and on the adjectives attached to them. See the below table.
 
 :Table1J-header_ga: Córas an tSéimhithe -- Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
-:Table1J-header_en: The Lenition System -- Nouns starting with a consonant except _d_, _t_, and _s_
+:Table1J-header_en: The Lenition System -- Nouns starting with a consonant other than _d_, _t_, and _s_
 
 :Table1J-caption-start_ga: An Tuiseal Tabharthach Uatha
 :Table1J-caption-start_en: The Dative Singular Case
 
 :1-7-4_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús _s_, cuirtear _t_ roimh an _s_ (seachas i gcás ainmfhocail dar tús _sc-, sf-, sm-, sp-, st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-7-4_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (except with nouns starting with _sc-, sf-, sm-, sp-, st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-7-4_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (other than with nouns starting with _sc-, sf-, sm-, sp-, st-_ or _sv-_ which are left bare) as shown in the below table.
 
 :Table1K-subheading_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-, sf-, sm-, sp-, st-_ nó _sv-_
-:Table1K-subheading_en: _t_ is put before the _s_, except in case of _sc-, sf-, sm-, sp-, st-_ or _sv-_
+:Table1K-subheading_en: _t_ is put before the _s_, other than in case of _sc-, sf-, sm-, sp-, st-_ or _sv-_
 
 :Table1K-header_ga: Córas an tSéimhithe -- Ainmfhocail dar tús _s_
 :Table1K-header_en: The Lenition System -- Nouns Starting with _s_

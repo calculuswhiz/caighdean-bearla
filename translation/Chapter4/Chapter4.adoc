@@ -23,10 +23,10 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Tháinig na mná agus na fir *ghnaíúla* isteach. | [TODO]
-| Tháinig na fir agus na mná *gnaíúla* isteach. | [TODO]
-| Bhí sciorta, cóta agus scaif *ghorm* uirthi. | [TODO]
-| Tá cait *mhóra fhiáine* i ngairdín na n-ainmhithe. | [TODO]
+| Tháinig na mná agus na fir *ghnaíúla* isteach. | The *lovely* women and men came in.
+| Tháinig na fir agus na mná *gnaíúla* isteach. | The *lovely* men and women came in.
+| Bhí sciorta, cóta agus scaif *ghorm* uirthi. | She had a *blue* skirt, coat and scarf on.
+| Tá cait *mhóra fhiáine* i ngairdín na n-ainmhithe. | There are *big, wild* cats in the zoo.
 |===
 
 === 4.2.2

@@ -274,7 +274,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :Table2E-row4-cell1_en: Masculine and Feminine
 
 :Table2E-row4-cell2_ga: Críochnaíonn ar ghuta nó ar _-ín_ (seachas _muinín_ agus _muirín_ (sa bhrí _clann_) atá sa dara díochlaonadh), e.g., _acra, cailín, oibrí, trá_. Ní athraíonn sa ghinideach.
-:Table2E-row4-cell2_en: Ends with a vowel or with _-ín_ (except _muinín_ and _muirín_ (meaning _clann_) which are in the second declension), e.g. _acra, cailín, oibrí, trá_. Does not change the genitive.
+:Table2E-row4-cell2_en: Ends with a vowel or with _-ín_ (other than _muinín_ and _muirín_ (meaning _clann_) which are in the second declension), e.g. _acra, cailín, oibrí, trá_. Does not change the genitive.
 
 :Table2E-row4-cell3_ga: Críochnaíonn ar _-(a)í, -(e)anna, -(i)te, -(i)the, -nna, -nna_ agus is ionann an fhoirm sna tuisil go léir, e.g., _acraí, cailíní, oibrithe, tránna_.
 :Table2E-row4-cell3_en: Ends with _-(a)í, -(e)anna, -(i)te, -(i)the, -nna, -nna_ and the form is completely the same as in the plural, e.g., _acraí, cailíní, oibrithe, tránna_.
@@ -319,7 +319,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-2-2-c_en: _mac_ is changed to _mic_ in the genitive singular and in the genitive plural.
 
 :2-2-2-d_ga: Sa ghinideach uatha, athraítear _-ea-_ go _-i-_, e.g., _breac, bric; cuireadh, cuiridh; leiceann, leicinn;_ seachas i gcás ainmfhocail aonsiollacha áirithe, e.g., _each, eich_.
-:2-2-2-d_en: In the genitive singular, _-ea-_ is changed to _-i-_, e.g., _breac, bric; cuireadh, cuiridh; leiceann, leicinn;_ except with certain monosyllabic nouns, e.g., _each, eich_.
+:2-2-2-d_en: In the genitive singular, _-ea-_ is changed to _-i-_, e.g., _breac, bric; cuireadh, cuiridh; leiceann, leicinn;_ other than with certain monosyllabic nouns, e.g., _each, eich_.
 
 :2-2-3-title_ga: An Gairmeach Uatha
 :2-2-3-title_en: The Vocative Singular
@@ -370,7 +370,7 @@ Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominati
 :2-3-1-title_en: The Singular
 
 :2-3-1-p_ga: Críochnaíonn ainmfhocail an díochlaonta seo ar chonsan, leathan nó caol, san ainmneach uatha. Is baininscneach dóibh uile seachas _im_ agus _sliabh_.
-:2-3-1-p_en: Nouns in this declension end with a consonant, broad or slender, in the nominative singular. They are all feminine except _im_ and _sliabh_.
+:2-3-1-p_en: Nouns in this declension end with a consonant, broad or slender, in the nominative singular. They are all feminine other than _im_ and _sliabh_.
 
 :2-3-2-title_ga: An Ginideach Uatha
 :2-3-2-title_en: The Genitive Singular
@@ -436,7 +436,7 @@ Polysyllabic nouns ending in a slender consonant in the nominative singular.
 Ainmfhocail aonsiollacha, agus ainmfhocail ilsiollacha a chríochnaíonn ar chonsan caol san ainmneach uatha (seachas _iníon_ a chríochnaíonn ar chonsan leathan).
 
 :Table2H-rh4_en: *Nouns ending in _-(e)acha_ in the plural* + \
-Monosyllabic nouns, and polysyllabic nouns ending in a slender consonant in the nominative singular (except _iníon_ which ends on a broad consonant).
+Monosyllabic nouns, and polysyllabic nouns ending in a slender consonant in the nominative singular (other than _iníon_ which ends on a broad consonant).
 
 :Table2H-rh5_ga: *Ainmfhocail a chríochnaíonn ar _-ta_ san iolra* + \
 Roinnt ainmfhocail aonsiollacha a chríochnaíonn ar _-l_ nó _-n_ leathan san ainmneach uatha.
@@ -481,7 +481,7 @@ The occasional noun ending in a slender _-l_ or _-n_ in the nominative singular.
 :2-4-1-title_en: The Singular
 
 :2-4-1-a_ga: Is leis an díochlaonadh seo a bhaineann ainmfhocail ilsiollacha a chríochnaíonn ar _-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir_ (seachas i gcás ainmneacha tíortha atá sa Dara Díochlaonadh, e.g., _an Ailgéir, an Bhrasaíl, an Iodáil_).
-:2-4-1-a_en: This declension has the polysyllabic nouns ending in _-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir_ (except country names that are in the second declension, e.g., _an Ailgéir, an Bhrasaíl, an Iodáil_).
+:2-4-1-a_en: This declension has the polysyllabic nouns ending in _-áil, -aíl, -cht, -éir, -eoir, -irt, -óir, -úil, -úint, -úir_ (other than country names that are in the second declension, e.g., _an Ailgéir, an Bhrasaíl, an Iodáil_).
 
 :2-4-1-b_ga: Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan, leathan nó caol, san ainmneach uatha. I gcás na n-ainmfhocal sin, críochnaíonn an ginideach uatha ar _-a_ agus leathnaítear an consan deiridh más gá, e.g., _buachaill, buachalla; gleann, gleanna_ (féach 2.1.5).
 :2-4-1-b_en: This declension also has some nouns ending in a consonant, borad or slender, in the nominative singular. For these nouns, the genitive singular ends with _-a_ and the final consonant is broadened if necessary, e.g., _buachaill, buachalla; gleann, gleanna_ (see 2.1.5).
@@ -520,13 +520,13 @@ The occasional noun ending in a slender _-l_ or _-n_ in the nominative singular.
 Ainmfhocail ilsiollacha (firinscneach seachas corrcheann, e.g., _altóir, seanmóir_) a chríochnaíonn ar _-éir, -eoir, -óir, -úir_, agus ainmfhocail ilsiollacha (baininscneach seachas corrcheann, e.g., _bunreacht, comhlacht, complacht, gnólacht_) a chríochnaíonn ar _-cht, -irt, -úint_ san ainmneach uatha.
 
 :Table2J-rh1_en: *Nouns ending in _-(a)í_ in the plural* + \
-Polysyllabic nouns (masculine except for a few, e.g., _altóir, seanmóir_) ending in _-éir, -eoir, -óir, -úir_, and polysyllabic nouns (feminine except for a few, e.g., _bunreacht, comhlacht, complacht, gnólacht_) ending in _-cht, -irt, -úint_ in the nominative singular.
+Polysyllabic nouns (masculine other than a few, e.g., _altóir, seanmóir_) ending in _-éir, -eoir, -óir, -úir_, and polysyllabic nouns (feminine other than few, e.g., _bunreacht, comhlacht, complacht, gnólacht_) ending in _-cht, -irt, -úint_ in the nominative singular.
 
 :Table2J-rh2_ga: *Ainmfhocail a chríochnaíonn ar _-(e)anna_ san iolra* + \
 Ainmfhocail fhirinscneacha ilsiollacha (seachas roinnt ainmfhocal atá baininscneach, e.g., _cuid, dleacht, troid, uaim_).
 
 :Table2J-rh2_en: *Nouns ending in _-(e)anna_ in the plural* + \
-Polysyllabic masculine nouns (except for some that are feminine, e.g., _cuid, dleacht, troid, uaim_).
+Polysyllabic masculine nouns (other than some that are feminine, e.g., _cuid, dleacht, troid, uaim_).
 
 :Table2J-rh3_ga: *Ainmfhocail a chríochnaíonn ar _-a_ san iolra agus a ndéantar coimriú, leathnú nó malartú ar a ngutaí*
 :Table2J-rh3_en: *Nouns ending in _-a_ in the plural and syncopated, broadened or exchanged vowels*
@@ -624,7 +624,7 @@ Occasional nouns ending in _-le_, _-ne_ in the singular.
 Ainmfhocail a chríochnaíonn ar _-(a)í_, _-aoi_, _-é_ san uatha (ní ghiorraítear _-í-_ sna hainmfhocail aonsiollacha, seachas _ní_, _nithe_).
 
 :Table2L-rh3_en: *Nouns ending in _-(i)the_ in the plural* + \
-Nouns ending in _-(a)í_, _-aoi_, _-é_ in the singular (_-í-_ is not shortened in the monosyllabic nouns, except _ní_, _nithe_).
+Nouns ending in _-(a)í_, _-aoi_, _-é_ in the singular (_-í-_ is not shortened in the monosyllabic nouns, other than _ní_, _nithe_).
 
 :Table2L-rh4_ga: *Ainmfhocail a gcuirtear _-nna_ leo san iolra gan aon athrú eile* + \
 Ainmfhocail a chríochnaíonn ar _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ san uatha.
@@ -663,7 +663,7 @@ Nouns ending in _-á, -ao, -eá, -eo, -ia, -ó, -ogha, -ú, -ua_ in the singular
 :2-6-2-p1_en: The vast majority of nouns in this declension have strong plurals.
 
 :2-6-2-p2_ga: Tabhair faoi deara go bhfuil patrún an Chúigiú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sa tábla ina dhiaidh seo, is é sin, críochnaíonn an ginideach uatha ar na consain leathana _-ch, -d, -(n)n, -r_ (seachas correisceacht, e.g., _Nollaig, Nollag_).
-:2-6-2-p2_en: Note that the pattern of the Fifth Declension is shown in the column of the genitive singular in the following table, that is, the genitive singular ends with broad consonants _-ch, -d, -(n)n, -r_ (except for rare exceptions, e.g., _Nollaig, Nollag_).
+:2-6-2-p2_en: Note that the pattern of the Fifth Declension is shown in the column of the genitive singular in the following table, that is, the genitive singular ends with broad consonants _-ch, -d, -(n)n, -r_ (other than rare exceptions, e.g., _Nollaig, Nollag_).
 
 :2-6-2-a-title_ga: Tréaniolraí
 :2-6-2-a-title_en: Strong Plurals
