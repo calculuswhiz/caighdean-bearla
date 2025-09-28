@@ -47,7 +47,7 @@
 :no-lenition_en: no lenition
 
 :Table4A-caption_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
-:Table4A-caption_en: [TODO] Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
+:Table4A-caption_en: Lenition of an Attributive Adjective in the Singular Number
 
 :Table4A-col1_ga: An Tuiseal
 :Table4A-col1_en: The Case
@@ -77,7 +77,7 @@
 :4-2-5-title_en: Lenition of Attributive Adjective in the Singular Number
 
 :4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin 10.3.1).
-:4-2-5-p_en: [TODO] San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin 10.3.1).
+:4-2-5-p_en: In the plural number, the initial consonant of the adjective is lenited if the plural noun starts with a narrow consonant, as in the below table (see also 10.3.1).
 
 :nopass-Table4B-caption_ga: {4-2-5-title}
 :nopass-Table4B-caption_en: {4-2-5-title}
@@ -89,22 +89,22 @@
 :Table4B-col2-main_en: Without Lenition
 
 :Table4B-col1-sub_ga: Ainmfhocal dar críoch consan caol san iolra
-:Table4B-col1-sub_en: [TODO] Ainmfhocal dar críoch consan caol san iolra
+:Table4B-col1-sub_en: Noun that starts with a narrow consononant in the plural
 
 :Table4B-col2-sub_ga: Ainmfhocal dar críoch consan leathan nó guta san iolra
-:Table4B-col2-sub_en: [TODO] Ainmfhocal dar críoch consan leathan nó guta san iolra
+:Table4B-col2-sub_en: Noun that starts with a broad consonant or vowel in the plural
 
 :4-3-title_ga: Díochlaonadh na hAidiachta
 :4-3-title_en: Declensions of the Adjectives
 
 :4-3-1-p_ga: Is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach uatha, agus is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach iolra.
-:4-3-1-p_en: [TODO] Is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach uatha, agus is ionann foirm don aidiacht sa tuiseal ainmneach, sa tuiseal cuspóireach agus sa tuiseal tabharthach iolra.
+:4-3-1-p_en: The form of the adjective is the same in the nominative, accusative and dative singular cases, and the form of the adjective is the same in the nominative, accusative and dative plural cases.
 
 :4-3-2-p_ga: Sa tuiseal ginideach iolra --
 :4-3-2-p_en: In the genitive plural case --
 
 :4-3-2-a-p_ga: más tréaniolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach iolra:
-:4-3-2-a-p_en: [TODO] más tréaniolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach iolra:
+:4-3-2-a-p_en: if the noun is a strong plural, the same form of the adjective is used as is used in the nominative plural case:
 
 :4-3-2-a-sample-row1_ga: Ainmneach iolra
 :4-3-2-a-sample-row1_en: Nominative plural
@@ -113,7 +113,7 @@
 :4-3-2-a-sample-row2_en: Genitive plural
 
 :4-3-2-b-p_ga: más lagiolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach uatha:
-:4-3-2-b-p_en: [TODO] más lagiolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach uatha:
+:4-3-2-b-p_en: if the noun is a weak plural, the same form of adjective is used as is used in the nominative singular case:
 
 :4-3-2-b-sample-row1_ga: Ainmneach uatha
 :4-3-2-b-sample-row1_en: Nominative singular
@@ -122,31 +122,31 @@
 :4-3-2-b-sample-row2_en: Genitive plural
 
 :4-3-3-a-p_ga: Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
-:4-3-3-a-p_en: [TODO] Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
+:4-3-3-a-p_en: An adjective in the masculine vocative is not lenited or inflected if it is a nickname or metaphorical in meaning.
 
 :4-3-3-b-p_ga: Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
-:4-3-3-b-p_en: [TODO] Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
+:4-3-3-b-p_en: The initial letter of an adjective is lenited, however, if a feminine noun precededs it.
 
 :4-3-4-p_ga: Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
-:4-3-4-p_en: [TODO] Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
+:4-3-4-p_en: The adjective following a female baptismal name is not inflected, e.g., _Máire Mhór_, _teach Mháire Mhór_.
 
 :4-3-5-p_ga: Ní infhilltear an aidiacht ná ní dhéantar athrú tosaigh uirthi ar lorg dobhriathra nó aidiachtaí a úsáidtear mar dhobhriathra amhail _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
-:4-3-5-p_en: [TODO] Ní infhilltear an aidiacht ná ní dhéantar athrú tosaigh uirthi ar lorg dobhriathra nó aidiachtaí a úsáidtear mar dhobhriathra amhail _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
+:4-3-5-p_en: The adjective is neither inflected nor does it undergo an initial change after adverbs or adjectives used as adjectives _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
 
 :4-3-6-p_ga: Ní infhilltear an aidiacht ar lorg na míre treise _an-_.
-:4-3-6-p_en: [TODO] Ní infhilltear an aidiacht ar lorg na míre treise _an-_.
+:4-3-6-p_en: The adjective is not inflected after the emphatic particle _an-_.
 
 :4-3-7-p_ga: Ní infhilltear an aidiacht ná ní chuirtear séimhiú uirthi más cuid de fhrása aidiachtach ilfhoclach í, e.g., _athnuachan saor in aisce_; _tuarascáil cothrom le dáta_.
-:4-3-7-p_en: [TODO] Ní infhilltear an aidiacht ná ní chuirtear séimhiú uirthi más cuid de fhrása aidiachtach ilfhoclach í, e.g., _athnuachan saor in aisce_; _tuarascáil cothrom le dáta_.
+:4-3-7-p_en: The adjective is neither inflected nor lenited if it is part of a multi-word adjectival phrase, e.g., _athnuachan saor in aisce_; _tuarascáil cothrom le dáta_.
 
 :4-3-8-p_ga: Is faoi gach díochlaonadh ar leithligh a thugtar cur síos ar fhoirm an ghinidigh uatha.
-:4-3-8-p_en: [TODO] Is faoi gach díochlaonadh ar leithligh a thugtar cur síos ar fhoirm an ghinidigh uatha.
+:4-3-8-p_en: The form of the singular genitive is described under each separate declension.
 
 :4-4-title_ga: An Chéad Díochlaonadh
 :4-4-title_en: The First Declension
 
 :4-4-p_ga: Cuimsítear sa díochlaonadh seo aidiachtaí a chríochnaíonn ar chonsan, leathan nó caol, seachas aidiachtaí a chríochnaíonn ar _-úil_ agus roinnt aidiachtaí a chríochnaíonn ar _-ir_ (féach 4.5).
-:4-4-p_en: [TODO] Cuimsítear sa díochlaonadh seo aidiachtaí a chríochnaíonn ar chonsan, leathan nó caol, seachas aidiachtaí a chríochnaíonn ar _-úil_ agus roinnt aidiachtaí a chríochnaíonn ar _-ir_ (féach 4.5).
+:4-4-p_en: Included in this declension are adjectives ending with a consonant, brod or narrow, aside from adjectives ending with _-úil_ and certain adjectives ending with _-ir_ (see 4.5).
 
 :4-4-1-title_ga: Foirm an Ghinidigh Uatha
 :4-4-1-title_en: Form of the Genitive Singular
@@ -155,25 +155,25 @@
 :4-4-1-a-title_en: Masculine
 
 :4-4-1-a-i-p_ga: Más consan leathan is críoch don aidiacht, caolaítear an consan mar a dhéantar le hainmfhocail sa Chéad Díochlaonadh (féach 2.2.2).
-:4-4-1-a-i-p_en: [TODO] Más consan leathan is críoch don aidiacht, caolaítear an consan mar a dhéantar le hainmfhocail sa Chéad Díochlaonadh (féach 2.2.2).
+:4-4-1-a-i-p_en: If the adjective ends with a broad consonant, the consonant is narrowed as it would be done with a noun in the First Declension (see 2.2.2).
 
 :4-4-1-a-ii-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
-:4-4-1-a-ii-p_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
+:4-4-1-a-ii-p_en: Inflection is not done in the genitive singular masculine on monosyllabic adjectives ending in _-ch(t)_ (except _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
 
 :4-4-1-a-iii-p_ga: Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
-:4-4-1-a-iii-p_en: [TODO] Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
+:4-4-1-a-iii-p_en: If a narrow consonant or _-íoch_ is the ending of the adjective, it is not inflected.
 
 :4-4-1-a-iv-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
-:4-4-1-a-iv-p_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
+:4-4-1-a-iv-p_en: Inflection is not done in the genitive singular masculine on monosyllabic adjectives ending in double consonants (except _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
 
 :4-4-1-a-v-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
-:4-4-1-a-v-p_en: [TODO] Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
+:4-4-1-a-v-p_en: Inflection is not done in the genitive singular masculine in these following monosyllabic adjectives: _amh_, _cúng_, _deas_ (meaning _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
 
 :4-4-1-b-title_ga: Baininscneach
 :4-4-1-b-title_en: Feminine
 
 :4-4-1-b-i-p_ga: Cuirtear _-e_ leis an gconsan deiridh, agus caolaítear é más leathan dó, e.g., _gorm_, _goirme_; _maith_, _maithe_ mar a dhéantar le hainmfhocail sa Dara Díochlaonadh (féach 2.3.2).
-:4-4-1-b-i-p_en: [TODO] Cuirtear _-e_ leis an gconsan deiridh, agus caolaítear é más leathan dó, e.g., _gorm_, _goirme_; _maith_, _maithe_ mar a dhéantar le hainmfhocail sa Dara Díochlaonadh (féach 2.3.2).
+:4-4-1-b-i-p_en: _-e_ is put with the final consonant, and it is narrowed if broad, e.g., _gorm_, _goirme_; _maith_, _maithe_ as would be done with nouns in the Second Declension (see 2.3.2).
 
 :4-4-1-b-ii-p_ga: I gcás aidiachtaí a chríochnaíonn ar _-(e)ach_, cuirtear _-(a)í_ in ionad _-(e)ach_, e.g., _isteach_, _aistí_; _iontach_, _iontaí_; ; mar a dhéantar le hainmfhocail sa Dara Díochlaonadh (féach 2.3.2).
 :4-4-1-b-ii-p_en: [TODO] 
