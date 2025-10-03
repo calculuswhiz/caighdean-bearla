@@ -322,10 +322,10 @@
 :4-8-title_en: Degrees of Comparison of the Adjective
 
 :4-8-1-a-p_ga: Is gnách gurb ionann foirm do bhreischéim agus do shárchéim aidiachta agus don ghinideach uatha baininscneach, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _deacair_, _deacra_; _díreach_, _dírí_.
-:4-8-1-a-p_en: The form of the comparative degrees and superlative forms of adjectives is usually the same as the feminine genitive singular, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _diacair_, _diacra_; _diríct_, _diríct_.
+:4-8-1-a-p_en: The form of the comparative degree and superlative forms of adjectives is usually the same as the feminine genitive singular, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _diacair_, _diacra_; _diríct_, _diríct_.
 
 :4-8-1-b-p_ga: Is ionann freisin foirm do bhreischéim agus do shárchéim aidiachta agus don ghinideach uatha baininscneach i gcás aidiachtaí a chríochnaíonn ar _-íoch_, e.g., _buíoch_, _buíche_; _débhríoch_, _débhríche_; _imníoch_, _imníche_; _impíoch_, _impíche_; _taithíoch_, _taithíche_; _uathoibríoch_, _uathoibríche_.
-:4-8-1-b-p_en: The form for the comparative degrees and superlative forms of adjectives is also the same as for the feminine genitive singular for adjectives ending in _-íoch_, e.g., _buíoch_, _buíche_; _débhríoch_, _débhríche_; _imníoch_, _imníche_; _impíoch_, _impíche_; _taithíoch_, _taithíche_; _uathoibríoch_, _uathoibríche_.
+:4-8-1-b-p_en: The form for the comparative degree and superlative forms of adjectives is also the same as for the feminine genitive singular for adjectives ending in _-íoch_, e.g., _buíoch_, _buíche_; _débhríoch_, _débhríche_; _imníoch_, _imníche_; _impíoch_, _impíche_; _taithíoch_, _taithíche_; _uathoibríoch_, _uathoibríche_.
 
 :4-8-2-p_ga: Tá foirmeacha neamhrialta ar roinnt aidiachtaí, e.g., _eag_, _lú_; _dócha_, _dóichí_; _fada_, _faide (sia)_; _fogas_, _foisce_; _furasta_, _fusa_; _gearr_, _giorra_; _iomaí_, _lia_; _maith_, _fearr_; _mór_, _mó_; _olc_, _measa_; _te_, _teo_.
 :4-8-2-p_en: Some adjectives have irregular forms, e.g., _eag_, _lú_; _dócha_, _dóichí_; _fada_, _faide (sia)_; _fogas_, _foisce_; _furasta_, _fusa_; _gearr_, _giorra_; _iomaí_, _lia_; _maith_, _fearr_; _mór_, _mó_; _olc_, _measa_; _te_, _teo_.

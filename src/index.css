@@ -46,7 +46,7 @@
   }
 
   .samplebox td {
-    @apply bg-gray-100;
+    @apply bg-gray-100 p-1;
   }
 
   .table-stack table {

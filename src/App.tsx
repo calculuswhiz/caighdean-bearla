@@ -8,7 +8,7 @@ const availableChapters = [
   { label: "Chapter 1 - The Article", id: "1", done: true },
   { label: "Chapter 2 - The Noun", id: "2", done: true },
   { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", done: true },
-  { label: "Chapter 4 - The Adjective", id: "4" },
+  { label: "Chapter 4 - The Adjective", id: "4", done: true },
   { label: "Chapter 5 - The Verb", id: "5" },
   { label: "Chapter 6 - The Adverb", id: "6" },
   { label: "Chapter 7 - The Copula", id: "7" },

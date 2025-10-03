@@ -160,10 +160,10 @@ a. {4-3-3-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Cén chaoi a bhfuil tú, *a athair beag*? | [TODO]
-| *A dheartháir dílis*, bhí a fhios agam go maith gur tú a bhí ann. | [TODO]
-| *A bhéal cumhra*, nach muid a bheidh sásta le chéile. | [TODO]
-| Conas atá tú, *a mhac bán*? | [TODO]
+| Cén chaoi a bhfuil tú, *a athair beag*? | How are you, *little father*?
+| *A dheartháir dílis*, bhí a fhios agam go maith gur tú a bhí ann. | *Faithful brother*, I knew very well it was you.
+| *A bhéal cumhra*, nach muid a bheidh sásta le chéile. | *Fragrant mouth*, we won't be happy together.
+| Conas atá tú, *a mhac bán*? | How are you, *white son*?
 |===
 
 b. {4-3-3-b-p}
@@ -171,8 +171,8 @@ b. {4-3-3-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Cad é mar atá tú inniu, a thaisce *mhilis*? | [TODO]
-| A mháthair *bheag*, ní bheidh deireadh go deo le do chuid oibre | [TODO]
+| Cad é mar atá tú inniu, a thaisce *mhilis*? | How are you today, my *sweet* treasure?
+| A mháthair *bheag*, ní bheidh deireadh go deo le do chuid oibre. | *Little* mother, your work will never end.
 |===
 
 === 4.3.4
@@ -185,12 +185,12 @@ b. {4-3-3-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is bean *measartha saibhir* í. | [TODO]
-| Mná *measartha saibhir* is ea iad. | [TODO]
-| Fir *sách ard* is ea iad. | [TODO]
-| Páistí *réasúnta ciúin* is ea iad. | [TODO]
-| Maidin *sách fuar* a bhí ann. | [TODO]
-| Bliain *cuibheasach tirim* atá uainn. | [TODO]
+| Is bean *measartha saibhir* í. | She is a *moderately wealthy* woman.
+| Mná *measartha saibhir* is ea iad. | They are *moderately wealthy* women.
+| Fir *sách ard* is ea iad. | They are *quite tall* men.
+| Páistí *réasúnta ciúin* is ea iad. | They are *relatively quiet* children.
+| Maidin *sách fuar* a bhí ann. | It was a *rather cold* morning.
+| Bliain *cuibheasach tirim* atá uainn. | We want a *fairly dry* year.
 |===
 
 === 4.3.6
@@ -200,9 +200,9 @@ b. {4-3-3-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is daoine *an-bhreá* iad. | [TODO]
-| Déanfar na gnéithe *an-tábhachtach* sin a mheas. | [TODO]
-| Ní páistí *an-chiúin* iad. | [TODO]
+| Is daoine *an-bhreá* iad. | They are *very nice* people.
+| Déanfar na gnéithe *an-tábhachtach* sin a mheas. | Those *very important* aspects will be considered.
+| Ní páistí *an-chiúin* iad. | They are not *very quiet* children.
 |===
 
 === 4.3.7
@@ -212,8 +212,8 @@ b. {4-3-3-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is bean *mór le rá* í i réimse na heolaíochta. | [TODO]
-| Ba é údar na tuarascála *cothrom le dáta* a thug an cur i láthair. | [TODO]
+| Is bean *mór le rá* í i réimse na heolaíochta. | She is a *prominent* woman in the field of science.
+| Ba é údar na tuarascála *cothrom le dáta* a thug an cur i láthair. | The author of the *up-to-date* report gave the presentation.
 |===
 
 === 4.3.8
@@ -236,43 +236,43 @@ a. *{4-4-1-a-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Cár fhág sé hata an fhir *mhóir*? | [TODO]
-| Caithfear coinníollacha an chonartha *bhuain* a léamh go cúramach. | [TODO]
-| Léigh sé leabhar an imreora *chlúitigh* nuair a foilsíodh é | [TODO]
+| Cár fhág sé hata an fhir *mhóir*? | Where did he leave the *big* man's hat?
+| Caithfear coinníollacha an chonartha *bhuain* a léamh go cúramach. | The terms of the *permanent* contract must be read carefully.
+| Léigh sé leabhar an imreora *chlúitigh* nuair a foilsíodh é. | He read the *renowned* player's book when it was published.
 |===
   .. {4-4-1-a-ii-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí orthu an fhéile a chur ar siúl ag deireadh an tsamhraidh *fhliuch*. | [TODO]
-| Tá na páistí i rang an mhúinteora *bheacht* i mbliana. | [TODO]
-| Goideadh ba an fheirmeora *bhoicht*. | [TODO]
+| Bhí orthu an fhéile a chur ar siúl ag deireadh an tsamhraidh *fhliuch*. | They had to hold the festival at the end of the *wet* summer.
+| Tá na páistí i rang an mhúinteora *bheacht* i mbliana. | The children are in the teacher's class *exactly* this year.
+| Goideadh ba an fheirmeora *bhoicht*. | The *poor* farmer's cows were stolen.
 |===
   .. {4-4-1-a-iii-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Ba mhaith liom labhairt le tuismitheoirí an bhuachalla *chiúin*. | [TODO]
-| Bhí gach duine i bhfabhar an fheachtais *thionsclaíoch*. | [TODO]
+| Ba mhaith liom labhairt le tuismitheoirí an bhuachalla *chiúin*. | I would like to speak to the parents of the *quiet* boy.
+| Bhí gach duine i bhfabhar an fheachtais *thionsclaíoch*. | Everyone was in favor of the *industrial* campaign.
 |===
   .. {4-4-1-a-iv-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá praghas an bhia *ghann* ag ardú gach lá. | [TODO]
-| Chuir costas an turais *ghearr* iontas orthu. | [TODO]
-| Bhí boladh an aráin *dhoinn* ar fud an tí. | [TODO]
+| Tá praghas an bhia *ghann* ag ardú gach lá. | The price of *scarce* food is rising every day.
+| Chuir costas an turais *ghearr* iontas orthu. | The cost of the *short* trip surprised them.
+| Bhí boladh an aráin *dhoinn* ar fud an tí. | The smell of *brown* bread was all over the house.
 |===
   .. {4-4-1-a-v-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Chuir sí ola ar dhoras an bhealaigh *chúng*. | [TODO]
-| Labhair mé le húinéir an chapaill *mhear*. | [TODO]
+| Chuir sí ola ar dhoras an bhealaigh *chúng*. | She put oil on the door of the *narrow* way.
+| Labhair mé le húinéir an chapaill *mhear*. | I spoke to the owner of the *fast* horse.
 |===
 
 b. *{4-4-1-b-title}*
@@ -282,24 +282,24 @@ b. *{4-4-1-b-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Féach ar áilleacht na spéire *goirme*. | [TODO]
-| Cé hé údar na tuarascála *maithe*? | [TODO]
+| Féach ar áilleacht na spéire *goirme*. | Look at the beauty of the *blue* sky.
+| Cé hé údar na tuarascála *maithe*? | Who is the author of the *good* report?
 |===
   .. {4-4-1-b-ii-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá guth na caillí *aistí* le cloisteáil ar an taifead. | [TODO]
-| Thaitin téama na haiste *iontaí* liom. | [TODO]
+| Tá guth na caillí *aistí* le cloisteáil ar an taifead. | The voice of the *peculiar* old woman can be heard on the record.
+| Thaitin téama na haiste *iontaí* liom. | I liked the theme of the *wonderful* composition.
 |===
   .. {4-4-1-b-iii-p}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Cathain a bhraithfimid deireadh na géarchéime *eacnamaíche*? | [TODO]
-| Is maith an rud é fás na hearnála *tionsclaíche*. | [TODO]
+| Cathain a bhraithfimid deireadh na géarchéime *eacnamaíche*? | When will we feel the end of the *economic* crisis?
+| Is maith an rud é fás na hearnála *tionsclaíche*. | The growth of the *industrial* sector is a good thing.
 |===
   .. {4-4-1-b-iv-p}
 
@@ -310,9 +310,9 @@ b. *{4-4-1-b-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Cá bhfuil na peileadóirí *clúiteacha*? | [TODO]
-| Foilseofar na haistí *maithe* san iris bhliantúil. | [TODO]
-| Bhí na daoine *uaisle* i láthair inné. | [TODO]
+| Cá bhfuil na peileadóirí *clúiteacha*? | Where are the *famous* footballers?
+| Foilseofar na haistí *maithe* san iris bhliantúil. | The *good* essays will be published in the annual magazine.
+| Bhí na daoine *uaisle* i láthair inné. | The *noble* persons were present yesterday.
 |===
 
 === 4.4.4 {4-4-4-title}
@@ -369,8 +369,8 @@ a. *{4-5-1-a-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Cá bhfuil athair an fhir *chóir*? | [TODO]
-| Léigh mé tús an leabhair *shuimiúil*. | [TODO]
+| Cá bhfuil athair an fhir *chóir*? | Where is the father of the *just* man?
+| Léigh mé tús an leabhair *shuimiúil*. | I read the start of the *interesting* book.
 |===
 b. *{4-5-1-b-title}*
 +
@@ -379,8 +379,8 @@ b. *{4-5-1-b-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Cá bhfuil athair na mná *cáiliúla*? | [TODO]
-| Léigh mé tús na haiste *deacra*. | [TODO]
+| Cá bhfuil athair na mná *cáiliúla*? | Where is the father of the *famous* woman?
+| Léigh mé tús na haiste *deacra*. | I read the start of the *difficult* essay.
 |===
 
 === 4.5.2 {4-5-2-title}
@@ -391,8 +391,8 @@ a. {4-5-2-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Cá bhfuil na fir *cháiliúla* agus na mná *dathúla*? | [TODO]
-| Léigh mé na dánta *suimiúla* inné. | [TODO]
+| Cá bhfuil na fir *cháiliúla* agus na mná *dathúla*? | Where are the *famous* men and the *beautiful* women?
+| Léigh mé na dánta *suimiúla* inné. | I read the *interesting* poems yesterday.
 |===
 
 b. {4-5-2-b-p}
@@ -412,9 +412,9 @@ b. {4-5-2-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| _{4-6-2-sample-row1}_ | Tine *bhreá the* a bhí ann.
-| _{4-6-2-sample-row2}_ | Dath na tine *breátha te*.
-| _{4-6-2-sample-row3}_ | Lasadh na tinte *breátha teo*.
+| _{4-6-2-sample-row1}_ | Tine *bhreá the* a bhí ann. | It was a *lovely, hot* fire.
+| _{4-6-2-sample-row2}_ | Dath na tine *breátha te*. | The color of the *lovely, hot* fire.
+| _{4-6-2-sample-row3}_ | Lasadh na tinte *breátha teo*. | The *lovely, hot* fires were lit.
 |===
 
 '''
@@ -741,9 +741,9 @@ a. {4-8-1-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Faigh an luach is *airde* air. | [TODO]
-| Is í Ciara an cailín is *dathúla* sa rang. | [TODO]
-| An rud is *deacra* faoin bhfilíocht, a léamh mar is cóir. | [TODO]
+| Faigh an luach is *airde* air. | Get the **high**est value on it.
+| Is í Ciara an cailín is *dathúla* sa rang. | Ciara is the most *beautiful* girl in the class.
+| An rud is *deacra* faoin bhfilíocht, a léamh mar is cóir. | The **hard**est thing about poetry is reading it properly.
 |===
 
 b. {4-8-1-b-p}
@@ -751,9 +751,9 @@ b. {4-8-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is iadsan na daoine is *imníche* sa tír. | [TODO]
-| Is eisean is *taithíche* ar an obair seo. | [TODO]
-| Cuirfear an córas is *uathoibríche* i bhfeidhm. | [TODO]
+| Is iadsan na daoine is *imníche* sa tír. | They are the most *concerned* people in the country.
+| Is eisean is *taithíche* ar an obair seo. | He is the most *experienced* at this work.
+| Cuirfear an córas is *uathoibríche* i bhfeidhm. | The most *automated* system will be put in place.
 |===
 
 === 4.8.2
@@ -763,9 +763,9 @@ b. {4-8-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is é Rónán an duine is *fearr* sa rang. | [TODO]
-| Is í an chuimhne is *faide* (is *sia*) siar i mo cheann í. | [TODO]
-| Cé acu ceann is *mó*? | [TODO]
+| Is é Rónán an duine is *fearr* sa rang. | Rónán is the *best* person in the class.
+| Is í an chuimhne is *faide* (is *sia*) siar i mo cheann í. | It is the **long**est memory (**earli**est) in my head.
+| Cé acu ceann is *mó*? | Which one is **big**gest?
 |===
 
 === 4.8.3 {4-8-3-title}
@@ -778,12 +778,12 @@ c. {4-8-3-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| B'aoibhinn liom *a áille* (a bhinne, a chruinne, a líofa, a réidhe, a shoiléire) a labhair sí. | [TODO]
-| Ní chreidfeá *a achrannaí* (a dhonacht, a olcas, a shleamhaine, a uaigní) a bhí an áit. | [TODO]
-| Fuair sé ardmholadh *trína fheabhas* a rinne sé an obair. | [TODO]
-| *Dá chríonna* (dá chróga, dá fheabhas, dá ghlice, dá oilte) é, níor éirigh an gnó leis. | [TODO]
-| *Dá dhonacht* (dá ghránna, dá leisciúla, dá olcas, dá shuaraí) é, caithfear glacadh leis. | [TODO]
-| *Dá mhéad* dúil a bhí aici ann, níor cheannaigh sí sa deireadh é. | [TODO]
+| B'aoibhinn liom *a áille* (a bhinne, a chruinne, a líofa, a réidhe, a shoiléire) a labhair sí. | I loved how *beautifully* (how sweetly, how accurately, how fluently, how smoothly, how clearly) she spoke.
+| Ní chreidfeá *a achrannaí* (a dhonacht, a olcas, a shleamhaine, a uaigní) a bhí an áit. | You wouldn't believe how *difficult* (how wretched, how bad, how slippery, how lonely) the place was.
+| Fuair sé ardmholadh *trína fheabhas* a rinne sé an obair. | He received high praise *because of how well* he did the job.
+| *Dá chríonna* (dá chróga, dá fheabhas, dá ghlice, dá oilte) é, níor éirigh an gnó leis. | *However wise* (how brave, how good, how clever, how skilled) he was, the business didn't work out for him.
+| *Dá dhonacht* (dá ghránna, dá leisciúla, dá olcas, dá shuaraí) é, caithfear glacadh leis. | *However bad* (how ugly, how lazy, how bad, how annoying) he was, you have to accept it.
+| *Dá mhéad* dúil a bhí aici ann, níor cheannaigh sí sa deireadh é. | *However much* she wanted him, she didn't buy him in the end.
 |===
 
 == 4.9 {4-9-title}
@@ -797,14 +797,14 @@ c. {4-8-3-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an fear *seo* tinn. | [TODO]
-| Beidh an buachaill *seo* ag teacht liom. | [TODO]
-| Is liomsa iad *seo*. | [TODO]
-| Níl an doras *sin* dúnta. | [TODO]
-| Síle is ainm don chailín *sin*. | [TODO]
-| Díoladh a theach *siúd* inné. | [TODO]
-| Is aige *siúd* a bhí an t-airgead. | [TODO]
-| An bhfeiceann tú an pháirc *úd* thall? | [TODO]
+| Tá an fear *seo* tinn. | *This* man is sick.
+| Beidh an buachaill *seo* ag teacht liom. | *This* boy will be coming with me.
+| Is liomsa iad *seo*. | *These* are with me.
+| Níl an doras *sin* dúnta. | *That* door is not closed.
+| Síle is ainm don chailín *sin*. | *That* girl's name is Síle.
+| Díoladh a theach *siúd* inné. | *That* house was sold yesterday.
+| Is aige *siúd* a bhí an t-airgead. | He was *the one* that had the money.
+| An bhfeiceann tú an pháirc *úd* thall? | Do you see *that* field over there?
 |===
 
 == 4.11 {4-11-title}
@@ -814,10 +814,10 @@ c. {4-8-3-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí an traein *folamh*. | [TODO]
-| Bíonn na busanna *déanach*. | [TODO]
-| An bhfuil an bhean sin *saibhir*? | [TODO]
-| Beidh an bhainis sin *mór*. | [TODO]
+| Bhí an traein *folamh*. | The train was *empty*.
+| Bíonn na busanna *déanach*. | The buses are usually *late*.
+| An bhfuil an bhean sin *saibhir*? | Is that woman *rich*?
+| Beidh an bhainis sin *mór*. | That wedding will be *big*.
 |===
 
 == 4.12 {4-12-title}
