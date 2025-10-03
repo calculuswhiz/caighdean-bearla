@@ -65,14 +65,18 @@ function tdToTh(td: HTMLTableCellElement) {
  * as marked by the class table-header. Asciidoc does not allow multi-row thead
  * elements to be generated.
  */
-export function tableScan() {
-  const allTables = document.querySelectorAll('table');
+export function tableScan(rawAdocContent: string) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(rawAdocContent, "text/html");
+
+  const allTables = doc.querySelectorAll('table');
 
   for (const table of allTables) {
     for (; ;) {
       const toMove = table.querySelector<HTMLDivElement>("tbody .table-header, tbody .sub-header");
       if (toMove == null)
         break;
+      console.log(table);
       const containingRow = findParentRow(toMove);
       if (containingRow == null)
         throw new Error("missing row");
@@ -95,4 +99,6 @@ export function tableScan() {
       tHead.appendChild(containingRow);
     }
   }
+
+  return doc.body.innerHTML;
 }

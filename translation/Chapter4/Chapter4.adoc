@@ -104,7 +104,9 @@ a|
 a|
 [.sub-header]
 {Table4B-col1-sub}
-a| {Table4B-col2-sub}
+a|
+[.sub-header]
+{Table4B-col2-sub}
 
 | na báid *fhada* | na cailíní *cliste*
 | na costais *shonracha* | na doirse *móra*

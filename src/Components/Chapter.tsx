@@ -33,7 +33,7 @@ export function Chapter({ number, language = "en", onContentReady }: ChapterProp
         processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
       ].join("\n");
 
-      
+
       const renderedContents = asciidoctor.convert(combined) as string;
       setChapterAdoc(renderedContents);
     }
@@ -41,14 +41,15 @@ export function Chapter({ number, language = "en", onContentReady }: ChapterProp
     loadChapter();
   }, [number, language]);
 
-  React.useEffect(() => {
+  React.useLayoutEffect(() => {
     if (chapterAdoc !== "") {
-      tableScan();
       onContentReady();
     }
   }, [chapterAdoc, onContentReady]);
 
+  const processedAdoc = tableScan(chapterAdoc);
+
   return (
-    <div dangerouslySetInnerHTML={{ __html: chapterAdoc }} />
+    <div dangerouslySetInnerHTML={{ __html: processedAdoc }} />
   );
 }
