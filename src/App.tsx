@@ -5,9 +5,9 @@ import { Chapter } from "./Components/Chapter";
 
 const availableChapters = [
   { label: "Front Matter", id: "front-matter" },
-  { label: "Chapter 1 - The Article", id: "1" },
-  { label: "Chapter 2 - The Noun", id: "2" },
-  { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3" },
+  { label: "Chapter 1 - The Article", id: "1", done: true },
+  { label: "Chapter 2 - The Noun", id: "2", done: true },
+  { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", done: true },
   { label: "Chapter 4 - The Adjective", id: "4" },
   { label: "Chapter 5 - The Verb", id: "5" },
   { label: "Chapter 6 - The Adverb", id: "6" },
@@ -27,7 +27,8 @@ function ChapterSelect(props: {
   onSelect: (x: number) => void;
 }) {
   return <>
-    <b>Chapter Selection:</b>
+    <b>Chapter Selection:</b><br />
+    <sub>Line through = under construction</sub>
     <div className="flex flex-row flex-wrap border-1 border-dashed border-black mb-1">
       {
         availableChapters.map((x, i) =>
@@ -38,7 +39,8 @@ function ChapterSelect(props: {
             className={`text-nowrap cursor-pointer overflow-ellipsis 
               max-w-50 overflow-hidden
               text-white p-1 m-1 
-              ${i === props.currentChapter ? "bg-amber-500 font-bold" : "bg-amber-700"}`
+              ${i === props.currentChapter ? "bg-amber-500 font-bold" : "bg-amber-700"}
+              ${!x.done ? "line-through" : ""}`
             }>{
               x.label
             }</button>
