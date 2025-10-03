@@ -2,7 +2,7 @@
 
 Probably not the best repo name, but we can always rename it later.
 
-Another shot at an unofficial translation project of "An Caighdeán Oifigiúil 2017"
+Another shot at an unofficial translation project of "Gramadach na Gaeilge - An Caighdeán Oifigiúil" (2017 edition)
 
 - Tracked at https://github.com/calculuswhiz/caighdean-bearla.
 - Webapp at https://calculuswhiz.github.io/caighdean-bearla/.
