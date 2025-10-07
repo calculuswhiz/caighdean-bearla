@@ -1,0 +1,58 @@
+:chapterTitle_ga: An Briathar
+:chapterTitle_en: The Verb
+
+:5-1-title_ga: Na Briathra Rialta
+:5-1-title_en: The Regular Verbs
+
+:5-1-1-p_ga: Tá dhá réimniú ar na briathra rialta.
+:5-1-1-p_en: There are two conjugations for regular verbs.
+
+:5-1-2-p_ga: Baineann leis an gCéad Réimniú:
+:5-1-2-p_en: The First Conjugation applies to:
+
+:5-1-2-a_ga: briathra ó fhréamhacha aonsiollacha, e.g., _bog_, _bris_, _caith_, _mol_, lena n-áirítear briathra a chríochnaíonn ar _-igh_, e.g., _breoigh_, _clóigh_, _cráigh_, _iaigh_, _luaigh_, _reoigh_, _sáigh_;
+:5-1-2-a_en: verbs of monosyllabic roots, e.g. _bog_, _bris_, _caith_, _mol_, including verbs ending in _igh_, e.g., _breoigh_, _clóigh_, _cráigh_, _iaigh_, _luaigh_, _reoigh_, _sáigh_;
+
+:5-1-2-b_ga: briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-áil_, e.g., _sábháil_, _tarrtháil_, agus roinnt briathra ilsiollacha ar leith, e.g., _adhlaic_, _ceiliúir_, _gearán_, _seachaid_, _taispeáin_, _tíolaic_.
+:5-1-2-b_en: verbs of monosyllabic roots ending in _áil_, e.g. _sábháil_, _tarrtháil_, and some particular polysyllabic verbs, e.g. _adhlaic_, _ceiliúir_, _gearán_, _seachaid_, _taispeáin_, _tíolaic_.
+
+:5-1-3-p_ga: Baineann leis an Dara Réimniú:
+:5-1-3-p_en: The Second Conjugation applies to:
+
+:5-1-3-a-p_ga: briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-(a)igh_, e.g., _ceannaigh_, _imigh_
+:5-1-3-a-p_en: verbs with polysyllabic bases ending in _-(a)igh_, e.g., _ceannaigh_, _imigh_
+
+:5-1-3-b-p_ga: briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-(a)il_, _-(a)in_, _-(a)ir_, _-(a)is_ agus a choimrítear sa réimniú, e.g., _agair_, _codail_, _cogain_, _iompair_, _tochail_;
+:5-1-3-b-p_en: verbs with polysyllabic bases ending in _-(a)il_, _-(a)in_, _-(a)ir_, _-(a)is_ and syncopated in the conjugation, e.g., _agair_, _codail_, _cogain_, _iompair_, _tochail_;
+
+:5-1-3-c-p_ga: líon beag briathra ar leith ar nós _foghlaim_, _fulaing_, _tarraing_, _tuirling_.
+:5-1-3-c-p_en: a small number of specific verbs such as _foghlaim_, _fulaing_, _tarraing_, _tuirling_.
+
+:5-1-4-p_ga: Is ionann réimniú de ghnáth do bhriathar comhshuite agus don bhriathar ónar cumadh é:
+:5-1-4-p_en: The conjugation of a compound verb is usually the same as that of the verb from which it is formed:
+
+:5-1-4-a-p_ga: tá _aisíoc_, _athdhear_ agus _comhlíon_ sa chéad réimniú ar aon dul le _íoc_, _dear_ agus _líon_; agus
+:5-1-4-a-p_en: _aisíoc_, _athdhear_ and _comhlíon_ in the first conjugation are similar to _íoc_, _dear_ and _líon_; and
+
+:5-1-4-b-p_ga: tá _athchomhairligh_, _comhdhlúthaigh_ agus _comhshínigh_ sa dara réimniú ar aon dul le _comhairligh_, _dlúthaigh_ agus _sínigh_.
+:5-1-4-b-p_en: _athchomhairligh_, _comhdhlúthaigh_ and _comhshínigh_ in the second conjugation are similar to _comhairligh_, _dlúthaigh_ and _sínigh_.
+
+:5-1-5-title_ga: An Modh Foshuiteach
+:5-1-5-title_en: The Subjunctive Mood
+
+:5-1-5-a-p_ga: Má tá feidhm ghuítheach ag abairt is sa mhodh foshuiteach a bhíonn sí i gcónaí, e.g., _Go raibh maith agat_; _Go dté tú slán_. Bíonn rogha idir an modh foshuiteach láithreach agus an aimsir fháistineach nuair is aimsir phríomha atá ag briathar an phríomhchlásail sna cásanna seo a leanas:
+:5-1-5-a-p_en: If a sentence has a optative function, it is always in the subjunctive mood, e.g., _Go raibh maith agat_; _Go dté tú slán_. There is a choice between the present subjunctive mood and the future tense when the verb of the main clause is in the primary tense in the following cases:
+
+:5-1-5-a-i-p_ga: i ndiaidh na gcónasc ama _ach a_, _go_, _nó go_, _sula_, e.g., _Gheobhaimid an scéal ceart ach a dtaga_ (_a dtiocfaidh_) _Pól_; _Ná beannaigh don diabhal go mbeannaí_ (_go mbeannóidh_) _sé duit_; _Beidh tú ann nó go bhfása_ (_nó go bhfásfaidh_) _coincleach ort_; _Beidh siad ann sula mbuailtear_ (_sula mbuailfear_) _clog an aingil;_
+:5-1-5-a-i-p_en: after the time conjuctions _ach a_, _go_, _nó go_, _sula_, e.g., _Gheobhaimid an scéal ceart ach a dtaga_ (_a dtiocfaidh_) _Pól_; _Ná beannaigh don diabhal go mbeannaí_ (_go mbeannóidh_) _sé duit_; _Beidh tú ann nó go bhfása_ (_nó go bhfásfaidh_) _coincleach ort_; _Beidh siad ann sula mbuailtear_ (_sula mbuailfear_) _clog an aingil;_
+
+:5-1-5-a-ii-p_ga: i ndiaidh na gcónasc aidhme _go_, _nó go_, e.g., _Féach é go bhfeice_ (_go bhfeicfidh_) _tú_; _Suigh nó go raibh_ (_nó go mbeidh_) _do scíth déanta agat_;
+:5-1-5-a-ii-p_en: after the conjunction of purpose _go_, _nó go_, e.g., _Féach é go bhfeice_ (_go bhfeicfidh_) _tú_; _Suigh nó go raibh_ (_nó go mbeidh_) _do scíth déanta agat_;
+
+:5-1-5-a-iii-p_ga: i gcéadbheart oscailte i ndiaidh _mura_, e.g., _Mura gcuire_ (_mura gcuirfidh_) _tú_, _ní bhainfidh tú_.
+:5-1-5-a-iii-p_en: in the first open clause after _mura_, e.g., _Mura gcuire_ (_mura gcuirfidh_) _tú_, _ní bhainfidh tú_.
+
+// There is no text for just "b"
+
+:5-1-5-b-i_ga: 
+:5-1-5-b-i_en: [TODO] 
