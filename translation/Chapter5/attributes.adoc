@@ -54,5 +54,60 @@
 
 // There is no text for just "b"
 
-:5-1-5-b-i_ga: 
-:5-1-5-b-i_en: [TODO] 
+:5-1-5-b-i_ga: Is ionann foirmeacha an mhodha fhoshuitigh chaite agus foirmeacha na haimsire gnáthchaite spleáiche (ach amháin i gcás an bhriathair _bí_) (féach an Fhoirm Spleách, 5.1.8). Is féidir freisin foirm an mhodha choinníollaigh a úsáid thar ceann an fhoshuitigh chaite más san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach atá an príomhchlásal, e.g., _Tháinig_ (_thagadh_, _thiocfadh_) _sí isteach sula bhfeictí_ (_bhfeicfí_) _í_. I gcás an bhriathair _bí_ is ionann foirmeacha don mhodh foshuiteach caite agus don mhodh coinníollach.
+:5-1-5-b-i_en: The forms of the past subjunctive mood are the same as the forms of the dependent past habitual tense (except for the verb _bí_) (see the Dependent Form, 5.1.8). The conditional mood's form can also be used instead of the past subjunctive if the main clause is in the past tense, the past habitual tense or the conditional mood, e.g., _Táinig_ (_thagadh_, _thiocfadh_) _sí aír preo fíctí_ (_bhfécfí_) _í_. In the case of the verb _bí_ the forms of the past subjunctive mood are the same as the conditional mood.
+
+:5-1-5-b-ii_ga: Sna táblaí sa chaibidil seo, léirítear an modh foshuiteach láithreach leis an mír _go_. Bíodh go leanann urú an mhír sin agus roinnt eile, ní hamhlaidh i gcás gach míre a ghabhann leis an modh foshuiteach. Séimhiú a leanann _nár_, e.g., _Nár fhana sé i bhfad_.
+:5-1-5-b-ii_en: In the tables in this chapter, the present subjunctive mood is indicated by the particle _go_. Although eclipsis follows that particle and some others, this is not true for every particle accompanying the subjunctive mood. Lenition follows _nár_, e.g., _Nár fhana sé i bhfad_.
+
+:5-1-6-title_ga: An Mhír Dhiúltach
+:5-1-6-title_en: The Negative Particle
+
+:5-1-6-p_ga: Is í _ní_ (_níor_) an mhír dhiúltach agus léirítear í sna táblaí ina dtugtar an fhoirm dhiúltach.
+:5-1-6-p_en: _ní_ (_níor_) is the negative pargicle and is shown in the tables where the negative form is given.
+
+:5-1-7-title_ga: An Fhoirm Neamhspleách
+:5-1-7-title_en: The Independent Form
+
+:5-1-7-p_ga: Is í an fhoirm neamhspleách an fhoirm den bhriathar a úsáidtear i bpríomhchlásal ráiteasach dearfach, e.g., _bhí mé_; _ceannóidh sé_; _mholfadh sí_. Mura bhfuil a mhalairt ráite, is í an fhoirm neamhspleách a thugtar sa réimniú sa chuid eile den chaibidil seo, ach amháin sa Mhodh Foshuiteach Láithreach.
+// ráiteasach - Not found in FGB. Appears to me "declarative". Root word being "ráite" as past particle of "abair"
+:5-1-7-p_en: The independent form is the form of the verb used in a positive declarative principal clause, e.g., _bhí mé_; _ceannóidh sé_; _mholfadh sí_. Unless otherwise stated, it is the independent form that is given in the conjugations in the rest of this chapter, except in the Present Subjunctive Mood.
+
+:5-1-8-title_ga: An Fhoirm Spleách
+:5-1-8-title_en: The Dependent Form
+
+:5-1-8-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ nó _do_ + _a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach 10.4.2 agus 10.8.2).
+:5-1-8-p_en: The dependent form follows these conjunctions, relative pronouns and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ or _do_ + _a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see 10.4.2 and 10.8.2).
+
+:5-1-8-note_ga: San aimsir chaite amháin a úsáidtear na leaganacha a chríochnaíonn ar _-r_ thuas (ach féach 5.4.5).
+:5-1-8-note_en: The forms ending in _-r_ above are used only in the past tense (but see 5.4.5).
+
+:5-1-9-title_ga: Aimsir an Bhriathair i gcás _má_ agus _nuair_
+:5-1-9-title_en: Verb Tense for _má_ and _nuair_
+
+:5-1-9-p_ga: Is í an aimsir ghnáthláithreach a leanann _má_ chun coinníoll sa todhchaí a chur in iúl, e.g., _Déanfaidh mé um thráthnóna é má bhíonn deis agam_. Is í an aimsir fháistineach a leanann _nuair_ má táthar ag trácht ar rud atá le tarlú amach anseo, e.g., _Glan é nuair a thiocfaidh tú isteach amárach_.
+:5-1-9-p_en: The ordinary present tense is followed by _má_ to express a future condition, e.g., _Déanfaidh mé um thráthnóna é má bhíonn deis agam_. The future tense is what follows _nuair_ if it is something that will be happening in the future, e.g., _Glan é nuair a thiocfaidh tú isteach amárach_.
+
+:5-1-10-title_ga: _Muid_
+:5-1-10-title_en: _Muid_
+
+:5-1-10-p_ga: Is féidir _muid_ a úsáid leis an bhfoirm scartha den bhriathar sa chéad phearsa iolra de rogha ar na foirmeacha táite den bhriathar (a thugtar sna táblaí) i ngach uile mhodh agus aimsir. Tá comhstádas ag an bhfoirm scartha _muid_ agus ag na foirmeacha táite den bhriathar sa chéad phearsa iolra.
+// Note: An fhoirm scartha - analytic form (FGB examples under "scar")
+:5-1-10-p_en: _muid_ can be used with the analytic form of the verb in the first person plural in preference to the conjugated forms of the verb (given in the tables) in all moods and tenses. The analytic form _muid_ and the conjugated forms of the verb in the first person plural have the same status.
+
+:Table5A-caption_ga: An Fhoirm Scartha _muid_
+:Table5A-caption_en: The Analytic Form _muid_
+
+:Table5A-col1_ga: An Aimsir/Modh
+:Table5A-col1_en: The Tense/Mood
+
+:Table5A-col2_ga: An Fhoirm Scartha + _muid_
+:Table5A-col2_en: The Analytic Form + _muid_
+
+:Table5A-col3_ga: An Fhoirm Tháite den Bhriathar
+:Table5A-col3_en: The Conjugated Form of the Verb
+
+// Col 1 tenses given in CommonAttributes.adoc
+// Rest doesn't need translation
+
+

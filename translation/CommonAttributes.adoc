@@ -60,3 +60,26 @@
 
 :NoChange_ga: Gan athrú
 :NoChange_en: No change
+
+// Tenses and Moods
+
+:PresentTense_ga: An Aimsir Láithreach
+:PresentTense_en: The Present Tense
+
+:PastTense_ga: An Aimsir Chaite
+:PastTense_en: The Past Tense
+
+:PastHabitualTense_ga: An Aimsir Ghnáthchaite
+:PastHabitualTense_en: The Past Habitual Tense
+
+:FutureTense_ga: An Aimsir Fháistineach
+:FutureTense_en: The Future Tense
+
+:ConditionalMood_ga: An Modh Coinníollach
+:ConditionalMood_en: The Conditional Mood
+
+:SubjunctiveMood_ga: An Modh Foshuiteach
+:SubjunctiveMood_en: The Subjuncive Mood
+
+:ImperativeMood_ga: An Modh Ordaitheach
+:ImperativeMood_en: The Imperative Mood
