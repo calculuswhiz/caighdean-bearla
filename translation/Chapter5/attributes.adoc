@@ -1,3 +1,40 @@
+// Tenses and Moods
+
+:PresentTense_ga: An Aimsir Láithreach
+:PresentTense_en: The Present Tense
+
+:PastTense_ga: An Aimsir Chaite
+:PastTense_en: The Past Tense
+
+:PastHabitualTense_ga: An Aimsir Ghnáthchaite
+:PastHabitualTense_en: The Past Habitual Tense
+
+:FutureTense_ga: An Aimsir Fháistineach
+:FutureTense_en: The Future Tense
+
+:ConditionalMood_ga: An Modh Coinníollach
+:ConditionalMood_en: The Conditional Mood
+
+:SubjunctiveMood_ga: An Modh Foshuiteach
+:SubjunctiveMood_en: The Subjuncive Mood
+
+:PresentSubjunctiveMood_ga: An Modh Foshuiteach Láithreach
+:PresentSubjunctiveMood_en: The Present Subjunctive Mood
+
+:ImperativeMood_ga: An Modh Ordaitheach
+:ImperativeMood_en: The Imperative Mood
+
+:DeclarativeMood_ga: An Modh Táscach
+:DeclarativeMood_en: The Indicative Mood
+
+:VerbalNoun_ga: An tAinm Briathartha
+:VerbalNoun_en: The Verbal Noun
+
+:VerbalAdjective_ga: An Aidiacht Bhriathartha
+:VerbalAdjective_en: The Verbal Adjective
+
+// Normal chapter stuff
+
 :chapterTitle_ga: An Briathar
 :chapterTitle_en: The Verb
 
@@ -107,7 +144,55 @@
 :Table5A-col3_ga: An Fhoirm Tháite den Bhriathar
 :Table5A-col3_en: The Conjugated Form of the Verb
 
-// Col 1 tenses given in CommonAttributes.adoc
 // Rest doesn't need translation
 
+:5-2-title_ga: An Chéad Réimniú
+:5-2-title_en: The First Conjugation
 
+:5-2-1-title_ga: Briathra ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan seachas _-gh_
+:5-2-1-title_en: Verbs from monosyllabic roots ending in a consonant other than _-gh_
+
+:Table5B-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _mol_
+:Table5B-caption_en: The First Conjugation -- Conjugation of the Verb _mol_
+
+:Table5C-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _bris_
+:Table5C-caption_en: The First Conjugation -- Conjugation of the Verb _bris_
+
+:Table5C-Note_ga: Séimhítear an briathar neamhspleách rialta sa mhodh táscach, aimsir chaite (seachas an saorbhriathar) agus aimsir ghnáthchaite, agus sa mhodh coinníollach. Tá tuilleadh eolais in 10.4 faoi na cásanna eile ina séimhítear an briathar spleách agus neamhspleách agus pléitear na cásanna ina n-uraítear an briathar in 10.8.
+:Table5C-Note_en: The independent verb is lenited in the indicative mood, past tense (other than the autonomous verb) and past habitual tense, and in the conditional mood. There is more information in 10.4 about the other cases in which the dependent and independent verb is lenited and the cases in which the verb is eclipsed are discussed in 10.8.
+
+:5-2-1-a-p_ga: Is ar an gcuma chéanna le _mol_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan leathan, agus is ar an gcuma chéanna le _bris_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan caol.
+:5-2-1-a-p_en: Regular verbs from monosyllabic roots ending in a broad consonant are formed in the same way as _mol_, and regular verbs are formed from monosyllabic roots ending in a narrow consonant in the same way as _bris_.
+
+:5-2-1-b-p_ga: Má ghabhann fréamh a chríochnaíonn ar _-t_ nó _-th_ (e.g., _at_, _loit_, _caith_, _leath_) foirceann dar tús _-t_ (e.g., _-tar/-tear_, _-taí/-tí_, _-tá/-teá_, _-ta/-te_), déantar _-t-_ den _-t(h)t-_:
+:5-2-1-b-p_en: If a root ending in _-t_ or _-th_ (e.g., _at_, _loit_, _caith_, _leath_) joins an affix beginning with _-t_ (e.g., _-tar/-tear_, _-taí/-tí_, _-tá/-tá_, _-ta/-te_), the _-t(h)t-_ becomes _-t-_:
+
+:5-2-1-b-Table-col1_ga: Críochnaíonn ar _-t(h)_ leathan
+:5-2-1-b-Table-col1_en: Ends in broad _-t(h)_
+
+:5-2-1-b-Table-col2_ga: Críochnaíonn ar _-t(h)_ caol
+:5-2-1-b-Table-col2_en: Ends in narrow _-t(h)_
+
+:5-2-1-c-p_ga: Má ghabhann fréamh a chríochnaíonn ar _-bh_ nó _-mh_ (e.g., _gabh_, _ríomh_) foirceann dar tús _-th-_ (e.g., _-tha_ san aidiacht bhriathartha), déantar _-f-_ den _-bhth-_ nó den _-mhth-_:
+:5-2-1-c-p_en: If a root ending in _-bh_ or _-mh_ (e.g., _gabh_, _ríomh_) joins an affix beginning with _-th-_ (e.g., _-tha_ in the verbal adjective), the _-bhth-_ or _-mhth-_ becomes _-f-_:
+
+:EndsWith_ga: Críochnaíonn ar
+:EndsWith_en: Ends with
+
+:nopass-5-2-1-c-Table-col1_ga: {EndsWith} _-bh_
+:nopass-5-2-1-c-Table-col1_en: {EndsWith} _-bh_
+
+:nopass-5-2-1-c-Table-col2_ga: {EndsWith} _-mh_
+:nopass-5-2-1-c-Table-col2_en: {EndsWith} _-mh_
+
+:5-2-1-d-p_ga: Coinnítear _-bh_, _-mh_ agus _-th_ roimh _-f-_, e.g., _scríobhfaí_, _ríomhfá_, _chaithfeá_:
+:5-2-1-d-p_en: _-bh_, _-mh_ and _-th_ are retained before _-f-_, e.g., _scríobhfaí_, _ríomhfá_, _chaithfeá_:
+
+:nopass-5-2-1-d-Table-col1_ga: {EndsWith} _-bh_
+:nopass-5-2-1-d-Table-col1_en: {EndsWith} _-bh_
+
+:nopass-5-2-1-d-Table-col2_ga: {EndsWith} _-mh_
+:nopass-5-2-1-d-Table-col2_en: {EndsWith} _-mh_
+
+:nopass-5-2-1-d-Table-col3_ga: {EndsWith} _-th_
+:nopass-5-2-1-d-Table-col3_en: {EndsWith} _-th_
