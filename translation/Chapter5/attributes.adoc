@@ -196,3 +196,177 @@
 
 :nopass-5-2-1-d-Table-col3_ga: {EndsWith} _-th_
 :nopass-5-2-1-d-Table-col3_en: {EndsWith} _-th_
+
+:5-2-2-title_ga: Briathra ó Fhréamhacha Ilsiollacha
+:5-2-2-title_en: Verbs from Polysyllabic Roots
+
+:Table5D-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _sábháil_
+:Table5D-caption_en: The First Conjugation -- Conjugation of the Verb _sábháil_
+
+:Table5D-note_ga: Maidir le briathra a chríochnaíonn ar _-áil_, tabhair faoi deara go mbíonn na leaganacha le _-t-_ caol, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, ach go mbíonn na leaganacha le _-f-_ leathan, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
+:Table5D-note_en: As for verbs ending in _-áil_, note that these forms with _-t-_ are narrow, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, but the forms with _-f-_ are broad, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
+
+:Table5E_ga: An Chéad Réimniú -- Réimniú an Bhriathair _tíolaic_
+:Table5E_en: The First Conjugation -- Conjugation of the Verb _tíolaic_
+
+:5-2-2-tables-col1_ga: An Fhréamh
+:5-2-2-tables-col1_en: The Root
+
+:5-2-2-tables-col2_ga: An Chéad Phearsa Uatha \ +
+An Aimsir Láithreach
+
+:5-2-2-tables-col2_en: The First Person Singular \ +
+The Present Tense
+
+:5-2-2-tables-col3_ga: An tAinm Briathartha
+:5-2-2-tables-col3_en: The Verbal Noun
+
+:5-2-2-tables-col4_ga: An Aidiacht Bhriathartha
+:5-2-2-tables-col4_en: The Verbal Adjective
+
+:5-2-2-a-p_ga: Briathra a réimnítear ar nós _sábháil_:
+:5-2-2-a-p_en: Verbs conjugated like _sábháil_:
+
+:5-2-2-b-p_ga: Briathra a réimnítear ar nós _tíolaic_:
+:5-2-2-b-p_en: Verbs conjugated like _tíolaic_:
+
+:5-2-2-c-p_ga: Briathra a choinnítear caol tríd síos (gan an t-ainm briathartha a áireamh) ina réimniú:
+:5-2-2-c-p_en: Verbs that are kept narrow throughout (excluding the verbal noun) in their conjugation:
+
+:5-2-2-d-p_ga: Briathra a choinnítear leathan tríd síos ina réimniú:
+:5-2-2-d-p_en: Verbs that are kept broad throughout in their conjugation:
+
+:5-2-2-note_ga: Coimrítear na briathra ó na fréamhacha _adhain_, _adhair_ agus _sleabhac_ ina réimniú amhail is dá mba _adhn-_, _adhr-_, _sleabhc-_, ba fhréamh dóibh, e.g., _adhnann sé_, _adhrfaidh sí_, _sleabhctha_, ach amháin san aimsir chaite scartha, e.g., _d'adhain sé_, _d'adhair sí_, _shleabhac siad_, agus in aidiachtaí briathartha _adhain_, _adhair_, e.g., _adhainte_, _adhartha_.
+:5-2-2-note_en: The verbs from the roots _adhain_, _adhair_ and _sleabhc_ are syncopated as if _adhn-_, _adhr-_, _sleabhc-_, were their root, e.g., _adhnann sé_, _adhrfaidh sí_, _sleabhctha_, except in the analytic past tense, e.g., _d'adhain sé_, _d'adhair sí_, _shleabhac siad_, and in verbal adjectives _adhain_, _adhair_, e.g., _adhainte_, _adhartha_.
+
+:5-2-3-title_ga: Briathra ó fhréamhacha aonsiollacha a chríochnaíonn ar _-gh_
+:5-2-3-title_en: Verbs from monosyllabic roots ending in _-gh_
+
+:Table5F-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _cráigh_
+:Table5F-caption_en: The First Conjugation -- Conjugation of the Verb _cráigh_
+
+:Table5F-note_ga: Maidir le briathra a réimnítear ar nós _cráigh_ agus _dóigh_, tabhair faoi deara go mbíonn na leaganacha le _-t-_ caol, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, ach go mbíonn na leaganacha le _-f-_ leathan, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
+:Table5F-note_en: For verbs that are conjugated like _cráigh_ and _dóigh_, note that the forms with _-t-_ are narrow, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, but the forms with _-f-_ are broad, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
+
+:Table5G-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _dóigh_
+:Table5G-caption_en: The First Conjugation -- Conjugation of the Verb _dóigh_
+
+:5-2-3-a-p_ga: Briathra a réimnítear ar nós _cráigh_, _dóigh_:
+:5-2-3-a-p_en: Verbs conjugated like _cráigh_, _dóigh_:
+
+:5-2-3-b-p_ga: Briathra a bhfuil ainm briathartha ar leith acu:
+:5-2-3-b-p_en: Verbs with a specific verbal noun:
+
+:5-2-3-B-p_ga: I gcás briathra a bhfuil guta gearr sa fhréamh iontu, fágtar an guta gan fadú roimh _-t_, e.g., _nitear_, _niteá_, _nite_, ach _ním_, _níodh_, _nífí_, etc. Is guta fada, áfach, a bhíonn ag _léigh_ etc. síos tríd, e.g., _léitear_, _léiteá_, _léite_.
+:5-2-3-B-p_en: When verbs have a short vowel in the root, the vowel is left unlengthened before _-t_, e.g., _nitear_, _niteá_, _nite_, ach _ním_, _níodh_, _nífí_, etc. However, _léigh_ etc. have long vowels throughout, e.g., _léitear_, _léiteá_, _léite_.
+
+:Table5H-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _léigh_
+:Table5H-caption_en: The First Conjugation -- Conjugation of the Verb _léigh_
+
+:Table5I-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _nigh_
+:Table5I-caption_en: The First Conjugation -- Conjugation of the Verb _nigh_
+
+:5-2-3-a-p_ga: Briathra a réimnítear ar nós _léigh_:
+:5-2-3-a-p_en: Verbs conjugated like _léigh_:
+
+:5-2-3-b-p_ga: Briathra a réimnítear ar nós _nigh_:
+:5-2-3-b-p_en: Verbs conjugated like _nigh_:
+
+:5-2-3-c-p_ga: Briathra a bhfuil ainm briathartha ar leith acu:
+:5-2-3-c-p_en: Verbs with a specific verbal noun:
+
+:5-3-title_ga: An Dara Réimniú
+:5-3-title_en: The Second Conjugation
+
+:5-3-1-title_ga: Briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-(a)igh_
+:5-3-1-title_en: Verbs from polysyllabic roots ending in _-(a)igh_
+
+:Table5J-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _beannaigh_
+:Table5J-caption_en: The Second Conjugation -- Conjugation of the Verb _beannaigh_
+
+:Table5K-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _cruinnigh_
+:Table5K-caption_en: The Second Conjugation -- Conjugation of the Verb _cruinnigh_
+
+:Table5K-note_ga: Tabhair faoi deara gur ar an gcuma chéanna le _beannaigh_ a réimnítear briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-aigh_, agus gur ar an gcuma chéanna le _cruinnigh_ a réimnítear briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-igh_; ach tá eisceachtaí san ainm briathartha (féach 5.5.2) agus correisceacht san aidiacht bhriathartha, e.g., _dathaigh_, _daite_; _dlúthaigh_, _dlúite_; _táthaigh_, _táite_.
+:Table5K-note_en: Note that verbs from polysyllabic roots ending in _-aigh_ are conjugated in the same way as _beannaigh_, and that verbs from polysyllabic roots ending in _-igh_ are formed in the same way as _cruinnigh_; but there are exceptions in the verbal noun (see 5.5.2) and the verbal adjective, e.g., _dathaigh_, _daite_; _dlúthaigh_, _dlúite_; _táthaigh_, _táite_.
+
+:5-3-2-title_ga: Briathra ó fhréamhacha ilsiollacha a chríochnaíonnar _-(a)il_, _-(a)in_, _-(a)ir_, _-(a)is_ agus a choimrítear sa réimniú
+:5-3-2-title_en: Verbs from polysyllabic roots ending in _-(a)il_, _-(a)in_, _-(a)ir_, _-(a)is_ and syncopated in the conjugation
+
+:Table5L-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _ceangail_
+:Table5L-caption_en: The Second Conjugation -- Conjugation of the Verb _ceangail_
+
+:Table5M-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _díbir_
+:Table5M-caption_en: The Second Conjugation -- Conjugation of the Verb _díbir_
+
+:5-3-2-a-p_ga: Briathra a réimnítear ar nós _ceangail_:
+:5-3-2-a-p_en: Verbs conjugated like _ceangail_:
+
+:5-3-2-b-p_ga: Briathra a réimnítear ar nós _díbir_:
+:5-3-2-b-p_en: Verbs conjugated like _díbir_:
+
+:5-3-3-title_ga: Briathra Eile sa Dara Réimniú
+:5-3-3-title_en: Other Verbs in the Second Conjugation
+
+:5-3-3-a-p_ga: Ní choimrítear briathra ó fhréamhacha a chríochnaíonn ar _-aim_, _-(a)ing_:
+:5-3-3-a-p_en: Verbs from roots ending in _-aim_, _-(a)ing_ are not conjugated:
+
+:5-3-3-b-p_ga: Briathra eile nach gcoimrítear:
+:5-3-3-b-p_en: Other non-syncopated verbs:
+
+:5-4-title_ga: Na Briathra Neamhrialta
+:5-4-title_en: The Irregular Verbs
+
+:5-4-1-p_ga: Aon bhriathar déag neamhrialta atá ann. Is iad seo a leanas na briathra neamhrialta: _abair_, _beir_, _bí_, _clois/cluin_, _déan_, _faigh_, _feic_, _ith_, _tabhair_, _tar_, _téigh_.
+:5-4-1-p_en: There are eleven irregular verbs. The following are the irregular verbs: _abair_, _beir_, _bí_, _clois/cluin_, _déan_, _faigh_, _feic_, _ith_, _tabhair_, _tar_, _téigh_.
+
+:5-4-2-p_ga: Ní choinníonn na briathra neamhrialta an fhréamh chéanna tríd síos ina réimniú agus tá leaganacha ar leith ar chuid acu san fhoirm spleách.
+:5-4-2-p_en: The irregular verbs do not keep the same root throughout their formation and some of them have separate forms in the dependent form.
+
+:5-4-3-p_ga: Is ionann fréamh an bhriathair san aimsir ghnáthláithreach agus san aimsir ghnáthchaite sna briathra neamhrialta go léir, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Seachas i gcás an bhriathair _bí_, bíonn an fhréamh chéanna leis an modh foshuiteach láithreach freisin, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
+:5-4-3-p_en: The root of the verb in the present and past tenses is the same in all irregular verbs, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Except in the case of the verb _bí_, the present subjunctive also has the same root, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
+
+:5-4-4-p_ga: Is ionann fréamh an bhriathair san aimsir fháistineach agus sa mhodh coinníollach sna briathra neamhrialta go léir, e.g., _déarfaidh mé_, _déarfainn_; _déanfaidh tú_, _dhéanfá_; _tabharfaidh siad_, _thabharfaidís_.
+:5-4-4-p_en: The root of the verb in the future tense and the conditional mood is the same in all irregular verbs, e.g., _déarfaidh mé_, _déarfainn_; _déanfaidh tú_, _dhéanfá_; _tabharfaidh siad_, _thabharfaidís_.
+
+:5-4-5-title_ga: An Fhoirm Spleách
+:5-4-5-title_en: The Dependent Form
+
+:5-4-5-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ nó _do+a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach 10.4.2 agus 10.8.2). Is le _ní_ nó _go_ a léirítear an fhoirm spleách sna táblaí.
+:5-4-5-p_en: The dependent form follows these conjunctions, relative pronouns and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ or _do+a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see 10.4.2 and 10.8.2). The dependent form in the tables is represented by _ní_ or _go_.
+
+:5-4-5-a-p_ga: Úsáidtear na míreanna sin leis na briathra neamhrialta ar an modh céanna ar a n-úsáidtear iad leis na briathra rialta.
+:5-4-5-a-p_en: Those items are used with the irregular verbs in the same way as they are used with the regular verbs.
+
+:5-4-5-SampleBox-1_ga: *An dtabharfadh* sí síob chun na scoile duit?
+:5-4-5-SampleBox-1_en: *Would* she *bring* you to school?
+
+:5-4-5-SampleBox-2_ga: Dúirt siad *go dtagann* sí ar cuairt gach Satharn.
+:5-4-5-SampleBox-2_en: They said *that* she *comes* to visit every Saturday.
+
+:5-4-5-SampleBox-3_ga: *Níor rug* siad ar na gadaithe go fóill.
+:5-4-5-SampleBox-3_en: They *have not caught* the thieves yet.
+
+:5-4-5-SampleBox-4_ga: *Nár chuala* tú faoin gcruinniú?
+:5-4-5-SampleBox-4_en: *Didn't* you *hear* about the meeting?
+
+:5-4-5-SampleBox-5_ga: *Ar ith* sé a dhóthain?
+:5-4-5-SampleBox-5_en: *Has* he *eaten* enough?
+
+:5-4-5-a-p2_ga: Ach ní úsáidtear na leaganacha a chríochnaíonn ar _-r_ de na míreanna sin san aimsir chaite, modh táscach, leis na briathra _abair_, _bí_, _déan_ (i gcás foirmeacha dar tús _dearn-_), _faigh_, _feic_, _téigh_.
+:5-4-5-a-p2_en: But the forms ending in _-r_ of those particles are not used in the past tense, indicative mood, with the verbs _abair_, _bí_, _déan_ (for forms starting with _dearn-_), _faigh_, _feic_, _téigh_.
+
+:5-4-5-SampleBox2-1_ga: *Nach ndeachaigh* sibh abhaile fós?
+:5-4-5-SampleBox2-1_en: *Didn't* you *go* home yet?
+
+:5-4-5-SampleBox2-2_ga: *Cá bhfacamar* cheana é?
+:5-4-5-SampleBox2-2_en: *Where have we seen* it before?
+
+:5-4-5-SampleBox2-3_ga: *An ndúirt* sé dada leatsa faoi?
+:5-4-5-SampleBox2-3_en: *Did* he *say* anything to you about it?
+
+:5-4-5-SampleBox2-4_ga: Deir sí *go raibh* siad ann.
+:5-4-5-SampleBox2-4_en: She says *that* they *were* there.
+
+:5-4-5-SampleBox2-5_ga: *Ní bhfuair* sé an t-airgead fós.
+:5-4-5-SampleBox2-5_en: He *did not get* the money yet.
