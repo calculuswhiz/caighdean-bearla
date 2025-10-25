@@ -540,7 +540,7 @@ The Present Tense
 :Table5Z-trait-11_en: Other verbal nouns
 
 :5-6-title_ga: Díochlaonadh an Ainm Bhriathartha
-:5-6-title_en: Declension of the Verb Noun
+:5-6-title_en: Declension of the Verbal Noun
 
 :5-6-1-title_ga: An Ginideach
 :5-6-1-title_en: The Genitive
@@ -578,4 +578,120 @@ The Present Tense
 :Table5AA-Note_ga: Níl gnáthghinideach de réir ceann de na díochlaontaí (féach 3.3.4) ag ainmneacha briathartha a chríochnaíonn ar _-(e)adh_ nó a chríochnaíonn ar ghuta fada, e.g., _bearradh_, _cló_, _cónaí_.
 :Table5AA-Note_en: Verbal nouns ending in _-(e)adh_ or ending in a long vowel do not have a normal genitive according to one of the declensions (see 3.3.4), e.g., _bearradh_, _cló_, _cónaí_.
 
+:5-6-1-b-p_ga: Is é ginideach an ainmfhocail, de réir an díochlaonta lena mbaineann, a bhíonn --
+:5-6-1-b-p_en: The genitive of the noun, according to the related declension, may belong to --
 
+:5-6-1-b-i-p_ga: ar ainmneacha briathartha áirithe:
+:5-6-1-b-i-p_en: certain verbal nouns:
+
+:Table5BB-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Ainmneacha Briathartha Áirithe
+:Table5BB-caption_en: Declension of the Verbal Noun -- Certain Verb Nouns
+
+:Table5BB-trait1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach 2.2.2)
+:Table5BB-trait1_en: As a noun in the First Declension (see 2.2.2)
+
+:Table5BB-trait2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach 2.3.2)
+:Table5BB-trait2_en: As a noun in the Second Declension (see 2.3.2)
+
+:Table5BB-trait3_en: Amhail ainmfhocal den Tríú Díochlaonadh, i gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, _-aíl_, _-áint_, _-úint_, _-cht_ agus corrainm briathartha eile (féach 2.4.2)
+:Table5BB-trait3_ga: As a noun in the Third Declension, for verbal nouns ending in _-áil_, _-áíl_, _-áint_, _-únt_, _-cht_ and other verbal nouns (see 2.4.2)
+
+:5-6-1-b-ii-p_ga: ar ghnáth-ainmfhocail a úsáidtear chun feidhmeanna de chuid ainm briathartha a dhéanamh ach nach dtéann réimniú briathair thairis sin orthu:
+:5-6-1-b-ii-p_en: common nouns which are used to perform the functions of a verbal noun but which do not undergo verbal conjugation beyond that:
+
+:Table5CC-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Gnáth-Ainmfhocail a úsáidtear chun Feidhmeanna de chuid Ainm Briathartha a dhéanamh
+:Table5CC-caption_en: Declension of the Verbal Noun -- Common Nouns used to Perform Verbal Noun Functions
+
+:Table5CC-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach 2.2.2)
+:Table5CC-trait-1_en: As a noun in the First Declension (see 2.2.2)
+
+:Table5CC-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach 2.3.2)
+:Table5CC-trait-2_en: As a noun in the Second Declension (see 2.3.2)
+
+:Table5CC-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcásanna ina gcuirtear foirceann leis an mbun-ainmfhocal, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ agus i gcás corrainm briathartha eile (féach 2.4.2)
+:Table5CC-trait-3_en: As a noun in the Third Declension, in cases where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and in the case of other verbal nouns (see 2.4.2)
+
+:Table5CC-Note_ga: Ainmneacha briathartha de na cineálacha sin atá luaite in (b)(ii) roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
+:Table5CC-Note_en: Ainmneacha briathartha de na cineálacha sin atá luaite in (b)(ii) roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
+
+:5-6-1-b-iii-p_ga: ar na hathleaganacha atá ar mhórán ainmneacha briathartha chun leanúnachas, minicíocht, teibíocht, torann, treise, fochiall nó beart aonair a chur in iúl, e.g., _aistriú_ go _aistriúchán_; _liú_ go _liúireach_:
+// TL note: "beart" meaning is uncertain in this context
+:5-6-1-b-iii-p_en: the alternate versions of many verbal nouns to express continuity, frequency, abstractness, noise, emphasis, a second meaning or single action, e.g., _aistriú_ go _aistriúchán_; _liú_ go _liúireach_:
+
+:Table5DD-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Athleaganacha ar Ainmneacha Briathartha
+:Table5DD-caption_en: Declension of the Verbal Noun -- Alternate Versions of Verbal Nouns
+
+:Table5DD-col1_ga: Athleagan ar Ainm Briathartha
+:Table5DD-col1_en: Alternate Version of the Verbal Noun
+
+:Table5DD-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach 2.2.2)
+:Table5DD-trait-1_en: As a noun in the First Declension (see 2.2.2)
+
+:Table5DD-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach 2.3.2)
+:Table5DD-trait-2_en: As a noun in the Second Declension (see 2.3.2)
+
+:Table5DD-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh (féach 2.4.2)
+:Table5DD-trait-3_en: As a noun in the Third Declension (see 2.4.2)
+
+:5-6-1-c-p_ga: Tá roinnt ainmneacha briathartha ann a bhfuil dhá fhoirm orthu sa ghinideach -- foirm na haidiachta briathartha agus foirm de réir ceann de dhíochlaontaí na n-ainmfhocal:
+:5-6-1-c-p_en: There are some verbal nouns that have two forms in the genitive -- a form of the verbal adjective and a form according to one of the declensions of the nouns:
+
+:Table5EE-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach -- Foirm de réir Ceann de na Díochlaontaí
+:Table5EE-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive -- Form according to One of the Declensions
+
+:Table5EE-col2_ga: Foirm an Ghinidigh de réir Ceann de na Díochlaontaí
+:Table5EE-col2_en: Form of the Genitive according to One of the Declensions
+
+:Table5EE-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (formhór na n-ainmneacha briathartha firinscneacha a chríochnaíonn ar chonsan leathan) (féach 2.2.2)
+:Table5EE-trait-1_en: As a noun in the First Declension (most masculine verbal nouns ending in a broad consonant) (see 2.2.2)
+
+:Table5EE-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (beagán ainmneacha briathartha baininscneacha) (féach 2.3.2)
+:Table5EE-trait-2_en: As a noun in the Second Declension (a few feminine verbal nouns) (see 2.3.2)
+
+:Table5EE-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh (ainmneacha briathartha baininscneacha a chríochnaíonn ar _-chan_ agus _crith_, _foghlaim_, _íoc_, _reic_, _rith_, _seinm_, _slad_, _snámh_, _sníomh_, _tairiscint_, _tál_, _trácht_, _triall_, _troid_, _tuiscint_) (féach 2.4.2)
+:Table5EE-trait-3_en: As a noun in the Third Declension (feminine nouns ending in _-chan_ and _crith_, _foghlaim_, _íoc_, _reic_, _rith_, _seinm_, _slad_, _snámh_, _sníomh_, _tairiscint_, _tál_, _trácht_, _triall_, _troid_, _tuiscint_) (see 2.4.2)
+
+:5-6-1-c-i-p_ga: Is í foirm na haidiachta briathartha a úsáidtear nuair atá cuspóir ag gabháil leis an ainm briathartha.
+:5-6-1-c-i-p_en: It is the verbal adjective form used when there is an object attached to the verbal noun.
+
+:5-6-1-c-ii-p_ga: Is í an fhoirm eile a úsáidtear nuair is feidhm ainmfhocail nó feidhm aidiachta a bhíonn ag an ainm briathartha.
+:5-6-1-c-ii-p_en: The other form is used when the verb has a function of a noun or a function as an adjective.
+
+:Table5FF-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach -- Foirm na hAidiachta Briathartha agus Foirm de réir Ceann de na Díochlaontaí
+:Table5FF-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive -- Form of the Verbal Adjective and Form according to One of the Declensions
+
+:Table5FF-col2_ga: Ginideach -- Foirm na hAidiachta Briathartha
+:Table5FF-col2_en: Genitive -- Form of the Verbal Adjective
+
+:Table5FF-col3_ga: Ginideach -- Foirm de réir Ceann de na Díochlaonta
+:Table5FF-col3_en: Genitive -- Form according to One of the Declensions
+
+:5-6-2-title_ga: An tIolra
+:5-6-2-title_en: The Plural
+
+:5-6-2-p_ga: Tá roinnt ainmneacha briathartha ann a úsáidtear mar ghnáth-ainmfhocail freisin. Bíonn foirm iolra orthu sin de réir an díochlaonta lena mbaineann siad.
+:5-6-2-p_en: There are some verbal nouns that are also used as common nouns. These have a plural form according to the declension to which they belong.
+
+:5-6-2-a-p_ga: I gcás ainmneacha briathartha a chríochnaíonn ar _-(e)adh_, is gnách _-taí_ (_-tí_) a chur in ionad an _-(e)adh_ más _-ch_, _-d_, _-l_, _-ll_, _-n_, _-rr_, _-s_ nó _-t_ is críoch don fhréamh, agus _-thaí_ (_-thí_), más consan eile is críoch di, e.g., _baisteadh_, _baistí_; _casadh_, _castaí_; _cinneadh_, _cinntí_; _moladh_, _moltaí_; _pósadh_, _póstaí_; _tarscaoileadh_, _tarscaoiltí_; _bloscadh_, _bloscthaí_; _colscaradh_, _colscarthaí_; _crapadh_, _crapthaí_; _loscadh_, _loscthaí_; _madhmadh_, _madhmthaí_; _scríobadh_, _scríobthaí_; _speireadh_, _speirthí_; _tíolacadh_, _tíolacthaí_, nó corruair _-teacha_, _-thacha_, e.g., _filleadh_, _fillteacha_; _gearradh_, _gearrthacha_.
+:5-6-2-a-p_en: For verbal nouns ending in _-(e)adh_, _-taí_ (_-tí_) is usually replaced by _-(e)adh_ if the root ends in _-ch_, _-d_, _-l_, _-ll_, _-n_, _-rr_, _-s_ or _-t_, and _-thaí_ (_-thí_), if it ends with another consonant, e.g., _baisteadh_, _baistí_; _casadh_, _castaí_; _cinneadh_, _cinntí_; _moladh_, _moltaí_; _pósadh_, _póstaí_; _tarscaoileadh_, _tarscaoiltí_; _bloscadh_, _bloscthaí_; _colscaradh_, _colscarthaí_; _crapadh_, _crapthaí_; _loscadh_, _loscthaí_; _madhmadh_, _madhmthaí_; _scríobadh_, _scríobthaí_; _speireadh_, _speirthí_; _tíolacadh_, _tíolacthaí_, or occasionally _-teacha_, _-thacha_, e.g., _filleadh_, _fillteacha_; _gearradh_, _gearrthacha_.
+
+:5-6-2-b-p_ga: I gcás ainmneacha briathartha ilsiollacha a chríochnaíonn ar _-(i)ú_, cuirtear _-(u)ithe_ in ionad an _-(i)ú_, e.g., _athrú_, _athruithe_; _ceartú_, _ceartuithe_; _cruinniú_, _cruinnithe_; _fiosrú_, _fiosruithe_; _míniú_, _mínithe_; _ordú_, _orduithe_; _scrúdú_, _scrúduithe_; _toiliú_, _toilithe_.
+:5-6-2-b-p_en: In the case of polysyllabic verbal nouns ending in _-(i)ú_, _-(u)ithe_ is replaced by _-(i)ú_, e.g., _athrú_, _athruithe_; _ceartú_, _ceartuithe_; _cruinniú_, _cruinnithe_; _fiosrú_, _fiosruithe_; _míniú_, _mínithe_; _ordú_, _orduithe_; _scrúdú_, _scrúduithe_; _toiliú_, _toilithe_.
+
+:5-6-2-c-p_ga: I gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, leathnaítear an _l_ agus cuirtear _-acha_ leis, e.g., _admháil_, _admhálacha_; _ofráil_, _ofrálacha_.
+:5-6-2-c-p_en: For nouns ending in _-áil_, the _l_ is broadened and _-acha_ is added, e.g., _admháil_, _admhálacha_; _ofráil_, _ofrálacha_.
+
+:5-6-2-d-p_ga: I gcás ainmneacha briathartha a chríochnaíonn ar _cht_, cuirtear _-aí_ leo, e.g., _gluaiseacht_, _gluaiseachtaí_, agus cuirtear _-í_ le hainmneacha briathartha a chríochnaíonn ar _-lt_, _-nt_, _-rt_, e.g., _bagairt_, _bagairtí_; _creidiúint_, _creidiúintí_; _oscailt_, _oscailtí_; _tairiscint_, _tairiscintí_.
+:5-6-2-d-p_en: In the case of verbal nouns ending in _cht_, _-áí_ is added, e.g., _gluaiseacht_, _gluaiseachtaí_, and add _-í_ to verbal nouns ending in _-lt_, _-nt_, _-rt_, e.g., _bagairt_, _bagairtí_; _creidiúint_, _creidiúintí_; _oscailt_, _oscailtí_; _tairiscint_, _tairiscintí_.
+
+:5-6-2-e-p_ga: I gcás ainmneacha briathartha aonsiollacha a chríochnaíonn ar ghuta, cuirtear _-nna_ nó, corruair, _-ite_ leo, e.g., _breo_, _breonna_; _brú_, _brúnna_; _cló_, _clónna_; _dó_, _dónna_; _liú_, _liúnna_; _meá_, _meánna_; _sú_, _súnna_; _crú_, _crúite_; _rá_, _ráite_; _sá_, _sáite_.
+:5-6-2-e-p_en: For monosyllabic verbal nouns ending in a vowel, _-nna_ or, occasionally, _-ite_ are added, e.g., _breo_, _breonna_; _brú_, _brúnna_; _cló_, _clónna_; _dó_, _dónna_; _liú_, _liúnna_; _meá_, _meánna_; _sú_, _súnna_; _crú_, _crúite_; _rá_, _ráite_; _sá_, _sáite_.
+
+:5-7-title_ga: An Aidiacht Bhriathartha
+:5-7-title_en: The Verbal Adjective
+
+:5-7-1-title_ga: Réimíreanna leis an Aidiacht Bhriathartha
+:5-7-1-title_en: Prefixes with the Verbal Adjective
+
+:5-7-1-p_ga: Úsáidtear na réimíreanna _do-_, _in-_, _so-_ le foirm na haidiachta briathartha chun rangabhálacha a dhéanamh, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (Féach 4.12 le haghaidh tuilleadh eolais ar an aidiacht bhriathartha.)
+:5-7-1-p_en: The prefixes _do-_, _in-_, _so-_ are used with the form of the verbal adjective to make classifications, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (See 4.12 for more information on the verbal adjective.)
