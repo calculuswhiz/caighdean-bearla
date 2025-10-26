@@ -1,4 +1,4 @@
-= {Chapter} 5 | {chapterTitle}
+const n=`= {Chapter} 5 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -144,4 +144,4 @@ h| Mol
 
 !===
 
-|===
+|===`;export{n as default};

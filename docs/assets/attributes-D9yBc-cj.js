@@ -1,4 +1,4 @@
-// Tenses and Moods
+const a=`// Tenses and Moods
 
 :PresentTense_ga: An Aimsir Láithreach
 :PresentTense_en: The Present Tense
@@ -212,10 +212,10 @@
 :5-2-2-tables-col1_ga: An Fhréamh
 :5-2-2-tables-col1_en: The Root
 
-:5-2-2-tables-col2_ga: An Chéad Phearsa Uatha \ +
+:5-2-2-tables-col2_ga: An Chéad Phearsa Uatha \\ +
 An Aimsir Láithreach
 
-:5-2-2-tables-col2_en: The First Person Singular \ +
+:5-2-2-tables-col2_en: The First Person Singular \\ +
 The Present Tense
 
 :5-2-2-tables-col3_ga: An tAinm Briathartha
@@ -694,4 +694,4 @@ The Present Tense
 :5-7-1-title_en: Prefixes with the Verbal Adjective
 
 :5-7-1-p_ga: Úsáidtear na réimíreanna _do-_, _in-_, _so-_ le foirm na haidiachta briathartha chun rangabhálacha a dhéanamh, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (Féach 4.12 le haghaidh tuilleadh eolais ar an aidiacht bhriathartha.)
-:5-7-1-p_en: The prefixes _do-_, _in-_, _so-_ are used with the form of the verbal adjective to make classifications, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (See 4.12 for more information on the verbal adjective.)
+:5-7-1-p_en: The prefixes _do-_, _in-_, _so-_ are used with the form of the verbal adjective to make classifications, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (See 4.12 for more information on the verbal adjective.)`;export{a as default};
