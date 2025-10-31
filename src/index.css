@@ -169,6 +169,18 @@
     @apply bg-gray-700 text-white;
   }
 
+  .verb-table .primary-header {
+    @apply bg-orange-800 text-white text-2xl p-1 text-left;
+  }
+
+  .verb-table .secondary-header-row th {
+    @apply text-left p-1 bg-cyan-900 text-white py-1;
+  }
+
+  .verb-table .tense-row th {
+    @apply bg-stone-300 text-black px-1;
+  }
+
   .sidebarblock .title {
     @apply font-bold;
   }

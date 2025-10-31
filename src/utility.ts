@@ -40,7 +40,7 @@ export function processAdocFileContents(contents: string, language: LanguageSele
   return outputBuffer.join("\n");
 }
 
-/** Find the root table containing the table header */
+/** Find the table row containing the table header */
 function findParentRow(element: HTMLElement) {
   let current: Nullable<HTMLElement> = element;
   while (!(current instanceof HTMLTableRowElement)) {
@@ -76,7 +76,7 @@ export function tableScan(rawAdocContent: string) {
       const toMove = table.querySelector<HTMLDivElement>("tbody .table-header, tbody .sub-header");
       if (toMove == null)
         break;
-      console.log(table);
+      // console.log(table);
       const containingRow = findParentRow(toMove);
       if (containingRow == null)
         throw new Error("missing row");

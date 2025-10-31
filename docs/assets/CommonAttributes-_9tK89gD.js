@@ -60,4 +60,9 @@ const n=`:Chapter_ga: Caibidil
 
 :NoChange_ga: Gan athrú
 :NoChange_en: No change
+
+// Abbreviations
+
+:abbrev-autonomous_ga: sb.
+:abbrev-autonomous_en: aut.
 `;export{n as default};
