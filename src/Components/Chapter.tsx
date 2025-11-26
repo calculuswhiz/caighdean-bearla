@@ -33,7 +33,6 @@ export function Chapter({ number, language = "en", onContentReady }: ChapterProp
         processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
       ].join("\n");
 
-
       const renderedContents = asciidoctor.convert(combined) as string;
       setChapterAdoc(renderedContents);
     }

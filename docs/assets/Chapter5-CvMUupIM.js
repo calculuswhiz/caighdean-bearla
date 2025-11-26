@@ -1,4 +1,4 @@
-const n=`= {Chapter} 5 | {chapterTitle}
+const t=`= {Chapter} 5 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -126,7 +126,7 @@ fágaimis
 
 === 5.2.1 {5-2-1-title}
 
-[subs=attributes]
+[subs=attributes,replacements]
 ++++
 <table class="verb-table w-full">
   <caption>
@@ -196,10 +196,10 @@ fágaimis
               <td>molfaidh siad</td>
             </tr>
             <tr>
-              <td>{abbrev-autonomous} moltar</td>
-              <td>{abbrev-autonomous} moladh</td>
-              <td>{abbrev-autonomous} mholtaí</td>
-              <td>{abbrev-autonomous} molfar</td>
+              <td><em>{abbrev-autonomous}</em> moltar</td>
+              <td><em>{abbrev-autonomous}</em> moladh</td>
+              <td><em>{abbrev-autonomous}</em> mholtaí</td>
+              <td><em>{abbrev-autonomous}</em> molfar</td>
             </tr>
           </tbody>
         </table>
@@ -209,17 +209,15 @@ fágaimis
       <td>
         <table class="w-full">
           <colgroup>
-            <col class="w-[25%]" />
-            <col class="w-[25%]" />
-            <col class="w-[25%]" />
-            <col class="w-[25%]" />
+            <col class="w-[33%]" />
+            <col class="w-[33%]" />
+            <col class="w-[33%]" />
           </colgroup>
           <thead>
             <tr class="secondary-header-row">
               <th>{ConditionalMood}</th>
               <th>{PresentSubjunctiveMood}</th>
               <th>{ImperativeMood}</th>
-              <th>&nbsp;</th>
             </tr>
           </thead>
           <tbody>
@@ -254,9 +252,9 @@ fágaimis
               <td>molaidís</td>
             </tr>
             <tr>
-              <td>{abbrev-autonomous} mholfaí</td>
-              <td>{abbrev-autonomous} go moltar</td>
-              <td>{abbrev-autonomous} moltar</td>
+              <td><em>{abbrev-autonomous}</em> mholfaí</td>
+              <td><em>{abbrev-autonomous}</em> go moltar</td>
+              <td><em>{abbrev-autonomous}</em> moltar</td>
             </tr>
           </tbody>
         </table>
@@ -266,8 +264,7 @@ fágaimis
       <td>
         <table class="w-full">
            <colgroup>
-            <col class="w-[25%]" />
-            <col class="w-[25%]" />
+            <col class="w-[50%]" />
             <col class="w-[50%]" />
           </colgroup>
           <thead>
@@ -287,4 +284,104 @@ fágaimis
     </tr>
   </tbody>
 </table>
-++++`;export{n as default};
+++++
+
+[subs=attributes,replacements]
+++++
+<table class="verb-table w-full">
+  <caption>
+    <strong>{Table} 5C</strong> {Table5C-caption}
+  </caption>
+  <tbody>
+    <tr>
+      <th class="primary-header">Bris</th>
+    </tr>
+    <tr>
+      <td>
+        <table class="w-full">
+          <colgroup>
+            <col class="w-[25%]" />
+            <col class="w-[25%]" />
+            <col class="w-[25%]" />
+            <col class="w-[25%]" />
+          </colgroup>
+          <thead>
+            <tr class="secondary-header-row">
+              <th colspan=4>
+                {IndicativeMood}
+              </th>
+            </tr>
+            <tr class="tense-row">
+              <th>{PresentTense}</th>
+              <th>{PastTense}</th>
+              <th>{PastHabitualTense}</th>
+              <th>{FutureTense}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>brisim</td><td>bhris mé</td><td>bhrisinn</td><td>brisfidh mé</td></tr>
+            <tr><td>briseann tú</td><td>bhris tú</td><td>bhristeá</td><td>brisfidh tú</td></tr>
+            <tr><td>briseann sé/sí</td><td>bhris sé/sí</td><td>bhriseadh sé/sí</td><td>brisfidh sé/sí</td></tr>
+            <tr><td>brisimid</td><td>bhriseamar</td><td>bhrisimis</td><td>brisfimid</td></tr>
+            <tr><td>briseann sibh</td><td>bhris sibh</td><td>bhriseadh sibh</td><td>brisfidh sibh</td></tr>
+            <tr><td>briseann siad</td><td>bhris siad</td><td>bhrisidís</td><td>brisfidh siad</td></tr>
+            <tr><td><em>{abbrev-autonomous}</em> bristear</td><td><em>{abbrev-autonomous}</em> briseadh</td><td><em>{abbrev-autonomous}</em> bhristí</td><td><em>{abbrev-autonomous}</em> brisfear</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table class="w-full">
+          <colgroup>
+            <col class="w-[33%]" />
+            <col class="w-[33%]" />
+            <col class="w-[33%]" />
+          </colgroup>
+          <thead>
+            <tr class="secondary-header-row">
+              <th>{ConditionalMood}</th>
+              <th>{PresentSubjunctiveMood}</th>
+              <th>{ImperativeMood}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td>bhrisfinn</td><td>go mbrise mé</td><td>brisim</td></tr>
+            <tr><td>bhrisfeá</td><td>go mbrise tú</td><td>bris</td></tr>
+            <tr><td>bhrisfeadh sé/sí</td><td>go mbrise sé/sí</td><td>briseadh sé/sí</td></tr>
+            <tr><td>bhrisfimis</td><td>go mbrisimid</td><td>brisimis</td></tr>
+            <tr><td>bhrisfeadh sibh</td><td>go mbrise sibh</td><td>brisigí</td></tr>
+            <tr><td>bhrisfidís</td><td>go mbrise siad</td><td>brisidís</td></tr>
+            <tr><td><em>{abbrev-autonomous}</em> bhrisfí</td><td><em>{abbrev-autonomous}</em> go mbristear</td><td><em>{abbrev-autonomous}</em> bristear</td></tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table class="w-full">
+           <colgroup>
+            <col class="w-[50%]" />
+            <col class="w-[50%]" />
+          </colgroup>
+          <thead>
+            <tr class="secondary-header-row">
+              <th>{VerbalNoun}</th>
+              <th>{VerbalAdjective}</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>briseadh</td>
+              <td>briste</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+*{Note}*: {Table5C-Note}
+`;export{t as default};

@@ -33,6 +33,10 @@
 :VerbalAdjective_ga: An Aidiacht Bhriathartha
 :VerbalAdjective_en: The Verbal Adjective
 
+// Verb table attribute processing, json packed. Use single quotes for the attribute
+:nopass-verb-table-attribs_ga: { "table": "{Table}", "indicativeMood": "{IndicativeMood}", "presentTense": "{PresentTense}", "pastTense": "{PastTense}", "pastHabitualTense": "{PastHabitualTense}", "futureTense": "{FutureTense}", "conditionalMood": "{ConditionalMood}", "presentSubjunctiveMood": "{PresentSubjunctiveMood}", "imperativeMood": "{ImperativeMood}", "verbalNoun": "{VerbalNoun}", "verbalAdjective": "{VerbalAdjective}" }
+:nopass-verb-table-attribs_en: { "table": "{Table}", "indicativeMood": "{IndicativeMood}", "presentTense": "{PresentTense}", "pastTense": "{PastTense}", "pastHabitualTense": "{PastHabitualTense}", "futureTense": "{FutureTense}", "conditionalMood": "{ConditionalMood}", "presentSubjunctiveMood": "{PresentSubjunctiveMood}", "imperativeMood": "{ImperativeMood}", "verbalNoun": "{VerbalNoun}", "verbalAdjective": "{VerbalAdjective}" }
+
 // Normal chapter stuff
 
 :chapterTitle_ga: An Briathar
@@ -152,11 +156,12 @@
 :5-2-1-title_ga: Briathra ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan seachas _-gh_
 :5-2-1-title_en: Verbs from monosyllabic roots ending in a consonant other than _-gh_
 
-:Table5B-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _mol_
-:Table5B-caption_en: The First Conjugation -- Conjugation of the Verb _mol_
+// Em-dash substitution doesn't work after attribute sub
+:Table5B-caption_ga: An Chéad Réimniú &#8212; Réimniú an Bhriathair _mol_
+:Table5B-caption_en: The First Conjugation &#8212; Conjugation of the Verb _mol_
 
-:Table5C-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _bris_
-:Table5C-caption_en: The First Conjugation -- Conjugation of the Verb _bris_
+:Table5C-caption_ga: An Chéad Réimniú &#8212; Réimniú an Bhriathair _bris_
+:Table5C-caption_en: The First Conjugation &#8212; Conjugation of the Verb _bris_
 
 :Table5C-Note_ga: Séimhítear an briathar neamhspleách rialta sa mhodh táscach, aimsir chaite (seachas an saorbhriathar) agus aimsir ghnáthchaite, agus sa mhodh coinníollach. Tá tuilleadh eolais in 10.4 faoi na cásanna eile ina séimhítear an briathar spleách agus neamhspleách agus pléitear na cásanna ina n-uraítear an briathar in 10.8.
 :Table5C-Note_en: The independent verb is lenited in the indicative mood, past tense (other than the autonomous verb) and past habitual tense, and in the conditional mood. There is more information in 10.4 about the other cases in which the dependent and independent verb is lenited and the cases in which the verb is eclipsed are discussed in 10.8.
