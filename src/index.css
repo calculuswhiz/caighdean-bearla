@@ -29,7 +29,7 @@
 
   th,
   td {
-    @apply border-2 border-white;
+    @apply border-2 border-white p-1;
   }
 
   td {

@@ -35,6 +35,9 @@ This is still a work in progress, and we will have to revisit chapters 1 and 2 f
 - If a table has multiple sub-tables (e.g. 2A), it shall be grouped as one table. The tables will both be contained in the `tbody`, including the header
 - Do not use the auto-header. It simply does not handle enough cases to be useful consistently. Instead, the add the class `.table-header` to one of the header cells for a primary header, and `.sub-header` to the secondary headers. More may be added later. In any case, a utility script will extract these at runtime and place them in the `thead`, where they belong.
 
+Update 26 Nov 25:
+- Asciidoc is incapable of rendering any of the more complex tables without significant infrastructure programming. Just use injected HTML in passthrough blocks if it becomes too cumbersome.
+
 ## Tech stack
 
 For those interested, the following base will be used:

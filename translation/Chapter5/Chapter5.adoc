@@ -384,3 +384,204 @@ fágaimis
 ++++
 
 *{Note}*: {Table5C-Note}
+
+[list-[lower-alpha]]
+. {5-2-1-a-p}
+. {5-2-1-b-p}
++
+[subs=attributes,replacements]
+++++
+<table class="chapter-5">
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">{5-2-1-b-Table-col1}</th>
+      <th colspan="2">{5-2-1-b-Table-col2}</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>-t(h) + t-</th>
+      <th>-t-</th>
+      <th>-t(h) + t-</th>
+      <th>-t-</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="font-bold" rowspan="2">{PresentTense}</td>
+      <td>at + tar</td>
+      <td>atar</td>
+      <td>loit + tear</td>
+      <td>loitear</td>
+    </tr>
+    <tr>
+      <td>leath + tar</td>
+      <td>leatar</td>
+      <td>caith + tear</td>
+      <td>caitear</td>
+    </tr>
+    <tr>
+      <td class="font-bold" rowspan="2">{PastHabitualTense}</td>
+      <td>d'at + taí</td>
+      <td>d'at + taí</td>
+      <td>loit + tí</td>
+      <td>loití</td>
+    </tr>
+    <tr>
+      <td>leath + taí</td>
+      <td>leataí</td>
+      <td>caith + tí</td>
+      <td>chaití</td>
+    </tr>
+    <tr>
+      <td class="font-bold" rowspan="2">{VerbalAdjective}</td>
+      <td>at + ta</td>
+      <td>ata</td>
+      <td>loit + te</td>
+      <td>loite</td>
+    </tr>
+    <tr>
+      <td>leath + ta</td>
+      <td>leata</td>
+      <td>caith + te</td>
+      <td>caite</td>
+    </tr>
+  </tbody>
+</table>
+++++
++
+. {5-2-1-c-p}
++
+[subs=attributes,replacements]
+++++
+<table class="chapter-5">
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">{5-2-1-c-Table-col1}</th>
+      <th colspan="2">{5-2-1-c-Table-col2}</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>-bh + th-</th>
+      <th>-f-</th>
+      <th>-mh + th-</th>
+      <th>-f-</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="font-bold" rowspan="2">{VerbalNoun}</td>
+      <td>gabh + tha</td>
+      <td>gafa</td>
+      <td>ríomh + tha</td>
+      <td>ríofa</td>
+    </tr>
+    <tr>
+      <td>scríobh + tha</td>
+      <td>scríofa</td>
+      <td>promh + tha</td>
+      <td>profa</td>
+    </tr>
+  </tbody>
+</table>
+++++
++
+. {5-2-1-d-p}
++
+[subs=attributes,replacements]
+++++
+<table class="chapter-5">
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">{5-2-1-b-Table-col1}</th>
+      <th colspan="2">{5-2-1-b-Table-col2}</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>-t(h) + t-</th>
+      <th>-t-</th>
+      <th>-t(h) + t-</th>
+      <th>-t-</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="font-bold" rowspan="2">{PresentTense}</td>
+      <td>at + tar</td>
+      <td>atar</td>
+      <td>loit + tear</td>
+      <td>loitear</td>
+    </tr>
+    <tr>
+      <td>leath + tar</td>
+      <td>leatar</td>
+      <td>caith + tear</td>
+      <td>caitear</td>
+    </tr>
+    <tr>
+      <td class="font-bold" rowspan="2">{PastHabitualTense}</td>
+      <td>d'at + taí</td>
+      <td>d'at + taí</td>
+      <td>loit + tí</td>
+      <td>loití</td>
+    </tr>
+    <tr>
+      <td>leath + taí</td>
+      <td>leataí</td>
+      <td>caith + tí</td>
+      <td>chaití</td>
+    </tr>
+    <tr>
+      <td class="font-bold" rowspan="2">{VerbalAdjective}</td>
+      <td>at + ta</td>
+      <td>ata</td>
+      <td>loit + te</td>
+      <td>loite</td>
+    </tr>
+    <tr>
+      <td>leath + ta</td>
+      <td>leata</td>
+      <td>caith + te</td>
+      <td>caite</td>
+    </tr>
+  </tbody>
+</table>
+++++
++
+. {5-2-1-c-p}
++
+[subs=attributes,replacements]
+++++
+<table class="chapter-5">
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">{5-2-1-d-Table-col1}</th>
+      <th colspan="2">{5-2-1-d-Table-col2}</th>
+      <th colspan="2">{5-2-1-d-Table-col3}</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>-bh + f-</th>
+      <th>-bhf-</th>
+      <th>-mh + f-</th>
+      <th>-mhf-</th>
+      <th>-th + f-</th>
+      <th>-thf-</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="font-bold">{ConditionalMood}</td>
+      <td>scríobh + fá</td>
+      <td>scríobhfá</td>
+      <td>ríomh + fá</td>
+      <td>ríomhfá</td>
+      <td>chaith + fí</td>
+      <td>chaithfí</td>
+    </tr>
+  </tbody>
+</table>
+++++
