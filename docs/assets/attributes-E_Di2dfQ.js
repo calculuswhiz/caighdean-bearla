@@ -205,23 +205,20 @@ const a=`// Tenses and Moods
 :5-2-2-title_ga: Briathra ó Fhréamhacha Ilsiollacha
 :5-2-2-title_en: Verbs from Polysyllabic Roots
 
-:Table5D-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _sábháil_
-:Table5D-caption_en: The First Conjugation -- Conjugation of the Verb _sábháil_
+:Table5D-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _sábháil_
+:Table5D-caption_en: The First Conjugation — Conjugation of the Verb _sábháil_
 
 :Table5D-note_ga: Maidir le briathra a chríochnaíonn ar _-áil_, tabhair faoi deara go mbíonn na leaganacha le _-t-_ caol, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, ach go mbíonn na leaganacha le _-f-_ leathan, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
 :Table5D-note_en: As for verbs ending in _-áil_, note that these forms with _-t-_ are narrow, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, but the forms with _-f-_ are broad, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
 
-:Table5E_ga: An Chéad Réimniú -- Réimniú an Bhriathair _tíolaic_
-:Table5E_en: The First Conjugation -- Conjugation of the Verb _tíolaic_
+:Table5E-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _tíolaic_
+:Table5E-caption_en: The First Conjugation — Conjugation of the Verb _tíolaic_
 
 :5-2-2-tables-col1_ga: An Fhréamh
 :5-2-2-tables-col1_en: The Root
 
-:5-2-2-tables-col2_ga: An Chéad Phearsa Uatha \\ +
-An Aimsir Láithreach
-
-:5-2-2-tables-col2_en: The First Person Singular \\ +
-The Present Tense
+:5-2-2-tables-col2_ga: An Chéad Phearsa Uatha <br /> An Aimsir Láithreach
+:5-2-2-tables-col2_en: The First Person Singular <br /> The Present Tense
 
 :5-2-2-tables-col3_ga: An tAinm Briathartha
 :5-2-2-tables-col3_en: The Verbal Noun
@@ -256,11 +253,11 @@ The Present Tense
 :Table5G-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _dóigh_
 :Table5G-caption_en: The First Conjugation -- Conjugation of the Verb _dóigh_
 
-:5-2-3-a-p_ga: Briathra a réimnítear ar nós _cráigh_, _dóigh_:
-:5-2-3-a-p_en: Verbs conjugated like _cráigh_, _dóigh_:
+:5-2-3-A-a-p_ga: Briathra a réimnítear ar nós _cráigh_, _dóigh_:
+:5-2-3-A-a-p_en: Verbs conjugated like _cráigh_, _dóigh_:
 
-:5-2-3-b-p_ga: Briathra a bhfuil ainm briathartha ar leith acu:
-:5-2-3-b-p_en: Verbs with a specific verbal noun:
+:5-2-3-A-b-p_ga: Briathra a bhfuil ainm briathartha ar leith acu:
+:5-2-3-A-b-p_en: Verbs with a specific verbal noun:
 
 :5-2-3-B-p_ga: I gcás briathra a bhfuil guta gearr sa fhréamh iontu, fágtar an guta gan fadú roimh _-t_, e.g., _nitear_, _niteá_, _nite_, ach _ním_, _níodh_, _nífí_, etc. Is guta fada, áfach, a bhíonn ag _léigh_ etc. síos tríd, e.g., _léitear_, _léiteá_, _léite_.
 :5-2-3-B-p_en: When verbs have a short vowel in the root, the vowel is left unlengthened before _-t_, e.g., _nitear_, _niteá_, _nite_, ach _ním_, _níodh_, _nífí_, etc. However, _léigh_ etc. have long vowels throughout, e.g., _léitear_, _léiteá_, _léite_.
@@ -271,14 +268,14 @@ The Present Tense
 :Table5I-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _nigh_
 :Table5I-caption_en: The First Conjugation -- Conjugation of the Verb _nigh_
 
-:5-2-3-a-p_ga: Briathra a réimnítear ar nós _léigh_:
-:5-2-3-a-p_en: Verbs conjugated like _léigh_:
+:5-2-3-B-a-p_ga: Briathra a réimnítear ar nós _léigh_:
+:5-2-3-B-a-p_en: Verbs conjugated like _léigh_:
 
-:5-2-3-b-p_ga: Briathra a réimnítear ar nós _nigh_:
-:5-2-3-b-p_en: Verbs conjugated like _nigh_:
+:5-2-3-B-b-p_ga: Briathra a réimnítear ar nós _nigh_:
+:5-2-3-B-b-p_en: Verbs conjugated like _nigh_:
 
-:5-2-3-c-p_ga: Briathra a bhfuil ainm briathartha ar leith acu:
-:5-2-3-c-p_en: Verbs with a specific verbal noun:
+:5-2-3-B-c-p_ga: Briathra a bhfuil ainm briathartha ar leith acu:
+:5-2-3-B-c-p_en: Verbs with a specific verbal noun:
 
 :5-3-title_ga: An Dara Réimniú
 :5-3-title_en: The Second Conjugation

@@ -3,7 +3,7 @@ import { readFile } from 'fs/promises';
 const pronouns = ["mé", "tú", "sé/sí", "sibh", "siad"];
 
 try {
-    const filePath = 'scripts/temp.txt'; // Replace with your file path
+    const filePath = 'scripts/temp.txt';
     const fileContent = await readFile(filePath, 'utf8');
     const lines = fileContent.split("\n");
 

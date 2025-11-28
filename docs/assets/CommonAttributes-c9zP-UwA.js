@@ -61,6 +61,9 @@ const n=`:Chapter_ga: Caibidil
 :NoChange_ga: Gan athrú
 :NoChange_en: No change
 
+:meaning_ga: sa bhrí
+:meaning_en: meaning
+
 // Abbreviations
 
 :abbrev-autonomous_ga: sb.

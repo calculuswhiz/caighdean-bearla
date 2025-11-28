@@ -1,4 +1,4 @@
-= {Chapter} 5 | {chapterTitle}
+const t=`= {Chapter} 5 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -1389,3 +1389,4 @@ fágaimis
 
 == 5.3 {5-3-title}
 
+`;export{t as default};

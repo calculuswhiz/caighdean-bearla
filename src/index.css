@@ -57,6 +57,13 @@
     @apply font-bold text-center;
   }
 
+  /* Asciidoctor hacks */
+
+  /* CSS application on refresh is inconsistent. */
+  .upperalpha {
+    @apply list-[upper-alpha];
+  }
+
   /* Chapter 1 */
 
   .chapter-1.table-stack > tbody > tr:nth-child(odd) th,
