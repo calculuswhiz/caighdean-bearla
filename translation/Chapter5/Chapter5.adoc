@@ -3318,3 +3318,62 @@ fágaimis
 |{Table5Z-trait-10} | marcaíocht, ráthaíocht, tóraíocht
 |{Table5Z-trait-11} | damhsa, dúchan, eisiúint, insint, tiúchan
 |===
+
+---
+
+== 5.6 {5-6-title}
+
+=== 5.6.1 {5-6-1-title}
+
+[list-[lower-alpha]]
+. {5-6-1-a-p}
++
+.*{Table} 5AA*  {Table5AA-caption}
+[.chapter-5]
+|===
+|{Table5Y-col1} |{Table5AA-col2} |{Table5AA-col3}
+
+|{Table5AA-trait1} | bearradh +
+cáineadh +
+folcadh +
+moladh | scian bhearrtha +
+rún cáinte +
+dabhach folctha +
+dán molta
+|{Table5AA-trait2} | cló +
+reo +
+sú
+| leabhar clóite +
+uachtar reoite +
+páipéar súite
+|{Table5AA-trait3} | cónaí +
+éalú +
+ionsaí
+| áit chónaithe +
+bealach éalaithe +
+lucht ionsaithe
+|{Table5AA-trait4} | cuimilt +
+cosaint +
+labhairt
+| barr cuimilte +
+gléas cosanta +
+deis labhartha
+|{Table5AA-trait5} | coimeád +
+léamh +
+scríobh
+| fear coimeádta +
+lucht léite +
+an focal scríofa
+|{Table5AA-trait6} | bruith +
+druidim
+| práta bruite +
+dorn druidte
+|===
++
+*{Note}*: {Table5AA-Note}
++
+. {5-6-1-b-p}
+[list-[lower-roman]]
+.. {5-6-1-b-i-p}
++
+**Under construction**
