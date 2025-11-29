@@ -1,4 +1,4 @@
-= {Chapter} 5 | {chapterTitle}
+const t=`= {Chapter} 5 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -3318,3 +3318,4 @@ fágaimis
 |{Table5Z-trait-10} | marcaíocht, ráthaíocht, tóraíocht
 |{Table5Z-trait-11} | damhsa, dúchan, eisiúint, insint, tiúchan
 |===
+`;export{t as default};

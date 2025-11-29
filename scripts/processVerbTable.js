@@ -1,6 +1,8 @@
 import { readFile } from 'fs/promises';
 
 const pronouns = ["mé", "tú", "sé/sí", "sibh", "siad"];
+const indentLevel = 12;
+const indentation = ' '.repeat(indentLevel);
 
 try {
     const filePath = 'scripts/temp.txt';
@@ -24,17 +26,26 @@ try {
             }
             rowHtml.push(dataHtml.map(d => `<td>${d}</td>`).join(""));
         }
-        console.log(rowHtml.map(x => `<tr>${x}</tr>`).join("\n"));
+        console.log(rowHtml.map(x => `${indentation}<tr>${x}</tr>`).join("\n"));
     } else {
         const rowHtml = [];
+        const specials = {
+            noun: null,
+            adj: null
+        };
         for (const [lineIdx, line] of lines.entries()) {
             /** Each entry is a td */
             const dataHtml = [];
             for (const [wordIdx, word] of line.split(' ').entries()) {
-                if (word === "An"
-                    || (lineIdx === 1 && wordIdx > 4)
-                    || (lineIdx === 4 && wordIdx > 5))
+                if (word === "An")
                     break;
+                else if (lineIdx === 1 && wordIdx === 5) {
+                    specials.noun = word;
+                    break;
+                } else if (lineIdx === 4 && wordIdx === 6) {
+                    specials.adj = word;
+                    break;
+                }
 
                 if (word === 'sb.')
                     dataHtml.push("<em>{abbrev-autonomous}</em>");
@@ -51,7 +62,10 @@ try {
             }
             rowHtml.push(dataHtml.map(d => `<td>${d}</td>`).join(""));
         }
-        console.log(rowHtml.map(x => `<tr>${x}</tr>`).join("\n"));
+        console.log(rowHtml.map(x => `${indentation}<tr>${x}</tr>`).join("\n"));
+        console.log("-----");
+        console.log(`${indentation}  <td>${specials.noun}</td>`);
+        console.log(`${indentation}  <td>${specials.adj}</td>`);
     }
 } catch (error) {
     console.error('Error reading file:', error.message);

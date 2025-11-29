@@ -3,6 +3,9 @@ const a=`// Tenses and Moods
 :PresentTense_ga: An Aimsir Láithreach
 :PresentTense_en: The Present Tense
 
+:OrdinaryPresentTense_ga: An Aimsir Ghnáthláithreach
+:OrdinaryPresentTense_en: The Present Habitual Tense
+
 :PastTense_ga: An Aimsir Chaite
 :PastTense_en: The Past Tense
 
@@ -127,7 +130,7 @@ const a=`// Tenses and Moods
 :5-1-9-title_en: Verb Tense for _má_ and _nuair_
 
 :5-1-9-p_ga: Is í an aimsir ghnáthláithreach a leanann _má_ chun coinníoll sa todhchaí a chur in iúl, e.g., _Déanfaidh mé um thráthnóna é má bhíonn deis agam_. Is í an aimsir fháistineach a leanann _nuair_ má táthar ag trácht ar rud atá le tarlú amach anseo, e.g., _Glan é nuair a thiocfaidh tú isteach amárach_.
-:5-1-9-p_en: The ordinary present tense is followed by _má_ to express a future condition, e.g., _Déanfaidh mé um thráthnóna é má bhíonn deis agam_. The future tense is what follows _nuair_ if it is something that will be happening in the future, e.g., _Glan é nuair a thiocfaidh tú isteach amárach_.
+:5-1-9-p_en: The present habitual tense is followed by _má_ to express a future condition, e.g., _Déanfaidh mé um thráthnóna é má bhíonn deis agam_. The future tense is what follows _nuair_ if it is something that will be happening in the future, e.g., _Glan é nuair a thiocfaidh tú isteach amárach_.
 
 :5-1-10-title_ga: _Muid_
 :5-1-10-title_en: _Muid_
@@ -244,14 +247,14 @@ const a=`// Tenses and Moods
 :5-2-3-title_ga: Briathra ó fhréamhacha aonsiollacha a chríochnaíonn ar _-gh_
 :5-2-3-title_en: Verbs from monosyllabic roots ending in _-gh_
 
-:Table5F-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _cráigh_
-:Table5F-caption_en: The First Conjugation -- Conjugation of the Verb _cráigh_
+:Table5F-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _cráigh_
+:Table5F-caption_en: The First Conjugation — Conjugation of the Verb _cráigh_
 
 :Table5F-note_ga: Maidir le briathra a réimnítear ar nós _cráigh_ agus _dóigh_, tabhair faoi deara go mbíonn na leaganacha le _-t-_ caol, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, ach go mbíonn na leaganacha le _-f-_ leathan, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
 :Table5F-note_en: For verbs that are conjugated like _cráigh_ and _dóigh_, note that the forms with _-t-_ are narrow, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, but the forms with _-f-_ are broad, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
 
-:Table5G-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _dóigh_
-:Table5G-caption_en: The First Conjugation -- Conjugation of the Verb _dóigh_
+:Table5G-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _dóigh_
+:Table5G-caption_en: The First Conjugation — Conjugation of the Verb _dóigh_
 
 :5-2-3-A-a-p_ga: Briathra a réimnítear ar nós _cráigh_, _dóigh_:
 :5-2-3-A-a-p_en: Verbs conjugated like _cráigh_, _dóigh_:
@@ -262,11 +265,11 @@ const a=`// Tenses and Moods
 :5-2-3-B-p_ga: I gcás briathra a bhfuil guta gearr sa fhréamh iontu, fágtar an guta gan fadú roimh _-t_, e.g., _nitear_, _niteá_, _nite_, ach _ním_, _níodh_, _nífí_, etc. Is guta fada, áfach, a bhíonn ag _léigh_ etc. síos tríd, e.g., _léitear_, _léiteá_, _léite_.
 :5-2-3-B-p_en: When verbs have a short vowel in the root, the vowel is left unlengthened before _-t_, e.g., _nitear_, _niteá_, _nite_, ach _ním_, _níodh_, _nífí_, etc. However, _léigh_ etc. have long vowels throughout, e.g., _léitear_, _léiteá_, _léite_.
 
-:Table5H-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _léigh_
-:Table5H-caption_en: The First Conjugation -- Conjugation of the Verb _léigh_
+:Table5H-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _léigh_
+:Table5H-caption_en: The First Conjugation — Conjugation of the Verb _léigh_
 
-:Table5I-caption_ga: An Chéad Réimniú -- Réimniú an Bhriathair _nigh_
-:Table5I-caption_en: The First Conjugation -- Conjugation of the Verb _nigh_
+:Table5I-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _nigh_
+:Table5I-caption_en: The First Conjugation — Conjugation of the Verb _nigh_
 
 :5-2-3-B-a-p_ga: Briathra a réimnítear ar nós _léigh_:
 :5-2-3-B-a-p_en: Verbs conjugated like _léigh_:
@@ -283,11 +286,11 @@ const a=`// Tenses and Moods
 :5-3-1-title_ga: Briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-(a)igh_
 :5-3-1-title_en: Verbs from polysyllabic roots ending in _-(a)igh_
 
-:Table5J-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _beannaigh_
-:Table5J-caption_en: The Second Conjugation -- Conjugation of the Verb _beannaigh_
+:Table5J-caption_ga: An Dara Réimniú — Réimniú an Bhriathair _beannaigh_
+:Table5J-caption_en: The Second Conjugation — Conjugation of the Verb _beannaigh_
 
-:Table5K-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _cruinnigh_
-:Table5K-caption_en: The Second Conjugation -- Conjugation of the Verb _cruinnigh_
+:Table5K-caption_ga: An Dara Réimniú — Réimniú an Bhriathair _cruinnigh_
+:Table5K-caption_en: The Second Conjugation — Conjugation of the Verb _cruinnigh_
 
 :Table5K-note_ga: Tabhair faoi deara gur ar an gcuma chéanna le _beannaigh_ a réimnítear briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-aigh_, agus gur ar an gcuma chéanna le _cruinnigh_ a réimnítear briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-igh_; ach tá eisceachtaí san ainm briathartha (féach 5.5.2) agus correisceacht san aidiacht bhriathartha, e.g., _dathaigh_, _daite_; _dlúthaigh_, _dlúite_; _táthaigh_, _táite_.
 :Table5K-note_en: Note that verbs from polysyllabic roots ending in _-aigh_ are conjugated in the same way as _beannaigh_, and that verbs from polysyllabic roots ending in _-igh_ are formed in the same way as _cruinnigh_; but there are exceptions in the verbal noun (see 5.5.2) and the verbal adjective, e.g., _dathaigh_, _daite_; _dlúthaigh_, _dlúite_; _táthaigh_, _táite_.
@@ -295,11 +298,11 @@ const a=`// Tenses and Moods
 :5-3-2-title_ga: Briathra ó fhréamhacha ilsiollacha a chríochnaíonnar _-(a)il_, _-(a)in_, _-(a)ir_, _-(a)is_ agus a choimrítear sa réimniú
 :5-3-2-title_en: Verbs from polysyllabic roots ending in _-(a)il_, _-(a)in_, _-(a)ir_, _-(a)is_ and syncopated in the conjugation
 
-:Table5L-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _ceangail_
-:Table5L-caption_en: The Second Conjugation -- Conjugation of the Verb _ceangail_
+:Table5L-caption_ga: An Dara Réimniú — Réimniú an Bhriathair _ceangail_
+:Table5L-caption_en: The Second Conjugation — Conjugation of the Verb _ceangail_
 
-:Table5M-caption_ga: An Dara Réimniú -- Réimniú an Bhriathair _díbir_
-:Table5M-caption_en: The Second Conjugation -- Conjugation of the Verb _díbir_
+:Table5M-caption_ga: An Dara Réimniú — Réimniú an Bhriathair _díbir_
+:Table5M-caption_en: The Second Conjugation — Conjugation of the Verb _díbir_
 
 :5-3-2-a-p_ga: Briathra a réimnítear ar nós _ceangail_:
 :5-3-2-a-p_en: Verbs conjugated like _ceangail_:
@@ -326,7 +329,7 @@ const a=`// Tenses and Moods
 :5-4-2-p_en: The irregular verbs do not keep the same root throughout their formation and some of them have separate forms in the dependent form.
 
 :5-4-3-p_ga: Is ionann fréamh an bhriathair san aimsir ghnáthláithreach agus san aimsir ghnáthchaite sna briathra neamhrialta go léir, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Seachas i gcás an bhriathair _bí_, bíonn an fhréamh chéanna leis an modh foshuiteach láithreach freisin, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
-:5-4-3-p_en: The root of the verb in the present and past tenses is the same in all irregular verbs, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Except in the case of the verb _bí_, the present subjunctive also has the same root, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
+:5-4-3-p_en: The root of the verb in the present habitual and past habitual tenses is the same in all irregular verbs, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Except in the case of the verb _bí_, the present subjunctive also has the same root, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
 
 :5-4-4-p_ga: Is ionann fréamh an bhriathair san aimsir fháistineach agus sa mhodh coinníollach sna briathra neamhrialta go léir, e.g., _déarfaidh mé_, _déarfainn_; _déanfaidh tú_, _dhéanfá_; _tabharfaidh siad_, _thabharfaidís_.
 :5-4-4-p_en: The root of the verb in the future tense and the conditional mood is the same in all irregular verbs, e.g., _déarfaidh mé_, _déarfainn_; _déanfaidh tú_, _dhéanfá_; _tabharfaidh siad_, _thabharfaidís_.
@@ -374,22 +377,22 @@ const a=`// Tenses and Moods
 :5-4-5-SampleBox2-5_en: He *did not get* the money yet.
 
 :5-4-5-b-p_ga: Ní shéimhítear an briathar _abair_ in aon chás, e.g., _ní deirim_ (_deirimis_, _dúirt sé_, _déarfainn_), _má deir tú_ (_deiridís_), _na rudaí a déarfaidh_ (_a déarfadh_) _sé_.
-:5-4-5-b-p_en: The verb _abair_ is not lenited in any case, e.g., _ní deirim_ (_deirimis_, _dúirt sé_, _déarfainn_), _má deir tú_ (_deiridís_), _na rudaí a déarfaidh_ (_a déarfadh_) _sé_.
+:5-4-5-b-p_en: The verb _abair_ is never lenited, e.g., _ní deirim_ (_deirimis_, _dúirt sé_, _déarfainn_), _má deir tú_ (_deiridís_), _na rudaí a déarfaidh_ (_a déarfadh_) _sé_.
 
 :5-4-5-c-p_ga: Táthaítear an mhír choibhneasta _a_ leis an mbriathar _bí_ san aimsir láithreach -- _atáim_, _atá_, _atáimid_, _atáthar_. Cuirtear _ná_, in ionad _nár_, roimh fhoirmeacha an mhodha fhoshuitigh de _bí_, e.g., _Ná raibh maith agat_.
 :5-4-5-c-p_en: The relative particle _a_ is combined with the verb _bí_ in the present tense -- _atáim_, _atá_, _atáimid_, _atáthar_. _ná_, instead of _nár_, is put before forms of the subjunctive mood of _bí_, e.g., _Ná raibh maith agat_.
 
-:Table5N-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _abair_
-:Table5N-caption_en: The Irregular Verbs -- Conjugation of the Verb _abair_
+:Table5N-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _abair_
+:Table5N-caption_en: The Irregular Verbs — Conjugation of the Verb _abair_
 
 :Table5N-Note_ga: Mar a luadh in 5.4.5(b), ní shéimhítear an briathar _abair_ in aon chás.
-:Table5N-Note_en: As mentioned in 5.4.5(b), the verb _abair_ is not conjugated in any case.
+:Table5N-Note_en: As mentioned in 5.4.5(b), the verb _abair_ is never lenited.
 
-:Table5O-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _beir_
-:Table5O-caption_en: The Irregular Verbs -- Conjugation of the Verb _beir_
+:Table5O-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _beir_
+:Table5O-caption_en: The Irregular Verbs — Conjugation of the Verb _beir_
 
-:Table5P-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _bí_
-:Table5P-caption_en: The Irregular Verbs -- Conjugation of the Verb _bí_
+:Table5P-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _bí_
+:Table5P-caption_en: The Irregular Verbs — Conjugation of the Verb _bí_
 
 :PositiveIndependent_ga: Neamhspleách Dearfach
 :PositiveIndependent_en: Positive Independent
@@ -406,38 +409,38 @@ const a=`// Tenses and Moods
 :Table5N-footnote_ga: _a bheith_ a bhíonn ann seachas i ndiaidh _chun_ nó réamhfhocail shimplí áirithe, e.g., _chun bheith_, _as bheith_, _gan bheith_, _le bheith_.
 :Table5N-footnote_en: _a bheith_ occurs except after _chun_ or certain simple prepositions, e.g., _chun bheith_, _as bheith_, _gan bheith_, _le bheith_.
 
-:Table5Q-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _clois/cluin_
-:Table5Q-caption_en: The Irregular Verbs -- Conjugation of the Verb _clois/cluin_
+:Table5Q-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _clois/cluin_
+:Table5Q-caption_en: The Irregular Verbs — Conjugation of the Verb _clois/cluin_
 
-:Table5R-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _déan_
-:Table5R-caption_en: The Irregular Verbs -- Conjugation of the Verb _déan_
+:Table5R-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _déan_
+:Table5R-caption_en: The Irregular Verbs — Conjugation of the Verb _déan_
 
 :Table5R-Note_ga: Tabhair faoi deara gur briathar rialta é _déan_ ach amháin san aimsir chaite agus go ndéantar an aimsir chaite a réimniú ar dhá bhealach éagsúla, mar a léirítear sa tábla thuas. Sa chéad cheann díobh sin, tá foirmeacha éagsúla spleácha agus neamhspleácha ar an mbriathar.
 :Table5R-Note_en: Note that _déan_ is a regular verb except in the past tense and that the past tense is conjugated in two different ways, as shown in the table above. In the first of these, there are different dependent and independent forms of the verb.
 
-:Table5S-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _faigh_
-:Table5S-caption_en: The Irregular Verbs -- Conjugation of the Verb _faigh_
+:Table5S-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _faigh_
+:Table5S-caption_en: The Irregular Verbs — Conjugation of the Verb _faigh_
 
-:Table5T-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _feic_
-:Table5T-caption_en: The Irregular Verbs -- Conjugation of the Verb _feic_
+:Table5T-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _feic_
+:Table5T-caption_en: The Irregular Verbs — Conjugation of the Verb _feic_
 
 :Table5T-Note_ga: Is briathar rialta é _feic_ ach amháin san aimsir chaite.
 :Table5T-Note_en: _feic_ is a regular verb except in the past tense.
 
-:Table5U-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _ith_
-:Table5U-caption_en: The Irregular Verbs -- Conjugation of the Verb _ith_
+:Table5U-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _ith_
+:Table5U-caption_en: The Irregular Verbs — Conjugation of the Verb _ith_
 
 :Table5U-note_ga: Is briathar rialta é _ith_ ach amháin san aimsir fháistineach agus sa mhodh coinníollach.
 :Table5U-note_en: _ith_ is a regular verb except in the future tense and the conditional mood.
 
-:Table5V-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _tabhair_
-:Table5V-caption_en: The Irregular Verbs -- Conjugation of the Verb _tabhair_
+:Table5V-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _tabhair_
+:Table5V-caption_en: The Irregular Verbs — Conjugation of the Verb _tabhair_
 
-:Table5W-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _tar_
-:Table5W-caption_en: The Irregular Verbs -- Conjugation of the Verb _tar_
+:Table5W-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _tar_
+:Table5W-caption_en: The Irregular Verbs — Conjugation of the Verb _tar_
 
-:Table5X-caption_ga: Na Briathra Neamhrialta -- Réimniú an Bhriathair _téigh_
-:Table5X-caption_en: The Irregular Verbs -- Conjugation of the Verb _téigh_
+:Table5X-caption_ga: Na Briathra Neamhrialta — Réimniú an Bhriathair _téigh_
+:Table5X-caption_en: The Irregular Verbs — Conjugation of the Verb _téigh_
 
 :5-5-title_ga: An tAinm Briathartha
 :5-5-title_en: The Verbal Noun
@@ -448,8 +451,8 @@ const a=`// Tenses and Moods
 :5-5-1-p_ga: Sa tábla thíos, taispeántar na cineálacha éagsúla ainmneacha briathartha atá sa chéad réimniú.
 :5-5-1-p_en: In the table below, the different types of verbal nouns in the first conjugation are shown.
 
-:Table5Y-caption_ga: Ainmneacha Briathartha -- An Chéad Réimniú
-:Table5Y-caption_en: Verbal Nouns -- The First Conjugation
+:Table5Y-caption_ga: Ainmneacha Briathartha — An Chéad Réimniú
+:Table5Y-caption_en: Verbal Nouns — The First Conjugation
 
 :Table5Y-col1_ga: Tréith
 :Table5Y-col1_en: Trait
@@ -457,47 +460,47 @@ const a=`// Tenses and Moods
 :Table5Y-col2_ga: Samplaí
 :Table5Y-col2_en: Examples
 
-:Tabel5Y-trait1_ga: An deireadh _-(e)adh_
-:Tabel5Y-trait1_en: The ending _-(e)adh_
+:Table5Y-trait1_ga: An deireadh _-(e)adh_
+:Table5Y-trait1_en: The ending _-(e)adh_
 
-:Tabel5Y-trait2_ga: Leathnú ar an bhfréamh agus an deireadh _-adh_
-:Tabel5Y-trait2_en: Broadening of the root and the ending _-adh_
+:Table5Y-trait2_ga: Leathnú ar an bhfréamh agus an deireadh _-adh_
+:Table5Y-trait2_en: Broadening of the root and the ending _-adh_
 
-:Tabel5Y-trait3_ga: Leathnú ar an bhfréamh
-:Tabel5Y-trait3_en: Broadening of the root
+:Table5Y-trait3_ga: Leathnú ar an bhfréamh
+:Table5Y-trait3_en: Broadening of the root
 
-:Tabel5Y-trait4_ga: Ionann is an fhréamh
-:Tabel5Y-trait4_en: Same as the root
+:Table5Y-trait4_ga: Ionann is an fhréamh
+:Table5Y-trait4_en: Same as the root
 
-:Tabel5Y-trait5_ga: An deireadh _-áil_
-:Tabel5Y-trait5_en: The ending _-áil_
+:Table5Y-trait5_ga: An deireadh _-áil_
+:Table5Y-trait5_en: The ending _-áil_
 
-:Tabel5Y-trait6_ga: _-t_ a chur leis an bhfréamh
-:Tabel5Y-trait6_en: _-t_ added to the root
+:Table5Y-trait6_ga: _-t_ a chur leis an bhfréamh
+:Table5Y-trait6_en: _-t_ added to the root
 
-:Tabel5Y-trait7_ga: An deireadh _-(e)amh_
-:Tabel5Y-trait7_en: The ending _-(e)amh_
+:Table5Y-trait7_ga: An deireadh _-(e)amh_
+:Table5Y-trait7_en: The ending _-(e)amh_
 
-:Tabel5Y-trait8_ga: An deireadh _-(e)an_
-:Tabel5Y-trait8_en: The ending _-(e)an_
+:Table5Y-trait8_ga: An deireadh _-(e)an_
+:Table5Y-trait8_en: The ending _-(e)an_
 
-:Tabel5Y-trait9_ga: An deireadh _-chan_
-:Tabel5Y-trait9_en: The ending _-chan_
+:Table5Y-trait9_ga: An deireadh _-chan_
+:Table5Y-trait9_en: The ending _-chan_
 
-:Tabel5Y-trait10_ga: An deireadh _-(e)acht_
-:Tabel5Y-trait10_en: The ending _-(e)acht_
+:Table5Y-trait10_ga: An deireadh _-(e)acht_
+:Table5Y-trait10_en: The ending _-(e)acht_
 
-:Tabel5Y-trait11_ga: An deireadh _-im_
-:Tabel5Y-trait11_en: The ending _-im_
+:Table5Y-trait11_ga: An deireadh _-im_
+:Table5Y-trait11_en: The ending _-im_
 
-:Tabel5Y-trait12_ga: An deireadh _úint_
-:Tabel5Y-trait12_en: The ending _úint_
+:Table5Y-trait12_ga: An deireadh _úint_
+:Table5Y-trait12_en: The ending _úint_
 
-:Tabel5Y-trait13_ga: Guta fada nó défhoghar (fréamh a chríochnaíonn ar _igh_, _-ígh_)
-:Tabel5Y-trait13_en: Long or diphthong vowel (root ending in _igh_, _-igh_)
+:Table5Y-trait13_ga: Guta fada nó défhoghar (fréamh a chríochnaíonn ar _igh_, _-ígh_)
+:Table5Y-trait13_en: Long or diphthong vowel (root ending in _igh_, _-igh_)
 
-:Tabel5Y-trait14_ga: Ainmneacha briathartha eile
-:Tabel5Y-trait14_en: Other verbal nouns
+:Table5Y-trait14_ga: Ainmneacha briathartha eile
+:Table5Y-trait14_en: Other verbal nouns
 
 :5-5-2-title_ga: Ainmneacha Briathartha sa Dara Réimniú
 :5-5-2-title_en: Verbal Nouns in the Second Conjugation
@@ -505,8 +508,8 @@ const a=`// Tenses and Moods
 :5-5-2-p_ga: Sa tábla thíos, taispeántar na cineálacha éagsúla ainmneacha briathartha atá sa dara réimniú.
 :5-5-2-p_en: In the table below, the different types of verbal nouns in the second conjugation are shown.
 
-:Table5Z-caption_ga: Ainmneacha Briathartha -- An Dara Réimniú
-:Table5Z-caption_en: Verbal Nouns -- The Second Conjugation
+:Table5Z-caption_ga: Ainmneacha Briathartha — An Dara Réimniú
+:Table5Z-caption_en: Verbal Nouns — The Second Conjugation
 
 :Table5Z-trait-1_ga: An deireadh _-(i)ú_
 :Table5Z-trait-1_en: The ending _-(i)ú_
@@ -550,8 +553,8 @@ const a=`// Tenses and Moods
 :5-6-1-a-p_ga: Is ionann foirm de ghnáth do ghinideach an ainm bhriathartha agus don aidiacht bhriathartha sna cásanna a léirítear sa tábla thíos:
 :5-6-1-a-p_en: The genitive form of the verbal noun is usually the same as the verbal adjective in the cases shown in the table below:
 
-:Table5AA-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Ginideach an Ainm Bhriathartha ar Aon Fhoirm leis an Aidiacht Bhriathartha
-:Table5AA-caption_en: Declension of the Verb Noun -- Genitive of the Verbal Noun in Any Form with the Verbal Adjective
+:Table5AA-caption_ga: Díochlaonadh an Ainm Bhriathartha — Ginideach an Ainm Bhriathartha ar Aon Fhoirm leis an Aidiacht Bhriathartha
+:Table5AA-caption_en: Declension of the Verb Noun — Genitive of the Verbal Noun in Any Form with the Verbal Adjective
 
 :Table5AA-Col2_ga: Ainm Briathartha
 :Table5AA-Col2_en: Verbal Noun
@@ -586,8 +589,8 @@ const a=`// Tenses and Moods
 :5-6-1-b-i-p_ga: ar ainmneacha briathartha áirithe:
 :5-6-1-b-i-p_en: certain verbal nouns:
 
-:Table5BB-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Ainmneacha Briathartha Áirithe
-:Table5BB-caption_en: Declension of the Verbal Noun -- Certain Verb Nouns
+:Table5BB-caption_ga: Díochlaonadh an Ainm Bhriathartha — Ainmneacha Briathartha Áirithe
+:Table5BB-caption_en: Declension of the Verbal Noun — Certain Verb Nouns
 
 :Table5BB-trait1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach 2.2.2)
 :Table5BB-trait1_en: As a noun in the First Declension (see 2.2.2)
@@ -601,8 +604,8 @@ const a=`// Tenses and Moods
 :5-6-1-b-ii-p_ga: ar ghnáth-ainmfhocail a úsáidtear chun feidhmeanna de chuid ainm briathartha a dhéanamh ach nach dtéann réimniú briathair thairis sin orthu:
 :5-6-1-b-ii-p_en: common nouns which are used to perform the functions of a verbal noun but which do not undergo verbal conjugation beyond that:
 
-:Table5CC-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Gnáth-Ainmfhocail a úsáidtear chun Feidhmeanna de chuid Ainm Briathartha a dhéanamh
-:Table5CC-caption_en: Declension of the Verbal Noun -- Common Nouns used to Perform Verbal Noun Functions
+:Table5CC-caption_ga: Díochlaonadh an Ainm Bhriathartha — Gnáth-Ainmfhocail a úsáidtear chun Feidhmeanna de chuid Ainm Briathartha a dhéanamh
+:Table5CC-caption_en: Declension of the Verbal Noun — Common Nouns used to Perform Verbal Noun Functions
 
 :Table5CC-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach 2.2.2)
 :Table5CC-trait-1_en: As a noun in the First Declension (see 2.2.2)
@@ -620,8 +623,8 @@ const a=`// Tenses and Moods
 // TL note: "beart" meaning is uncertain in this context
 :5-6-1-b-iii-p_en: the alternate versions of many verbal nouns to express continuity, frequency, abstractness, noise, emphasis, a second meaning or single action, e.g., _aistriú_ go _aistriúchán_; _liú_ go _liúireach_:
 
-:Table5DD-caption_ga: Díochlaonadh an Ainm Bhriathartha -- Athleaganacha ar Ainmneacha Briathartha
-:Table5DD-caption_en: Declension of the Verbal Noun -- Alternate Versions of Verbal Nouns
+:Table5DD-caption_ga: Díochlaonadh an Ainm Bhriathartha — Athleaganacha ar Ainmneacha Briathartha
+:Table5DD-caption_en: Declension of the Verbal Noun — Alternate Versions of Verbal Nouns
 
 :Table5DD-col1_ga: Athleagan ar Ainm Briathartha
 :Table5DD-col1_en: Alternate Version of the Verbal Noun
@@ -638,8 +641,8 @@ const a=`// Tenses and Moods
 :5-6-1-c-p_ga: Tá roinnt ainmneacha briathartha ann a bhfuil dhá fhoirm orthu sa ghinideach -- foirm na haidiachta briathartha agus foirm de réir ceann de dhíochlaontaí na n-ainmfhocal:
 :5-6-1-c-p_en: There are some verbal nouns that have two forms in the genitive -- a form of the verbal adjective and a form according to one of the declensions of the nouns:
 
-:Table5EE-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach -- Foirm de réir Ceann de na Díochlaontaí
-:Table5EE-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive -- Form according to One of the Declensions
+:Table5EE-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach — Foirm de réir Ceann de na Díochlaontaí
+:Table5EE-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive — Form according to One of the Declensions
 
 :Table5EE-col2_ga: Foirm an Ghinidigh de réir Ceann de na Díochlaontaí
 :Table5EE-col2_en: Form of the Genitive according to One of the Declensions
@@ -659,8 +662,8 @@ const a=`// Tenses and Moods
 :5-6-1-c-ii-p_ga: Is í an fhoirm eile a úsáidtear nuair is feidhm ainmfhocail nó feidhm aidiachta a bhíonn ag an ainm briathartha.
 :5-6-1-c-ii-p_en: The other form is used when the verb has a function of a noun or a function as an adjective.
 
-:Table5FF-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach -- Foirm na hAidiachta Briathartha agus Foirm de réir Ceann de na Díochlaontaí
-:Table5FF-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive -- Form of the Verbal Adjective and Form according to One of the Declensions
+:Table5FF-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach — Foirm na hAidiachta Briathartha agus Foirm de réir Ceann de na Díochlaontaí
+:Table5FF-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive — Form of the Verbal Adjective and Form according to One of the Declensions
 
 :Table5FF-col2_ga: Ginideach -- Foirm na hAidiachta Briathartha
 :Table5FF-col2_en: Genitive -- Form of the Verbal Adjective
