@@ -454,8 +454,8 @@
 :Table5Y-caption_ga: Ainmneacha Briathartha — An Chéad Réimniú
 :Table5Y-caption_en: Verbal Nouns — The First Conjugation
 
-:Table5Y-col1_ga: Tréith
-:Table5Y-col1_en: Trait
+:Trait_ga: Tréith
+:Trait_en: Trait
 
 :Table5Y-col2_ga: Samplaí
 :Table5Y-col2_en: Examples
@@ -617,7 +617,7 @@
 :Table5CC-trait-3_en: As a noun in the Third Declension, in cases where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and in the case of other verbal nouns (see 2.4.2)
 
 :Table5CC-Note_ga: Ainmneacha briathartha de na cineálacha sin atá luaite in (b)(ii) roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
-:Table5CC-Note_en: Ainmneacha briathartha de na cineálacha sin atá luaite in (b)(ii) roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
+:Table5CC-Note_en: Verbal nouns of the types mentioned in (b)(ii) above do not have a form for the verbal adjective. Some regular nouns also lack the verbal adjective form, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
 
 :5-6-1-b-iii-p_ga: ar na hathleaganacha atá ar mhórán ainmneacha briathartha chun leanúnachas, minicíocht, teibíocht, torann, treise, fochiall nó beart aonair a chur in iúl, e.g., _aistriú_ go _aistriúchán_; _liú_ go _liúireach_:
 // TL note: "beart" meaning is uncertain in this context
@@ -644,8 +644,8 @@
 :Table5EE-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach — Foirm de réir Ceann de na Díochlaontaí
 :Table5EE-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive — Form according to One of the Declensions
 
-:Table5EE-col2_ga: Foirm an Ghinidigh de réir Ceann de na Díochlaontaí
-:Table5EE-col2_en: Form of the Genitive according to One of the Declensions
+:Table5EE-col3_ga: Foirm an Ghinidigh de réir Ceann de na Díochlaontaí
+:Table5EE-col3_en: Form of the Genitive according to One of the Declensions
 
 :Table5EE-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (formhór na n-ainmneacha briathartha firinscneacha a chríochnaíonn ar chonsan leathan) (féach 2.2.2)
 :Table5EE-trait-1_en: As a noun in the First Declension (most masculine verbal nouns ending in a broad consonant) (see 2.2.2)
@@ -664,6 +664,9 @@
 
 :Table5FF-caption_ga: Díochlaonadh Ainmneacha Briathartha a bhfuil Dhá Fhoirm orthu sa Ghinideach — Foirm na hAidiachta Briathartha agus Foirm de réir Ceann de na Díochlaontaí
 :Table5FF-caption_en: Declension of Verbal Nouns with Two Forms in the Genitive — Form of the Verbal Adjective and Form according to One of the Declensions
+
+:Table5FF-col1_ga: Ainm Briathartha
+:Table5FF-col1_en: Verbal Noun
 
 :Table5FF-col2_ga: Ginideach -- Foirm na hAidiachta Briathartha
 :Table5FF-col2_en: Genitive -- Form of the Verbal Adjective

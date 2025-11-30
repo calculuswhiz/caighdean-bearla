@@ -39,6 +39,7 @@ const t=`= {Chapter} 5 | {chapterTitle}
 .. {5-1-5-a-i-p}
 .. {5-1-5-a-ii-p}
 .. {5-1-5-a-iii-p}
+// There is no content on this node.
 . &nbsp;
 [list-[lower-roman]]
 .. {5-1-5-b-i-p}
@@ -3279,7 +3280,7 @@ fágaimis
 .*{Table} 5Y*  {Table5Y-caption}
 [.chapter-5]
 |===
-|{Table5Y-col1} |{Table5Y-col2}
+|{Trait} |{Table5Y-col2}
 
 |{Table5Y-trait1} | blaiseadh, briseadh, ceapadh, glanadh, meascadh, pósadh
 |{Table5Y-trait2} | bualadh, fáscadh, loscadh, rúscadh, troscadh
@@ -3304,7 +3305,7 @@ fágaimis
 .*{Table} 5Z*  {Table5Z-caption}
 [.chapter-5]
 |===
-|{Table5Y-col1} |{Table5Y-col2}
+|{Trait} |{Table5Y-col2}
 
 |{Table5Z-trait-1} | achoimriú, bailiú, cabhrú, daingniú, eagrú, fuarú, gríosú, oibriú
 |{Table5Z-trait-2} | cónaí, corraí, eachtraí, fiafraí, ionsaí
@@ -3331,7 +3332,7 @@ fágaimis
 .*{Table} 5AA*  {Table5AA-caption}
 [.chapter-5]
 |===
-|{Table5Y-col1} |{Table5AA-col2} |{Table5AA-col3}
+|{Trait} |{Table5AA-col2} |{Table5AA-col3}
 
 |{Table5AA-trait1} | bearradh +
 cáineadh +
@@ -3376,5 +3377,154 @@ dorn druidte
 [list-[lower-roman]]
 .. {5-6-1-b-i-p}
 +
-**Under construction**
+.*{Table} 5BB*  {Table5BB-caption}
+[.chapter-5]
+|===
+|{Trait} |{Table5AA-col2} |{Table5AA-col3}
+
+| {Table5BB-trait1} | gol +
+machnamh | fonn goil +
+ag déanamh a machnaimh
+
+| {Table5BB-trait2} | fóirithint | foireann fóirithinte
+| {Table5BB-trait3} | admháil +
+dúiseacht +
+iomáint +
+lúbarnaíl +
+oiliúint +
+díolaim +
+éag +
+tuiscint | páipéar admhála +
+clog dúiseachta +
+foireann iomána +
+le teann lúbarnaíola +
+coláiste oiliúna +
+fear díolama +
+ar chúl éaga +
+bua tuisceana
+|===
++
+.. {5-6-1-b-ii-p}
++
+.*{Table} 5CC*  {Table5CC-caption}
+[.chapter-5]
+|===
+|{Trait} |{Table5AA-col2} |{Table5AA-col3}
+
+| {Table5CC-trait-1} | ag magadh +
+ag seanchas | cúis mhagaidh +
+fear seanchais
+| {Table5CC-trait-2} | ag báisteach +
+ag fearthainn | cuma bháistí +
+fuadar fearthainne
+| {Table5CC-trait-3} | ag bádóireacht +
+ag peataireacht +
+ag bradaíl +
+ag feadaíl | cumann bádóireachta +
+an iomarca peataireachta +
+bó bhradaíola +
+port feadaíola
+|===
++
+*{Note}*: {Table5CC-Note}
++
+.. {5-6-1-b-iii-p}
++
+.*{Table} 5DD*  {Table5DD-caption}
+[.chapter-5]
+|===
+|{Trait} |{Table5AA-col2} |{Table5AA-col3}
+
+| {Table5DD-trait-1} | níochán | meaisín níocháin
+| {Table5DD-trait-2} | preabarnach | rás preabarnaí
+| {Table5DD-trait-3} | léitheoireacht | ábhar léitheoireachta
+|===
++
+.*{Table} 5EE*  {Table5EE-caption}
+[.chapter-5]
+|===
+|{Trait} |{Table5AA-col2} |{Table5AA-col3}
+
+| {Table5EE-trait-1} | brath +
+ceannach +
+comhrac +
+gearán +
+iompar +
+tochas | lucht braith +
+árthach ceannaigh +
+céile comhraic +
+cúis ghearáin +
+gléas iompair +
+cuaille tochais
+
+| {Table5EE-trait-2} | aithris +
+breith +
+insint +
+léim +
+titim +
+úsáid | cóir aithrise +
+lá breithe +
+an sórt insinte +
+ag caitheamh léime +
+fonn titime +
+easpa úsáide
+
+| {Table5EE-trait-3} | beochan +
+crith +
+foghlaim +
+íoc +
+reic +
+rith +
+seinm +
+sníomh +
+trácht +
+troid | deoch bheochana +
+galar creatha +
+aos foghlama +
+fear íoca +
+stalla reaca +
+ligean reatha +
+lucht seanma +
+fearsaid sníomha +
+brú tráchta +
+babhta troda
+|===
++
+[list-[lower-roman]]
+... {5-6-1-c-i-p}
+... {5-6-1-c-ii-p}
++
+.*{Table} 5FF*  {Table5FF-caption}
+[.chapter-5]
+|===
+|{Table5FF-Col1} |{Table5FF-col2} |{Table5FF-col3}
+
+| brath | fear a bhraite | lucht braith
+| ceannach | fear ceannaithe na mbeithíoch | árthach ceannaigh
+| déan | fear déanta brící | sórt déanaimh
+| insint | fear inste scéil | an sórt insinte
+| íoc | lá íoctha na rátaí | fear íoca
+| iompar | tar éis a iompartha | gléas iompair
+| ól | lucht ólta poitín | boladh óil
+| úsáid | modh a úsáidte | easpa úsáide
+|===
+
+=== 5.6.2 {5-6-2-title}
+
+{5-6-2-p}
+
+[list-[lower-alpha]]
+. {5-6-2-a-p}
+. {5-6-2-b-p}
+. {5-6-2-c-p}
+. {5-6-2-d-p}
+. {5-6-2-e-p}
+
+---
+
+== 5.7 {5-7-title}
+
+=== 5.7.1 {5-7-1-title}
+
+{5-7-1-p}
 `;export{t as default};
