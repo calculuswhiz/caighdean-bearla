@@ -10,7 +10,7 @@ const availableChapters = [
   { label: "Chapter 3 - Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive", id: "3", done: true },
   { label: "Chapter 4 - The Adjective", id: "4", done: true },
   { label: "Chapter 5 - The Verb", id: "5", done: true },
-  { label: "Chapter 6 - The Adverb", id: "6" },
+  { label: "Chapter 6 - The Adverb", id: "6", done: true },
   { label: "Chapter 7 - The Copula", id: "7" },
   { label: "Chapter 8 - The Pronominal", id: "8" },
   { label: "Chapter 9 - The Number", id: "9" },
