@@ -1,4 +1,4 @@
-:chapterTitle_ga: An Dobhriathar
+const a=`:chapterTitle_ga: An Dobhriathar
 :chapterTitle_en: The Adverb
 
 :6-1-title_ga: Príomhchineálacha Dobhriathra
@@ -199,3 +199,4 @@
 :CompassD_en: -- the south
 :CompassO_en: -- the east
 :CompassI_en: -- the west
+`;export{a as default};

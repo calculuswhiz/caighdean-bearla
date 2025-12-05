@@ -1,4 +1,4 @@
-= {Chapter} 6 | {chapterTitle}
+const a=`= {Chapter} 6 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -273,3 +273,4 @@ image::{rootRef}/Compass-quarter.svg[Static]
 | *DLI* | ó dheas lámh siar | theas lámh thiar | aneas lámh aniar
 | *D* | ó dheas | an deisceart | aneas
 |===
+`;export{a as default};

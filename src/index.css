@@ -195,4 +195,24 @@
   .sidebarblock .title {
     @apply font-bold;
   }
+
+  /* Chapter 6 */
+
+  /* There are no table stacks in chapter 6 */
+
+  .chapter-6 thead tr:first-child th {
+    @apply bg-sky-600 text-white;
+  }
+
+  .chapter-6 thead tr:nth-of-type(2) th {
+    @apply bg-gray-700 text-white;
+  }
+
+  .compass-basic-table td {
+    @apply bg-white;
+  }
+  
+  .compass-block > div {
+    @apply flex flex-row mx-[15%];
+  }
 }
