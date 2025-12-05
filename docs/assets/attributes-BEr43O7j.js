@@ -59,10 +59,10 @@ const a=`:chapterTitle_ga: An Dobhriathar
 :6-1-1-f-p1_en: *adverb of comparative degree*, e.g., _níos_, _ní ba_:
 
 :6-1-1-f-SampleBox-eg1_ga: Tá Seán *níos* airde ná Máire.
-:6-1-1-f-SampleBox-eg1_ga: Seán is tall**er** than Mary.
+:6-1-1-f-SampleBox-eg1_en: Seán is tall**er** than Mary.
 
 :6-1-1-f-SampleBox-eg2_ga: Bhí siad *ní ba* ghile ná an sneachta.
-:6-1-1-f-SampleBox-eg2_ga: They were whit**er** than snow.
+:6-1-1-f-SampleBox-eg2_en: They were whit**er** than snow.
 
 :6-1-1-f-p2_ga: Tabhair faoi deara gur féidir _níos_ a úsáid sna haimsirí go léir ach nach n-úsáidtear _ní b'_/_ní ba_ ach san aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach. Déantar _ní b' a úsáid roimh aidiacht dar tús guta nó _fh-_ + _guta_, e.g., _Ba ghá dóibh dréimire níos fearr_/_ní b'_fhearr a fháil anuraidh_; _Dá mbeinn bliain níos óige_/_ní b'óige_, _d'imreoinn an cluiche_; agus déantar _ní ba_ a úsáid roimh chonsan, e.g., _Bhí na braillíní níos gile_/_ní ba ghile ná an sneachta_.
 :6-1-1-f-p2_en: Note that _níos_ can be used in all tenses but _ní b'_/_ní ba_ is only used in the past tense, the past habitual tense and the conditional mood. _ní b'_ is used before an adjective beginning with a vowel or _fh-_ + _vowel_, e.g., _Ba ghá dóibh dréimire níos fearr_/_ní b'fhearr a fháil anuraidh_; _Dá mbeinn bliain níos óige_/_ní b'óige_, _d'imreoinn an cluiche_; and _ní ba_ is usedbefore a consonant, e.g., _Bhí na braillíní níos gile_/_ní ba ghile ná an sneachta_.
