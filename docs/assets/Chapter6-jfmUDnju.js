@@ -234,7 +234,7 @@ Cén uair a thiocfaidh sí *anall* arís?
 [.compass-block]
 --
 [.w-1/2]
-image::{rootRef}/Compass-full.svg[Static]
+image::{rootRef}Compass-full.svg[Static]
 
 [.flex-grow]
 &nbsp;
@@ -243,7 +243,7 @@ image::{rootRef}/Compass-full.svg[Static]
 [.flex]
 [.justify-center]
 [.items-center]
-image::{rootRef}/Compass-quarter.svg[Static]
+image::{rootRef}Compass-quarter.svg[Static]
 --
 
 [.compass-basic-table]
