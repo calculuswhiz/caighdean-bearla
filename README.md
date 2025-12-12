@@ -91,3 +91,29 @@ Visit the localhost link.
 Some of these may appear in annotations and comments in the asciidoc code.
 - GT - Google Translate
 - FGB - Foclóir Gaeilge-Béarla, Ó Dónaill, 1977
+
+# Dev Notes
+
+In LibreOffice, you can find+replace things with formatting + regex.
+
+## Finding regexes
+
+### Search
+```
+.*\S+
+```
+
+### Replace
+
+Bold:
+```
+*$0*
+```
+
+Italics:
+```
+_$0_
+```
+
+### Notes: 
+- Make sure you reset formatting searches after each pass.

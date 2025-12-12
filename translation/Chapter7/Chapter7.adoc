@@ -2,18 +2,18 @@
 :showtitle:
 :table-caption!:
 
-== 7.1 {7_1_title}
+== 7.1 {7-1-title}
 
-{7_1_p1}
+{7-1-p1}
 
-{7_1_p2}
+{7-1-p2}
 
-=== 7.1.1 {7_1_1_title}
+=== 7.1.1 {7-1-1-title}
 
-{7_1_1_p}
+{7-1-1-p}
 
 [list-[lower-alpha]]
-a. {7_1_1_a_text}
+a. {7-1-1-a-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -24,7 +24,7 @@ a. {7_1_1_a_text}
 | *Is* fear é. | He is a man.
 |===
 
-b. {7_1_1_b_text}
+b. {7-1-1-b-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -33,7 +33,7 @@ b. {7_1_1_b_text}
 | *Is* é Baile Átha Cliath príomhchathair na hÉireann. | Dublin is the capital of Ireland.
 |===
 
-c. {7_1_1_c_text}
+c. {7-1-1-c-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -44,7 +44,7 @@ c. {7_1_1_c_text}
 | *Is* as an Muileann gCearr di. | She is from Mullingar.
 |===
 
-d. {7_1_1_d_text}
+d. {7-1-1-d-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -57,7 +57,7 @@ d. {7_1_1_d_text}
 | *Is* dona linn an briseadh seo. | We are sorry for this break. (?)
 |===
 
-e. {7_1_1_e_text}
+e. {7-1-1-e-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -66,7 +66,7 @@ e. {7_1_1_e_text}
 | Bhí na milseáin *ba* dheise ite sular shroich mé an chóisir. | The nicest sweets were eaten before I arrived at the party.
 |===
 
-f. {7_1_1_f_text}
+f. {7-1-1-f-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -78,7 +78,7 @@ f. {7_1_1_f_text}
 | *Is* comhghleacaí le Cáit eisean. | He is Cáit's colleague.
 |===
 
-g. {7_1_1_g_text}
+g. {7-1-1-g-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -90,7 +90,7 @@ g. {7_1_1_g_text}
 | *B*'fhada ag teacht é. | He was a long time coming.
 |===
 
-h. {7_1_1_h_text}
+h. {7-1-1-h-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -105,7 +105,7 @@ h. {7_1_1_h_text}
 | *Is* inné a tháinig siad. | Yesterday they came.
 | *Is* é Peadar a dhéanfadh an beart dá mbeadh sé anseo. | Peadar would make the move if he were here.
 |===
-i. {7_1_1_i_text}
+i. {7-1-1-i-text}
 +
 [.samplebox]
 [cols="1,1"]
@@ -116,3 +116,7 @@ i. {7_1_1_i_text}
 | *Nach* treise dúchas ná oiliúint? | Isn't nature stronger than nurture?
 | *Nárbh* fhearr gluaisteán ná rothar? | Wouldn't a car be better than a bicycle?
 |===
+
+---
+
+== 7.2 {7-2-title}
