@@ -23,6 +23,10 @@
     @apply text-lg py-2;
   }
 
+  h4 {
+    @apply font-bold py-2;
+  }
+
   hr {
     @apply my-5 border-2 border-gray-500;
   }
@@ -39,6 +43,14 @@
   ol,
   ul {
     @apply list-inside;
+  }
+
+  .list-dots ul {
+    @apply list-disc;
+
+    & > li > p {
+      @apply inline;
+    }
   }
 
   caption {
@@ -59,160 +71,176 @@
 
   /* Asciidoctor hacks */
 
-  /* CSS application on refresh is inconsistent. */
+  /* CSS application on refresh is inconsistent. If you see a blink: undo, save, redo, save. */
   .upperalpha {
     @apply list-[upper-alpha];
   }
 
-  /* Chapter 1 */
-
-  .chapter-1.table-stack > tbody > tr:nth-child(odd) th,
-  .chapter-1 .table-header {
-    @apply bg-blue-950 text-white text-2xl py-1;
+  .chapter-1 {
+    &.table-stack > tbody > tr:nth-child(odd) th,
+    & .table-header {
+      @apply bg-blue-950 text-white text-2xl py-1;
+    }
+  
+    &.table-stack table thead th,
+    & .sub-header {
+      @apply bg-cyan-900 text-white py-1;
+    }
+  
+    &.table-stack table tbody th {
+      @apply bg-gray-300 py-1;
+    }
+  
+    & thead tr:first-child th {
+      @apply bg-blue-950 text-white;
+    }
   }
 
-  .chapter-1.table-stack table thead th,
-  .chapter-1 .sub-header {
-    @apply bg-cyan-900 text-white py-1;
-  }
-
-  .chapter-1.table-stack table tbody th {
-    @apply bg-gray-300 py-1;
-  }
-
-  .chapter-1 thead tr:first-child th {
-    @apply bg-blue-950 text-white;
-  }
-
-  /* Chapter 2 */
-
-  .chapter-2.table-stack > tbody > tr:nth-child(odd) th {
-    @apply bg-orange-500 text-white text-2xl py-1;
-  }
-
-  .chapter-2.table-stack table thead th,
-  .chapter-2 .sub-header {
-    @apply bg-cyan-900 text-white py-1;
-  }
-
-  .chapter-2.table-stack table tbody th {
-    @apply bg-gray-300 py-1;
-  }
-
-  .chapter-2 thead tr:first-child th {
-    @apply bg-orange-500 text-white;
-  }
-
-  .chapter-2 thead tr:nth-of-type(2) th {
-    @apply bg-gray-700 text-white;
+  .chapter-2 {
+    &.table-stack > tbody > tr:nth-child(odd) th {
+      @apply bg-orange-500 text-white text-2xl py-1;
+    }
+  
+    &.table-stack table thead th,
+    & .sub-header {
+      @apply bg-cyan-900 text-white py-1;
+    }
+  
+    &.table-stack table tbody th {
+      @apply bg-gray-300 py-1;
+    }
+  
+    & thead tr:first-child th {
+      @apply bg-orange-500 text-white;
+    }
+  
+    & thead tr:nth-of-type(2) th {
+      @apply bg-gray-700 text-white;
+    }
   }
 
   /* Chapter 3 */
 
-  .chapter-3.table-stack > tbody > tr:nth-child(odd) th {
-    @apply bg-lime-300 text-black text-2xl py-1;
+  .chapter-3 {
+    &.table-stack > tbody > tr:nth-child(odd) th {
+      @apply bg-lime-300 text-black text-2xl py-1;
+    }
+  
+    &.table-stack table thead th,
+    & .sub-header {
+      @apply bg-cyan-900 text-white py-1;
+    }
+  
+    &.table-stack table tbody th {
+      @apply bg-gray-300 py-1;
+    }
+  
+    & thead tr:first-child th {
+      @apply bg-lime-300 text-black;
+    }
+  
+    & thead tr:nth-of-type(2) th {
+      @apply bg-gray-700 text-white;
+    }
   }
 
-  .chapter-3.table-stack table thead th,
-  .chapter-3 .sub-header {
-    @apply bg-cyan-900 text-white py-1;
+  .chapter-4 {
+    &.table-stack > tbody > tr:nth-child(odd) th {
+      @apply bg-yellow-500 text-black text-2xl py-1;
+    }
+  
+    &.table-stack table thead th,
+    & .sub-header {
+      @apply bg-cyan-900 text-white py-1;
+    }
+  
+    &.table-stack table tbody th {
+      @apply bg-gray-300 py-1;
+    }
+  
+    & thead tr:first-child th {
+      @apply bg-yellow-500 text-black;
+    }
+  
+    & thead tr:nth-of-type(2) th {
+      @apply bg-gray-700 text-white;
+    }
   }
 
-  .chapter-3.table-stack table tbody th {
-    @apply bg-gray-300 py-1;
-  }
-
-  .chapter-3 thead tr:first-child th {
-    @apply bg-lime-300 text-black;
-  }
-
-  .chapter-3 thead tr:nth-of-type(2) th {
-    @apply bg-gray-700 text-white;
-  }
-
-  /* Chapter 4 */
-
-  .chapter-4.table-stack > tbody > tr:nth-child(odd) th {
-    @apply bg-yellow-500 text-black text-2xl py-1;
-  }
-
-  .chapter-4.table-stack table thead th,
-  .chapter-4 .sub-header {
-    @apply bg-cyan-900 text-white py-1;
-  }
-
-  .chapter-4.table-stack table tbody th {
-    @apply bg-gray-300 py-1;
-  }
-
-  .chapter-4 thead tr:first-child th {
-    @apply bg-yellow-500 text-black;
-  }
-
-  .chapter-4 thead tr:nth-of-type(2) th {
-    @apply bg-gray-700 text-white;
-  }
-
-  /* Chapter 5 */
-
-  .chapter-5.table-stack > tbody > tr:nth-child(odd) th {
-    @apply bg-orange-800 text-white text-2xl py-1;
-  }
-
-  .chapter-5.table-stack table thead th,
-  .chapter-5 .sub-header {
-    @apply bg-cyan-900 text-white py-1;
-  }
-
-  .chapter-5.table-stack table tbody th {
-    @apply bg-gray-300 py-1;
-  }
-
-  .chapter-5 thead tr:first-child th {
-    @apply bg-gray-600 text-white;
-  }
-
-  .chapter-5 thead tr:nth-of-type(2) th {
-    @apply bg-gray-700 text-white;
+  .chapter-5 {
+    &.table-stack > tbody > tr:nth-child(odd) th {
+      @apply bg-orange-800 text-white text-2xl py-1;
+    }
+  
+    &.table-stack table thead th,
+    & .sub-header {
+      @apply bg-cyan-900 text-white py-1;
+    }
+  
+    &.table-stack table tbody th {
+      @apply bg-gray-300 py-1;
+    }
+  
+    & thead tr:first-child th {
+      @apply bg-gray-600 text-white;
+    }
+  
+    & thead tr:nth-of-type(2) th {
+      @apply bg-gray-700 text-white;
+    }
   }
 
   .verb-table {
     @apply my-4;
-  }
 
-  .verb-table .primary-header {
-    @apply bg-orange-800 text-white text-2xl p-1 text-left;
-  }
+    & .primary-header {
+      @apply bg-orange-800 text-white text-2xl p-1 text-left;
+    }
 
-  .verb-table .secondary-header-row th {
-    @apply text-left p-1 bg-cyan-900 text-white py-1;
-  }
+    & .secondary-header-row th {
+      @apply text-left p-1 bg-cyan-900 text-white py-1;
+    }
 
-  .verb-table .tense-row th {
-    @apply bg-stone-300 text-black px-1;
+    & .tense-row th {
+      @apply bg-stone-300 text-black px-1;
+    }
   }
 
   .sidebarblock .title {
     @apply font-bold;
   }
 
-  /* Chapter 6 */
+  .chapter-6 {
+    /* There are no table stacks in chapter 6 */
 
-  /* There are no table stacks in chapter 6 */
+    & thead tr:first-child th {
+      @apply bg-sky-600 text-white;
+    }
 
-  .chapter-6 thead tr:first-child th {
-    @apply bg-sky-600 text-white;
-  }
-
-  .chapter-6 thead tr:nth-of-type(2) th {
-    @apply bg-gray-700 text-white;
+    & thead tr:nth-of-type(2) th {
+      @apply bg-gray-700 text-white;
+    }
   }
 
   .compass-basic-table td {
     @apply bg-white;
   }
-  
+
   .compass-block > div {
     @apply flex flex-row mx-[15%];
+  }
+
+  .chapter-7 {
+    & thead tr:first-child th {
+      @apply bg-pink-600 text-white;
+    }
+
+    & thead tr:nth-of-type(2) th {
+      @apply bg-gray-700 text-white;
+    }
+
+    & thead tr:nth-of-type(3) th {
+      @apply bg-stone-200 text-black;
+    }
   }
 }

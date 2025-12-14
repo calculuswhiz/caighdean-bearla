@@ -1,4 +1,4 @@
-:ChapterTitle_ga: An Chopail
+const a=`:ChapterTitle_ga: An Chopail
 :ChapterTitle_en: The Copula
 
 :7-1-title_ga: Ginearálta
@@ -171,3 +171,4 @@
 :7-2-2-title_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta
 :7-2-2-title_en: Simple Forms at the beginning of Subordinate Clauses, other than a Relative Clause
 
+`;export{a as default};

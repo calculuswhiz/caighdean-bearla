@@ -1,4 +1,4 @@
-= {Chapter} 7 | {chapterTitle}
+const n=`= {Chapter} 7 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -789,3 +789,4 @@ i. {7-1-1-i-text}
 === 7.2.5 {7-2-5-title}
 
 ==== A {7-2-5-A-title}
+`;export{n as default};
