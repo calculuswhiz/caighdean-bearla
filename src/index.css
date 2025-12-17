@@ -45,6 +45,10 @@
     @apply list-inside;
   }
 
+  ol > li > p {
+    @apply inline;
+  }
+
   .list-dots ul {
     @apply list-disc;
 
@@ -69,9 +73,8 @@
     @apply font-bold text-center;
   }
 
-  /* Asciidoctor hacks */
-
-  /* CSS application on refresh is inconsistent. If you see a blink: undo, save, redo, save. */
+  /* Asciidoctor hack: CSS application on refresh is inconsistent.
+   If you see a blink: undo, save, redo, save. */
   .upperalpha {
     @apply list-[upper-alpha];
   }

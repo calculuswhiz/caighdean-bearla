@@ -789,4 +789,546 @@ i. {7-1-1-i-text}
 === 7.2.5 {7-2-5-title}
 
 ==== A {7-2-5-A-title}
+
+[list-[lower-alpha]]
+. {7-2-5-A-a-p}
+[list-[lower-roman]]
+.. {7-2-5-A-a-i-p}
+.. {7-2-5-A-a-ii-p}
+.. {7-2-5-A-a-iii-p}
+. {7-2-5-A-b-p}
+[list-[lower-roman]]
+.. {7-2-5-A-b-i-p}
+.. {7-2-5-A-b-ii-p}
+.. {7-2-5-A-b-iii-p}
+.. {7-2-5-A-b-iv-p}
+.. {7-2-5-A-b-v-p}
+.. {7-2-5-A-b-vi-p}
+. {7-2-5-A-c-p}
+[list-[lower-roman]]
+.. {7-2-5-A-c-i-p}
+.. {7-2-5-A-c-ii-p}
+.. {7-2-5-A-c-iii-p}
+
+{7-2-5-A-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7L</strong> {Table7L-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan="2">{Table7L-header}</th>
+    </tr>
+    <tr>
+        <th>{Table7L-subheader-col1}</th>
+        <th>{Table7L-subheader-col2}</th>
+    </tr></thead>
+<tbody>
+  <tr>
+    <td>{Table7L-row1-col1}</td>
+    <td>{Table7L-row1-col2}</td>
+  </tr>
+  <tr>
+    <td>{Table7L-row2-col1}</td>
+    <td>{Table7L-row2-col2}</td>
+  </tr>
+  <tr>
+    <td>{Table7L-row3-col1}</td>
+    <td>{Table7L-row3-col2}</td>
+  </tr>
+  <tr>
+    <td>{Table7L-row4-col1}</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>{Table7L-row5-col1}</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>{Table7L-row6-col1}</td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+++++
+
+==== B {7-2-5-B-title}
+
+{7-2-5-B-p}
+
+---
+
+== 7.3 {7-3-title}
+
+=== 7.3.1 {7-3-1-title}
+
+==== A {7-3-1-A-title}
+
+{7-3-1-A-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7M</strong> {Table7M-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{Table7M-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonant}</th>
+        <th>{BeforeVowel}</th>
+    </tr></thead>
+<tbody>
+  <tr>
+    <td class="font-bold">cá</td>
+    <td><strong>Cá</strong> miste duit?</td>
+    <td><strong>Cárb</strong> as é?/<strong>Cárb</strong> as duit?</td>
+  </tr>
+  <tr>
+    <td class="font-bold">cé</td>
+    <td><strong>Cé</strong> dó a dtabharfaidh sé é?</td>
+    <td><strong>Cérb</strong> iad?</td>
+  </tr>
+</tbody>
+</table>
+++++
+
+==== B {7-3-1-B-title}
+
+{7-3-1-B-p1}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7N</strong> {Table7N-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{Table7N-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonantQualified}</th>
+        <th>{BeforeVowelQualified}</th>
+    </tr></thead>
+<tbody>
+  <tr>
+    <td class="font-bold">cá</td>
+    <td><strong>Cár</strong> thairbhe duit é?</td>
+    <td><strong>Cárbh</strong> aois é?</td>
+  </tr>
+  <tr>
+    <td class="font-bold">cé</td>
+    <td><strong>Cér</strong> díobh í?</td>
+    <td><strong>Cérbh</strong> é an fear sin?</td>
+  </tr>
+</tbody>
+</table>
+++++
+
+{7-3-1-p}
+
+=== 7.3.2 {7-3-2-title}
+
+==== A {7-3-2-A-title}
+
+{7-3-2-A-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7O</strong> {Table7O-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{Table7O-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonant}</th>
+        <th>{BeforeVowel}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <td class="font-bold">de/do</td>
+        <td>Cuirfear deireadh leis an imscrúdú an tréimhse <strong>dar</strong> críoch an 1ú lá de mhí Iúil.</td>
+        <td>Tá aithne agam ar bhean <strong>darb</strong> ainm Máire Ní Chiarragáin.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">faoi</td>
+        <td>Cé acu dlí an dlí <strong>faoinar</strong> féidir í a chúiseamh?</td>
+        <td>Is ábhar é sin <strong>faoinarb</strong> éasca labhairt.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">i</td>
+        <td>Is í sin an oifig <strong>inar</strong> mian léi a bheith ag obair.</td>
+        <td>Is foirgneamh é sin <strong>inarb</strong> annamh ar cuairt é.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">le</td>
+        <td>Is iomaí córas atá ar fáil <strong>lenar</strong> féidir rialú a dhéanamh.</td>
+        <td>Dúirt sí a rogha rud, ar neamhchead don té <strong>lenarb</strong> olc.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">ó</td>
+        <td>Beidh siad i scríbhinn nó i bhfoirm <strong>ónar</strong> féidir taifead scríofa a tháirgeadh.</td>
+        <td>Bhí sé i dteannta an dreama <strong>ónarb</strong> áil leis teitheadh.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">trí</td>
+        <td>Faightear réidh le gach meán eile <strong>trínar</strong> féidir aon ní den sórt sin a scriosadh.</td>
+        <td>Cén fhoirmle atá agat <strong>trínarb</strong> éasca an cheist a fhreagairt?</td>
+    </tr>
+</tbody>
+</table>
+++++
+
+==== B {7-3-2-B-title}
+
+{7-3-2-B-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7P</strong> {Table7P-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{Table7P-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonantQualified}</th>
+        <th>{BeforeVowelQualified}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <td class="font-bold">de/do</td>
+        <td>Cuireadh iniúchadh i gcrích don bhliain <strong>dar</strong> chríoch an 8 Márta 1998.</td>
+        <td>Is buachaill <strong>darbh</strong> ainm Gearóid a bhí i láthair.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">faoi</td>
+        <td>Liostaíodh na coinníollacha <strong>faoinar</strong> chomhaltaí iad na daoine sin.</td>
+        <td>Luadh an dáta <strong>faoinarbh</strong> fhéidir litir a chur faoi bhráid an Aire.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">i</td>
+        <td>D'fhéadfaí an cás a éisteacht i gcás <strong>inar</strong> fhreagróir an duine sin.</td>
+        <td>Is cás é sin <strong>inarbh</strong> fhostaí d'úinéir na feithicle a cúisíodh.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">le</td>
+        <td>Is í sin an eagraíocht <strong>lenar</strong> ghníomhaire é.</td>
+        <td>Sin í an fhoireann <strong>lenarbh</strong> áil liom imirt.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">ó</td>
+        <td>Chuaigh sé ar ais go dtí an tír <strong>ónar</strong> dhíbeartach é.</td>
+        <td>Tabhair faisnéis dom faoin iasacht agus faoin dáta <strong>ónarbh</strong> iníoctha í.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">trí</td>
+        <td>Bhí fóram ann <strong>trínar</strong> ghnách leis an bhfoireann ceisteanna a ardú.</td>
+        <td>Dúnadh an tollán <strong>trínarbh</strong> fhéidir tiomáint.</td>
+    </tr>
+</tbody>
+</table>
+++++
+
+=== 7.3.3 {7-3-3-title}
+
+==== A {7-3-3-A-title}
+
+{7-3-3-A-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7Q</strong> {Table7Q-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{Table7Q-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonant}</th>
+        <th>{BeforeVowel}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <td class="font-bold">sula</td>
+        <td><strong>Sular</strong> féidir leis carr a cheannach, caithfidh sé airgead a shábháil.</td>
+        <td><strong>Sularb</strong> eol di é a bheith ann, beidh an cat imithe.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">ó</td>
+        <td><strong>Ós</strong> rud é gur agat atá eochracha an chairr, is tú a rachaidh chuig an siopa.</td>
+        <td><strong>Ós</strong> aici a bheidh an seomra, caithfidh sí féin é a réiteach.</td>
+    </tr>
+</tbody>
+</table>
+++++
+
+==== B {7-3-3-B-title}
+
+{7-3-3-B-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7R</strong> {Table7R-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{Table7R-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonantQualified}</th>
+        <th>{BeforeVowelQualified}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <td class="font-bold">sula</td>
+        <td><strong>Sular</strong> féidir leis carr a cheannach, caithfidh sé airgead a shábháil.</td>
+        <td><strong>Sularb</strong> eol di é a bheith ann, beidh an cat imithe.</td>
+    </tr>
+    <tr>
+        <td class="font-bold">ó</td>
+        <td><strong>Ós</strong> rud é gur agat atá eochracha an chairr, is tú a rachaidh chuig an siopa.</td>
+        <td><strong>Ós</strong> aici a bheidh an seomra, caithfidh sí féin é a réiteach.</td>
+    </tr>
+</tbody>
+</table>
+++++
+
+=== 7.3.4 {7-3-4-title}
+
+{7-3-4-p}
+
+==== A {7-3-4-A-title}
+
+{7-3-4-A-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7S</strong> {Table7S-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=5>{Table7S-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan=2>{BeforeConsonant}</th>
+        <th colspan=2>{BeforeVowel}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <td>{Positive}</td>
+        <td class="font-bold bg-stone-300">más</td>
+        <td>
+            <ul>
+                <li><strong>Más</strong> mian leat imeacht, is féidir leat.</li>
+                <li><strong>Más</strong> mall, is mithid.</li>
+            </ul>
+        </td>
+        <td class="font-bold bg-stone-300">más</td>
+        <td>
+            <ul>
+                <li>Fan sa bhaile, <strong>más</strong> amhlaidh is fearr leat é.</li>
+                <li><strong>Más</strong> é Séamas atá ann, abair leis teacht anseo.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{Negative}</td>
+        <td class="font-bold bg-stone-300">mura</td>
+        <td>
+            <ul>
+                <li><strong>Mura</strong> mian léi fanacht, ní gá di.</li>
+                <li>Tabhair sampla eile dom, <strong>mura</strong> miste leat.</li>
+            </ul>
+        </td>
+        <td class="font-bold bg-stone-300">murab</td>
+        <td>
+            <ul>
+                <li>Bean ard ab ea í, <strong>murab</strong> ionann agus Cáit.</li>
+                <li><strong>Murab</strong> áil leis éisteacht, ní gá dó.</li>
+            </ul>
+        </td>
+    </tr>
+</tbody>
+</table>
+++++
+
+==== B {7-3-4-B-title}
+
+{7-3-4-B-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7T</strong> {Table7T-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=4>{Table7T-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{BeforeConsonantQualified}</th>
+        <th colspan=2>{BeforeVowelQualified}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <th class="bg-stone-300"></th>
+        <th class="bg-stone-300">má ba</th>
+        <th class="bg-stone-300">má b'</th>
+        <th class="bg-stone-300">má ba</th>
+    </tr>
+    <tr>
+        <td>{Positive}</td>
+        <td><strong>Má ba</strong> dhuine macánta é, b'ait an gnó a bhí ar siúl aige.</td>
+        <td><strong>Má b'</strong>fhear aitheanta é, ní raibh a fhios agam é.</td>
+        <td><strong>Má ba</strong> í a bhí ann, níor aithin sí mé.</td>
+    </tr>
+    <tr>
+        <th class="bg-stone-300"></th>
+        <th class="bg-stone-300">murar</th>
+        <th class="bg-stone-300" colspan=2>murarbh</th>
+    </tr>
+    <tr>
+        <td>{Negative}</td>
+        <td>
+            <ul>
+                <li><strong>Murar</strong> chomhalta cláraithe é, ní raibh aon seans aige.</li>
+                <li><strong>Murar</strong> shíntiúsóir cláraithe í, ní bhfaigheadh sí an iris sa phost.</li>
+            </ul>
+        </td>
+        <td colspan=2>
+            <ul>
+                <li><strong>Murarbh</strong> éan é, b'ialtóg a bhí ann.</li>
+                <li>Ní bhíodh sí ag imirt <strong>murarbh</strong> áil léi féin é.</li>
+            </ul>
+        </td>
+    </tr>
+</tbody>
+</table>
+++++
+
+=== 7.3.5 {7-3-5-title}
+
+{7-3-5-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7U</strong> {Table7U-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=2>{Table7U-header}</th>
+    </tr>
+    <tr>
+        <th colspan=2>{BeforeConsonantAndVowel}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <th class="bg-stone-300">
+            Dá + ba &rarr; Dá mba <span class="font-normal">nó</span> Dá mb'
+        </th>
+        <td>
+            <ul>
+                <li><strong>Dá mba</strong> mhaith leat é, d'fhéadfainn é a fháil duit.</li>
+                <li><strong>Dá mba</strong> é d'athair a déarfadh sin, chreidfinn é.</li>
+                <li><strong>Dá mb'</strong>fhear saibhir é, thabharfadh sé síntiús fial uaidh.</li>
+                <li><strong>Dá mba</strong> fhreastalaí í, bheadh sí ag obair ar an deireadh seachtaine.</li>
+            </ul>
+        </td>
+    </tr>
+</tbody>
+</table>
+++++
+
+---
+
+== 7.4 {7-4-title}
+
+{7-4-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-7">
+  <caption>
+    <strong>{Table} 7V</strong> {Table7V-caption}
+  </caption>
+  <thead>
+    <tr>
+        <th colspan=5>{Table7V-header}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th colspan=2>{BeforeConsonant}</th>
+        <th colspan=2>{BeforeVowel}</th>
+    </tr></thead>
+<tbody>
+    <tr>
+        <td>{Positive}</td>
+        <th class="bg-stone-300">gura</th>
+        <td>
+            <ul>
+                <li><strong>Gura</strong> fada buan tú.</li>
+                <li><strong>Gura</strong> maith an mhaise dó é.</li>
+                <li><strong>Gura</strong> slán an scéal é.</li>
+            </ul>
+        </td>
+        <th class="bg-stone-300">gurab</th>
+        <td>
+            <ul>
+                <li><strong>Nára</strong> fíor é.</li>
+                <li><strong>Nára</strong> fearrde sibh é.</li>
+                <li><strong>Nára</strong> fada go bhfeicfimid a chéile arís.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{Negative}</td>
+        <th class="bg-stone-300">nára</th>
+        <td>
+            <ul>
+                <li><strong>Gurab</strong> ann romhainn a bheidh sé.</li>
+                <li><strong>Gurab</strong> amhlaidh duit.</li>
+                <li><strong>Gurab</strong> é barr do leasa é.</li>
+            </ul>
+        </td>
+        <th class="bg-stone-300">nárab</th>
+        <td>
+            <ul>
+                <li><strong>Nárab</strong> am amú é.</li>
+                <li><strong>Nárab</strong> é a leas é.</li>
+                <li><strong>Nárab</strong> é duit.</li>
+            </ul>
+        </td>
+    </tr>
+</tbody>
+</table>
+++++
 `;export{n as default};
