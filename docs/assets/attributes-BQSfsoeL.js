@@ -171,4 +171,61 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-2-title_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta
 :7-2-2-title_en: Simple Forms at the beginning of Subordinate Clauses, other than a Relative Clause
 
+:7-2-2-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-2-2-A-title_en: The Present Tense and Future Tense
+
+:7-2-2-A-p1_ga: Úsáidtear _gur_ nó _gurb_ san aimsir láithreach nó san aimsir fháistineach mar seo a leanas:
+:7-2-2-A-p1_en: _gur_ or _gurb_ is used in the present or future tense as follows:
+
+:7-2-2-A-a-p_ga: Cuirtear _gur_ roimh chonsan i ngach cás, e.g., _Is dóigh leo gur teagascóir gairmiúil é Cian_.
+:7-2-2-A-a-p_en: _gur_ is always placed before a consonant, e.g., _Is dóigh leo gur teagascóir gairmiúil é Cian_.
+
+:7-2-2-A-b-p_ga: Cuirtear _gur_ roimh ghuta sna cásanna seo a leanas:
+:7-2-2-A-b-p_en: _gur_ is preceded by a vowel in the following cases:
+
+:7-2-2-A-b-i-p_ga: ainmfhocail (seachas ainmfhocail sna frásaí copaile réamhfhoclacha a luaitear faoi _gurb_ thíos), e.g., _Is dóigh liom gur áit dheas an t-óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
+:7-2-2-A-b-i-p_en: nouns (other than nouns in prepositional copula phrases mentioned under _gurb_ below), e.g., _Is dóigh liom gur áit dheas an t-óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
+
+:7-2-2-A-b-ii-p_ga: réamhfhocail, e.g., _Deir sí gur ag an rince a bheidh sí_;
+:7-2-2-A-b-ii-p_en: prepositions, e.g., _Deir sí gur ag an rince a bheidh sí_;
+
+:7-2-2-A-b-iii-p_ga: forainmnigh réamhfhoclacha, e.g., _Dúradh liom gur uait a tháinig an leabhar sin_;
+:7-2-2-A-b-iii-p_en: prepositional pronouns, e.g., _Dúradh liom gur uait a tháinig an leabhar sin_;
+
+:7-2-2-A-b-iv-p_ga: dobhriathra (seachas _amhlaidh_) nach dobhriathra aidiachtacha iad, e.g., _Síltear gur amach anseo atá i gceist_; _Tuigtear dom gur amuigh sa ghairdín atá an ceiliúradh ar bun_;
+:7-2-2-A-b-iv-p_en: adverbs (other than _amhlaidh_) which are not adjectival adverbs, e.g., _Síltear gur amach anseo atá i gceist_; _Tuigtear dom gur amuigh sa ghairdín atá an ceiliúradh ar bun_;
+
+:7-2-2-A-b-v-p_ga: na forainmnigh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_ más gníomhaí nó cuspóir ainm bhriathartha an forainmneach, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
+:7-2-2-A-b-v-p_en: the pronouns _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_ if the pronoun is the agent or object of a verbal noun, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
+
+:7-2-2-A-c-p_ga: Cuirtear _gurb_ roimh ghuta sna cásanna seo a leanas:
+:7-2-2-A-c-p_en: _gurb_ is preceded by a vowel in the following cases:
+
+:7-2-2-A-c-i-p_ga: aidiachtaí, e.g., _Sílim gurb iontach an deis duit é_; _Ceapaim gurb eolach an bhean í_;
+:7-2-2-A-c-i-p_en: adjectives, e.g., _Sílim gurb iontach an deis duit é_; _Ceapaim gurb eolach an bhean í_;
+
+:7-2-2-A-c-ii-p_ga: _amhlaidh (gurb amhlaidh)_, nó dobhriathra aidiachtacha (_go hard_, _gurb ard_; _go hannamh_, _gurb annamh_), e.g., _Measaim gurb amhlaidh atá; Sílim gurb annamh a tharlaíonn a leithéid_;
+:7-2-2-A-c-ii-p_en: _amhlaidh (gurb amhlaidh)_, or adjectival adverbs (_go hard_, _gurb ard_; _go hannamh_, _gurb annamh_), e.g., _Measaim gurb amhlaidh atá; Sílim gurb annamh a tharlaíonn a leithéid_;
+
+:7-2-2-A-c-iii-p_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_ nuair nach gníomhaí ná cuspóir ainm bhriathartha an forainmneach, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
+:7-2-2-A-c-iii-p_en: the pronouns _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_ when the pronoun is neither the agent nor the object of the verb noun, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
+
+:7-2-2-A-c-iv-p_ga: na forainmnigh thaispeántacha _eo_, _in_ agus _iúd_, e.g., _Deir sí gurb in é an fear_;
+:7-2-2-A-c-iv-p_en: the demonstrative pronouns _eo_, _in_ and _iúd_, e.g., _Deir sí gurb in é an fear_;
+
+:7-2-2-A-c-v-p_ga: na frásaí copaile réamhfhoclacha seo a leanas: _acmhainn do_, _áil le_, _aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Dar leo gurb acmhainn dóibh teach a cheannach_;
+:7-2-2-A-c-v-p_en: the following prepositional copula phrases: _acmhainn do_, _áil le_, _aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Dar leo gurb acmhainn dóibh teach a cheannach_; 
+
+:7-2-2-A-c-vi-p_ga: na focail ar leith seo: _áibhéil_, _éard_, _ionadh_, _iontas_ agus _ualach_, e.g., _Dúirt sé liom gurb ionadh leis an ní a tharla_.
+:7-2-2-A-c-vi-p_en: these particular words: _áibhéil_, _éard_, _ionadh_, _iontas_ and _ualach_, e.g., _Dúirt sé liom gurb ionadh leis an ní a tharla_.
+
+:7-2-2-A-p2_ga: Sa tábla ina dhiaidh seo, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i dtús fochlásal (seachas clásal coibhneasta) atá san aimsir láithreach nó san aimsir fháistineach.
+:7-2-2-A-p2_en: In the following table, the positive and negative forms of copula are set out at the beginning of a subordinate clause (other than a relative clause) that is in the present tense or the future tense.
+
+:Table7D-header_ga: An Aimsir Láithreach agus An Aimsir Fháistineach
+:Table7D-header_en: The Present Tense and The Future Tense
+
+:Table7D-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7D-caption_en: Simple Forms at the beginning of Subordinate Clauses, other than Relative Clauses — Present and Future Tense
+
 `;export{a as default};
