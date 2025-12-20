@@ -1,8 +1,3 @@
-import React from "react";
-import { TableOfContents } from "./Components/TableOfContents";
-import { FrontMatter } from "./Components/FrontMatter";
-import { Chapter } from "./Components/Chapter";
-
 const availableChapters = [
   { label: "Front Matter", id: "front-matter" },
   { label: "Chapter 1 - The Article", id: "1", done: true },
@@ -18,76 +13,34 @@ const availableChapters = [
   { label: "Chapter 11 - The Relative Clause", id: "11" },
 ];
 
-const chapterMap = new Map<string, number>(
-  availableChapters.map(({ id }, idx) => [id, idx])
-);
-
-function ChapterSelect(props: {
-  currentChapter: number;
-  onSelect: (x: number) => void;
-}) {
+function ChapterSelect() {
   return <>
     <b>Chapter Selection:</b><br />
     <sub>Line through = under construction</sub>
     <div className="flex flex-col flex-wrap border-1 border-dashed border-black mb-1">
       {
-        availableChapters.map((x, i) =>
-          <button
+        availableChapters.map((x) =>
+          <a
             key={x.label}
-            onClick={() => props.onSelect(i)}
+            href={`./entrypoints/chapter${x.id}.html`}
             title={x.label}
-            className={`text-nowrap cursor-pointer overflow-ellipsis 
-              overflow-hidden text-left
+            className={`text-nowrap cursor-pointer text-left
               max-w-full
-              text-white p-1 m-1 
-              ${i === props.currentChapter ? "bg-amber-500 font-bold" : "bg-amber-700"}
+              text-white bg-amber-700
+              p-1 m-1
               ${!x.done ? "line-through" : ""}`
             }>{
               x.label
-            }</button>
+            }</a>
         )
       }
     </div>
   </>;
 }
 
-function getChapterHash() {
-  const postHash = location.hash.slice(1);
-  const hashParts = postHash.split('_');
-  const chapterIdx = chapterMap.get(hashParts[1]);
-  return chapterIdx ?? -1;
-}
-
-function App() {
-  const [currentChapter, setCurrentChapter] = React.useState(getChapterHash());
-  const [tocLoadCounter, setTocLoadCounter] = React.useState(0);
-
-  const tocLoadSignal = React.useCallback(
-    () => setTocLoadCounter(t => t + 1),
-    []
-  );
-
-  /** Syntax is section-{chapter}-{section} */
-  const setCurrentChapterBasedOnHash = () => {
-    setCurrentChapter(getChapterHash());
-  };
-
-  React.useEffect(() => {
-    window.addEventListener('hashchange', () => {
-      setCurrentChapterBasedOnHash();
-    });
-
-    setCurrentChapterBasedOnHash();
-  }, []);
-
-  React.useEffect(() => {
-    if (location.hash)
-      document.querySelector(location.hash)?.scrollIntoView();
-  }, [currentChapter])
-
+function HomeMenu() {
   return <>
-    {/* <ExChapter1 /> */}
-    <div className="max-w-[900px] mb-[50vh] pl-1 pt-1">
+    <div className="max-w-[900px] pl-1 pt-1">
       <header className="border-b-1 border-black text-center bg-green-100 select-none">
         <h1 className="text-2xl font-bold">Irish Grammar</h1>
         <h2 className="text-xl mb-1">The Official Standard</h2>
@@ -110,26 +63,7 @@ function App() {
           The project is tracked at <a className="text-blue-400" href="https://github.com/calculuswhiz/caighdean-bearla">GitHub</a>.
         </li>
       </ul>
-      <ChapterSelect currentChapter={currentChapter} onSelect={(x) => {
-        // Let this be navigable
-        // location.href = `#${availableChapters[x].id}`;
-        setCurrentChapter(x);
-      }} />
-      <hr />
-      {
-        currentChapter !== -1
-        && <TableOfContents loadCounter={tocLoadCounter} />
-      }
-      {
-        currentChapter === 0
-          ? <FrontMatter />
-          : 1 <= currentChapter && currentChapter <= 11
-            ? <Chapter
-              number={currentChapter}
-              language="en"
-              onContentReady={tocLoadSignal} />
-            : null
-      }
+      <ChapterSelect />
       <footer className="fixed bottom-0 w-[100%] p-2 border-y-1 border-black bg-white">
         This is an unofficial translation.
       </footer>
@@ -143,4 +77,4 @@ function App() {
   </>;
 }
 
-export default App;
+export default HomeMenu;
