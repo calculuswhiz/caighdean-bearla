@@ -228,3 +228,395 @@
 :Table7D-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta — An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7D-caption_en: Simple Forms at the beginning of Subordinate Clauses, other than Relative Clauses — Present and Future Tense
 
+:7-2-2-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-2-2-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:7-2-2-B-p_ga: Leanann séimhiú foirmeacha na copaile san aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach. Tá rogha ann i gcás na bhfoirmeacha deimhneacha -- féach (a) agus (b) ina dhiaidh seo.
+:7-2-2-B-p_en: Lenition follows with the forms of the copula in the past tense, the past habitual tense and the conditional mood. There is an option for the positive forms -- see (a) and (b) below.
+
+:7-2-2-B-a-title_ga: _gur_ nó _gurbh_
+:7-2-2-B-a-title_en: _gur_ or _gurbh_
+
+:7-2-2-B-a-p1_ga: Úsáidtear na foirmeacha deimhneacha _gur_ nó _gurbh_ san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach mar seo a leanas:
+:7-2-2-B-a-p1_en: The positive forms _gur_ or _gurbh_ are used in the past tense, the past habitual tense or the conditional mood as follows:
+
+:7-2-2-B-a-i_ga: Cuirtear _gur_ roimh chonsan nó roimh _fh-_ + _consan_ i ngach cás, e.g., _D'ainneoin an méid a d'impigh sí air, níor dhóigh leis gur chóir an madra a choinneáil_.
+:7-2-2-B-a-i_en: _gur_ is placed before a consonant or before _fh-_ + _consonant_ in all situations, e.g., _D'ainneoin an méid a d'impigh sí air, níor dhóigh leis gur chóir an madra a choinneáil_.
+
+:7-2-2-B-a-ii_ga: Cuirtear _gurbh_ roimh ghuta nó roimh _fh-_ + _guta_ i ngach cás, e.g., _Creidtear gurbh ealaíontóir cumasach ab ea é_; _Dúirt sé gurbh iomaí cleas glic a d'imir Seán air_.
+:7-2-2-B-a-ii_en: _gurbh_ is placed before a vowel or before _fh-_ + _vowel_ in all situations, e.g., _Creidtear gurbh ealaíontóir cumasach ab ea é_; _Dúirt sé gurbh iomaí cleas glic a d'imir Seán air_.
+
+:7-2-2-B-a-p2_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach den chopail i bpríomhchlásal atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-2-2-B-a-p2_en: The table below sets out the positive form of copula in a main clause that is in the past tense, the past habitual tense or the conditional mood.
+
+:Table7E-header_ga: An Aimsir Chaite, An Aimsir Ghnáthchaite agus An Modh Coinníollach
+:Table7E-header_en: The Past Tense, the Past Habitual Tense and the Conditional Tense
+
+:Table7E-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta -- An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach -- _gur_ agus _gurbh_
+:Table7E-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses -- Past Tense, Past Habitual Tense and Conditional Mood -- _gur_ and _gurbh_
+
+:7-2-2-B-b-title_ga: _go mba_ nó _go mb'_
+:7-2-2-B-b-title_en: _go mba_ or _go mb'_
+
+:7-2-2-B-b-p1_ga: Tá sé de rogha freisin na foirmeacha deimhneacha _go mba_ nó _go mb'_ a úsáid san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach mar seo a leanas:
+:7-2-2-B-b-p1_en: It is also optional to use the positive forms _go mba_ or _go mb'_ in the past tense, the past habitual tense or the conditional mood as follows:
+
+:7-2-2-B-b-i_ga: Cuirtear _go mba_ roimh chonsan nó roimh _fh- + consan_ i ngach cás, e.g., _Cé gur impigh sí air, níor dhóigh leis go mba chóir an madra a choinneáil_.
+:7-2-2-B-b-i_en: _go mba_ is placed before a consonant or before _fh-_ + _consonant_ in all situations, e.g., _Cé gur impigh sí air, níor dhóigh leis go mba chóir an madra a choinneáil_.
+
+:7-2-2-B-b-ii_ga: Cuirtear _go mba_ roimh ghuta nó roimh _fh-_ + _guta_ sna cásanna seo a leanas:
+:7-2-2-B-b-ii_en: _go mba_ is placed before a vowel or before _fh-_ + _vowel_ in the following cases:
+
+:7-2-2-B-b-ii-1_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
+:7-2-2-B-b-ii-1_en: the pronouns _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
+
+:7-2-2-B-b-ii-2_ga: réamhfhocail, e.g., _Mheas mé go mba ar an mbád a tháinig siad_;
+:7-2-2-B-b-ii-2_en: prepositions, e.g., _Mheas mé go mba ar an mbád a tháinig siad_;
+
+:7-2-2-B-b-ii-3_ga: forainmnigh réamhfhoclacha, e.g., _Shíl mé go mba ann dó_;
+:7-2-2-B-b-ii-3_en: prepositional pronouns, e.g., _Shíl mé go mba ann dó_;
+
+:7-2-2-B-b-ii-4_ga: dobhriathra nach dobhriathra aidiachtacha iad, e.g., _Dúirt sé go mba arú inné a réitigh sí an dinnéar_.
+:7-2-2-B-b-ii-4_en: adverbs that are not adjectival adverbs, e.g., _Dúirt sé go mba arú inné a réitigh sí an dinnéar_.
+
+:7-2-2-B-b-iii_ga: Cuirtear _go mb'_ roimh ghuta nó roimh _fh-_ + _guta_ sna cásanna seo a leanas:
+:7-2-2-B-b-iii_en: _go mb'_ is placed before a vowel or before _fh-_ + _vowel_ in the following situations:
+
+:7-2-2-B-b-iii-1_ga: ainmfhocail, e.g., _Bronnadh teastas uirthi á rá go mb'altra cáilithe in Éirinn í_;
+:7-2-2-B-b-iii-1_en: nouns, e.g., _Bronnadh teastas uirthi á rá go mb'altra cáilithe in Éirinn í_;
+
+:7-2-2-B-b-iii-2_ga: aidiachtaí, e.g., _Dúirt na gasúir go mb'aoibhinn leo an cáca milis_;
+:7-2-2-B-b-iii-2_en: adjectives, e.g., _Dúirt na gasúir go mb'aoibhinn leo an cáca milis_;
+
+:7-2-2-B-b-iii-3_ga: na forainmnigh thaispeántacha _eo_, _in_ agus _úd_, e.g., _Dúirt sé go mb'in a raibh aige_;
+:7-2-2-B-b-iii-3_en: the demonstrative pronouns _eo_, _in_ and _úd_, e.g., _Dúirt sé go mb'in a raibh aige_;
+
+:7-2-2-B-b-iii-4_ga: dobhriathra aidiachtacha, e.g., _Dúirt sé go mb'annamh a théadh sé ann_.
+:7-2-2-B-b-iii-4_en: adjectival adverbs, e.g., _Dúirt sé go mb'annamh a théadh sé ann_.
+
+:7-2-2-B-b-p2_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach den chopail i bpríomhchlásal atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-2-2-B-b-p2_en: In the below table, the positive form of copula is set out in a main clause that is in the past tense, the past habitual tense or the conditional mood.
+
+:Table7F-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7F-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:Table7F-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach — _go mba_ agus _go mb'_
+:Table7F-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses — the Past Tense, the Past Habitual Tense and the Conditional Mood — _go mba_ and _go mb'_
+
+:7-2-2-B-c-title_ga: _nár_ nó _nárbh_
+:7-2-2-B-c-title_en: _nár_ or _nárbh_
+
+:7-2-2-B-c-p1_ga: Úsáidtear na foirmeacha diúltacha _nár_ agus _nárbh_ san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach mar seo a leanas:
+:7-2-2-B-c-p1_en: The negative forms _nár_ and _nárbh_ are used in the past tense, the past habitual past tense or the conditional mood as follows:
+
+:7-2-2-B-c-i_ga: Cuirtear _nár_ roimh chonsan nó roimh _fh-_ + _consan_ i ngach cás, e.g., _Bhí mise den tuairim nár mhiste leis cabhrú leat_.
+:7-2-2-B-c-i_en: _nár_ is placed before a consonant or before _fh-_ + _consonant_ in all situations, e.g., _Bhí mise den tuairim nár mhiste leis cabhrú leat_.
+
+:7-2-2-B-c-ii_ga: Cuirtear _nárbh_ roimh ghuta nó roimh _fh-_ + _guta_ i ngach cás, e.g., _Ba léir nárbh ionann an dá stoca ar chor ar bith_.
+:7-2-2-B-c-ii_en: _nárbh_ is placed before a vowel or before _fh-_ + _vowel_ in all situations, e.g., _Ba léir nárbh ionann an dá stoca ar chor ar bith_.
+
+:7-2-2-B-c-p2_ga: Sa tábla thíos, leagtar amach an fhoirm dhiúltach den chopail i bpríomhchlásal atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-2-2-B-c-p2_en: In the table below, the negative form of the copula is set out in a main clause that is in the past tense, the past habitual tense or the conditional mood.
+
+:Table7G-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7G-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:Table7G-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach — _nár_ agus _nárbh_
+:Table7G-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses — the Past Tense, the Past Habitual Tense and the Conditional Mood — _nár_ and _nárbh_
+
+:7-2-3-title_ga: Foirmeacha Simplí i gClásal Coibhneasta Díreach
+:7-2-3-title_en: Simple Forms in Direct Relative Clauses
+
+:7-2-3-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-2-3-A-title_en: The Present Tense and the Future Tense
+
+:7-2-3-A-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta díreach atá san aimsir láithreach nó san aimsir fháistineach.
+:7-2-3-A-p_en: In the table below, the positive and negative forms of the copula in a direct relative clause that is in the present tense or the future tense are set out.
+
+:Table7H-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7H-header_en: The Present Tense and the Future Tense
+
+:Table7H-subheader_ga: roimh gach consan agus gach guta
+:Table7H-subheader_en: before every consonant and every vowel
+
+:Table7H-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Díreach — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7H-caption_en: Simple Forms in Direct Relative Clauses — The Present Tense and the Future Tense
+
+:7-2-3-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-2-3-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:7-2-3-B-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta díreach atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-2-3-B-p_en: In the below table, the positive and negative forms of the copula in a direct relative clause that is in the past tense, the past habitual tense or the conditional mood are set out.
+
+:Table7I-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7I-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:Table7I-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Díreach — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7I-caption_en: Simple Forms in Direct Relative Clauses — The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:7-2-4-title_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach
+:7-2-4-title_en: Simple Forms in a Indirect Relative Clause
+
+:7-2-4-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-2-4-A-title_en: The Present Tense and the Future Tense
+
+:7-2-4-A-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta indíreach atá san aimsir láithreach nó san aimsir fháistineach.
+:7-2-4-A-p_en: In the table below, the positive and negative forms of the copula in an indirect relative clause that is in the present tense or the future tense are set out.
+
+:Table7J-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7J-caption_en: Simple Forms in a Indirect Relative Clause — The Present Tense and the Future Tense
+
+:Table7J-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7J-header_en: The Present Tense and the Future Tense
+
+:7-2-4-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-2-4-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
+
+:7-2-4-B-p_ga: TODO
+:7-2-4-B-p_en: TODO
+
+:Table7K-header_ga: TODO
+:Table7K-header_en: TODO
+
+:Table7K-caption_ga: TODO
+:Table7K-caption_en: TODO
+
+:7-2-5-title_ga: TODO
+:7-2-5-title_en: TODO
+
+:7-2-5-A-title_ga: TODO
+:7-2-5-A-title_en: TODO
+
+:7-2-5-A-a-p_ga: TODO
+:7-2-5-A-a-p_en: TODO
+
+:7-2-5-A-a-i-p_ga: TODO
+:7-2-5-A-a-i-p_en: TODO
+
+:7-2-5-A-a-ii-p_ga: TODO
+:7-2-5-A-a-ii-p_en: TODO
+
+:7-2-5-A-a-iii-p_ga: TODO
+:7-2-5-A-a-iii-p_en: TODO
+
+:7-2-5-A-b-p_ga: TODO
+:7-2-5-A-b-p_en: TODO
+
+:7-2-5-A-b-i-p_ga: TODO
+:7-2-5-A-b-i-p_en: TODO
+
+:7-2-5-A-b-ii-p_ga: TODO
+:7-2-5-A-b-ii-p_en: TODO
+
+:7-2-5-A-b-iii-p_ga: TODO
+:7-2-5-A-b-iii-p_en: TODO
+
+:7-2-5-A-b-iv-p_ga: TODO
+:7-2-5-A-b-iv-p_en: TODO
+
+:7-2-5-A-b-v-p_ga: TODO
+:7-2-5-A-b-v-p_en: TODO
+
+:7-2-5-A-b-vi-p_ga: TODO
+:7-2-5-A-b-vi-p_en: TODO
+
+:7-2-5-A-c-p_ga: TODO
+:7-2-5-A-c-p_en: TODO
+
+:7-2-5-A-c-i-p_ga: TODO
+:7-2-5-A-c-i-p_en: TODO
+
+:7-2-5-A-c-ii-p_ga: TODO
+:7-2-5-A-c-ii-p_en: TODO
+
+:7-2-5-A-c-iii-p_ga: TODO
+:7-2-5-A-c-iii-p_en: TODO
+
+:7-2-5-A-p_ga: TODO
+:7-2-5-A-p_en: TODO
+
+:Table7L-header_ga: TODO
+:Table7L-header_en: TODO
+
+:Table7L-caption_ga: TODO
+:Table7L-caption_en: TODO
+
+:Table7L-subheader-col1_ga: TODO
+:Table7L-subheader-col1_en: TODO
+
+:Table7L-subheader-col2_ga: TODO
+:Table7L-subheader-col2_en: TODO
+
+:Table7L-row1-col1_ga: TODO
+:Table7L-row1-col1_en: TODO
+
+:Table7L-row1-col2_ga: TODO
+:Table7L-row1-col2_en: TODO
+
+:Table7L-row2-col1_ga: TODO
+:Table7L-row2-col1_en: TODO
+
+:Table7L-row2-col2_ga: TODO
+:Table7L-row2-col2_en: TODO
+
+:Table7L-row3-col1_ga: TODO
+:Table7L-row3-col1_en: TODO
+
+:Table7L-row3-col2_ga: TODO
+:Table7L-row3-col2_en: TODO
+
+:Table7L-row4-col1_ga: TODO
+:Table7L-row4-col1_en: TODO
+
+:Table7L-row5-col1_ga: TODO
+:Table7L-row5-col1_en: TODO
+
+:Table7L-row6-col1_ga: TODO
+:Table7L-row6-col1_en: TODO
+
+:7-2-5-B-title_ga: TODO
+:7-2-5-B-title_en: TODO
+
+:7-2-5-B-p_ga: TODO
+:7-2-5-B-p_en: TODO
+
+:7-3-title_ga: TODO
+:7-3-title_en: TODO
+
+:7-3-1-title_ga: TODO
+:7-3-1-title_en: TODO
+
+:7-3-1-A-title_ga: TODO
+:7-3-1-A-title_en: TODO
+
+:7-3-1-A-p_ga: TODO
+:7-3-1-A-p_en: TODO
+
+:Table7M-header_ga: TODO
+:Table7M-header_en: TODO
+
+:Table7M-caption_ga: TODO
+:Table7M-caption_en: TODO
+
+:7-3-1-B-title_ga: TODO
+:7-3-1-B-title_en: TODO
+
+:7-3-1-B-p1_ga: TODO
+:7-3-1-B-p1_en: TODO
+
+:Table7N-header_ga: TODO
+:Table7N-header_en: TODO
+
+:Table7N-caption_ga: TODO
+:Table7N-caption_en: TODO
+
+:7-3-1-p_ga: TODO
+:7-3-1-p_en: TODO
+
+:7-3-2-title_ga: TODO
+:7-3-2-title_en: TODO
+
+:7-3-2-A-title_ga: TODO
+:7-3-2-A-title_en: TODO
+
+:7-3-2-A-p_ga: TODO
+:7-3-2-A-p_en: TODO
+
+:Table7O-header_ga: TODO
+:Table7O-header_en: TODO
+
+:Table7O-caption_ga: TODO
+:Table7O-caption_en: TODO
+
+:7-3-2-B-title_ga: TODO
+:7-3-2-B-title_en: TODO
+
+:7-3-2-B-p_ga: TODO
+:7-3-2-B-p_en: TODO
+
+:Table7P-header_ga: TODO
+:Table7P-header_en: TODO
+
+:Table7P-caption_ga: TODO
+:Table7P-caption_en: TODO
+
+:7-3-3-title_ga: TODO
+:7-3-3-title_en: TODO
+
+:7-3-3-A-title_ga: TODO
+:7-3-3-A-title_en: TODO
+
+:7-3-3-A-p_ga: TODO
+:7-3-3-A-p_en: TODO
+
+:Table7Q-header_ga: TODO
+:Table7Q-header_en: TODO
+
+:Table7Q-caption}_ga: TODO
+:Table7Q-caption}_en: TODO
+
+:7-3-3-B-title_ga: TODO
+:7-3-3-B-title_en: TODO
+
+:7-3-3-B-p_ga: TODO
+:7-3-3-B-p_en: TODO
+
+:Table7R-header_ga: TODO
+:Table7R-header_en: TODO
+
+:Table7R-caption_ga: TODO
+:Table7R-caption_en: TODO
+
+:7-3-4-title_ga: TODO
+:7-3-4-title_en: TODO
+
+:7-3-4-p_ga: TODO
+:7-3-4-p_en: TODO
+
+:7-3-4-A-title_ga: TODO
+:7-3-4-A-title_en: TODO
+
+:7-3-4-A-p_ga: TODO
+:7-3-4-A-p_en: TODO
+
+:Table7S-header_ga: TODO
+:Table7S-header_en: TODO
+
+:Table7S-caption_ga: TODO
+:Table7S-caption_en: TODO
+
+:7-3-4-B-title_ga: TODO
+:7-3-4-B-title_en: TODO
+
+:7-3-4-B-p_ga: TODO
+:7-3-4-B-p_en: TODO
+
+:Table7T-caption_ga: TODO
+:Table7T-caption_en: TODO
+
+:Table7T-header_ga: TODO
+:Table7T-header_en: TODO
+
+:7-3-5-title_ga: TODO
+:7-3-5-title_en: TODO
+
+:7-3-5-p_ga: TODO
+:7-3-5-p_en: TODO
+
+:Table7U-caption_ga: TODO
+:Table7U-caption_en: TODO
+
+:Table7U-header_ga: TODO
+:Table7U-header_en: TODO
+
+:7-4-title_ga: TODO
+:7-4-title_en: TODO
+
+:7-4-p_ga: TODO
+:7-4-p_en: TODO
+
+:Table7V-caption_ga: TODO
+:Table7V-caption_en: TODO
+
+:Table7V-header_ga: TODO
+:Table7V-header_en: TODO
