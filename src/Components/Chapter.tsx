@@ -35,7 +35,7 @@ export function Chapter({ number, language = "en", onContentReady }: ChapterProp
 
       const renderedContents = asciidoctor.convert(combined, {
         attributes: {
-          rootRef: import.meta.env.DEV ? "/public/" : "/"
+          rootRef: import.meta.env.DEV ? "/public/" : "/caighdean-bearla/"
         }
       }) as string;
       setChapterAdoc(renderedContents);
