@@ -1335,8 +1335,4 @@ i. {7-1-1-i-text}
 </tbody>
 </table>
 ++++
-
-++++
-<div class="mb-[50vh]"></div>
-++++
 `;export{n as default};
