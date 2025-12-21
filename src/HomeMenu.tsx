@@ -6,7 +6,7 @@ const availableChapters = [
   { label: "Chapter 4 - The Adjective", id: "4", done: true },
   { label: "Chapter 5 - The Verb", id: "5", done: true },
   { label: "Chapter 6 - The Adverb", id: "6", done: true },
-  { label: "Chapter 7 - The Copula", id: "7" },
+  { label: "Chapter 7 - The Copula", id: "7", done: true },
   { label: "Chapter 8 - The Pronominal", id: "8" },
   { label: "Chapter 9 - The Number", id: "9" },
   { label: "Chapter 10 - The Initial Changes", id: "10" },
