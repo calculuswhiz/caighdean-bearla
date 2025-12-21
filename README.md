@@ -82,9 +82,10 @@ Visit the localhost link.
 - **US or UK?** I personally do not care which one the final product uses, but as I am from the US, I will be using spelling for the parts I do. Depending on what people may want, we can change this later. Some UK spellings from chapter 1 still remain to be reconciled.
 - **"Case"** The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to translate this "when" or avoid the word "case" altogether if there is a perceived risk of ambiguity in a given context.
 - **Machine Translation** Machine translation (usually Google Translate) is used extensively to assist with the translation. These are to be vetted with caution.
-- **Generative AI Assistance** Generative AI is only permitted to translate words and idioms not found in available dictionaries, and even then, it is to be carefully scrutinized in relation to its context. It is not to be used to translate anything at the sentence level or beyond.
+- **Generative AI Assistance** Generative AI is only permitted to translate words and idioms not found in available dictionaries, and even then, it is to be carefully scrutinized in relation to its context. It will not be used to translate very large amounts of text (more than one translation unit in the .adoc files.)
 
-  Having used ChatGPT for some translations and assistance, it is simply too unreliable for anything other translating obscure words or phrases. It also consumes vastly more resources than Google Translate and would be environmentally irresponsible to use it to translate a large text source.
+  - **Amendment 1** GitHub Copilot has some surprisingly competent translations in its code completion, with comparable (slightly better on average) results to Google Translate. Like GT, it is prone to errors, so use with caution and QC every line.
+
 - **Sample Boxes** The gray boxes that show examples will generally be more literally translated to highlight Irish Grammar points (with some attempt to bold corresponding words). If the correspondence does not help, no words may be bolded. If the translation does not serve for this, it may be omitted.
 
 ### Abbreviations and sources

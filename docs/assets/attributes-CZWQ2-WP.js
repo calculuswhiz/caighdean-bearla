@@ -13,8 +13,8 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-1-1-title_ga: *Feidhmeanna na Copaile*
 :7-1-1-title_en: *Functions of the Copula*
 
-:7-1-1-p_ga: Is iad príomhfheidhmeanna na copaile —-
-:7-1-1-p_en: The primary functions of the copula are —-
+:7-1-1-p_ga: Is iad príomhfheidhmeanna na copaile --
+:7-1-1-p_en: The primary functions of the copula are --
 
 :7-1-1-a-text_ga: an t-ainmní a aicmiú:
 :7-1-1-a-text_en: classification of the subject:
@@ -50,7 +50,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-a-p_en: A simple form is a form of the copula that is not combined with an interrogative pronoun, preposition or conjunction.
 
 :7-2-b-p1_ga: Leagtar amach anseo foirmeacha simplí na copaile:
-:7-2-b-p1_en: The simple forms of copula are set out here:
+:7-2-b-p1_en: The simple forms of copula are given here:
 
 :7-2-b-i-p_ga: i bpríomhchlásal;
 :7-2-b-i-p_en: in a main clause;
@@ -159,6 +159,9 @@ const a=`:ChapterTitle_ga: An Chopail
 :BeforeVowelQualified_ga: roimh ghuta nó roimh _fh-_ + _ghuta_
 :BeforeVowelQualified_en: before a vowel or before _fh-_ + _vowel_
 
+:BeforeConsonantAndVowel_ga: roimh gach consan agus gach guta
+:BeforeConsonantAndVowel_en: before every consonant and every vowel
+
 :7-2-B-p3_ga: Sa tábla thíos, leagtar amach an fhoirm dhiúltach, an fhoirm cheisteach dheimhneach agus an fhoirm cheisteach dhiúltach den chopail i bpríomhchlásal atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
 :7-2-B-p3_en: The table below shows the negative form, the positive interrogative form and the negative interrogative form of the copula in a main clause that is in the past tense, the past habitual tense or the conditional mood.
 
@@ -220,7 +223,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-2-A-c-vi-p_en: these particular words: _áibhéil_, _éard_, _ionadh_, _iontas_ and _ualach_, e.g., _Dúirt sé liom gurb ionadh leis an ní a tharla_.
 
 :7-2-2-A-p2_ga: Sa tábla ina dhiaidh seo, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i dtús fochlásal (seachas clásal coibhneasta) atá san aimsir láithreach nó san aimsir fháistineach.
-:7-2-2-A-p2_en: In the following table, the positive and negative forms of copula are set out at the beginning of a subordinate clause (other than a relative clause) that is in the present tense or the future tense.
+:7-2-2-A-p2_en: In the following table, the positive and negative forms of copula are given at the beginning of a subordinate clause (other than a relative clause) that is in the present tense or the future tense.
 
 :Table7D-header_ga: An Aimsir Láithreach agus An Aimsir Fháistineach
 :Table7D-header_en: The Present Tense and The Future Tense
@@ -331,7 +334,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-3-A-title_en: The Present Tense and the Future Tense
 
 :7-2-3-A-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta díreach atá san aimsir láithreach nó san aimsir fháistineach.
-:7-2-3-A-p_en: In the table below, the positive and negative forms of the copula in a direct relative clause that is in the present tense or the future tense are set out.
+:7-2-3-A-p_en: In the table below, the positive and negative forms of the copula in a direct relative clause that is in the present tense or the future tense are given.
 
 :Table7H-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7H-header_en: The Present Tense and the Future Tense
@@ -346,7 +349,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-3-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :7-2-3-B-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta díreach atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-2-3-B-p_en: In the below table, the positive and negative forms of the copula in a direct relative clause that is in the past tense, the past habitual tense or the conditional mood are set out.
+:7-2-3-B-p_en: In the below table, the positive and negative forms of the copula in a direct relative clause that is in the past tense, the past habitual tense or the conditional mood are given.
 
 :Table7I-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7I-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
@@ -361,7 +364,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-4-A-title_en: The Present Tense and the Future Tense
 
 :7-2-4-A-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta indíreach atá san aimsir láithreach nó san aimsir fháistineach.
-:7-2-4-A-p_en: In the table below, the positive and negative forms of the copula in an indirect relative clause that is in the present tense or the future tense are set out.
+:7-2-4-A-p_en: In the table below, the positive and negative forms of the copula in an indirect relative clause that is in the present tense or the future tense are given.
 
 :Table7J-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach — An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7J-caption_en: Simple Forms in a Indirect Relative Clause — The Present Tense and the Future Tense
@@ -372,251 +375,251 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-4-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :7-2-4-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-2-4-B-p_ga: TODO
-:7-2-4-B-p_en: TODO
+:7-2-4-B-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta indíreach atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-2-4-B-p_en: In the table below, the positive and negative forms of the copula in an indirect relative clause that is in the past tense, the past habitual tense or the conditional mood are given.
 
-:Table7K-header_ga: TODO
-:Table7K-header_en: TODO
+:Table7K-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7K-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:Table7K-caption_ga: TODO
-:Table7K-caption_en: TODO
+:Table7K-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7K-caption_en: Simple Forms in a Indirect Relative Clause — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-2-5-title_ga: TODO
-:7-2-5-title_en: TODO
+:7-2-5-title_ga: Athruithe Tosaigh i nDiaidh na Copaile
+:7-2-5-title_en: Initial Mutations after the Copula
 
-:7-2-5-A-title_ga: TODO
-:7-2-5-A-title_en: TODO
+:7-2-5-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-2-5-A-title_en: The Present Tense and the Future Tense
 
-:7-2-5-A-a-p_ga: TODO
-:7-2-5-A-a-p_en: TODO
+:7-2-5-A-a-p_ga: Ní dhéantar aon athrú tosaigh i ndiaidh na bhfoirmeacha seo a leanas den chopail:
+:7-2-5-A-a-p_en: No initial change is made after the following forms of the copula:
 
-:7-2-5-A-a-i-p_ga: TODO
-:7-2-5-A-a-i-p_en: TODO
+:7-2-5-A-a-i-p_ga: an fhoirm dheimhneach den chopail _is_, e.g., _Is bréag é_;
+:7-2-5-A-a-i-p_en: the positive form of the copula _is_, e.g., _Is bréag é_;
 
-:7-2-5-A-a-ii-p_ga: TODO
-:7-2-5-A-a-ii-p_en: TODO
+:7-2-5-A-a-ii-p_ga: an fhoirm cheisteach dheimhneach _an_, e.g., _An cuimhin leat an cluiche sin?_;
+:7-2-5-A-a-ii-p_en: the positive interrogative form _an_, e.g., _An cuimhin leat an cluiche sin?_;
 
-:7-2-5-A-a-iii-p_ga: TODO
-:7-2-5-A-a-iii-p_en: TODO
+:7-2-5-A-a-iii-p_ga: an fhoirm cheisteach dhiúltach _nach_, e.g., _Nach buachaill atá ann?_
+:7-2-5-A-a-iii-p_en: the negative interrogative form _nach_, e.g., _Nach buachaill atá ann?_
 
-:7-2-5-A-b-p_ga: TODO
-:7-2-5-A-b-p_en: TODO
+:7-2-5-A-b-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh an leagain dhiúltaigh den chopail _ní_:
+:7-2-5-A-b-p_en: _h_ is preceded by a vowel after the negative form of the copula _ní_:
 
-:7-2-5-A-b-i-p_ga: TODO
-:7-2-5-A-b-i-p_en: TODO
+:7-2-5-A-b-i-p_ga: ar na forainmnigh _é_, _í_, _ea_, _iad_, _eo_, _in_ agus _iúd_, e.g., _Ní hiad a ghoid do mhála_; _Ní hin é mo theachsa_;
+:7-2-5-A-b-i-p_en: on the pronouns _é_, _í_, _ea_, _iad_, _eo_, _in_ and _iúd_, e.g., _Ní hiad a ghoid do mhála_; _Ní hin é mo theachsa_;
 
-:7-2-5-A-b-ii-p_ga: TODO
-:7-2-5-A-b-ii-p_en: TODO
+:7-2-5-A-b-ii-p_ga: ar na haidiachtaí seo: _amháin_, _aon_, _ionann_, _iondúil_, e.g., _Ní hionann an dá chás_;
+:7-2-5-A-b-ii-p_en: on these adjectives: _amháin_, _aon_, _ionann_, _iondúil_, e.g., _Ní hionann an dá chás_;
 
-:7-2-5-A-b-iii-p_ga: TODO
-:7-2-5-A-b-iii-p_en: TODO
+:7-2-5-A-b-iii-p_ga: ar na dobhriathra seo: _amhlaidh_, _annamh_, e.g., _Ní hannamh dó a bheith luath_;
+:7-2-5-A-b-iii-p_en: on these adverbs: _amhlaidh_, _annamh_, e.g., _Ní hannamh dó a bheith luath_;
 
-:7-2-5-A-b-iv-p_ga: TODO
-:7-2-5-A-b-iv-p_en: TODO
+:7-2-5-A-b-iv-p_ga: ar na frásaí copaile réamhfhoclacha seo: _acmhainn do_, _áil le, aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Ní hacmhainn dó bille eile a íoc_;
+:7-2-5-A-b-iv-p_en: on these prepositional copula phrases: _acmhainn do_, _áil le, aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Ní hacmhainn dó bille eile a íoc_;
 
-:7-2-5-A-b-v-p_ga: TODO
-:7-2-5-A-b-v-p_en: TODO
+:7-2-5-A-b-v-p_ga: ar na focail ar leith seo: _áibhéil_, _éard_, _ionadh_, _iontas_ agus _ualach_, e.g., _Ní hionadh ar bith é go gcuireann siad fáilte roimh chách_;
+:7-2-5-A-b-v-p_en: on these particular words: _áibhéil_, _éard_, _ionadh_, _iontas_ agus _ualach_, e.g., _Ní hionadh ar bith é go gcuireann siad fáilte roimh chách_;
 
-:7-2-5-A-b-vi-p_ga: TODO
-:7-2-5-A-b-vi-p_en: TODO
+:7-2-5-A-b-vi-p_ga: i gcorr-sheanfhocal, e.g., _Ní heolas go haontíos_; _Ní haithne go haontíos_.
+:7-2-5-A-b-vi-p_en: in an odd proverb, e.g., _Ní heolas go haontíos_; _Ní haithne go haontíos_.
 
-:7-2-5-A-c-p_ga: TODO
-:7-2-5-A-c-p_en: TODO
+:7-2-5-A-c-p_ga: Ní chuirtear _h_ roimh ghuta i ndiaidh an leagain dhiúltaigh den chopail _ní_:
+:7-2-5-A-c-p_en: _h_ is not preceded by a vowel after the negative version of copula _ní_:
 
-:7-2-5-A-c-i-p_ga: TODO
-:7-2-5-A-c-i-p_en: TODO
+:7-2-5-A-c-i-p_ga: ar ainmfhocail i gcoitinne, e.g., _Ní eagrán nua den pháipéar atá á léamh agat_;
+:7-2-5-A-c-i-p_en: on nouns in general, e.g., _Ní eagrán nua den pháipéar atá á léamh agat_;
 
-:7-2-5-A-c-ii-p_ga: TODO
-:7-2-5-A-c-ii-p_en: TODO
+:7-2-5-A-c-ii-p_ga: ar aidiachtaí i gcoitinne, e.g., _Ní uaigneach fear i gcomhluadar_;
+:7-2-5-A-c-ii-p_en: on adjectives in general, e.g., _Ní uaigneach fear i gcomhluadar_;
 
-:7-2-5-A-c-iii-p_ga: TODO
-:7-2-5-A-c-iii-p_en: TODO
+:7-2-5-A-c-iii-p_ga: ar dhobhriathra ach amháin _amhlaidh_, _annamh_, e.g., _Ní inné a tharla an timpiste_; _Ní ansin a thit mé_.
+:7-2-5-A-c-iii-p_en: on adverbs except _amhlaidh_, _annamh_, e.g., _Ní inné a tharla an timpiste_; _Ní ansin a thit mé_.
 
-:7-2-5-A-p_ga: TODO
-:7-2-5-A-p_en: TODO
+:7-2-5-A-p_ga: Sa tábla thíos, leagtar amach na hathruithe tosaigh a dhéantar ar ghuta i ndiaidh an leagain dhiúltaigh den chopail _ní_.
+:7-2-5-A-p_en: In the table below, the initial vowel changes after the negative form of the copula _ní_ are given.
 
-:Table7L-header_ga: TODO
-:Table7L-header_en: TODO
+:Table7L-header_ga: Athruithe Tosaigh ar Ghuta i nDiaidh an Leagain Dhiúltaigh den Chopail _ní_
+:Table7L-header_en: Initial Vowel Mutations After the Negative Form of the Copula _ní_
 
-:Table7L-caption_ga: TODO
-:Table7L-caption_en: TODO
+:Table7L-caption_ga: Athruithe Tosaigh i ndiaidh an Leagain Dhiúltaigh den Chopail _ní_
+:Table7L-caption_en: Initial Vowel Mutations After the Negative Form of the Copula _ní_
 
-:Table7L-subheader-col1_ga: TODO
-:Table7L-subheader-col1_en: TODO
+:Table7L-subheader-col1_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_
+:Table7L-subheader-col1_en: _h_ is put before vowel after _ní_
 
-:Table7L-subheader-col2_ga: TODO
-:Table7L-subheader-col2_en: TODO
+:Table7L-subheader-col2_ga: Ní chuirtear _h_ roimh ghuta i ndiaidh _ní_
+:Table7L-subheader-col2_en: _h_ is not put before vowel after _ní_
 
-:Table7L-row1-col1_ga: TODO
-:Table7L-row1-col1_en: TODO
+:Table7L-row1-col1_ga: ar na forainmnigh seo: _é_, _í_, _ea_, _iad_, _eo_, _in_, _iúd_
+:Table7L-row1-col1_en: on these pronouns: _é_, _í_, _ea_, _iad_, _eo_, _in_, _iúd_
 
-:Table7L-row1-col2_ga: TODO
-:Table7L-row1-col2_en: TODO
+:Table7L-row1-col2_ga: ar ainmfhocail i gcoitinne
+:Table7L-row1-col2_en: on nouns in general
 
-:Table7L-row2-col1_ga: TODO
-:Table7L-row2-col1_en: TODO
+:Table7L-row2-col1_ga: ar na haidiachtaí seo: _amháin_, _aon_, _ionann_, _iondúil_
+:Table7L-row2-col1_en: on these adjectives: _amháin_, _aon_, _ionann_, _iondúil_
 
-:Table7L-row2-col2_ga: TODO
-:Table7L-row2-col2_en: TODO
+:Table7L-row2-col2_ga: ar aidiachtaí i gcoitinne
+:Table7L-row2-col2_en: on adjectives in general
 
-:Table7L-row3-col1_ga: TODO
-:Table7L-row3-col1_en: TODO
+:Table7L-row3-col1_ga: ar na dobhriathra seo: _amhlaidh_, _annamh_
+:Table7L-row3-col1_en: on these adverbs: _amhlaidh_, _annamh_
 
-:Table7L-row3-col2_ga: TODO
-:Table7L-row3-col2_en: TODO
+:Table7L-row3-col2_ga: ar dhobhriathra (ach amháin _amhlaidh_, _annamh_)
+:Table7L-row3-col2_en: on adverbs (except _amhlaidh_, _annamh_)
 
-:Table7L-row4-col1_ga: TODO
-:Table7L-row4-col1_en: TODO
+:Table7L-row4-col1_ga: ar na frásaí copaile réamhfhoclacha seo: _acmhainn do_, _áil le_, _aitheanta do_, _aithnid do_, _éadáil le_, _eagal do/le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_
+:Table7L-row4-col1_en: on these prepositional copula phrases: _acmhainn do_, _áil le_, _aitheanta do_, _aithnid do_, _éadáil le_, _eagal do/le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_
 
-:Table7L-row5-col1_ga: TODO
-:Table7L-row5-col1_en: TODO
+:Table7L-row5-col1_ga: ar na focail ar leith seo: _áibhéil_, _éard_, _ionadh_, _iontas_, _ualach_
+:Table7L-row5-col1_en: on these specific words: _áibhéil_, _éard_, _ionadh_, _iontas_, _ualach_
 
-:Table7L-row6-col1_ga: TODO
-:Table7L-row6-col1_en: TODO
+:Table7L-row6-col1_ga: i gcorr-sheanfhocal
+:Table7L-row6-col1_en: in an odd proverb
 
-:7-2-5-B-title_ga: TODO
-:7-2-5-B-title_en: TODO
+:7-2-5-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-2-5-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-2-5-B-p_ga: TODO
-:7-2-5-B-p_en: TODO
+:7-2-5-B-p_ga: Leanann séimhiú foirmeacha na copaile san aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach, e.g., _Ba dheas liom an seans a bheith faighte againn_; _Níor bheag an méid a bhí le scrúdú_.
+:7-2-5-B-p_en: Lenition follows the forms of the copula in the past tense, the past habitual tense and the conditional mood, e.g., _Ba dheas liom an seans a bheith faighte againn_; _Níor bheag an méid a bhí le scrúdú_.
 
-:7-3-title_ga: TODO
-:7-3-title_en: TODO
+:7-3-title_ga: Foirmeacha Cumaisc na Copaile
+:7-3-title_en: Compound Forms of the Copula
 
-:7-3-1-title_ga: TODO
-:7-3-1-title_en: TODO
+:7-3-1-title_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail
+:7-3-1-title_en: Interrogative pronouns combined with the copula
 
-:7-3-1-A-title_ga: TODO
-:7-3-1-A-title_en: TODO
+:7-3-1-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-3-1-A-title_en: The Present Tense and the Future Tense
 
-:7-3-1-A-p_ga: TODO
-:7-3-1-A-p_en: TODO
+:7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach 8.5.4).
+:7-3-1-A-p_en: In the table below, examples of interrogative pronouns combined with the copula in the present tense or future tense are given (see 8.5.4).
 
-:Table7M-header_ga: TODO
-:Table7M-header_en: TODO
+:Table7M-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7M-header_en: The Present Tense and the Future Tense
 
-:Table7M-caption_ga: TODO
-:Table7M-caption_en: TODO
+:Table7M-caption_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7M-caption_en: Interrogative pronouns combined with the copula — The Present Tense and the Future Tense
 
-:7-3-1-B-title_ga: TODO
-:7-3-1-B-title_en: TODO
+:7-3-1-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-3-1-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-3-1-B-p1_ga: TODO
-:7-3-1-B-p1_en: TODO
+:7-3-1-B-p1_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-3-1-B-p1_en: In the table below, examples of interrogative pronouns combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
-:Table7N-header_ga: TODO
-:Table7N-header_en: TODO
+:Table7N-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7N-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:Table7N-caption_ga: TODO
-:Table7N-caption_en: TODO
+:Table7N-caption_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7N-caption_en: Interrogative Pronouns combined with the Copula — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-3-1-p_ga: TODO
-:7-3-1-p_en: TODO
+:7-3-1-p_ga: Tabhair faoi deara nach n-úsáidtear an cumasc _cérbh_ ach roimh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_. Ní dhéantar cumasc idir _cé_ agus na foirmeacha _ab_ nó _ba_ den chopail nuair nach forainmneach pearsanta a leanann _cé_: _cérbh é_; ach _cé ab fhearr_?; _cé ba chaptaen oraibh_?
+:7-3-1-p_en: Note that the compound _cérbh_ is only used before _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_. _cé_ does not merge with the _ab_ or _ba_ forms of the copula when _cé_ is not followed by a personal pronoun: _cérbh é_; but _cé ab fhearr_?; _cé ba chaptaen oraibh_?
 
-:7-3-2-title_ga: TODO
-:7-3-2-title_en: TODO
+:7-3-2-title_ga: Réamhfhocail i gcumasc leis an gCopail
+:7-3-2-title_en: Prepositions in combination with the Copula
 
-:7-3-2-A-title_ga: TODO
-:7-3-2-A-title_en: TODO
+:7-3-2-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-3-2-A-title_en: The Present Tense and the Future Tense
 
-:7-3-2-A-p_ga: TODO
-:7-3-2-A-p_en: TODO
+:7-3-2-A-p_ga: Sa tábla thíos, leagtar amach samplaí de réamhfhocail i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach.
+:7-3-2-A-p_en: In the table below, examples of prepositions combined with the copula in the present tense or future tense are given.
 
-:Table7O-header_ga: TODO
-:Table7O-header_en: TODO
+:Table7O-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7O-header_en: The Present Tense and the Future Tense
 
-:Table7O-caption_ga: TODO
-:Table7O-caption_en: TODO
+:Table7O-caption_ga: Réamhfhocail i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7O-caption_en: Prepositions in combination with the Copula — The Present Tense and the Future Tense
 
-:7-3-2-B-title_ga: TODO
-:7-3-2-B-title_en: TODO
+:7-3-2-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-3-2-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-3-2-B-p_ga: TODO
-:7-3-2-B-p_en: TODO
+:7-3-2-B-p_ga: Sa tábla thíos, leagtar amach samplaí de réamhfhocail i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-3-2-B-p_en: In the table below, examples of prepositions combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
-:Table7P-header_ga: TODO
-:Table7P-header_en: TODO
+:Table7P-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7P-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:Table7P-caption_ga: TODO
-:Table7P-caption_en: TODO
+:Table7P-caption_ga: Réamhfhocail i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7P-caption_en: Prepositions in combination with the Copula — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-3-3-title_ga: TODO
-:7-3-3-title_en: TODO
+:7-3-3-title_ga: Cónaisc i gcumasc leis an gCopail
+:7-3-3-title_en: Conjunctions in combination with the Copula
 
-:7-3-3-A-title_ga: TODO
-:7-3-3-A-title_en: TODO
+:7-3-3-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-3-3-A-title_en: The Present Tense and the Future Tense
 
-:7-3-3-A-p_ga: TODO
-:7-3-3-A-p_en: TODO
+:7-3-3-A-p_ga: Sa tábla thíos, leagtar amach samplaí de chónaisc i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach.
+:7-3-3-A-p_en: In the table below, examples of conjunctions combined with the copula in the present tense or future tense are given.
 
-:Table7Q-header_ga: TODO
-:Table7Q-header_en: TODO
+:Table7Q-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7Q-header_en: The Present Tense and the Future Tense
 
-:Table7Q-caption}_ga: TODO
-:Table7Q-caption}_en: TODO
+:Table7Q-caption_ga: Cónaisc i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7Q-caption_en: Conjunctions in combination with the Copula — The Present Tense and the Future Tense
 
-:7-3-3-B-title_ga: TODO
-:7-3-3-B-title_en: TODO
+:7-3-3-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:7-3-3-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-3-3-B-p_ga: TODO
-:7-3-3-B-p_en: TODO
+:7-3-3-B-p_ga: Sa tábla thíos, leagtar amach samplaí de chónaisc i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
+:7-3-3-B-p_en: In the table below, examples of conjunctions combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
-:Table7R-header_ga: TODO
-:Table7R-header_en: TODO
+:Table7R-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7R-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:Table7R-caption_ga: TODO
-:Table7R-caption_en: TODO
+:Table7R-caption_ga: Cónaisc i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
+:Table7R-caption_en: Conjunctions in combination with the Copula — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-3-4-title_ga: TODO
-:7-3-4-title_en: TODO
+:7-3-4-title_ga: _má_ i gcumasc leis an gCopail
+:7-3-4-title_en: _má_ combined with the Copula
 
-:7-3-4-p_ga: TODO
-:7-3-4-p_en: TODO
+:7-3-4-p_ga: Úsáidtear _má_ san aimsir láithreach, san aimsir fháistineach, san aimsir chaite agus san aimsir ghnáthchaite.
+:7-3-4-p_en: _má_ is used in the present tense, the future tense, the past tense and the past habitual tense.
 
-:7-3-4-A-title_ga: TODO
-:7-3-4-A-title_en: TODO
+:7-3-4-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:7-3-4-A-title_en: The Present Tense and the Future Tense
 
-:7-3-4-A-p_ga: TODO
-:7-3-4-A-p_en: TODO
+:7-3-4-A-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach.
+:7-3-4-A-p_en: In the table below, examples of _má_ combined with the copula in the present tense or future tense are given.
 
-:Table7S-header_ga: TODO
-:Table7S-header_en: TODO
+:Table7S-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7S-header_en: The Present Tense and the Future Tense
 
-:Table7S-caption_ga: TODO
-:Table7S-caption_en: TODO
+:Table7S-caption_ga: _má_ i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7S-caption_en: _má_ combined with the copula — The Present Tense and the Future Tense
 
-:7-3-4-B-title_ga: TODO
-:7-3-4-B-title_en: TODO
+:7-3-4-B-title_ga: An Aimsir Chaite agus an Aimsir Ghnáthchaite
+:7-3-4-B-title_en: The Past Tense and the Past Habitual Tense
 
-:7-3-4-B-p_ga: TODO
-:7-3-4-B-p_en: TODO
+:7-3-4-B-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir chaite nó san aimsir ghnáthchaite. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach 7.2.1B).
+:7-3-4-B-p_en: In the table below, examples of _má_ combined with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see 7.2.1B).
 
-:Table7T-caption_ga: TODO
-:Table7T-caption_en: TODO
+:Table7T-caption_ga: _má_ i gcumasc leis an gCopail — An Aimsir Chaite agus an Aimsir Ghnáthchaite
+:Table7T-caption_en: _má_ combined with the copula — The Past Tense and the Past Habitual Tense
 
-:Table7T-header_ga: TODO
-:Table7T-header_en: TODO
+:Table7T-header_ga: An Aimsir Chaite agus an Aimsir Ghnáthchaite
+:Table7T-header_en: The Past Tense and the Past Habitual Tense
 
-:7-3-5-title_ga: TODO
-:7-3-5-title_en: TODO
+:7-3-5-title_ga: _dá_ agus an Chopail
+:7-3-5-title_en: _dá_ and the Copula
 
-:7-3-5-p_ga: TODO
-:7-3-5-p_en: TODO
+:7-3-5-p_ga: Sa tábla thíos, leagtar amach samplaí de _dá_ leis an gcopail. Is sa mhodh coinníollach amháin a úsáidtear _dá_. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach 7.2.1B).
+:7-3-5-p_en: In the table below, examples of _dá_ combined with the copula are given. _dá_ is used only in the conditional mood. The rules for the use of _ba_ and _b'_ also apply here (see 7.2.1B).
 
-:Table7U-caption_ga: TODO
-:Table7U-caption_en: TODO
+:Table7U-caption_ga: _dá_ agus an Chopail — An Modh Coinníollach
+:Table7U-caption_en: _dá_ and the Copula — The Conditional Mood
 
-:Table7U-header_ga: TODO
-:Table7U-header_en: TODO
+:Table7U-header_ga: An Modh Coinníollach
+:Table7U-header_en: The Conditional Mood
 
-:7-4-title_ga: TODO
-:7-4-title_en: TODO
+:7-4-title_ga: An Modh Foshuiteach
+:7-4-title_en: The Subjunctive Mood
 
-:7-4-p_ga: TODO
-:7-4-p_en: TODO
+:7-4-p_ga: Sa tábla thíos, leagtar amach foirmeacha na copaile sa mhodh foshuiteach, aimsir láithreach nó aimsir fháistineach. Ní gnách an chopail a úsáid sa mhodh foshuiteach caite.
+:7-4-p_en: In the table below, examples of the copula in the subjunctive mood, present tense or future tense are given. The copula is not normally used in the past subjunctive mood.
 
-:Table7V-caption_ga: TODO
-:Table7V-caption_en: TODO
+:Table7V-caption_ga: An Modh Foshuiteach — An Aimsir Láithreach agus an Aimsir Fháistineach
+:Table7V-caption_en: The Subjunctive Mood — The Present Tense and the Future Tense
 
-:Table7V-header_ga: TODO
-:Table7V-header_en: TODO`;export{a as default};
+:Table7V-header_ga: An Modh Foshuiteach
+:Table7V-header_en: The Subjunctive Mood`;export{a as default};
