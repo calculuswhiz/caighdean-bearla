@@ -2,7 +2,7 @@
 
 @layer base {
   body {
-    @apply p-1 max-w-[8.5in];
+    @apply p-1 max-w-[8.5in] mb-[50vh];
   }
 
   .sectionbody,
@@ -249,14 +249,10 @@
 
   .chapter-8 {
     & thead tr:first-child th {
-      @apply bg-green-600 text-white;
+      @apply bg-gray-600 text-white;
     }
 
     & thead tr:nth-of-type(2) th {
-      @apply bg-gray-700 text-white;
-    }
-
-    & thead tr:nth-of-type(3) th {
       @apply bg-stone-200 text-black;
     }
   }
