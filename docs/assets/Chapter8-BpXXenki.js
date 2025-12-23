@@ -779,4 +779,128 @@ h|
     </tbody>
 </table>
 ++++
-`;export{n as default};
+
+{8-4-p}
+
+[list-[lower-alpha]]
+. {8-4-a-p}
+. {8-4-b-p}
+
+== 8.5 {8-5-title}
+
+=== 8.5.1
+
+{8-5-1-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| *Cá* bhfuil tú ag dul? | {8-5-1-sample1}
+| *Cá* ndeachaigh sé ar maidin? | {8-5-1-sample2}
+| *Cad* as duit? | {8-5-1-sample3}
+| *Cad* mar gheall ar an gceann seo? | {8-5-1-sample4}
+| *Cé* atá ag teacht? | {8-5-1-sample5}
+| *Cé* na ceisteanna atá agat? | {8-5-1-sample6}
+| *Céard* a tharla aréir? | {8-5-1-sample7}
+| *Céard* a rinne siad tar éis na hoibre? | {8-5-1-sample8}
+|===
+
+=== 8.5.2
+
+{8-5-2-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| *Cá háit* a ndeachaigh siad? | {8-5-2-sample1}
+| *Cá huair* a bheidh tú ag filleadh? | {8-5-2-sample2}
+| *Cá hiontas*? | {8-5-2-sample3}
+| *Cá haois* é? | {8-5-2-sample4}
+|===
+
+=== 8.5.3
+
+{8-5-3-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| *Cé hé* an fear sin? | {8-5-3-sample1}
+| *Cé hí* féin? | {8-5-3-sample2}
+| *Cé hiad* na saineolaithe? | {8-5-3-sample3}
+| *Cé hiadsan*? | {8-5-3-sample4}
+|===
+
+=== 8.5.4
+
+{8-5-4-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| *Cár* chuir tú é? | {8-5-4-sample1}
+| *Cárb* as thú? | {8-5-4-sample2}
+| *Cárbh* ard é? | {8-5-4-sample3}
+| *Cér* de/díobh é? | {8-5-4-sample4}
+| *Cérb* é sin? | {8-5-4-sample5}
+| *Cérbh* iad na cuairteoirí? | {8-5-4-sample6}
+| *Cén* t-achar anseo tú? | {8-5-4-sample7}
+| *Cén* dochar é? | {8-5-4-sample8}
+|===
+
+=== 8.5.5
+
+{8-5-5-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Cad *é* a chuir tú ann? | {8-5-5-sample1}
+| Cé *aige* a bhfuil na ticéid? | {8-5-5-sample2}
+| Céard *faoi* a bhfuil sibh ag caint? | {8-5-5-sample3}
+|===
+
+---
+
+== 8.6 {8-6-title}
+
+=== 8.6.1
+
+{8-6-1-p}
+
+[list-[lower-alpha]]
+. {8-6-1-a-p}
+. {8-6-1-b-p}
+. {8-6-1-c-p}
+. {8-6-1-d-p}
+
+=== 8.6.2
+
+{8-6-2-p}
+
+[samplebox]
+[cols="1,1"]
+|===
+| B'*eo* an áit. | {8-6-2-sample1}
+| Ní *heo* é an leabhar. | {8-6-2-sample2}
+| Nach *eo* é mo chótasa? | {8-6-2-sample3}
+| B'*in* é é. | {8-6-2-sample4}
+| Ní *hin* mar a bheadh an cás. | {8-6-2-sample5}
+| Dúirt sí gurb *in* é an fear. | {8-6-2-sample6}
+| B'iúd iad ag imeacht ar cosa *in* airde. | {8-6-2-sample7}
+| Is dócha gurbh *iúd* é é. | {8-6-2-sample8}
+| An *iúd* iad na comharsana? | {8-6-2-sample9}
+|===
+
+=== 8.6.3
+
+{8-6-3-p}
+
+[.samplebox]
+[cols="1,1"]
+|===
+| Is *éard* is cúram dúinne airgead a thabhairt ar iasacht. | {8-6-3-sample1}
+| Ba *éard* a bhí mé a rá go mbeidh sé críochnaithe go luath. | {8-6-3-sample2}
+| Shílfeadh duine gurb *éard* atá á chur i gcéill agat ná go ndearnadh d'aon ghnó é. | {8-6-3-sample3}
+| An *éard* atá beartaithe foirgneamh nua a thógáil ann? | {8-6-3-sample4}
+|===`;export{n as default};

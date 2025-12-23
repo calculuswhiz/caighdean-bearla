@@ -1,4 +1,4 @@
-:ChapterTitle_ga: An Forainmneach
+const n=`:ChapterTitle_ga: An Forainmneach
 :ChapterTitle_en: The Pronominal
 
 // Not sure if it's safe to translate this as "pronoun" as the dictionary entries are different for both words...
@@ -446,3 +446,4 @@
 :8-6-3-sample3_en: TODO
 
 :8-6-3-sample4_en: TODO
+`;export{n as default};
