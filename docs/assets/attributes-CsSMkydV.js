@@ -1,4 +1,4 @@
-const n=`:ChapterTitle_ga: An Forainmneach
+const e=`:ChapterTitle_ga: An Forainmneach
 :ChapterTitle_en: The Pronominal
 
 // Not sure if it's safe to translate this as "pronoun" as the dictionary entries are different for both words...
@@ -148,7 +148,7 @@ const n=`:ChapterTitle_ga: An Forainmneach
 :8-3-1-sample3_en: They lost *their game*.
 
 :8-3-2-p_ga: Is féidir na foirmeacha treise den fhorainmneach pearsanta (_seisean_, _sise_, _siadsan_) a úsáid freisin chun treise a chur in iúl, e.g., _a gheansaí seisean_; _a cóta sise_; _a dteach siadsan_.
-:8-3-2-p_en: The emphatic forms of the third person pronouns (_seisean_, _sise_, _siadsan_) can also be used to express emphasis, e.g., _a gheansaí seisean_; _a cóta sise_; _a dteach siadsan_.
+:8-3-2-p_en: The emphatic forms of the third person pronominal (_seisean_, _sise_, _siadsan_) can also be used to express emphasis, e.g., _a gheansaí seisean_; _a cóta sise_; _a dteach siadsan_.
 
 :8-3-2-sample1_en: There wasn't much to *his module*.
 
@@ -171,159 +171,159 @@ const n=`:ChapterTitle_ga: An Forainmneach
 
 :8-3-3-sample3_en: Did they sell *their two flats*? (_pl._)
 
-:8-3-4-p_ga: TODO
-:8-3-4-p_en: TODO
+:8-3-4-p_ga: Chun feidhm forainmnigh shealbhaigh a chomhlíonadh --
+:8-3-4-p_en: To complete the function of possessive pronominal --
 
-:8-3-4-a-p_ga: TODO
-:8-3-4-a-p_en: TODO
+:8-3-4-a-p_ga: úsáidtear aidiacht shealbhach móide _ceann_ nó _cuid_ arna threisiú le hiarmhír, e.g., _mo cheannsa_; _a gcuidsean_; nó
+:8-3-4-a-p_en: a possessive adjective plus _ceann_ or _cuid_ reinforced with a suffix is used, e.g., _mo cheannsa_; _a gcuidsean_; or
 
-:8-3-4-b-p_ga: TODO
-:8-3-4-b-p_en: TODO
+:8-3-4-b-p_ga: úsáidtear aidiacht shealbhach móide _cuid_ arna threisiú le hiarmhír agus leis an ainmfhocal, e.g., _ár gcuidne airgid_; _bhur gcuidse iarrachtaí_.
+:8-3-4-b-p_en: a possessive adjective plus _cuid_ reinforced with a suffix is used, e.g., _ár gcuidne airgid_; _bhur gcuidse iarrachtaí_.
 
-:8D-caption_ga: TODO
-:8D-caption_en: TODO
+:8D-caption_ga: An Aidiacht Shealbhach agus _ceann_ nó _cuid_
+:8D-caption_en: The Possessive Adjective and _ceann_ or _cuid_
 
-:8-3-4-sample1_en: TODO
+:8-3-4-sample1_en: That is *mine*.
 
-:8-3-4-sample2_en: TODO
+:8-3-4-sample2_en: Which one is *hers*?
 
-:8-3-4-sample3_en: TODO
+:8-3-4-sample3_en: Where is *yours*?
 
-:8-3-4-sample4_en: TODO
+:8-3-4-sample4_en: They didn't get *theirs*.
 
-:8-3-4-sample5_en: TODO
+:8-3-4-sample5_en: Do *your work*.
 
-:8-3-4-sample6_en: TODO
+:8-3-4-sample6_en: He spoiled *his hair*.
 
-:8-3-4-sample7_en: TODO
+:8-3-4-sample7_en: It's *our money*.
 
-:8-3-4-sample8_en: TODO
+:8-3-4-sample8_en: Have you seen *mine*?
 
-:8-3-5-p_ga: TODO
-:8-3-5-p_en: TODO
+:8-3-5-p_ga: Chun aidiacht shealbhach a úsáid mar chuspóir ainm bhriathartha, cuirtear an réamhfhocal _do_ roimh an aidiacht shealbhach sa chéad agus sa dara pearsa, uatha agus iolra, agus cuirtear _á_ roimh an tríú pearsa, uatha agus iolra, mar seo a leanas:
+:8-3-5-p_en: To use a possessive adjective as a possessive pronominal, the preposition _do_ is placed before the possessive adjective in the first and second person singular and plural, and _á_ is placed before the third person singular and plural, as follows:
 
-:8E-caption_ga: TODO
-:8E-caption_en: TODO
+:8E-caption_ga: An Aidiacht Shealbhach mar Chuspóir Ainm Bhriathartha
+:8E-caption_en: The Possessive Adjective as a Possessive Pronominal
 
-:8-3-5-sample1_en: TODO
+:8-3-5-sample1_en: Don't *torture me*!
 
-:8-3-5-sample2_en: TODO
+:8-3-5-sample2_en: Are you *doing the work*?
 
-:8-3-5-sample3_en: TODO
+:8-3-5-sample3_en: It was *our search*.
 
-:8-3-6-p_ga: TODO
-:8-3-6-p_en: TODO
+:8-3-6-p_ga: Má tá aidiacht shealbhach ar lorg réamhfhocail, ní dhéantar cumasc idir an réamhfhocal agus an aidiacht shealbhach i gcásanna den sórt seo a leanas.
+:8-3-6-p_en: When a possessive adjective is following a preposition, no contraction is done between the preposition and the possessive adjective in such cases.
 
-:8-3-6-sample1_en: TODO
+:8-3-6-sample1_en: *My* mother *had* a car when she was young.
 
-:8-3-6-sample2_en: TODO
+:8-3-6-sample2_en: Did you give *to your* mother a present?
 
-:8-3-6-sample3_en: TODO
+:8-3-6-sample3_en: What did you give *to your* father?
 
-:8-3-6-sample4_en: TODO
+:8-3-6-sample4_en: He had a hat *on his* head. (_masc._)
 
-:8-3-6-sample5_en: TODO
+:8-3-6-sample5_en: There was a cap *on her* head. (_fem._)
 
-:8-3-6-sample6_en: TODO
+:8-3-6-sample6_en: The water was brought *from our* well.
 
-:8-3-6-sample7_en: TODO
+:8-3-6-sample7_en: Is it a photo *of your* house?
 
-:8-3-6-sample8_en: TODO
+:8-3-6-sample8_en: They are sharp *off their* top.
 
-:8-3-7-p_ga: TODO
-:8-3-7-p_en: TODO
+:8-3-7-p_ga: I gcás na réamhfhocal _de_ agus _do_, déantar cumasc idir an réamhfhocal agus an aidiacht shealbhach sa tríú pearsa, uatha agus iolra, agus sa chéad phearsa iolra mar a leanas:
+:8-3-7-p_en: When a possessive adjective follows the prepositions _de_ and _do_, contraction is done between the preposition and the possessive adjective in the third person singular and plural, and in the first person plural as follows:
 
-:8-3-7-sample1_en: TODO
+:8-3-7-sample1_en: He removed the hat *from his head*. (_masc._)
 
-:8-3-7-sample2_en: TODO
+:8-3-7-sample2_en: She removed the hat *from her head*. (_fem._)
 
-:8-3-7-sample3_en: TODO
+:8-3-7-sample3_en: They removed the hats *from their heads*. (_pl._)
 
-:8-3-7-sample4_en: TODO
+:8-3-7-sample4_en: He gave it *to his father*. (_masc._)
 
-:8-3-7-sample5_en: TODO
+:8-3-7-sample5_en: She gave it *to her father*. (_fem._)
 
-:8-3-7-sample6_en: TODO
+:8-3-7-sample6_en: They gave it *to their father*. (_pl._)
 
-:8-3-7-sample7_en: TODO
+:8-3-7-sample7_en: We released *our grip*.
 
-:8-3-7-sample8_en: TODO
+:8-3-7-sample8_en: We gave them *to our aunts*.
 
-:8-3-8-p_ga: TODO
-:8-3-8-p_en: TODO
+:8-3-8-p_ga: Cuirtear _n_ idir na réamhfhocail _faoi_, _i_, _le_, _ó_ agus _trí_ agus an aidiacht shealbhach nó an mhír _a_ sna cásanna seo a leanas:
+:8-3-8-p_en: _n_ is placed between the prepositions _faoi_, _i_, _le_, _ó_ and _trí_ and the possessive adjective or the particle _a_ in the following cases:
 
-:8-3-8-a-p_ga: TODO
-:8-3-8-a-p_en: TODO
+:8-3-8-a-p_ga: an aidiacht shealbhach;
+:8-3-8-a-p_en: the possessive adjective;
 
-:8-3-8-a-sample1_en: TODO
+:8-3-8-a-sample1_en: He found it *in our* car.
 
-:8-3-8-a-sample2_en: TODO
+:8-3-8-a-sample2_en: He talked *about his* son.
 
-:8-3-8-b-p_ga: TODO
-:8-3-8-b-p_en: TODO
+:8-3-8-b-p_ga: an mhír uimhriúil _a_;
+:8-3-8-b-p_en: the numerical particle _a_;
 
-:8-3-8-b-sample1_en: TODO
+:8-3-8-b-sample1_en: I'll be there *about* six o'clock.
 
-:8-3-8-b-sample2_en: TODO
+:8-3-8-b-sample2_en: The film will be held *from* four o'clock.
 
-:8-3-8-c-p_ga: TODO
-:8-3-8-c-p_en: TODO
+:8-3-8-c-p_ga: an mhír theibí _a_;
+:8-3-8-c-p_en: the abstract particle _a_;
 
-:8-3-8-c-sample1_en: TODO
+:8-3-8-c-sample1_en: He received high praise *by* how well he did the work.
 
-:8-3-8-c-sample2_en: TODO
+:8-3-8-c-sample2_en: I wasn't happy *with* how long it took.
 
-:8-3-8-d-p_ga: TODO
-:8-3-8-d-p_en: TODO
+:8-3-8-d-p_ga: i bhfrásaí amhail _a lán_; _a leithéid_; _a thuilleadh_;
+:8-3-8-d-p_en: in phrases such as _a lán_; _a leithéid_; _a thuilleadh_;
 
-:8-3-8-d-sample1_en: TODO
+:8-3-8-d-sample1_en: A full-time position will be allowed *in such* case.
 
-:8-3-8-d-sample2_en: TODO
+:8-3-8-d-sample2_en: She got bills *from a lot* of shoppers.
 
-:8-3-8-e-p_ga: TODO
-:8-3-8-e-p_en: TODO
+:8-3-8-e-p_ga: an mhír choibhneasta _a_;
+:8-3-8-e-p_en: the relative particle _a_;
 
-:8-3-8-e-sample1_en: TODO
+:8-3-8-e-sample1_en: That's the building *where* the book will be sent.
 
-:8-3-8-e-sample2_en: TODO
+:8-3-8-e-sample2_en: Email me *about* what you have set up.
 
-:8-3-8-e-note_ga: TODO
-:8-3-8-e-note_en: TODO
+:8-3-8-e-note_ga: Ní chuirtear _n_ idir _go dtí_ agus an aidiacht shealbhach nó an mhír _a_ in aon chás.
+:8-3-8-e-note_en: _n_ is never placed between _go dtí_ and the possessive adjective or the particle _a_.
 
-:8-3-8-e-sample3_en: TODO
+:8-3-8-e-sample3_en: She went *to her* house after work.
 
-:8-3-8-e-sample4_en: TODO
+:8-3-8-e-sample4_en: We didn't go *to our* own party.
 
-:8-3-8-e-sample5_en: TODO
+:8-3-8-e-sample5_en: The lecture didn't start *until* five o'clock.
 
-:8-3-8-e-sample6_en: TODO
+:8-3-8-e-sample6_en: We were there *until* twelve.
 
-:8-3-9-p_ga: TODO
-:8-3-9-p_en: TODO
+:8-3-9-p_ga: Cuirtear _n_ idir an réamhfhocal _ar_ agus an aidiacht shealbhach _a_ chun _arna_ a chruthú. Réitíonn an t-ainm briathartha le hinscne agus le huimhir an ainmfhocail a thagann roimhe, e.g., _leabhar arna eisiúint_; _tuarascáil arna seoladh_; _doiciméid arna bhfoilsiú_.
+:8-3-9-p_en: _n_ is placed between the preposition _ar_ and the possessive adjective _a_ to form _arna_. The verb agrees with the gender and number of the noun that precedes it, e.g., _leabhar arna eisiúint_; _tuarascáil arna seoladh_; _doiciméid arna bhfoilsiú_.
 
-:8-3-9-sample1_en: TODO
+:8-3-9-sample1_en: He shall be deemed to have been *elected* under this Act. (_masc._)
 
-:8-3-9-sample2_en: TODO
+:8-3-9-sample2_en: "Circuit Court" means the Circuit Court *established* by law. (_fem._)
 
-:8-3-9-sample3_en: TODO
+:8-3-9-sample3_en: It will be subject to regulations *made* under subsection 7. (_pl._)
 
-:8-4-title_ga: TODO
-:8-4-title_en: TODO
+:8-4-title_ga: Na Forainmnigh Réamhfhoclacha
+:8-4-title_en: The Prepositional Pronominals
 
-:8F-caption_ga: TODO
-:8F-caption_en: TODO
+:8F-caption_ga: Na Forainmnigh Réamhfhoclacha
+:8F-caption_en: The Prepositional Pronominals
 
-:TheThirdPerson_ga: TODO
-:TheThirdPerson_en: TODO
+:TheThirdPerson_ga: An Triú Pearsa
+:TheThirdPerson_en: The Third Person
 
-:8-4-p_ga: TODO
-:8-4-p_en: TODO
+:8-4-p_ga: Tabhair faoi deara:
+:8-4-p_en: Note that:
 
-:8-4-a-p_ga: TODO
-:8-4-a-p_en: TODO
+:8-4-a-p_ga: Chun treise a léiriú leis na forainmnigh réamhfhoclacha, déantar cumasc idir na forainmneacha réamhfhoclacha agus na hiarmhíreanna _-sa_ (_-se_), _-san_ (_-sean_), _-ne_ , e.g., _agamsa_, _agatsa_, _aigesean_, _aicise_, _againne_, _agaibhse_, _acusan_.
+:8-4-a-p_en: To express emphasis with the prepositional pronominals, contraction is done between the prepositional pronominals and the endings _-sa_ (_-se_), _-san_ (_-sean_), _-ne_, e.g., _agamsa_, _agatsa_, _aigesean_, _aicise_, _againne_, _agaibhse_, _acusan_.
 
-:8-4-b-p_ga: TODO
-:8-4-b-p_en: TODO
+:8-4-b-p_ga: Déantar _-nne_ de _-nn_ + _-ne_, e.g., _againne_, _orainne_, etc., agus cuirtear fleiscín idir dhá _s_, e.g., _as-san_, _leis-sean_, _thairis-sean_.
+:8-4-b-p_en: _-nne_ is formed from _-nn_ + _-ne_, e.g., _againne_, _orainne_, etc., and a hyphen is placed between the two _s_, e.g., _as-san_, _leis-sean_, _thairis-sean_.
 
 :8-5-title_ga: TODO
 :8-5-title_en: TODO
@@ -446,4 +446,4 @@ const n=`:ChapterTitle_ga: An Forainmneach
 :8-6-3-sample3_en: TODO
 
 :8-6-3-sample4_en: TODO
-`;export{n as default};
+`;export{e as default};
