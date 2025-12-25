@@ -325,124 +325,124 @@
 :8-4-b-p_ga: Déantar _-nne_ de _-nn_ + _-ne_, e.g., _againne_, _orainne_, etc., agus cuirtear fleiscín idir dhá _s_, e.g., _as-san_, _leis-sean_, _thairis-sean_.
 :8-4-b-p_en: _-nne_ is formed from _-nn_ + _-ne_, e.g., _againne_, _orainne_, etc., and a hyphen is placed between the two _s_, e.g., _as-san_, _leis-sean_, _thairis-sean_.
 
-:8-5-title_ga: TODO
-:8-5-title_en: TODO
+:8-5-title_ga: Na Forainmnigh Cheisteacha
+:8-5-title_en: The Interrogative Pronominals
 
-:8-5-1-p_ga: TODO
-:8-5-1-p_en: TODO
+:8-5-1-p_ga: Is iad _cá_, _cad_, _cé_ agus _céard_ na forainmnigh cheisteacha.
+:8-5-1-p_en: The interrogative pronominals are _cá_, _cad_, _cé_ and _céard_.
 
-:8-5-1-sample1_en: TODO
+:8-5-1-sample1_en: *Where* are you going?
 
-:8-5-1-sample2_en: TODO
+:8-5-1-sample2_en: *Where* did he go this morning?
 
-:8-5-1-sample3_en: TODO
+:8-5-1-sample3_en: *Where* are you from?
 
-:8-5-1-sample4_en: TODO
+:8-5-1-sample4_en: *What* about this one?
 
-:8-5-1-sample5_en: TODO
+:8-5-1-sample5_en: *Who* is coming?
 
-:8-5-1-sample6_en: TODO
+:8-5-1-sample6_en: *What* questions do you have?
 
-:8-5-1-sample7_en: TODO
+:8-5-1-sample7_en: *What* happened last night?
 
-:8-5-1-sample8_en: TODO
+:8-5-1-sample8_en: *What* did they do after the work?
 
-:8-5-2-p_ga: TODO
-:8-5-2-p_en: TODO
+:8-5-2-p_ga: Cuirtear _h_ roimh fhocal dar tús guta ar lorg _cá_ (féach 10.11.4).
+:8-5-2-p_en: _h_ is placed before a word at the beginning of a sentence when _cá_ is used (see 10.11.4).
 
-:8-5-2-sample1_en: TODO
+:8-5-2-sample1_en: *Where* did they go?
 
-:8-5-2-sample2_en: TODO
+:8-5-2-sample2_en: *What time* will you be returning?
 
-:8-5-2-sample3_en: TODO
+:8-5-2-sample3_en: *What a surprise*.
 
-:8-5-2-sample4_en: TODO
+:8-5-2-sample4_en: *What age* is he?
 
-:8-5-3-p_ga: TODO
-:8-5-3-p_en: TODO
+:8-5-3-p_ga: Cuirtear _h_ roimh na forainmnigh _é_ (_eisean_), _í_ (_ise_) agus _iad_ (_iadsan_) ar lorg _cé_ (féach 10.13.1).
+:8-5-3-p_en: _h_ is placed before the pronominals _é_ (_eisean_), _í_ (_ise_) and _iad_ (_iadsan_) when used with _cé_ (see 10.13.1).
 
-:8-5-3-sample1_en: TODO
+:8-5-3-sample1_en: *Who* is that man?
 
-:8-5-3-sample2_en: TODO
+:8-5-3-sample2_en: *Who* is she?
 
-:8-5-3-sample3_en: TODO
+:8-5-3-sample3_en: *Who* are the experts?
 
-:8-5-3-sample4_en: TODO
+:8-5-3-sample4_en: *Who are they*?
 
-:8-5-4-p_ga: TODO
-:8-5-4-p_en: TODO
+:8-5-4-p_ga: Ní shéimhítear na forainmnigh cheisteacha (féach 10.5.2), ach déantar cumasc idir _cá_, _cé_ agus an chopail chun na foirmeacha _cár_, _cárb_, _cárbh_, _cér_, _cérb_ agus _cérbh_ a chruthú (féach 7.3.1). Déantar cumasc idir _cé_ agus an t-alt uatha an chun _cén_ a chruthú.
+:8-5-4-p_en: The interrogative pronominals are not lenited (see 10.5.2), but contractions are made between _cá_, _cé_ and the copula to make the forms _cár_, _cárb_, _cárbh_, _cér_, _cérb_ and _cérbh_ (see 7.3.1). A contraction is made between _cé_ and the singular article to form _cén_.
 
-:8-5-4-sample1_en: TODO
+:8-5-4-sample1_en: *Where* did you put it?
 
-:8-5-4-sample2_en: TODO
+:8-5-4-sample2_en: *Where* are you from?
 
-:8-5-4-sample3_en: TODO
+:8-5-4-sample3_en: *How* tall is it?
 
-:8-5-4-sample4_en: TODO
+:8-5-4-sample4_en: *Which* of them is it?
 
-:8-5-4-sample5_en: TODO
+:8-5-4-sample5_en: *What* is that?
 
-:8-5-4-sample6_en: TODO
+:8-5-4-sample6_en: *Who* are the visitors?
 
-:8-5-4-sample7_en: TODO
+:8-5-4-sample7_en: *How* far from here are you?
 
-:8-5-4-sample8_en: TODO
+:8-5-4-sample8_en: *What* harm is it?
 
-:8-5-5-p_ga: TODO
-:8-5-5-p_en: TODO
+:8-5-5-p_ga: Úsáidtear an leagan firinscneach uatha den fhorainmneach réamhfhoclach nó den aidiacht shealbhach _a_ in abairtí ceisteacha, beag beann ar uimhir nó inscne an ní nó na nithe dá bhfuiltear ag tagairt, e.g., _Cé leis a raibh tú ag caint?_ (is ag tagairt d'fhear, do bhean nó do ghrúpa atá _leis_); _Cé ina aghaidh a raibh siad ag imirt?_ (is ag tagairt d'fhear, do bhean nó do ghrúpa atá an aidiacht shealbhach _a_).
+:8-5-5-p_en: The masculine singular form of the prepositional pronominal or possessive adjective _a_ is used in interrogative sentences, regardless of the number or gender of the thing or things being referred to, e.g., _Cé leis a raibh tú ag caint?_ (referring to a man or a woman or a group with _leis_); _Cé ina aghaidh a raibh siad ag imirt?_ (referring to a man or a woman or a group with the possessive adjective _a_).
 
-:8-5-5-sample1_en: TODO
+:8-5-5-sample1_en: What *did* you put there?
 
-:8-5-5-sample2_en: TODO
+:8-5-5-sample2_en: Who *has* the tickets?
 
-:8-5-5-sample3_en: TODO
+:8-5-5-sample3_en: What *are* you talking about?
 
-:8-6-title_ga: TODO
-:8-6-title_en: TODO
+:8-6-title_ga: Na Forainmnigh Thaispeántacha
+:8-6-title_en: The Demonstrative Pronominals
 
-:8-6-1-p_ga: TODO
-:8-6-1-p_en: TODO
+:8-6-1-p_ga: Is forainmnigh thaispeántacha iad _seo_, _sin_ agus _siúd_. Úsáidtear na forainmnigh thaispeántacha ar cheithre bhealach:
+:8-6-1-p_en: These are demonstrative pronominals _seo_, _sin_ and _siúd_. The demonstrative pronominals are used in four ways:
 
-:8-6-1-a-p_ga: TODO
-:8-6-1-a-p_en: TODO
+:8-6-1-a-p_ga: go comhaisnéiseach le forainmneach atá roimhe, e.g., _Is bronntanas é sin_; _Tabhair cabhair dóibh seo_; _Cá bhfuil a cóipleabhar siúd_?; _dá rachaidís siúd_;
+:8-6-1-a-p_en: in combination with a preceding pronominal, e.g., _Is bronntanas é sin_; _Tabhair cabhair dóibh seo_; _Cá bhfuil a cóipleabhar siúd_?; _dá rachaidís siúd_;
 
-:8-6-1-b-p_ga: TODO
-:8-6-1-b-p_en: TODO
+:8-6-1-b-p_ga: go comhaisnéiseach roimh an bhforainmneach pearsanta, e.g., _Sin é an bronntanas_; _Seo é an cóipleabhar_; _Siúd iad na múinteoirí_; _Siúd í an traein chugainn_;
+:8-6-1-b-p_en: in combination before a personal pronoun, e.g., _Sin é an bronntanas_; _Seo é an cóipleabhar_; _Siúd iad na múinteoirí_; _Siúd í an traein chugainn_;
 
-:8-6-1-c-p_ga: TODO
-:8-6-1-c-p_en: TODO
+:8-6-1-c-p_ga: thar ceann an fhorainmnigh phearsanta, e.g., _Tá sin álainn_; _Ith seo_; _An bhfuil siúd amhlaidh?_; _D'imigh siúd leis an mbus_; _Sin madra_; _Seo an mála_; _Siúd an fhírinne_; _Cad seo?_; _Cé sin?_; _Sin sin_; _mar seo_; _go dtí sin_; _gan siúd a ól_;
+:8-6-1-c-p_en: in combination with a personal pronoun, e.g., _Tá sin álainn_; _Ith seo_; _An bhfuil siúd amhlaidh?_; _D'imigh siúd leis an mbus_; _Sin madra_; _Seo an mála_; _Siúd an fhírinne_; _Cad seo?_; _Cé sin?_; _Sin sin_; _mar seo_; _go dtí sin_; _gan siúd a ól_;
 
-:8-6-1-d-p_ga: TODO
-:8-6-1-d-p_en: TODO
+:8-6-1-d-p_ga: le feidhm dhobhriathair, e.g., _chomh híseal seo_ (_sin_, _siúd_); _chomh mór seo_ (_sin_, _siúd_).
+:8-6-1-d-p_en: with an adverbial function, e.g., _chomh híseal seo_ (_sin_, _siúd_); _chomh mór seo_ (_sin_, _siúd_).
 
-:8-6-2-p_ga: TODO
-:8-6-2-p_en: TODO
+:8-6-2-p_ga: Is minic a úsáidtear na foirmeacha _eo_, _in_ agus _iúd_ in ionad _seo_, _sin_ agus _siúd_ ar lorg na copaile. Tabhair faoi deara nach n-úsáidtear na leaganacha _eo_, _in_ ná _iúd_ tar éis _is_.
+:8-6-2-p_en: The forms _eo_, _in_ and _iúd_ are often used instead of _seo_, _sin_ and _siúd_ in the copula. Note that the forms _eo_, _in_ and _iúd_ are not used after _is_.
 
-:8-6-2-sample1_en: TODO
+:8-6-2-sample1_en: *This* was the place.
 
-:8-6-2-sample2_en: TODO
+:8-6-2-sample2_en: *This* is not the book.
 
-:8-6-2-sample3_en: TODO
+:8-6-2-sample3_en: Isn't *this* my coat?
 
-:8-6-2-sample4_en: TODO
+:8-6-2-sample4_en: *That* was him.
 
-:8-6-2-sample5_en: TODO
+:8-6-2-sample5_en: *That* is not how it would be.
 
-:8-6-2-sample6_en: TODO
+:8-6-2-sample6_en: She said that *that* was the man.
 
-:8-6-2-sample7_en: TODO
+:8-6-2-sample7_en: *They* were leaving on a gallop.
 
-:8-6-2-sample8_en: TODO
+:8-6-2-sample8_en: It was probably *you*.
 
-:8-6-2-sample9_en: TODO
+:8-6-2-sample9_en: Are *those* the neighbours?
 
-:8-6-3-p_ga: TODO
-:8-6-3-p_en: TODO
+:8-6-3-p_ga: Is cumasc idir _é_ agus _rud_ é an forainmneach taispeántach _éard_ a úsáidtear ar lorg na copaile.
+:8-6-3-p_en: A contraction between _é_ and _rud_ é forms the demonstrative pronominal _éard_, which is used following the copula.
 
-:8-6-3-sample1_en: TODO
+:8-6-3-sample1_en: Lending money is *what* concerns us.
 
-:8-6-3-sample2_en: TODO
+:8-6-3-sample2_en: It was *what* I was saying that it will be finished soon.
 
-:8-6-3-sample3_en: TODO
+:8-6-3-sample3_en: People would think that *what* you are pretending is that it was done on purpose.
 
-:8-6-3-sample4_en: TODO
+:8-6-3-sample4_en: Is it *what* is intended to build a new building there?

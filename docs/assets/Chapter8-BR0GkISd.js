@@ -889,7 +889,7 @@ h|
 | B'*in* é é. | {8-6-2-sample4}
 | Ní *hin* mar a bheadh an cás. | {8-6-2-sample5}
 | Dúirt sí gurb *in* é an fear. | {8-6-2-sample6}
-| B'iúd iad ag imeacht ar cosa *in* airde. | {8-6-2-sample7}
+| B'*iúd* iad ag imeacht ar cosa in airde. | {8-6-2-sample7}
 | Is dócha gurbh *iúd* é é. | {8-6-2-sample8}
 | An *iúd* iad na comharsana? | {8-6-2-sample9}
 |===
@@ -901,7 +901,7 @@ h|
 [.samplebox]
 [cols="1,1"]
 |===
-| Is *éard* is cúram dúinne airgead a thabhairt ar iasacht. | {8-6-3-sample1}
+| Is *éard* is cúram dúinne airgead a thabhairt on loan. | {8-6-3-sample1}
 | Ba *éard* a bhí mé a rá go mbeidh sé críochnaithe go luath. | {8-6-3-sample2}
 | Shílfeadh duine gurb *éard* atá á chur i gcéill agat ná go ndearnadh d'aon ghnó é. | {8-6-3-sample3}
 | An *éard* atá beartaithe foirgneamh nua a thógáil ann? | {8-6-3-sample4}
