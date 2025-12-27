@@ -38,6 +38,10 @@
 
   td {
     @apply bg-gray-200;
+
+    & li {
+      @apply p-1;
+    }
   }
 
   ol,

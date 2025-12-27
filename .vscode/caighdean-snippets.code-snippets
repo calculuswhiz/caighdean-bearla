@@ -33,5 +33,29 @@
 			":$1_ga: $2",
 			":$1_en: $2"
 		]
+	},
+	"listLowerAlpha": {
+		"scope": "asciidoc",
+		"prefix": "listLowerAlpha",
+		"body": [
+			"[list-[lower-alpha]]",
+			". {$1}"
+		]
+	},
+	"listLowerRoman": {
+		"scope": "asciidoc",
+		"prefix": "listLowerRoman",
+		"body": [
+			"[list-[lower-roman]]",
+			". {$1}"
+		]
+	},
+	"heading2": {
+		"scope": "asciidoc",
+		"prefix": "heading2",
+		"body": [
+			"== $1.$2 {$1-$2-title}",
+			"$0",
+		]
 	}
 }

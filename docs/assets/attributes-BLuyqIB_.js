@@ -1,4 +1,4 @@
-:chapterTitle_ga: An Uimhir
+const n=`:chapterTitle_ga: An Uimhir
 :chapterTitle_en: The Number
 
 :9-1-title_ga: Ginearálta
@@ -927,3 +927,4 @@
 
 :Table9FF-note-b-p_ga: TODO
 :Table9FF-note-b-p_en: TODO
+`;export{n as default};

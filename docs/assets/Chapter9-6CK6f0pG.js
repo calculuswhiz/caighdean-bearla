@@ -1,4 +1,4 @@
-= Chapter 9 | {chapterTitle}
+const n=`= Chapter 9 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -1556,3 +1556,4 @@ a| . an 24ú doras dúnta
 [list-[lower-alpha]]
 . {Table9FF-note-a-p}
 . {Table9FF-note-b-p}
+`;export{n as default};
