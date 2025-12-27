@@ -270,4 +270,24 @@
       @apply bg-stone-200 text-black;
     }
   }
+
+  .chapter-10 {
+    & thead tr:first-child th {
+      @apply bg-amber-400 text-white;
+    }
+
+    & thead tr:nth-of-type(2) th {
+      @apply bg-stone-200 text-black;
+    }
+  }
+
+  .chapter-11 {
+    & thead tr:first-child th {
+      @apply bg-blue-950 text-white;
+    }
+
+    & thead tr:nth-of-type(2) th {
+      @apply bg-stone-200 text-black;
+    }
+  }
 }

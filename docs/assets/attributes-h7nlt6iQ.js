@@ -1,4 +1,4 @@
-const n=`:chapterTitle_ga: An Uimhir
+const a=`:chapterTitle_ga: An Uimhir
 :chapterTitle_en: The Number
 
 :9-1-title_ga: Ginearálta
@@ -178,86 +178,83 @@ const n=`:chapterTitle_ga: An Uimhir
 :Table9H-header_ga: Na Bunuimhreacha -- Leaganacha Iolra ar leith
 :Table9H-header_en: The Cardinal Numbers -- Distinct Plural Forms
 
-:9-3-3-title_ga: TODO
-:9-3-3-title_en: TODO
+:9-3-3-title_ga: An Aidiacht leis na Bunuimhreacha 1-19
+:9-3-3-title_en: The Adjective with the Cardinal Numbers 1-19
 
-:9-3-3-a-p_ga: TODO
-:9-3-3-a-p_en: TODO
+:9-3-3-a-p_ga: Ar lorg na bunuimhreach 1, is san uimhir uatha a bhíonn an aidiacht a ghabhann leis an ainmfhocal agus í ar aon inscne leis an ainmfhocal.
+:9-3-3-a-p_en: Following for the cardinal number 1, the adjective accompanying the noun is in the singular and is of the same gender as the noun.
 
-:9-3-3-b-p_ga: TODO
-:9-3-3-b-p_en: TODO
+:9-3-3-b-p_ga: Ar lorg na n-uimhreacha eile (2-19), bíonn an aidiacht san uimhir iolra agus séimhítear í.
+:9-3-3-b-p_en: Following the other numbers (2-19), the adjective is in the plural number and is omitted.
 
-:9-3-3-c-p_ga: TODO
-:9-3-3-c-p_en: TODO
+:9-3-3-c-p_ga: Cuirtear an focal _déag_ roimh aidiacht nó aidiachtaí atá ag gabháil leis an ainmfhocal (ach féach 9.3.1(f)).
+:9-3-3-c-p_en: The word _déag_ is placed before an adjective or adjectives accompanying the noun (but see 9.3.1(f)).
 
-:Table9I-caption_ga: TODO
-:Table9I-caption_en: TODO
+:Table9I-caption_ga: Na Bunuimhreacha 1-19 -- Foirm na hAidiachta
+:Table9I-caption_en: The Cardinal Numbers 1-19 -- Form of the Adjective
 
-:Table9I-header_ga: TODO
-:Table9I-header_en: TODO
+:Table9I-header_ga: An Aidiacht leis na Bunuimhreacha
+:Table9I-header_en: The Adjective with the Cardinal Numbers
 
-:9-3-4-title_ga: TODO
-:9-3-4-title_en: TODO
+:9-3-4-title_ga: Foirm na hAidiachta leis na hAinmfhocail a bhfuil Leagan Iolra ar leith acu
+:9-3-4-title_en: Form of the Adjective with the Nouns that have a particular Plural Version
 
-:9-3-4-a-p_ga: TODO
-:9-3-4-a-p_en: TODO
+:9-3-4-a-p_ga: Ar lorg na bunuimhreach 1, is san uimhir uatha a bhíonn an aidiacht a ghabhann leis an ainmfhocal, agus í ar aon inscne leis an ainmfhocal.
+:9-3-4-a-p_en: Following the cardinal number 1, the adjective accompanying the noun is in the singular, and is of the same gender as the noun.
 
-:9-3-4-b-p_ga: TODO
-:9-3-4-b-p_en: TODO
+:9-3-4-b-p_ga: Cuirtear an aidiacht san uimhir iolra i ndiaidh an leagain iolra ach ní chuirtear séimhiú ar an aidiacht sa chás go gcríochnaíonn an leagan iolra sin ar ghuta. Séimhítear an aidiacht i ndiaidh _cinn_ agus _fichid_.
+:9-3-4-b-p_en: The adjective in the plural number is placed after the plural form but the adjective is not lenited if that plural form ends in a vowel. The adjective is lenited after _cinn_ and _fichid_.
 
-:Table9J-caption_ga: TODO
-:Table9J-caption_en: TODO
+:Table9J-caption_ga: Na Bunuimhreacha 1-19 -- Foirm na hAidiachta leis na hAinmfhocail a bhfuil Leagan Iolra ar leith acu
+:Table9J-caption_en: The Cardinal Numbers 1-19 -- Adjective Form with Nouns that have a particular Plural Version
 
-:Table9J-header_ga: TODO
-:Table9J-header_en: TODO
+:Table9J-header_ga: An Aidiacht leis na hAinmfhocail a bhfuil Leagan Iolra ar leith acu
+:Table9J-header_en: The Adjective with the Nouns that have a particular Plural Version
 
-:9-3-5-title_ga: TODO
-:9-3-5-title_en: TODO
+:9-3-5-title_ga: An tAlt leis na Bunuimhreacha 1-19
+:9-3-5-title_en: The Article with the Cardinal Numbers 1-19
 
-:9-3-5-a-p_ga: TODO
-:9-3-5-a-p_en: TODO
+:9-3-5-a-p_ga: Foirm uatha an ailt
+:9-3-5-a-p_en: Singular form of the article
 
-:9-3-5-a-i-p_ga: TODO
-:9-3-5-a-i-p_en: TODO
+:9-3-5-a-i-p_ga: Cuirtear foirm uatha an ailt roimh an mbunuimhir 1, roimh uimhreacha a chríochnaíonn ar 1, agus roimh iolraithe ar 10 ó 20 ar aghaidh.
+:9-3-5-a-i-p_en: The singular form of the article is placed before the cardinal number 1, before numbers ending in 1, and before plurals of 10 from 20 onwards.
 
-:9-3-5-a-ii-p_ga: TODO
-:9-3-5-a-ii-p_en: TODO
+:9-3-5-a-ii-p_ga: Cuirtear _t-_ roimh an mbunuimhir _aon_ ar lorg an ailt, e.g., _an t-aon leabhar amháin_; _an t-aon bhileog amháin_. Baintear an _t-_ i ndiaidh réamhfhocal, e.g., _san aon leabhar amháin_; _tríd an aon fhuinneog amháin_.
+:9-3-5-a-ii-p_en: _t-_ is placed before the cardinal number _aon_ after the article, e.g., _an t-aon leabhar amháin_; _an t-aon bhileog amháin_. The _t-_ is removed after a preposition, e.g., _san aon leabhar amháin_; _tríd an aon fhuinneog amháin_.
 
-:9-3-5-a-iii-p_ga: TODO
-:9-3-5-a-iii-p_en: TODO
+:9-3-5-a-iii-p_ga: Foirm uatha an ailt a chuirtear roimh an mbunuimhir _dhá_ freisin ach déantar _dá_ den bhunuimhir, e.g., _an dá chapall_.
+:9-3-5-a-iii-p_en: The singular form of the article placed before the cardinal number _dhá_ also but the cardinal number becomes _dá_, e.g., _an dá chapall_.
 
-:9-3-5-b-p_ga: TODO
-:9-3-5-b-p_en: TODO
+:9-3-5-b-p_ga: Foirm iolra an ailt
+:9-3-5-b-p_en: Plural form of the article
 
-:9-3-5-b-i-p_ga: TODO
-:9-3-5-b-i-p_en: TODO
+:9-3-5-b-i-p_ga: Is í foirm iolra an ailt a chuirtear roimh na bunuimhreacha 3-9 agus 13-19.
+:9-3-5-b-i-p_en: It is the plural form of the article that is placed before the cardinal numbers 3-9 and 13-19.
 
-:9-3-5-b-ii-p_ga: TODO
-:9-3-5-b-ii-p_en: TODO
+:9-3-5-b-ii-p_ga: Cuirtear _h_ roimh bhunuimhir dar tús guta i ndiaidh fhoirm iolra an ailt, e.g., _na hocht gcapall_.
+:9-3-5-b-ii-p_en: _h_ is placed before a cardinal number beginning with a vowel after the plural form of the article, e.g., _na hocht gcapall_.
 
-:9-3-5-c-p_ga: TODO
-:9-3-5-c-p_en: TODO
+:9-3-5-c-p_ga: Ní dhéanann an t-alt aon difear d'aidiacht ar lorg bunuimhreacha agus ainmfhocal, e.g., _an dá chapall mhóra_.
+:9-3-5-c-p_en: The article does not affect adjectives following cardinal numbers and nouns, e.g., _an dá chapall mhóra_.
 
-:Table9K-caption_ga: TODO
-:Table9K-caption_en: TODO
+:Table9K-caption_ga: Na Bunuimhreacha 1-19 -- An tAlt
+:Table9K-caption_en: The Cardinal Numbers 1-19 -- The Article
 
-:Table9K-header_ga: TODO
-:Table9K-header_en: TODO
+:Table9K-header_ga: An tAlt leis na Bunuimhreacha
+:Table9K-header_en: The Article with the Cardinal Numbers
 
-:Note_ga: TODO
-:Note_en: TODO
+:9-3-5-note_ga: Tabhair faoi deara, i gcás na n-ainmfhocal a n-úsáidtear leagan iolra ar leith díobh i ndiaidh na mbunuimhreacha, go leantar an patrún céanna, e.g., _an t-aon bhliain amháin_; _an dá cheann mhóra_; _na hocht dtroithe déag_; etc.
+:9-3-5-note_en: Note that for nouns that use a particular plural form after the cardinal numbers, the same pattern is followed, e.g., _an t-aon bhliain amháin_; _an dá cheann mhóra_; _na hocht dtroithe déag_; etc.
 
-:9-3-5-note_ga: TODO
-:9-3-5-note_en: TODO
+:9-3-6-title_ga: Na Bunuimhreacha 1-19 -- An Tuiseal Ginideach gan an tAlt
+:9-3-6-title_en: The Cardinal Numbers 1-19 -- The Genitive Case without the Article
 
-:9-3-6-title_ga: TODO
-:9-3-6-title_en: TODO
+:9-3-6-a-p_ga: Téann athrú foirme ar ainmfhocal agus ar aidiacht sa ghinideach i ndiaidh _aon_, e.g., _ualach aon chapaill mhóir amháin_; _fráma aon fhuinneoige báine amháin_; ach amháin nuair atá _déag_ ag gabháil leis, e.g., _ualach aon chapall déag mhóra_; _fráma aon fhuinneog déag bhána_.
+:9-3-6-a-p_en: Nouns and adjectives change form in the genitive after _aon_, e.g., _ualach aon chapaill mhóir amháin_; _fráma aon fhuinneoige báine amháin_; except when _déag_ accompanying accompanies it, e.g., _ualach aon chapall déag mhóra_; _fráma aon fhuinneog déag bhána_.
 
-:9-3-6-a-p_ga: TODO
-:9-3-6-a-p_en: TODO
-
-:9-3-6-b-p_ga: TODO
-:9-3-6-b-p_en: TODO
+:9-3-6-b-p_ga: I gcás 2-19, ní théann aon athrú foirme sa ghinideach ar an ainmfhocal ná ar an mbunuimhir, e.g., _fad dhá mhéadar_; _costas trí fhuinneog_; _úinéir seacht ngabhar_; _tréimhse naoi n-oíche_; _tiománaithe trí thacsaí dhéag_; ach cuirtear an aidiacht san uimhir iolra agus séimhítear í, e.g., _costas trí fhuinneog dheasa_; _úinéir seacht ngabhar chrosta_; _tiománaithe trí thacsaí dhéag chostasacha_; ach amháin más leagan iolra ar leith é a chríochnaíonn ar ghuta nó ar chonsan leathan, e.g., _trí bliana crua_.
+:9-3-6-b-p_en: For 2-19, the form of the noun or the cardinal number in the genitive does not change, e.g., _fad dhá mhéadar_; _costas trí fhuinneog_; _úinéir seacht ngabhar_; _tréimhse naoi n-oíche_; _tiománaithe trí thacsaí dhéag_; but the adjective in the plural is placed and it is lenited, e.g., _costas trí fhuinneog dheasa_; _úinéir seacht ngabhar chrosta_; _tiománaithe trí thacsaí dhéag chostasacha_; unless it is a distinct plural form ending in a vowel or a broad consonant, e.g., _trí bliana crua_.
 
 :9-3-7-title_ga: TODO
 :9-3-7-title_en: TODO
@@ -334,9 +331,6 @@ const n=`:chapterTitle_ga: An Uimhir
 :WithArticle_ga: TODO
 :WithArticle_en: TODO
 
-:Note_ga: TODO
-:Note_en: TODO
-
 :9-3-9-note-p1_ga: TODO
 :9-3-9-note-p1_en: TODO
 
@@ -381,9 +375,6 @@ const n=`:chapterTitle_ga: An Uimhir
 
 :TheSimplifiedSystem_ga: TODO
 :TheSimplifiedSystem_en: TODO
-
-:Note_ga: TODO
-:Note_en: TODO
 
 :9-3-10-note-p1_ga: TODO
 :9-3-10-note-p1_en: TODO
@@ -927,4 +918,4 @@ const n=`:chapterTitle_ga: An Uimhir
 
 :Table9FF-note-b-p_ga: TODO
 :Table9FF-note-b-p_en: TODO
-`;export{n as default};
+`;export{a as default};
