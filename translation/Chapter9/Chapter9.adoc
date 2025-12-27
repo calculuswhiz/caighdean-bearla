@@ -336,7 +336,7 @@ h| fiche | fhichead | fichid | bhfichid
 h| pingin | phingin | pingine | bpingine
 h| trian | thrian | treana | dtreana
 h| troigh | throigh | troithe | dtroithe
-h| uair (sa bhrí babhta) | uair | huaire | n-uaire
+h| uair (_sa bhrí_ babhta) | uair | huaire | n-uaire
 
 |===
 

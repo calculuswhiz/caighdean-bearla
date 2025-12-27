@@ -112,71 +112,71 @@
 :9-3-1-title_ga: Na Bunuimhreacha 1-19
 :9-3-1-title_en: The Cardinal Numbers 1-19
 
-:9-3-1-a-p_ga: TODO
-:9-3-1-a-p_en: TODO
+:9-3-1-a-p_ga: Tugtar _bunuimhir_ ar an uimhir a chuirtear le hainmfhocal chun líon rudaí a chur in iúl.
+:9-3-1-a-p_en: The number added to a noun to express the number of things is called a _cardinal number_.
 
-:9-3-1-b-p_ga: TODO
-:9-3-1-b-p_en: TODO
+:9-3-1-b-p_ga: Tagann an t-ainmfhocal ar lorg _aon_, _dhá_, _trí_, _ceithre_, _cúig_, _sé_, _seacht_, _ocht_, _naoi_, _deich_.
+:9-3-1-b-p_en: The noun comes after _aon_, _dhá_, _trí_, _ceithre_, _cúig_, _sé_, _seacht_, _ocht_, _naoi_, _deich_.
 
-:9-3-1-c-p_ga: TODO
-:9-3-1-c-p_en: TODO
+:9-3-1-c-p_ga: Tabhair faoi deara go n-úsáidtear na bunuimhreacha _dhá_ agus _ceithre_ seachas na foirmeacha maoluimhreach _dó_ agus _ceathair_.
+:9-3-1-c-p_en: Note that the cardinal numbers _dhá_ and _ceithre_ are used rather than the diminutive forms _dó_ and _ceathair_.
 
-:9-3-1-d-p_ga: TODO
-:9-3-1-d-p_en: TODO
+:9-3-1-d-p_ga: Ní mór an focal _amháin_ a lua tar éis na bunuimhreach _aon_ agus an ainmfhocail. Ní gá, áfach, _aon_ a lua i gcónaí, e.g., _aon chapall amháin_; _capall amháin_.
+:9-3-1-d-p_en: The word _amháin_ must be mentioned after the original _aon_ and the noun. It is not, however, always necessary to mention _aon_, e.g., _aon chapall amháin_; _capall amháin_.
 
-:9-3-1-e-p_ga: TODO
-:9-3-1-e-p_en: TODO
+:9-3-1-e-p_ga: Ní chuirtear séimhiú ar _d_, _t_ nó _s_ tar éis _aon_, e.g., _aon doras amháin_; _aon teach amháin_.
+:9-3-1-e-p_en: _d_, _t_ or _s_ is not lenited after _aon_, e.g., _aon doras amháin_; _aon teach amháin_.
 
-:9-3-1-f-p_ga: TODO
-:9-3-1-f-p_en: TODO
+:9-3-1-f-p_ga: I ndiaidh an ainmfhocail a thagann an focal _déag_, e.g., _ceithre leabhar déag_. Séimhítear an focal _déag_ má chríochnaíonn an focal díreach roimhe ar ghuta (ach féach 9.3.2(e)), seachas i ndiaidh _euro_.
+:9-3-1-f-p_en: After the noun comes the word _déag_, e.g., _ceithre leabhar déag_. The word _déag_ is omitted if the word immediately preceding it ends in a vowel (but see 9.3.2(e)), rather than after _euro_.
 
-:9-3-1-p_ga: TODO
-:9-3-1-p_en: TODO
+:9-3-1-p_ga: Tabhair faoi deara, más aonad brí ar leith an t-ainmfhocal agus an cáilitheoir, e.g., _madra rua_; _cat crainn_; _teach tábhairne_; _láthair champála_ (seachas gnáth-ainmfhocal agus cáilitheoir, e.g., _leabhar dearg_) is i ndiaidh an ainmfhocail agus an cháilitheora a chuirtear _déag_, e.g., _ceithre mhadra rua dhéag_; _cúig theach tábhairne dhéag_; _sé chat crainn déag_; _seacht n-iora ghlasa dhéag_. Cuirtear aon cháilitheoir eile i ndiaidh _déag_, e.g., _sé chat crainn déag mhóra_; _seacht n-iora ghlasa dhéag fhiáine_.
+:9-3-1-p_en: Note that if the noun and the qualifier are a separate unit of meaning, e.g., _madra rua_ (_EN: fox_); _cat crainn_ (_EN: pine marten_); _teach tábhairne_ (_EN: pub_); _láthair champála_ (_EN: campsite_) (rather than an ordinary noun and qualifier, e.g., _leabhar dearg_) _déag_ is placed after the noun and the qualifier, e.g., _ceithre mhadra rua dhéag_; _cúig theach tábhairne dhéag_; _sé chat crainn déag_; _seacht n-iora ghlasa dhéag_. Any other qualifier is added after _déag_, e.g., _sé chat crainn déag mhóra_; _seacht n-iora ghlasa dhéag fhiáine_.
 
-:9-3-1-g-p_ga: TODO
-:9-3-1-g-p_en: TODO
+:9-3-1-g-p_ga: Ní shéimhítear _dhá_ i ndiaidh an ailt, _aon_ ná _céad_, e.g., _an dá leabhar_; _an chéad dá leabhar_; _aon dá leabhar_.
+:9-3-1-g-p_en: _two_ is not lenited after the article, _aon_ or _céad_, e.g., _an dá leabhar_; _an chéad dá leabhar_; _aon dá leabhar_.
 
-:9-3-1-h-p_ga: TODO
-:9-3-1-h-p_en: TODO
+:9-3-1-h-p_ga: Cuireann na bunuimhreacha _aon_, _dhá_ (ach féach 8.3.3), _trí_, _ceithre_, _cúig_ agus _sé_ séimhiú ar an ainmfhocal uatha a thagann ina ndiaidh, e.g., _trí bhád_; ach ní shéimhítear an focal _cent_, e.g., _trí cent_.
+:9-3-1-h-p_en: The cardinal numbers _aon_, _dhá_ (but see 8.3.3), _trí_, _ceithre_, _cúig_ and _sé_ lenite the following singular noun, e.g., _trí bhád_; but the word _cent_ is not lenited, e.g., _trí cent_.
 
-:9-3-1-i-p_ga: TODO
-:9-3-1-i-p_en: TODO
+:9-3-1-i-p_ga: Cuireann na bunuimhreacha _seacht_, _ocht_, _naoi_ agus _deich_ urú ar an ainmfhocal uatha agus iolra a thagann ina ndiaidh, e.g., _seacht gcnámh_; _deich gcinn_; ach ní uraítear an focal _euro_, e.g., _ocht euro_; _naoi euro_, ná _cent_, e.g., _ocht cent_; _deich cent_.
+:9-3-1-i-p_en: The cardinal numbers _seacht_, _ocht_, _naoi_ and _deich_ eclipse the following singular and plural nouns, e.g., _seacht gcnámh_; _deich gcinn_; but the word _euro_ is not eclipsed, e.g., _ocht euro_; _naoi euro_, and neither is _cent_, e.g., _ocht cent_; _deich cent_.
 
-:TheCardinalNumbers_ga: TODO
-:TheCardinalNumbers_en: TODO
+:TheCardinalNumbers_ga: Na Bunuimhreacha
+:TheCardinalNumbers_en: The Cardinal Numbers
 
-:9-3-2-title_ga: TODO
-:9-3-2-title_en: TODO
+:9-3-2-title_ga: Ainmfhocail a bhfuil Leagan Iolra ar leith acu i nDiaidh na mBunuimhreacha
+:9-3-2-title_en: Nouns with a Special Plural Form After the Cardinal Numbers
 
-:9-3-2-p_ga: TODO
-:9-3-2-p_en: TODO
+:9-3-2-p_ga: Tá roinnt ainmfhocal ann arb í foirm an ainmnigh iolra díobh, nó leagan iolra ar leith díobh, a úsáidtear i ndiaidh na mbunuimhreacha 3-10 agus i ndiaidh uimhreacha a chríochnaíonn ar 3-9. Léirítear na hainmfhocail sin sa tábla thíos. Cé nach leagan iolra _é fichid_, áirítear an leagan sin san aicme seo.
+:9-3-2-p_en: There are a number of nouns whose nominative plural form, or a distinct plural form, is used after the cardinal numbers 3-10 and after numbers ending in 3-9. Those nouns are shown in the table below. Although _é fichid_ is not a plural version, that version is included in this class.
 
-:Table9G-caption_ga: TODO
-:Table9G-caption_en: TODO
+:Table9G-caption_ga: Na Bunuimhreacha -- Foirmeacha na nAinmfhocal a bhfuil Leagan Iolra ar leith acu
+:Table9G-caption_en: The Cardinal Numbers -- Forms of Nouns that have a distinct Plural Version
 
-:9-3-2-a-p_ga: TODO
-:9-3-2-a-p_en: TODO
+:9-3-2-a-p_ga: Foirm an ainmnigh uatha de na hainmfhocail a úsáidtear leis na bunuimhreacha 1-2 agus i ndiaidh uimhreacha a chríochnaíonn ar 1-2, e.g., _aon phingin amháin_; _dhá bhliain_; _aon uair déag_; _dhá cheann is tríocha_.
+:9-3-2-a-p_en: The nominative singular form of nouns used with the base numbers 1-2 and after numbers ending in 1-2, e.g., _aon phingin amháin_; _dhá bhliain_; _aon uair déag_; _dhá cheann is tríocha_.
 
-:9-3-2-b-p_ga: TODO
-:9-3-2-b-p_en: TODO
+:9-3-2-b-p_ga: Ní chuirtear séimhiú ar an leagan iolra i ndiaidh 3-6 ná i ndiaidh uimhreacha a chríochnaíonn ar 3-6, e.g., _trí seachtaine_; _ceithre cinn déag_.
+:9-3-2-b-p_en: The plural form is not lenited after 3-6 or after numbers ending in 3-6, e.g., _trí seachtaine_; _ceithre cinn déag_.
 
-:9-3-2-c-p_ga: TODO
-:9-3-2-c-p_en: TODO
+:9-3-2-c-p_ga: I ndiaidh 3-6 agus i ndiaidh uimhreacha a chríochnaíonn ar 3-6 cuirtear _h_ roimh an leagan iolra _uaire_, e.g., _cúig huaire_.
+:9-3-2-c-p_en: After 3-6 and after numbers ending in 3-6 _h_ is preceded by the plural form _uaire_, e.g., _cúig huaire_.
 
-:9-3-2-d-p_ga: TODO
-:9-3-2-d-p_en: TODO
+:9-3-2-d-p_ga: Cuireann na huimhreacha 7-10 agus uimhreacha a chríochnaíonn ar 7-9 urú ar an leagan iolra, e.g., _seacht mbliana_; _ocht bpingine déag_.
+:9-3-2-d-p_en: The numbers 7-10 and numbers ending in 7-9 eclipse the plural form, e.g., _seacht mbliana_; _ocht bpingine déag_.
 
-:9-3-2-e-p_ga: TODO
-:9-3-2-e-p_en: TODO
+:9-3-2-e-p_ga: Ní chuirtear séimhiú ar _déag_ i ndiaidh an leagain iolra, fiú amháin sa chás go gcríochnaíonn sé ar ghuta, e.g., _trí bliana déag_; _ocht n-uaire déag_.
+:9-3-2-e-p_en: _déag_ is not lenited after the plural form, even if it ends in a vowel, e.g., _trí bliana déag_; _ocht n-uaire déag_.
 
-:9-3-2-f-p_ga: TODO
-:9-3-2-f-p_en: TODO
+:9-3-2-f-p_ga: Is í foirm an ainmnigh uatha a úsáidtear i ndiaidh na ndeicheanna (seachas _deich_), e.g., _fiche bliain_; _tríocha pingin_; _ochtó troigh_.
+:9-3-2-f-p_en: The nominative singular form is used after the tens (other than _deich_), e.g., _fiche bliain_; _tríocha pingin_; _ochtó troigh_.
 
-:Table9H-caption_ga: TODO
-:Table9H-caption_en: TODO
+:Table9H-caption_ga: Na Bunuimhreacha -- Samplaí d'Fhoirmeacha na nAinmfhocal a bhfuil Leagan Iolra ar leith acu
+:Table9H-caption_en: The Cardinal Numbers -- Examples of Noun Forms with Distinct Plural Forms
 
-:Table9H-header_ga: TODO
-:Table9H-header_en: TODO
+:Table9H-header_ga: Na Bunuimhreacha -- Leaganacha Iolra ar leith
+:Table9H-header_en: The Cardinal Numbers -- Distinct Plural Forms
 
 :9-3-3-title_ga: TODO
 :9-3-3-title_en: TODO
