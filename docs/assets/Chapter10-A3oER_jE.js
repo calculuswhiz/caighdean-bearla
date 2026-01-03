@@ -1,4 +1,4 @@
-= Chapter 10 | {chapterTitle}
+const n=`= Chapter 10 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -641,3 +641,4 @@
 
 {10-3-p}
 
+`;export{n as default};
