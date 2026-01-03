@@ -523,7 +523,7 @@ h| 10 | na deich bhfuinneog ||
 === 9.3.7 {9-3-7-title}
 
 [list-[lower-alpha]]
-. *{9-3-7-a-title}*
+. *aon*
 +
 {9-3-7-a-p}
 +
@@ -651,11 +651,11 @@ h| 90
 
 [list-[lower-alpha]]
 . {9-3-10-a-p}
-. {9-3-10-b-title}
+. *{TheEstablishedSystem}*
 [list-[lower-roman]]
 .. {9-3-10-b-i-p}
 .. {9-3-10-b-ii-p}
-. {9-3-10-c-title}
+. *{TheSimplifiedSystem}*
 [list-[lower-roman]]
 .. {9-3-10-c-i-p}
 .. {9-3-10-c-ii-p}
@@ -845,7 +845,7 @@ h| 6 | seisear h| 12 | dháréag
 
 +
 [.chapter-9]
-[cols="1,4,4"]
+[cols="2,4,4"]
 [options="header"]
 .*{Table} 9R* {Table9R-caption}
 |===
@@ -876,12 +876,12 @@ h| 12 | an dáréag | airgead an dáréag
 .. {9-4-2-d-i-p}
 .. {9-4-2-d-ii-p}
 
+*{OtherCasesFootnote}
+
 === 9.4.3 {9-4-3-title}
 
 [list-[lower-alpha]]
 . *{9-4-3-a-title}*
-+
-*{9-4-3-a-i-footnote}
 [list-[lower-roman]]
 .. {9-4-3-a-i-p}
 .. {9-4-3-a-ii-p}
@@ -890,8 +890,11 @@ h| 12 | an dáréag | airgead an dáréag
 .. {9-4-3-a-v-p}
 
 +
+*{OtherCasesFootnote}
+
++
 [.chapter-9]
-[cols="1,4,4"]
+[cols="2,4,4"]
 [options="header"]
 .*{Table} 9S* {Table9S-caption}
 |===
@@ -973,7 +976,7 @@ h| 12  | an dáréag bádóirí | soitheach an dáréag bádóirí
 
 +
 [.chapter-9]
-[cols="1,4,4"]
+[cols="2,4,4"]
 [options="header"]
 .*{Table} 9U* {Table9U-caption}
 |===
@@ -1509,7 +1512,7 @@ a| . an 1ú fear cróga
 .*{Table} 9FF* {Table9FFCaption}
 |===
 
-h| 20+ h| {Table9FF-col2} h| {Table9FF-col3}
+h| 20+ h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
 
 .2+h| {Table9FF-row1}
 a| . aon chapall mór amháin is fiche

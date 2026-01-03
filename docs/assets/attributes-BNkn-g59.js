@@ -1,4 +1,4 @@
-:chapterTitle_ga: An Uimhir
+const a=`:chapterTitle_ga: An Uimhir
 :chapterTitle_en: The Number
 
 :9-1-title_ga: Ginearálta
@@ -803,4 +803,4 @@
 :Table9FF-note-a-p_en: that only the Established System is used with numbers under 20;
 
 :Table9FF-note-b-p_ga: go moltar, i gcás an phróis, uimhreacha pearsanta suas go _dháréag_ a scríobh ina bhfocail seachas ina bhfigiúirí.
-:Table9FF-note-b-p_en: it is recommended, in the case of prose, to write personal numbers up to _dháréag_ in words rather than figures.
+:Table9FF-note-b-p_en: it is recommended, in the case of prose, to write personal numbers up to _dháréag_ in words rather than figures.`;export{a as default};
