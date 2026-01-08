@@ -1,4 +1,4 @@
-= Chapter 10 | {chapterTitle}
+const n=`= Chapter 10 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -1873,3 +1873,4 @@
   </tbody>
 </table>
 ++++
+`;export{n as default};
