@@ -56,6 +56,10 @@ For those interested, the following base will be used:
 Please create a branch and submit a pull request to make changes, or a new [issue](https://github.com/calculuswhiz/caighdean-bearla/issues). Just make sure it's easy to extract text from.
 
 - Translations are stored in **translation**.
+  - Organized by Chapter
+  - Structure held by ChapterXX.adoc
+  - Translations held in attributes.adoc
+  - As best as possible, the formatting (italics, bold, etc.) will follow the original text.
 - UI components are found in **src/Components/**.
 - Chapter layouts are stored in **src/Components/Chapters**.
 

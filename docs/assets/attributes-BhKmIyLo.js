@@ -1,4 +1,4 @@
-// Translation file. Irish maked by ga suffix and English by en suffix.
+const n=`// Translation file. Irish maked by ga suffix and English by en suffix.
 
 :chapterTitle_ga: Na hAthruithe Tosaigh
 :chapterTitle_en: The Initial Mutations
@@ -1895,3 +1895,4 @@
 
 :Table10E-verb-rule-1_ga: TODO
 :Table10E-verb-rule-1_en: TODO
+`;export{n as default};

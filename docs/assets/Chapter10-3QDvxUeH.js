@@ -180,6 +180,7 @@ const n=`= Chapter 10 | {chapterTitle}
 |===
 | {10-2-5-c-sample-3_ga} | {10-2-5-c-sample-3}
 | {10-2-5-c-sample-4_ga} | {10-2-5-c-sample-4}
+| {10-2-5-c-sample-5_ga} | {10-2-5-c-sample-5}
 |===
 +
 {10-2-5-c-p3}
@@ -187,8 +188,8 @@ const n=`= Chapter 10 | {chapterTitle}
 [.samplebox]
 [cols="1,1"]
 |===
-| {10-2-5-c-sample-5_ga} | {10-2-5-c-sample-5}
 | {10-2-5-c-sample-6_ga} | {10-2-5-c-sample-6}
+| {10-2-5-c-sample-7_ga} | {10-2-5-c-sample-7}
 |===
 
 . {10-2-5-d-p1}
