@@ -459,7 +459,7 @@ const n=`= Chapter 10 | {chapterTitle}
 |===
 
 . {10-2-8-d-p}
-[list-[lower-roman]]
+[.list-[lower-roman]]
 .. {10-2-8-d-i-p}
 +
 [.samplebox]
