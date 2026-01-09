@@ -700,194 +700,194 @@ const a=`// Translation file. Irish maked by ga suffix and English by en suffix.
 :10-3-1-title_ga: I nDiaidh Ainmfhocail
 :10-3-1-title_en: After Nouns
 
-:10-3-1-p_ga: TODO
-:10-3-1-p_en: TODO
+:10-3-1-p_ga: Séimhítear túschonsan aidiachta cáilíochta --
+:10-3-1-p_en: The initial consonant of a qualifying adjective is lenited --
 
-:10-3-1-a-p1_ga: TODO
-:10-3-1-a-p1_en: TODO
+:10-3-1-a-p1_ga: i ndiaidh ainmfhocal atá san ainmneach, sa tabharthach nó sa ghairmeach uatha baininscneach, e.g., _bean mhór_; _don bhean mhór_; _a bhean mhór_:
+:10-3-1-a-p1_en: after a noun in the nominative, dative or vocative singular feminine, e.g., _bean mhór_; _don bhean mhór_; _a bhean mhór_:
 
-:10-3-1-a-sample-1_ga: TODO
-:10-3-1-a-sample-1_en: TODO
+:10-3-1-a-sample-1_ga: Ceannaíonn sé feoil *bhlasta* i gcónaí.
+:10-3-1-a-sample-1_en: He always buys *tasty* meat.
 
-:10-3-1-a-sample-2_ga: TODO
-:10-3-1-a-sample-2_en: TODO
+:10-3-1-a-sample-2_ga: Fan taobh thiar den líne *bhuí*.
+:10-3-1-a-sample-2_en: Stay behind the *yellow* line.
 
-:10-3-1-a-p2_ga: TODO
-:10-3-1-a-p2_en: TODO
+:10-3-1-a-p2_ga: Tabhair faoi deara nach gcuirtear séimhiú ar fhrásaí aidiachtacha ilfhoclacha, e.g., _athnuachan saor in aisce_; _bean mór le rá_; _tuarascáil cothrom le dáta_ (féach 4.3.8).
+:10-3-1-a-p2_en: Note that lenition is not applied to multi-word adjectival phrases, e.g., _athnuachan saor in aisce_; _bean mór le rá_; _tuarascáil cothrom le dáta_ (see 4.3.8).
 
-:10-3-1-b-p_ga: TODO
-:10-3-1-b-p_en: TODO
+:10-3-1-b-p_ga: i ndiaidh ainmfhocal atá sa ghinideach nó sa ghairmeach uatha firinscneach, e.g., _mac fir mhóir_; _a fhir mhóir_:
+:10-3-1-b-p_en: after a noun in the genitive or vocative singular masculine, e.g., _mac fir mhóir_; _a fhir mhóir_:
 
-:10-3-1-b-sample-1_ga: TODO
-:10-3-1-b-sample-1_en: TODO
+:10-3-1-b-sample-1_ga: Ar bhuail tú le húinéir an chapaill *ghlais*?
+:10-3-1-b-sample-1_en: Have you met the owner of the *grey* horse?
 
-:10-3-1-b-sample-2_ga: TODO
-:10-3-1-b-sample-2_en: TODO
+:10-3-1-b-sample-2_ga: Dán leis an bPiarsach is ea A Éin *Bhig*.
+:10-3-1-b-sample-2_en: The poem A Éin *Bhig* is by Pearse.
 
-:10-3-1-c-p1_ga: TODO
-:10-3-1-c-p1_en: TODO
+:10-3-1-c-p1_ga: i ndiaidh ainmfhocal atá san ainmneach nó sa tabharthach iolra, má chríochnaíonn an t-ainmfhocal ar chonsan caol, e.g., _fir mhóra_; _do na fir mhóra_ (eisceacht: _caora_ san ainmneach iolra, e.g., _caoirigh beaga bána móra_, etc.):
+:10-3-1-c-p1_en: after a noun in the nominative or dative plural, if the noun ends in a slender consonant, e.g., _fir mhóra_; _do na fir mhóra_ (exception: _caora_ in the nominative plural, e.g., _caoirigh beaga bána móra_, etc.):
 
-:10-3-1-c-sample-1_ga: TODO
-:10-3-1-c-sample-1_en: TODO
+:10-3-1-c-sample-1_ga: Ní mór lipéid *shothuigthe* a chur ar earraí glantacháin.
+:10-3-1-c-sample-1_en: Labels for *perishable* goods must be affixed.
 
-:10-3-1-c-sample-2_ga: TODO
-:10-3-1-c-sample-2_en: TODO
+:10-3-1-c-sample-2_ga: Bhí scamaill *mhóra dhubha* sa spéir.
+:10-3-1-c-sample-2_en: There were *large black* clouds in the sky.
 
-:10-3-1-c-p2_ga: TODO
-:10-3-1-c-p2_en: TODO
+:10-3-1-c-p2_ga: Tabhair faoi deara go mbristear an ceangal gramadaí le lúibíní, e.g., _gnóthais (beag nó mór)_.
+:10-3-1-c-p2_en: Note that the grammatical link is broken by brackets, e.g., _gnóthais (beag nó mór)_.
 
-:10-3-1-d-p_ga: TODO
-:10-3-1-d-p_en: TODO
+:10-3-1-d-p_ga: i gcás uimhreacha:
+:10-3-1-d-p_en: in the case of numbers:
 
-:10-3-1-d-i-p_ga: TODO
-:10-3-1-d-i-p_en: TODO
+:10-3-1-d-i-p_ga: i ndiaidh ainmfhocal a bhfuil _dá_ nó _dhá_ roimhe, e.g., _dhá bhó bhána_; _luach an dá bhó bhána_; _an dá leabhar déag mhóra_; _dhá fhuinneog mhóra is tríocha_; _dhá cheann mhóra is ceathracha_:
+:10-3-1-d-i-p_en: after a noun preceded by _dá_ or _dhá_, e.g., _dhá bhó bhána_; _luach an dá bhó bhána_; _an dá leabhar déag mhóra_; _dhá fhuinneog mhóra is tríocha_; _dhá cheann mhóra is ceathracha_:
 
-:10-3-1-d-i-sample-1_ga: TODO
-:10-3-1-d-i-sample-1_en: TODO
+:10-3-1-d-i-sample-1_ga: Fuair sé dhá ghadhar *fhíochmhara*.
+:10-3-1-d-i-sample-1_en: He got two *fierce* hounds.
 
-:10-3-1-d-i-sample-2_ga: TODO
-:10-3-1-d-i-sample-2_en: TODO
+:10-3-1-d-i-sample-2_ga: Ní mór doirse an dá theach *bheaga* a chur faoi ghlas.
+:10-3-1-d-i-sample-2_en: The doors of the two *small* houses must be locked.
 
-:10-3-1-d-ii-p1_ga: TODO
-:10-3-1-d-ii-p1_en: TODO
+:10-3-1-d-ii-p1_ga: i ndiaidh ainmfhocal san uatha a bhfuil uimhir ó _trí_ go _deich_ roimhe, e.g., _trí (ceithre, cúig, sé) bhád mhóra_; _seacht (ocht, naoi, deich) gcapall mhóra_; _trí (ceithre, cúig, sé) fhuinneog déag mhóra_; _seacht (ocht, naoi, deich) mbád déag mhóra_; _ocht gcéad nócha is naoi mbád bheaga_; _lucht na dtrí (gceithre, etc.) bhád mhóra_; _ainmneacha na seacht (n-ocht, etc.) gcapall mhóra_:
+:10-3-1-d-ii-p1_en: after a noun in the singular preceded by a number from _three_ to _ten_, e.g., _trí (ceithre, cúig, sé) bhád mhóra_; _seacht (ocht, naoi, deich) gcapall mhóra_; _trí (ceithre, cúig, sé) fhuinneog déag mhóra_; _seacht (ocht, naoi, deich) mbád déag mhóra_; _ocht gcéad nócha is naoi mbád bheaga_; _lucht na dtrí (gceithre, etc.) bhád mhóra_; _ainmneacha na seacht (n-ocht, etc.) gcapall mhóra_:
 
-:10-3-1-d-ii-sample-1_ga: TODO
-:10-3-1-d-ii-sample-1_en: TODO
+:10-3-1-d-ii-sample-1_ga: Cheannaigh sí trí leabhar *fhada* dá laethanta saoire.
+:10-3-1-d-ii-sample-1_en: She bought three *long* books for her holidays.
 
-:10-3-1-d-ii-sample-2_ga: TODO
-:10-3-1-d-ii-sample-2_en: TODO
+:10-3-1-d-ii-sample-2_ga: Taispeánadh deich scannán *cháiliúla* le linn na féile.
+:10-3-1-d-ii-sample-2_en: Ten *famous* films were shown during the festival.
 
-:10-3-1-d-ii-p2_ga: TODO
-:10-3-1-d-ii-p2_en: TODO
+:10-3-1-d-ii-p2_ga: Tabhair faoi deara, má úsáidtear an Córas Simplithe os cionn fiche (féach 9.3.10-9.3.12) nach gcuirtear séimhiú ach amháin ar aidiacht a thagann i ndiaidh ainmfhocal baininscneach, e.g., _fiche a trí capall mór_; _45 fuinneog mhór_.
+:10-3-1-d-ii-p2_en: Note that, when the Simplified System above twenty is used (see 9.3.10-9.3.12), lenition is applied only to an adjective following a feminine noun, e.g., _fiche a trí capall mór_; _45 fuinneog mhór_.
 
-:10-3-1-d-iii-p_ga: TODO
-:10-3-1-d-iii-p_en: TODO
+:10-3-1-d-iii-p_ga: i ndiaidh an leagain iolra _cinn_ nuair atá uimhir ó _trí_ go _deich_ roimhe, e.g., _trí cinn dhubha_; _cúig cinn mhóra is seasca_:
+:10-3-1-d-iii-p_en: after the plural form _cinn_ when preceded by a number from _three_ to _ten_, e.g., _trí cinn dhubha_; _cúig cinn mhóra is seasca_:
 
-:10-3-1-d-iii-sample-1_ga: TODO
-:10-3-1-d-iii-sample-1_en: TODO
+:10-3-1-d-iii-sample-1_ga: D'aimsigh sí trí cinn *fholmha* sa chuardach.
+:10-3-1-d-iii-sample-1_en: She found three *empty* ones in the search.
 
-:10-3-1-e-p_ga: TODO
-:10-3-1-e-p_en: TODO
+:10-3-1-e-p_ga: sa tabharthach uatha firinscneach, má tá Córas an tSéimhithe á úsáid (féach 1.7).
+:10-3-1-e-p_en: in the masculine vocative singular, if the Lenition System is being used (see 1.7).
 
-:10-3-2-title_ga: TODO
-:10-3-2-title_en: TODO
+:10-3-2-title_ga: Roimh Ainmfhocal
+:10-3-2-title_en: Before a Noun
 
-:10-3-2-p_ga: TODO
-:10-3-2-p_en: TODO
+:10-3-2-p_ga: Nuair a thagann aidiacht roimh ainmfhocal --
+:10-3-2-p_en: When an adjective precedes a noun --
 
-:10-3-2-a-p_ga: TODO
-:10-3-2-a-p_en: TODO
+:10-3-2-a-p_ga: séimhítear an aidiacht ar lorg réamhfhocal simplí, ar lorg réamhfhocal simplí agus an ailt agus ar lorg aidiacht shealbhach ar an tslí chéanna ar a séimhítear an t-ainmfhocal, e.g., _ar thrí euro_; _don cheathrú bean_; _mo shéú hubh_ (féach 9.5.1):
+:10-3-2-a-p_en: the adjective is lenited after a simple preposition, after a simple preposition and the definite article, and after a possessive adjective in the same way as the noun is lenited, e.g., _ar thrí euro_; _don cheathrú bean_; _mo shéú hubh_ (see 9.5.1):
 
-:10-3-2-a-sample-1_ga: TODO
-:10-3-2-a-sample-1_en: TODO
+:10-3-2-a-sample-1_ga: Déanfar é laistigh *de cheithre* mhí.
+:10-3-2-a-sample-1_en: It will be done within *four* months.
 
-:10-3-2-a-sample-2_ga: TODO
-:10-3-2-a-sample-2_en: TODO
+:10-3-2-a-sample-2_ga: Thug siad *don chúigiú* cuairteoir é.
+:10-3-2-a-sample-2_en: They gave it to the *fifth* visitor.
 
-:10-3-2-a-sample-3_ga: TODO
-:10-3-2-a-sample-3_en: TODO
+:10-3-2-a-sample-3_ga: Ba é *a thríú* hiarracht é.
+:10-3-2-a-sample-3_en: It was *his third* attempt.
 
-:10-3-2-b-p1_ga: TODO
-:10-3-2-b-p1_en: TODO
+:10-3-2-b-p1_ga: cuirtear séimhiú ar an orduimhir sa tuiseal ginideach ar an tslí chéanna a gcuirtear séimhiú ar ainmfhocal firinscneach, e.g., _doras an cheathrú seomra_, ach ní shéimhítear _f_, e.g., _i dtrátha an fichiú lá_ (féach 9.5.4(d))
+:10-3-2-b-p1_en: the numeral in the genitive case is lenited in the same way as a masculine noun, e.g., _doras an cheathrú seomra_, but _f_ is not lenited, e.g., _i dtrátha an fichiú lá_ (see 9.5.4(d))
 
-:10-3-2-b-sample-1_ga: TODO
-:10-3-2-b-sample-1_en: TODO
+:10-3-2-b-sample-1_ga: Chuaigh bróga *an chúigiú* girseach amú.
+:10-3-2-b-sample-1_en: The shoes of the *fifth* girl got lost.
 
-:10-3-2-b-sample-2_ga: TODO
-:10-3-2-b-sample-2_en: TODO
+:10-3-2-b-sample-2_ga: Bhí bia *an fichiú* fear le dáileadh fós.
+:10-3-2-b-sample-2_en: The food of the *twentieth* man was still to be distributed.
 
-:10-3-2-b-p2_ga: TODO
-:10-3-2-b-p2_en: TODO
+:10-3-2-b-p2_ga: Tabhair faoi deara nach séimhítear --
+:10-3-2-b-p2_en: Note that lenition is not applied --
 
-:10-3-2-b-i-p_ga: TODO
-:10-3-2-b-i-p_en: TODO
+:10-3-2-b-i-p_ga: an orduimhir san ainmneach, ach amháin _céad_ (féach 9.5.1(b)), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
+:10-3-2-b-i-p_en: the ordinal number in the nominative case, except _céad_ (see 9.5.1(b)), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
 
-:10-3-2-b-i-sample-1_ga: TODO
-:10-3-2-b-i-sample-1_en: TODO
+:10-3-2-b-i-sample-1_ga: Is tusa *an ceathrú* duine a chuir an cheist sin orm.
+:10-3-2-b-i-sample-1_en: You are the *fourth* person to ask me that question.
 
-:10-3-2-b-i-sample-2_ga: TODO
-:10-3-2-b-i-sample-2_en: TODO
+:10-3-2-b-i-sample-2_ga: Bhain sí *an séú* háit amach sa rás.
+:10-3-2-b-i-sample-2_en: She achieved *the sixth* place in the race.
 
-:10-3-2-b-ii-p_ga: TODO
-:10-3-2-b-ii-p_en: TODO
+:10-3-2-b-ii-p_ga: _cibé_, _gach_ ná _pé_:
+:10-3-2-b-ii-p_en: _cibé_, _gach_ or _pé_:
 
-:10-3-2-b-ii-sample-1_ga: TODO
-:10-3-2-b-ii-sample-1_en: TODO
+:10-3-2-b-ii-sample-1_ga: Ní foláir é a chríochnú laistigh *de cibé* tréimhse a cheadóidh an tAire.
+:10-3-2-b-ii-sample-1_en: It must be completed within *any* period allowed by the Minister.
 
-:10-3-2-b-ii-sample-2_ga: TODO
-:10-3-2-b-ii-sample-2_en: TODO
+:10-3-2-b-ii-sample-2_ga: Ba cheart *do gach* institiúid a rialacha slándála féin a urramú.
+:10-3-2-b-ii-sample-2_en: *All* institutions should respect their own safety rules.
 
-:10-3-2-b-ii-sample-3_ga: TODO
-:10-3-2-b-ii-sample-3_en: TODO
+:10-3-2-b-ii-sample-3_ga: Níor fhéad sé cur síos a dhéanamh *ar pé* rud a bhí ag cur isteach air.
+:10-3-2-b-ii-sample-3_en: He could not describe *any* thing that was bothering him.
 
-:10-3-2-b-iii-p_ga: TODO
-:10-3-2-b-iii-p_en: TODO
+:10-3-2-b-iii-p_ga: na haidiachtaí sealbhacha _mo_ agus _do_, e.g., _ar mo mhála_; _faoi do chara_:
+:10-3-2-b-iii-p_en: the possessive adjectives _mo_ and _do_, e.g., _ar mo mhála_; _faoi do chara_:
 
-:10-3-2-b-iii-sample-1_ga: TODO
-:10-3-2-b-iii-sample-1_en: TODO
+:10-3-2-b-iii-sample-1_ga: Rachadh sé trí _do_ chroí.
+:10-3-2-b-iii-sample-1_en: He would go through *your* heart.
 
-:10-3-2-b-iii-sample-2_ga: TODO
-:10-3-2-b-iii-sample-2_en: TODO
+:10-3-2-b-iii-sample-2_ga: Chonaic mé é ar _do_ shuíomh gréasáin.
+:10-3-2-b-iii-sample-2_en: I saw it on *your* website.
 
-:10-3-3-title_ga: TODO
-:10-3-3-title_en: TODO
+:10-3-3-title_ga: Ar _dhá_ agus ar _dháréag_
+:10-3-3-title_en: To _dhá_ and _dháréag_
 
-:10-3-3-p_ga: TODO
-:10-3-3-p_en: TODO
+:10-3-3-p_ga: Bíonn séimhiú ar na haidiachtaí _dhá_ agus _dháréag_, e.g., _mo dhá bhróg_; _bhí dháréag i láthair_; ach amháin i ndiaidh an ailt uatha (_an_, _don_, _sa_, etc.), _aon_ agus _chéad_, e.g., _an dá áit_; _gach aon dá uair an chloig_; _an chéad dá bhliain_; _an Dáréag Aspal_; _gach aon dáréag acu_; _an chéad dáréag a cháiligh_; _Cogadh an Dá Aodh_.
+:10-3-3-p_en: The adjectives _dhá_ and _dháréag_ are lenited, e.g., _mo dhá bhróg_; _bhí dháréag i láthair_; except after the definite article (_an_, _don_, _sa_, etc.), _aon_ and _chéad_, e.g., _an dá áit_; _gach aon dá uair an chloig_; _an chéad dá bhliain_; _an Dáréag Aspal_; _gach aon dáréag acu_; _an chéad dáréag a cháiligh_; _Cogadh an Dá Aodh_.
 
-:10-3-3-sample-1_ga: TODO
-:10-3-3-sample-1_en: TODO
+:10-3-3-sample-1_ga: Chaith siad *dhá* uair an chloig ann.
+:10-3-3-sample-1_en: They spent *two* hours there.
 
-:10-3-3-sample-2_ga: TODO
-:10-3-3-sample-2_en: TODO
+:10-3-3-sample-2_ga: Roghnaigh siad *dháréag* chun bheith páirteach sa chomórtas.
+:10-3-3-sample-2_en: They chose *twelve* to participate in the competition.
 
-:10-3-3-sample-3_ga: TODO
-:10-3-3-sample-3_en: TODO
+:10-3-3-sample-3_ga: Bhí an *dá* bhronntanas oscailte aici.
+:10-3-3-sample-3_en: The *two* gifts were open.
 
-:10-3-3-sample-4_ga: TODO
-:10-3-3-sample-4_en: TODO
+:10-3-3-sample-4_ga: Cén treoir a tugadh don *dáréag* ar an ngiúiré?
+:10-3-3-sample-4_en: What instructions were given to the *twelve* on the jury?
 
-:10-3-4-title_ga: TODO
-:10-3-4-title_en: TODO
+:10-3-4-title_ga: Ar _déag_ agus ar _fichead_
+:10-3-4-title_en: To _déag_ and _fichead_
 
-:10-3-4-p_ga: TODO
-:10-3-4-p_en: TODO
+:10-3-4-p_ga: Bíonn séimhiú ar _déag_ i ndiaidh _dó_ agus i ndiaidh ainmfhocal uatha a chríochnaíonn ar ghuta, e.g., _trí bhó dhéag_; _cúig lá dhéag_; ach amháin sna horduimhreacha (féach 9.5.2(e)). Séimhítear _fichead_ i ndiaidh ainmfhocal a bhfuil iolra caol air, e.g., _trí cinn fhichead_.
+:10-3-4-p_en: Lenition is applied to _déag_ after _dó_ and after a singular noun ending in a vowel, e.g., _trí bhó dhéag_; _cúig lá dhéag_; except in the ordinal numbers (see 9.5.2(e)). _Fichead_ is lenited after a noun in the slender plural, e.g., _trí cinn fhichead_.
 
-:10-3-4-sample-1_ga: TODO
-:10-3-4-sample-1_en: TODO
+:10-3-4-sample-1_ga: Fuair sé bus uimhir a dó *dhéag*.
+:10-3-4-sample-1_en: He got bus number twelve (two *ten*).
 
-:10-3-4-sample-2_ga: TODO
-:10-3-4-sample-2_en: TODO
+:10-3-4-sample-2_ga: Mhair an cúrsa seacht mí *dhéag*.
+:10-3-4-sample-2_en: The course lasted seven**teen** months.
 
-:10-3-4-sample-3_ga: TODO
-:10-3-4-sample-3_en: TODO
+:10-3-4-sample-3_ga: Seacht gcinn *fhichead* de ghearrscéalta atá sa chnuasach.
+:10-3-4-sample-3_en: There are *twenty* seven short stories in the collection.
 
-:10-3-5-title_ga: TODO
-:10-3-5-title_en: TODO
+:10-3-5-title_ga: Sa Chomhfhocal
+:10-3-5-title_en: In the Compound Word
 
-:10-3-5-p_ga: TODO
-:10-3-5-p_en: TODO
+:10-3-5-p_ga: Séimhítear an dara focal i gcomhfhocal, e.g., _beagmhaith_, _fíordheas_, ach amháin nuair a thagann _d_, _t_ nó _s_ i ndiaidh _d_, _n_, _t_, _l_ nó _s_, e.g., _antrom_, _bándearg_, _caolsrónach_, _casdubh_, _fadsaolach_, _ildánach_, _ilteangach_.
+:10-3-5-p_en: The second word in a compound word is lenited, e.g., _beagmhaith_, _fíordheas_, except when _d_, _t_ or _s_ follow _d_, _n_, _t_, _l_ or _s_, e.g., _antrom_, _bándearg_, _caolsrónach_, _casdubh_, _fadsaolach_, _ildánach_, _ilteangach_.
 
-:10-3-5-sample-1_ga: TODO
-:10-3-5-sample-1_en: TODO
+:10-3-5-sample-1_ga: Rinne siad staidéar ar ábhar *leathsheoltach* mar chuid den rang fisice.
+:10-3-5-sample-1_en: They studied *semiconductor* material as part of the physics class.
 
-:10-3-5-sample-2_ga: TODO
-:10-3-5-sample-2_en: TODO
+:10-3-5-sample-2_ga: Fuair sé íocaíocht *ollmhór* as an obair sin.
+:10-3-5-sample-2_en: He received a *great-big* payment for that work.
 
-:10-3-5-sample-3_ga: TODO
-:10-3-5-sample-3_en: TODO
+:10-3-5-sample-3_ga: Ba léir go raibh sí *lánsásta* lena céad lá sa phost.
+:10-3-5-sample-3_en: It was clear that she was *very happy* with her first day at work.
 
-:10-3-6-title_ga: TODO
-:10-3-6-title_en: TODO
+:10-3-6-title_ga: I nDiaidh na Copaile
+:10-3-6-title_en: After the Copula
 
-:10-3-6-p_ga: TODO
-:10-3-6-p_en: TODO
+:10-3-6-p_ga: Cuirtear séimhiú ar an aidiacht i ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach, e.g., _Ba dheas uait é_; _Ar mhaith leat é?_; _Níor bheag an gaisce é_; _Nár dhona an lá é?_; _B'fhéidir nár chneasta uaim é_; _Dá mba mhaith leat teacht, bheadh fáilte romhat_; _má ba shaibhir an fear é_ (féach Caibidil 7).
+:10-3-6-p_en: Lenition is applied to the adjective following the copula in the indicative mood, past tense and past habitual tense, and in the conditional mood, e.g., _Ba dheas uait é_; _Ar mhaith leat é?_; _Níor bheag an gaisce é_; _Nár dhona an lá é?_; _B'fhéidir nár chneasta uaim é_; _Dá mba mhaith leat teacht, bheadh fáilte romhat_; _má ba shaibhir an fear é_ (see Chapter 7).
 
-:10-3-6-sample-1_ga: TODO
-:10-3-6-sample-1_en: TODO
+:10-3-6-sample-1_ga: Dúirt sé *gur mhór* an leas dó é.
+:10-3-6-sample-1_en: He said *that* it was a *great* benefit to him.
 
-:10-3-6-sample-2_ga: TODO
-:10-3-6-sample-2_en: TODO
+:10-3-6-sample-2_ga: *Murarbh fhíor* é, *níor cheart* a leithéid a rá.
+:10-3-6-sample-2_en: *If* it *were not true*, *it is not right* to say such a thing.
 
 :10-4-title_ga: TODO
 :10-4-title_en: TODO
