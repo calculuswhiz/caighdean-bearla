@@ -122,3 +122,9 @@ _$0_
 
 ### Notes: 
 - Make sure you reset formatting searches after each pass.
+
+If copying directly to VS Code, this might speed up italicization of certain phrases (error prone, so be careful).
+
+```
+(?<= )[^aeiou](?= )|(?<=e.g., |; ).*?(?=([;,:.]| \())
+```

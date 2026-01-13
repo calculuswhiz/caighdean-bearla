@@ -818,8 +818,6 @@ const n=`= Chapter 10 | {chapterTitle}
 
 == 10.4 {10-4-title}
 
-{10-4-p}
-
 === 10.4.1 {10-4-1-title}
 
 {10-4-1-p}
@@ -905,8 +903,6 @@ const n=`= Chapter 10 | {chapterTitle}
 ---
 
 == 10.5 {10-5-title}
-
-{10-5-p}
 
 === 10.5.1 {10-5-1-title}
 
@@ -1169,7 +1165,7 @@ const n=`= Chapter 10 | {chapterTitle}
 
 ---
 
-== 10.8_5 {10-8_5-title}
+== {10-8_5-title}
 
 {10-8_5-p}
 
@@ -1177,7 +1173,7 @@ const n=`= Chapter 10 | {chapterTitle}
 
 == 10.9 {10-9-title}
 
-=== 10.9.1 {10-9-1-title}
+=== 10.9.1
 
 {10-9-1-p}
 
@@ -1206,7 +1202,7 @@ const n=`= Chapter 10 | {chapterTitle}
 
 == 10.10 {10-10-title}
 
-=== 10.10.1 {10-10-1-title}
+=== 10.10.1
 
 {10-10-1-p}
 
@@ -1217,7 +1213,7 @@ const n=`= Chapter 10 | {chapterTitle}
 | {10-10-1-sample-2_ga} | {10-10-1-sample-2}
 |===
 
-=== 10.10.2 {10-10-2-title}
+=== 10.10.2
 
 {10-10-2-p}
 
@@ -1242,7 +1238,7 @@ const n=`= Chapter 10 | {chapterTitle}
 
 ---
 
-== 10.10_5 {10-10_5-title}
+== {10-10_5-title}
 
 {10-10_5-p}
 
@@ -1274,8 +1270,6 @@ const n=`= Chapter 10 | {chapterTitle}
 |===
 
 === 10.11.2 {10-11-2-title}
-
-{10-11-2-p}
 
 [list-[lower-alpha]]
 . {10-11-2-a-p}
@@ -1495,8 +1489,6 @@ const n=`= Chapter 10 | {chapterTitle}
 
 == {10-14_5-title}
 
-{10-14_5-p}
-
 ---
 
 == 10.15 {10-15-title}
@@ -1594,7 +1586,7 @@ const n=`= Chapter 10 | {chapterTitle}
     <tr>
       <td>{Table10A-adjective-rule-2}</td>
       <td>
-        laistigh de cheithre mhí; sa chúigiú háit; a dtríú hiarracht (<em>{ThirdPersonPl}</em>); bróga an cheathrú girseach
+        laistigh de cheithre mhí; sa chúigiú háit; a dtríú hiarracht (<em>{ThirdPersonMasc}</em>); bróga an cheathrú girseach
       </td>
     </tr>
     <tr>
@@ -1716,7 +1708,7 @@ const n=`= Chapter 10 | {chapterTitle}
   </thead>
   <tbody>
     <tr>
-      <th>{Table10C-header}</th>
+      <th>{Table10C-Noun-Adjective-Header}</th>
       <th>{Examples}</th>
     </tr>
     <tr>
@@ -1851,24 +1843,26 @@ const n=`= Chapter 10 | {chapterTitle}
 </table>
 ++++
 
+{10-16-p6}
+
 [subs=attributes,replacements]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10E</strong> {Table10E-caption}
+    <strong>{Table} 10F</strong> {Table10F-caption}
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10E-header}</th>
+      <th colspan=2>{Table10F-header}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>{Table10E-verb-header}</th>
+      <th>{Table10F-verb-header}</th>
       <th>{Examples}</th>
     </tr>
     <tr>
-      <td>{Table10E-verb-rule-1}</td>
+      <td>{Table10F-verb-rule-1}</td>
       <td>d'fhreagair sé; má d'fheiceadh sé; d'imigh sí; d'aithneofaí í</td>
     </tr>
   </tbody>

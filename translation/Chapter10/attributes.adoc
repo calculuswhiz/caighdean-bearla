@@ -178,7 +178,7 @@
 :10-2-5-b-sample-2_en: He left his shoes *on a rock* near the sea.
 
 :10-2-5-b-p2_ga: Tabhair faoi deara nach séimhítear an t-ainmfhocal i gcás abairtíní dobhriathartha ná ainmneacha briathartha lena gcuirtear staid nó suíomh in iúl, e.g., _ar ball_; _ar bord (loinge)_; _ar comhaois_; _ar comhchéim_; _ar comhscór_; _ar comhstádas_; _ar deireadh_; _ar fad_; _ar fiar_; _ar meisce_; _ar muir agus ar tír_; _ar srian_; _ar tiús_; _ar bogadh_; _ar crochadh_; _ar fáil_; _ar siúl_ (sa bhrí _ag tarlú_); ach _ar fheabhas_; _ar shiúl_ (sa bhrí _imithe_). Cuirtear séimhiú ar an ainmfhocal, áfach, má tá sé cáilithe, e.g., _ar chonradh sealadach_; _ar shaoire mháithreachais_; _ar bharr an tí_; ach amháin i gcás _ar bord loinge_; _ar ball beag_.
-:10-2-5-b-p2_en: Note that the noun is not lenited in the case of idiomatic phrases or verbal nouns indicating state or position, e.g., _ar ball_; _ar bord (loinge)_; _ar comhaois_; _ar comhchéim_; _ar comhscór_; _ar comhstádas_; _ar deireadh_; _ar fad_; _ar fiar_; _ar meisce_; _ar muir agus ar tír_; _ar srian_; _ar tiús_; _ar bogadh_; _ar crochadh_; _ar fáil_; _ar siúl_ (in the sense of _happening_); but _ar fheabhas_; _ar shiúl_ (in the sense of _gone_). However, lenition is applied to the noun if it is qualified, e.g., _ar chonradh sealadach_; _ar shaoire mháithreachais_; _ar bharr an tí_; except in the case of _ar bord loinge_; _ar ball beag_.
+:10-2-5-b-p2_en: Note that the noun is not lenited in the case of adverbial phrases or verbal nouns indicating state or position, e.g., _ar ball_; _ar bord (loinge)_; _ar comhaois_; _ar comhchéim_; _ar comhscór_; _ar comhstádas_; _ar deireadh_; _ar fad_; _ar fiar_; _ar meisce_; _ar muir agus ar tír_; _ar srian_; _ar tiús_; _ar bogadh_; _ar crochadh_; _ar fáil_; _ar siúl_ (meaning _happening_); but _ar fheabhas_; _ar shiúl_ (meaning _gone_). However, lenition is applied to the noun if it is qualified, e.g., _ar chonradh sealadach_; _ar shaoire mháithreachais_; _ar bharr an tí_; except in the case of _ar bord loinge_; _ar ball beag_.
 
 :10-2-5-c-p1_ga: _gan_, ar ainmfhocal nach bhfuil cáilithe mura _d_, _t_, _s_ nó _f_ an túschonsan, e.g., _gan chuid_; _gan chiall_; _gan mhaith_; _gan mheabhair_; _gan bhréag_; ach _gan dearmad_; _gan sagart_; _gan tine_; _gan feoirling_ (eisceacht: _gan fhios_);
 :10-2-5-c-p1_en: _gan_, on an unqualified noun unless the initial consonant is _d_, _t_, _s_ or _f_, e.g., _gan chuid_; _gan chiall_; _gan mhaith_; _gan mheabhair_; _gan bhréag_; but _gan dearmad_; _gan sagart_; _gan tine_; _gan feoirling_ (exception: _gan fhios_);
@@ -889,1010 +889,1009 @@
 :10-3-6-sample-2_ga: *Murarbh fhíor* é, *níor cheart* a leithéid a rá.
 :10-3-6-sample-2_en: *If* it *were not true*, *it is not right* to say such a thing.
 
-:10-4-title_ga: TODO
-:10-4-title_en: TODO
+:10-4-title_ga: Séimhiú ar an mBriathar
+:10-4-title_en: Lenition on the Verb
 
-:10-4-p_ga: TODO
-:10-4-p_en: TODO
+:10-4-1-title_ga: Séimhiú ar an mBriathar Neamhspleách
+:10-4-1-title_en: Lenition on the Independent Verb
 
-:10-4-1-title_ga: TODO
-:10-4-1-title_en: TODO
+:10-4-1-p_ga: Séimhítear an briathar neamhspleách --
+:10-4-1-p_en: The independent verb is lenited --
 
-:10-4-1-p_ga: TODO
-:10-4-1-p_en: TODO
+:10-4-1-a-p_ga: sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach, e.g., _mhol mé_ (_mhol tú_, etc.), _mholainn_ (_mholtá_, etc.), _mholfainn_, (_mholfá_, etc.), _mholtaí_, _mholfaí_:
+:10-4-1-a-p_en: in the indicative mood, past tense and past habitual tense, and in the conditional mood, e.g., _mhol mé_ (_mhol tú_, etc.), _mholainn_ (_mholtá_, etc.), _mholfainn_, (_mholfá_, etc.), _mholtaí_, _mholfaí_:
 
-:10-4-1-a-p_ga: TODO
-:10-4-1-a-p_en: TODO
+:10-4-1-a-sample-1_ga: *Shábháil* sí go leor airgid.
+:10-4-1-a-sample-1_en: She *saved* a lot of money.
 
-:10-4-1-a-sample-1_ga: TODO
-:10-4-1-a-sample-1_en: TODO
+:10-4-1-a-sample-2_ga: *Théidís* ann gach lá.
+:10-4-1-a-sample-2_en: They *would go* there every day.
 
-:10-4-1-a-sample-2_ga: TODO
-:10-4-1-a-sample-2_en: TODO
+:10-4-1-a-sample-3_ga: *Chuideodh* sé leat dá gcuirfeá ceist air.
+:10-4-1-a-sample-3_en: He *would help* you if you asked him.
 
-:10-4-1-a-sample-3_ga: TODO
-:10-4-1-a-sample-3_en: TODO
+:10-4-1-b-p_ga: i ndiaidh _a_, coibhneas díreach, agus i ndiaidh na gcónasc _má_ agus _ó_:
+:10-4-1-b-p_en: after _a_, direct relative, and after the conjunctions _má_ and _ó_:
 
-:10-4-1-b-p_ga: TODO
-:10-4-1-b-p_en: TODO
+:10-4-1-b-sample-1_ga: Is í sin an bhean *a ghlanfaidh* an áit.
+:10-4-1-b-sample-1_en: That is the woman *who will clean* the place.
 
-:10-4-1-b-sample-1_ga: TODO
-:10-4-1-b-sample-1_en: TODO
+:10-4-1-b-sample-2_ga: An bhfaca tú an gluaisteán *a thiomáineann* sí?
+:10-4-1-b-sample-2_en: Did you see the car *that she drives*?
 
-:10-4-1-b-sample-2_ga: TODO
-:10-4-1-b-sample-2_en: TODO
+:10-4-1-b-sample-3_ga: *Má bhíonn* sé ann tabhair leat é.
+:10-4-1-b-sample-3_en: *If* he *is* there, bring it with you.
 
-:10-4-1-b-sample-3_ga: TODO
-:10-4-1-b-sample-3_en: TODO
+:10-4-1-b-sample-4_ga: *Ó chuir* tú i mo cheann é níor smaoinigh mé ar rud ar bith eile.
+:10-4-1-b-sample-4_en: *Since* you put it in my head, I haven't thought about anything else.
 
-:10-4-1-b-sample-4_ga: TODO
-:10-4-1-b-sample-4_en: TODO
+:10-4-1-c-p1_ga: san fhochlásal dearfach atá mar ainmní ag an gcopail i leaganacha mar _Is ann a chonaic mé é_; _Is leis a bheidh mé_:
+:10-4-1-c-p1_en: in the affirmative clause functioning as a noun with the copula in forms such as _Is ann a chonaic mé é_; _Is leis a bheidh mé_:
 
-:10-4-1-c-p1_ga: TODO
-:10-4-1-c-p1_en: TODO
+:10-4-1-c-sample-1_ga: Is sa siopa sin *a cheannaíonn* sé a chuid éadaí.
+:10-4-1-c-sample-1_en: It is in that shop *that he buys* his clothes.
 
-:10-4-1-c-sample-1_ga: TODO
-:10-4-1-c-sample-1_en: TODO
+:10-4-1-c-sample-2_ga: Is ar líne *a chraolfar* é.
+:10-4-1-c-sample-2_en: It is online *that it will be broadcast*.
 
-:10-4-1-c-sample-2_ga: TODO
-:10-4-1-c-sample-2_en: TODO
+:10-4-1-c-p2_ga: Ach, tabhair faoi deara --
+:10-4-1-c-p2_en: But, note --
 
-:10-4-1-c-p2_ga: TODO
-:10-4-1-c-p2_en: TODO
+:10-4-1-c-i-p_ga: Taobh amuigh de bhriathra neamhrialta áirithe -- _bhíothas_, _chonacthas_, _chualathas_, _chuathas_, _thángthas_ -- ní shéimhítear an saorbhriathar san aimsir chaite, e.g., _Buaileadh go dona iad_; _an geall a briseadh_:
+:10-4-1-c-i-p_en: Outside certain irregular verbs -- _bhíothas_, _chonacthas_, _chualathas_, _chuathas_, _thángthas_ -- the verbal noun in the past tense is not lenited, e.g., _Buaileadh go dona iad_; _an geall a briseadh_:
 
-:10-4-1-c-i-p_ga: TODO
-:10-4-1-c-i-p_en: TODO
+:10-4-1-c-i-sample-1_ga: Ní raibh sé sa bhaile *ó fuarthas* ciontach é.
+:10-4-1-c-i-sample-1_en: He was not at home *since he was found* guilty.
 
-:10-4-1-c-i-sample-1_ga: TODO
-:10-4-1-c-i-sample-1_en: TODO
+:10-4-1-c-i-sample-2_ga: Ba leis *a cailleadh* é.
+:10-4-1-c-i-sample-2_en: He was *whose loss* it was.
 
-:10-4-1-c-i-sample-2_ga: TODO
-:10-4-1-c-i-sample-2_en: TODO
+:10-4-1-c-ii-p_ga: Ní shéimhítear an briathar _abair_ in aon chás:
+:10-4-1-c-ii-p_en: The verb _abair_ is not lenited in any case:
 
-:10-4-1-c-ii-p_ga: TODO
-:10-4-1-c-ii-p_en: TODO
+:10-4-1-c-ii-sample-1_ga: *Dúirt* siad go mbeidís ann.
+:10-4-1-c-ii-sample-1_en: They *said* they would be there.
 
-:10-4-1-c-ii-sample-1_ga: TODO
-:10-4-1-c-ii-sample-1_en: TODO
+:10-4-1-c-ii-sample-2_ga: Cad *a déarfaidh* tú léi?
+:10-4-1-c-ii-sample-2_en: What *will you say* to her?
 
-:10-4-1-c-ii-sample-2_ga: TODO
-:10-4-1-c-ii-sample-2_en: TODO
+:10-4-1-c-ii-sample-3_ga: Má *deir* sí nach bhfuil suim aici ann, ná bí buartha faoi.
+:10-4-1-c-ii-sample-3_en: If she *says* she is not interested, don't worry about it.
 
-:10-4-1-c-ii-sample-3_ga: TODO
-:10-4-1-c-ii-sample-3_en: TODO
+:10-4-2-title_ga: Séimhiú ar an mBriathar Spleách
+:10-4-2-title_en: Lenition of the Dependent Verb
 
-:10-4-2-title_ga: TODO
-:10-4-2-title_en: TODO
+:10-4-2-p1_ga: Séimhítear an briathar spleách i ndiaidh na gcónasc agus na míreanna briathartha _ar_, _cár_, _dár_, _gur_, _murar_, _nár_, _ní_, _níor_, _sular_:
+:10-4-2-p1_en: The dependent verb is lenited after the conjunctions and verbal particles _ar_, _cár_, _dár_, _gur_, _murar_, _nár_, _ní_, _níor_, _sular_:
 
-:10-4-2-p1_ga: TODO
-:10-4-2-p1_en: TODO
+:10-4-2-sample-1_ga: *Ar chuir* sé i bhfolach é?
+:10-4-2-sample-1_en: *Did* he *put* it in hiding?
 
-:10-4-2-sample-1_ga: TODO
-:10-4-2-sample-1_en: TODO
+:10-4-2-sample-2_ga: *Cár ghoirtigh* sé é féin?
+:10-4-2-sample-2_en: *Where* did he *hurt* himself?
 
-:10-4-2-sample-2_ga: TODO
-:10-4-2-sample-2_en: TODO
+:10-4-2-sample-3_ga: Gach duine *dár chuir* tú in aithne dom.
+:10-4-2-sample-3_en: Everyone *that* you *introduced* to me.
 
-:10-4-2-sample-3_ga: TODO
-:10-4-2-sample-3_en: TODO
+:10-4-2-sample-4_ga: Sílim *gur thuig* sé mé.
+:10-4-2-sample-4_en: I think *that* he *understood* me.
 
-:10-4-2-sample-4_ga: TODO
-:10-4-2-sample-4_en: TODO
+:10-4-2-sample-5_ga: *Murar mharaigh* sé é chuaigh sé gairid dó.
+:10-4-2-sample-5_en: *If* he *had not killed* him, he would have been short of him.
 
-:10-4-2-sample-5_ga: TODO
-:10-4-2-sample-5_en: TODO
+:10-4-2-sample-6_ga: *Nár phós* sé riamh?
+:10-4-2-sample-6_en: *Did* he *never marry*?
 
-:10-4-2-sample-6_ga: TODO
-:10-4-2-sample-6_en: TODO
+:10-4-2-sample-7_ga: *Ní fhaca* sé mé.
+:10-4-2-sample-7_en: *Did not* he *see* me?
 
-:10-4-2-sample-7_ga: TODO
-:10-4-2-sample-7_en: TODO
+:10-4-2-sample-8_ga: *Níor fhéad* mé é a dhéanamh.
+:10-4-2-sample-8_en: *Could not* I *do* it.
 
-:10-4-2-sample-8_ga: TODO
-:10-4-2-sample-8_en: TODO
+:10-4-2-sample-9_ga: Bhí mise anseo *sular tháinig* Seán.
+:10-4-2-sample-9_en: I was here *before* Seán *came*.
 
-:10-4-2-sample-9_ga: TODO
-:10-4-2-sample-9_en: TODO
+:10-4-2-p2_ga: Ach, tabhair faoi deara:
+:10-4-2-p2_en: But, note:
 
-:10-4-2-p2_ga: TODO
-:10-4-2-p2_en: TODO
+:10-4-2-a-p_ga: go n-uraítear an briathar _faigh_ sa leagan spleách san aimsir chaite, san aimsir fháistineach agus sa mhodh coinníollach i ndiaidh na míre briathartha _ní_, e.g., _Ní bhfuair tú ansin iad_; _Ní bhfaighinn aon chabhair uathu_ (féach 10.8.2(b)).
+:10-4-2-a-p_en: that the verb _faigh_ is eclipsed in the dependent form in the past tense, future tense and conditional mood after the verbal particle _ní_, e.g., _Ní bhfuair tú ansin iad_; _Ní bhfaighinn aon chabhair uathu_ (see 10.8.2(b)).
 
-:10-4-2-a-p_ga: TODO
-:10-4-2-a-p_en: TODO
+:10-4-2-b-p_ga: nach séimhítear an briathar _abair_ in aon chás, e.g., _Ní déarfadh aon duine gur theip ort_.
+:10-4-2-b-p_en: that the verb _abair_ is not lenited in any case, e.g., _Ní déarfadh aon duine gur theip ort_.
 
-:10-4-2-b-p_ga: TODO
-:10-4-2-b-p_en: TODO
+:10-5-title_ga: Séimhiú ar an bhForainmneach
+:10-5-title_en: Lenition on the Pronominal
 
-:10-5-title_ga: TODO
-:10-5-title_en: TODO
+:10-5-1-title_ga: I nDiaidh an Réamhfhocail _ó_
+:10-5-1-title_en: After the Preposition _ó_
 
-:10-5-p_ga: TODO
-:10-5-p_en: TODO
+:10-5-1-p_ga: Cuirtear séimhiú ar an bhforainmneach taispeántach _sin_ i ndiaidh an réamhfhocail _ó_ sa fhrása _ó shin_ (_i leith_).
+:10-5-1-p_en: The demonstrative pronominal _sin_ is lenited after the preposition _ó_ in the phrase _ó shin_ (_i leith_).
 
-:10-5-1-title_ga: TODO
-:10-5-1-title_en: TODO
+:10-5-1-sample-1_ga: Bhisigh an aimsir *ó shin*.
+:10-5-1-sample-1_en: The weather changed *since then*.
 
-:10-5-1-p_ga: TODO
-:10-5-1-p_en: TODO
+:10-5-1-sample-2_ga: Tharla sé tamall maith *ó shin*.
+:10-5-1-sample-2_en: It happened quite a while *since then*.
 
-:10-5-1-sample-1_ga: TODO
-:10-5-1-sample-1_en: TODO
+:10-5-2-title_ga: I nDiaidh Réamhfhocal
+:10-5-2-title_en: After a Preposition
 
-:10-5-1-sample-2_ga: TODO
-:10-5-1-sample-2_en: TODO
+:10-5-2-p_ga: Ní shéimhítear na forainmnigh cheisteacha _cá_, _cad_, _cé_, etc.:
+:10-5-2-p_en: The interrogative pronominals _cá_, _cad_, _cé_, etc., are not lenited:
 
-:10-5-2-title_ga: TODO
-:10-5-2-title_en: TODO
+:10-5-2-sample-1_ga: Thug sé tuairisc ar *cé* a bhí i láthair.
+:10-5-2-sample-1_en: He gave a report on *who* was present.
 
-:10-5-2-p_ga: TODO
-:10-5-2-p_en: TODO
+:10-5-2-sample-2_ga: Níor thrácht sé ar *cad* a bhí le déanamh.
+:10-5-2-sample-2_en: He did not mention *what* was to be done.
 
-:10-5-2-sample-1_ga: TODO
-:10-5-2-sample-1_en: TODO
+:10-6_5-title_ga: An tUrú
+:10-6_5-title_en: The Eclipsis
 
-:10-5-2-sample-2_ga: TODO
-:10-5-2-sample-2_en: TODO
+:10-6_5-p_ga: Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_. Cuirtear _n-_ roimh ghuta san áit a ndéanfaí urú a chur ar chonsan, ach amháin sa tuiseal tabharthach ar lorg an ailt nó an ailt i gcumasc le réamhfhocal, e.g., _ar an uisce_, _faoin ábhar_; agus i gcás _i_ (féach 10.6.4). Cuirtear fleiscín idir an t-urú _n_ agus guta, e.g., _líon na n-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _meon na nAlbanach_.
+:10-6_5-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article combined with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see 10.6.4). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
 
-:10-6_5-title_ga: TODO
-:10-6_5-title_en: TODO
+:10-6-title_ga: Urú ar an Ainmfhocal
+:10-6-title_en: Eclipsis on the Noun
 
-:10-6_5-p_ga: TODO
-:10-6_5-p_en: TODO
+:10-6-p_ga: Cuirtear urú ar an ainmfhocal sna cásanna seo a leanas.
+:10-6-p_en: Eclipsis is applied to the noun in the following cases.
 
-:10-6-title_ga: TODO
-:10-6-title_en: TODO
+:10-6-1-title_ga: I nDiaidh an Ailt
+:10-6-1-title_en: After the Article
 
-:10-6-p_ga: TODO
-:10-6-p_en: TODO
+:10-6-1-p_ga: Cuirtear urú ar an ainmfhocal i ndiaidh an ailt --
+:10-6-1-p_en: Eclipsis is applied to the noun after the article --
 
-:10-6-1-title_ga: TODO
-:10-6-1-title_en: TODO
+:10-6-1-a-p1_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna nuair a ghabhann réamhfhocal leis an alt, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (féach 1.4):
+:10-6-1-a-p1_en: in the vocative singular, masculine and feminine, in certain cases when a preposition accompanies the article, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (see 1.4):
 
-:10-6-1-p_ga: TODO
-:10-6-1-p_en: TODO
+:10-6-1-a-sample-1_ga: Fuair sé teachtaireacht bhuíochais *ón mbrídeach*.
+:10-6-1-a-sample-1_en: He received a thank-you message *from the bride*.
 
-:10-6-1-a-p1_ga: TODO
-:10-6-1-a-p1_en: TODO
+:10-6-1-a-sample-2_ga: Chuir siad fáilte *roimh an gcuairteoir*.
+:10-6-1-a-sample-2_en: They welcomed *the visitor*.
 
-:10-6-1-a-sample-1_ga: TODO
-:10-6-1-a-sample-1_en: TODO
+:10-6-1-a-p2_ga: Tabhair faoi deara go mbíonn urú ann i gcónaí sna frásaí _mar an gcéanna_ agus _um an dtaca_.
+:10-6-1-a-p2_en: Note that there is always eclipsis in the phrases _mar an gcéanna_ and _um an dtaca_.
 
-:10-6-1-a-sample-2_ga: TODO
-:10-6-1-a-sample-2_en: TODO
+:10-6-1-b-p_ga: sa tuiseal ginideach iolra, firinscneach agus baininscneach, e.g., _seolta na mbád beag_; _scoil na gcailíní óga_:
+:10-6-1-b-p_en: in the genitive plural, masculine and feminine, e.g., _seolta na mbád beag_; _scoil na gcailíní óga_:
 
-:10-6-1-a-p2_ga: TODO
-:10-6-1-a-p2_en: TODO
+:10-6-1-b-sample-1_ga: Bhí *ceol na n-éan* le cloisteáil ar fud na coille.
+:10-6-1-b-sample-1_en: The *music of the birds* was to be heard throughout the forest.
 
-:10-6-1-b-p_ga: TODO
-:10-6-1-b-p_en: TODO
+:10-6-1-b-sample-2_ga: Tá siad *ag maisiú na dtithe* roimh theacht an tsamhraidh.
+:10-6-1-b-sample-2_en: They are *decorating the houses* before the arrival of summer.
 
-:10-6-1-b-sample-1_ga: TODO
-:10-6-1-b-sample-1_en: TODO
+:10-6-2-title_ga: I nDiaidh na nAidiachtaí Sealbhacha san Iolra
+:10-6-2-title_en: After the Possessive Adjectives in the Plural
 
-:10-6-1-b-sample-2_ga: TODO
-:10-6-1-b-sample-2_en: TODO
+:10-6-2-p1_ga: Cuirtear urú ar an ainmfhocal i ndiaidh na n-aidiachtaí sealbhacha san iolra, e.g., _ár n-athair_; _bhur bpáistí_; _a ngluaisteáin_:
+:10-6-2-p1_en: Eclipsis is applied to the noun after the possessive adjectives in the plural, e.g., _ár n-athair_; _bhur bpáistí_; _a ngluaisteáin_:
 
-:10-6-2-title_ga: TODO
-:10-6-2-title_en: TODO
+:10-6-2-sample-1_ga: Bhuail mé le *bhur gcairde* ag an mbainis.
+:10-6-2-sample-1_en: I met *your friends* at the wedding.
 
-:10-6-2-p1_ga: TODO
-:10-6-2-p1_en: TODO
+:10-6-2-sample-2_ga: Deirtear gurb iad *a gcácaí* siúd na cácaí is deise dá bhfuil ann.
+:10-6-2-sample-2_en: It is said that *their cakes* are the best there are.
 
-:10-6-2-sample-1_ga: TODO
-:10-6-2-sample-1_en: TODO
+:10-6-2-p2_ga: Tabhair faoi deara go ndéantar urú i ndiaidh _dhá_ má tá aidiacht shealbhach san uimhir iolra roimhe, e.g., _ár dhá gcapall_; _ár dhá gcúigiú cuid_; _bhur dhá dteach_; _a dhá mbó_ (féach 8.3.3).
+:10-6-2-p2_en: Note that eclipsis is used after _dhá_ if there is a possessive adjective in the plural before it, e.g., _ár dhá gcapall_; _ár dhá gcúigiú cuid_; _bhur dhá dteach_; _a dhá mbó_ (see 8.3.3).
 
-:10-6-2-sample-2_ga: TODO
-:10-6-2-sample-2_en: TODO
+:10-6-3-title_ga: I nDiaidh Uimhreacha Áirithe
+:10-6-3-title_en: After Certain Numbers
 
-:10-6-2-p2_ga: TODO
-:10-6-2-p2_en: TODO
+:10-6-3-p1_ga: Cuirtear urú ar an ainmfhocal i ndiaidh na mbunuimhreacha _seacht_ go _deich_, e.g., _seacht ndícheall_; _ocht gcinn_; _naoi mbliana_; _deich n-eachtra_ (féach 9.3.1(i)):
+:10-6-3-p1_en: Eclipsis is applied to the noun after the cardinal numbers _seacht_ to _deich_, e.g., _seacht ndícheall_; _ocht gcinn_; _naoi mbliana_; _deich n-eachtra_ (see 9.3.1(i)):
 
-:10-6-3-title_ga: TODO
-:10-6-3-title_en: TODO
+:10-6-3-sample-1_ga: Cuirfear tús le *seacht gclár* faisnéise nua Dé Luain seo chugainn.
+:10-6-3-sample-1_en: A new *seven-part* documentary series will begin next Monday.
 
-:10-6-3-p1_ga: TODO
-:10-6-3-p1_en: TODO
+:10-6-3-sample-2_ga: Chonaic sé *naoi n-éan* sa spéir.
+:10-6-3-sample-2_en: He saw *nine birds* in the sky.
 
-:10-6-3-sample-1_ga: TODO
-:10-6-3-sample-1_en: TODO
+:10-6-3-p2_ga: Ní dhéantar athrú tosaigh ar na hainmfhocail _euro_ agus _cent_, e.g., _seacht euro_; _naoi euro_; _deich cent_.
+:10-6-3-p2_en: No initial mutation is made to the nouns _euro_ and _cent_, e.g., _seacht euro_; _naoi euro_; _deich cent_.
 
-:10-6-3-sample-2_ga: TODO
-:10-6-3-sample-2_en: TODO
+:10-6-3-p3_ga: Tabhair faoi deara:
+:10-6-3-p3_en: Note:
 
-:10-6-3-p2_ga: TODO
-:10-6-3-p2_en: TODO
+:10-6-3-a-p_ga: gurb é an t-athrú tosaigh a ghabhann leis an uimhir dheiridh i sraith a bhíonn le cur ar an bhfocal nó ar na focail eile atá faoina réir, e.g., _sé nó seacht mbád_;
+:10-6-3-a-p_en: that the initial mutation that accompanies the final number in a series is applied to the word or words that follow it, e.g., _sé nó seacht mbád_;
 
-:10-6-3-p3_ga: TODO
-:10-6-3-p3_en: TODO
+:10-6-3-b-p_ga: má úsáidtear an Córas Simplithe os cionn fiche (féach 9.3.10-9.3.12), nach gcuirtear urú ar an ainmfhocal, e.g., _fiche a seacht capall_; _49 fuinneog_.
+:10-6-3-b-p_en: if the Simplified System is used above twenty (see 9.3.10-9.3.12), no eclipsis is applied to the noun, e.g., _fiche a seacht capall_; _49 fuinneog_.
 
-:10-6-3-a-p_ga: TODO
-:10-6-3-a-p_en: TODO
+:10-6-4-title_ga: I nDiaidh Réamhfhocail Shimplí Áirithe
+:10-6-4-title_en: After Certain Simple Prepositions
 
-:10-6-3-b-p_ga: TODO
-:10-6-3-b-p_en: TODO
+:10-6-4-p1_ga: Cuirtear urú ar an ainmfhocal i ndiaidh na réamhfhocal simplí seo a leanas --
+:10-6-4-p1_en: Eclipsis is applied to the noun after the following simple prepositions --
 
-:10-6-4-title_ga: TODO
-:10-6-4-title_en: TODO
+:10-6-4-a-p1_ga: _i_, e.g., _i mbaile_; _i bpáirc_; _i mBaile an Fheirtéaraigh_:
+:10-6-4-a-p1_en: _i_, e.g., _i mbaile_; _i bpáirc_; _i mBaile an Fheirtéaraigh_:
 
-:10-6-4-p1_ga: TODO
-:10-6-4-p1_en: TODO
+:10-6-4-a-sample-1_ga: Bhí sé *i bpriacal* a anama.
+:10-6-4-a-sample-1_en: He was *in a spiritual crisis*.
 
-:10-6-4-a-p1_ga: TODO
-:10-6-4-a-p1_en: TODO
+:10-6-4-a-sample-2_ga: Is *i mBéal Átha an Ghaorthaidh* a bunaíodh Coláiste na Mumhan.
+:10-6-4-a-sample-2_en: It is *in Béal Átha an Ghaorthaidh* that Munster College was founded.
 
-:10-6-4-a-sample-1_ga: TODO
-:10-6-4-a-sample-1_en: TODO
+:10-6-4-a-p2_ga: Scríobhtar _in_ roimh fhocail a thosaíonn ar ghuta, e.g., _in eaglais_; _in Albain_; _in Áth Dara_; _in Éirinn_; _in aon chás_; agus sna cásanna seo a leanas:
+:10-6-4-a-p2_en: _In_ is written before words beginning with a vowel, e.g., _in eaglais_; _in Albain_; _in Áth Dara_; _in Éirinn_; _in aon chás_; and in the following cases:
 
-:10-6-4-a-sample-2_ga: TODO
-:10-6-4-a-sample-2_en: TODO
+:10-6-4-a-i-p_ga: roimh _bhur_, _dhá_ agus _go leor_, e.g., _an áit a bhfuil sibh in bhur gcónaí_; _in dhá áit_; _in go leor cásanna_:
+:10-6-4-a-i-p_en: before _bhur_, _dhá_ and _go leor_, e.g., _an áit a bhfuil sibh in bhur gcónaí_; _in dhá áit_; _in go leor cásanna_:
 
-:10-6-4-a-p2_ga: TODO
-:10-6-4-a-p2_en: TODO
+:10-6-4-a-i-sample-1_ga: Chuir mé *in bhur* gcistin é.
+:10-6-4-a-i-sample-1_en: I put it *in your* kitchen.
 
-:10-6-4-a-i-p_ga: TODO
-:10-6-4-a-i-p_en: TODO
+:10-6-4-a-i-sample-2_ga: Tá an grúpa ceoil ar an ngearrliosta *in dhá* chomórtas.
+:10-6-4-a-i-sample-2_en: The music group is on the shortlist *in two* competitions.
 
-:10-6-4-a-i-sample-1_ga: TODO
-:10-6-4-a-i-sample-1_en: TODO
+:10-6-4-a-ii-p_ga: roimh theidil leabhar, irisí nó scannán, etc., agus roimh ghiorrúcháin ar theidil eagraíochtaí, comhaontuithe, scéimeanna, etc., e.g., _in_ An tOileánach; _alt in_ Comhar; _in AE_; _in CAE_; _in FSS_ (ach féach 3.2.2B):
+:10-6-4-a-ii-p_en: before book titles, magazines or films, etc., and before abbreviations of titles of organizations, agreements, schemes, etc., e.g., _in_ An tOileánach; _alt in_ Comhar; _in AE_; _in CAE_; _in FSS_ (but see 3.2.2B):
 
-:10-6-4-a-i-sample-2_ga: TODO
-:10-6-4-a-i-sample-2_en: TODO
+:10-6-4-a-ii-sample-1_ga: Léigh mé alt suimiúil *in _Feasta_* an mhí seo caite.
+:10-6-4-a-ii-sample-1_en: I read an interesting article *in _Feasta_* last month.
 
-:10-6-4-a-ii-p_ga: TODO
-:10-6-4-a-ii-p_en: TODO
+:10-6-4-a-ii-sample-2_ga: Cá mhéad stát atá *in SAM*?
+:10-6-4-a-ii-sample-2_en: How many states are there *in the USA*?
 
-:10-6-4-a-ii-sample-1_ga: TODO
-:10-6-4-a-ii-sample-1_en: TODO
+:10-6-4-a-iii-p_ga: roimh logainmneacha iasachta nach bhfuil gaelaithe, e.g., _in Birmingham_; _in Barcelona_; _in Köln_ (ach _i Londain_, _i mBostún_):
+:10-6-4-a-iii-p_en: These are foreign place names that have not been Gaelicized, e.g., _in Birmingham_; _in Barcelona_; _in Köln_ (but _i Londain_, _i mBostún_):
 
-:10-6-4-a-ii-sample-2_ga: TODO
-:10-6-4-a-ii-sample-2_en: TODO
+:10-6-4-a-iii-sample-1_ga: Chaith sí seachtain ag obair *in Mumbai*.
+:10-6-4-a-iii-sample-1_en: She spent a week working *in Mumbai*.
 
-:10-6-4-a-iii-p_ga: TODO
-:10-6-4-a-iii-p_en: TODO
+:10-6-4-a-iii-sample-2_ga: Thuirling an t-eitleán *in San Francisco* ar a sé a chlog ar maidin.
+:10-6-4-a-iii-sample-2_en: The plane landed *in San Francisco* at six o'clock in the morning.
 
-:10-6-4-a-iii-sample-1_ga: TODO
-:10-6-4-a-iii-sample-1_en: TODO
+:10-6-4-a-iv-p_ga: roimh bhlianta nuair a scríobhtar ina bhfigiúirí iad, e.g., _in 1998_; _in 2017_.
+:10-6-4-a-iv-p_en: before years when they are written in figures, e.g., _in 1998_; _in 2017_.
 
-:10-6-4-a-iii-sample-2_ga: TODO
-:10-6-4-a-iii-sample-2_en: TODO
+:10-6-4-b-p_ga: _ar_ i gcorrleagan, e.g., _ar gcúl_; _ar ndóigh_; agus i ndiaidh an réamhfhocail _go_ (nuair nach _go dtí_ is ciall leis), e.g., _go bhfios dom_; _go gcuimhin liom_:
+:10-6-4-b-p_en: _ar_ in idiomatic expressions, e.g., _ar gcúl_; _ar ndóigh_; and after the preposition _go_ (when it does not mean _go dtí_), e.g., _go bhfios dom_; _go gcuimhin liom_:
 
-:10-6-4-a-iv-p_ga: TODO
-:10-6-4-a-iv-p_en: TODO
+:10-6-4-b-sample-1_ga: Níl lámh *ar gcúl* againn.
+:10-6-4-b-sample-1_en: We do not have a hand *behind our back*. (meaning _have a disadvantage_)
 
-:10-6-4-b-p_ga: TODO
-:10-6-4-b-p_en: TODO
+:10-6-4-b-sample-2_ga: Cath *go ndíth* ab ea é, gan aon agó.
+:10-6-4-b-sample-2_en: It was a fight *to the finish*, without any doubt.
 
-:10-6-4-b-sample-1_ga: TODO
-:10-6-4-b-sample-1_en: TODO
+:10-6-5-title_ga: I nDiaidh _cá_
+:10-6-5-title_en: After _cá_
 
-:10-6-4-b-sample-2_ga: TODO
-:10-6-4-b-sample-2_en: TODO
+:10-6-5-p_ga: Cuirtear urú ar an ainmfhocal sa fhrása seanbhunaithe _cá bhfios_.
+:10-6-5-p_en: Eclipsis is applied to the noun in the established phrase _cá bhfios_.
 
-:10-6-5-title_ga: TODO
-:10-6-5-title_en: TODO
+:10-6-5-sample-1_ga: *Cá bhfios* dom?
+:10-6-5-sample-1_en: *How would I know*?
 
-:10-6-5-p_ga: TODO
-:10-6-5-p_en: TODO
+:10-7-title_ga: Urú ar an Aidiacht
+:10-7-title_en: Eclipsis on the Adjective
 
-:10-6-5-sample-1_ga: TODO
-:10-6-5-sample-1_en: TODO
+:10-7-p1_ga: Cuirtear urú ar aidiacht a thagann roimh ainmfhocal ar an tslí chéanna ar a n-uraítear an t-ainmfhocal (féach 10.6). Is é sin le rá, go n-uraítear aidiacht i ndiaidh an ailt sa tabharthach uatha i gcásanna áirithe, e.g., _ar an gceathrú hurlár_; sa tuiseal ginideach iolra, e.g., _i rith na gcúig oíche_; i ndiaidh na n-aidiachtaí sealbhacha san iolra, e.g., _ár gcéad mhac_; agus i ndiaidh an réamhfhocail _i_, e.g., _i ngach leabhar_.
+:10-7-p1_en: Eclipsis is applied to an adjective that precedes a noun in the same way as the noun is eclipsed (see 10.6). That is to say, the adjective is eclipsed after the article in the vocative singular in certain cases, e.g., _ar an gceathrú hurlár_; in the genitive plural, e.g., _i rith na gcúig oíche_; after the possessive adjectives in the plural, e.g., _ár gcéad mhac_; and after the preposition _i_, e.g., _i ngach leabhar_.
 
-:10-7-title_ga: TODO
-:10-7-title_en: TODO
+:10-7-sample-1_ga: Cá bhfuil *bhur dtríú* haiste don tionscadal?
+:10-7-sample-1_en: Where is *your third* essay for the project?
 
-:10-7-p1_ga: TODO
-:10-7-p1_en: TODO
+:10-7-sample-2_ga: Rinne sí scéal mhadra *na n-ocht* gcos as.
+:10-7-sample-2_en: She told a story about a dog *of eight* legs.
 
-:10-7-sample-1_ga: TODO
-:10-7-sample-1_en: TODO
+:10-7-sample-3_ga: Moladh cruinnithe a thionól *i ngach* contae.
+:10-7-sample-3_en: A meeting was proposed to be held *in every* county.
 
-:10-7-sample-2_ga: TODO
-:10-7-sample-2_en: TODO
+:10-7-p2_ga: Tabhair faoi deara nach n-uraítear:
+:10-7-p2_en: Note that no eclipsis is applied to:
 
-:10-7-sample-3_ga: TODO
-:10-7-sample-3_en: TODO
+:10-7-a-p_ga: _cibé_, _pé_, ná an aidiacht shealbhach _do_, e.g., _i cibé foirm_; _i pé páipéar_; _i do mhála_:
+:10-7-a-p_en: _cibé_, _pé_, nor the possessive adjective _do_, e.g., _i cibé foirm_; _i pé páipéar_; _i do mhála_:
 
-:10-7-p2_ga: TODO
-:10-7-p2_en: TODO
+:10-7-a-sample-1_ga: Foilseoidh an Chomhairle an clár *i cibé* formáid is cuí léi.
+:10-7-a-sample-1_en: The Council will publish the programme *in whatever* format it deems appropriate.
 
-:10-7-a-p_ga: TODO
-:10-7-a-p_en: TODO
+:10-7-a-sample-2_ga: Coimeádfar é *i pé* oifig is mian leat.
+:10-7-a-sample-2_en: It will be kept *in whichever* office you want.
 
-:10-7-a-sample-1_ga: TODO
-:10-7-a-sample-1_en: TODO
+:10-7-a-sample-3_ga: Tá dul amú *i do* thuairim ort.
+:10-7-a-sample-3_en: You are mistaken *in your* opinion.
 
-:10-7-a-sample-2_ga: TODO
-:10-7-a-sample-2_en: TODO
+:10-7-b-p_ga: aidiacht ar lorg ainmfhocail, e.g., _cumann na bhfear óg_; _seolta na mbád dubh_.
+:10-7-b-p_en: adjective following a noun, e.g., _cumann na bhfear óg_; _seolta na mbád dubh_.
 
-:10-7-b-p_ga: TODO
-:10-7-b-p_en: TODO
+:10-8-title_ga: Urú ar an mBriathar
+:10-8-title_en: Eclipsis on the Verb
 
-:10-8-title_ga: TODO
-:10-8-title_en: TODO
+:10-8-p_ga: Cuirtear urú ar an mbriathar sna cásanna seo a leanas.
+:10-8-p_en: Eclipsis is applied to the verb in the following cases.
 
-:10-8-p_ga: TODO
-:10-8-p_en: TODO
+:10-8-1-title_ga: San Fhochlásal Coibhneasta
+:10-8-1-title_en: In the Relative Clause
 
-:10-8-1-title_ga: TODO
-:10-8-1-title_en: TODO
+:10-8-1-p_ga: Cuirtear urú ar an mbriathar san fhochlásal coibhneasta i ndiaidh --
+:10-8-1-p_en: Eclipsis is applied to the verb in the relative clause after --
 
-:10-8-1-p_ga: TODO
-:10-8-1-p_en: TODO
+:10-8-1-a-p_ga: _a_, coibhneas indíreach, agus _nach_, e.g., _an bainne nach n-óltar_; _an bhean a dtagann a páistí ar scoil_; _an duine a gcáintear é_; _an duine nach gcáintear é_; _an fear nach gcuirtear cúram air_:
+:10-8-1-a-p_en: _a_, indirect relative, and _nach_, e.g., _an bainne nach n-óltar_; _an bhean a dtagann a páistí ar scoil_; _an duine a gcáintear é_; _an duine nach gcáintear é_; _an fear nach gcuirtear cúram air_:
 
-:10-8-1-a-p_ga: TODO
-:10-8-1-a-p_en: TODO
+:10-8-1-a-sample-1_ga: Is í sin an bhean *nach dtagann* a páistí ar scoil.
+:10-8-1-a-sample-1_en: She is the woman *whose children do not come* to school.
 
-:10-8-1-a-sample-1_ga: TODO
-:10-8-1-a-sample-1_en: TODO
+:10-8-1-a-sample-2_ga: Is é sin an fear *a dtugtar* aire dó san ionad cónaithe.
+:10-8-1-a-sample-2_en: That is the man *who is given* care in the residential center.
 
-:10-8-1-a-sample-2_ga: TODO
-:10-8-1-a-sample-2_en: TODO
+:10-8-1-b-p_ga: réamhfhocal i gcumasc le _a_, coibhneas indíreach (féach 11.6.1(c)), e.g., _an tAcht dá_ (as _do+a_) _dtagraítear_; _an Bille lena_ (as _le+a_) _ndéantar leasú_:
+:10-8-1-b-p_en: a preposition combined with _a_, indirect relative (see 11.6.1(c)), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
 
-:10-8-1-b-p_ga: TODO
-:10-8-1-b-p_en: TODO
+:10-8-1-b-sample-1_ga: Is é sin an chuideachta *óna bhfuair* mé mo théacsleabhair.
+:10-8-1-b-sample-1_en: That is the company *from which* I got my textbooks.
 
-:10-8-1-b-sample-1_ga: TODO
-:10-8-1-b-sample-1_en: TODO
+:10-8-1-b-sample-2_ga: Is é sin an t-ainm *faoina ndíolann* sé earraí ar líne.
+:10-8-1-b-sample-2_en: That is the name *under which* he sells goods online.
 
-:10-8-1-b-sample-2_ga: TODO
-:10-8-1-b-sample-2_en: TODO
+:10-8-1-c-p_ga: _a_ (sa bhrí _an méid a_) agus _dá_ (as _de+a_, _do+a_), e.g., _d'ólfadh sé a bhfeicfeadh sé_; _gach aon duine dá dtagann ann_; _gach áit dá ndéantar tagairt_:
+:10-8-1-c-p_en: _a_ (meaning _the amount that_) and _dá_ (from _de+a_, _do+a_), e.g., _d'ólfadh sé a bhfeicfeadh sé_; _gach aon duine dá dtagann ann_; _gach áit dá ndéantar tagairt_:
 
-:10-8-1-c-p_ga: TODO
-:10-8-1-c-p_en: TODO
+:10-8-1-c-sample-1_ga: Tá *a dteastódh* uait i mbanna ceoil acu.
+:10-8-1-c-sample-1_en: They have *whatever you would need* in a band.
 
-:10-8-1-c-sample-1_ga: TODO
-:10-8-1-c-sample-1_en: TODO
+:10-8-1-c-sample-2_ga: Beidh gach duine *dá dtabharfar* cuireadh ann.
+:10-8-1-c-sample-2_en: Everyone *who is invited* will be there.
 
-:10-8-1-c-sample-2_ga: TODO
-:10-8-1-c-sample-2_en: TODO
+:10-8-2-title_ga: I nDiaidh Cónaisc agus Míreanna Áirithe
+:10-8-2-title_en: After Conjunctions and Certain Particles
 
-:10-8-2-title_ga: TODO
-:10-8-2-title_en: TODO
+:10-8-2-p_ga: Cuirtear urú ar an mbriathar i ndiaidh na gcónasc agus na míreanna briathartha --
+:10-8-2-p_en: Eclipsis is applied to the verb after conjunctions and verbal particles --
 
-:10-8-2-p_ga: TODO
-:10-8-2-p_en: TODO
+:10-8-2-a-p1_ga: _an_, _cá_, _dá_ (coinníollach), _go_, _mura_, _nach_, _sula_:
+:10-8-2-a-p1_en: _an_, _cá_, _dá_ (conditional), _go_, _mura_, _nach_, _sula_:
 
-:10-8-2-a-p1_ga: TODO
-:10-8-2-a-p1_en: TODO
+:10-8-2-a-sample-1_ga: *An mbeidh* cupán tae agat?
+:10-8-2-a-sample-1_en: Do you *have* a cup of tea?
 
-:10-8-2-a-sample-1_ga: TODO
-:10-8-2-a-sample-1_en: TODO
+:10-8-2-a-sample-2_ga: *Cá dtéann* an bóthar seo?
+:10-8-2-a-sample-2_en: *Where does* this road go?
 
-:10-8-2-a-sample-2_ga: TODO
-:10-8-2-a-sample-2_en: TODO
+:10-8-2-a-sample-3_ga: *Dá mbeadh* an t-airgead aige, chaithfeadh sé é.
+:10-8-2-a-sample-3_en: *If he had* the money, he would spend it.
 
-:10-8-2-a-sample-3_ga: TODO
-:10-8-2-a-sample-3_en: TODO
+:10-8-2-a-sample-4_ga: Abair leis *go bhféadfaidh* sé imeacht.
+:10-8-2-a-sample-4_en: Tell him *that he can* leave.
 
-:10-8-2-a-sample-4_ga: TODO
-:10-8-2-a-sample-4_en: TODO
+:10-8-2-a-sample-5_ga: *Mura n-inseoidh* tú an scéal, cuirfidh mé ceist ar dhuine éigin eile!
+:10-8-2-a-sample-5_en: *If you do not tell* the story, I will ask someone else!
 
-:10-8-2-a-sample-5_ga: TODO
-:10-8-2-a-sample-5_en: TODO
+:10-8-2-a-sample-6_ga: *Nach n-ólann* sé bainne?
+:10-8-2-a-sample-6_en: *Does he not drink* milk?
 
-:10-8-2-a-sample-6_ga: TODO
-:10-8-2-a-sample-6_en: TODO
+:10-8-2-a-sample-7_ga: Ní mór é a chríochnú *sula dtiocfaidh* sé.
+:10-8-2-a-sample-7_en: It must be finished *before he comes*.
 
-:10-8-2-a-sample-7_ga: TODO
-:10-8-2-a-sample-7_en: TODO
+:10-8-2-a-p2_ga: *Ach* ní chuirtear _n-_ roimh ghuta i ndiaidh na míre _an_, e.g., _An ólann tú tae?_; _An itheann tú feoil?_; _An athróidh tú é?_:
+:10-8-2-a-p2_en: *But* the _n-_ is not placed before a vowel after the particle _an_, e.g., _An ólann tú tae?_; _An itheann tú feoil?_; _An athróidh tú é?_:
 
-:10-8-2-a-p2_ga: TODO
-:10-8-2-a-p2_en: TODO
+:10-8-2-a-sample-8_ga: *An éisteann* sé le ceol agus é ag staidéar?
+:10-8-2-a-sample-8_en: *Does he listen* to music while studying?
 
-:10-8-2-a-sample-8_ga: TODO
-:10-8-2-a-sample-8_en: TODO
+:10-8-2-a-sample-9_ga: *An osclóidh* tú an oifig maidin amárach?
+:10-8-2-a-sample-9_en: *Will you open* the office tomorrow morning?
 
-:10-8-2-a-sample-9_ga: TODO
-:10-8-2-a-sample-9_en: TODO
+:10-8-2-b-p_ga: _ní_, i gcás an leagain spleách den bhriathar _faigh_ san aimsir chaite, san aimsir fháistineach agus sa mhodh coinníollach, e.g., _ní bhfuair mé_ (_tú_, etc.), _ní bhfaighidh mé_ (_tú_, etc.), _ní bhfaighinn_ (_bhfaighfeá_, etc.):
+:10-8-2-b-p_en: _ní_, in the dependent form of the verb _faigh_ in the past tense, future tense and conditional mood, e.g., _ní bhfuair mé_ (_tú_, etc.), _ní bhfaighidh mé_ (_tú_, etc.), _ní bhfaighinn_ (_bhfaighfeá_, etc.):
 
-:10-8-2-b-p_ga: TODO
-:10-8-2-b-p_en: TODO
+:10-8-2-b-sample-1_ga: *Ní bhfuair* mé aon chaife ar maidin.
+:10-8-2-b-sample-1_en: I *did not get* any coffee this morning.
 
-:10-8-2-b-sample-1_ga: TODO
-:10-8-2-b-sample-1_en: TODO
+:10-8-2-b-sample-2_ga: Mura n-iarrfaidh tú é *ní bhfaighidh* tú é.
+:10-8-2-b-sample-2_en: If you do not ask for it, you *will not get* it.
 
-:10-8-2-b-sample-2_ga: TODO
-:10-8-2-b-sample-2_en: TODO
+:10-8-2-b-sample-3_ga: *Ní bhfaighfeá* san ollmhargadh sin é.
+:10-8-2-b-sample-3_en: You *would not get* it in that supermarket.
 
-:10-8-2-b-sample-3_ga: TODO
-:10-8-2-b-sample-3_en: TODO
+:10-8_5-title_ga: _t_ roimh Ghuta nó roimh _s_
+:10-8_5-title_en: _t_ before a Vowel or before _s_
 
-:10-8_5-title_ga: TODO
-:10-8_5-title_en: TODO
+:10-8_5-p_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, e.g., _an t-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _an tAlbanach_. Ní chuirtear fleiscín riamh idir an réamhlitir _t_ agus _s_, e.g., _an tsatailít_; _an tSeapáin_.
+:10-8_5-p_en: A hyphen is placed between the initial letter _t_ and a vowel, e.g., _an t-ospidéal_; except when the vowel is a proper noun initial, e.g., _an tAlbanach_. A hyphen is never placed between the initial letter _t_ and _s_, e.g., an tsatailít; an tSeapáin.
 
-:10-8_5-p_ga: TODO
-:10-8_5-p_en: TODO
+:10-9-title_ga: _t_ roimh Ghuta i nDiaidh an Ailt
+:10-9-title_en: _t_ before a Vowel after the Article
 
-:10-9-title_ga: TODO
-:10-9-title_en: TODO
+:10-9-1-p_ga: Cuirtear _t-_ roimh ghuta i ndiaidh an ailt --
+:10-9-1-p_en: _t-_ is placed before a vowel after the article --
 
-:10-9-1-title_ga: TODO
-:10-9-1-title_en: TODO
+:10-9-1-a-p1_ga: san ainmneach uatha, roimh ainmfhocal firinscneach más guta atá ina thús, e.g., _an t-asal_; _an t-eitleán_:
+:10-9-1-a-p1_en: in the nominative singular, before a masculine noun if it begins with a vowel, e.g., _an t-asal_; _an t-eitleán_:
 
-:10-9-1-p_ga: TODO
-:10-9-1-p_en: TODO
+:10-9-1-a-sample-1_ga: Cá bhfuair tú *an t-airgead*?
+:10-9-1-a-sample-1_en: Where did you get *the money*?
 
-:10-9-1-a-p1_ga: TODO
-:10-9-1-a-p1_en: TODO
+:10-9-1-a-sample-2_ga: Bhí eagla orthu go ndéanfaí *an t-éiceachóras* a scriosadh.
+:10-9-1-a-sample-2_en: They were afraid that *the ecosystem* would be destroyed.
 
-:10-9-1-a-sample-1_ga: TODO
-:10-9-1-a-sample-1_en: TODO
+:10-9-1-a-p2_ga: Tabhair faoi deara nach gcuirtear _t-_ roimh _euro_, _iomad_ ná _oiread_, e.g., _an euro_, _an iomad_, _an oiread_.
+:10-9-1-a-p2_en: Note that _t-_ is not placed before _euro_, _iomad_, or _oiread_, e.g., _an euro_, _an iomad_, _an oiread_.
 
-:10-9-1-a-sample-2_ga: TODO
-:10-9-1-a-sample-2_en: TODO
+:10-9-1-b-p_ga: san ainmneach uatha, roimh _aon_, _aonú_, _ochtó_, _ochtódú_, _ochtú_, e.g., _an t-aon bhean déag_; _an t-aonú háit déag_; _an t-ochtó bliain_; _an t-ochtódú huair_:
+:10-9-1-b-p_en: in the nominative singular, before _aon_, _aonú_, _ochtó_, _ochtódú_, _ochtú_, e.g., _an t-aon bhean déag_; _an t-aonú háit déag_; _an t-ochtó bliain_; _an t-ochtódú huair_:
 
-:10-9-1-a-p2_ga: TODO
-:10-9-1-a-p2_en: TODO
+:10-9-1-b-sample-1_ga: Is tusa *an t-aon* duine ar labhair mé leis faoin scéal.
+:10-9-1-b-sample-1_en: You are *the only* person I spoke to about the matter.
 
-:10-9-1-b-p_ga: TODO
-:10-9-1-b-p_en: TODO
+:10-9-1-b-sample-2_ga: B'in é *an t-ochtú* cluiche aici i mbliana.
+:10-9-1-b-sample-2_en: It was *the eighth* game she had this year.
 
-:10-9-1-b-sample-1_ga: TODO
-:10-9-1-b-sample-1_en: TODO
+:10-10-title_ga: _t_ roimh _s_ i nDiaidh an Ailt
+:10-10-title_en: _t_ before _s_ after the Article
 
-:10-9-1-b-sample-2_ga: TODO
-:10-9-1-b-sample-2_en: TODO
+:10-10-1-p_ga: Cuirtear _t_ roimh _s_ i ndiaidh an ailt más guta nó _l_, _n_ nó _r_ atá ar a lorg i gcásanna áirithe i ndiaidh an ailt de réir Chaibidil 1, e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
+:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial sound in certain cases after the article according to Chapter 1, e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
 
-:10-10-title_ga: TODO
-:10-10-title_en: TODO
+:10-10-1-sample-1_ga: Ná bain *an tsrón* díom!
+:10-10-1-sample-1_en: Don't *take the nose from me*!
 
-:10-10-1-title_ga: TODO
-:10-10-1-title_en: TODO
+:10-10-1-sample-2_ga: An bhfaca tú eireaball *an tsionnaigh*?
+:10-10-1-sample-2_en: Did you see the tail *of the squirrel*?
 
-:10-10-1-p_ga: TODO
-:10-10-1-p_en: TODO
+:10-10-2-p_ga: Ní chuirtear _t_ roimh _s_ --
+:10-10-2-p_en: _t_ is not placed before _s_ --
 
-:10-10-1-sample-1_ga: TODO
-:10-10-1-sample-1_en: TODO
+:10-10-2-a-p_ga: in uimhreacha, e.g., _deireadh an seachtú lá_; _agallamh an seascadú duine_, ach amháin uimhreacha pearsanta sa ghinideach, e.g., _ainmneacha an tseisir_; _torthaí an tseisear scoláirí_:
+:10-10-2-a-p_en: in numbers, e.g., _deireadh an seachtú lá_; _agallamh an seascadú duine_, except in personal numbers in the genitive, e.g., _ainmneacha an tseisir_; _torthaí an tseisear scoláirí_:
 
-:10-10-1-sample-2_ga: TODO
-:10-10-1-sample-2_en: TODO
+:10-10-2-a-sample-1_ga: Cad a fuair tú i dteannta *an seasca* euro?
+:10-10-2-a-sample-1_en: What did you get along with *the sixty* euros?
 
-:10-10-2-title_ga: TODO
-:10-10-2-title_en: TODO
+:10-10-2-a-sample-2_ga: Labhair sé faoi ghéarchéim *an séú* haois déag.
+:10-10-2-a-sample-2_en: He spoke about the crisis of **the six**teenth century.
 
-:10-10-2-p_ga: TODO
-:10-10-2-p_en: TODO
+:10-10-2-b-p_ga: i ndiaidh _aon_ agus na horduimhreach _céad_, e.g., _aon salann_; _aon seanmóir_; _an chéad sagart_:
+:10-10-2-b-p_en: after _aon_ and the ordinal _céad_, e.g., _aon salann_; _aon seanmóir_; _an chéad sagart_:
 
-:10-10-2-a-p_ga: TODO
-:10-10-2-a-p_en: TODO
+:10-10-2-b-sample-1_ga: An bhfuil *aon saill* sa bhia sin?
+:10-10-2-b-sample-1_en: Is there *any fat* in that food?
 
-:10-10-2-a-sample-1_ga: TODO
-:10-10-2-a-sample-1_en: TODO
+:10-10-2-b-sample-2_ga: Is í seo an *chéad saoire* a bheidh againn le chéile.
+:10-10-2-b-sample-2_en: This is the *first holiday* we will have together.
 
-:10-10-2-a-sample-2_ga: TODO
-:10-10-2-a-sample-2_en: TODO
+:10-10_5-title_ga: _h_ roimh Ghuta
+:10-10_5-title_en: _h_ before a Vowel
 
-:10-10-2-b-p_ga: TODO
-:10-10-2-b-p_en: TODO
+:10-10_5-p_ga: Ní chuirtear fleiscín idir an réamhlitir _h_ agus guta, e.g., _le háthas_; _go hÉirinn_; _na húlla_. Cuirtear _h_ roimh ghuta sna cásanna seo a leanas.
+:10-10_5-p_en: A hyphen is not placed between the initial letter _h_ and a vowel, e.g., _le háthas_; _go hÉirinn_; _na húlla_. _h_ is placed before a vowel in the following cases.
 
-:10-10-2-b-sample-1_ga: TODO
-:10-10-2-b-sample-1_en: TODO
+:10-11-title_ga: _h_ Roimh Ghuta -- An tAinmfhocal
+:10-11-title_en: _h_ Before a Vowel -- The Noun
 
-:10-10-2-b-sample-2_ga: TODO
-:10-10-2-b-sample-2_en: TODO
+:10-11-1-title_ga: I nDiaidh an Ailt _na_
+:10-11-1-title_en: After the Article _na_
 
-:10-10_5-title_ga: TODO
-:10-10_5-title_en: TODO
+:10-11-1-p_ga: Cuirtear _h_ roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh an ailt _na_ --
+:10-11-1-p_en: _h_ is placed before a noun beginning with a vowel after the article _na_ --
 
-:10-10_5-p_ga: TODO
-:10-10_5-p_en: TODO
+:10-11-1-a-p_ga: sa ghinideach uatha baininscneach, e.g., _ainm na háite_; _lár na heitilte_:
+:10-11-1-a-p_en: in the genitive singular feminine, e.g., _ainm na háite_; _lár na heitilte_:
 
-:10-11-title_ga: TODO
-:10-11-title_en: TODO
+:10-11-1-a-sample-1_ga: Foilsíodh leabhar nua faoi stair *na hUachtaránachta*.
+:10-11-1-a-sample-1_en: A new book about the history of *the Presidency* was published.
 
-:10-11-1-title_ga: TODO
-:10-11-1-title_en: TODO
+:10-11-1-a-sample-2_ga: Bhí glacadh forleathan leis an tuairim sin faoi dheireadh *na haoise* seo caite.
+:10-11-1-a-sample-2_en: There was widespread acceptance of that opinion about the end of *this age* last past.
 
-:10-11-1-p_ga: TODO
-:10-11-1-p_en: TODO
+:10-11-1-b-p_ga: san ainmneach iolra agus sa tabharthach iolra, e.g., _na hainmneacha_; _sna hionaid sin_:
+:10-11-1-b-p_en: in the nominative plural and the dative plural, e.g., _na hainmneacha_; _sna hionaid sin_:
 
-:10-11-1-a-p_ga: TODO
-:10-11-1-a-p_en: TODO
+:10-11-1-b-sample-1_ga: Tá *na huimhreacha* go léir ar eolas aige.
+:10-11-1-b-sample-1_en: He knows all *the numbers*.
 
-:10-11-1-a-sample-1_ga: TODO
-:10-11-1-a-sample-1_en: TODO
+:10-11-1-b-sample-2_ga: Cliceáil faoi dhó ar *na híomhánna* chun iad a mhéadú.
+:10-11-1-b-sample-2_en: Double-click on *the images* to enlarge them.
 
-:10-11-1-a-sample-2_ga: TODO
-:10-11-1-a-sample-2_en: TODO
+:10-11-2-title_ga: I nDiaidh Uimhreacha Áirithe
+:10-11-2-title_en: After Certain Numbers
 
-:10-11-1-b-p_ga: TODO
-:10-11-1-b-p_en: TODO
+:10-11-2-a-p_ga: Cuirtear _h_ roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh na n-orduimhreacha, e.g., _an dara_ (_tríú_, etc.) _heochair_; ach amháin _céad_, e.g., _sa chéad áit_; _an chéad obráid_.
+:10-11-2-a-p_en: _h_ is placed before a noun beginning with a vowel after the ordinal numbers, e.g., _an dara_ (_tríú_, etc.) _heochair_; except _céad_, e.g., _sa chéad áit_; _an chéad obráid_.
 
-:10-11-1-b-sample-1_ga: TODO
-:10-11-1-b-sample-1_en: TODO
+:10-11-2-a-sample-1_ga: Déanaigí *an ceathrú halt* a léamh roimh rang an lae amárach.
+:10-11-2-a-sample-1_en: Please read *the fourth article* before class tomorrow.
 
-:10-11-1-b-sample-2_ga: TODO
-:10-11-1-b-sample-2_en: TODO
+:10-11-2-a-sample-2_ga: Tá *an t-ochtú heagrán* den iris ar fáil anois.
+:10-11-2-a-sample-2_en: *The eighth edition* of the magazine is now available.
 
-:10-11-2-title_ga: TODO
-:10-11-2-title_en: TODO
+:10-11-2-b-p1_ga: Cuirtear _h_ roimh uaire i ndiaidh _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí_ (_ceithre_, _cúig_, _sé_) _huaire_ (féach 9.3.2(c)).
+:10-11-2-b-p1_en: _h_ is placed before hour after _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí_ (_ceithre_, _cúig_, _sé_) _huaire_ (see 9.3.2(c)):
 
-:10-11-2-p_ga: TODO
-:10-11-2-p_en: TODO
+:10-11-2-b-sample-1_ga: Theip uirthi *trí huaire* as a chéile.
+:10-11-2-b-sample-1_en: She failed *three times* in a row.
 
-:10-11-2-a-p_ga: TODO
-:10-11-2-a-p_en: TODO
+:10-11-2-b-sample-2_ga: Tá sé déanta aige *sé huaire* anois.
+:10-11-2-b-sample-2_en: He has done it *six times* now.
 
-:10-11-2-a-sample-1_ga: TODO
-:10-11-2-a-sample-1_en: TODO
+:10-11-2-b-p2_ga: Tabhair faoi deara nach n-úsáidtear an leagan iolra ar leith den ainmfhocal _uair_ nuair is aonad 60 nóiméad atá i gceist, e.g., _Thóg sé trí uair an chloig orm an obair a chríochnú_.
+:10-11-2-b-p2_en: Note that the specific plural form of the noun _uair_ is not used when referring to a unit of 60 minutes, e.g., _Thóg sé trí uair an chloig orm an obair a chríochnú_.
 
-:10-11-2-a-sample-2_ga: TODO
-:10-11-2-a-sample-2_en: TODO
+:10-11-3-title_ga: I nDiaidh na Réamhfhocal l_e agus _go_
+:10-11-3-title_en: After the Prepositions _le_ and _go_
 
-:10-11-2-b-p1_ga: TODO
-:10-11-2-b-p1_en: TODO
+:10-11-3-p_ga: Cuirtear h roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh na réamhfhocal le agus go (sa bhrí _go dtí_), e.g., _ó mhaidin go hoíche_; _le hintinn mhaith_; _le hÁine_; _go hAlasca_.
+:10-11-3-p_en: _h_ is placed before a noun beginning with a vowel after the prepositions _le_ and _go_ (meaning _go dtí_), e.g., _ó mhaidin go hoíche_; _le hintinn mhaith_; _le hÁine_; _go hAlasca_.
 
-:10-11-2-b-sample-1_ga: TODO
-:10-11-2-b-sample-1_en: TODO
+:10-11-3-sample-1_ga: Is ar an mbád a chuaigh sí *go hÁrainn*.
+:10-11-3-sample-1_en: It was on the boat that she went *to Aran*.
 
-:10-11-2-b-sample-2_ga: TODO
-:10-11-2-b-sample-2_en: TODO
+:10-11-3-sample-2_ga: Chuaigh siad ar stailc i bpáirt *le hoibrithe* eile.
+:10-11-3-sample-2_en: They went on strike in part *with other workers*.
 
-:10-11-2-b-p2_ga: TODO
-:10-11-2-b-p2_en: TODO
+:10-11-4-title_ga: I nDiaidh an Fhorainmnigh Cheistigh
+:10-11-4-title_en: After the Interrogative Pronoun
 
-:10-11-3-title_ga: TODO
-:10-11-3-title_en: TODO
+:10-11-4-p_ga: Cuirtear _h_ roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh an fhorainmnigh cheistigh _cá_, e.g., _cá hiontas?_; _cá háit?_
+:10-11-4-p_en: _h_ is placed before a noun beginning with a vowel after the interrogative pronoun _cá_, e.g., _cá hiontas_?; _cá háit_?
 
-:10-11-3-p_ga: TODO
-:10-11-3-p_en: TODO
+:10-11-4-sample-1_ga: *Cá haois* í anois?
+:10-11-4-sample-1_en: *What age* is she now?
 
-:10-11-3-sample-1_ga: TODO
-:10-11-3-sample-1_en: TODO
+:10-11-4-sample-2_ga: *Cá huair* a bheidh an dráma ag tosú?
+:10-11-4-sample-2_en: *What time* will the play be starting?
 
-:10-11-3-sample-2_ga: TODO
-:10-11-3-sample-2_en: TODO
+:10-11-5-title_ga: I Sloinnte
+:10-11-5-title_en: In Surnames
 
-:10-11-4-title_ga: TODO
-:10-11-4-title_en: TODO
+:10-11-5-p_ga: Cuirtear _h_ roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh _Ó_ i sloinnte, e.g., _Seán Ó hÓgáin_; _do Chathal Ó hAodha_.
+:10-11-5-p_en: _h_ is placed before a noun beginning with a vowel after _Ó_ in surnames, e.g., _Seán Ó hÓgáin_; _do Chathal Ó hAodha_.
 
-:10-11-4-p_ga: TODO
-:10-11-4-p_en: TODO
+:10-11-5-sample-1_ga: Máirtín *Ó hÉalaí* is ainm dó.
+:10-11-5-sample-1_en: Máirtín *Ó hÉalaí* is his name.
 
-:10-11-4-sample-1_ga: TODO
-:10-11-4-sample-1_en: TODO
+:10-11-5-sample-2_ga: Dúirt Séamas *Ó hUiginn* go raibh sé sásta leis an bpróiseas.
+:10-11-5-sample-2_en: Séamas *Ó hUiginn* said he was satisfied with the process.
 
-:10-11-4-sample-2_ga: TODO
-:10-11-4-sample-2_en: TODO
+:10-11-6-title_ga: I nDiaidh _Dé_
+:10-11-6-title_en: After _Dé_
 
-:10-11-5-title_ga: TODO
-:10-11-5-title_en: TODO
+:10-11-6-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _Dé_ in _Dé hAoine_.
+:10-11-6-p_en: _h_ is placed before a vowel after _Dé_ in _Dé hAoine_.
 
-:10-11-5-p_ga: TODO
-:10-11-5-p_en: TODO
+:10-11-6-sample-1_ga: Gheall sí go mbeadh sí ann *Dé hAoine*.
+:10-11-6-sample-1_en: She promised she would be there *on Friday*.
 
-:10-11-5-sample-1_ga: TODO
-:10-11-5-sample-1_en: TODO
+:10-11-6-sample-2_ga: Ba oíche *Dé hAoine* a tharla sé.
+:10-11-6-sample-2_en: It was *on Friday night* that it happened.
 
-:10-11-5-sample-2_ga: TODO
-:10-11-5-sample-2_en: TODO
+:10-11-7-title_ga: I nDiaidh na hAidiachta Sealbhaí _a_
+:10-11-7-title_en: After the Possessive Adjective _a_
 
-:10-11-6-title_ga: TODO
-:10-11-6-title_en: TODO
+:10-11-7-p_ga: Cuirtear _h_ roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh _a_, aidiacht shealbhach, sa tríú pearsa uatha baininscneach, e.g., _a hathair_.
+:10-11-7-p_en: _h_ is placed before a noun beginning with a vowel after the possessive adjective _a_, third person singular feminine, e.g., _a hathair_.
 
-:10-11-6-p_ga: TODO
-:10-11-6-p_en: TODO
+:10-11-7-sample-1_ga: Ar chuir sí *a hathair* in aithne duit go fóill?
+:10-11-7-sample-1_en: Did she introduce you to *her father* yet?
 
-:10-11-6-sample-1_ga: TODO
-:10-11-6-sample-1_en: TODO
+:10-11-7-sample-2_ga: Scríobh sí leabhar álainn *faoina haistear* thart timpeall na hEorpa.
+:10-11-7-sample-2_en: She wrote a beautiful book *about her journey* around Europe.
 
-:10-11-6-sample-2_ga: TODO
-:10-11-6-sample-2_en: TODO
+:10-11-8-title_ga: I nDiaidh _ní_
+:10-11-8-title_en: After _ní_
 
-:10-11-7-title_ga: TODO
-:10-11-7-title_en: TODO
+:10-11-8-p1_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ (an fhoirm dhiúltach, aimsir láithreach den chopail (féach 7.2.5)):
+:10-11-8-p1_en: _h_ is placed before a vowel after _ní_ (the negative form, present tense of the copula (see 7.2.5)):
 
-:10-11-7-p_ga: TODO
-:10-11-7-p_en: TODO
+:10-11-8-a-p_ga: ar na hainmfhocail _áibhéil_, _ionadh_, _iontas_ agus _ualach_:
+:10-11-8-a-p_en: on the nouns _áibhéil_, _ionadh_, _iontas_ and _ualach_:
 
-:10-11-7-sample-1_ga: TODO
-:10-11-7-sample-1_en: TODO
+:10-11-8-a-sample-1_ga: *Ní hiontas* ar bith é sin.
+:10-11-8-a-sample-1_en: That is *no surprise* at all.
 
-:10-11-7-sample-2_ga: TODO
-:10-11-7-sample-2_en: TODO
+:10-11-8-a-sample-2_ga: *Ní hualach* do dhuine an fhoghlaim.
+:10-11-8-a-sample-2_en: Learning is *not a burden* for a person.
 
-:10-11-8-title_ga: TODO
-:10-11-8-title_en: TODO
+:10-11-8-b-p_ga: ar an ainmfhocal sna frásaí copaile réamhfhoclacha _acmhainn do_; _áil le_; _aitheanta do_; _aithnid do_; _éadáil le_; _ealaín do_; _éigean do_; agus _eol do_:
+:10-11-8-b-p_en: on the noun in the copular prepositional phrases _acmhainn do_; _áil le_; _aitheanta do_; _aithnid do_; _éadáil le_; _ealaín do_; _éigean do_; and _eol do_:
 
-:10-11-8-p1_ga: TODO
-:10-11-8-p1_en: TODO
+:10-11-8-b-sample-1_ga: *Ní haithnid duit* mé.
+:10-11-8-b-sample-1_en: You *do not know* me.
 
-:10-11-8-a-p_ga: TODO
-:10-11-8-a-p_en: TODO
+:10-11-8-b-sample-2_ga: *Ní healaín do* lucht déanta an dlí iompú ar é a bhriseadh.
+:10-11-8-b-sample-2_en: Breaking the law is *not an art* for law makers. (Meaning _it is not fit to do so_)
 
-:10-11-8-a-sample-1_ga: TODO
-:10-11-8-a-sample-1_en: TODO
+:10-11-8-c-p_ga: ar an ainmfhocal i gcorr-sheanfhocal:
+:10-11-8-c-p_en: on the noun in the odd proverb:
 
-:10-11-8-a-sample-2_ga: TODO
-:10-11-8-a-sample-2_en: TODO
+:10-11-8-c-sample-1_ga: *Ní haithne* go haontíos.
+:10-11-8-c-sample-1_en: *No knowledge* until cohabitation. (Meaning _You must live with a person to know a person_. Credit to https://daltai.com/ni-heolas-go-haontios/[_Daltaí na Gaeilge_] for this translation.)
 
-:10-11-8-b-p_ga: TODO
-:10-11-8-b-p_en: TODO
+:10-11-8-c-sample-2_ga: *Ní heolas* go haontíos.
+:10-11-8-c-sample-2_en: (Same as above. This one appears in FGB.)
 
-:10-11-8-b-sample-1_ga: TODO
-:10-11-8-b-sample-1_en: TODO
+:10-11-8-p2_ga: Tabhair faoi deara nach gcuirtear _h_ roimh ainmfhocal i ndiaidh _ní_ taobh amuigh de na cásanna thuasluaite, e.g., _Ní amadán é_; _Ní Eoin is ainm dom_; _Ní eolas oideachas_.
+:10-11-8-p2_en: Note that _h_ is not placed before a noun after _ní_ outside of the above-mentioned cases, e.g., _Ní amadán é_; _Ní Eoin is ainm dom_; _Ní eolas oideachas_.
 
-:10-11-8-b-sample-2_ga: TODO
-:10-11-8-b-sample-2_en: TODO
+:10-12-title_ga: _h_ roimh Ghuta -- An Aidiacht agus an Dobhriathar
+:10-12-title_en: _h_ before a Vowel -- The Adjective and the Adverb
 
-:10-11-8-c-p_ga: TODO
-:10-11-8-c-p_en: TODO
+:10-12-1-title_ga: I nDiaidh _chomh_, _go_, _le_
+:10-12-1-title_en: After _chomh_, _go_, _le_
 
-:10-11-8-c-sample-1_ga: TODO
-:10-11-8-c-sample-1_en: TODO
+:10-12-1-p_ga: Cuirtear _h_ roimh aidiacht nó dobhriathar a thosaíonn ar ghuta i ndiaidh _chomh_, _go_ agus _le_, e.g., _chomh hard le haon chapall_; _Tá sé go hálainn_.
+:10-12-1-p_en: _h_ is placed before an adjective or adverb beginning with a vowel after _chomh_, _go_ and _le_, e.g., _chomh hard le haon chapall_; _Tá sé go hálainn_.
 
-:10-11-8-c-sample-2_ga: TODO
-:10-11-8-c-sample-2_en: TODO
+:10-12-1-sample-1_ga: Bhí an crann crónghiúise *chomh hard* le foirgneamh tríocha urlár.
+:10-12-1-sample-1_en: The redwood tree was *as tall* as a thirty-storey building.
 
-:10-11-8-p2_ga: TODO
-:10-11-8-p2_en: TODO
+:10-12-1-sample-2_ga: Ní bhíonn sé anseo ach *go hannamh*.
+:10-12-1-sample-2_en: He is only here *rarely*.
 
-:10-12-title_ga: TODO
-:10-12-title_en: TODO
+:10-12-1-sample-3_ga: Ní ghlacfar *le haon* iarratas tar éis 5 p.m. Dé hAoine.
+:10-12-1-sample-3_en: Not *any* applications will be accepted after 5 p.m. on Friday.
 
-:10-12-1-title_ga: TODO
-:10-12-1-title_en: TODO
+:10-12-2-title_ga: I nDiaidh _ní_
+:10-12-2-title_en: After _ní_
 
-:10-12-1-p_ga: TODO
-:10-12-1-p_en: TODO
+:10-12-2-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ (an fhoirm dhiúltach, aimsir láithreach den chopail (féach Caibidil 7)):
+:10-12-2-p_en: _h_ is placed before a vowel after _ní_ (the negative form, present tense of the copula (see Chapter 7)):
 
-:10-12-1-sample-1_ga: TODO
-:10-12-1-sample-1_en: TODO
+:10-12-2-a-p_ga: ar na haidiachtaí _amháin_, _aon_, _ionann_ agus _iondúil_, agus ar na dobhriathra _amhlaidh_ agus _annamh_:
+:10-12-2-a-p_en: on the adjectives _amháin_, _aon_, _ionann_ and _iondúil_, and on the adverbs _amhlaidh_ and _annamh_:
 
-:10-12-1-sample-2_ga: TODO
-:10-12-1-sample-2_en: TODO
+:10-12-2-a-sample-1_ga: *Ní hamháin* gur saoire na geansaithe sin ach is fearr iad chomh maith.
+:10-12-2-a-sample-1_en: *Not only* are those sweaters cheap but they are also the best.
 
-:10-12-1-sample-3_ga: TODO
-:10-12-1-sample-3_en: TODO
+:10-12-2-a-sample-2_ga: *Ní hionann* an dá rud ar chor ar bith.
+:10-12-2-a-sample-2_en: The two things are *not the same* at all.
 
-:10-12-2-title_ga: TODO
-:10-12-2-title_en: TODO
+:10-12-2-a-sample-3_ga: *Ní hamhlaidh* nár insíodh di.
+:10-12-2-a-sample-3_en: It is *not the case* that she was not told.
 
-:10-12-2-p_ga: TODO
-:10-12-2-p_en: TODO
+:10-12-2-b-p_ga: ar an aidiacht sna frásaí copaile réamhfhoclacha _eagal do_/_le_ agus _oircheas do_:
+:10-12-2-b-p_en: on the adjective in the copular prepositional phrases _eagal do_/_le_ and _oircheas do_:
 
-:10-12-2-a-p_ga: TODO
-:10-12-2-a-p_en: TODO
+:10-12-2-b-sample-1_ga: *Ní heagal duit* an madra.
+:10-12-2-b-sample-1_en: You are *not afraid* of the dog.
 
-:10-12-2-a-sample-1_ga: TODO
-:10-12-2-a-sample-1_en: TODO
+:10-12-2-b-sample-2_ga: *Ní hoircheas duit* labhairt air.
+:10-12-2-b-sample-2_en: It is not *right for you* to speak to him.
 
-:10-12-2-a-sample-2_ga: TODO
-:10-12-2-a-sample-2_en: TODO
+:10-12-3-title_ga: I nDiaidh _a_ agus _na_
+:10-12-3-title_en: After _a_ and _na_
 
-:10-12-2-a-sample-3_ga: TODO
-:10-12-2-a-sample-3_en: TODO
+:10-12-3-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _a_ agus _na_ sna huimhreacha, e.g., _ceacht a haon_; _na hocht gcinn_.
+:10-12-3-p_en: _h_ is placed before a vowel after _a_ and _na_ in numbers, e.g., _ceacht a haon_; _na hocht gcinn_.
 
-:10-12-2-b-p_ga: TODO
-:10-12-2-b-p_en: TODO
+:10-12-3-sample-1_ga: Fuair sí bus *a haon déag*.
+:10-12-3-sample-1_en: She got bus *number eleven*.
 
-:10-12-2-b-sample-1_ga: TODO
-:10-12-2-b-sample-1_en: TODO
+:10-12-3-sample-2_ga: Cár cheannaigh tú *na hocht* n-úll dhearga sin?
+:10-12-3-sample-2_en: Where did you buy *those eight* red apples?
 
-:10-12-2-b-sample-2_ga: TODO
-:10-12-2-b-sample-2_en: TODO
+:10-13-title_ga: _h_ roimh Ghuta -- An Forainmneach
+:10-13-title_en: _h_ before a Vowel -- The Pronominal
 
-:10-12-3-title_ga: TODO
-:10-12-3-title_en: TODO
+:10-13-1-title_ga: I nDiaidh _cé_ agus _ní_
+:10-13-1-title_en: After _cé_ and _ní_
 
-:10-12-3-p_ga: TODO
-:10-12-3-p_en: TODO
+:10-13-1-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _cé_ agus _ní_ ar na forainmnigh phearsanta _é_, _í_, _ea_ agus _iad_, e.g., _ní hé_; _ní hí_; _ní hea_; _ní hiad_; _cé hé?_; _cé hí?_; _cé hiad_?
+:10-13-1-p_en: _h_ is placed before a vowel after _cé_ and _ní_ on the personal pronominals _é_, _í_, _ea_ and _iad_, e.g., _ní hé_; _ní hí_; _ní hea_; _ní hiad_; _cé hé?_; _cé hí?_; _cé hiad_?
 
-:10-12-3-sample-1_ga: TODO
-:10-12-3-sample-1_en: TODO
+:10-13-1-sample-1_ga: *Ní hé* lá na báistí lá na bpáistí.
+:10-13-1-sample-1_en: *It is not* a rainy day for the children.
 
-:10-12-3-sample-2_ga: TODO
-:10-12-3-sample-2_en: TODO
+:10-13-1-sample-2_ga: *Cé hiad* féin?
+:10-13-1-sample-2_en: *Who are they* themselves?
 
-:10-13-title_ga: TODO
-:10-13-title_en: TODO
+:10-13-2-title_ga: I nDiaidh _ní_
+:10-13-2-title_en: After _ní_
 
-:10-13-1-title_ga: TODO
-:10-13-1-title_en: TODO
+:10-13-2-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ ar na forainmnigh thaispeántacha _éard_, _eo_, _in_ agus _iúd_, e.g., _ní héard_; _ní heo_; _ní hin_; _ní hiúd_.
+:10-13-2-p_en: _h_ is placed before a vowel after _ní_ on the demonstrative pronominals _éard_, _eo_, _in_ and _iúd_, e.g., _ní héard_; _ní heo_; _ní hin_; _ní hiúd_. (_TL Note:_ eo, in, _and_ iúd _are secondary forms in dialectical Irish according to https://en.wikisource.org/wiki/Graim%C3%A9ar_na_Gaedhilge/Part_II_Chapter_IV[Graiméar na Gaedhilge, Part II Chapter IV]. These entries are not found in FGB._)
 
-:10-13-1-p_ga: TODO
-:10-13-1-p_en: TODO
+:10-13-2-sample-1_ga: *Ní heo* é an rud atá le déanamh.
+:10-13-2-sample-1_en: *This* is not the thing to be done.
 
-:10-13-1-sample-1_ga: TODO
-:10-13-1-sample-1_en: TODO
+:10-13-2-sample-2_ga: *Ní hin* é.
+:10-13-2-sample-2_en: *That* is not it.
 
-:10-13-1-sample-2_ga: TODO
-:10-13-1-sample-2_en: TODO
+:10-13-3-title_ga: I nDiaidh _le_
+:10-13-3-title_en: After _le_
 
-:10-13-2-title_ga: TODO
-:10-13-2-title_en: TODO
+:10-13-3-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _le_ ar na forainmnigh phearsanta _é_, _í_ agus _iad_, e.g., _le hé_; _le hí_; _le hiad_.
+:10-13-3-p_en: _h_ is placed before a vowel after _le_ on the personal pronominals _é_, _í_ and _iad_, e.g., _le hé_; _le hí_; _le hiad_.
 
-:10-13-2-p_ga: TODO
-:10-13-2-p_en: TODO
+:10-13-3-sample-1_ga: Chuaigh sé ann *le hí* a phósadh.
+:10-13-3-sample-1_en: He went there *with her* to marry.
 
-:10-13-2-sample-1_ga: TODO
-:10-13-2-sample-1_en: TODO
+:10-13-3-sample-2_ga: Rinne sé riail *le hiad* a smachtú.
+:10-13-3-sample-2_en: He made a rule *with them* to control.
 
-:10-13-2-sample-2_ga: TODO
-:10-13-2-sample-2_en: TODO
+:10-14-title_ga: _h_ roimh Ghuta -- An Briathar
+:10-14-title_en: _h_ before a Vowel -- The Verb
 
-:10-13-3-title_ga: TODO
-:10-13-3-title_en: TODO
+:10-14-1-title_ga: I nDiaidh _ná_
+:10-14-1-title_en: After _ná_
 
-:10-13-3-p_ga: TODO
-:10-13-3-p_en: TODO
+:10-14-1-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh ná sa mhodh ordaitheach, e.g., _ná himigh_.
+:10-14-1-p_en: _h_ is placed before a vowel after _ná_ in the imperative mood, e.g., _ná himigh_.
 
-:10-13-3-sample-1_ga: TODO
-:10-13-3-sample-1_en: TODO
+:10-14-1-sample-1_ga: *Ná habair* dada leis faoin gcóisir.
+:10-14-1-sample-1_en: *Do not say* anything to him about the party.
 
-:10-13-3-sample-2_ga: TODO
-:10-13-3-sample-2_en: TODO
+:10-14-1-sample-2_ga: *Ná hosclaígí* an doras mura bhfuil a fhios agaibh cé atá ann.
+:10-14-1-sample-2_en: *Do not open* the door unless you know who is there.
 
-:10-14-title_ga: TODO
-:10-14-title_en: TODO
+:10-14-1-sample-3_ga: *Ná hóltar* sa Dánlann.
+:10-14-1-sample-3_en: *Do not drink* in the Library.
 
-:10-14-1-title_ga: TODO
-:10-14-1-title_en: TODO
+:10-14_5-title_ga: _d'_ Roimh Ghuta nó Roimh _fh_
+:10-14_5-title_en: _d'_ Before a Vowel or Before _fh_
 
-:10-14-1-p_ga: TODO
-:10-14-1-p_en: TODO
+:10-15-title_ga: _d'_ roimh Ghuta nó roimh _fh_ -- An Briathar
+:10-15-title_en: _d'_ before a Vowel or before _fh_ -- The Verb
 
-:10-14-1-sample-1_ga: TODO
-:10-14-1-sample-1_en: TODO
+:10-15-p_ga: Cuirtear _d'_ roimh ghuta nó _fh-_ san áit a mbeadh séimhiú ar chonsan san aimsir chaite agus san aimsir ghnáthchaite, modh táscach, agus sa mhodh coinníollach, e.g., _d'fhágamar_; _d'fhanadh sibh_; _d'fhreagróinn_; _d'imeoinn_; _d'ithinn_; _d'ól sé_; _an té a d'imigh_; _d'aithneofaí í_; _má d'fhág sé_; _má d'fheiceadh sé_; _má d'imríomar_.
+:10-15-p_en: _d'_ is placed before a vowel or _fh-_ in place of lenition on a consonant in the past tense and the habitual past tense, the indicative mood, and the conditional mood, e.g., _d'fhágamar_; _d'fhanadh sibh_; _d'fhreagróinn_; _d'imeoinn_; _d'ithinn_; _d'ól sé_; _an té a d'imigh_; _d'aithneofaí í_; _má d'fhág sé_; _má d'fheiceadh sé_; _má d'imríomar_.
 
-:10-14-1-sample-2_ga: TODO
-:10-14-1-sample-2_en: TODO
+:10-15-sample-1_ga: An í sin an cheist a *d'fhreagair* sé?
+:10-15-sample-1_en: Is that the question that he *answered*?
 
-:10-14-1-sample-3_ga: TODO
-:10-14-1-sample-3_en: TODO
+:10-15-sample-2_ga: Théidís abhaile láithreach nuair a *d'fhágaidís* an áit.
+:10-15-sample-2_en: They would go home immediately when they *left* the place.
 
-:10-14_5-title_ga: TODO
-:10-14_5-title_en: TODO
+:10-15-sample-3_ga: Ní raibh mé cinnte faoin méid a *d'íosfadh* sé.
+:10-15-sample-3_en: I was not sure about the amount that he *would eat*.
 
-:10-14_5-p_ga: TODO
-:10-14_5-p_en: TODO
+:10-16-title_ga: Achoimre ar na hAthruithe Tosaigh
+:10-16-title_en: Summary of the Initial Changes
 
-:10-15-title_ga: TODO
-:10-15-title_en: TODO
+:10-16-p1_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear séimhiú ar ainmfhocail, ar aidiachtaí, ar bhriathra agus ar fhorainmnigh. Tá míniú ar an riail iomlán ar fáil faoi na crostagairtí sa cholún ar chlé.
+:10-16-p1_en: As a reference aid, a summary is given here of the cases in which lenition is applied to nouns, adjectives, verbs and pronouns. A full explanation of the rule is available at the cross-references in the left-hand column.
 
-:10-15-p_ga: TODO
-:10-15-p_en: TODO
+:Table10A-caption_ga: Achoimre ar an Séimhiú
+:Table10A-caption_en: Summary of the Lenition
 
-:10-15-sample-1_ga: TODO
-:10-15-sample-1_en: TODO
+:Table10A-header_ga: An Séimhiú
+:Table10A-header_en: The Lenition
 
-:10-15-sample-2_ga: TODO
-:10-15-sample-2_en: TODO
+:Table10A-noun-header_ga: Cuirtear séimhiú ar an ainmfhocal sna cásanna seo a leanas:
+:Table10A-noun-header_en: Lenition is applied to the noun in the following cases:
 
-:10-15-sample-3_ga: TODO
-:10-15-sample-3_en: TODO
+:Examples_ga: Samplaí
+:Examples_en: Examples
 
-:10-16-title_ga: TODO
-:10-16-title_en: TODO
+:Table10A-noun-rule-1_ga: I ndiaidh an ailt _an_ san ainmneach uatha baininscneach, sa ghinideach uatha firinscneach agus, i roinnt cásanna, sa tabharthach uatha, firinscneach agus baininscneach (10.2.1)
+:Table10A-noun-rule-1_en: After the articles _an_ in the nominative singular feminine, the genitive singular masculine, and, in some cases, the dative singular, masculine and feminine (10.2.1)
 
-:10-16-p1_ga: TODO
-:10-16-p1_en: TODO
+:Table10A-noun-rule-2_ga: I ndiaidh na míre gairmí, uatha nó iolra, firinscneach nó baininscneach (10.2.2)
+:Table10A-noun-rule-2_en: After the possessive pronoun, singular or plural, masculine or feminine (10.2.2)
 
-:Table_ga: TODO
-:Table_en: TODO
+:Table10A-noun-rule-3_ga: I ndiaidh na n-aidiachtaí sealbhacha _mo_, _do_ agus _a_ (fir. uatha); i ndiaidh na haidiachta rannaí _uile_; agus i ndiaidh na haidiachta éiginnte _aon_ (10.2.3)
+:Table10A-noun-rule-3_en: After the possessive adjectives _mo_, _do_ and _a_ (masc. singular); after the distributive adjective _uile_; and after the indefinite adjective _aon_ (10.2.3)
 
-:Table10A-caption_ga: TODO
-:Table10A-caption_en: TODO
+:Table10A-noun-rule-4_ga: I ndiaidh na n-uimhreacha _aon_, _céad_; _dhá_; agus _trí_, _ceithre_, _cúig_, _sé_ (10.2.4)
+:Table10A-noun-rule-4_en: After the numbers _aon_, _céad_; _dhá_; and _trí_, _ceithre_, _cúig_, _sé_ (10.2.4)
 
-:Table10A-header_ga: TODO
-:Table10A-header_en: TODO
+:Table10A-noun-rule-5_ga: I ndiaidh na réamhfhocal _de_, _do_, _faoi_, _ionsar_, _mar_, _ó_, _roimh_, _trí_; _um_ mura _b_, _m_, _p_ túslitir an ainmfhocail; agus _ar_, _gan_, _idir_, _thar_ i gcásanna áirithe (10.2.5)
+:Table10A-noun-rule-5_en: After the prepositions _de_, _do_, _faoi_, _ionsar_, _mar_, _ó_, _roimh_, _trí_; _um_ unless the noun begins with _b_, _m_, _p_; and _ar_, _gan_, _idir_, _thar_ in certain cases (10.2.5)
 
-:Table10A-noun-header_ga: TODO
-:Table10A-noun-header_en: TODO
+:Table10A-noun-rule-6_ga: I ndiaidh réamhfhocal comhshuite más ainmfhocal cinnte an t-ainmfhocal (10.2.6)
+:Table10A-noun-rule-6_en: After a compound preposition if the noun is a definite noun (10.2.6)
 
-:Examples_ga: TODO
-:Examples_en: TODO
+:Table10A-noun-rule-7_ga: I ndiaidh ainmfhocal baininscneach seachas sna cásanna a luaitear in 10.2.7(a)-(m) (10.2.7)
+:Table10A-noun-rule-7_en: After a feminine noun except in the cases mentioned in 10.2.7(a)-(m) (10.2.7)
 
-:Table10A-noun-rule-1_ga: TODO
-:Table10A-noun-rule-1_en: TODO
+:Table10A-noun-rule-8_ga: I ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol i ngach cás nach luaitear in 10.2.8(a)-(f) (10.2.8)
+:Table10A-noun-rule-8_en: After a noun in the plural ending in a slender consonant in all cases not mentioned in 10.2.8(a)-(f) (10.2.8)
 
-:Table10A-noun-rule-2_ga: TODO
-:Table10A-noun-rule-2_en: TODO
+:Table10A-noun-rule-9_ga: I ndiaidh ainmfhocal atá san uatha nó san iolra, firinscneach nó baininscneach, más ainmfhocal cinnte sa ghinideach é (10.2.10)
+:Table10A-noun-rule-9_en: After a noun that is in the singular or plural, masculine or feminine, if it is a definite noun in the genitive (10.2.10)
 
-:Table10A-noun-rule-3_ga: TODO
-:Table10A-noun-rule-3_en: TODO
+:Table10A-noun-rule-10_ga: I sloinnte i ndiaidh _Mhic_, _Mhig_, _Ní_, _Nic_, _Nig_, _Uí_, agus i ndiaidh _Mac_ (_Mag_) i gcásanna áirithe (10.2.11)
+:Table10A-noun-rule-10_en: In surnames after _Mhic_, _Mhig_, _Ní_, _Nic_, _Nig_, _Uí_, and after _Mac_ (_Mag_) in certain cases (10.2.11)
 
-:Table10A-noun-rule-4_ga: TODO
-:Table10A-noun-rule-4_en: TODO
+:Table10A-noun-rule-11_ga: Más é an dara focal i gcomhfhocal é (10.2.12) 
+:Table10A-noun-rule-11_en: If it is the second word in a compound (10.2.12)
 
-:Table10A-noun-rule-5_ga: TODO
-:Table10A-noun-rule-5_en: TODO
+:Table10A-noun-rule-12_ga: I ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach (10.2.13)
+:Table10A-noun-rule-12_en: After the copula in the indicative mood, past tense and habitual past tense, and in the conditional mood (10.2.13)
 
-:Table10A-noun-rule-6_ga: TODO
-:Table10A-noun-rule-6_en: TODO
+:Table10A-adjective-header_ga: Cuirtear séimhiú ar an aidiacht sna cásanna seo a leanas:
+:Table10A-adjective-header_en: Lenition is applied to the adjective in the following cases:
 
-:Table10A-noun-rule-7_ga: TODO
-:Table10A-noun-rule-7_en: TODO
+:Table10A-adjective-rule-1_ga: I ndiaidh ainmfhocal atá san ainmneach, tabharthach nó gairmeach uatha baininscneach; sa ghinideach nó sa ghairmeach uatha firinscneach; san ainmneach nó sa tabharthach iolra má chríochnaíonn an t-ainmfhocal ar chonsan caol (nó sa tabharthach uatha firinscneach má tá Córas an tSéimhithe in úsáid) nó i ndiaidh ainmfhocal san uatha má tá _dhá_ nó uimhir ó _trí_ go _deich_ roimhe (10.3.1)
+:Table10A-adjective-rule-1_en: After a noun that is in the nominative, dative or possessive singular feminine; in the genitive or possessive singular masculine; in the nominative or dative plural if the noun ends in a narrow consonant (or in the dative singular masculine if the Lenition System is in use) or after a noun in the singular if _dhá_ or a number from _trí_ to _deich_ precedes it (10.3.1)
 
-:Table10A-noun-rule-8_ga: TODO
-:Table10A-noun-rule-8_en: TODO
+:Table10A-adjective-rule-2_ga: Ar an tslí chéanna ar a séimhítear ainmfhocal ar lorg réamhfhocal simplí, ar lorg réamhfhocal simplí agus an ailt, ar lorg aidiacht shealbhach, agus sa tuiseal ginideach firinscneach (10.3.2)
+:Table10A-adjective-rule-2_en: In the same way as a noun is lenited after a simple preposition, after a simple preposition and the articles, after a possessive adjective, and in the masculine genitive case (10.3.2)
 
-:Table10A-noun-rule-9_ga: TODO
-:Table10A-noun-rule-9_en: TODO
+:ThirdPersonMasc_ga: tríú pearsa fir.
+:ThirdPersonMasc_en: third person masc.
 
-:Table10A-noun-rule-10_ga: TODO
-:Table10A-noun-rule-10_en: TODO
+:Table10A-adjective-rule-3_ga: Ar na haidiachtaí _dhá_ agus _dháréag_ (10.3.3) 
+:Table10A-adjective-rule-3_en: On the adjectives _dhá_ and _dháréag_ (10.3.3)
 
-:Table10A-noun-rule-11_ga: TODO
-:Table10A-noun-rule-11_en: TODO
+:Table10A-adjective-rule-4_ga: Ar _déag_ i ndiaidh _dó_ agus ainmfhocal uatha a chríochnaíonn ar ghuta; agus ar _fichead_ i ndiaidh ainmfhocal iolra a chríochnaíonn ar chonsan caol (10.3.4)
+:Table10A-adjective-rule-4_en: On _déag_ after _dó_ and a singular noun ending in a vowel; and on _fichead_ after a plural noun ending in a slender consonant (10.3.4)
 
-:Table10A-noun-rule-12_ga: TODO
-:Table10A-noun-rule-12_en: TODO
+:Table10A-adjective-rule-5_ga: Más é an dara focal i gcomhfhocal é (10.3.5) 
+:Table10A-adjective-rule-5_en: If it is the second word in a compound (10.3.5)
 
-:Table10A-adjective-header_ga: TODO
-:Table10A-adjective-header_en: TODO
+:Table10A-adjective-rule-6_ga: I ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach (10.3.6)
+:Table10A-adjective-rule-6_en: After the copula in the indicative mood, past tense and habitual past tense, and in the conditional mood (10.3.6)
 
-:Table10A-adjective-rule-1_ga: TODO
-:Table10A-adjective-rule-1_en: TODO
+:Table10A-verb-header_ga: Cuirtear séimhiú ar an mbriathar sna cásanna seo a leanas:
+:Table10A-verb-header_en: Lenition is applied to the verb in the following cases:
 
-:Table10A-adjective-rule-2_ga: TODO
-:Table10A-adjective-rule-2_en: TODO
+:Table10A-verb-rule-1_ga: Ar an mbriathar neamhspleách sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach; i ndiaidh _a_, coibhneas díreach; i ndiaidh na gcónasc _má_ agus _ó_; agus san fhochlásal dearfach atá mar ainmní ag an gcopail (10.4.1)
+:Table10A-verb-rule-1_en: On the independent verb in the indicative mood, past tense and habitual past tense, and in the conditional mood; after _a_, direct relative; after the conjunctions _má_ and _ó_; and in the affirmative clause that is a noun of the copula (10.4.1)
 
-:ThirdPersonPl_ga: TODO
-:ThirdPersonPl_en: TODO
+:Table10A-verb-rule-2_ga: Ar an mbriathar spleách i ndiaidh na gcónasc agus na míreanna briathartha seo a leanas: _ar_, _cár_, _dár_, _gur_, _murar_, _nár_, _ní_, _níor_, _sular_ (10.4.2)
+:Table10A-verb-rule-2_en: On the dependent verb after the conjunctions and verbal particles: _ar_, _cár_, _dár_, _gur_, _murar_, _nár_, _ní_, _níor_, _sular_ (10.4.2)
 
-:Table10A-adjective-rule-3_ga: TODO
-:Table10A-adjective-rule-3_en: TODO
+:Table10A-pronominal-header_ga: Cuirtear séimhiú ar an bhforainmneach taispeántach sna cásanna seo a leanas
+:Table10A-pronominal-header_en: Lenition is applied to the demonstrative pronominal in the following cases
 
-:Table10A-adjective-rule-4_ga: TODO
-:Table10A-adjective-rule-4_en: TODO
+:Table10A-pronominal-rule-1_ga: Ar _sin_ i ndiaidh _ó_ sa fhrása _ó shin_ (10.5.1)
+:Table10A-pronominal-rule-1_en: On _sin_ after _ó_ in the phrase _ó shin_ (10.5.1)
 
-:Table10A-adjective-rule-5_ga: TODO
-:Table10A-adjective-rule-5_en: TODO
+:10-16-p2_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear urú ar ainmfhocail, ar aidiachtaí agus ar bhriathra.
+:10-16-p2_en: As a reference aid, a summary is given here of the cases in which eclipsis is applied to nouns, adjectives, and verbs.
 
-:Table10A-adjective-rule-6_ga: TODO
-:Table10A-adjective-rule-6_en: TODO
+:Table10B-caption_ga: Achoimre ar an Urú
+:Table10B-caption_en: Summary of the Eclipsis
 
-:Table10A-verb-header_ga: TODO
-:Table10A-verb-header_en: TODO
+:Table10B-header_ga: An tUrú
+:Table10B-header_en: The Eclipsis
 
-:Table10A-verb-rule-1_ga: TODO
-:Table10A-verb-rule-1_en: TODO
+:Table10B-noun-header_ga: Cuirtear urú ar an ainmfhocal sna cásanna seo a leanas:
+:Table10B-noun-header_en: Eclipsis is applied to the noun in the following cases:
 
-:Table10A-verb-rule-2_ga: TODO
-:Table10A-verb-rule-2_en: TODO
+:Table10B-noun-rule-1_ga: I ndiaidh an ailt _an_ sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna; sna frásaí _mar an gcéanna_ agus _um an dtaca_ agus sa tuiseal ginideach iolra, firinscneach agus baininscneach (10.6.1)
+:Table10B-noun-rule-1_en: After the articles _an_ in the dative singular, masculine and feminine, in some cases; in the phrases _mar an gcéanna_ and _um an dtaca_ and in the masculine and feminine genitive plural (10.6.1)
 
-:Table10A-pronominal-header_ga: TODO
-:Table10A-pronominal-header_en: TODO
+:Table10B-noun-rule-2_ga: I ndiaidh _ár_, _bhur_, _a_ (tríú pearsa iol.) agus i ndiaidh _dhá_ má thagann sé i ndiaidh _ár_, _bhur_, _a_ (tríú pearsa iol.) (10.6.2)
+:Table10B-noun-rule-2_en: After _ár_, _bhur_, _a_ (third person plural) and after _dhá_ if it follows _ár_, _bhur_, _a_ (third person plural) (10.6.2)
 
-:Table10A-pronominal-rule-1_ga: TODO
-:Table10A-pronominal-rule-1_en: TODO
+:Table10B-noun-rule-3_ga: I ndiaidh _seacht_, _ocht_, _naoi_, _deich_ (10.6.3)
+:Table10B-noun-rule-3_en: After _seacht_, _ocht_, _naoi_, _deich_ (10.6.3)
 
-:10-16-p2_ga: TODO
-:10-16-p2_en: TODO
+:Table10B-noun-rule-4_ga: I ndiaidh _i_; i ndiaidh _ar_ i roinnt frásaí; agus i ndiaidh _go_ i gcásanna áirithe (10.6.4)
+:Table10B-noun-rule-4_en: After _i_; after _ar_ in some phrases; and after _go_ in certain situations (10.6.4)
 
-:Table10B-caption_ga: TODO
-:Table10B-caption_en: TODO
+:Table10B-noun-rule-5_ga: I ndiaidh _cá_ sa fhrása seanbhunaithe _cá bhfios_ (10.6.5) 
+:Table10B-noun-rule-5_en: After _cá_ in the established phrase _cá bhfios_ (10.6.5)
 
-:Table10B-header_ga: TODO
-:Table10B-header_en: TODO
+:Table10B-adjective-header_ga: Cuirtear urú ar an aidiacht sna cásanna seo a leanas: 
+:Table10B-adjective-header_en: Eclipsis is applied to the adjective in the following cases:
 
-:Table10B-noun-header_ga: TODO
-:Table10B-noun-header_en: TODO
+:Table10B-adjective-rule-1_ga: Ar an tslí chéanna ar a n-uraítear ainmfhocal ar lorg réamhfhocal simplí, ar lorg réamhfhocal simplí agus an ailt, ar lorg aidiacht shealbhach agus sa tuiseal ginideach iolra (10.7)
+:Table10B-adjective-rule-1_en: In the same way as a noun is eclipsed after a simple preposition, after a simple preposition and the articles, after a possessive adjective and in the genitive plural (10.7)
 
-:Table10B-noun-rule-1_ga: TODO
-:Table10B-noun-rule-1_en: TODO
+:Table10B-verb-header_ga: Cuirtear urú ar an mbriathar sna cásanna seo a leanas:
+:Table10B-verb-header_en: Eclipsis is applied to the verb in the following cases:
 
-:Table10B-noun-rule-2_ga: TODO
-:Table10B-noun-rule-2_en: TODO
+:Table10B-verb-rule-1_ga: San fhochlásal coibhneasta i ndiaidh _a_, coibhneas indíreach, agus _nach_, i ndiaidh réamhfhocal atá i gcumasc le _a_, coibhneas indíreach, agus i ndiaidh _a_ (sa bhrí _an méid a_) agus _dá_ (as _de+a_, _do+a_) (10.8.1)
+:Table10B-verb-rule-1_en: In the relative clause after _a_, indirect relative, and _nach_, after a preposition that is combined with _a_, indirect relative, and after _a_ (meaning _the amount that_) and _dá_ (from _de+a_, _do+a_) (10.8.1)
 
-:Table10B-noun-rule-3_ga: TODO
-:Table10B-noun-rule-3_en: TODO
+:Table10B-verb-rule-2_ga: Ar an mbriathar spleách i ndiaidh na gcónasc agus na míreanna briathartha seo a leanas: _an_, _cá_, _dá_ (coinníollach), _go_, _mura_, _nach_, _sula_, agus i ndiaidh _ní_ i gcás an leagain spleách den bhriathar _faigh_ san aimsir chaite, san aimsir fháistineach agus sa mhodh coinníollach (10.8.2)
+:Table10B-verb-rule-2_en: On the dependent verb after the conjunctions and verbal particles: _an_, _cá_, _dá_ (conditional), _go_, _mura_, _nach_, _sula_, and after _ní_ in the case of the dependent form of the verb _faigh_ in the past tense, future tense and conditional mood (10.8.2)
 
-:Table10B-noun-rule-4_ga: TODO
-:Table10B-noun-rule-4_en: TODO
+:10-16-p3_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear _t_ roimh ghuta ag tús ainmfhocail agus aidiachta.
+:10-16-p3_en: As a reference aid, a summary is given here of the cases in which _t_ is placed before a vowel at the beginning of a noun and an adjective.
 
-:Table10B-noun-rule-5_ga: TODO
-:Table10B-noun-rule-5_en: TODO
+:Table10C-caption_ga: Achoimre ar _t_ roimh Ghuta
+:Table10C-caption_en: Summary of _t_ before a Vowel
 
-:Table10B-adjective-header_ga: TODO
-:Table10B-adjective-header_en: TODO
+:Table10C-header_ga: _t_ Roimh Ghuta
+:Table10C-header_en: _t_ Before a Vowel
 
-:Table10B-adjective-rule-1_ga: TODO
-:Table10B-adjective-rule-1_en: TODO
+:Table10C-Noun-Adjective-Header_ga: Cuirtear _t_ roimh ghuta ag tús ainmfhocail agus ag tús aidiachta sna cásanna seo a leanas:
+:Table10C-Noun-Adjective-Header_en: _t_ is placed before a vowel at the beginning of nouns and at the beginning of adjectives in the following cases:
 
-:Table10B-verb-header_ga: TODO
-:Table10B-verb-header_en: TODO
+:Table10C-rule-1_ga: I ndiaidh an ailt _an_ roimh ainmfhocal firinscneach san ainmneach uatha agus roimh _aon_, _aonú_, _ochtú_, _ochtódú_, _ochtú_ (10.9.1)
+:Table10C-rule-1_en: After the afticle _an_ before a masculine noun in the nominative singular and before _aon_, _aonú_, _ochtú_, _ochtódú_, _ochtú_ (10.9.1)
 
-:Table10B-verb-rule-1_ga: TODO
-:Table10B-verb-rule-1_en: TODO
+:10-16-p4_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear _t_ roimh _s_ ag tús ainmfhocail.
+:10-16-p4_en: As a reference aid, a summary is given here of the cases in which _t_ is placed before _s_ at the beginning of a noun.
 
-:Table10B-verb-rule-2_ga: TODO
-:Table10B-verb-rule-2_en: TODO
+:Table10D-caption_ga: Achoimre ar _t_ roimh _s_
+:Table10D-caption_en: Summary of _t_ before _s_
 
-:10-16-p3_ga: TODO
-:10-16-p3_en: TODO
+:Table10D-header_ga: _t_ Roimh _s_
+:Table10D-header_en: _t_ Before _s_
 
-:Table10C-caption_ga: TODO
-:Table10C-caption_en: TODO
+:Table10D-noun-header_ga: Cuirtear _t_ roimh _s_ ag tús ainmfhocail sna cásanna seo a leanas:
+:Table10D-noun-header_en: _t_ is placed before _s_ at the beginning of a noun in the following cases:
 
-:Table10C-header_ga: TODO
-:Table10C-header_en: TODO
+:Table10D-rule-1_ga: I ndiaidh an ailt _an_ i gcás ainmfhocal baininscneach uatha (agus ainmfhocal firinscneach uatha i gCóras an tSéimhithe) atá san ainmneach nó sa tabharthach agus a thosaíonn ar _s_ + _guta_ nó _sl-_, _sn-_, _sr-_; agus i gcás ainmfhocal firinscneach uatha sa ghinideach a thosaíonn ar _s_ + _guta_ nó _sl-_, _sn-_, _sr-_ (10.10.1)
+:Table10D-rule-1_en: After the article _an_ when a feminine singular noun (and masculine singular noun in the Lenition System) is in the nominative or dative and starts with _s_ + _vowel_ or _sl-_, _sn-_, _sr-_; and when a masculine singular noun in the genitive starts with _s_ + _vowel_ or _sl-_, _sn-_, _sr-_ (10.10.1)
 
-:Table10C-rule-1_ga: TODO
-:Table10C-rule-1_en: TODO
+:10-16-p5_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear _h_ roimh ghuta ag tús ainmfhocail, aidiachta, dobhriathair, forainmnigh nó briathair.
+:10-16-p5_en: As a reference aid, a summary is given here of the cases in which _h_ is put before a vowel at the start of a noun, adjective, adverb, pronominal or verb.
 
-:10-16-p4_ga: TODO
-:10-16-p4_en: TODO
+:Table10E-caption_ga: Achoimre ar _h_ roimh Ghuta
+:Table10E-caption_en: Summary of _h_ before a Vowel
 
-:Table10D-caption_ga: TODO
-:Table10D-caption_en: TODO
+:Table10E-header_ga: _h_ Roimh Ghuta
+:Table10E-header_en: _h_ Before a Vowel
 
-:Table10D-header_ga: TODO
-:Table10D-header_en: TODO
+:Table10E-noun-header_ga: Cuirtear _h_ roimh ghuta ag tús ainmfhocail sna cásanna seo a leanas:
+:Table10E-noun-header_en: _h_ is placed before a vowel at the start of a noun in the following cases: 
 
-:Table10D-noun-header_ga: TODO
-:Table10D-noun-header_en: TODO
+:Table10E-rule-1_ga: I ndiaidh an ailt _na_ sa ghinideach uatha baininscneach agus san ainmneach iolra agus sa tabharthach iolra (10.11.1) 
+:Table10E-rule-1_en: After the article _na_ in the genitive feminine singular and in the nominative plural and in the dative plural (10.11.1) 
 
-:Table10D-rule-1_ga: TODO
-:Table10D-rule-1_en: TODO
+:Table10E-rule-2_ga: I ndiaidh na n-orduimhreacha (ach amháin _céad_) (10.11.2(a)) 
+:Table10E-rule-2_en: After the ordinal numbers (except _céad_) (10.11.2(a)) 
 
-:10-16-p5_ga: TODO
-:10-16-p5_en: TODO
+:Table10E-rule-3_ga: I ndiaidh na mbunuimhreacha _trí_, _ceithre_, _cúig_, _sé_ i gcás _uaire_ (10.11. 2(b)) 
+:Table10E-rule-3_en: After the cardinal numbers _trí_, _ceithre_, _cúig_, _sé_ for _uaire_ (10.11. 2(b)) 
 
-:Table10E-caption_ga: TODO
-:Table10E-caption_en: TODO
+:Table10E-rule-4_ga: I ndiaidh _le_ agus _go_ (nuair is _go dtí_ is ciall le _go_) (10.11.3)
+:Table10E-rule-4_en: After _le_ and _go_ (when _go_ means _go dtí_) (10.11.3)
 
-:Table10E-header_ga: TODO
-:Table10E-header_en: TODO
+:Table10E-rule-5_ga: I ndiaidh an fhorainmnigh cheistigh _cá_ (10.11.4) 
+:Table10E-rule-5_en: After the interrogative pronoun _cá_ (10.11.4) 
 
-:Table10E-noun-header_ga: TODO
-:Table10E-noun-header_en: TODO
+:Table10E-rule-6_ga: I ndiaidh _Ó_ i sloinnte (10.11.5) 
+:Table10E-rule-6_en: After _Ó_ in surnames (10.11.5) 
 
-:Table10E-rule-1_ga: TODO
-:Table10E-rule-1_en: TODO
+:Table10E-rule-7_ga: I ndiaidh _Dé_ in _Dé hAoine_ (10.11.6) 
+:Table10E-rule-7_en: After _Dé_ in _Dé hAoine_ (10.11.6) 
 
-:Table10E-rule-2_ga: TODO
-:Table10E-rule-2_en: TODO
+:Table10E-rule-8_ga: I ndiaidh na haidiachta sealbhaí _a_, tríú pearsa uatha baininscneach (10.11.7) 
+:Table10E-rule-8_en: After the Possessive Adjective _a_, third person femininte singular (10.11.7) 
 
-:Table10E-rule-3_ga: TODO
-:Table10E-rule-3_en: TODO
+:Table10E-rule-9_ga: I ndiaidh _ní_ (foirm dhiúltach, aimsir láithreach den chopail) ar na hainmfhocail _áibhéil_, _áil_, _éigean_, _eol_, _ionadh_, _iontas_, _ualach_, sna frásaí copaile réamhfhoclacha _acmhainn do_, _aitheanta do_, _aithnid do_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _áil le_ agus i gcorr-sheanfhocal (10.11.8)
+:Table10E-rule-9_en: After _ní_ (negative, present tense form of the copula) on the nouns _áibhéil_, _áil_, _éigean_, _eol_, _ionadh_, _iontas_, _ualach_, int the copular prepositional phrases _acmhainn do_, _aitheanta do_, _aithnid do_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _áil le_ and in the odd proverb (10.11.8)
 
-:Table10E-rule-4_ga: TODO
-:Table10E-rule-4_en: TODO
+:Table10E-adjective-header_ga: Cuirtear _h_ roimh ghuta ag tús aidiachta agus dobhriathair sna cásanna seo a leanas:
+:Table10E-adjective-header_en: _h_ is placed before a vowel at the start of an adverb in the following cases: 
 
-:Table10E-rule-5_ga: TODO
-:Table10E-rule-5_en: TODO
+:Table10E-adjective-rule-1_ga: I ndiaidh _chomh_, _go_, _le_ (10.12.1) 
+:Table10E-adjective-rule-1_en: After _chomh_, _go_, _le_ (10.12.1) 
 
-:Table10E-rule-6_ga: TODO
-:Table10E-rule-6_en: TODO
+:Table10E-adjective-rule-2_ga: I ndiaidh _ní_ (foirm dhiúltach, aimsir láithreach den chopail) ar na haidiachtaí _amháin_, _aon_, _ionann_, _iondúil_, sna frásaí copaile réamhfhoclacha _eagal do_/_le_, _oircheas do_, agus ar na dobhriathra _amhlaidh_, _annamh_ (10.12.2)
+:Table10E-adjective-rule-2_en: After _ní_ (negative, present tense form of the copula) on the adjectives _amháin_, _aon_, _ionann_ and _iondúil_, in the copular prepositional phrases _eagal do_/_le_, _oircheas do_, and on the adverbs _amhlaidh_ and _annamh_ (10.12.2)
 
-:Table10E-rule-7_ga: TODO
-:Table10E-rule-7_en: TODO
+:Table10E-adjective-rule-3_ga: I ndiaidh _a_, _na_ sna huimhreacha (10.12.3) 
+:Table10E-adjective-rule-3_en: After _a_, _na_ in the numbers (10.12.3) 
 
-:Table10E-rule-8_ga: TODO
-:Table10E-rule-8_en: TODO
+:Table10E-pronominal-header_ga: Cuirtear _h_ roimh ghuta ag tús forainmnigh sna cásanna seo a leanas:
+:Table10E-pronominal-header_en: _h_ is placed before a vowel at the start of a pronominal in the following cases: 
 
-:Table10E-rule-9_ga: TODO
-:Table10E-rule-9_en: TODO
+:Table10E-pronominal-rule-1_ga: I ndiaidh _cé_, _ní_ ar na forainmnigh phearsanta _é_, _ea_, _í_, _iad_ (10.13.1)
+:Table10E-pronominal-rule-1_en: After _cé_, _ní_ on the personal pronominals _é_, _ea_, _í_, _iad_ (10.13.1)
 
-:Table10E-adjective-header_ga: TODO
-:Table10E-adjective-header_en: TODO
+:Table10E-pronominal-rule-2_ga: I ndiaidh _ní_ ar na forainmnigh thaispeántacha _éard_, _eo_, _in_, _iúd_ (10.13.2)
+:Table10E-pronominal-rule-2_en: After _ní_ on the demonstrative pronominals _éard_, _eo_, _in_, _iúd_ (10.13.2)
 
-:Table10E-adjective-rule-1_ga: TODO
-:Table10E-adjective-rule-1_en: TODO
+:Table10E-pronominal-rule-3_ga: I ndiaidh _le_ ar na forainmnigh phearsanta _é_, _í_, _iad_ (10.13.3) 
+:Table10E-pronominal-rule-3_en: After _le_ on the personal pronominals _é_, _í_, _iad_ (10.13.3) 
 
-:Table10E-adjective-rule-2_ga: TODO
-:Table10E-adjective-rule-2_en: TODO
+:Table10E-verb-header_ga: Cuirtear _h_ roimh ghuta ag tús briathair sna cásanna seo a leanas:
+:Table10E-verb-header_en: _h_ is placed before a vowel at the start of a verb in the following cases: 
 
-:Table10E-adjective-rule-3_ga: TODO
-:Table10E-adjective-rule-3_en: TODO
+:Table10E-verb-rule-1_ga: I ndiaidh _ná_ sa mhodh ordaitheach (10.14.1) 
+:Table10E-verb-rule-1_en: After _ná_ in the imperative mood (10.14.1)
 
-:Table10E-pronominal-header_ga: TODO
-:Table10E-pronominal-header_en: TODO
+:10-16-p6_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear _d'_ roimh ghuta nó _fh-_ ag tús briathair.
+:10-16-p6_en: As a reference aid, a summary is given here of the cases in which _d'_ is placed before a vowel or _fh-_ at the start of a verb.
 
-:Table10E-pronominal-rule-1_ga: TODO
-:Table10E-pronominal-rule-1_en: TODO
+:Table10F-caption_ga: Achoimre ar _d'_ roimh Ghuta nó _fh_
+:Table10F-caption_en: Smmary of _d'_ before a Vowel or _fh_
 
-:Table10E-pronominal-rule-2_ga: TODO
-:Table10E-pronominal-rule-2_en: TODO
+:Table10F-header_ga: _d'_ roimh Ghuta nó _fh_
+:Table10F-header_en: _d'_ before a Vowel or _fh_
 
-:Table10E-pronominal-rule-3_ga: TODO
-:Table10E-pronominal-rule-3_en: TODO
+:Table10F-verb-header_ga: Cuirtear _d'_ roimh ghuta nó _fh-_ ag tús briathair sna cásanna seo a leanas:
+:Table10F-verb-header_en: _d'_ is placed before a vowel or _fh-_ at the start of a verb in the following cases:
 
-:Table10E-verb-header_ga: TODO
-:Table10E-verb-header_en: TODO
+:Table10F-verb-rule-1_ga: San aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach san áit a mbeadh séimhiú ar chonsan (10.15)
+:Table10F-verb-rule-1_en: In the past tense, in the past habitual tense and in the conditional mood in the place where there would be a lenition of a consonant (10.15)
 
-:Table10E-verb-rule-1_ga: TODO
-:Table10E-verb-rule-1_en: TODO
+// (?<= )[^aeiou](?= )|(?<=e.g., |; ).*?(?=([;,:.]| \())

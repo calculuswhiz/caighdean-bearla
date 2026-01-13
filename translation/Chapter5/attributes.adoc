@@ -115,7 +115,7 @@
 
 :5-1-7-p_ga: Is í an fhoirm neamhspleách an fhoirm den bhriathar a úsáidtear i bpríomhchlásal ráiteasach dearfach, e.g., _bhí mé_; _ceannóidh sé_; _mholfadh sí_. Mura bhfuil a mhalairt ráite, is í an fhoirm neamhspleách a thugtar sa réimniú sa chuid eile den chaibidil seo, ach amháin sa Mhodh Foshuiteach Láithreach.
 // ráiteasach - Not found in FGB. Appears to me "declarative". Root word being "ráite" as past particle of "abair"
-:5-1-7-p_en: The independent form is the form of the verb used in a positive declarative principal clause, e.g., _bhí mé_; _ceannóidh sé_; _mholfadh sí_. Unless otherwise stated, it is the independent form that is given in the conjugations in the rest of this chapter, except in the Present Subjunctive Mood.
+:5-1-7-p_en: The independent form is the form of the verb used in an affirmative declarative principal clause, e.g., _bhí mé_; _ceannóidh sé_; _mholfadh sí_. Unless otherwise stated, it is the independent form that is given in the conjugations in the rest of this chapter, except in the Present Subjunctive Mood.
 
 :5-1-8-title_ga: An Fhoirm Spleách
 :5-1-8-title_en: The Dependent Form
@@ -395,7 +395,7 @@
 :Table5P-caption_en: The Irregular Verbs — Conjugation of the Verb _bí_
 
 :PositiveIndependent_ga: Neamhspleách Dearfach
-:PositiveIndependent_en: Positive Independent
+:PositiveIndependent_en: Affirmative Independent
 
 :NegativeIndependent_ga: Neamhspleách Diúltach
 :NegativeIndependent_en: Negative Independent
