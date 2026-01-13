@@ -1893,5 +1893,3 @@
 
 :Table10F-verb-rule-1_ga: San aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach san áit a mbeadh séimhiú ar chonsan (10.15)
 :Table10F-verb-rule-1_en: In the past tense, in the past habitual tense and in the conditional mood in the place where there would be a lenition of a consonant (10.15)
-
-// (?<= )[^aeiou](?= )|(?<=e.g., |; ).*?(?=([;,:.]| \())
