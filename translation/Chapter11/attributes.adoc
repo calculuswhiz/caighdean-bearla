@@ -324,7 +324,7 @@
 :11-3-1-e-sample-4b_en: It is that field *which* we *want* to build a fence between it and the road.
 
 :11-3-1-e-note_ga: Féach freisin an míniú ar chlásal idiraisnéiseach in 11.4, e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
-:11-3-1-e-note_en: See also the explanation of embedded relative clauses in 11.4, e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
+:11-3-1-e-note_en: See also the explanation of parenthetical clauses in 11.4, e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
 
 :11-3-1-f-p_ga: i gcás forainmnigh cheisteacha amhail _cé_, _cad_ (_é_), etc. nuair a dhéantar réamhfhocal simplí, réamhfhocal comhshuite nó forainmneach réamhfhoclach a thabhairt chun tosaigh san abairt chun go dtagann sé go díreach ar lorg an fhorainmnigh cheistigh:
 :11-3-1-f-p_en: in the case of interrogative pronouns such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronoun is brought to the front of the sentence so that it comes directly before the interrogative pronoun:
@@ -398,140 +398,137 @@
 :11-3-1-i-p2_ga: Ach má tá _mar_ in úsáid mar chónasc, is é an clásal coibhneasta díreach a leanann é, e.g., _Sin mar atá cúrsaí_.
 :11-3-1-i-p2_en: But if _mar_ is used as a conjunction, it is followed by a direct relative clause, e.g., _Sin mar atá cúrsaí_.
 
-:11-4-title_ga: TODO
-:11-4-title_en: TODO
+:11-4-title_ga: An Clásal Idiraisnéiseach
+:11-4-title_en: The Parenthetical Clause
 
-:11-4-1-p_ga: TODO
-:11-4-1-p_en: TODO
+:11-4-1-p_ga: Is clásal é _clásal idiraisnéiseach_ ina dtugtar faisnéis faoin gclásal a thagann ina dhiaidh gan cur isteach ar mhúnla na habairte. Má bhaintear an clásal idiraisnéiseach den abairt, tá sí fós slán ó thaobh céille agus gramadaí de.
+:11-4-1-p_en: A _parenthetical clause_ is a clause that provides information about the clause that follows it without interrupting the structure of the sentence. If the parenthetical clause is removed from the sentence, it remains intact in terms of sense and grammar.
 
-:11-4-2-p_ga: TODO
-:11-4-2-p_en: TODO
+:11-4-2-p_ga: Briathra a úsáidtear chun tuairim nó caint a chur in iúl, e.g., _abair_, _ceap_, _maígh_, _síl_, etc., is mó a bhíonn i gclásail idiraisnéiseacha.
+:11-4-2-p_en: Verbs used to express opinion or speech, e.g., _abair_, _ceap_, _maígh_, _síl_, etc., are most commonly found in parenthetical clauses.
 
-:11-4-2-note_ga: TODO
-:11-4-2-note_en: TODO
+:11-4-2-note_ga: Féach freisin 11.3.1(e) le haghaidh míniú ar chásanna ina ndéantar tagairt don réamhtheachtaí i gclásal briathartha atá faoi réir ag an mbriathar sa chlásal coibhneasta, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
+:11-4-2-note_en: See also 11.3.1(e) for an explanation of cases where the antecedent is referred to in a verbal clause that is subordinate to the verb in the relative clause, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
 
-:11-4-3-p_ga: TODO
-:11-4-3-p_en: TODO
+:11-4-3-p_ga: Is clásal díreach an clásal idiraisnéiseach, ach féadfaidh an clásal ar a lorg a bheith díreach nó indíreach ag brath ar mhúnla na habairte.
+:11-4-3-p_en: The parenthetical clause is a direct clause, but the clause it refers to can be either direct or indirect depending on the structure of the sentence.
 
-:Table_ga: TODO
-:Table_en: TODO
+:Table11A-caption_ga: An Clásal Idiraisnéiseach
+:Table11A-caption_en: The Parenthetical Clause
 
-:Table11A-caption_ga: TODO
-:Table11A-caption_en: TODO
+:Table11A-header_ga: An Clásal Idiraisnéiseach
+:Table11A-header_en: The Parenthetical Clause
 
-:Table11A-header_ga: TODO
-:Table11A-header_en: TODO
+:Table11A-col1_ga: An dara clásal ina chlásal coibhneasta díreach
+:Table11A-col1_en: The second clause in a direct relative clause
 
-:Table11A-col1_ga: TODO
-:Table11A-col1_en: TODO
+:Table11A-col2_ga: An dara clásal ina chlásal coibhneasta indíreach
+:Table11A-col2_en: The second clause in an indirect relative clause
 
-:Table11A-col2_ga: TODO
-:Table11A-col2_en: TODO
+:Table11A-row1-col1_ga: Ba dhuine í *a cheap mé* a chonaic mé cheana. 
+:Table11A-row1-col1_en: She was the person *whom I thought* I had seen before.
 
-:Table11A-row1-col1_ga: TODO
-:Table11A-row1-col1_en: TODO
+:Table11A-row1-col2_ga: Cén fáth a cheapann tú *a ndeachaigh siad* ann?
+:Table11A-row1-col2_en: Why do you think *they went* there?
 
-:Table11A-row1-col2_ga: TODO
-:Table11A-row1-col2_en: TODO
+:Table11A-row2-col1_ga: Cad *a shíleann tú* a tharlóidh di? 
+:Table11A-row2-col1_en: What *do you think* will happen to her?
 
-:Table11A-row2-col1_ga: TODO
-:Table11A-row2-col1_en: TODO
+:Table11A-row2-col2_ga: Cén chaoi *is dóigh leat* ar tharla a leithéid?
+:Table11A-row2-col2_en: How *do you think* such a thing happened?
 
-:Table11A-row2-col2_ga: TODO
-:Table11A-row2-col2_en: TODO
+:Table11A-row3-col1_ga: Chaith sé éadaí *nár mheas mé* a chaithfeadh sé go deo. 
+:Table11A-row3-col1_en: He wore clothes *that I didn't think* he would ever wear.
 
-:Table11A-row3-col1_ga: TODO
-:Table11A-row3-col1_en: TODO
+:Table11A-row3-col2_ga: Cén dóigh *a mheasann tú* a ndéanfar an obair sin?
+:Table11A-row3-col2_en: How *do you think* that work will be done?
 
-:Table11A-row3-col2_ga: TODO
-:Table11A-row3-col2_en: TODO
+:11-4-3-note_ga: Is féidir clásal díreach nó indíreach a úsáid i roinnt cásanna, e.g., _Fuair mé é in áit ar mheas mé a gheobhainn é_ seachas _Fuair mé é in áit a mheas mé a bhfaighinn é_.
+:11-4-3-note_en: A direct or indirect clause can be used in some cases, e.g., _Fuair mé é in áit ar mheas mé a gheobhainn é_ rather than _Fuair mé é in áit a mheas mé a bhfaighinn é_.
 
-:11-4-3-note_ga: TODO
-:11-4-3-note_en: TODO
+:11-5-title_ga: An Clásal Breischéime
+:11-5-title_en: The Comparative Degree Clause
 
-:11-5-title_ga: TODO
-:11-5-title_en: TODO
+:11-5-1-p_ga: Is clásal dar múnla an chopail agus breischéim aidiachta _clásal breischéime_. Má bhaintear an clásal breischéime den abairt, tá sí fós slán ó thaobh céille agus gramadaí de.
+:11-5-1-p_en: A clause following the copula and an adjective in the comparative degree is a _comparative degree clause_. If the comparative degree clause is removed from the sentence, it remains intact in terms of sense and grammar.
 
-:11-5-1-p_ga: TODO
-:11-5-1-p_en: TODO
+:11-5-2-p_ga: Is clásal díreach an clásal breischéime, ach féadfaidh an clásal ar a lorg a bheith díreach nó indíreach ag brath ar mhúnla na habairte.
+:11-5-2-p_en: The comparative degree clause is a direct clause, but the clause it refers to can be either direct or indirect depending on the structure of the sentence.
 
-:11-5-2-p_ga: TODO
-:11-5-2-p_en: TODO
+:Table11B-caption_ga: An Clásal Breischéime
+:Table11B-caption_en: The Comparative Degree Clause
 
-:Table11B-caption_ga: TODO
-:Table11B-caption_en: TODO
+:Table11B-header_ga: An Clásal Breischéime
+:Table11B-header_en: The Comparative Degree Clause
 
-:Table11B-header_ga: TODO
-:Table11B-header_en: TODO
+:Table11B-col1_ga: An dara clásal ina chlásal coibhneasta díreach 
+:Table11B-col1_en: The second clause in a direct relative clause
 
-:Table11B-col1_ga: TODO
-:Table11B-col1_en: TODO
+:Table11B-col2_ga: An dara clásal ina chlásal coibhneasta indíreach
+:Table11B-col2_en: The second clause in an indirect relative clause
 
-:Table11B-col2_ga: TODO
-:Table11B-col2_en: TODO
+:Table11B-row1-col1_ga: Sin (iad) na ceisteanna *is minice* a chuirtear. 
+:Table11B-row1-col1_en: Those are the questions that are asked *most often*.
 
-:Table11B-row1-col1_ga: TODO
-:Table11B-row1-col1_en: TODO
+:Table11B-row1-col2_ga: Is í an tUachtarán an duine *is cáiliúla* ar bhuail mé léi.
+:Table11B-row1-col2_en: She is the *most famous* person I have met.
 
-:Table11B-row1-col2_ga: TODO
-:Table11B-row1-col2_en: TODO
+:Table11B-row2-col1_ga: Ba é an rud *ba mhó* é a theastaigh uaithi. 
+:Table11B-row2-col1_en: It was the thing that she wanted *most*.
 
-:Table11B-row2-col1_ga: TODO
-:Table11B-row2-col1_en: TODO
+:Table11B-row2-col2_ga: Cá háit *is fusa* a n-eagrófar an cheolchoirm?
+:Table11B-row2-col2_en: Where is it *easiest* to organise the concert?
 
-:Table11B-row2-col2_ga: TODO
-:Table11B-row2-col2_en: TODO
+:Table11B-row3-col1_ga: Sin (é) an t-amhrán *is fearr* a thaitin liom. 
+:Table11B-row3-col1_en: That is the song I liked *best*.
 
-:Table11B-row3-col1_ga: TODO
-:Table11B-row3-col1_en: TODO
+:Table11B-row3-col2_ga: Is é sin an chaoi *is gasta* a ndéanfar é.
+:Table11B-row3-col2_en: That is the way it will be done *fastest*.
 
-:Table11B-row3-col2_ga: TODO
-:Table11B-row3-col2_en: TODO
+:11-5-2-note_ga: Féadfaidh clásal idiraisnéiseach agus clásal breischéime a bheith in aon abairt amháin, e.g., _Ba é an banna ceoil ba cháiliúla a shíleann sé a bhainistigh an gnólacht sin riamh_.
+:11-5-2-note_en: A parenthetical clause and a comparative degree clause can be in the same sentence, e.g., _Ba é an banna ceoil ba cháiliúla a shíleann sé a bhainistigh an gnólacht sin riamh_.
 
-:11-5-2-note_ga: TODO
-:11-5-2-note_en: TODO
+:11-6-title_ga: An Mhír Choibhneasta -- Foirmeacha
+:11-6-title_en: The Relative Particle -- Forms
 
-:11-6-title_ga: TODO
-:11-6-title_en: TODO
+:11-6-1-title_ga: An Mhír Choibhneasta Dheimhneach
+:11-6-1-title_en: The Affirmative Relative Particle
 
-:11-6-1-title_ga: TODO
-:11-6-1-title_en: TODO
+:11-6-1-a-title_ga: An Clásal Coibhneasta Díreach
+:11-6-1-a-title_en: The Direct Relative Clause
 
-:11-6-1-a-title_ga: TODO
-:11-6-1-a-title_en: TODO
+:11-6-1-a-i-p_ga: Más clásal coibhneasta díreach atá ann, is é _a_ an fhoirm den mhír choibhneasta a úsáidtear roimh na briathra rialta agus neamhrialta i ngach aimsir (seachas i gcás aimsir láithreach an bhriathair _bí_ -- féach (ii) thíos). Séimhítear an briathar i ndiaidh na míre coibhneasta dírí _a_ ach amháin i gcás an tsaorbhriathair, aimsir chaite (ach féach 11.7.1(b)).
+:11-6-1-a-i-p_en: If it is a direct relative clause, _a_ is the form of the relative particle used before regular and irregular verbs in all tenses (except in the present tense of the verb _bí_ -- see (ii) below). The verb is lenited after the direct relative particle _a_ except in the case of the past participle (but see 11.7.1(b)).
 
-:11-6-1-a-i-p_ga: TODO
-:11-6-1-a-i-p_en: TODO
+:11-6-1-a-i-sample-1_ga: Sin é an stáisiún raidió *a* chraolann cláir do leanaí.
+:11-6-1-a-i-sample-1_en: That is the radio station *that* broadcasts programs for children.
 
-:11-6-1-a-i-sample-1_ga: TODO
-:11-6-1-a-i-sample-1_en: TODO
+:11-6-1-a-i-sample-2_ga: Cén uair *a* chraolfar an clár?
+:11-6-1-a-i-sample-2_en: When *will* the program be broadcast?
 
-:11-6-1-a-i-sample-2_ga: TODO
-:11-6-1-a-i-sample-2_en: TODO
+:11-6-1-a-i-sample-3_ga: D'éirigh leo stáisiún raidió *a* chraolfadh popcheol *a* bhunú.
+:11-6-1-a-i-sample-3_en: They managed to establish a radio station *that* would broadcast pop music.
 
-:11-6-1-a-i-sample-3_ga: TODO
-:11-6-1-a-i-sample-3_en: TODO
+:11-6-1-a-i-sample-4_ga: Nach í sin an tsraith *a* chraoltaí gach maidin?
+:11-6-1-a-i-sample-4_en: Isn't that the series *that* is broadcast every morning?
 
-:11-6-1-a-i-sample-4_ga: TODO
-:11-6-1-a-i-sample-4_en: TODO
+:11-6-1-a-i-sample-5_ga: Is é sin an clár *a* chraol siad inné.
+:11-6-1-a-i-sample-5_en: That is the program *that* they broadcast yesterday.
 
-:11-6-1-a-i-sample-5_ga: TODO
-:11-6-1-a-i-sample-5_en: TODO
+:11-6-1-a-i-sample-6_ga: An í sin an bhean *a* théann go dtí na cluichí go léir?
+:11-6-1-a-i-sample-6_en: Is that the woman *who* goes to all the matches?
 
-:11-6-1-a-i-sample-6_ga: TODO
-:11-6-1-a-i-sample-6_en: TODO
+:11-6-1-a-i-sample-7_ga: Sin é an bus *a* rachaidh go dtí an staid pheile.
+:11-6-1-a-i-sample-7_en: That is the bus *that* will go to the football stadium.
 
-:11-6-1-a-i-sample-7_ga: TODO
-:11-6-1-a-i-sample-7_en: TODO
+:11-6-1-a-i-sample-8_ga: Sin í an bhean *a* rachadh go dtí an cluiche dá bhféadfadh sí.
+:11-6-1-a-i-sample-8_en: That is the woman *who* would go to the match if she could.
 
-:11-6-1-a-i-sample-8_ga: TODO
-:11-6-1-a-i-sample-8_en: TODO
+:11-6-1-a-i-sample-9_ga: Nach é sin an fear *a* théadh go dtí na cluichí go léir?
+:11-6-1-a-i-sample-9_en: Is that not the man *who* would go to all the matches?
 
-:11-6-1-a-i-sample-9_ga: TODO
-:11-6-1-a-i-sample-9_en: TODO
-
-:11-6-1-a-i-sample-10_ga: TODO
-:11-6-1-a-i-sample-10_en: TODO
+:11-6-1-a-i-sample-10_ga: Sin í an bhean *a* chuaigh go dtí an staid pheile.
+:11-6-1-a-i-sample-10_en: That is the woman *who* went to the football stadium.
 
 :11-6-1-a-ii-p_ga: TODO
 :11-6-1-a-ii-p_en: TODO
