@@ -237,7 +237,7 @@ const a=`= Chapter 11 | {chapterTitle}
 *Note:* {11-3-1-e-note}
 
 . {11-3-1-f-p}
-
++
 [.samplebox]
 [cols="1,1"]
 |===

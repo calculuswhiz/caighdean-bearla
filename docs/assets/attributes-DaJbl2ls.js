@@ -347,56 +347,56 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :11-3-1-f-sample-3b_ga: Cé *leis a raibh* tú ag caint?
 :11-3-1-f-sample-3b_en: Who *was it to whom* you *were* talking?
 
-:11-3-1-g-p_ga: TODO
-:11-3-1-g-p_en: TODO
+:11-3-1-g-p_ga: nuair is dobhriathar ama ar nós _an tráth_, _an t-am_, etc. an réamhtheachtaí, is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh (úsáidtear an clásal coibhneasta díreach i ndiaidh _nuair_ agus _uair_ i gcónaí, féach 11.2.1(d)):
+:11-3-1-g-p_en: when a temporal adverb such as _an tráth_, _an t-am_, etc. is the antecedent, an indirect relative clause can be used instead of a direct relative clause (a direct relative clause is always used after _nuair_ and _uair_, see 11.2.1(d)):
 
-:11-3-1-g-sample-1_ga: TODO
-:11-3-1-g-sample-1_en: TODO
+:11-3-1-g-sample-1_ga: An bhfuil a fhios agat cén tráth *a bhfoilseofar* é?
+:11-3-1-g-sample-1_en: Do you know the time *when* it *will be published*?
 
-:11-3-1-g-sample-2_ga: TODO
-:11-3-1-g-sample-2_en: TODO
+:11-3-1-g-sample-2_ga: An cuimhin leat an lá *ar thit* an crann?
+:11-3-1-g-sample-2_en: Do you remember the day *when* the tree *fell*?
 
-:11-3-1-g-note_ga: TODO
-:11-3-1-g-note_en: TODO
+:11-3-1-g-note_ga: Is féidir an clásal coibhneasta díreach a úsáid in ionad an chlásail choibhneasta indírigh i gcás na ndobhriathra ama freisin, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (féach 11.2.1(e)).
+:11-3-1-g-note_en: A direct relative clause can also be used instead of an indirect relative clause in the case of temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (see 11.2.1(e)).
 
-:11-3-1-h-p_ga: TODO
-:11-3-1-h-p_en: TODO
+:11-3-1-h-p_ga: más ceann de na focail _áit_, _bealach_, _caoi_, _cúis_, _dóigh_, _fáth_, _réasún_, _slí_ nó _treo_ (nó focal a bhfuil an bhrí chéanna leis) an réamhtheachtaí agus má tá sé ag feidhmiú mar dhobhriathar atá ag cáiliú an bhriathair sa chlásal coibhneasta:
+:11-3-1-h-p_en: if one of the words _áit_, _bealach_, _caoi_, _cúis_, _dóigh_, _fáth_, _réasún_, _slí_ or _treo_ (or a word with the same meaning) is the antecedent and it is functioning as an adverb qualifying the verb in the relative clause:
 
-:11-3-1-h-sample-1_ga: TODO
-:11-3-1-h-sample-1_en: TODO
+:11-3-1-h-sample-1_ga: Sin é an tslí *a ndearnadh* é.
+:11-3-1-h-sample-1_en: That is the way *in which* it *was done*.
 
-:11-3-1-h-sample-2_ga: TODO
-:11-3-1-h-sample-2_en: TODO
+:11-3-1-h-sample-2_ga: Cén chaoi *a bhfuil* tú?
+:11-3-1-h-sample-2_en: How *are* you?
 
-:11-3-1-h-sample-3_ga: TODO
-:11-3-1-h-sample-3_en: TODO
+:11-3-1-h-sample-3_ga: Cad é an dóigh *ar briseadh* é?
+:11-3-1-h-sample-3_en: What is the way *in which* it *was broken*?
 
-:11-3-1-h-sample-4_ga: TODO
-:11-3-1-h-sample-4_en: TODO
+:11-3-1-h-sample-4_ga: Sin é an chúis *ar tháinig* mé.
+:11-3-1-h-sample-4_en: That is the reason why I *came*.
 
-:11-3-1-h-sample-5_ga: TODO
-:11-3-1-h-sample-5_en: TODO
+:11-3-1-h-sample-5_ga: Cén fáth *ar imigh* siad?
+:11-3-1-h-sample-5_en: Why *did* they *leave*?
 
-:11-3-1-h-sample-6_ga: TODO
-:11-3-1-h-sample-6_en: TODO
+:11-3-1-h-sample-6_ga: Cé na háiteanna *a ndeachaigh* sibh?
+:11-3-1-h-sample-6_en: Which places *did* you *go to*?
 
-:11-3-1-h-note_ga: TODO
-:11-3-1-h-note_en: TODO
+:11-3-1-h-note_ga: Ní mór clásal díreach a úsáid in abairtí ina bhfuil focal den sórt sin ina chuspóir díreach ag an mbriathar, mar seo a leanas: _Seo an áit is deise; Cad é an áit a cheannaigh sé?_; _Ar chuala tú an fáth a thug sí?_; _An maith leat an chaoi atáim a chur ar an seomra?_
+:11-3-1-h-note_en: A direct clause must be used in sentences where such a word is the direct object of the verb, as in the following: _Seo an áit is deise; Cad é an áit a cheannaigh sé?_; _Ar chuala tú an fáth a thug sí?_; _An maith leat an chaoi atáim a chur ar an seomra?_
 
-:11-3-1-i-p1_ga: TODO
-:11-3-1-i-p1_en: TODO
+:11-3-1-i-p1_ga: nuair atá _mar_ ag feidhmiú mar dhobhriathar agus an bhrí _áit_ leis:
+:11-3-1-i-p1_en: when _mar_ is functioning as an adverb with the meaning of _place_:
 
-:11-3-1-i-sample-1_ga: TODO
-:11-3-1-i-sample-1_en: TODO
+:11-3-1-i-sample-1_ga: Sin an leabharlann dhigiteach nua, *mar* a gcuirtear áiseanna taighde ar fáil do mhic léinn.
+:11-3-1-i-sample-1_en: That is the new digital library, *where* research facilities are provided for students.
 
-:11-3-1-i-sample-2_ga: TODO
-:11-3-1-i-sample-2_en: TODO
+:11-3-1-i-sample-2_ga: Gheobhaidh tú san oifig í, *mar* a mbíonn sí gach oíche.
+:11-3-1-i-sample-2_en: You will find her in the office, *where* she is every night.
 
-:11-3-1-i-sample-3_ga: TODO
-:11-3-1-i-sample-3_en: TODO
+:11-3-1-i-sample-3_ga: Ceadófar achomhairc a dhéanamh, ach amháin *mar* a bhforáiltear a mhalairt.
+:11-3-1-i-sample-3_en: Appeals will be allowed, except *where* the contrary is provided.
 
-:11-3-1-i-p2_ga: TODO
-:11-3-1-i-p2_en: TODO
+:11-3-1-i-p2_ga: Ach má tá _mar_ in úsáid mar chónasc, is é an clásal coibhneasta díreach a leanann é, e.g., _Sin mar atá cúrsaí_.
+:11-3-1-i-p2_en: But if _mar_ is used as a conjunction, it is followed by a direct relative clause, e.g., _Sin mar atá cúrsaí_.
 
 :11-4-title_ga: TODO
 :11-4-title_en: TODO
