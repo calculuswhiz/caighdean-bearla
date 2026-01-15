@@ -1,4 +1,4 @@
-:chapterTitle_ga: An Clásal Coibhneasta
+const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :chapterTitle_en: The Relative Clause
 
 :11-1-title_ga: Ginearálta
@@ -961,3 +961,4 @@
 
 :Table11G-header2_ga: TODO
 :Table11G-header2_en: TODO
+`;export{a as default};

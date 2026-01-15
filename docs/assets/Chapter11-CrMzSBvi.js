@@ -1,4 +1,4 @@
-= Chapter 11 | {chapterTitle}
+const a=`= Chapter 11 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -864,3 +864,4 @@ a| . Chuaigh mé go dtí an siopa éadaí mar a ndíoltar geansaithe áille olla
 . Sin é teach m'aintín mar ar mhinic mo chuairt.
 
 |===
+`;export{a as default};
