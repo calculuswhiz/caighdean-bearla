@@ -55,10 +55,10 @@
 :5-1-2-p_en: The First Conjugation applies to:
 
 :5-1-2-a-p_ga: briathra ó fhréamhacha aonsiollacha, e.g., _bog_, _bris_, _caith_, _mol_, lena n-áirítear briathra a chríochnaíonn ar _-igh_, e.g., _breoigh_, _clóigh_, _cráigh_, _iaigh_, _luaigh_, _reoigh_, _sáigh_;
-:5-1-2-a-p_en: verbs of monosyllabic roots, e.g. _bog_, _bris_, _caith_, _mol_, including verbs ending in _igh_, e.g., _breoigh_, _clóigh_, _cráigh_, _iaigh_, _luaigh_, _reoigh_, _sáigh_;
+:5-1-2-a-p_en: verbs of monosyllabic roots, e.g., _bog_, _bris_, _caith_, _mol_, including verbs ending in _igh_, e.g., _breoigh_, _clóigh_, _cráigh_, _iaigh_, _luaigh_, _reoigh_, _sáigh_;
 
 :5-1-2-b-p_ga: briathra ó fhréamhacha ilsiollacha a chríochnaíonn ar _-áil_, e.g., _sábháil_, _tarrtháil_, agus roinnt briathra ilsiollacha ar leith, e.g., _adhlaic_, _ceiliúir_, _gearán_, _seachaid_, _taispeáin_, _tíolaic_.
-:5-1-2-b-p_en: verbs of monosyllabic roots ending in _áil_, e.g. _sábháil_, _tarrtháil_, and some particular polysyllabic verbs, e.g. _adhlaic_, _ceiliúir_, _gearán_, _seachaid_, _taispeáin_, _tíolaic_.
+:5-1-2-b-p_en: verbs of monosyllabic roots ending in _áil_, e.g., _sábháil_, _tarrtháil_, and some particular polysyllabic verbs, e.g., _adhlaic_, _ceiliúir_, _gearán_, _seachaid_, _taispeáin_, _tíolaic_.
 
 :5-1-3-p_ga: Baineann leis an Dara Réimniú:
 :5-1-3-p_en: The Second Conjugation applies to:

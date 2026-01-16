@@ -28,7 +28,7 @@
 :10-2-1-p_en: Lenition is applied to the noun after the article (unless the initial consonant is _d_, _t_ or _s_) --
 
 :10-2-1-a-p_ga: san ainmneach uatha baininscneach, e.g., _an chathair_; _an ghloine_; _an fhuascailt_:
-:10-2-1-a-p_en: in the nominative singular feminine, e.g. _an chathair_; _an ghloine_; _an fhuascailt_:
+:10-2-1-a-p_en: in the nominative singular feminine, e.g., _an chathair_; _an ghloine_; _an fhuascailt_:
 
 :10-2-1-a-sample-1_ga: Tá *an bhean* ag canadh.
 :10-2-1-a-sample-1_en: *The woman* is singing.

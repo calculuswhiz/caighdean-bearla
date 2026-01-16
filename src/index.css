@@ -92,22 +92,12 @@
   }
 
   .chapter-1 {
-    &.table-stack > tbody > tr:nth-child(odd) th,
-    & .table-header {
-      @apply bg-blue-950 text-white text-2xl py-1;
-    }
-  
-    &.table-stack table thead th,
-    & .sub-header {
-      @apply bg-cyan-900 text-white py-1;
-    }
-  
-    &.table-stack table tbody th {
-      @apply bg-gray-300 py-1;
-    }
-  
     & thead tr:first-child th {
       @apply bg-blue-950 text-white;
+    }
+
+    & thead tr:nth-of-type(2) th {
+      @apply bg-cyan-900 text-white;
     }
   }
 

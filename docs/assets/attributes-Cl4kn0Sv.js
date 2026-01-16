@@ -337,7 +337,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-8-3-a-p_en: After _dá_ and _a_, regardless of whether they have a proleptic or analeptic(?) function, a form that is the same as the comparative form of the adjective or a form that derives from the comparative or the base form and ends in _-cht_ is usually used.
 
 :4-8-3-b-p_ga: Ní úsáidtear ach foirm amháin i gcás na n-aidiachtaí seo a leanas: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; agus i gcás na leaganacha neamhrialta seo: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_.
-:4-8-3-b-p_en: Only one form is used for the following adjectives: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; and for these irregular forms: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_. (_Translation note_: These are abstract nouns. E.g. _beag_ (_small_) → _laghad_ (_smallness_))
+:4-8-3-b-p_en: Only one form is used for the following adjectives: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; and for these irregular forms: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_. (_Translation note_: These are abstract nouns. e.g., _beag_ (_small_) → _laghad_ (_smallness_))
 
 :4-8-3-c-p_ga: Úsáidtear _méid_ seachas _méad_ i gcásanna áirithe, e.g., _dá mhéad airgead a bhí aici_ ach _a mhéid is indéanta le réasún_; _a mhéid is gá_.
 :4-8-3-c-p_en: _méid_ is used instead of _méid_ in certain cases, e.g., _dá mhéad airgead a bhí aici_ but _a mhéid is indéanta le réasún_; _a mhéid is gá_.

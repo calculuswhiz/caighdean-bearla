@@ -1,0 +1,1 @@
+import{c as e,j as t}from"./index-CPwlR9sp.js";import{C as o}from"./Chapter-lwjay1Rz.js";e.createRoot(document.getElementById("root")).render(t.jsx(o,{number:3,language:"en",onContentReady:()=>{}}));

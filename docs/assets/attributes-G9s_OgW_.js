@@ -1,4 +1,4 @@
-:chapterTitle_ga: AN tALT
+const a=`:chapterTitle_ga: AN tALT
 :chapterTitle_en: THE ARTICLE
 
 :1-1-1_ga: Alt amháin atá sa Ghaeilge -- an t-alt cinnte. Deirtear gur _ainmfhocal cinnte_ ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: _an_ agus _na_. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
@@ -44,7 +44,7 @@
 :1-1-5-f-p1_en: Months and years
 
 :1-1-5-f-p2_ga: Úsáidtear an t-alt leis na míonna _Márta_, _Bealtaine_, _Meitheamh_, _Samhain_ agus _Nollaig_. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha _san Aibreán_.
-:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) agus _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). + \
+:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) agus _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). + \\
 *Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)
 
 :1-1-5-g-p1_ga: Dátaí
@@ -441,3 +441,4 @@ This will (mostly) just be some algebra here...
 
 :nopass-Table1M-caption-start_ga: {Table1J-caption-start}
 :nopass-Table1M-caption-start_en: {Table1J-caption-start}
+`;export{a as default};
