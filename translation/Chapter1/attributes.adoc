@@ -20,10 +20,10 @@
 :1-1-5-a_en: *Official Titles* e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
 
 :1-1-5-b_ga: *Teidil ranna rialtais agus comhlachtaí stáit*, e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
-:1-1-5-b_en: *Titles of Govornment Departments and State Companies* e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
+:1-1-5-b_en: *Titles of Government Departments and State Companies* e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
 
 :1-1-5-c_ga: *Teideal duine roimh ainm dílis*, e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
-:1-1-5-c_en: *Titles of people before a proper noun*, , e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
+:1-1-5-c_en: *Titles of people before a proper noun*, e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
 
 :1-1-5-d-p1_ga: *Féilte*, e.g., _an Nollaig_, _an Cháisc_, _an Carghas_.
 :1-1-5-d-p1_en: *Festivals*, e.g., _an Nollaig_, _an Cháisc_, _an Carghas_.
@@ -44,8 +44,7 @@
 :1-1-5-f-p1_en: Months and years
 
 :1-1-5-f-p2_ga: Úsáidtear an t-alt leis na míonna _Márta_, _Bealtaine_, _Meitheamh_, _Samhain_ agus _Nollaig_. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha _san Aibreán_.
-:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) agus _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). + \
-*Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)
+:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) agus _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)
 
 :1-1-5-g-p1_ga: Dátaí
 :1-1-5-g-p1_en: Dates
@@ -267,7 +266,7 @@
 :1-4-4-NB-p1_en: In addition to the Core System given in this chapter, the following choices are allowed:
 
 :1-4-4-NB-a_ga: urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh _den_ agus _don_, e.g., _den gcrann_, _don bhfear_; nó
-:1-4-4-NB-a_en: eclipsis of the noun (in instead of lenition) following _den_ and _don_, e.g., _den gcrann_, _don bhfear_; or
+:1-4-4-NB-a_en: eclipsis of the noun (instead of lenition) following _den_ and _don_, e.g., _den gcrann_, _don bhfear_; or
 
 :1-4-4-NB-b_ga: urú ar an ainmfhocal (in ionad séimhiú) i ndiaidh _sa_, e.g., _sa bpáirc_, _sa gcarr_.
 :1-4-4-NB-b_en: eclipsis of the noun (instead of lenition) following _sa_, e.g., _sa bpáirc_, _sa gcarr_.
@@ -276,7 +275,7 @@
 :1-5-title_en: The Genitive Singular Case
 
 :1-5-1-p1_ga: Is gnách foirm an ghinidigh a úsáid i gcás go bhfuil an t-ainmfhocal faoi réir ag ceann de na nithe seo a leanas--
-:1-5-1-p1_en: It is customary to use the genitive form in when the noun is governed by the following things--
+:1-5-1-p1_en: It is customary to use the genitive form when the noun is governed by the following things--
 
 :1-5-1-a_ga: ainmfhocal eile:
 :1-5-1-a_en: other nouns:
@@ -370,7 +369,7 @@ This will (mostly) just be some algebra here...
 :1-6-2-title_en: The Dative Plural Case
 
 :1-6-2-p1_ga: Leanann an tuiseal tabharthach na réamhfhocail _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ agus _um_. Déantar cumasc idir an réamhfhocal _i_ agus an t-alt san uimhir iolra: _i_ + _na_ = _sna_. Tá foirm ar leith ar _fara_ agus _le_ roimh an alt san uimhir iolra: _fara_, _fairis_; _le_, _leis_. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.
-:1-6-2-p1_en: The dative plural case follows the prepositions _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. The prepostion _i_ is fused with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara_, _fairis_; _le_, _leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
+:1-6-2-p1_en: The dative plural case follows the prepositions _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. The preposition _i_ is fused with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara_, _fairis_; _le_, _leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
 
 :Table1H-caption_ga: An Tuiseal Tabharthach Iolra
 :Table1H-caption_en: The Dative Plural Case

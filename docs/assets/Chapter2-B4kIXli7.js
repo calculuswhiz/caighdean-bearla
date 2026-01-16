@@ -1,4 +1,4 @@
-= {Chapter} 2 | {chapterTitle}
+const t=`= {Chapter} 2 | {chapterTitle}
 :showtitle:
 :table-caption!:
 
@@ -1605,3 +1605,4 @@ a. *{2-6-2-a-title}*
 ++++
 
 **{Note}**: {2-7-Note}
+`;export{t as default};

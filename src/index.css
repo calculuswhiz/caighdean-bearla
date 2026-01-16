@@ -101,20 +101,7 @@
     }
   }
 
-  .chapter-2 {
-    &.table-stack > tbody > tr:nth-child(odd) th {
-      @apply bg-orange-500 text-white text-2xl py-1;
-    }
-  
-    &.table-stack table thead th,
-    & .sub-header {
-      @apply bg-cyan-900 text-white py-1;
-    }
-  
-    &.table-stack table tbody th {
-      @apply bg-gray-300 py-1;
-    }
-  
+  .chapter-2 {  
     & thead tr:first-child th {
       @apply bg-orange-500 text-white;
     }

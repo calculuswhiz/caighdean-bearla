@@ -1,4 +1,4 @@
-:chapterTitle_ga: AN tAINMFHOCAL
+const a=`:chapterTitle_ga: AN tAINMFHOCAL
 :chapterTitle_en: THE NOUN
 
 :declension-1_ga: An Chéad Díochlaonadh
@@ -736,3 +736,4 @@
 
 :2-7-Note_ga: Tabhair faoi deara go n-úsáidtear seanfhoirm leithleach den fhocal _lá_ sa fhrása seanbhunaithe _ar athló_, e.g., _Tá an Dáil ar athló_.
 :2-7-Note_en: Note that a distinct old form of the word _lá_ is used in the old phrase _ar athló_, e.g., _Tá an Dáil ar athló_.
+`;export{a as default};
