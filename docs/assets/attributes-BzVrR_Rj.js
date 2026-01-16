@@ -231,7 +231,7 @@ const a=`:ChapterTitle_ga: An Forainmneach
 :8-3-6-sample8_en: They are sharp *off their* top.
 
 :8-3-7-p_ga: I gcás na réamhfhocal _de_ agus _do_, déantar cumasc idir an réamhfhocal agus an aidiacht shealbhach sa tríú pearsa, uatha agus iolra, agus sa chéad phearsa iolra mar a leanas:
-:8-3-7-p_en: When a possessive adjective follows the prepositions _de_ and _do_, contraction is done between the preposition and the possessive adjective in the third person singular and plural, and in the first person plural as follows:
+:8-3-7-p_en: When a possessive adjective follows the prepositions _de_ and _do_, fusion is done between the preposition and the possessive adjective in the third person singular and plural, and in the first person plural as follows:
 
 :8-3-7-sample1_en: He removed the hat *from his head*. (_masc._)
 
@@ -320,7 +320,7 @@ const a=`:ChapterTitle_ga: An Forainmneach
 :8-4-p_en: Note that:
 
 :8-4-a-p_ga: Chun treise a léiriú leis na forainmnigh réamhfhoclacha, déantar cumasc idir na forainmneacha réamhfhoclacha agus na hiarmhíreanna _-sa_ (_-se_), _-san_ (_-sean_), _-ne_ , e.g., _agamsa_, _agatsa_, _aigesean_, _aicise_, _againne_, _agaibhse_, _acusan_.
-:8-4-a-p_en: To express emphasis with the prepositional pronominals, contraction is done between the prepositional pronominals and the endings _-sa_ (_-se_), _-san_ (_-sean_), _-ne_, e.g., _agamsa_, _agatsa_, _aigesean_, _aicise_, _againne_, _agaibhse_, _acusan_.
+:8-4-a-p_en: To express emphasis with the prepositional pronominals, fusion is done between the prepositional pronominals and the endings _-sa_ (_-se_), _-san_ (_-sean_), _-ne_, e.g., _agamsa_, _agatsa_, _aigesean_, _aicise_, _againne_, _agaibhse_, _acusan_.
 
 :8-4-b-p_ga: Déantar _-nne_ de _-nn_ + _-ne_, e.g., _againne_, _orainne_, etc., agus cuirtear fleiscín idir dhá _s_, e.g., _as-san_, _leis-sean_, _thairis-sean_.
 :8-4-b-p_en: _-nne_ is formed from _-nn_ + _-ne_, e.g., _againne_, _orainne_, etc., and a hyphen is placed between the two _s_, e.g., _as-san_, _leis-sean_, _thairis-sean_.
@@ -370,7 +370,7 @@ const a=`:ChapterTitle_ga: An Forainmneach
 :8-5-3-sample4_en: *Who are they*?
 
 :8-5-4-p_ga: Ní shéimhítear na forainmnigh cheisteacha (féach 10.5.2), ach déantar cumasc idir _cá_, _cé_ agus an chopail chun na foirmeacha _cár_, _cárb_, _cárbh_, _cér_, _cérb_ agus _cérbh_ a chruthú (féach 7.3.1). Déantar cumasc idir _cé_ agus an t-alt uatha an chun _cén_ a chruthú.
-:8-5-4-p_en: The interrogative pronominals are not lenited (see 10.5.2), but contractions are made between _cá_, _cé_ and the copula to make the forms _cár_, _cárb_, _cárbh_, _cér_, _cérb_ and _cérbh_ (see 7.3.1). A contraction is made between _cé_ and the singular article to form _cén_.
+:8-5-4-p_en: The interrogative pronominals are not lenited (see 10.5.2), but fusions are made between _cá_, _cé_ and the copula to make the forms _cár_, _cárb_, _cárbh_, _cér_, _cérb_ and _cérbh_ (see 7.3.1). A fusion is made between _cé_ and the singular article to form _cén_.
 
 :8-5-4-sample1_en: *Where* did you put it?
 

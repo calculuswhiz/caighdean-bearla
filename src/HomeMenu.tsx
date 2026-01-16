@@ -10,7 +10,7 @@ const availableChapters = [
   { label: "Chapter 8 - The Pronominal", id: "8", done: true },
   { label: "Chapter 9 - The Number", id: "9", done: true },
   { label: "Chapter 10 - The Initial Mutations", id: "10", done: true },
-  { label: "Chapter 11 - The Relative Clause", id: "11" },
+  { label: "Chapter 11 - The Relative Clause", id: "11", done: true },
 ];
 
 function ChapterSelect() {

@@ -758,7 +758,7 @@ h| {Table11C-header1} h| {Table11C-header2} h| {Table11C-header3}
 
 .*{Table} 11E* {Table11E-caption}
 [.chapter-11]
-[cols="1,1,1"]
+[cols="1,1,1,1"]
 |===
 h| {Table11E-header1} h| {Table11E-header2} h| {Table11E-header3} h| {Table11E-header4}
 

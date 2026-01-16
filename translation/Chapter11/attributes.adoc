@@ -530,431 +530,431 @@
 :11-6-1-a-i-sample-10_ga: Sin í an bhean *a* chuaigh go dtí an staid pheile.
 :11-6-1-a-i-sample-10_en: That is the woman *who* went to the football stadium.
 
-:11-6-1-a-ii-p_ga: TODO
-:11-6-1-a-ii-p_en: TODO
+:11-6-1-a-ii-p_ga: Déantar cumasc idir an mhír choibhneasta _a_ agus an fhoirm neamhspleách láithreach den bhriathar _bí_ chun na foirmeacha _atá_, _atáim_, _atáimid_ a chruthú.
+:11-6-1-a-ii-p_en: A fusion is made between the relative particle _a_ and the independent present tense form of the verb _bí_ to create the forms _atá_, _atáim_, _atáimid_.
 
-:11-6-1-a-ii-sample-1_ga: TODO
-:11-6-1-a-ii-sample-1_en: TODO
+:11-6-1-a-ii-sample-1_ga: Sin iad na leabhair *atá* á n-iarraidh agam.
+:11-6-1-a-ii-sample-1_en: Those are the books *that* I am asking for.
 
-:11-6-1-a-ii-sample-2_ga: TODO
-:11-6-1-a-ii-sample-2_en: TODO
+:11-6-1-a-ii-sample-2_ga: Seo iad na héadaí *atáim* a cheannach.
+:11-6-1-a-ii-sample-2_en: These are the clothes *that* I am buying.
 
-:11-6-1-a-ii-sample-3_ga: TODO
-:11-6-1-a-ii-sample-3_en: TODO
+:11-6-1-a-ii-sample-3_ga: Sin é an ní *atáimid* chun a dhíol.
+:11-6-1-a-ii-sample-3_en: That is the thing *that* we are going to sell.
 
-:11-6-1-b-title_ga: TODO
-:11-6-1-b-title_en: TODO
+:11-6-1-b-title_ga: An Clásal Coibhneasta Indíreach
+:11-6-1-b-title_en: The Indirect Relative Clause
 
-:11-6-1-b-i-p_ga: TODO
-:11-6-1-b-i-p_en: TODO
+:11-6-1-b-i-p_ga: Más clásal coibhneasta indíreach atá ann, úsáidtear _a_ roimh na briathra rialta agus neamhrialta i ngach aimsir seachas san aimsir chaite (ach féach (iii) ina dhiaidh seo). Uraítear an briathar i ndiaidh na míre coibhneasta indírí _a_.
+:11-6-1-b-i-p_en: If it is an indirect relative clause, _a_ is used before regular and irregular verbs in all tenses except in the past tense (but see (iii) below). The verb is eclipsed after the indirect relative particle _a_.
 
-:11-6-1-b-i-sample-1_ga: TODO
-:11-6-1-b-i-sample-1_en: TODO
+:11-6-1-b-i-sample-1_ga: Sin é an clár *a* gcraolann an stáisiún raidió é.
+:11-6-1-b-i-sample-1_en: That is the program *that* the radio station broadcasts.
 
-:11-6-1-b-i-sample-2_ga: TODO
-:11-6-1-b-i-sample-2_en: TODO
+:11-6-1-b-i-sample-2_ga: Cá háit *a* gcraolfar an clár?
+:11-6-1-b-i-sample-2_en: Where is it *that* the program be broadcast?
 
-:11-6-1-b-i-sample-3_ga: TODO
-:11-6-1-b-i-sample-3_en: TODO
+:11-6-1-b-i-sample-3_ga: Cad chuige *a* gcraolfadh an stáisiún raidió popcheol?
+:11-6-1-b-i-sample-3_en: Why is it *that* the radio station would broadcast pop music?
 
-:11-6-1-b-i-sample-4_ga: TODO
-:11-6-1-b-i-sample-4_en: TODO
+:11-6-1-b-i-sample-4_ga: Is sraith í *a* gcraoltaí clár dá cuid gach maidin.
+:11-6-1-b-i-sample-4_en: It is a series *that* broadcasts a program of its own every morning.
 
-:11-6-1-b-i-sample-5_ga: TODO
-:11-6-1-b-i-sample-5_en: TODO
+:11-6-1-b-i-sample-5_ga: An í sin an bhean *a* dtéann a hiníon go dtí na cluichí go léir?
+:11-6-1-b-i-sample-5_en: Is that the woman *who* her daughter goes to all the matches?
 
-:11-6-1-b-i-sample-6_ga: TODO
-:11-6-1-b-i-sample-6_en: TODO
+:11-6-1-b-i-sample-6_ga: Sin é an fear *a* rachaidh a mhac go dtí an staid pheile.
+:11-6-1-b-i-sample-6_en: That is the man *who* his son will go to the football stadium.
 
-:11-6-1-b-i-sample-7_ga: TODO
-:11-6-1-b-i-sample-7_en: TODO
+:11-6-1-b-i-sample-7_ga: Sin í an bhean *a* rachadh a hiníon go dtí an cluiche dá bhféadfadh sí.
+:11-6-1-b-i-sample-7_en: That is the woman *who* her daughter would go to the match if she could.
 
-:11-6-1-b-i-sample-8_ga: TODO
-:11-6-1-b-i-sample-8_en: TODO
+:11-6-1-b-i-sample-8_ga: Nach é sin an fear *a* dtéadh a pháistí go dtí na cluichí go léir?
+:11-6-1-b-i-sample-8_en: Is that not the man *who* his children would go to all the matches?
 
-:11-6-1-b-i-sample-9_ga: TODO
-:11-6-1-b-i-sample-9_en: TODO
+:11-6-1-b-i-sample-9_ga: Sin é an ní *a* bhfuilimid chun é a dhíol.
+:11-6-1-b-i-sample-9_en: That is the thing *that* we are going to sell.
 
-:11-6-1-b-ii-p_ga: TODO
-:11-6-1-b-ii-p_en: TODO
+:11-6-1-b-ii-p_ga: San aimsir chaite, is é _ar_ an fhoirm den mhír choibhneasta a úsáidtear roimh na briathra rialta agus roimh na briathra neamhrialta _beir_, _clois/cluin_, _ith_, _tabhair_ agus _tar_.
+:11-6-1-b-ii-p_en: In the past tense, _ar_ is the form of the relative particle used before regular verbs and before the irregular verbs _beir_, _clois/cluin_, _ith_, _tabhair_ and _tar_.
 
-:11-6-1-b-ii-sample-1_ga: TODO
-:11-6-1-b-ii-sample-1_en: TODO
+:11-6-1-b-ii-sample-1_ga: Sin é an clár *ar* chraol an stáisiún raidió é.
+:11-6-1-b-ii-sample-1_en: That is the program *that* the radio station broadcast.
 
-:11-6-1-b-ii-sample-2_ga: TODO
-:11-6-1-b-ii-sample-2_en: TODO
+:11-6-1-b-ii-sample-2_ga: Cheannaigh mé leabhar nua *ar* mhol an léirmheastóir é.
+:11-6-1-b-ii-sample-2_en: I bought a new book *that* the reviewer recommended.
 
-:11-6-1-b-ii-sample-3_ga: TODO
-:11-6-1-b-ii-sample-3_en: TODO
+:11-6-1-b-ii-sample-3_ga: Bhuail mé le fear *ar* chum a mhac amhráin Ghaeilge.
+:11-6-1-b-ii-sample-3_en: I met a man *whose* son composed Irish songs.
 
-:11-6-1-b-ii-sample-4_ga: TODO
-:11-6-1-b-ii-sample-4_en: TODO
+:11-6-1-b-ii-sample-4_ga: Sin í an bhean *ar* cheannaigh mé na héadaí uaithi.
+:11-6-1-b-ii-sample-4_en: That is the woman *from whom* I bought the clothes.
 
-:11-6-1-b-ii-sample-5_ga: TODO
-:11-6-1-b-ii-sample-5_en: TODO
+:11-6-1-b-ii-sample-5_ga: Céard a tharla don duine *ar* rug tú greim air?
+:11-6-1-b-ii-sample-5_en: What happened to the person *whom* you caught?
 
-:11-6-1-b-ii-sample-6_ga: TODO
-:11-6-1-b-ii-sample-6_en: TODO
+:11-6-1-b-ii-sample-6_ga: Tá an scannán *ar* chuala mé faoi ar taispeáint sa phictiúrlann.
+:11-6-1-b-ii-sample-6_en: The movie *that* I heard about is showing in the cinema.
 
-:11-6-1-b-ii-sample-7_ga: TODO
-:11-6-1-b-ii-sample-7_en: TODO
+:11-6-1-b-ii-sample-7_ga: Cá bhfuil an bhean *ar* bronnadh céim uirthi?
+:11-6-1-b-ii-sample-7_en: Where is the woman *who* was awarded a degree?
 
-:11-6-1-b-ii-sample-8_ga: TODO
-:11-6-1-b-ii-sample-8_en: TODO
+:11-6-1-b-ii-sample-8_ga: An raibh ionadh ar an mbean *ar* tháinig a mac abhaile ón Astráil?
+:11-6-1-b-ii-sample-8_en: Was the woman surprised *when* her son came home from Australia?
 
-:11-6-1-b-iii-p_ga: TODO
-:11-6-1-b-iii-p_en: TODO
+:11-6-1-b-iii-p_ga: San aimsir chaite, is é _a_ an fhoirm den mhír choibhneasta a úsáidtear roimh na briathra neamhrialta _abair_, _bí_, _déan_, _faigh_, _feic_ agus _téigh_.
+:11-6-1-b-iii-p_en: In the past tense, _a_ is the form of the relative particle used before the irregular verbs _abair_, _bí_, _déan_, _faigh_, _feic_ and _téigh_.
 
-:11-6-1-b-iii-sample-1_ga: TODO
-:11-6-1-b-iii-sample-1_en: TODO
+:11-6-1-b-iii-sample-1_ga: Dar liom gurb é sin an fear *a* ndúradh linn é a leanúint.
+:11-6-1-b-iii-sample-1_en: I think that is the man *who* we were told to follow.
 
-:11-6-1-b-iii-sample-2_ga: TODO
-:11-6-1-b-iii-sample-2_en: TODO
+:11-6-1-b-iii-sample-2_ga: Tá aithne agam ar an mbean *a* raibh a hiníon ar an teilifís.
+:11-6-1-b-iii-sample-2_en: I know the woman *whose* daughter was on television.
 
-:11-6-1-b-iii-sample-3_ga: TODO
-:11-6-1-b-iii-sample-3_en: TODO
+:11-6-1-b-iii-sample-3_ga: Arbh é sin an leabhar *a* ndearnadh tagairt dó?
+:11-6-1-b-iii-sample-3_en: Was that the book *that* was referred to?
 
-:11-6-1-b-iii-sample-4_ga: TODO
-:11-6-1-b-iii-sample-4_en: TODO
+:11-6-1-b-iii-sample-4_ga: Sin é an múinteoir *a* bhfuair mé litir uaidh.
+:11-6-1-b-iii-sample-4_en: That is the teacher *from whom* I received a letter.
 
-:11-6-1-b-iii-sample-5_ga: TODO
-:11-6-1-b-iii-sample-5_en: TODO
+:11-6-1-b-iii-sample-5_ga: Nach í sin an bhean *a* bhfaca an fear í?
+:11-6-1-b-iii-sample-5_en: Is that not the woman *whom* the man saw?
 
-:11-6-1-b-iii-sample-6_ga: TODO
-:11-6-1-b-iii-sample-6_en: TODO
+:11-6-1-b-iii-sample-6_ga: D'fhill mé ar an áit *a* ndeachaigh mé fadó.
+:11-6-1-b-iii-sample-6_en: I returned to the place *where* I went long ago.
 
-:11-6-1-c-title_ga: TODO
-:11-6-1-c-title_en: TODO
+:11-6-1-c-title_ga: Foirmeacha cumaisc
+:11-6-1-c-title_en: Fused Forms
 
-:11-6-1-c-p_ga: TODO
-:11-6-1-c-p_en: TODO
+:11-6-1-c-p_ga: Déantar cumasc idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach, mar a leagtar amach anseo thíos (féach freisin 11.3.1(c)(i)). Tabhair faoi deara nach féidir cumasc a dhéanamh idir an réamhfhocal agus na míreanna coibhneasta diúltacha.
+:11-6-1-c-p_en: A fusion is made between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively, as outlined below (see also 11.3.1(c)(i)). Note that a fusion cannot be made between the preposition and the negative relative particles.
 
-:Table11C-caption_ga: TODO
-:Table11C-caption_en: TODO
+:Table11C-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna Coibhneasta _a_ agus _ar_
+:Table11C-caption_en: Fused Forms -- Prepositions with the Relative Particles _a_ and _ar_
 
-:Table11C-header1_ga: TODO
-:Table11C-header1_en: TODO
+:Table11C-header1_ga: An Réamhfhocal
+:Table11C-header1_en: The Preposition
 
-:Table11C-header2_ga: TODO
-:Table11C-header2_en: TODO
+:Table11C-header2_ga: + an mhír choibhneasta _a_
+:Table11C-header2_en: + the relative particle _a_
 
-:Table11C-header3_ga: TODO
-:Table11C-header3_en: TODO
+:Table11C-header3_ga: + an mhír choibhneasta _ar_
+:Table11C-header3_en: + the relative particle _ar_
 
-:11-6-2-title_ga: TODO
-:11-6-2-title_en: TODO
+:11-6-2-title_ga: An Mhír Choibhneasta Dhiúltach
+:11-6-2-title_en: The Negative Relative Particle
 
-:11-6-2-a-title_ga: TODO
-:11-6-2-a-title_en: TODO
+:11-6-2-a-title_ga: An Clásal Coibhneasta Díreach agus Indíreach
+:11-6-2-a-title_en: The Direct and Indirect Relative Clause
 
-:11-6-2-a-i-p_ga: TODO
-:11-6-2-a-i-p_en: TODO
+:11-6-2-a-i-p_ga: I gclásail dhiúltacha dhíreacha agus indíreacha, is é _nach_ an fhoirm den mhír choibhneasta a fhreagraíonn do _a_ roimh na briathra rialta agus neamhrialta, ach amháin san aimsir chaite (ach féach (iii) thíos).
+:11-6-2-a-i-p_en: In direct and indirect negative clauses, _nach_ is the form of the relative particle corresponding to _a_ before regular and irregular verbs, except in the past tense (see (iii) below).
 
-:11-6-2-a-i-sample-1_ga: TODO
-:11-6-2-a-i-sample-1_en: TODO
+:11-6-2-a-i-sample-1_ga: Is duine é *nach* nglacann comhairle.
+:11-6-2-a-i-sample-1_en: He is a person *who* does *not* take advice.
 
-:11-6-2-a-i-sample-2_ga: TODO
-:11-6-2-a-i-sample-2_en: TODO
+:11-6-2-a-i-sample-2_ga: Sin é an stáisiún *nach* gcraoladh an clár.
+:11-6-2-a-i-sample-2_en: That is the station *that* did *not* broadcast the program.
 
-:11-6-2-a-i-sample-3_ga: TODO
-:11-6-2-a-i-sample-3_en: TODO
+:11-6-2-a-i-sample-3_ga: Sin é an clár *nach* gcraolfadh an stáisiún raidió é.
+:11-6-2-a-i-sample-3_en: That is the program *that* the radio station would *not* broadcast.
 
-:11-6-2-a-i-sample-4_ga: TODO
-:11-6-2-a-i-sample-4_en: TODO
+:11-6-2-a-i-sample-4_ga: Is í sin an bhean *nach* nglacfaidh a hiníon dea-chomhairle.
+:11-6-2-a-i-sample-4_en: She is the woman *who* her daughter will *not* take good advice.
 
-:11-6-2-a-i-sample-5_ga: TODO
-:11-6-2-a-i-sample-5_en: TODO
+:11-6-2-a-i-sample-5_ga: Sin é an fear *nach* gceannaínn aon earraí uaidh.
+:11-6-2-a-i-sample-5_en: That is the man *who* would *not* buy any goods from him.
 
-:11-6-2-a-i-sample-6_ga: TODO
-:11-6-2-a-i-sample-6_en: TODO
+:11-6-2-a-i-sample-6_ga: An í sin an cháis *nach* n-íosfadh an fear?
+:11-6-2-a-i-sample-6_en: Is that the case *that* the man would *not* accept?
 
-:11-6-2-a-i-sample-7_ga: TODO
-:11-6-2-a-i-sample-7_en: TODO
+:11-6-2-a-i-sample-7_ga: Sin í an bhean *nach* dtagann a mac abhaile gach bliain.
+:11-6-2-a-i-sample-7_en: That is the woman *whose* son does *not* come home every year.
 
-:11-6-2-a-ii-p_ga: TODO
-:11-6-2-a-ii-p_en: TODO
+:11-6-2-a-ii-p_ga: San aimsir chaite, freagraíonn _nár_ do _a_ agus _ar_ i gcás na mbriathra rialta agus i gcás na mbriathra neamhrialta _beir_, _clois/cluin_, _ith_, _tabhair_ agus _tar_.
+:11-6-2-a-ii-p_en: In the past tense, _nár_ corresponds to both _a_ and _ar_ in the case of regular verbs and the irregular verbs _beir_, _clois/cluin_, _ith_, _tabhair_ and _tar_.
 
-:11-6-2-a-ii-sample-1_ga: TODO
-:11-6-2-a-ii-sample-1_en: TODO
+:11-6-2-a-ii-sample-1_ga: Ba dhuine é *nár* ghlac comhairle.
+:11-6-2-a-ii-sample-1_en: He was a person *who* did *not* take advice.
 
-:11-6-2-a-ii-sample-2_ga: TODO
-:11-6-2-a-ii-sample-2_en: TODO
+:11-6-2-a-ii-sample-2_ga: Sin é an stáisiún *nár* chraol an clár.
+:11-6-2-a-ii-sample-2_en: That is the station *that* did *not* broadcast the program.
 
-:11-6-2-a-ii-sample-3_ga: TODO
-:11-6-2-a-ii-sample-3_en: TODO
+:11-6-2-a-ii-sample-3_ga: Sin é an clár *nár* chraol an stáisiún é.
+:11-6-2-a-ii-sample-3_en: That is the program *that* the radio station did *not* broadcast.
 
-:11-6-2-a-ii-sample-4_ga: TODO
-:11-6-2-a-ii-sample-4_en: TODO
+:11-6-2-a-ii-sample-4_ga: Is í sin an bhean *nár* ghlac a hiníon dea-chomhairle.
+:11-6-2-a-ii-sample-4_en: That is the woman *whose* daughter did *not* take good advice.
 
-:11-6-2-a-ii-sample-5_ga: TODO
-:11-6-2-a-ii-sample-5_en: TODO
+:11-6-2-a-ii-sample-5_ga: Sin é an fear *nár* cheannaigh mé aon earraí uaidh.
+:11-6-2-a-ii-sample-5_en: That is the man *who* I did *not* buy any goods from.
 
-:11-6-2-a-ii-sample-6_ga: TODO
-:11-6-2-a-ii-sample-6_en: TODO
+:11-6-2-a-ii-sample-6_ga: Céard a tharla don duine *nár* rug tú greim air?
+:11-6-2-a-ii-sample-6_en: What happened to the person *who* you did *not* catch?
 
-:11-6-2-a-ii-sample-7_ga: TODO
-:11-6-2-a-ii-sample-7_en: TODO
+:11-6-2-a-ii-sample-7_ga: Tá scannán *nár* chuala mé trácht air ar siúl sa phictiúrlann anocht.
+:11-6-2-a-ii-sample-7_en: There is a movie *that* I did *not* hear mentioned as playing in the cinema tonight.
 
-:11-6-2-a-ii-sample-8_ga: TODO
-:11-6-2-a-ii-sample-8_en: TODO
+:11-6-2-a-ii-sample-8_ga: Ar chaith tú amach an bia *nár* ith an madra?
+:11-6-2-a-ii-sample-8_en: Did you throw away the food *that* the dog did *not* eat?
 
-:11-6-2-a-ii-sample-9_ga: TODO
-:11-6-2-a-ii-sample-9_en: TODO
+:11-6-2-a-ii-sample-9_ga: Sin an bhean *nár* thug mé leabhar di.
+:11-6-2-a-ii-sample-9_en: That is the woman *to whom* I did *not* give a book.
 
-:11-6-2-a-ii-sample-10_ga: TODO
-:11-6-2-a-ii-sample-10_en: TODO
+:11-6-2-a-ii-sample-10_ga: An bhfuil aon duine *nár* tháinig abhaile ón gceolchoirm fós?
+:11-6-2-a-ii-sample-10_en: Is there anyone *who* has still not come home from the concert?
 
-:11-6-2-a-iii-p_ga: TODO
-:11-6-2-a-iii-p_en: TODO
+:11-6-2-a-iii-p_ga: San aimsir chaite, freagraíonn _nach_ do _a_ i gcás na mbriathra neamhrialta _abair_, _bí_, _déan_, _faigh_, _feic_ agus _téigh_.
+:11-6-2-a-iii-p_en: In the past tense, _nach_ corresponds to _a_ in the case of the irregular verbs _abair_, _bí_, _déan_, _faigh_, _feic_ and _téigh_.
 
-:11-6-2-a-iii-sample-1_ga: TODO
-:11-6-2-a-iii-sample-1_en: TODO
+:11-6-2-a-iii-sample-1_ga: Is rud é *nach* ndúirt mé riamh.
+:11-6-2-a-iii-sample-1_en: It is a thing *that* I never said.
 
-:11-6-2-a-iii-sample-2_ga: TODO
-:11-6-2-a-iii-sample-2_en: TODO
+:11-6-2-a-iii-sample-2_ga: An í sin an bhean *nach* raibh a hiníon i láthair?
+:11-6-2-a-iii-sample-2_en: Is that the woman *whose* daughter was not present?
 
-:11-6-2-a-iii-sample-3_ga: TODO
-:11-6-2-a-iii-sample-3_en: TODO
+:11-6-2-a-iii-sample-3_ga: Cad a dhéanfar faoin obair *nach* ndearnadh?
+:11-6-2-a-iii-sample-3_en: What will be done about the work *that* was not done?
 
-:11-6-2-a-iii-sample-4_ga: TODO
-:11-6-2-a-iii-sample-4_en: TODO
+:11-6-2-a-iii-sample-4_ga: Sin é an múinteoir *nach* bhfuair mé litir uaidh.
+:11-6-2-a-iii-sample-4_en: That is the teacher *from whom* I did not receive a letter.
 
-:11-6-2-a-iii-sample-5_ga: TODO
-:11-6-2-a-iii-sample-5_en: TODO
+:11-6-2-a-iii-sample-5_ga: Sin í an bhean *nach* bhfaca an dochtúir í.
+:11-6-2-a-iii-sample-5_en: That is the woman *whom* the doctor did not see.
 
-:11-6-2-a-iii-sample-6_ga: TODO
-:11-6-2-a-iii-sample-6_en: TODO
+:11-6-2-a-iii-sample-6_ga: Cad a rinne sibh an uair sin *nach* ndeachaigh sibh ar saoire?
+:11-6-2-a-iii-sample-6_en: What did you do that time *when* you did not go on holiday?
 
-:11-7-title_ga: TODO
-:11-7-title_en: TODO
+:11-7-title_ga: An Briathar i gClásail Choibhneasta
+:11-7-title_en: The Verb in Relative Clauses
 
-:11-7-1-title_ga: TODO
-:11-7-1-title_en: TODO
+:11-7-1-title_ga: An Briathar -- An Clásal Coibhneasta Díreach Deimhneach
+:11-7-1-title_en: The Verb -- The Direct Affirmative Relative Clause
 
-:11-7-1-a-title_ga: TODO
-:11-7-1-a-title_en: TODO
+:11-7-1-a-title_ga: Úsáidtear an fhoirm neamhspleách den bhriathar i ndiaidh na míre coibhneasta _a_ i gclásail choibhneasta dhíreacha dheimhneacha.
+:11-7-1-a-title_en: The independent form of the verb is used after the direct relative particle _a_ in direct affirmative relative clauses.
 
-:11-7-1-a-sample-1_ga: TODO
-:11-7-1-a-sample-1_en: TODO
+:11-7-1-a-sample-1_ga: An bhfaca tú an cóta nua *a fuair* mé?
+:11-7-1-a-sample-1_en: Did you see the new coat *that* I *got*?
 
-:11-7-1-a-sample-2_ga: TODO
-:11-7-1-a-sample-2_en: TODO
+:11-7-1-a-sample-2_ga: An é sin an fear *a théadh* go dtí na cluichí go léir?
+:11-7-1-a-sample-2_en: Is that the man *who went* to all the games?
 
-:11-7-1-b-title_ga: TODO
-:11-7-1-b-title_en: TODO
+:11-7-1-b-title_ga: Séimhítear an briathar (seachas _abair_) san aimsir láithreach agus san aimsir fháistineach (ach féach 11.6.1(a)(ii)).
+:11-7-1-b-title_en: The verb (except _abair_) is lenited in the present and future tenses (but see 11.6.1(a)(ii)).
 
-:11-7-1-b-sample-1_ga: TODO
-:11-7-1-b-sample-1_en: TODO
+:11-7-1-b-sample-1_ga: Sin é an sliotar *a bhuaileann* sí gach maidin.
+:11-7-1-b-sample-1_en: That is the hurley ball *that* she *hits* every morning.
 
-:11-7-1-b-sample-2_ga: TODO
-:11-7-1-b-sample-2_en: TODO
+:11-7-1-b-sample-2_ga: Sin é an sliotar *a bhuailfear* le linn an chluiche.
+:11-7-1-b-sample-2_en: That is the hurley ball *that will be hit* during the game.
 
-:11-7-1-p_ga: TODO
-:11-7-1-p_en: TODO
+:11-7-1-p_ga: Tabhair faoi deara go séimhítear an saorbhriathar sna cásanna ina séimhítear na foirmeacha eile den bhriathar, e.g., _na héadaí a cheannaítear_ (_a cheannófar_, _a cheannaítí_) seachas san aimsir chaite, e.g., _na héadaí a ceannaíodh_. Ní shéimhítear an saorbhriathar neamhspleách san aimsir chaite ach amháin i gcás _chonacthas_, _chualathas_, _chuathas_ agus _thángthas_.
+:11-7-1-p_en: Note that the past participle is lenited in cases where the other forms of the verb are lenited, e.g., _na héadaí a cheannaítear_ (_a cheannófar_, _a cheannaítí_) except in the past tense, e.g., _na héadaí a ceannaíodh_. The independent past participle is only lenited in the past tense in the case of _chonacthas_, _chualathas_, _chuathas_ and _thángthas_.
 
-:11-7-2-title_ga: TODO
-:11-7-2-title_en: TODO
+:11-7-2-title_ga: An Briathar -- An Clásal Coibhneasta Indíreach Deimhneach
+:11-7-2-title_en: The Verb -- The Indirect Affirmative Relative Clause
 
-:11-7-2-p_ga: TODO
-:11-7-2-p_en: TODO
+:11-7-2-p_ga: Úsáidtear an fhoirm spleách den bhriathar i ndiaidh na míreanna coibhneasta ar agus a i gclásail choibhneasta indíreacha dheimhneacha.
+:11-7-2-p_en: The dependent form of the verb is used after the relative particles _ar_ and _a_ in indirect affirmative relative clauses.
 
-:11-7-2-a-p_ga: TODO
-:11-7-2-a-p_en: TODO
+:11-7-2-a-p_ga: Séimhítear an fhoirm spleách den bhriathar i ndiaidh na míre coibhneasta _ar_ (ach amháin i gcás an tsaorbhriathair san aimsir chaite, e.g., _ar goideadh_; _ar buaileadh_).
+:11-7-2-a-p_en: The dependent form of the verb is lenited after the relative particle _ar_ (except in the case of the past participle in the past tense, e.g., _ar goideadh_; _ar buaileadh_).
 
-:11-7-2-a-sample-1_ga: TODO
-:11-7-2-a-sample-1_en: TODO
+:11-7-2-a-sample-1_ga: Sin é an sliotar *ar bhuail* an bhean é.
+:11-7-2-a-sample-1_en: That is the hurley ball *that* the woman *hit*.
 
-:11-7-2-a-sample-2_ga: TODO
-:11-7-2-a-sample-2_en: TODO
+:11-7-2-a-sample-2_ga: Sin í an bhean *ar ghoid* an gadaí a carr.
+:11-7-2-a-sample-2_en: That is the woman from *whom* the thief *stole* the car.
 
-:11-7-2-b-p_ga: TODO
-:11-7-2-b-p_en: TODO
+:11-7-2-b-p_ga: Uraítear an fhoirm spleách den bhriathar i ndiaidh na míre coibhneasta _a_.
+:11-7-2-b-p_en: The dependent form of the verb is eclipsed after the relative particle _a_.
 
-:11-7-2-b-sample-1_ga: TODO
-:11-7-2-b-sample-1_en: TODO
+:11-7-2-b-sample-1_ga: Sin é an ríomhaire *a n-úsáideann* an bhean é le haghaidh na hoibre.
+:11-7-2-b-sample-1_en: That is the computer *that* the woman *uses* for work.
 
-:11-7-2-b-sample-2_ga: TODO
-:11-7-2-b-sample-2_en: TODO
+:11-7-2-b-sample-2_ga: Sin í an bhean *a gceannóidh* an buachaill a carr.
+:11-7-2-b-sample-2_en: That is the woman from *whom* the boy *will buy* a car.
 
-:11-7-2-b-sample-3_ga: TODO
-:11-7-2-b-sample-3_en: TODO
+:11-7-2-b-sample-3_ga: An í sin an cailín *a ndeachaigh* a madra amú uirthi?
+:11-7-2-b-sample-3_en: Is that the girl *whose* dog *went* missing?
 
-:11-7-2-b-sample-4_ga: TODO
-:11-7-2-b-sample-4_en: TODO
+:11-7-2-b-sample-4_ga: Cá ndeachaigh an fear *a bhfaca* mé a mhac ag dul isteach san fhoirgneamh?
+:11-7-2-b-sample-4_en: Where did the man *whose* son I *saw* going into the building go?
 
-:11-7-3-title_ga: TODO
-:11-7-3-title_en: TODO
+:11-7-3-title_ga: An Briathar -- An Clásal Coibhneasta Díreach agus Indíreach Diúltach
+:11-7-3-title_en: The Verb -- The Direct and Indirect Negative Relative Clause
 
-:11-7-3-p_ga: TODO
-:11-7-3-p_en: TODO
+:11-7-3-p_ga: Úsáidtear an fhoirm spleách den bhriathar i ndiaidh na míreanna coibhneasta _nach_ agus _nár_ i gclásail choibhneasta dhíreacha agus indíreacha dhiúltacha.
+:11-7-3-p_en: The dependent form of the verb is used after the relative particles _nach_ and _nár_ in direct and indirect negative relative clauses.
 
-:11-7-3-a-p_ga: TODO
-:11-7-3-a-p_en: TODO
+:11-7-3-a-p_ga: Uraítear an fhoirm spleách den bhriathar i ndiaidh _nach_.
+:11-7-3-a-p_en: The dependent form of the verb is eclipsed after _nach_.
 
-:11-7-3-a-sample-1_ga: TODO
-:11-7-3-a-sample-1_en: TODO
+:11-7-3-a-sample-1_ga: Sin é an sliotar *nach mbuaileann* an bhean.
+:11-7-3-a-sample-1_en: That is the ball *that* the woman *does not hit*.
 
-:11-7-3-a-sample-2_ga: TODO
-:11-7-3-a-sample-2_en: TODO
+:11-7-3-a-sample-2_ga: Sin é an gaothscáth *nach mbrisfidh* an buachaill.
+:11-7-3-a-sample-2_en: That is the windscreen *that* the boy *will not break*.
 
-:11-7-3-a-sample-3_ga: TODO
-:11-7-3-a-sample-3_en: TODO
+:11-7-3-a-sample-3_ga: Sin é an sliotar *nach mbuaileann* an bhean é.
+:11-7-3-a-sample-3_en: That is the ball *that* the woman *does not hit*.
 
-:11-7-3-a-sample-4_ga: TODO
-:11-7-3-a-sample-4_en: TODO
+:11-7-3-a-sample-4_ga: Sin í an bhean *nach gceannóidh* an buachaill a carr.
+:11-7-3-a-sample-4_en: That is the woman from *whom* the boy *will not buy* a car.
 
-:11-7-3-b-p_ga: TODO
-:11-7-3-b-p_en: TODO
+:11-7-3-b-p_ga: Séimhítear an fhoirm spleách den bhriathar i ndiaidh _nár_ ach amháin i gcás an tsaorbhriathair, aimsir chaite, e.g., _nár ceannaíodh_; _nár blaiseadh_.
+:11-7-3-b-p_en: The dependent form of the verb is lenited after _nár_ except in the case of the past participle in the past tense, e.g., _nár ceannaíodh_; _nár blaiseadh_.
 
-:11-7-3-b-sample-1_ga: TODO
-:11-7-3-b-sample-1_en: TODO
+:11-7-3-b-sample-1_ga: Sin é an sliotar *nár bhuail* an bhean.
+:11-7-3-b-sample-1_en: That is the hurley ball *that* the woman *did not hit*.
 
-:11-7-3-b-sample-2_ga: TODO
-:11-7-3-b-sample-2_en: TODO
+:11-7-3-b-sample-2_ga: Sin é an gaothscáth *nár bhris* an buachaill.
+:11-7-3-b-sample-2_en: That is the windscreen *that* the boy *did not break*.
 
-:11-7-3-b-sample-3_ga: TODO
-:11-7-3-b-sample-3_en: TODO
+:11-7-3-b-sample-3_ga: Sin é an sliotar *nár bhuail* an bhean é.
+:11-7-3-b-sample-3_en: That is the hurley ball *that* the woman *did not hit*.
 
-:11-7-3-b-sample-4_ga: TODO
-:11-7-3-b-sample-4_en: TODO
+:11-7-3-b-sample-4_ga: Sin í an bhean *nár cheannaigh* an buachaill a carr.
+:11-7-3-b-sample-4_en: That is the woman from *whom* the boy *did not buy* a car.
 
-:11-7-4-title_ga: TODO
-:11-7-4-title_en: TODO
+:11-7-4-title_ga: An Briathar -- An Fhoirm Choibhneasta
+:11-7-4-title_en: The Verb -- The Relative Form
 
-:11-7-4-a-p_ga: TODO
-:11-7-4-a-p_en: TODO
+:11-7-4-a-p_ga: Tá foirm choibhneasta neamhspleách ar leith ar an mbriathar san aimsir láithreach, san aimsir ghnáthláithreach agus san aimsir fháistineach. Is féidir an fhoirm sin a úsáid sa chlásal coibhneasta de rogha ar na foirmeacha scartha den bhriathar, e.g., _Sin é an chéad leabhar eile a bheas á léamh agam_; _Céard a dhéanfas tú anois?_
+:11-7-4-a-p_en: There is a special independent relative form of the verb in the present, habitual present and future tenses. This form can be used in the relative clause as an alternative to the separate forms of the verb, e.g., _Sin é an chéad leabhar eile a bheas á léamh agam_; _Céard a dhéanfas tú anois?_
 
-:11-7-4-b-p_ga: TODO
-:11-7-4-b-p_en: TODO
+:11-7-4-b-p_ga: Is í an fhoirm leithleach choibhneasta neamhspleách den bhriathar _lean_ a úsáidtear i gcónaí in abairtí mar _na focail seo a leanas_.
+:11-7-4-b-p_en: The special independent relative form of the verb _lean_ is always used in phrases such as _na focail seo a leanas_.
 
-:11-8-title_ga: TODO
-:11-8-title_en: TODO
+:11-8-title_ga: An Chopail agus an Clásal Coibhneasta
+:11-8-title_en: The Copula and the Relative Clause
 
-:11-8-1-p_ga: TODO
-:11-8-1-p_en: TODO
+:11-8-1-p_ga: Seo thíos foirmeacha na copaile a úsáidtear i gclásail choibhneasta (féach freisin 7.2.3 agus 7.2.4 le haghaidh tuilleadh faisnéise).
+:11-8-1-p_en: Below are the forms of the copula used in relative clauses (see also 7.2.3 and 7.2.4 for further information).
 
-:Table11D-caption_ga: TODO
-:Table11D-caption_en: TODO
+:Table11D-caption_ga: Foirmeacha na Copaile i gClásal Coibhneasta
+:Table11D-caption_en: Forms of the Copula in a Relative Clause
 
-:Table11D-header-1_ga: TODO
-:Table11D-header-1_en: TODO
+:Table11D-header-1_ga: An Aimsir Láithreach agus An Aimsir Fháistineach
+:Table11D-header-1_en: The Present and The Future Tense
 
-:Table11D-header-2_ga: TODO
-:Table11D-header-2_en: TODO
+:Table11D-header-2_ga: An Aimsir Chaite, An Aimsir Ghnáthchaite agus An Modh Coinníollach
+:Table11D-header-2_en: The Past, The Habitual Past and The Conditional Mood
 
-:Table11D-subheader-1_ga: TODO
-:Table11D-subheader-1_en: TODO
+:Table11D-subheader-1_ga: roimh chonsan
+:Table11D-subheader-1_en: before a consonant
 
-:Table11D-subheader-2_ga: TODO
-:Table11D-subheader-2_en: TODO
+:Table11D-subheader-2_ga: roimh guta
+:Table11D-subheader-2_en: before a vowel
 
-:Table11D-subheader-3_ga: TODO
-:Table11D-subheader-3_en: TODO
+:Table11D-subheader-3_ga: roimh chonsan nó roimh _fh-_ + _consan_
+:Table11D-subheader-3_en: before a consonant or before _fh-_ + _consonant_
 
-:Table11D-subheader-4_ga: TODO
-:Table11D-subheader-4_en: TODO
+:Table11D-subheader-4_ga: roimh guta nó roimh _fh-_ + _guta_
+:Table11D-subheader-4_en: before a vowel or before _fh-_ + _vowel_
 
-:Table11D-row1-col1_ga: TODO
-:Table11D-row1-col1_en: TODO
+:Table11D-row1-col1_ga: Díreach Deimhneach 
+:Table11D-row1-col1_en: Direct Affirmative
 
-:Table11D-row2-col1_ga: TODO
-:Table11D-row2-col1_en: TODO
+:Table11D-row2-col1_ga: Indíreach Deimhneach
+:Table11D-row2-col1_en: Indirect Affirmative
 
-:Table11D-row3-col1_ga: TODO
-:Table11D-row3-col1_en: TODO
+:Table11D-row3-col1_ga: Díreach agus Indíreach Diúltach
+:Table11D-row3-col1_en: Direct and Indirect Negative
 
-:11-8-2-p_ga: TODO
-:11-8-2-p_en: TODO
+:11-8-2-p_ga: Úsáidtear na foirmeacha a chríochnaíonn ar _-b_ nó _-bh_ roimh fhocal dar tús guta nó _fh-_ roimh ghuta.
+:11-8-2-p_en: The forms ending in _-b_ or _-bh_ are used before a word beginning with a vowel or _fh-_ before a vowel.
 
-:11-8-2-sample-1_ga: TODO
-:11-8-2-sample-1_en: TODO
+:11-8-2-sample-1_ga: Ba í an bhean *ab* éirimiúla í.
+:11-8-2-sample-1_en: She was the woman *who* was intelligent.
 
-:11-8-2-sample-2_ga: TODO
-:11-8-2-sample-2_en: TODO
+:11-8-2-sample-2_ga: Is é sin an buachaill *arb* eol dó an freagra.
+:11-8-2-sample-2_en: That is the boy *who* knows the answer.
 
-:11-8-2-sample-3_ga: TODO
-:11-8-2-sample-3_en: TODO
+:11-8-2-sample-3_ga: Is í sin an cailín *arbh* aoibhinn léi an eolaíocht.
+:11-8-2-sample-3_en: That is the girl *who* loves science.
 
-:11-8-2-sample-4_ga: TODO
-:11-8-2-sample-4_en: TODO
+:11-8-2-sample-4_ga: Níor éist sé leis an ráiteas *nárbh* fhíor é.
+:11-8-2-sample-4_en: He did not listen to the statement *that* it was true.
 
-:11-8-3-p_ga: TODO
-:11-8-3-p_en: TODO
+:11-8-3-p_ga: Leanann séimhiú foirmeacha na copaile san aimsir chaite agus sa mhodh coinníollach.
+:11-8-3-p_en: The lenited forms of the copula are followed in the past tense and the conditional mood.
 
-:11-8-3-sample-1_ga: TODO
-:11-8-3-sample-1_en: TODO
+:11-8-3-sample-1_ga: Ba í *ba* bhainisteoir orthu.
+:11-8-3-sample-1_en: She was the manager *who* they had.
 
-:11-8-3-sample-2_ga: TODO
-:11-8-3-sample-2_en: TODO
+:11-8-3-sample-2_ga: Ba é an rud *ab* fhusa a dhéanamh é.
+:11-8-3-sample-2_en: It was the thing *that* was easiest to do.
 
-:11-8-3-sample-3_ga: TODO
-:11-8-3-sample-3_en: TODO
+:11-8-3-sample-3_ga: Is í sin an bhean *ar* mhór aici do chabhair.
+:11-8-3-sample-3_en: That is the woman *who* values help greatly.
 
-:11-8-3-sample-4_ga: TODO
-:11-8-3-sample-4_en: TODO
+:11-8-3-sample-4_ga: Níor tharla aon ní *arbh* fhiú trácht air.
+:11-8-3-sample-4_en: Nothing happened *that* was worth mentioning.
 
-:11-8-3-sample-5_ga: TODO
-:11-8-3-sample-5_en: TODO
+:11-8-3-sample-5_ga: Ní dhearna mé aon ní *nár* chuí liom.
+:11-8-3-sample-5_en: I did nothing *that* was suitable for me.
 
-:11-8-4-p_ga: TODO
-:11-8-4-p_en: TODO
+:11-8-4-p_ga: I gcás go mbaintear leas as an gcopail chun béim a leagan ar réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh, is clásal coibhneasta díreach an dara clásal.
+:11-8-4-p_en: In cases where the copula is used to emphasise a simple preposition, a compound preposition, a prepositional pronoun or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
 
-:11-8-4-sample-1_ga: TODO
-:11-8-4-sample-1_en: TODO
+:11-8-4-sample-1_ga: Is arú inné *a tháinig* siad abhaile.
+:11-8-4-sample-1_en: It was yesterday *that* they came home.
 
-:11-8-4-sample-2_ga: TODO
-:11-8-4-sample-2_en: TODO
+:11-8-4-sample-2_ga: Is ón gcomhar creidmheasa *a fuair* mé an t-airgead.
+:11-8-4-sample-2_en: It was from the credit union *that* I got the money.
 
-:11-8-4-sample-3_ga: TODO
-:11-8-4-sample-3_en: TODO
+:11-8-4-sample-3_ga: Ba leis-sean *a bhí* mé ag caint.
+:11-8-4-sample-3_en: It was with him *that* I was talking.
 
-:11-8-4-sample-4_ga: TODO
-:11-8-4-sample-4_en: TODO
+:11-8-4-sample-4_ga: An ar an traein *a chuaigh* tú go Sligeach?
+:11-8-4-sample-4_en: Was it on the train *that* you went to Sligo?
 
-:11-8-4-sample-5_ga: TODO
-:11-8-4-sample-5_en: TODO
+:11-8-4-sample-5_ga: Is chun na Fraince *a théann* sé ar saoire.
+:11-8-4-sample-5_en: It is to France *that* he goes on holiday.
 
-:11-8-4-sample-6_ga: TODO
-:11-8-4-sample-6_en: TODO
+:11-8-4-sample-6_ga: Is de réir a chéile *a dhéantar* dul chun cinn.
+:11-8-4-sample-6_en: It is gradually *that* progress is made.
 
-:11-8-5-p_ga: TODO
-:11-8-5-p_en: TODO
+:11-8-5-p_ga: Déantar cumasc idir na foirmeacha den chopail _ar_, _arb_ agus _arbh_ agus na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ mar a leagtar amach anseo thíos (féach freisin 7.3.2).
+:11-8-5-p_en: A fusion is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also 7.3.2).
 
-:Table11E-caption_ga: TODO
-:Table11E-caption_en: TODO
+:Table11E-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna _ar_, _arb_ agus _arbh_
+:Table11E-caption_en: Fused Forms -- Prepositions with the Particles _ar_, _arb_ and _arbh_
 
-:Table11E-header1_ga: TODO
-:Table11E-header1_en: TODO
+:Table11E-header1_ga: Réamhfhocal
+:Table11E-header1_en: Preposition
 
-:Table11E-header2_ga: TODO
-:Table11E-header2_en: TODO
+:Table11E-header2_ga: + _ar_ na copaile
+:Table11E-header2_en: + the copula _ar_
 
-:Table11E-header3_ga: TODO
-:Table11E-header3_en: TODO
+:Table11E-header3_ga: + _arb_ na copaile
+:Table11E-header3_en: + the copula _arb_
 
-:Table11E-header4_ga: TODO
-:Table11E-header4_en: TODO
+:Table11E-header4_ga: + _arbh_ na copaile
+:Table11E-header4_en: + the copula _arbh_
 
-:11-9-title_ga: TODO
-:11-9-title_en: TODO
+:11-9-title_ga: An Clásal Coibhneasta -- Samplaí Breise
+:11-9-title_en: The Relative Clause -- Additional Examples
 
-:Table11F-caption_ga: TODO
-:Table11F-caption_en: TODO
+:Table11F-caption_ga: Focail agus Nathanna a leanann Clásal Coibhneasta Díreach iad
+:Table11F-caption_en: Words and Phrases Followed by a Direct Relative Clause
 
-:Table11F-header1_ga: TODO
-:Table11F-header1_en: TODO
+:Table11F-header1_ga: Coibhneas Díreach
+:Table11F-header1_en: Direct Relative
 
-:Table11F-header2_ga: TODO
-:Table11F-header2_en: TODO
+:Table11F-header2_ga: Sampla
+:Table11F-header2_en: Example
 
-:Table-11F-footnote_ga: TODO
-:Table-11F-footnote_en: TODO
+:Table-11F-footnote_ga: Leagan seanbhunaithe is ea _cén fhad_. Is ainmfhocal firinscneach é _fad_ i gcónaí.
+:Table-11F-footnote_en: _an fhad_ is an established form. _Fad_ is always a masculine noun.
 
-:Table11G-caption_ga: TODO
-:Table11G-caption_en: TODO
+:Table11G-caption_ga: Focail agus Nathanna a leanann Clásal Coibhneasta Indíreach iad
+:Table11G-caption_en: Words and Phrases Followed by an Indirect Relative Clause
 
-:Table11G-header1_ga: TODO
-:Table11G-header1_en: TODO
+:Table11G-header1_ga: Coibhneas Indíreach
+:Table11G-header1_en: Indirect Relative
 
-:Table11G-header2_ga: TODO
-:Table11G-header2_en: TODO
+:Table11G-header2_ga: Sampla
+:Table11G-header2_en: Example

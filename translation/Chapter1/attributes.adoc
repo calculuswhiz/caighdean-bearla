@@ -226,7 +226,7 @@
 :1-3-3_en: The general rules of the dative are applied to forms of this type: _perposition_ + _noun_ + _a_ + _verbal noun_, e.g., _leis an ngnó a dhéanamh; as an árasán a dhíol_.
 
 :1-3-4_ga: I gcás na réamhfhocal _de, do, faoi, i_ agus _ó_, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.
-:1-3-4_en: In the case of prepositions _de, do, faoi, i_ and _ó_, the preposition and the singular article are merged as shown below.
+:1-3-4_en: In the case of prepositions _de, do, faoi, i_ and _ó_, the preposition and the singular article are fused as shown below.
 
 :1-3-5_ga: Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.
 :1-3-5_en: The prepositions in the below table have specific forms when they precede the singular article.
@@ -374,7 +374,7 @@ This will (mostly) just be some algebra here...
 :1-6-2-title_en: The Dative Plural Case
 
 :1-6-2-p1_ga: Leanann an tuiseal tabharthach na réamhfhocail _a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí_ agus _um_. Déantar cumasc idir an réamhfhocal _i_ agus an t-alt san uimhir iolra: _i_ + _na_ = _sna_. Tá foirm ar leith ar _fara_ agus _le_ roimh an alt san uimhir iolra: _fara, fairis; le, leis_. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.
-:1-6-2-p1_en: The dative plural case follows the prepositions _a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí_ and _um_. The prepostion _i_ is combined with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara, fairis; le, leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
+:1-6-2-p1_en: The dative plural case follows the prepositions _a, ag, ar, as, chuig, dar, de, do, faoi, fara, go, i, ionsar, le, ó, roimh, trí_ and _um_. The prepostion _i_ is fused with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara, fairis; le, leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
 
 :Table1H-caption_ga: An Tuiseal Tabharthach Iolra
 :Table1H-caption_en: The Dative Plural Case

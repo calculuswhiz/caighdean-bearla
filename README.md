@@ -126,5 +126,5 @@ _$0_
 If copying directly to VS Code, this might speed up italicization of certain phrases (error prone, so be careful).
 
 ```
-(?<= )[^aeiou](?= )|(?<=e.g., |; ).*?(?=([;,:.]| \())
+(?<= )[^aeiou](?= )|(?<=e.g., |[;,] ).*?(?=([;,:.]| \())
 ```
