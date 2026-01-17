@@ -134,7 +134,7 @@
 :1-1_5-title_en: The Cases
 
 :1-1_5-p_ga: Cúig thuiseal atá sa Ghaeilge: an tuiseal ainmneach, an tuiseal cuspóireach, an tuiseal tabharthach, an tuiseal ginideach agus an tuiseal gairmeach (féach 2.1.2). Sna táblaí a leanas, taispeántar na hathruithe a dhéantar ar an alt agus ar thúslitir an ainmfhocail bunaithe ar cheithre ní -- inscne, tuiseal, uimhir agus túslitir an ainmfhocail. Féach freisin Caibidil 10 le haghaidh eolas breise ar na hathruithe tosaigh.
-:1-1_5-p_en: There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see 2.1.2). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items -- gender, case, number and the first letter of the noun. Also see Chapter 10 for additional information about initial changes.
+:1-1_5-p_en: There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see 2.1.2). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items -- gender, case, number and the first letter of the noun. Also see Chapter 10 for additional information about initial mutations.
 
 :1-2-title_ga: An Tuiseal Ainmneach agus an Tuiseal Cuspóireach Uatha
 :1-2-title_en: The Nominative Case and the Singular Accusative Case

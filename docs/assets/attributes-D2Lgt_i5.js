@@ -26,7 +26,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-1-1-c-text_en: qualification of the subject with a predicate adjective or with a phrase starting with a preposition:
 
 :7-1-1-d-text_ga: ainmfhocal nó clásal a cháiliú le haidiacht, nó le hainmfhocal, móide forainmneach réamhfhoclach:
-:7-1-1-d-text_en: qualification of a noun or clause, or with a noun plus a prepositional pronoun:
+:7-1-1-d-text_en: qualification of a noun or clause, or with a noun plus a prepositional pronominal:
 
 :7-1-1-e-text_ga: ainmfhocal a cháiliú le breischéim aidiachta:
 :7-1-1-e-text_en: qualification of a noun with a comparative adjective:
@@ -47,7 +47,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-title_en: Simple Forms of the Copula and Initial Mutation
 
 :7-2-a-p_ga: Is ionann foirm shimplí agus foirm den chopail nach bhfuil i gcumasc le forainmneach ceisteach, réamhfhocal nó cónasc.
-:7-2-a-p_en: A simple form is a form of the copula that is not combined with an interrogative pronoun, preposition or conjunction.
+:7-2-a-p_en: A simple form is a form of the copula that is not combined with an interrogative pronominal, preposition or conjunction.
 
 :7-2-b-p1_ga: Leagtar amach anseo foirmeacha simplí na copaile:
 :7-2-b-p1_en: The simple forms of copula are given here:
@@ -115,7 +115,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-1-B-b-ii-p_en: prepositions, e.g., _Ba ar theacht i bhfeidhm an Achta a tharla sé_;
 
 :7-2-1-B-b-iii-p_ga: forainmnigh réamhfhoclacha, e.g., _Ba ann a bhí sé_;
-:7-2-1-B-b-iii-p_en: prepositional pronouns, e.g., _Ba ann a bhí sé_;
+:7-2-1-B-b-iii-p_en: prepositional pronominals, e.g., _Ba ann a bhí sé_;
 
 :7-2-1-B-b-iv-p_ga: dobhriathra nach dobhriathra aidiachtacha iad, e.g., _Ba arú inné a d'ith siad an cáca_.
 :7-2-1-B-b-iv-p_en: adverbs that are not adjectival adverbs, e.g., _Ba arú inné a d'ith siad an cáca_.
@@ -130,13 +130,13 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-1-B-c-ii-p_en: adjectives, e.g., _B'fhearúil an duine é_;
 
 :7-2-1-B-c-iii-p_ga: na forainmnigh thaispeántacha _eo_, _in_ agus _iúd_, e.g., _B'in é é_; _B'eo amach é_.
-:7-2-1-B-c-iii-p_en: the demonstrative pronouns _eo_, _in_ and _iúd_, e.g., _B'in é é_; _B'eo amach é_.
+:7-2-1-B-c-iii-p_en: the demonstrative pronominals _eo_, _in_ and _iúd_, e.g., _B'in é é_; _B'eo amach é_.
 
 :7-2-1-B-c-iv-p_ga: dobhriathra aidiachtacha, e.g., _B'annamh a dhéanadh sé é_.
 :7-2-1-B-c-iv-p_en: adjectival adverbs, e.g., _B'annamh a dhéanadh sé é_.
 
 :7-2-1-B-d-p_ga: Ceadaítear na foirmeacha _ba_ nó _ab_ a úsáid roimh an bhforainmneach neodrach _ea_ i lár abairt atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach, e.g., _Saighdiúirí ab ea iad_ nó _Saighdiúirí ba ea iad_.
-:7-2-1-B-d-p_en: The forms _ba_ or _ab_ are allowed to be used before the neuter pronoun _ea_ in the middle of a sentence that is in the past, present or conditional tenses, e.g., _Saighdiúirí ab ea iad_ nó _Saighdiúirí ba ea iad_.
+:7-2-1-B-d-p_en: The forms _ba_ or _ab_ are allowed to be used before the neuter pronominal _ea_ in the middle of a sentence that is in the past, present or conditional tenses, e.g., _Saighdiúirí ab ea iad_ nó _Saighdiúirí ba ea iad_.
 
 :7-2-1-B-p2_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach den chopail i bpríomhchlásal atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
 :7-2-1-B-p2_en: The table below shows the positive form of copula in a main clause that is in the past tense, the past habitual tense or the conditional mood.
@@ -193,13 +193,13 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-2-A-b-ii-p_en: prepositions, e.g., _Deir sí gur ag an rince a bheidh sí_;
 
 :7-2-2-A-b-iii-p_ga: forainmnigh réamhfhoclacha, e.g., _Dúradh liom gur uait a tháinig an leabhar sin_;
-:7-2-2-A-b-iii-p_en: prepositional pronouns, e.g., _Dúradh liom gur uait a tháinig an leabhar sin_;
+:7-2-2-A-b-iii-p_en: prepositional pronominals, e.g., _Dúradh liom gur uait a tháinig an leabhar sin_;
 
 :7-2-2-A-b-iv-p_ga: dobhriathra (seachas _amhlaidh_) nach dobhriathra aidiachtacha iad, e.g., _Síltear gur amach anseo atá i gceist_; _Tuigtear dom gur amuigh sa ghairdín atá an ceiliúradh ar bun_;
 :7-2-2-A-b-iv-p_en: adverbs (other than _amhlaidh_) which are not adjectival adverbs, e.g., _Síltear gur amach anseo atá i gceist_; _Tuigtear dom gur amuigh sa ghairdín atá an ceiliúradh ar bun_;
 
 :7-2-2-A-b-v-p_ga: na forainmnigh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_ más gníomhaí nó cuspóir ainm bhriathartha an forainmneach, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
-:7-2-2-A-b-v-p_en: the pronouns _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_ if the pronoun is the agent or object of a verbal noun, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
+:7-2-2-A-b-v-p_en: the pronominals _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_ if the pronominal is the agent or object of a verbal noun, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
 
 :7-2-2-A-c-p_ga: Cuirtear _gurb_ roimh ghuta sna cásanna seo a leanas:
 :7-2-2-A-c-p_en: _gurb_ is preceded by a vowel in the following cases:
@@ -211,10 +211,10 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-2-A-c-ii-p_en: _amhlaidh (gurb amhlaidh)_, or adjectival adverbs (_go hard_, _gurb ard_; _go hannamh_, _gurb annamh_), e.g., _Measaim gurb amhlaidh atá; Sílim gurb annamh a tharlaíonn a leithéid_;
 
 :7-2-2-A-c-iii-p_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_ nuair nach gníomhaí ná cuspóir ainm bhriathartha an forainmneach, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
-:7-2-2-A-c-iii-p_en: the pronouns _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_ when the pronoun is neither the agent nor the object of the verb noun, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
+:7-2-2-A-c-iii-p_en: the pronominals _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_ when the pronominal is neither the agent nor the object of the verb noun, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
 
 :7-2-2-A-c-iv-p_ga: na forainmnigh thaispeántacha _eo_, _in_ agus _iúd_, e.g., _Deir sí gurb in é an fear_;
-:7-2-2-A-c-iv-p_en: the demonstrative pronouns _eo_, _in_ and _iúd_, e.g., _Deir sí gurb in é an fear_;
+:7-2-2-A-c-iv-p_en: the demonstrative pronominals _eo_, _in_ and _iúd_, e.g., _Deir sí gurb in é an fear_;
 
 :7-2-2-A-c-v-p_ga: na frásaí copaile réamhfhoclacha seo a leanas: _acmhainn do_, _áil le_, _aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Dar leo gurb acmhainn dóibh teach a cheannach_;
 :7-2-2-A-c-v-p_en: the following prepositional copula phrases: _acmhainn do_, _áil le_, _aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Dar leo gurb acmhainn dóibh teach a cheannach_; 
@@ -271,13 +271,13 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-2-B-b-ii_en: _go mba_ is placed before a vowel or before _fh-_ + _vowel_ in the following cases:
 
 :7-2-2-B-b-ii-1_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
-:7-2-2-B-b-ii-1_en: the pronouns _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
+:7-2-2-B-b-ii-1_en: the pronominals _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
 
 :7-2-2-B-b-ii-2_ga: réamhfhocail, e.g., _Mheas mé go mba ar an mbád a tháinig siad_;
 :7-2-2-B-b-ii-2_en: prepositions, e.g., _Mheas mé go mba ar an mbád a tháinig siad_;
 
 :7-2-2-B-b-ii-3_ga: forainmnigh réamhfhoclacha, e.g., _Shíl mé go mba ann dó_;
-:7-2-2-B-b-ii-3_en: prepositional pronouns, e.g., _Shíl mé go mba ann dó_;
+:7-2-2-B-b-ii-3_en: prepositional pronominals, e.g., _Shíl mé go mba ann dó_;
 
 :7-2-2-B-b-ii-4_ga: dobhriathra nach dobhriathra aidiachtacha iad, e.g., _Dúirt sé go mba arú inné a réitigh sí an dinnéar_.
 :7-2-2-B-b-ii-4_en: adverbs that are not adjectival adverbs, e.g., _Dúirt sé go mba arú inné a réitigh sí an dinnéar_.
@@ -292,7 +292,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-2-B-b-iii-2_en: adjectives, e.g., _Dúirt na gasúir go mb'aoibhinn leo an cáca milis_;
 
 :7-2-2-B-b-iii-3_ga: na forainmnigh thaispeántacha _eo_, _in_ agus _úd_, e.g., _Dúirt sé go mb'in a raibh aige_;
-:7-2-2-B-b-iii-3_en: the demonstrative pronouns _eo_, _in_ and _úd_, e.g., _Dúirt sé go mb'in a raibh aige_;
+:7-2-2-B-b-iii-3_en: the demonstrative pronominals _eo_, _in_ and _úd_, e.g., _Dúirt sé go mb'in a raibh aige_;
 
 :7-2-2-B-b-iii-4_ga: dobhriathra aidiachtacha, e.g., _Dúirt sé go mb'annamh a théadh sé ann_.
 :7-2-2-B-b-iii-4_en: adjectival adverbs, e.g., _Dúirt sé go mb'annamh a théadh sé ann_.
@@ -391,7 +391,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-5-A-title_en: The Present Tense and the Future Tense
 
 :7-2-5-A-a-p_ga: Ní dhéantar aon athrú tosaigh i ndiaidh na bhfoirmeacha seo a leanas den chopail:
-:7-2-5-A-a-p_en: No initial change is made after the following forms of the copula:
+:7-2-5-A-a-p_en: No initial mutation is made after the following forms of the copula:
 
 :7-2-5-A-a-i-p_ga: an fhoirm dheimhneach den chopail _is_, e.g., _Is bréag é_;
 :7-2-5-A-a-i-p_en: the positive form of the copula _is_, e.g., _Is bréag é_;
@@ -406,7 +406,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-5-A-b-p_en: _h_ is preceded by a vowel after the negative form of the copula _ní_:
 
 :7-2-5-A-b-i-p_ga: ar na forainmnigh _é_, _í_, _ea_, _iad_, _eo_, _in_ agus _iúd_, e.g., _Ní hiad a ghoid do mhála_; _Ní hin é mo theachsa_;
-:7-2-5-A-b-i-p_en: on the pronouns _é_, _í_, _ea_, _iad_, _eo_, _in_ and _iúd_, e.g., _Ní hiad a ghoid do mhála_; _Ní hin é mo theachsa_;
+:7-2-5-A-b-i-p_en: on the pronominals _é_, _í_, _ea_, _iad_, _eo_, _in_ and _iúd_, e.g., _Ní hiad a ghoid do mhála_; _Ní hin é mo theachsa_;
 
 :7-2-5-A-b-ii-p_ga: ar na haidiachtaí seo: _amháin_, _aon_, _ionann_, _iondúil_, e.g., _Ní hionann an dá chás_;
 :7-2-5-A-b-ii-p_en: on these adjectives: _amháin_, _aon_, _ionann_, _iondúil_, e.g., _Ní hionann an dá chás_;
@@ -451,7 +451,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :Table7L-subheader-col2_en: _h_ is not put before vowel after _ní_
 
 :Table7L-row1-col1_ga: ar na forainmnigh seo: _é_, _í_, _ea_, _iad_, _eo_, _in_, _iúd_
-:Table7L-row1-col1_en: on these pronouns: _é_, _í_, _ea_, _iad_, _eo_, _in_, _iúd_
+:Table7L-row1-col1_en: on these pronominals: _é_, _í_, _ea_, _iad_, _eo_, _in_, _iúd_
 
 :Table7L-row1-col2_ga: ar ainmfhocail i gcoitinne
 :Table7L-row1-col2_en: on nouns in general
@@ -487,34 +487,34 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-3-title_en: Compound Forms of the Copula
 
 :7-3-1-title_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail
-:7-3-1-title_en: Interrogative pronouns combined with the copula
+:7-3-1-title_en: Interrogative Pronominals combined with the copula
 
 :7-3-1-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-3-1-A-title_en: The Present Tense and the Future Tense
 
 :7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach 8.5.4).
-:7-3-1-A-p_en: In the table below, examples of interrogative pronouns combined with the copula in the present tense or future tense are given (see 8.5.4).
+:7-3-1-A-p_en: In the table below, examples of interrogative pronominals combined with the copula in the present tense or future tense are given (see 8.5.4).
 
 :Table7M-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7M-header_en: The Present Tense and the Future Tense
 
 :Table7M-caption_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
-:Table7M-caption_en: Interrogative pronouns combined with the copula — The Present Tense and the Future Tense
+:Table7M-caption_en: Interrogative Pronominals combined with the copula — The Present Tense and the Future Tense
 
 :7-3-1-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :7-3-1-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :7-3-1-B-p1_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-3-1-B-p1_en: In the table below, examples of interrogative pronouns combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
+:7-3-1-B-p1_en: In the table below, examples of interrogative pronominals combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
 :Table7N-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7N-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :Table7N-caption_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
-:Table7N-caption_en: Interrogative Pronouns combined with the Copula — The Past Tense, the Past Habitual Tense and the Conditional Mood
+:Table7N-caption_en: Interrogative Pronominals combined with the Copula — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :7-3-1-p_ga: Tabhair faoi deara nach n-úsáidtear an cumasc _cérbh_ ach roimh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_. Ní dhéantar cumasc idir _cé_ agus na foirmeacha _ab_ nó _ba_ den chopail nuair nach forainmneach pearsanta a leanann _cé_: _cérbh é_; ach _cé ab fhearr_?; _cé ba chaptaen oraibh_?
-:7-3-1-p_en: Note that the compound _cérbh_ is only used before _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_. _cé_ does not merge with the _ab_ or _ba_ forms of the copula when _cé_ is not followed by a personal pronoun: _cérbh é_; but _cé ab fhearr_?; _cé ba chaptaen oraibh_?
+:7-3-1-p_en: Note that the compound _cérbh_ is only used before _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_. _cé_ does not merge with the _ab_ or _ba_ forms of the copula when _cé_ is not followed by a personal pronominal: _cérbh é_; but _cé ab fhearr_?; _cé ba chaptaen oraibh_?
 
 :7-3-2-title_ga: Réamhfhocail i gcumasc leis an gCopail
 :7-3-2-title_en: Prepositions in combination with the Copula

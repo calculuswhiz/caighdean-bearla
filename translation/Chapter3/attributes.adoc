@@ -56,7 +56,7 @@
 :3-1-7-p1_en: There are some noun phrases that have nouns in them which would be definite according to 3.1.2 are indefinite because the whole phrase is being used as a single unit of meaning as an indefinite noun. Sometimes, in these cases, the article is used when the whole phrase functions as a definite noun, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
 
 :3-1-7-p2_ga: Tabhair faoi deara go gcoinnítear an t-alt freisin i gcás go dtagann uimhir nó litir i ndiaidh ainmfhocal atá á cháiliú le forainmneach taispeántach, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
-:3-1-7-p2_en: Note that the article is also retained when a number or letter comes after a noun that is qualified by a demonstrative pronoun, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
+:3-1-7-p2_en: Note that the article is also retained when a number or letter comes after a noun that is qualified by a demonstrative pronominal, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
 
 :3-1-8-p_ga: Maidir le teidil a mbíonn blianta ag gabháil leo -- teidil féilte agus tuarascálacha bliantúla, mar shampla -- níor cheart an t-alt a úsáid ach amháin más aonaid bhrí ar leithligh iad an dáta agus an chuid eile den teideal. Ní hionann brí _An tOireachtas_, _2010_ agus _Oireachtas 2010_ ná _An Tuarascáil Bhliantúil_, _2009_ agus _Tuarascáil Bhliantúil 2009_.
 :3-1-8-p_en: As for titles with years accompanying them -- festival titles and annual reports, for example -- it is not correct to use the article except when the date and title have sparate units of meaning. These have different meanings: _An tOireachtas, 2010_ and _Oireachtas 2010_ or _An Tuarascáil Bhliantúil, 2009_ and _Tuarascáil Bhliantúil 2009_.
@@ -212,7 +212,7 @@
 :3-3-2-b-p2_en: *But*, they are inflected when they are normal nouns.
 
 :3-3-2-c-p1_ga: Nuair a úsáidtear aon ainmfhocal coiteann amháin gan an t-alt leis mar ainm comhlachta, cumainn nó cláir, ní dhéantar infhilleadh ná athrú tosaigh ar an ainmfhocal, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
-:3-3-2-c-p1_en: When using a single common noun without the article as the name of a company, association or program, no inflection or initial change is made to the noun, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
+:3-3-2-c-p1_en: When using a single common noun without the article as the name of a company, association or program, no inflection or initial mutation is made to the noun, e.g., _buaicphointe Múscailt_, _ceannáras Muintearas_, _ceardlanna Síolta_, _gníomhairí Bóthar_.
 
 :3-3-3-title_ga: An tAinmfhocal Éiginnte -- An tAinm Briathartha
 :3-3-3-title_en: The Indefinite Noun -- The Verbal Noun
@@ -221,7 +221,7 @@
 :3-3-3-p_en: A verbal noun is a word that has both the function of a noun and a verb. It is possible to use words like _eitilt_, _foghlaim_, _snámh_, etc. like nouns, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, and as a verbal noun, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. This accounts for cases where the nominative form is used instead of the genitive form.
 
 :3-3-3-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainm briathartha nuair atá an forainmneach réamhthagrach _a_ roimhe.
-:3-3-3-a-p_en: The genitive case of a verbal noun is not changed when preceded by the prepositional pronoun _a_.
+:3-3-3-a-p_en: The genitive case of a verbal noun is not changed when preceded by the prepositional pronominal _a_.
 
 :3-3-3-b-p1_ga: Má tá ainm briathartha sa struchtúr _chun_ + _ainm briathartha_ á úsáid chun gníomh atá le teacht a chur in iúl, ní dhéantar athrú an ghinidigh air.
 :3-3-3-b-p1_en: If there is a verbal noun in the structure _chun_ + _ainm briathartha_ used to express an upcoming action, the genitive case is not changed.
@@ -332,7 +332,7 @@
 :Table3C-caption_en: Qualifiers -- Indefinite Noun subject to a Compound Preposition
 
 :Table3C-Row3_ga: Fochlásal réamhfhoclach, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., nó forainmneach réamhfhoclach, e.g., _air_, _fúithi_, _uainn_, etc., má tá feidhm aidiachtach aige
-:Table3C-Row3_en: Prepositional dependent clause, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., or prepositional pronoun, e.g., _air_, _fúithi_, _uainn_, etc., if it has a adjectival function
+:Table3C-Row3_en: Prepositional dependent clause, e.g., _ar an mBille_, _faoin mbord_, _sa phóstaer_, etc., or prepositional pronominal, e.g., _air_, _fúithi_, _uainn_, etc., if it has a adjectival function
 
 :Table3C-Row5_ga: An aidiacht éiginnte _aon_
 :Table3C-Row5_en: The indefinite adjective _aon_
@@ -364,7 +364,7 @@
 :Table3E-caption_en: Form of the Genitive -- Noun + Indefinite Noun + Qualifier
 
 :3-3-12-b-p_ga: Déantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag réamhfhocal comhshuite agus a dtagann frása réamhfhoclach, fochlásal réamhfhoclach nó forainmneach réamhfhoclach ina dhiaidh mura bhfuil an t-ainmfhocal éiginnte cáilithe leis an bhfrása réamhfhoclach, leis an bhfochlásal réamhfhoclach nó leis an bhforainmneach réamhfhoclach sin (mar shampla, más é an briathar seachas an t-ainmfhocal éiginnte atá cáilithe) ná le haon cheann de na cáilitheoirí eile a luaitear i dtábla 3C.
-:3-3-12-b-p_en: The genitive is changed for an indefinite noun is subject to a compound preposition and followed by a prepositional phrase, prepositional phrase or prepositional pronoun unless the indefinite noun is qualified by that prepositional phrase, prepositional dependent clause or prepositional pronoun (for example, if the verb rather than the indefinite noun is qualified) or by any of the other qualifier mentioned in table 3C.
+:3-3-12-b-p_en: The genitive is changed for an indefinite noun is subject to a compound preposition and followed by a prepositional phrase, prepositional phrase or prepositional pronominal unless the indefinite noun is qualified by that prepositional phrase, prepositional dependent clause or prepositional pronominal (for example, if the verb rather than the indefinite noun is qualified) or by any of the other qualifier mentioned in table 3C.
 
 :Table3F-caption_ga: Foirm an Ghinidigh -- Ainmfhocal Éiginnte atá faoi réir ag Réamhfhocal Comhshuite
 :Table3F-caption_en: Form of the Genitive -- An Indefinite Noun subject to a Compound Preposition
@@ -420,7 +420,7 @@
 // FYI Page break in doc
 
 :Table3G-row6-condition_ga: Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (3.3.3(a))
-:Table3G-row6-condition_en: A verbal noun that is preceded by the proleptic pronoun _a_ (3.3.3(a))
+:Table3G-row6-condition_en: A verbal noun that is preceded by the proleptic pronominal _a_ (3.3.3(a))
 
 :nopass-Table3G-row6-rule_ga: {Table3G-row1-rule}
 :nopass-Table3G-row6-rule_en: {Table3G-row1-rule}

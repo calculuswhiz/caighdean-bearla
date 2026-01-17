@@ -131,7 +131,7 @@ const a=`:chapterTitle_ga: An Aidiacht
 :4-3-4-p_en: The adjective following a female baptismal name is not inflected, e.g., _Máire Mhór_, _teach Mháire Mhór_.
 
 :4-3-5-p_ga: Ní infhilltear an aidiacht ná ní dhéantar athrú tosaigh uirthi ar lorg dobhriathra nó aidiachtaí a úsáidtear mar dhobhriathra amhail _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
-:4-3-5-p_en: The adjective is neither inflected nor does it undergo an initial change after adverbs or adjectives used as adjectives _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
+:4-3-5-p_en: The adjective is neither inflected nor does it undergo an initial mutation after adverbs or adjectives used as adjectives _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
 
 :4-3-6-p_ga: Ní infhilltear an aidiacht ar lorg na míre treise _an-_.
 :4-3-6-p_en: The adjective is not inflected after the emphatic particle _an-_.
@@ -346,13 +346,13 @@ const a=`:chapterTitle_ga: An Aidiacht
 :4-9-title_en: The Possessive Adjective
 
 :4-9-p_ga: De bhrí go bhfeidhmíonn na haidiachtaí sealbhacha, _mo_, _do_, _a_ (firinscneach agus baininscneach uatha), _ár_, _bhur_ agus _a_ (iolra) mar fhorainmneacha sa ghinideach, déantar trácht orthu i gCaibidil 8.
-:4-9-p_en: Because the possessive adjectives, _mo_, _do_, _a_ (masculine and feminine singular), _ár_, _bhur_ and _a_ (plural) function as pronouns in the genitive, they are discussed in Chapter 8.
+:4-9-p_en: Because the possessive adjectives, _mo_, _do_, _a_ (masculine and feminine singular), _ár_, _bhur_ and _a_ (plural) function as pronominals in the genitive, they are discussed in Chapter 8.
 
 :4-10-title_ga: An Aidiacht Thaispeántach
 :4-10-title_en: The Demonstrative Adjective
 
 :4-10-p_ga: Is iad _seo_, _sin_, _siúd_ agus _úd_ na haidiachtaí taispeántacha. (Cé gur forainmnigh thaispeántacha iad _seo_, _sin_ agus _siúd_, is minic a dhéantar tagairt dóibh mar aidiachtaí taispeántacha.)
-:4-10-p_en: The demonstrative adjectives are _seo_, _sin_, _siúd_ and _úd_. (Although _seo_, _sin_ and _siúd_ are demonstrative pronouns, they are often referred to as demonstrative adjectives.)
+:4-10-p_en: The demonstrative adjectives are _seo_, _sin_, _siúd_ and _úd_. (Although _seo_, _sin_ and _siúd_ are demonstrative pronominals, they are often referred to as demonstrative adjectives.)
 
 :4-11-title_ga: An Aidiacht Fhaisnéiseach
 :4-11-title_en: The Predicative Adjective

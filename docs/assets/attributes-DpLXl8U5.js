@@ -38,7 +38,7 @@ const a=`:chapterTitle_ga: An Dobhriathar
 :6-1-1-c-SampleBox-eg2_en: He went *out*.
 
 :6-1-1-d-p_ga: *dobhriathar ceisteach* (cé gur forainmnigh cheisteacha iad na míreanna seo (féach 8.5), is minic a dhéantar tagairt dóibh mar dhobhriathra ceisteacha), e.g., _cá_ (_cá bhfuil_, _cá háit_), _cad_ (_cad a…_, _cad as_, _cad chuige_, _cad é_, _cad é mar_), _cathain_ (_cathain a…_), _céard_ (_céard a…_, _céard é_), _cén_ (_cén chaoi_, _cén uair_), _conas_ (_conas a…_):
-:6-1-1-d-p_en: *interrogative adverb* (although these clauses are interrogative pronouns (see 8.5), they are often referred to as interrogative adverbs), e.g., _cá_ (_cá bhfuil_, _cá háit_), _cad_ (_cad a…_, _cad as_, _cad chuige_, _cad é_, _cad é mar_), _cathain_ (_cathain a…_), _céard_ (_céard a…_, _céard é_), _cén_ (_cén chaoi_, _cén uair_), _conas_ (_conas a…_):
+:6-1-1-d-p_en: *interrogative adverb* (although these clauses are interrogative particles (see 8.5), they are often referred to as interrogative adverbs), e.g., _cá_ (_cá bhfuil_, _cá háit_), _cad_ (_cad a…_, _cad as_, _cad chuige_, _cad é_, _cad é mar_), _cathain_ (_cathain a…_), _céard_ (_céard a…_, _céard é_), _cén_ (_cén chaoi_, _cén uair_), _conas_ (_conas a…_):
 
 :6-1-1-d-SampleBox-eg1_ga: *Cá* rachaimid?
 :6-1-1-d-SampleBox-eg1_en: *Where* shall we go?

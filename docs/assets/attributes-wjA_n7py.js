@@ -296,7 +296,7 @@ const a=`:chapterTitle_ga: An Uimhir
 :9-3-9-title_en: The Cardinal Numbers 20+ -- The Tens
 
 :9-3-9-a-p_ga: Is í foirm an ainmnigh uatha den ainmfhocal a chuirtear i ndiaidh na ndeicheanna. Ní dhéantar aon athrú tosaigh ar an ainmfhocal.
-:9-3-9-a-p_en: The nominative singular form of the noun is placed after the tens. No initial change is made to the noun.
+:9-3-9-a-p_en: The nominative singular form of the noun is placed after the tens. No initial mutation is made to the noun.
 
 :9-3-9-b-p_ga: Má tá aidiacht leis, réitíonn an aidiacht le hinscne an ainmfhocail.
 :9-3-9-b-p_en: If there is an adjective, it agrees with the gender of the noun.
@@ -626,7 +626,7 @@ const a=`:chapterTitle_ga: An Uimhir
 :9-5-4-c-p_en: The _t-_ is dropped before _aonú_, _ochtú_, _ochtódú_, etc., e.g., _an t-aonú bliain déag_, _tús an aonú bliain déag_; _an t-ochtú haois déag_, _tús an ochtú haois déag_; _an t-ochtódú cruinniú_, _miontuairiscí an ochtódú cruinniú_.
 
 :9-5-4-d-p_ga: Imríonn an t-alt ar thúslitir na horduimhreach mar a d'imreodh ar ainmfhocal firinscneach, e.g., _bróga an chúigiú girseach_; _seoladh an cheathrú teach is daichead_; ach ní dhéantar athrú tosaigh ar _f_ ná _s_, e.g., _lucht an seachtú hoifig_; _bonn an fichiú himreoir_; _deireadh an seascadú comhdháil_.
-:9-5-4-d-p_en: The article affects the initial mutations of the ordinal numbers as it would affect a masculine noun, e.g., _bróga an chúigiú girseach_; _seoladh an cheathrú teach is daichead_; but no initial change is made to _f_ or _s_, e.g., _lucht an seachtú hoifig_; _bonn an fichiú himreoir_; _deireadh an seascadú comhdháil_.
+:9-5-4-d-p_en: The article affects the initial mutations of the ordinal numbers as it would affect a masculine noun, e.g., _bróga an chúigiú girseach_; _seoladh an cheathrú teach is daichead_; but no initial mutation is made to _f_ or _s_, e.g., _lucht an seachtú hoifig_; _bonn an fichiú himreoir_; _deireadh an seascadú comhdháil_.
 
 :Table9XCaption_ga: Na hOrduimhreacha sa Tuiseal Ginideach
 :Table9XCaption_en: The Ordinal Numbers in the Genitive Case
@@ -767,7 +767,7 @@ const a=`:chapterTitle_ga: An Uimhir
 :9-7-a-p_en: The bare number system is used in the case of decimal numbers, e.g., _1.7 -- a haon ponc a seacht_; _22.4 -- fiche a dó ponc a ceathair_; _84.22 -- ochtó a ceathair ponc a dó a dó_.
 
 :9-7-b-p_ga: Ní dhéantar infhilleadh ná athrú tosaigh ar ainmfhocal atá ar lorg uimhir dheachúlach, bíodh sí i bhfoirm focal nó figiúirí, e.g., _a haon ponc a dó gram_; _1.5 cileagram_; _7.4 méadar ciúbach_.
-:9-7-b-p_en: No inflection or initial change is made to a noun following a decimal number, whether it is in word or figure form, e.g., _a haon ponc a dó gram_; _1.5 cileagram_; _7.4 méadar ciúbach_.
+:9-7-b-p_en: No inflection or initial mutation is made to a noun following a decimal number, whether it is in word or figure form, e.g., _a haon ponc a dó gram_; _1.5 cileagram_; _7.4 méadar ciúbach_.
 
 :9-8-title_ga: Achoimre ar na hUimhreacha
 :9-8-title_en: Summary of the Numbers

@@ -1,8 +1,6 @@
 :ChapterTitle_ga: An Forainmneach
 :ChapterTitle_en: The Pronominal
 
-// Not sure if it's safe to translate this as "pronoun" as the dictionary entries are different for both words...
-
 :8-1-title_ga: Ginearálta
 :8-1-title_en: General
 
@@ -407,10 +405,10 @@
 :8-6-1-a-p_en: in combination with a preceding pronominal, e.g., _Is bronntanas é sin_; _Tabhair cabhair dóibh seo_; _Cá bhfuil a cóipleabhar siúd_?; _dá rachaidís siúd_;
 
 :8-6-1-b-p_ga: go comhaisnéiseach roimh an bhforainmneach pearsanta, e.g., _Sin é an bronntanas_; _Seo é an cóipleabhar_; _Siúd iad na múinteoirí_; _Siúd í an traein chugainn_;
-:8-6-1-b-p_en: in combination before a personal pronoun, e.g., _Sin é an bronntanas_; _Seo é an cóipleabhar_; _Siúd iad na múinteoirí_; _Siúd í an traein chugainn_;
+:8-6-1-b-p_en: in combination before a personal pronominal, e.g., _Sin é an bronntanas_; _Seo é an cóipleabhar_; _Siúd iad na múinteoirí_; _Siúd í an traein chugainn_;
 
 :8-6-1-c-p_ga: thar ceann an fhorainmnigh phearsanta, e.g., _Tá sin álainn_; _Ith seo_; _An bhfuil siúd amhlaidh?_; _D'imigh siúd leis an mbus_; _Sin madra_; _Seo an mála_; _Siúd an fhírinne_; _Cad seo?_; _Cé sin?_; _Sin sin_; _mar seo_; _go dtí sin_; _gan siúd a ól_;
-:8-6-1-c-p_en: in combination with a personal pronoun, e.g., _Tá sin álainn_; _Ith seo_; _An bhfuil siúd amhlaidh?_; _D'imigh siúd leis an mbus_; _Sin madra_; _Seo an mála_; _Siúd an fhírinne_; _Cad seo?_; _Cé sin?_; _Sin sin_; _mar seo_; _go dtí sin_; _gan siúd a ól_;
+:8-6-1-c-p_en: in combination with a personal pronominal, e.g., _Tá sin álainn_; _Ith seo_; _An bhfuil siúd amhlaidh?_; _D'imigh siúd leis an mbus_; _Sin madra_; _Seo an mála_; _Siúd an fhírinne_; _Cad seo?_; _Cé sin?_; _Sin sin_; _mar seo_; _go dtí sin_; _gan siúd a ól_;
 
 :8-6-1-d-p_ga: le feidhm dhobhriathair, e.g., _chomh híseal seo_ (_sin_, _siúd_); _chomh mór seo_ (_sin_, _siúd_).
 :8-6-1-d-p_en: with an adverbial function, e.g., _chomh híseal seo_ (_sin_, _siúd_); _chomh mór seo_ (_sin_, _siúd_).

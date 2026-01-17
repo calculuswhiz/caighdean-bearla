@@ -131,7 +131,7 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :11-2-1-e-note_en: An indirect relative clause can be used instead of the direct relative clause in the case of those temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (see 11.3.1(g)).
 
 :11-2-1-f-p_ga: más é atá sa réamhtheachtaí réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh agus an chopail roimhe chun béim a leagan air (féach 11.8.4):
-:11-2-1-f-p_en: if the antecedent is a simple preposition, a compound preposition, a prepositional pronoun or a prepositional phrase brought to the front along with the copula before it for emphasis (see 11.8.4):
+:11-2-1-f-p_en: if the antecedent is a simple preposition, a compound preposition, a prepositional pronominal or a prepositional phrase brought to the front along with the copula before it for emphasis (see 11.8.4):
 
 :11-2-1-f-sample-1a_ga: Déanfar an obair de réir a chéile.
 :11-2-1-f-sample-1a_en: The work will be done gradually.
@@ -327,7 +327,7 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :11-3-1-e-note_en: See also the explanation of parenthetical clauses in 11.4, e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
 
 :11-3-1-f-p_ga: i gcás forainmnigh cheisteacha amhail _cé_, _cad_ (_é_), etc. nuair a dhéantar réamhfhocal simplí, réamhfhocal comhshuite nó forainmneach réamhfhoclach a thabhairt chun tosaigh san abairt chun go dtagann sé go díreach ar lorg an fhorainmnigh cheistigh:
-:11-3-1-f-p_en: in the case of interrogative pronouns such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronoun is brought to the front of the sentence so that it comes directly before the interrogative pronoun:
+:11-3-1-f-p_en: in the case of interrogative pronominals such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronominal is brought to the front of the sentence so that it comes directly before the interrogative pronominal:
 
 :11-3-1-f-sample-1a_ga: Cé hé + is ina aghaidh a bheidh sibh ag imirt.
 :11-3-1-f-sample-1a_en: Who is it + you will be playing against him.
@@ -897,7 +897,7 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :11-8-3-sample-5_en: I did nothing *that* was suitable for me.
 
 :11-8-4-p_ga: I gcás go mbaintear leas as an gcopail chun béim a leagan ar réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh, is clásal coibhneasta díreach an dara clásal.
-:11-8-4-p_en: In cases where the copula is used to emphasize a simple preposition, a compound preposition, a prepositional pronoun or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
+:11-8-4-p_en: In cases where the copula is used to emphasize a simple preposition, a compound preposition, a prepositional pronominal or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
 
 :11-8-4-sample-1_ga: Is arú inné *a tháinig* siad abhaile.
 :11-8-4-sample-1_en: It was yesterday *that* they came home.

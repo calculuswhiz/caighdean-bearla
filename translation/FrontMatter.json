@@ -47,7 +47,7 @@
         },
         {
           "ga": "focal a cháilíonn ainmfhocal nó forainmneach, e.g., `an carr ``dearg``; an bosca ``mór``; tá sé ``fliuch```",
-          "en": "a word that qualifies a noun or pronoun, e.g., `an carr ``dearg``; an bosca ``mór``; tá sé ``fliuch```"
+          "en": "a word that qualifies a noun or pronominal, e.g., `an carr ``dearg``; an bosca ``mór``; tá sé ``fliuch```"
         }
       ],
       [
@@ -159,7 +159,7 @@
         { "ga": "dobhriathar", "en": "adverb" },
         {
           "ga": "focal nó grúpa focal a cháilíonn focal eile nach ainmfhocal ná forainmneach é, e.g., `rith sé go ``tapa``; bhí sé mall ``go leor``; bhí sí thuas ``beagnach`` nuair a thit sí`",
-          "en": "word or word group that qualifies another word that is not a noun or pronoun, e.g., `rith sé go ``tapa``; bhí sé mall ``go leor``; bhí sí thuas ``beagnach`` nuair a thit sí`"
+          "en": "word or word group that qualifies another word that is not a noun or pronominal, e.g., `rith sé go ``tapa``; bhí sé mall ``go leor``; bhí sí thuas ``beagnach`` nuair a thit sí`"
         }
       ],
       [

@@ -117,7 +117,7 @@
 :5-1-8-title_en: The Dependent Form
 
 :5-1-8-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ nó _do_ + _a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach 10.4.2 agus 10.8.2).
-:5-1-8-p_en: The dependent form follows these conjunctions, relative pronouns and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ or _do_ + _a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see 10.4.2 and 10.8.2).
+:5-1-8-p_en: The dependent form follows these conjunctions, relative pronominals and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ or _do_ + _a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see 10.4.2 and 10.8.2).
 
 :5-1-8-note_ga: San aimsir chaite amháin a úsáidtear na leaganacha a chríochnaíonn ar _-r_ thuas (ach féach 5.4.5).
 :5-1-8-note_en: The forms ending in _-r_ above are used only in the past tense (but see 5.4.5).
@@ -334,7 +334,7 @@
 :5-4-5-title_en: The Dependent Form
 
 :5-4-5-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ nó _do+a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach 10.4.2 agus 10.8.2). Is le _ní_ nó _go_ a léirítear an fhoirm spleách sna táblaí.
-:5-4-5-p_en: The dependent form follows these conjunctions, relative pronouns and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ or _do+a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see 10.4.2 and 10.8.2). The dependent form in the tables is represented by _ní_ or _go_.
+:5-4-5-p_en: The dependent form follows these conjunctions, relative pronominals and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ or _do+a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see 10.4.2 and 10.8.2). The dependent form in the tables is represented by _ní_ or _go_.
 
 :5-4-5-a-p_ga: Úsáidtear na míreanna sin leis na briathra neamhrialta ar an modh céanna ar a n-úsáidtear iad leis na briathra rialta.
 :5-4-5-a-p_en: Those items are used with the irregular verbs in the same way as they are used with the regular verbs.

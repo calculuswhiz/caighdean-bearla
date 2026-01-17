@@ -7,7 +7,7 @@ const a=`// Translation file. Irish maked by ga suffix and English by en suffix.
 :10-1-title_en: General
 
 :10-1-p_ga: Is é is athrú tosaigh ann athrú a dhéantar ar thús focail mar gheall ar inscne, tuiseal, aimsir nó cúinsí eile gramadaí. Áirítear ar na hathruithe tosaigh an séimhiú, an t-urú, _t_ roimh ghuta, _t_ roimh _s_, _h_ roimh ghuta agus _d'_ roimh ghuta nó roimh _fh-_. Tugtar míniú anseo ar úsáid na n-athruithe tosaigh, lena n-áirítear an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal baininscneach agus an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol.
-:10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial changes include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a narrow consonant.
+:10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a narrow consonant.
 
 :10-1_5-title_ga: An Séimhiú
 :10-1_5-title_en: The Lenition
@@ -1430,10 +1430,10 @@ const a=`// Translation file. Irish maked by ga suffix and English by en suffix.
 :10-11-3-sample-2_en: They went on strike in part *with other workers*.
 
 :10-11-4-title_ga: I nDiaidh an Fhorainmnigh Cheistigh
-:10-11-4-title_en: After the Interrogative Pronoun
+:10-11-4-title_en: After the Interrogative Pronominal
 
 :10-11-4-p_ga: Cuirtear _h_ roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh an fhorainmnigh cheistigh _cá_, e.g., _cá hiontas?_; _cá háit?_
-:10-11-4-p_en: _h_ is placed before a noun beginning with a vowel after the interrogative pronoun _cá_, e.g., _cá hiontas_?; _cá háit_?
+:10-11-4-p_en: _h_ is placed before a noun beginning with a vowel after the interrogative pronominal _cá_, e.g., _cá hiontas_?; _cá háit_?
 
 :10-11-4-sample-1_ga: *Cá haois* í anois?
 :10-11-4-sample-1_en: *What age* is she now?
@@ -1646,10 +1646,10 @@ const a=`// Translation file. Irish maked by ga suffix and English by en suffix.
 :10-15-sample-3_en: I was not sure about the amount that he *would eat*.
 
 :10-16-title_ga: Achoimre ar na hAthruithe Tosaigh
-:10-16-title_en: Summary of the Initial Changes
+:10-16-title_en: Summary of the Initial Mutations
 
 :10-16-p1_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear séimhiú ar ainmfhocail, ar aidiachtaí, ar bhriathra agus ar fhorainmnigh. Tá míniú ar an riail iomlán ar fáil faoi na crostagairtí sa cholún ar chlé.
-:10-16-p1_en: As a reference aid, a summary is given here of the cases in which lenition is applied to nouns, adjectives, verbs and pronouns. A full explanation of the rule is available at the cross-references in the left-hand column.
+:10-16-p1_en: As a reference aid, a summary is given here of the cases in which lenition is applied to nouns, adjectives, verbs and pronominals. A full explanation of the rule is available at the cross-references in the left-hand column.
 
 :Table10A-caption_ga: Achoimre ar an Séimhiú
 :Table10A-caption_en: Summary of the Lenition
@@ -1667,7 +1667,7 @@ const a=`// Translation file. Irish maked by ga suffix and English by en suffix.
 :Table10A-noun-rule-1_en: After the articles _an_ in the nominative singular feminine, the genitive singular masculine, and, in some cases, the dative singular, masculine and feminine (10.2.1)
 
 :Table10A-noun-rule-2_ga: I ndiaidh na míre gairmí, uatha nó iolra, firinscneach nó baininscneach (10.2.2)
-:Table10A-noun-rule-2_en: After the possessive pronoun, singular or plural, masculine or feminine (10.2.2)
+:Table10A-noun-rule-2_en: After the possessive particle, singular or plural, masculine or feminine (10.2.2)
 
 :Table10A-noun-rule-3_ga: I ndiaidh na n-aidiachtaí sealbhacha _mo_, _do_ agus _a_ (fir. uatha); i ndiaidh na haidiachta rannaí _uile_; agus i ndiaidh na haidiachta éiginnte _aon_ (10.2.3)
 :Table10A-noun-rule-3_en: After the possessive adjectives _mo_, _do_ and _a_ (masc. singular); after the distributive adjective _uile_; and after the indefinite adjective _aon_ (10.2.3)
@@ -1835,7 +1835,7 @@ const a=`// Translation file. Irish maked by ga suffix and English by en suffix.
 :Table10E-rule-4_en: After _le_ and _go_ (when _go_ means _go dtí_) (10.11.3)
 
 :Table10E-rule-5_ga: I ndiaidh an fhorainmnigh cheistigh _cá_ (10.11.4) 
-:Table10E-rule-5_en: After the interrogative pronoun _cá_ (10.11.4) 
+:Table10E-rule-5_en: After the interrogative pronominal _cá_ (10.11.4) 
 
 :Table10E-rule-6_ga: I ndiaidh _Ó_ i sloinnte (10.11.5) 
 :Table10E-rule-6_en: After _Ó_ in surnames (10.11.5) 

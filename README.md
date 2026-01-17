@@ -92,33 +92,12 @@ Visit the localhost link.
 
 - **Sample Boxes** The gray boxes that show examples will generally be more literally translated to highlight Irish Grammar points (with some attempt to bold corresponding words). If the correspondence does not help, no words may be bolded. If the translation does not serve for this, it may be omitted.
 
+- **"Pronominal"** FGB distinguishes between "pronoun" (forainm) and "pronominal" (forainmneach). This translation will not change for "pronoun".
+
 ### Abbreviations and sources
 Some of these may appear in annotations and comments in the asciidoc code.
 - GT - Google Translate
 - FGB - Foclóir Gaeilge-Béarla, Ó Dónaill, 1977
-
-# Dev Notes
-
-In LibreOffice, you can find+replace things with formatting + regex.
-
-## Finding regexes
-
-### Search
-```
-.*\S+
-```
-
-### Replace
-
-Bold:
-```
-*$0*
-```
-
-Italics:
-```
-_$0_
-```
 
 ### Notes: 
 - Make sure you reset formatting searches after each pass.
