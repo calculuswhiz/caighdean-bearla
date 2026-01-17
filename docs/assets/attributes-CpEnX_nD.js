@@ -19,7 +19,7 @@ const a=`// Tenses and Moods
 :ConditionalMood_en: The Conditional Mood
 
 :SubjunctiveMood_ga: An Modh Foshuiteach
-:SubjunctiveMood_en: The Subjuncive Mood
+:SubjunctiveMood_en: The Subjunctive Mood
 
 :PresentSubjunctiveMood_ga: An Modh Foshuiteach Láithreach
 :PresentSubjunctiveMood_en: The Present Subjunctive Mood
@@ -35,10 +35,6 @@ const a=`// Tenses and Moods
 
 :VerbalAdjective_ga: An Aidiacht Bhriathartha
 :VerbalAdjective_en: The Verbal Adjective
-
-// Verb table attribute processing, json packed. Use single quotes for the attribute
-:nopass-verb-table-attribs_ga: { "table": "{Table}", "indicativeMood": "{IndicativeMood}", "presentTense": "{PresentTense}", "pastTense": "{PastTense}", "pastHabitualTense": "{PastHabitualTense}", "futureTense": "{FutureTense}", "conditionalMood": "{ConditionalMood}", "presentSubjunctiveMood": "{PresentSubjunctiveMood}", "imperativeMood": "{ImperativeMood}", "verbalNoun": "{VerbalNoun}", "verbalAdjective": "{VerbalAdjective}" }
-:nopass-verb-table-attribs_en: { "table": "{Table}", "indicativeMood": "{IndicativeMood}", "presentTense": "{PresentTense}", "pastTense": "{PastTense}", "pastHabitualTense": "{PastHabitualTense}", "futureTense": "{FutureTense}", "conditionalMood": "{ConditionalMood}", "presentSubjunctiveMood": "{PresentSubjunctiveMood}", "imperativeMood": "{ImperativeMood}", "verbalNoun": "{VerbalNoun}", "verbalAdjective": "{VerbalAdjective}" }
 
 // Normal chapter stuff
 
@@ -108,7 +104,7 @@ const a=`// Tenses and Moods
 :5-1-6-title_en: The Negative Particle
 
 :5-1-6-p_ga: Is í _ní_ (_níor_) an mhír dhiúltach agus léirítear í sna táblaí ina dtugtar an fhoirm dhiúltach.
-:5-1-6-p_en: _ní_ (_níor_) is the negative pargicle and is shown in the tables where the negative form is given.
+:5-1-6-p_en: _ní_ (_níor_) is the negative particle and is shown in the tables where the negative form is given.
 
 :5-1-7-title_ga: An Fhoirm Neamhspleách
 :5-1-7-title_en: The Independent Form
@@ -598,8 +594,8 @@ const a=`// Tenses and Moods
 :Table5BB-trait2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach 2.3.2)
 :Table5BB-trait2_en: As a noun in the Second Declension (see 2.3.2)
 
-:Table5BB-trait3_en: Amhail ainmfhocal den Tríú Díochlaonadh, i gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, _-aíl_, _-áint_, _-úint_, _-cht_ agus corrainm briathartha eile (féach 2.4.2)
-:Table5BB-trait3_ga: As a noun in the Third Declension, for verbal nouns ending in _-áil_, _-áíl_, _-áint_, _-únt_, _-cht_ and other verbal nouns (see 2.4.2)
+:Table5BB-trait3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, _-aíl_, _-áint_, _-úint_, _-cht_ agus corrainm briathartha eile (féach 2.4.2)
+:Table5BB-trait3_en: As a noun in the Third Declension, for verbal nouns ending in _-áil_, _-áíl_, _-áint_, _-únt_, _-cht_ and other verbal nouns (see 2.4.2)
 
 :5-6-1-b-ii-p_ga: ar ghnáth-ainmfhocail a úsáidtear chun feidhmeanna de chuid ainm briathartha a dhéanamh ach nach dtéann réimniú briathair thairis sin orthu:
 :5-6-1-b-ii-p_en: common nouns which are used to perform the functions of a verbal noun but which do not undergo verbal conjugation beyond that:

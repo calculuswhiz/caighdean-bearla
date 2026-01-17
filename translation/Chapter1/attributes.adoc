@@ -1,5 +1,5 @@
-:chapterTitle_ga: AN tALT
-:chapterTitle_en: THE ARTICLE
+:chapterTitle_ga: An tAlt
+:chapterTitle_en: The Article
 
 :1-1-1_ga: Alt amháin atá sa Ghaeilge -- an t-alt cinnte. Deirtear gur _ainmfhocal cinnte_ ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: _an_ agus _na_. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
 :1-1-1_en: There is one article in the Irish language -- the definite article. The subject of the article is called the definite noun. Here the article has two forms: _an_ and _na_. The article is placed before the noun, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ or before whatever word is put before the noun as a qualifier e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. It is possible to replace the article with possessive adjectives e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.

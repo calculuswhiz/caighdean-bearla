@@ -1,6 +1,6 @@
 import Asciidoctor from "asciidoctor";
 import React from "react";
-import { processAdocFileContents, tableScan } from "../utility";
+import { processAdocFileContents } from "../utility";
 
 const asciidoctor = Asciidoctor();
 
@@ -50,9 +50,7 @@ export function Chapter({ number, language = "en", onContentReady }: ChapterProp
     }
   }, [chapterAdoc, onContentReady]);
 
-  const processedAdoc = tableScan(chapterAdoc);
-
   return (
-    <div dangerouslySetInnerHTML={{ __html: processedAdoc }} />
+    <div dangerouslySetInnerHTML={{ __html: chapterAdoc }} />
   );
 }

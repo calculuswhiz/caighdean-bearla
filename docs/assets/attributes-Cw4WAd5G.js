@@ -1,5 +1,5 @@
-const a=`:chapterTitle_ga: AN tAINMFHOCAL
-:chapterTitle_en: THE NOUN
+const a=`:chapterTitle_ga: An tAinmfhocal
+:chapterTitle_en: The Noun
 
 :declension-1_ga: An Chéad Díochlaonadh
 :declension-1_en: The First Declension

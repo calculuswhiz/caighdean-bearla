@@ -358,7 +358,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :Table7I-caption_en: Simple Forms in Direct Relative Clauses — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :7-2-4-title_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach
-:7-2-4-title_en: Simple Forms in a Indirect Relative Clause
+:7-2-4-title_en: Simple Forms in an Indirect Relative Clause
 
 :7-2-4-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-2-4-A-title_en: The Present Tense and the Future Tense
@@ -367,7 +367,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :7-2-4-A-p_en: In the table below, the positive and negative forms of the copula in an indirect relative clause that is in the present tense or the future tense are given.
 
 :Table7J-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach — An Aimsir Láithreach agus an Aimsir Fháistineach
-:Table7J-caption_en: Simple Forms in a Indirect Relative Clause — The Present Tense and the Future Tense
+:Table7J-caption_en: Simple Forms in an Indirect Relative Clause — The Present Tense and the Future Tense
 
 :Table7J-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7J-header_en: The Present Tense and the Future Tense
@@ -382,7 +382,7 @@ const a=`:ChapterTitle_ga: An Chopail
 :Table7K-header_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :Table7K-caption_ga: Foirmeacha Simplí i gClásal Coibhneasta Indíreach — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
-:Table7K-caption_en: Simple Forms in a Indirect Relative Clause — The Past Tense, the Past Habitual Tense and the Conditional Mood
+:Table7K-caption_en: Simple Forms in an Indirect Relative Clause — The Past Tense, the Past Habitual Tense and the Conditional Mood
 
 :7-2-5-title_ga: Athruithe Tosaigh i nDiaidh na Copaile
 :7-2-5-title_en: Initial Mutations after the Copula

@@ -330,7 +330,7 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :11-3-1-f-p_en: in the case of interrogative pronouns such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronoun is brought to the front of the sentence so that it comes directly before the interrogative pronoun:
 
 :11-3-1-f-sample-1a_ga: Cé hé + is ina aghaidh a bheidh sibh ag imirt.
-:11-3-1-f-sample-1a_en: Who is it + you will be plaing against him.
+:11-3-1-f-sample-1a_en: Who is it + you will be playing against him.
 
 :11-3-1-f-sample-1b_ga: Cé *ina aghaidh a mbeidh* sibh ag imirt?
 :11-3-1-f-sample-1b_en: Who *is he who* you *will be* playing against?
@@ -477,7 +477,7 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :Table11B-row2-col1_en: It was the thing that she wanted *most*.
 
 :Table11B-row2-col2_ga: Cá háit *is fusa* a n-eagrófar an cheolchoirm?
-:Table11B-row2-col2_en: Where is it *easiest* to organise the concert?
+:Table11B-row2-col2_en: Where is it *easiest* to organize the concert?
 
 :Table11B-row3-col1_ga: Sin (é) an t-amhrán *is fearr* a thaitin liom. 
 :Table11B-row3-col1_en: That is the song I liked *best*.
@@ -897,7 +897,7 @@ const a=`:chapterTitle_ga: An Clásal Coibhneasta
 :11-8-3-sample-5_en: I did nothing *that* was suitable for me.
 
 :11-8-4-p_ga: I gcás go mbaintear leas as an gcopail chun béim a leagan ar réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh, is clásal coibhneasta díreach an dara clásal.
-:11-8-4-p_en: In cases where the copula is used to emphasise a simple preposition, a compound preposition, a prepositional pronoun or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
+:11-8-4-p_en: In cases where the copula is used to emphasize a simple preposition, a compound preposition, a prepositional pronoun or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
 
 :11-8-4-sample-1_ga: Is arú inné *a tháinig* siad abhaile.
 :11-8-4-sample-1_en: It was yesterday *that* they came home.

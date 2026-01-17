@@ -1,5 +1,5 @@
-const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGUS FOIRM AN AINMNIGH IN IONAD AN GHINIDIGH
-:chapterTitle_en: DEFINITE AND INDEFINITE NOUNS, ABBREVIATIONS AND THE FORM OF THE NOMINATIVE IN THE PLACE OF THE GENITIVE
+const a=`:chapterTitle_ga: Ainmfhocail Chinnte agus Éiginnte, Giorrúcháin agus Foirm An Ainmnigh in ionad An Ghinidigh
+:chapterTitle_en: Definite and Indefinite Nouns, Abbreviations and The Form of the Nominative in Place of the Genitive
 
 :3-1-title_ga: Ainmfhocail Chinnte agus Éiginnte
 :3-1-title_en: Definite and Indefinite Nouns
@@ -10,50 +10,50 @@ const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGU
 :3-1-2-p_ga: Is ainmfhocal cinnte --
 :3-1-2-p_en: A definite noun is --
 
-:3-1-2-a_ga: ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán, Gráinne, Leamhcán_:
-:3-1-2-a_en: a proper name (names of particular people or places), e.g., _Fionnán, Gráinne, Leamhcán_:
+:3-1-2-a_ga: ainm dílis (ainm duine nó áite áirithe), e.g., _Fionnán_, _Gráinne_, _Leamhcán_:
+:3-1-2-a_en: a proper name (names of particular people or places), e.g., _Fionnán_, _Gráinne_, _Leamhcán_:
 
-:3-1-2-b_ga: ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht, an obair, an fhadhb_:
-:3-1-2-b_en: a noun that is preceded by the article, e.g., _an tAcht, an obair, an fhadhb_:
+:3-1-2-b_ga: ainmfhocal a bhfuil an t-alt roimhe, e.g., _an tAcht_, _an obair_, _an fhadhb_:
+:3-1-2-b_en: a noun that is preceded by the article, e.g., _an tAcht_, _an obair_, _an fhadhb_:
 
-:3-1-2-c_ga: ainmfhocal a bhfuil aidiacht shealbhach roimhe, e.g., _mo mhac, a hathair, a ngluaisteán_:
-:3-1-2-c_en: a noun that is preceded by a possessive adjective, e.g., _mo mhac, a hathair, a ngluaisteán_:
+:3-1-2-c_ga: ainmfhocal a bhfuil aidiacht shealbhach roimhe, e.g., _mo mhac_, _a hathair_, _a ngluaisteán_:
+:3-1-2-c_en: a noun that is preceded by a possessive adjective, e.g., _mo mhac_, _a hathair_, _a ngluaisteán_:
 
-:3-1-2-d_ga: ainmfhocal a bhfuil _gach, gach aon_ nó _gach uile_ roimhe:
-:3-1-2-d_en: a noun that is preceded by _gach, gach aon_ or _gach uile_:
+:3-1-2-d_ga: ainmfhocal a bhfuil _gach_, _gach aon_ nó _gach uile_ roimhe:
+:3-1-2-d_en: a noun that is preceded by _gach_, _gach aon_ or _gach uile_:
 
-:3-1-2-e_ga: ainmfhocal a bhfuil uimhir nó litir ar a lorg, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
-:3-1-2-e_en: a noun that has a number or letter following it, e.g., _Cuid III, riail a sé, Bus 16, mír (b)_:
+:3-1-2-e_ga: ainmfhocal a bhfuil uimhir nó litir ar a lorg, e.g., _Cuid III_, _riail a sé_, _Bus 16_, _mír (b)_:
+:3-1-2-e_en: a noun that has a number or letter following it, e.g., _Cuid III_, _riail a sé_, _Bus 16_, _mír (b)_:
 
-:3-1-2-f_ga: ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
-:3-1-2-f_en: a noun that has a definite noun following it, e.g., _oifig Áine, óráid an Aire, teach mo mhic, tús gach bliana, sonraí mhír (b)_:
+:3-1-2-f_ga: ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, e.g., _oifig Áine_, _óráid an Aire_, _teach mo mhic_, _tús gach bliana_, _sonraí mhír (b)_:
+:3-1-2-f_en: a noun that has a definite noun following it, e.g., _oifig Áine_, _óráid an Aire_, _teach mo mhic_, _tús gach bliana_, _sonraí mhír (b)_:
 
-:3-1-2-g_ga: ainmfhocal sa tuiseal gairmeach, e.g., _a bhean, a dhuine uasail_:
-:3-1-2-g_en: a noun in the vocative case, e.g., _a bhean, a dhuine uasail_:
+:3-1-2-g_ga: ainmfhocal sa tuiseal gairmeach, e.g., _a bhean_, _a dhuine uasail_:
+:3-1-2-g_en: a noun in the vocative case, e.g., _a bhean_, _a dhuine uasail_:
 
-:3-1-3-p1_ga: Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
-:3-1-3-p1_en: The article is often a part of the proper name (especially for place names) and the article must be used in these cases, e.g., _an Ísiltír, an tSionainn, an Longfort, an Streoillín, an Earagail, An tOileánach_ (when it comes to the book), _na Cruacha Dubha_.
+:3-1-3-p1_ga: Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír_, _an tSionainn_, _an Longfort_, _an Streoillín_, _an Earagail_, _An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
+:3-1-3-p1_en: The article is often a part of the proper name (especially for place names) and the article must be used in these cases, e.g., _an Ísiltír_, _an tSionainn_, _an Longfort_, _an Streoillín_, _an Earagail_, _An tOileánach_ (when it comes to the book), _na Cruacha Dubha_.
 
 :3-1-3-p2_ga: Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
 :3-1-3-p2_en: Note, in cases where it is usual to use the article with a proper name, the article is not put in if the proper name is functioning as an adjective, e.g., _an Nollaig_ vs _cárta Nollag_; _an Ardteist_ vs _scrúdú Ardteiste_; _an Cháisc_ vs _ubh Chásca_.
 
-:3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (féach 1.1.5(i)A).
-:3-1-4-p1_en: The article is used before genitive _Éire, Albain, Gaillimh_, e.g., _oileán na hÉireann, foireann na hAlban, cathair na Gaillimhe_ (see 1.1.5(i)A).
+:3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (féach 1.1.5(i)A).
+:3-1-4-p1_en: The article is used before genitive _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (see 1.1.5(i)A).
 
-:3-1-4-p2_ga: Fágtar an t-alt ar lár roimh _Éireann_ i roinnt leaganacha oifigiúla, áfach, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, agus i roinnt seanleaganacha agus leaganacha fileata, e.g., _plúr ban Éireann, bánchnoic Éireann_.
-:3-1-4-p2_en: The article is left out before _Éireann_ in some official forms, however, e.g., _Dáil Éireann, Seanad Éireann, Iarnród Éireann, Bus Éireann_, and in some old forms and poetic forms, e.g., _plúr ban Éireann, bánchnoic Éireann_.
+:3-1-4-p2_ga: Fágtar an t-alt ar lár roimh _Éireann_ i roinnt leaganacha oifigiúla, áfach, e.g., _Dáil Éireann_, _Seanad Éireann_, _Iarnród Éireann_, _Bus Éireann_, agus i roinnt seanleaganacha agus leaganacha fileata, e.g., _plúr ban Éireann_, _bánchnoic Éireann_.
+:3-1-4-p2_en: The article is left out before _Éireann_ in some official forms, however, e.g., _Dáil Éireann_, _Seanad Éireann_, _Iarnród Éireann_, _Bus Éireann_, and in some old forms and poetic forms, e.g., _plúr ban Éireann_, _bánchnoic Éireann_.
 
 :3-1-5-p_ga: Is féidir an t-alt a úsáid le hainmneacha trádála nuair atá feidhm aidiachtach acu, e.g.,_an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
 :3-1-5-p_en: It is possible to use the article with trade names when they have adjectival function, e.g., _an buidéal Coca Cola_; _sa mhála Supervalu_; _laistigh den doiciméad Word_; _ar an ríomhaire Apple_.
 
-:3-1-6-p1_ga: Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
-:3-1-6-p1_en: The article is not put in front of a noun if it is qualified with a definite noun in the genitive, e.g., _tiománaí an tacsaí, ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (when a certain taxi is involved).
+:3-1-6-p1_ga: Ní chuirtear an t-alt roimh ainmfhocal má tá sé cáilithe le hainmfhocal cinnte sa ghinideach, e.g., _tiománaí an tacsaí_, _ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (nuair atá tacsaí áirithe i gceist).
+:3-1-6-p1_en: The article is not put in front of a noun if it is qualified with a definite noun in the genitive, e.g., _tiománaí an tacsaí_, _ceadúnas thiománaí an tacsaí_; _dáta éaga cheadúnas thiománaí an tacsaí_ (when a certain taxi is involved).
 
-:3-1-6-p2_ga: Cuirtear an t-alt roimh an gcéad ainmfhocal má tá sé cáilithe le hainmfhocal éiginnte, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (cineál áirithe tiománaí); _an freastalaí beáir, an freastalaí bialainne_ (cineál áirithe freastalaí); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (cineál áirithe oifigigh) (féach 3.1.9).
-:3-1-6-p2_en: The article is put in front of the first noun if it is qualified with an indefinite noun, e.g., _an tiománaí tacsaí, an tiománaí leoraí_ (a certain type of driver); _an freastalaí beáir, an freastalaí bialainne_ (a certain type of server); _an t-oifigeach feidhmiúcháin, an t-oifigeach riaracháin_ (a certain type of officer) (see 3.1.9).
+:3-1-6-p2_ga: Cuirtear an t-alt roimh an gcéad ainmfhocal má tá sé cáilithe le hainmfhocal éiginnte, e.g., _an tiománaí tacsaí_, _an tiománaí leoraí_ (cineál áirithe tiománaí); _an freastalaí beáir_, _an freastalaí bialainne_ (cineál áirithe freastalaí); _an t-oifigeach feidhmiúcháin_, _an t-oifigeach riaracháin_ (cineál áirithe oifigigh) (féach 3.1.9).
+:3-1-6-p2_en: The article is put in front of the first noun if it is qualified with an indefinite noun, e.g., _an tiománaí tacsaí_, _an tiománaí leoraí_ (a certain type of driver); _an freastalaí beáir_, _an freastalaí bialainne_ (a certain type of server); _an t-oifigeach feidhmiúcháin_, _an t-oifigeach riaracháin_ (a certain type of officer) (see 3.1.9).
 
 :3-1-7-p1_ga: Tá roinnt frásaí ainmfhoclacha ann a bhfuil ainmfhocal iontu a bheadh cinnte de réir 3.1.2 ach atá éiginnte toisc go bhfuil an frása iomlán á úsáid ina aonad amháin brí mar ainmfhocal éiginnte. Uaireanta, sna cásanna sin, úsáidtear an t-alt nuair atá an frása iomlán ag feidhmiú mar ainmfhocal cinnte, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
-:3-1-7-p1_en: There are some noun phrases that have nouns in them which would be definite according to 3.1.2 are indefinite because the whole phrase is being used as a single unit of meaning as an indefnite noun. Sometimes, in these cases, the article is used when the whole phrase functions as a definite noun, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
+:3-1-7-p1_en: There are some noun phrases that have nouns in them which would be definite according to 3.1.2 are indefinite because the whole phrase is being used as a single unit of meaning as an indefinite noun. Sometimes, in these cases, the article is used when the whole phrase functions as a definite noun, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
 
 :3-1-7-p2_ga: Tabhair faoi deara go gcoinnítear an t-alt freisin i gcás go dtagann uimhir nó litir i ndiaidh ainmfhocal atá á cháiliú le forainmneach taispeántach, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
 :3-1-7-p2_en: Note that the article is also retained when a number or letter comes after a noun that is qualified by a demonstrative pronoun, e.g., _an t-alt sin 5_; _an mhír sin (f)_.
@@ -68,10 +68,10 @@ const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGU
 :3-1-9-a-p_en: when the definite noun is qualified by other definite nouns:
 
 :3-1-9-b-p_ga: nuair atá ainmfhocal éiginnte á cháiliú le hainmfhocal éiginnte eile:
-:3-1-9-b-p_en: when an indefnite noun is qualified by another indefinite noun:
+:3-1-9-b-p_en: when an indefinite noun is qualified by another indefinite noun:
 
 :3-1-9-c-p_ga: nuair atá ainmfhocal cinnte á cháiliú le hainmfhocal éiginnte:
-:3-1-9-c-p_en: when the definite noun is qualified by an indefnite noun:
+:3-1-9-c-p_en: when the definite noun is qualified by an indefinite noun:
 
 :3-1-10-p_ga: A thúisce a cháilítear ainmfhocal éiginnte le hainmfhocal cinnte, ní ainmfhocal éiginnte é a thuilleadh ach ainmfhocal cinnte. Dá réir sin, más brí éiginnte atá i gceist, ní foláir fochlásal réamhfhoclach nó réamhfhocal a úsáid chun an nasc idir na hainmfhocail a léiriú.
 :3-1-10-p_en: Once an indefinite noun is qualified with a definite noun, it is no longer an indefinite noun but a definite noun. Accordingly, if the meaning is indefinite, a prepositional clause or preposition must be used to indeicate the connection between the nouns.
@@ -113,16 +113,16 @@ const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGU
 :3-2-2-title_en: Individual Things
 
 :3-2-2-p_ga: Tá dhá chóras is féidir a úsáid chun plé le giorrúcháin agus le hacrainmneacha ar teidil iad ar eagraíochtaí, foilseacháin, conarthaí, comhaontuithe, scéimeanna, córais nó nithe eile dá samhail nach ann ach do cheann amháin acu -- an córas gan an t-alt agus an córas leis an alt. Cé is moite de théacsanna reachtúla ina n-úsáidtear an córas gan an t-alt i gcónaí, is faoin scríbhneoir atá sé an córas a úsáidfear a roghnú. Moltar gan an dá chóras a mheascadh.
-:3-2-2-p_en: There are two systems that can be used to deal with abbreviations and with acronyms that are titles of organizations, publications, contracts, agreements, schemes, systems or other similar things of which only one exists -- the system without the article and the system with the article. Except for statuatory texts where the system without the article is always used, it is up to the writer to choose which system to use. It is recommended not to mix the two systems.
+:3-2-2-p_en: There are two systems that can be used to deal with abbreviations and with acronyms that are titles of organizations, publications, contracts, agreements, schemes, systems or other similar things of which only one exists -- the system without the article and the system with the article. Except for statutory texts where the system without the article is always used, it is up to the writer to choose which system to use. It is recommended not to mix the two systems.
 
 :3-2-2-A-title_ga: Nithe aonaracha -- an córas gan an t-alt
 :3-2-2-A-title_en: Individual things -- the system without the article
 
-:3-2-2-A-a-p_ga: Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
-:3-2-2-A-a-p_en: In the system without the article, abbreviations and acronyms are treated as nouns are not preceded with the article (but see 3.2.3(b)). (_CTT_ -- _an Clár Tacaíochta Teaghlaigh_; _NA_ -- _na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+:3-2-2-A-a-p_ga: Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach 3.2.3(b)). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+:3-2-2-A-a-p_en: In the system without the article, abbreviations and acronyms are treated as nouns are not preceded with the article (but see 3.2.3(b)). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
 
-:3-2-2-A-b-p_ga: Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
-:3-2-2-A-b-p_en: An abbreviation or acronym is referred to as a singular masculine noun regardless of the number or gender on which the words are based. (_FSS_ -- _Feidhmeannacht na Seirbhíse Sláinte_.)
+:3-2-2-A-b-p_ga: Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS -- Feidhmeannacht na Seirbhíse Sláinte_.)
+:3-2-2-A-b-p_en: An abbreviation or acronym is referred to as a singular masculine noun regardless of the number or gender on which the words are based. (_FSS -- Feidhmeannacht na Seirbhíse Sláinte_.)
 
 :3-2-2-B-title_ga: Nithe aonaracha -- an córas leis an alt
 :3-2-2-B-title_en: Individual things -- the system with the article
@@ -131,7 +131,7 @@ const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGU
 :3-2-2-B-p_en: In the system with the article, the article is used before abbreviations or before acronyms as appropriate. The use of the article is subject to the structure of the words the abbreviations or the acronym are based, as follows --
 
 :3-2-2-B-a-p_ga: ní chuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail chinnte nach gcuirtear an t-alt leo, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, nó má tá an t-alt i lár na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
-:3-2-2-B-a-p_en: the article is not used before abbreviations or acronyms if they are based on a definite noun that do not have the article, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, or if the article is in the middle of the words on which the abbreviations or the acronymes are based, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
+:3-2-2-B-a-p_en: the article is not used before abbreviations or acronyms if they are based on a definite noun that do not have the article, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, or if the article is in the middle of the words on which the abbreviations or the acronyms are based, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
 
 :3-2-2-B-b-p_ga: cuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail a gcuirtear an t-alt rompu chun iad a dhéanamh cinnte. Úsáidtear foirm uatha nó iolra an ailt ag brath ar uimhir na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe:
 :3-2-2-B-b-p_en: the article is placed before abbreviations or acronymes if they are based on words having an article to make it definite. The singular or plural form of the article is used depending on the number of words on which the abbreviations or the acronymes are based:
@@ -149,7 +149,7 @@ const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGU
 :3-2-3-b-p_en: The article can be used with a noun that is qualified by an abbreviation or an acronym which has an adjectival function in order to identify something specific from many things. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
 
 :3-2-3-c-p_ga: Cruthaítear leagan iolra de ghiorrúchán nó d'acrainm a bhaineann le nithe iomadúla trí _-anna_ a chur leis má chríochnaíonn sé ar chonsan agus trí _-nna_ a chur leis má chríochnaíonn sé ar ghuta. Is mar ainmfhocal firinscneach iolra a dhéantar tagairt do ghiorrúchán nó d'acrainm atá san iolra.
-:3-2-3-c-p_en: A plural form is created from an abbreviation or an acronym when referring to multple things by adding _-anna_ to it if it ends with a consonant and by adding _-nna_ to it if it ends with a vowel. An abbreviation or acronym in the plural is referred to as a plural masculine noun.
+:3-2-3-c-p_en: A plural form is created from an abbreviation or an acronym when referring to multiple things by adding _-anna_ to it if it ends with a consonant and by adding _-nna_ to it if it ends with a vowel. An abbreviation or acronym in the plural is referred to as a plural masculine noun.
 
 :3-3-title_ga: Foirm an Ainmnigh in ionad an Ghinidigh
 :3-3-title_en: The Form of the Nominative in Place of the Genitive
@@ -158,10 +158,10 @@ const a=`:chapterTitle_ga: AINMFHOCAIL CHINNTE AGUS ÉIGINNTE, GIORRÚCHÁIN AGU
 :3-3-1-title_en: The Definite Nouns
 
 :3-3-1-a-p1_ga: Má thagann ainmfhocal cinnte sa ghinideach i ndiaidh ainmfhocal eile, is gnách an t-ainmfhocal eile sin a fhágáil gan infhilleadh agus a thúschonsan a shéimhiú nuair atá sé faoi réir ag focal nó ag leagan a leanann an ginideach é (féach freisin 10.2.6). Fágtar ainmfhocal a bhfuil uimhir nó litir ar a lorg gan infhilleadh agus séimhítear a thúschonsan freisin --
-:3-3-1-a-p1_en: If a definite noun in the genitive comes after another word, it is normal for the other word to be left without inflection and its initual consonant to be lenited when it is subject to a word or form followed by the genitive (see also 10.2.6). A noun that has a number or letter at the end is left without inflection and its initial consonant is also lenited --
+:3-3-1-a-p1_en: If a definite noun in the genitive comes after another word, it is normal for the other word to be left without inflection and its initial consonant to be lenited when it is subject to a word or form followed by the genitive (see also 10.2.6). A noun that has a number or letter at the end is left without inflection and its initial consonant is also lenited --
 
 :3-3-1-a-i-p_ga: ainm dílis (ainm duine nó áite áirithe):
-:3-3-1-a-i-p_en: proper name (name of a particlualr person or place):
+:3-3-1-a-i-p_en: proper name (name of a particular person or place):
 
 :3-3-1-a-ii-p_ga: ainmfhocal a bhfuil an t-alt roimhe:
 :3-3-1-a-ii-p_en: a noun that is preceded by the article:

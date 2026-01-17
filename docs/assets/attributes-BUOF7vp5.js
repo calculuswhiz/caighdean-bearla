@@ -1,5 +1,5 @@
-const a=`:chapterTitle_ga: AN AIDIACHT
-:chapterTitle_en: THE ADJECTIVE
+const a=`:chapterTitle_ga: An Aidiacht
+:chapterTitle_en: The Adjective
 
 :4-1-title_ga: An Aidiacht Cháilíochta
 :4-1-title_en: The Attributive Adjective
@@ -17,7 +17,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-2-title_en: Gender, Case and Number of the Attributive Adjective
 
 :4-2-1-p_ga: Réitíonn an aidiacht cháilíochta leis an ainmfhocal ó thaobh inscne, tuisil agus uimhreach. I gcás sraith ainmfhocal, réitíonn an aidiacht leis an ainmfhocal deiridh, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. I gcás sraith aidiachtaí i ndiaidh ainmfhocal amháin, réitíonn gach aidiacht leis an ainmfhocal, e.g., _ailt shuimiúla thábhachtacha fhada_.
-:4-2-1-p_en: The qualifying adjective agrees with the noun in gender, case and number. When there is a series of nouns, the adjective agrees with the final noun, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. When a series of adjectives follows a single noun, every adjectve agrees with the noun, e.g., _ailt shuimiúla thábhachtacha fhada_.
+:4-2-1-p_en: The qualifying adjective agrees with the noun in gender, case and number. When there is a series of nouns, the adjective agrees with the final noun, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. When a series of adjectives follows a single noun, every adjective agrees with the noun, e.g., _ailt shuimiúla thábhachtacha fhada_.
 
 :4-2-2-a-p_ga: San uimhir uatha --
 :4-2-2-a-p_en: In the singular number --
@@ -74,7 +74,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :Table4A-footnote_en: But see 1.7 The Lenition System
 
 :4-2-5-title_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Iolra
-:4-2-5-title_en: Lenition of Attributive Adjective in the Singular Number
+:4-2-5-title_en: Lenition of Attributive Adjective in the Plural Number
 
 :4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin 10.3.1).
 :4-2-5-p_en: In the plural number, the initial consonant of the adjective is lenited if the plural noun starts with a narrow consonant, as in the below table (see also 10.3.1).
@@ -89,7 +89,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :Table4B-col2-main_en: Without Lenition
 
 :Table4B-col1-sub_ga: Ainmfhocal dar críoch consan caol san iolra
-:Table4B-col1-sub_en: Noun that starts with a narrow consononant in the plural
+:Table4B-col1-sub_en: Noun that starts with a narrow consonant in the plural
 
 :Table4B-col2-sub_ga: Ainmfhocal dar críoch consan leathan nó guta san iolra
 :Table4B-col2-sub_en: Noun that starts with a broad consonant or vowel in the plural
@@ -125,7 +125,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-3-3-a-p_en: An adjective in the masculine vocative is not lenited or inflected if it is a nickname or metaphorical in meaning.
 
 :4-3-3-b-p_ga: Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
-:4-3-3-b-p_en: The initial letter of an adjective is lenited, however, if a feminine noun precededs it.
+:4-3-3-b-p_en: The initial letter of an adjective is lenited, however, if a feminine noun precedes it.
 
 :4-3-4-p_ga: Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
 :4-3-4-p_en: The adjective following a female baptismal name is not inflected, e.g., _Máire Mhór_, _teach Mháire Mhór_.
@@ -146,7 +146,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-4-title_en: The First Declension
 
 :4-4-p_ga: Cuimsítear sa díochlaonadh seo aidiachtaí a chríochnaíonn ar chonsan, leathan nó caol, seachas aidiachtaí a chríochnaíonn ar _-úil_ agus roinnt aidiachtaí a chríochnaíonn ar _-ir_ (féach 4.5).
-:4-4-p_en: Included in this declension are adjectives ending with a consonant, brod or narrow, aside from adjectives ending with _-úil_ and certain adjectives ending with _-ir_ (see 4.5).
+:4-4-p_en: Included in this declension are adjectives ending with a consonant, broad or narrow, aside from adjectives ending with _-úil_ and certain adjectives ending with _-ir_ (see 4.5).
 
 :4-4-1-title_ga: Foirm an Ghinidigh Uatha
 :4-4-1-title_en: Form of the Genitive Singular
@@ -268,8 +268,8 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :Table4D-title_ga: Ainmfhocal Firinscneach Uatha
 :Table4D-title_en: Masculine Singular Noun
 
-:Table4D-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Firinscneach Uatha
-:Table4D-caption_en: Summary of the Adjectives' Declensions -- Masculine Singular
+:Table4D-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Firinscneach Uatha
+:Table4D-caption_en: Summary of the Adjectives' Declensions — Masculine Singular
 
 :Table4D-col1_ga: Tuiseal
 :Table4D-col1_en: Case
@@ -301,22 +301,22 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :Table4E-title_ga: Ainmfhocal Baininscneach Uatha
 :Table4E-title_en: Feminine Singular Noun
 
-:Table4E-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Baininscneach Uatha
-:Table4E-caption_en: Summary of the Adjectives' Declensions -- Feminine Singular
+:Table4E-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Baininscneach Uatha
+:Table4E-caption_en: Summary of the Adjectives' Declensions — Feminine Singular
 
 // 4E-G re-uses headers form other sources
 
 :Table4F-title_ga: Ainmfhocal Firinscneach Iolra
 :Table4F-title_en: Masculine Plural Noun
 
-:Table4F-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Firinscneach Iolra
-:Table4F-caption_en: Summary of the Adjectives' Declensions -- Masculine Plural
+:Table4F-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Firinscneach Iolra
+:Table4F-caption_en: Summary of the Adjectives' Declensions — Masculine Plural
 
 :Table4G-title_ga: Ainmfhocal Baininscneach Iolra
 :Table4G-title_en: Feminine Plural Noun
 
-:Table4G-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta -- Baininscneach Iolra
-:Table4G-caption_en: Summary of the Adjectives' Declensions -- Feminine Plural
+:Table4G-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Baininscneach Iolra
+:Table4G-caption_en: Summary of the Adjectives' Declensions — Feminine Plural
 
 :4-8-title_ga: Céimeanna Comparáide na hAidiachta
 :4-8-title_en: Degrees of Comparison of the Adjective
@@ -340,7 +340,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-8-3-b-p_en: Only one form is used for the following adjectives: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; and for these irregular forms: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_. (_Translation note_: These are abstract nouns. e.g., _beag_ (_small_) → _laghad_ (_smallness_))
 
 :4-8-3-c-p_ga: Úsáidtear _méid_ seachas _méad_ i gcásanna áirithe, e.g., _dá mhéad airgead a bhí aici_ ach _a mhéid is indéanta le réasún_; _a mhéid is gá_.
-:4-8-3-c-p_en: _méid_ is used instead of _méid_ in certain cases, e.g., _dá mhéad airgead a bhí aici_ but _a mhéid is indéanta le réasún_; _a mhéid is gá_.
+:4-8-3-c-p_en: _méid_ is used instead of _méad_ in certain cases, e.g., _dá mhéad airgead a bhí aici_ but _a mhéid is indéanta le réasún_; _a mhéid is gá_.
 
 :4-9-title_ga: An Aidiacht Shealbhach
 :4-9-title_en: The Possessive Adjective
@@ -349,7 +349,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-9-p_en: Because the possessive adjectives, _mo_, _do_, _a_ (masculine and feminine singular), _ár_, _bhur_ and _a_ (plural) function as pronouns in the genitive, they are discussed in Chapter 8.
 
 :4-10-title_ga: An Aidiacht Thaispeántach
-:4-10-title_en: The Deomonstrative Adjective
+:4-10-title_en: The Demonstrative Adjective
 
 :4-10-p_ga: Is iad _seo_, _sin_, _siúd_ agus _úd_ na haidiachtaí taispeántacha. (Cé gur forainmnigh thaispeántacha iad _seo_, _sin_ agus _siúd_, is minic a dhéantar tagairt dóibh mar aidiachtaí taispeántacha.)
 :4-10-p_en: The demonstrative adjectives are _seo_, _sin_, _siúd_ and _úd_. (Although _seo_, _sin_ and _siúd_ are demonstrative pronouns, they are often referred to as demonstrative adjectives.)
@@ -373,7 +373,7 @@ const a=`:chapterTitle_ga: AN AIDIACHT
 :4-12-1-b-p_en: as a predicative adjective following the copula, e.g., _Ní briste atá sé_;
 
 :4-12-1-c-p_ga: mar aidiacht fhaisnéiseach ar lorg an bhriathair _bí_ ag léiriú staid an chuspóra tar éis an ghnímh, e.g., _Is í atá tugtha don obair_;
-:4-12-1-c-p_en: as a predicative adjectve following the verb _bí_ indicating the state of the object after the action, e.g., _Is í atá tugtha don obair_;
+:4-12-1-c-p_en: as a predicative adjective following the verb _bí_ indicating the state of the object after the action, e.g., _Is í atá tugtha don obair_;
 
 :4-12-1-d-p_ga: mar aidiacht fhaisnéiseach ar lorg an bhriathair _bí_ ag léiriú staid an ghníomhaí tar éis an ghnímh, e.g., _Táimid beirthe go maith leis an socrú sin_.
 :4-12-1-d-p_en: as a predicative adjective following the verb _bí_ indicating the state of the agent after the action, e.g., _Táimid beirthe go maith leis an socrú sin_.`;export{a as default};

@@ -336,7 +336,7 @@ B. *{3-2-2-B-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá *SAM* ina bhall den Chomhairle Slándála. | *The SAM* is a member of the Security Council.
+| Tá *SAM* ina bhall den Chomhairle Slándála. | *The USA* is a member of the Security Council.
 | Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | The *OÉ*'s policies are focused on developing education.
 |===
 +
@@ -490,12 +490,23 @@ a|
 {Table-3A-Col1Title}
 a| {Table-3A-Col2Title}
 
-| Chuir sé *chun an rialtais* é. | Tá sé ann *chun an obair a dhéanamh*.
-| Ní fhanann sé i bhfad *tar éis dinnéir*. | Tá na leanaí *tar éis dinnéar a réiteach* duit.
-| Tharla sé *le linn na tréimhse* sin. | Is *le linn na hoibrithe a fhostú* a tháinig an cheist sin chun cinn.
-| Tá an lánúin óg *ar tí a bpósta*. | Bhí na fir shlándála *ar tí na doirse a dhúnadh*.
-| Cuideachta áitiúil atá *i mbun na hoibre*. | Cuideachta áitiúil atá *i mbun an teach a thógáil*.
-| An bhfuil siad *ag geallúint an airgid* dúinn? | Níl aon duine *ag bagairt an t-airgead a thógáil* ar ais.
+| Chuir sé *chun an rialtais* é.
+| Tá sé ann *chun an obair a dhéanamh*.
+
+| Ní fhanann sé i bhfad *tar éis dinnéir*.
+| Tá na leanaí *tar éis dinnéar a réiteach* duit.
+
+| Tharla sé *le linn na tréimhse* sin.
+| Is *le linn na hoibrithe a fhostú* a tháinig an cheist sin chun cinn.
+
+| Tá an lánúin óg *ar tí a bpósta*.
+| Bhí na fir shlándála *ar tí na doirse a dhúnadh*.
+
+| Cuideachta áitiúil atá *i mbun na hoibre*.
+| Cuideachta áitiúil atá *i mbun an teach a thógáil*.
+
+| An bhfuil siad *ag geallúint an airgid* dúinn?
+| Níl aon duine *ag bagairt an t-airgead a thógáil* ar ais.
 |===
 
 b. {3-3-2-b-p1}
@@ -736,18 +747,12 @@ b. {3-3-8-b-p}
 
 .*{Table} 3B*  {Table3B-caption}
 [.chapter-3]
-[%noheader]
+[%header]
 [cols="1,2,2"]
 |===
-a|
-[.table-header]
-{Table3B-Col1}
-a|
-[.table-header]
-{Table3B-Col2}
-a|
-[.table-header]
-{Table3B-Col3}
+h| {Table3B-Col1}
+h| {Table3B-Col2}
+h| {Table3B-Col3}
 
 .4+h| {Table3B-row1}
 | Thosaigh sé *ag imirt peil Mheiriceánach* sna Stáit Aontaithe anuraidh.
@@ -800,18 +805,12 @@ a|
 
 .*{Table} 3C*  {Table3C-caption}
 [.chapter-3]
-[%noheader]
+[%header]
 [cols="1,2,2"]
 |===
-a|
-[.table-header]
-{Table3B-Col1}
-a|
-[.table-header]
-{Table3B-Col2}
-a|
-[.table-header]
-{Table3B-Col3}
+h| {Table3B-Col1}
+h| {Table3B-Col2}
+h| {Table3B-Col3}
 
 .4+h| {Table3B-row1}
 | Tá an dlíodóir ag gníomhú *thar ceann eagraíocht áitiúil*.
@@ -877,18 +876,12 @@ a|
 
 .*{Table} 3D*  {Table3D-caption}
 [.chapter-3]
-[%noheader]
+[%header]
 [cols="1,2,2"]
 |===
-a|
-[.table-header]
-{Table3B-Col1}
-a|
-[.table-header]
-{Table3B-Col2}
-a|
-[.table-header]
-{Table3B-Col3}
+h| {Table3B-Col1}
+h| {Table3B-Col2}
+h| {Table3B-Col3}
 
 .2+h| {Table3B-row1}
 | Thit *go leor báisteach throm* an tseachtain seo caite.
@@ -909,14 +902,11 @@ a. {3-3-12-a-p}
 +
 .*{Table} 3E*  {Table3E-caption}
 [.chapter-3]
-[%noheader]
+[%header]
 [cols="1,1"]
 |===
-a|
-[.table-header]
-{Singular}
-a|
-{Plural}
+h| {Singular}
+h| {Plural}
 
 | An *leabhar múinteora scoile* é seo?
 | Is *calafort bád iascaigh* é.
@@ -975,13 +965,12 @@ a|
 {3-3-13-p}
 
 .*{Table} 3G* {Table3G-caption}
-[.chapter-3]
-[%noheader]
+[.chapter-3-alt]
+[%header]
 [cols="2,1,1"]
 |===
 
-a|
-[.table-header]
+h|
 {Table3G-col1}
 | {Table3G-col2}
 | {Table3G-col3}
@@ -1000,9 +989,8 @@ a|
 
 | {Table3G-row4-condition}
 | {Table3G-row4-rule}
-| Gortaíodh í le linn *ceann* de na cluichí áitiúla. +
- +
-Tá laghdú tagtha ar mhéid *mo chuid* oibre.
+a| . Gortaíodh í le linn *ceann* de na cluichí áitiúla.
+. Tá laghdú tagtha ar mhéid *mo chuid* oibre.
 
 | {Table3G-row5-condition}
 | {Table3G-row5-rule}
@@ -1022,9 +1010,8 @@ Tá laghdú tagtha ar mhéid *mo chuid* oibre.
 
 | {Table3G-row9-condition}
 | {Table3G-row9-rule}
-| Tá na páistí ag iarraidh *léim* +
- +
-Tá sé tar éis *siúl* abhaile.
+a| . Tá na páistí ag iarraidh *léim*
+. Tá sé tar éis *siúl* abhaile.
 
 | {Table3G-row10-condition}
 | {Table3G-row10-rule}
@@ -1032,9 +1019,8 @@ Tá sé tar éis *siúl* abhaile.
 
 | {Table3G-row11-condition}
 | {Table3G-row11-rule}
-| Tá an lánúin sin ar tí *pósadh*. +
- +
-Tá an lá ag dul chun *síneadh*.
+a| . Tá an lánúin sin ar tí *pósadh*.
+. Tá an lá ag dul chun *síneadh*.
 
 | {Table3G-row12-condition}
 | {Table3G-row12-rule}
@@ -1050,27 +1036,25 @@ Tá an lá ag dul chun *síneadh*.
 
 | {Table3G-row15-condition}
 | {Table3G-row15-rule}
-| 1lb *plúr* +
- +
-250g *siúcra mín*
+a| . 1lb *plúr*
+. 250g *siúcra mín*
 
 | {Table3G-row16-condition}
 | {Table3G-row16-rule}
-| Bímse ag ullmhú *lóin shláintiúla* dom féin. (_{Pl}_) +
-Táim ag réiteach *cupán tae*. (_{Sg}_) + 
-Níl siad ag fáil *pingin ar bith*. (_{Sg}_) +
-Ní fiú bheith ag ordú *trealamh atá daor*. (_{Sg}_) +
-Nílim ag ceannach *aon dearbháin* i mbliana. (_{Pl}_) +
-Tá na mic léinn ag déanamh *an-obair* ar an tionscadal sin. (_{Sg}_)
+a| . Bímse ag ullmhú *lóin shláintiúla* dom féin. (_{Pl}_)
+. Táim ag réiteach *cupán tae*. (_{Sg}_) 
+. Níl siad ag fáil *pingin ar bith*. (_{Sg}_)
+. Ní fiú bheith ag ordú *trealamh atá daor*. (_{Sg}_)
+. Nílim ag ceannach *aon dearbháin* i mbliana. (_{Pl}_)
+. Tá na mic léinn ag déanamh *an-obair* ar an tionscadal sin. (_{Sg}_)
 
 | {Table3G-row17-condition}
 | {Table3G-row17-rule}
-| Chuaigh sé i gcomhair *cupán tae*. (_{Sg}_) +
-D'fhéadfaí a leithéid a rá i gcás *cláir ar bith*. (_{Pl}_) +
-Fuarthas an admháil i measc *iarratais ó dhaltaí scoile*. (_{Pl}_) +
-Fágadh gan mhaoiniú iad de bharr *scéim ar tháinig deireadh léi*. (_{Sg}_) +
-Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_{Sg}_)
-
+a| . Chuaigh sé i gcomhair *cupán tae*. (_{Sg}_) 
+. D'fhéadfaí a leithéid a rá i gcás *cláir ar bith*. (_{Pl}_) 
+. Fuarthas an admháil i measc *iarratais ó dhaltaí scoile*. (_{Pl}_) 
+. Fágadh gan mhaoiniú iad de bharr *scéim ar tháinig deireadh léi*. (_{Sg}_) 
+. Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_{Sg}_) 
 | {Table3G-row18-condition}
 | {Table3G-row18-rule}
 | Thit go leor *báisteach throm* an tseachtain seo caite. (_{Sg}_)

@@ -493,7 +493,7 @@
 :10-2-8-b-p_en: The second noun is not lenited if it begins with _f_, e.g., _beithígh feirme_; _botháin freastail_; _buidéil fuisce_:
 
 :10-2-8-b-sample-1_ga: Tá *cláir faisnéise* nua á bhforbairt ag TG4.
-:10-2-8-b-sample-1_en: TG4 is developing new *documentary programmes*.
+:10-2-8-b-sample-1_en: TG4 is developing new *documentary programs*.
 
 :10-2-8-b-sample-2_ga: Ghlac deich gcinn de *chumainn foirgníochta* páirt sa suirbhé.
 :10-2-8-b-sample-2_en: Ten *building societies* took part in the survey.
@@ -1193,7 +1193,7 @@
 :10-7-a-p_en: _cibé_, _pé_, nor the possessive adjective _do_, e.g., _i cibé foirm_; _i pé páipéar_; _i do mhála_:
 
 :10-7-a-sample-1_ga: Foilseoidh an Chomhairle an clár *i cibé* formáid is cuí léi.
-:10-7-a-sample-1_en: The Council will publish the programme *in whatever* format it deems appropriate.
+:10-7-a-sample-1_en: The Council will publish the program *in whatever* format it deems appropriate.
 
 :10-7-a-sample-2_ga: Coimeádfar é *i pé* oifig is mian leat.
 :10-7-a-sample-2_en: It will be kept *in whichever* office you want.
@@ -1883,7 +1883,7 @@
 :10-16-p6_en: As a reference aid, a summary is given here of the cases in which _d'_ is placed before a vowel or _fh-_ at the start of a verb.
 
 :Table10F-caption_ga: Achoimre ar _d'_ roimh Ghuta nó _fh_
-:Table10F-caption_en: Smmary of _d'_ before a Vowel or _fh_
+:Table10F-caption_en: Summary of _d'_ before a Vowel or _fh_
 
 :Table10F-header_ga: _d'_ roimh Ghuta nó _fh_
 :Table10F-header_en: _d'_ before a Vowel or _fh_
