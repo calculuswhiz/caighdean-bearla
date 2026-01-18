@@ -1,71 +1,71 @@
 :prefaceTitle_ga: An Réamhrá
 :prefaceTitle_en: The Preface
 
-:sec1-title_ga: TODO
-:sec1-title_en: TODO
+:sec1-title_ga: An Cúlra
+:sec1-title_en: The Background
 
-:sec1-p1_ga: TODO
-:sec1-p1_en: TODO
+:sec1-p1_ga: Beart ceannródaíoch ab ea foilsiú an Chaighdeáin Oifigiúil sa bhliain 1958. Bhí Rannóg an Aistriúcháin tar éis _Litriú na Gaeilge: Lámhleabhar an Chaighdeáin Oifigiúil_ a fhoilsiú sa bhliain 1947 agus _Gramadach na Gaeilge -- Caighdeán Rannóg an Aistriúcháin_ a chur ar fáil sa bhliain 1953 ach, le foilsiú _Gramadach na Gaeilge_ agus _Litriú na Gaeilge -- An Caighdeán Oifigiúil_ sa bhliain 1958, bhí acmhainn chuimsitheach teanga curtha ar fáil ag an Rannóg don Stát agus don phobal le haghaidh na scríbhneoireachta oifigiúla, acmhainn de shaghas a bhí ar fáil le haghaidh teangacha oifigiúla eile san Eoraip cheana féin.
+:sec1-p1_en: The publication of the Official Standard in 1958 was a pioneering act. The Translation Department had published _Litriú na Gaeilge: Lámhleabhar an Chaighdeáin Oifigiúil_ (**EN**: _Irish Orthography: A Handbook of the Official Standard_) in 1947 and _Gramadach na Gaeilge -- Caighdeán Rannóg an Aistriúcháin_ (**EN**: _Irish Grammar -- Translation Department Standard_) in 1953 but, with the publication of _Gramadach na Gaeilge_ (**EN**: _Irish Grammar_) and _Litriú na Gaeilge -- An Chaighdeán Oifigiúil_ (**EN**: _Irish Orthography -- The Official Standard_) in 1958, the Department had provided a comprehensive linguistic resource for the State and the public for official writing, a resource of a kind that was already available for other official languages in Europe.
 
-:sec1-p2_ga: TODO
-:sec1-p2_en: TODO
+:sec1-p2_ga: Dúradh i Réamhrá Chaighdeán Oifigiúil 1958 go raibh "múinteoirí, scríbhneoirí agus daoine eile á iarraidh, os ard agus os íseal, go gcuirfí leabhrán ar fáil a sholáthródh caighdeán do ghramadach na Gaeilge, go háirithe i gcúrsaí deilbhíochta" agus léirigh an chaoi ar glacadh go forleathan leis an gCaighdeán Oifigiúil i ndiaidh a fhoilsithe gur chruinn an méid sin a dúradh.
+:sec1-p2_en: It was stated in the Preface to the 1958 Official Standard that "teachers, writers and others, high and low, have been asking for a booklet that would provide a standard for Irish grammar, especially in matters of syntax," and the widespread acceptance of the Official Standard after its publication showed that this was indeed the case.
 
-:sec2-title_ga: TODO
-:sec2-title_en: TODO
+:sec2-title_ga: Athbhreithniú Reachtúil
+:sec2-title_en: Legislative Review
 
-:sec2-p1_ga: TODO
-:sec2-p1_en: TODO
+:sec2-p1_ga: Sa bhliain 2012, chuir Rannóg an Aistriúcháin leagan athbhreithnithe den Chaighdeán Oifigiúil ar fáil. Rinneadh é sin toisc go raibh sé tráthúil athbhreithniú cuimsitheach a dhéanamh agus breis is leathchéad bliain caite ó foilsíodh an Caighdeán Oifigiúil ar dtús. Go gairid ina dhiaidh sin, tugadh seasamh reachtúil don Chaighdeán Oifigiúil leis an Acht um Choimisiún Thithe an Oireachtais (Leasú), 2013. Tá foráil san Acht sin chun athbhreithniú tréimhsiúil a dhéanamh ar an gCaighdeán Oifigiúil agus, ar mhaithe leis an riachtanas reachtúil sin a urramú agus a chomhlíonadh, cinneadh an chéad athbhreithniú reachtúil a dhéanamh ar an gCaighdeán Oifigiúil de réir an Achta gan aon mhoill.
+:sec2-p1_en: In 2012, the Translation Department published a revised version of the Official Standard. This was done because it was timely to conduct a comprehensive review and more than half a century had passed since the Official Standard was first published. Shortly thereafter, the Official Standard was given statutory status under the Houses of the Oireachtas Commission (Amendment) Act, 2013. This Act provides for periodic review of the Official Standard and, in order to respect and comply with this statutory requirement, it was decided to carry out the first statutory review of the Official Standard under the Act without delay.
 
-:sec2-p2_ga: TODO
-:sec2-p2_en: TODO
+:sec2-p2_ga: Foráiltear san Acht go rachaidh Coimisiún Thithe an Oireachtais i gcomhairle leis na hAirí seo a leanas agus athbhreithniú reachtúil á sheoladh: an tAire Ealaíon, Oidhreachta agus Gaeltachta; an tAire Oideachais agus Scileanna; agus an tAire Dlí agus Cirt agus Comhionannais. Tá foráil ann freisin go rachfar i gcomhairle le cibé daoine a bhfuil spéis acu sa Chaighdeán Oifigiúil agus is cuí leis an gCoimisiún, agus le daoine den phobal i gcoitinne. Foráiltear le halt 4(2) den Acht go bhféadfaidh an Coimisiún coiste a bhunú chun cuidiú leis athbhreithniú reachtúil a chur i gcrích. De dhroim fhorálacha an Achta, mar sin, beartaíodh dhá chuid a bheith san athbhreithniú -- céim an chomhairliúcháin agus céim an Choiste Chomhairligh.
+:sec2-p2_en: Provision is made in the Act for the Houses of the Oireachtas Commission to consult with the following Ministers when initiating a statutory review: the Minister for Arts, Heritage and the Gaeltacht; the Minister for Education and Skills; and the Minister for Justice and Equality. There is also provision for consultation with any persons interested in the Official Standard and as the Commission deems appropriate, and with members of the public in general. Section 4(2) of the Act provides that the Commission may establish a committee to assist it in completing the statutory review. Against the backdrop of the provisions of the Act, therefore, it was decided that the review would consist of two parts -- the consultation phase and the Advisory Committee phase.
 
-:sec3-title_ga: TODO
-:sec3-title_en: TODO
+:sec3-title_ga: An Próiseas
+:sec3-title_en: The Process
 
-:sec3-p1_ga: TODO
-:sec3-p1_en: TODO
+:sec3-p1_ga: Cuireadh céim an chomhairliúcháin ar bun Meán Fómhair 2014 agus lorgaíodh aighneachtaí ar an bpobal agus ar na páirtithe éagsúla dá dtagraítear san Acht. An tráth céanna leis sin, cuireadh an Coiste Comhairleach ar bun chun na pointí a fuarthas sna haighneachtaí a scrúdú agus moltaí a sholáthar. Mí Dheireadh Fómhair 2014, tháinig an Coiste Comhairleach le chéile chun tús a chur leis an mbreithniú. Bhí tuarascáil a fuarthas ón Roinn Gnóthaí Pobail, Tuaithe agus Gaeltachta agus a d'eascair as athbhreithniú a d'eagraigh an Roinn sin sa bhliain 2010 san áireamh sa bhreithniú sin. Bhí an Coiste Comhairleach a cuireadh ar bun saineolach ar raon leathan réimsí ina n-úsáidtear an Ghaeilge oifigiúil agus bhí taithí mhór ag gach duine de na comhaltaí ar an teanga oifigiúil a úsáid i réimsí éagsúla. D'oibrigh an Coiste Comhairleach go dian ar feadh bliain go leith chun na saincheisteanna agus na pointí le haghaidh an athbhreithnithe a aithint agus chun moltaí a cheapadh ina leith.
+:sec3-p1_en: The consultation phase was established in September 2014 and submissions were sought from the public and the various parties referred to in the Act. At the same time, the Advisory Committee was established to examine the points raised in the submissions and to make recommendations. In October 2014, the Advisory Committee met to begin the review. A report obtained from the Department of Community, Rural and Gaeltacht Affairs and arising from a review organised by that Department in 2010 was included in that review. The Advisory Committee established was expert in a wide range of areas in which official Irish is used and each member had extensive experience of using the official language in various fields. The Advisory Committee worked hard for about a year to identify the issues and points for the review and to formulate recommendations in that regard.
 
-:sec3-p2_ga: TODO
-:sec3-p2_en: TODO
+:sec3-p2_ga: Bunaíodh foireann tacaíochta i Rannóg an Aistriúcháin chun cabhrú leis an gCoiste Comhairleach a chuid oibre a dhéanamh agus d'éascaigh an fhoireann sin an próiseas ó thaobh próiseáil a dhéanamh ar na haighneachtaí a tháinig isteach agus ar mholtaí an Choiste Chomhairligh. Go comhthreomhar leis an obair sin, rinne an fhoireann tacaíochta na caibidlí éagsúla a athdhréachtú -- próiseas a bhí bunaithe ar mholtaí an Choiste Chomhairligh.
+:sec3-p2_en: A support team was established in the Translation Department to assist the Advisory Committee in its work and that team facilitated the process of processing the submissions received and the recommendations of the Advisory Committee. In parallel with that work, the support team redrafted the various chapters -- a process that was based on the recommendations of the Advisory Committee.
 
-:sec4-title_ga: TODO
-:sec4-title_en: TODO
+:sec4-title_ga: Cuspóir an Athbhreithnithe
+:sec4-title_en: Purpose of the Review
 
-:sec4-p_ga: TODO
-:sec4-p_en: TODO
+:sec4-p_ga: Ba é an cuspóir a bhí leis an athbhreithniú rialacha an Chaighdeáin Oifigiúil a scrúdú d'fhonn iad a fheabhsú ó thaobh feidhme agus soiléireachta de. Chuimsigh an scrúdú sin an tuairisc ar na rialacha agus na samplaí léiritheacha a bhí ag gabháil leo a mheasúnú, féachaint an bhféadfaí iad a chur i láthair ar shlí ba shoiléire. Ina theannta sin, iarradh ar an gCoiste Comhairleach moltaí a sholáthar maidir le saincheisteanna nach raibh sa Chaighdeán Oifigiúil roimhe sin. Is é a bhí i gceist ansin réimsí a aithint a gcabhródh sé le lucht úsáidte an Chaighdeáin Oifigiúil treoracha a bheith ar fáil ina leith sa Chaighdeán Oifigiúil. Bhí fáilte freisin roimh mholtaí ón gCoiste Comhairleach maidir le leagan amach agus cur i láthair na rialacha.
+:sec4-p_en: The purpose of the review was to examine the rules of the Official Standard in order to improve them in terms of functionality and clarity. This examination included an assessment of the description of the rules and the illustrative examples accompanying them, to see whether they could be presented more clearly. In addition, the Advisory Committee was asked to make recommendations regarding issues that were not included in the previous Official Standard. This involved identifying areas in which it would be helpful for users of the Official Standard to have guidance available in that regard in the Official Standard. Recommendations from the Advisory Committee regarding the layout and presentation of the rules were also welcome.
 
-:sec5-title_ga: TODO
-:sec5-title_en: TODO
+:sec5-title_ga: Feidhm an Chaighdeáin Oifigiúil
+:sec5-title_en: Function of the Official Standard
 
-:sec5-p_ga: TODO
-:sec5-p_en: TODO
+:sec5-p_ga: Deirtear san Acht gurb é atá sa Chaighdeán Oifigiúil "caighdeán oifigiúil na Gaeilge, arna ullmhú ag Tithe an Oireachtais agus arna fhoilsiú faoi chóipcheart Rialtais, atá le húsáid sa reachtaíocht phríomha agus sa reachtaíocht thánaisteach agus mar an treoir le haghaidh scríbhneoireacht sa Ghaeilge" agus is beag duine nach n-aithníonn go bhfuil gá le caighdeán oifigiúil le haghaidh na scríbhneoireachta má tá teanga chun feidhmiú go soiléir beacht i réimsí oifigiúla an Stáit nó na sochaí a úsáideann í chun críoch oifigiúil. Áis bhunriachtanach is ea é sin maidir le cruinneas brí a bhaint amach i ndoiciméid oifigiúla -- sa reachtaíocht, i gcáipéisí stáit, i dtéacsleabhair, i bpáipéir scrúdaithe, etc. -- agus comhthuiscint oifigiúil a bhunú ar mhaithe le cumarsáid bheacht idir aonaid oifigiúla stáit agus an pobal. Ní caighdeán oifigiúil le haghaidh na cainte atá i gceist ná ní séanadh ar an saibhreas teanga sna canúintí éagsúla é. Deirtear an méid seo a leanas i Réamhrá Chaighdeán Oifigiúil 1958: "Tugann an caighdeán seo aitheantas ar leith d'fhoirmeacha agus do rialacha áirithe ach ní chuireann sé ceartfhoirmeacha eile ó bhail ná teir ná toirmeasc ar a n-úsáid". Ní hionann, mar sin, foirm nó leagan gan bheith san áireamh sa Chaighdeán Oifigiúil agus gan ceart na Gaeilge a bheith ag an bhfoirm nó ag an leagan sin.
+:sec5-p_en: In the Act, it is stated that the Official Standard is "the official standard of Irish, prepared by the Houses of the Oireachtas and published under Government copyright, to be used in primary and secondary legislation and as a guide for writing in Irish" and few would deny that there is a need for an official standard for writing if a language is to function clearly and precisely in the official areas of the State or society that use it for official purposes. It is an essential resource in achieving accuracy of meaning in official documents -- in legislation, in state documents, in textbooks, in examination papers, etc. -- and in establishing an official understanding for the sake of precise communication between state official bodies and the public. It is not an official standard for speech nor does it deny the richness of language in its various dialects. The following is stated in the Preface to the 1958 Official Standard: "This standard gives particular recognition to certain forms and rules but does not exclude other correct forms nor forbid their use." A form or version is not excluded from the Official Standard and does not lack correctness in Irish.
 
-:sec6-title_ga: TODO
-:sec6-title_en: TODO
+:sec6-title_ga: An Roghnachas
+:sec6-title_en: The Choice
 
-:sec6-p_ga: TODO
-:sec6-p_en: TODO
+:sec6-p_ga: Úsáideadh an roghnachas sa Chaighdeán Oifigiúil sa bhliain 1958 agus arís sa bhliain 2012 chun níos mó ná leagan nó foirm nó córas amháin a aithint. Is é atá i gceist leis sin roghanna a thabhairt do lucht úsáidte an Chaighdeáin Oifigiúil i gcásanna áirithe. Cé nach bhfuil an oiread céanna roghnachais san eagrán seo, de thoradh ar an mian shoiléir a léiríodh i gcuid mhór aighneachtaí, leantar leis an roghnachas i gcásanna áirithe san eagrán seo, go háirithe i gCaibidil 1 (An tAlt), áit a dtugtar rogha idir dhá chóras agus, ina theannta sin, rogha laistigh de chóras amháin de na córais sin. Is iad lucht úsáidte an Chaighdeáin Oifigiúil -- an duine nó an eagraíocht -- a roghnóidh idir na córais agus na leaganacha a thugtar.
+:sec6-p_en: The Official Standard used optionality in 1958 and again in 2012 to identify more than one version or form or system. This means providing choices for users of the Official Standard in certain cases. Although there is not as much optionality in this edition, as a result of the clear preference expressed in a large number of submissions, optionality is maintained in certain cases in this edition, especially in Chapter 1 (The Article), where a choice is provided between two systems and, in addition, a choice within one system of those systems. It is the users of the Official Standard -- the individual or organisation -- who will choose between the systems and versions provided.
 
-:sec7-title_ga: TODO
-:sec7-title_en: TODO
+:sec7-title_ga: Buíochas
+:sec7-title_en: Acknowledgements
 
-:sec7-p1_ga: TODO
-:sec7-p1_en: TODO
+:sec7-p1_ga: Is mian linn ár mbuíochas a chur in iúl do na daoine agus do na heagraíochtaí go léir a chuir aighneachtaí isteach mar chuid den athbhreithniú. Is mian linn freisin ár mbuíochas a chur in iúl do chomhaltaí an Choiste Chomhairligh. Rinne gach duine acu obair éachtach chun a chinntiú go n-éireodh leis an bpróiseas athbhreithnithe an toradh ab fhearr a sholáthar. Ba ag feidhmiú go deonach a bhí formhór mór na gcomhaltaí ach thug gach duine díobh a gcuid ama agus a gcuid saineolais go fial chun cabhrú linn athbhreithniú cuimsitheach ar an gCaighdeán Oifigiúil a bhaint amach. Táimid buíoch de na comhlachtaí oifigiúla agus de na cuideachtaí príobháideacha a chuir a gcuid saineolaithe ar fáil le haghaidh an phróisis.
+:sec7-p1_en: We wish to express our gratitude to all the individuals and organizations that submitted contributions as part of the review. We also wish to express our gratitude to the members of the Advisory Committee. Each of them did excellent work to ensure that the review process would yield the best possible outcome. The majority of the members served on a voluntary basis, but each of them generously gave their time and expertise to help us achieve a comprehensive review of the Official Standard. We are grateful to the official bodies and private companies that made their experts available for the process.
 
-:sec7-p2_ga: TODO
-:sec7-p2_en: TODO
+:sec7-p2_ga: Is ceart aitheantas ar leith a thabhairt do Chathaoirleach an Choiste Chomhairligh, an Dr Éamonn Ó hÓgáin, as an gcathaoirleacht stuama a rinne sé ar chruinnithe an Choiste Chomhairligh chun cuidiú leis na comhaltaí an gnó a chur i gcrích. Go deimhin, ní don chúram sin amháin a bhí obair an Chathaoirligh teoranta agus bhí an Dr Ó hÓgáin ar fáil i rith an phróisis chun comhairle agus cúnamh a thabhairt don fhoireann tacaíochta. Táimid go léir faoi chomaoin aige agus ag comhaltaí uile an Choiste Chomhairligh as an obair mhór a rinne siad agus as na moltaí cuimsitheacha a chuir siad ar fáil.
+:sec7-p2_en: Special recognition is due to the Chair of the Advisory Committee, Dr. Éamonn Ó hÓgáin, for his prudent chairmanship of the meetings of the Advisory Committee to help the members complete the business. Indeed, Dr. Ó hÓgáin's work was not limited to that responsibility alone and he was available throughout the process to provide advice and assistance to the support team. We are all indebted to him and to all members of the Advisory Committee for the great work they did and for the comprehensive recommendations they provided.
 
-:sec7-p3_ga: TODO
-:sec7-p3_en: TODO
+:sec7-p3_ga: Tá ár mbuíochas tuillte freisin ag an bhfoireann tacaíochta. Chinntigh siad gur lean obair an athbhreithnithe ar aghaidh go héifeachtach i rith na tréimhse ar fad agus d'oibrigh siad go dian dícheallach chun a dheimhniú go raibh obair an athdhréachtaithe ar siúl go comhthreomhar le plé agus cruinnithe an Choiste Chomhairligh. Rinne siad gaisce.
+:sec7-p3_en: Our thanks are also due to the support team. They ensured that the work of the review proceeded effectively throughout the entire period and they worked diligently to ensure that the redrafting work was carried out in parallel with the discussions and meetings of the Advisory Committee. They performed a great feat.
 
-:sec7-p4_ga: TODO
-:sec7-p4_en: TODO
+:sec7-p4_ga: Gabhaimid buíochas le foireann uile Rannóg an Aistriúcháin. Is mian linn ár mbuíochas a ghabháil leis an gCeann Comhairle, Seán Ó Fearghaíl TD, agus le Cléireach Dháil Éireann, Peadar Ó Fionnagáin, freisin.
+:sec7-p4_en: We wish to express our gratitude to the entire Translation Section team. We also wish to express our gratitude to the Head of Council, Seán Ó Fearghaíl TD, and to the Clerk of the Irish Dáil, Peadar Ó Fionnagáin.
 
-:signature-title1_ga: TODO
-:signature-title1_en: TODO
+:signature-title1_ga: An Príomh-Aistritheoir,
+:signature-title1_en: The Chief Translator,
 
-:signature-title2_ga: TODO
-:signature-title2_en: TODO
+:signature-title2_ga: Rannóg an Aistriúcháin,
+:signature-title2_en: Translation Section,
 
-:signature-date_ga: TODO
-:signature-date_en: TODO
+:signature-date_ga: Aibreán 2016
+:signature-date_en: April 2016

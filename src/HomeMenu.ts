@@ -1,7 +1,7 @@
 const availableChapters = [
-  { label: "The Preface", id: "preface" },
+  { label: "The Preface", id: "preface", done: true },
   { label: "Members of the Advisory Committee", id: "advisoryCommittee", done: true },
-  { label: "The Preface to the First Edition", id: "prefaceOfFirstEdition" },
+  { label: "The Preface to the First Edition", id: "prefaceOfFirstEdition", done: true },
   { label: "Abbreviations and Grammar Explanations", id: "grammarNotes", done: true },
   { label: "Chapter 1 - The Article", id: "chapter1", done: true },
   { label: "Chapter 2 - The Noun", id: "chapter2", done: true },
@@ -28,7 +28,7 @@ function addChapterSelect() {
         'cursor-pointer', 'text-left',
         'max-w-full',
         'text-white', 'bg-amber-700',
-        'p-1', 'm-1',
+        'p-1', 'm-1', 'font-bold',
         !x.done ? 'line-through bg-gray-400' : ''
       ].join(' ');
       a.textContent = x.label;

@@ -1,125 +1,128 @@
 :PrefaceOfFirstEditionTitle_ga: An Réamhrá Leis An gCéad Eagrán
 :PrefaceOfFirstEditionTitle_en: The Preface to the First Edition
 
-:sec1-p1_ga: TODO
-:sec1-p1_en: TODO
+:sec1-p1_ga: Ón uair a foilsíodh _Litriú na Gaeilge — Lámhleabhar an Chaighdeáin_ Oifigiúil tá múinteoirí, scríbhneoirí agus daoine eile á iarraidh, os ard agus os íseal, go gcuirfí leabhrán ar fáil a sholáthródh caighdeán do ghramadach na Gaeilge, go háirithe i gcúrsaí deilbhíochta. Is deimhin leo de bharr a dtaithí ar a saothrú go bhfuil riachtanas mór le cleachtas comhionann i múnlaí bunúsacha ar nós díochlaonadh ainmfhocal agus aidiachtaí, réimniú briathra, agus na rialacha a bhaineann le hathruithe tosaigh ar fhocail, agus gur mór a rachadh sé chun leasa na teanga na nithe sin a thabhairt chun rialtachta oiread agus ab fhéidir.
+:sec1-p1_en: From the time that _Irish Orthography — A Handbook of the Official Standard_ was published, teachers, writers, and others have been requesting, high and low, that a book be made available which would provide a standard for Irish grammar, especially in matters of noun declension. They are convinced from their experience in its production that there is a great need for uniform practice in basic models such as noun declension and adjectives, verb conjugation, and the rules relating to initial mutations of words, and that it would greatly benefit the language to bring those matters to as much order as possible.
 
-:sec1-p2_ga: TODO
-:sec1-p2_en: TODO
+:sec1-p2_ga: Le fada siar táthar ag tabhairt cúl le foirmeacha agus rialacha a bhí á gcleachtadh tráth i scríobh na teanga. Ba iad na príomhchúiseanna a bhí leis sin ársantacht nó anspiantacht áirithe a bheith ag baint leo nó iad a bheith imithe, nó ionann is imithe, as beo-chaint na Gaeltachta. Cheal comhaontú ar na foirmeacha agus na leaganacha a nglacfaí leo ina n-ionad bhí daoine ag déanamh rogha dóibh féin, agus bhí an neamhionannas, agus an neamhchinnteacht a ghabhann leis, ag dul i dtreise sa teanga.
+:sec1-p2_en: For a long time now, forms and rules that were once practiced in the writing of the language have been falling out of use. The main reasons for this were that certain forms had an antiquated or affected quality about them, or that they had gone, or were going, out of living speech in the Gaeltacht. In the absence of agreement on the forms and variants to be adopted, people were making their own choices, and the inconsistency and uncertainty that accompanies this was increasing in the language.
 
-:sec1-p3_ga: TODO
-:sec1-p3_en: TODO
+:sec1-p3_ga: Aithnítear coitianta go dteastaíonn caighdeán gramadaí chun gan ligean do na nósanna iomadúla sin dul ó smacht, chun an comhaontas a bhunú in ionad an easaontais, chun deimhniú a thabhairt ar nithe a bhfuil éideimhne ann ina dtaobh faoi láthair, agus chun cruinneas agus slacht a chur in ionad an neamhchruinnis agus an neamhshlachta a thagann den easaontas agus den éideimhne. Is follas gur saoráid don oide scoile é na foirmeacha agus na leaganacha bunaidh céanna a bheith á dteagasc ag a chomhoidí, agus go laghdódh sé dua na foghlama ar an dalta scoile gan malairt foirmeacha agus leaganacha bunaidh a bheith le gabháil chuige aige de réir mar a thiocfadh sé faoi chúram oide nua. Ba áis dóibh araon, idir dhaltaí agus oidí, na leabhair scoile a bheith ag réiteach lena chéile an méid ab fhéidir ar feadh a dtéann bunghréasán na gramadaí.
+:sec1-p3_en: It is widely recognized that a grammatical standard is needed to prevent those numerous habits from getting out of control, to establish agreement in place of disagreement, to confirm matters that are currently uncertain, and to bring accuracy and order in place of the inaccuracy and disorder that result from disagreement and uncertainty. It is obvious that it is a convenience for the school teacher to be teaching the same basic forms and variants as his colleagues, and that it would reduce the difficulty of learning for the school pupil not to have different basic forms and variants to deal with as he comes under the care of a new teacher. It would be an aid to both, pupils and teachers alike, for the schoolbooks to be in agreement as much as possible regarding the basic framework of grammar.
 
-:sec1-p4_ga: TODO
-:sec1-p4_en: TODO
+:sec1-p4_ga: Ba léir riamh gur ghá caighdeán de chineál éigin le haghaidh gnóthaí oifigiúla, agus tá formhór Gaeilgeoirí suite de um an dtaca seo nach féidir forás mar is ceart a theacht faoin drámaíocht, faoin iriseoireacht, faoin scríbhneoireacht, ná faoi fhorbairt na Gaeilge le haghaidh an Raidió agus na scannán, gan comheagrú agus comhardú áirithe a dhéanamh ar ghramadach agus foclóir na Gaeilge ionas go mbeadh sí inniúil ar dhul i gcoimhlint leis an mBéarla agus le go gcuirfí í ar comhrian le teangacha na bpobal cultúrtha eile.
+:sec1-p4_en: It has always been clear that some kind of standard is needed for official business, and the majority of Irish speakers are agreed on this point that proper progress cannot be made in drama, journalism, writing, or the development of Irish for Radio and films, without some organization and coordination of Irish grammar and vocabulary so that it may be capable of coping with English and placed on a par with the languages of other cultured peoples.
 
-:sec1-p5_ga: TODO
-:sec1-p5_en: TODO
+:sec1-p5_ga: Sa bhliain 1953 foilsíodh _Gramadach na Gaeilge — Caighdeán Rannóg an Aistriúcháin_ d'fhonn go bhfaighfí tuairimí agus moltaí ón bpobal a chuideodh leis an Rannóg córas deilbhíochta a leagan amach a bheadh oiriúnach lena ghlacadh mar chaighdeán comhchoiteann. Tar éis na tuairimí agus na moltaí go léir a fuarthas a bhreithniú chuathas i gceann an córas sin a leasú agus ullmhaíodh dréacht de leagan leasaithe a cuireadh faoi bhráid daoine arbh eol suim ar leith a bheith acu i ngramadach na Gaeilge agus saineolas acu uirthi.
+:sec1-p5_en: In the year 1953 _Irish Grammar — Translation Department Standard_ was published in order to obtain opinions and suggestions from the public which would help the Department to lay down a system of conjugation suitable for adoption as a common standard. After considering all the opinions and suggestions received, that system was revised and a draft of a revised edition was prepared and submitted to people who were known to have a special interest in Irish grammar and expertise in it.
 
-:sec1-p6_ga: TODO
-:sec1-p6_en: TODO
+:sec1-p6_ga: I dtús na bliana 1957 cinneadh ar an leabhrán bunaidh agus an leagan leasaithe sin, agus na tuairimí agus na moltaí go léir a fuarthas orthu, a athbhreithniú. Rinneadh cíoradh agus scagadh agus scrúdú ó bhonn ar an scéal agus dá thoradh sin ullmhaíodh nuadhréacht. Fuarthas comhairle chúntach ó chainteoirí dúchais as gach ceann de na Gaeltachtaí, ó mhúinteoirí, agus ó dhaoine eile a raibh eolas ar leith acu ar an teanga, agus comhaontaíodh leis an Roinn Oideachais an leabhrán seo a fhoilsiú mar chaighdeán le haghaidh gnóthaí oifigiúla agus mar threoir do mhúinteoirí agus don phobal i gcoitinne. Tugann an caighdeán seo aitheantas ar leith d'fhoirmeacha agus do rialacha áirithe ach ní chuireann sé ceartfhoirmeacha eile ó bhail ná teir ná toirmeasc ar a n-úsáid.
+:sec1-p6_en: At the beginning of the year 1957 it was decided to review the original book and that revised edition, and all the opinions and suggestions received on them. A thorough examination and scrutiny of the whole matter was made, and as a result of that a new edition was prepared. Helpful advice was obtained from native speakers from each of the Gaeltacht areas, from teachers, and from other people who had special knowledge of the language, and the Department of Education agreed to publish this book as a standard for official business and as a guide for teachers and the general public. This standard recognizes certain forms and rules in particular but does not exclude or forbid the use of other correct forms.
 
-:sec1-p7_ga: TODO
-:sec1-p7_en: TODO
+:sec1-p7_ga: An té a chloífidh leis na foirmeacha agus na rialacha a léirítear sa leabhrán seo féadfaidh sé bheith deimhin de go bhfuil formhór na bhfoirmeacha agus na rialacha sin ag réiteach le gnás na teanga beo agus go bhfuil gach uile fhoirm agus riail díobh (ach cúpla leagan sna huimhreacha) ag freagairt do ghnás Gaeilgeoirí maithe i gceantar éigin den Ghaeltacht.
+:sec1-p7_en: Anyone who adheres to the forms and rules set out in this book may be assured that the majority of those forms and rules are in accordance with the usage of the living language and that every single form and rule in it (except a few variants in the numbers) corresponds to the usage of good Irish speakers in some area of the Gaeltacht.
 
-:sec1-p8_ga: TODO
-:sec1-p8_en: TODO
+:sec1-p8_ga: Seo iad na buntreoracha a ndearnadh an caighdeánú dá réir: --
+:sec1-p8_en: Here are the basic guidelines according to which the standard was made: --
 
-:sec1-li-1-p_ga: TODO
-:sec1-li-1-p_en: TODO
+:sec1-li-1-p_ga: Chomh fada agus ab fhéidir sin gan glacadh le foirm ná riail nach bhfuil údarás maith di i mbeotheanga na Gaeltachta;
+:sec1-li-1-p_en: As far as possible, not to accept any form or rule that does not have good authority in the living language of the Gaeltacht;
 
-:sec1-li-2-p_ga: TODO
-:sec1-li-2-p_en: TODO
+:sec1-li-2-p_ga: Rogha a dhéanamh de na leaganacha is forleithne atá in úsáid sa Ghaeltacht;
+:sec1-li-2-p_en: To choose the most widespread variants in use in the Gaeltacht;
 
-:sec1-li-3-p_ga: TODO
-:sec1-li-3-p_en: TODO
+:sec1-li-3-p_ga: An tábhacht is dual a thabhairt do stair agus litríocht na Gaeilge;
+:sec1-li-3-p_en: To give due importance to the history and literature of Irish;
 
-:sec1-li-4-p_ga: TODO
-:sec1-li-4-p_en: TODO
+:sec1-li-4-p_ga: An rialtacht agus an tsimplíocht a lorg.
+:sec1-li-4-p_en: To seek regularity and simplicity.
 
-:sec2-title_ga: TODO
-:sec2-title_en: TODO
+:sec1-p9_ga: B'éigean go minic comhréiteach a dhéanamh idir na buntreoracha sin. Seo léiriú achomair ar an modh inar cuireadh i bhfeidhm iad:
+:sec1-p9_en: It was often necessary to make compromises between those basic guidelines. Here is a brief outline of the method in which they were implemented:
 
-:sec2-p1_ga: TODO
-:sec2-p1_en: TODO
+:sec2-title_ga: Na hAinmfhocail
+:sec2-title_en: The Nouns
 
-:sec2-p2_ga: TODO
-:sec2-p2_en: TODO
+:sec2-p1_ga: Gabhadh leis an gcóras díochlaontaí a bhfuil taithí air ó foilsíodh gramadach Sheáin Uí Dhonnabháin breis is céad bliain ó shin.
+:sec2-p1_en: The system of declensions experienced since the publication of Seán Ó Donnabháin's grammar more than a hundred years ago was accepted.
 
-:sec2-p3_ga: TODO
-:sec2-p3_en: TODO
+:sec2-p2_ga: Sa Chéad Díochlaonadh bhí rogha le déanamh idir an t-iolra caolaithe agus an tréaniolra a fhaightear in áiteanna ag roinnt ainmfhocal, e.g., _boinn_, _bonnaí_, _bonnachaí_, _bonnúchaí_; _capaill_, _caiple_, _capaillí_; _cuntais_, _cuntaisí_; _páipéir_, _páipéirí_; _tairbh_, _taraí_. De ghrá na rialtachta agus ós é an nós is forleithne é, agus is fearr a réitíonn le gnás na litríochta, socraíodh ar an iolra caol.
+:sec2-p2_en: In the First Declension there was a choice to be made between the slender plural and the broad plural found in places for some nouns, e.g., _boinn_, _bonnaí_, _bonnachaí_, _bonnúchaí_; _capaill_, _caiple_, _capaillí_; _cuntais_, _cuntaisí_; _páipéir_, _páipéirí_; _tairbh_, _taraí_. For the sake of regularity and since it is the most widespread usage, and better accords with literary usage, the slender plural was chosen.
 
-:sec2-p4_ga: TODO
-:sec2-p4_en: TODO
+:sec2-p3_ga: Bhí réiteach le déanamh freisin i dtaobh ainmfhocal ar nós _dochtúr_, _dochtúir_; _nádúr_, _nádúir_, a chuirtear sa Chéad agus sa Tríú Díochlaonadh, agus i dtaobh ainmfhocal ar nós _rásúr_ atá baininscneach, agus _rásúrach_ sa ghinideach aige, in áiteanna. Beartaíodh ar na hainmfhocail a bhain le daoine, e.g., _dochtúir_, _táilliúir_, a chur sa Tríú Díochlaonadh agus na cinn eile a chur sa Chéad Díochlaonadh. I gcás ainmfhocal ar nós _siúinéir_, _siúinéar(a)_; _lintéir_, _lintéar_, rinneadh socrú mar sin freisin, is é sin, _-éir_ (Tríú Díochlaonadh) do na cinn a bhaineann le daoine, agus _-éar_ (Céad Díochlaonadh) do na cinn eile.
+:sec2-p3_en: A solution also had to be found regarding nouns such as _dochtúr_, _dochtúir_; _nádúr_, _nádúir_, which are placed in the First and Third Declensions, and regarding nouns such as _rásúr_ which is feminine, and has a genitive form _rásúrach_ in places. It was decided to place those nouns relating to people, e.g., _dochtúir_, _táilliúir_, in the Third Declension and the others in the First Declension. In the case of nouns such as _siúinéir_, _siúinéar(a)_; _lintéir_, _lintéar_, a similar arrangement was made, that is, _-éir_ (Third Declension) for those relating to people, and _-éar_ (First Declension) for the others.
 
-:sec2-p5_ga: TODO
-:sec2-p5_en: TODO
+:sec2-p4_ga: Sa Dara Díochlaonadh ba í fadhb ba mhó a bhí ann teacht ar réiteach i dtaobh an tabharthaigh uatha. Tá an t-idirdhealú idir ainmneach agus tabharthach ag dul as feidhm le fada agus is annamh an dá fhoirm á n-úsáid go cruinn taobh le taobh sa Ghaeltacht. Cinneadh ar fhoirm an ainmnigh a choinneáil sa tabharthach i gcás ainmfhocal ilsiollach. I gcás na n-ainmfhocal aonsiollach scrúdaíodh liostaí ainmfhocal agus nuair a fuarthas go raibh foirm an tabharthaigh tagtha i dtreis chomh mór sin san ainmneach go raibh iolra dá réir bunaithe dó gabhadh leis an bhfoirm sin don dá thuiseal.
+:sec2-p4_en: In the Second Declension the biggest problem was to find a solution regarding the singular accusative. The distinction between nominative and accusative has long been going out of use and it is rare for both forms to be used correctly side by side in the Gaeltacht. It was decided to retain the nominative form in the accusative in the case of plural nouns. In the case of singular nouns, lists of nouns were examined and when it was found that the accusative form had become so much stronger in the nominative that a plural had been established for it, that form was accepted for both cases.
 
-:sec2-p6_ga: TODO
-:sec2-p6_en: TODO
+:sec2-p5_ga: Sa Tríú agus sa Cheathrú Díochlaonadh glacadh leis na hiolraí tréana chomh fada agus ab fhéidir i dtreo, taobh amuigh den Chéad agus den Dara Díochlaonadh, nach bhfuil fágtha ach fíorbheagán ainmfhocal nach ionann foirm dóibh i dtuisil uile an iolra.
+:sec2-p5_en: In the Third and Fourth Declensions, as far as possible, strong plurals were accepted outside the First and Second Declensions, where there are only very few nouns left that do not have the same form in all cases of the plural.
 
-:sec3-title_ga: TODO
-:sec3-title_en: TODO
+:sec2-p6_ga: Tá mórán ainmfhocal ann a bhíonn anonn is anall sna canúintí idir an Dara, an Tríú, an Ceathrú agus an Cúigiú Díochlaonadh. Rinneadh iarracht iad a roinnt ar na díochlaontaí ab oiriúnaí dóibh, de réir na mbuntreoracha atá luaite thuas.
+:sec2-p6_en: There are many nouns that go back and forth between the Second, Third, Fourth, and Fifth Declensions in the dialects. An attempt was made to assign them to the declensions most suitable for them, according to the basic guidelines mentioned above.
 
-:sec3-p1_ga: TODO
-:sec3-p1_en: TODO
+:sec3-title_ga: An Aidiacht
+:sec3-title_en: The Adjective
 
-:sec4-title_ga: TODO
-:sec4-title_en: TODO
+:sec3-p1_ga: Rinneadh aon díochlaonadh amháin den Chéad agus den Dara Díochlaonadh ba ghnáth ann roimhe seo. Tugadh neamhaird ar an bhfoirm ar leith don tuiseal tabharthach, foirm atá imithe i léig ar fad sa chaint beagnach. Glacadh leis an nós is treise agus is simplí i dtaobh foirm na haidiachta agus an ainmfhocail a bheith ag comhtheacht le chéile sa ghinideach iolra.
+:sec3-p1_en: Only one declension of the First and Second Declensions that was previously common was made. The special form for the accusative case, a form that has almost completely gone out of use in speech, was disregarded. The strongest and simplest usage was accepted regarding the form of the adjective agreeing with the noun in the genitive plural.
 
-:sec4-p1_ga: TODO
-:sec4-p1_en: TODO
+:sec4-title_ga: Na hUimhreacha
+:sec4-title_en: The Numbers
 
-:sec4-p2_ga: TODO
-:sec4-p2_en: TODO
+:sec4-p1_ga: I gcúrsaí na n-uimhreacha níorbh fhéidir cloí le nós na cainte i gcónaí. Teastaíonn córas a bheadh soláimhsithe ag daoine a bheadh ag gabháil don uimhríocht agus don mhatamaitic. Chun sin a cheapadh b'éigean dul i muinín na litríochta, agus i gcás na gcodán b'éigean glacadh le roinnt leaganacha saorga.
+:sec4-p1_en: In matters of numbers, it was not always possible to adhere to the usual speech patterns. A system was needed that would be accessible to people engaged in numeration and mathematics. To devise this, it was necessary to resort to literature, and in the case of fractions, it was necessary to accept some artificial variants.
 
-:sec5-title_ga: TODO
-:sec5-title_en: TODO
+:sec4-p2_ga: Tá taithí choitianta ar na maoluimhreacha mar atá siad sa leabhrán seo agus údarás maith leo. Briseadh leis an nós is gnáth sna leabhair ghramadaí, foirm iolra an ainmfhocail a chur leis na huimhreacha, ar an ábhar go bhfuarthas, tar éis an scéal a scrúdú, gur minice go mór a chaitear an t-uatha a úsáid leo agus gur mar sin is fusa don fhoghlaimeoir. Tá samplaí le fáil i seanscríbhinní don nós a cheadaítear, ar mhaithe leis an éascaíocht, do na huimhreacha móra. _Ní bhfuarthas údarás ar bith do leaganacha ar nós "fiche a dó fear" ná ní mheastar gá ná riachtanas a bheith leo_.
+:sec4-p2_en: There is common experience with the cardinal numbers as they are in this booklet and they have good authority. The usual practice in grammar books was broken by adding the plural form of the noun to the numbers, on the grounds that it was found, after examining the matter, that the nominative is very often used with them and that this is easier for the learner. Examples can be found in old manuscripts for the practice allowed, for the sake of ease, for large numbers. _No authority was found for variants such as "fiche a dó fear" nor is it considered necessary or required to have them_.
 
-:sec5-p1_ga: TODO
-:sec5-p1_en: TODO
+:sec5-title_ga: Na Briathra
+:sec5-title_en: The Verbs
 
-:sec5-p2_ga: TODO
-:sec5-p2_en: TODO
+:sec5-p1_ga: Tugadh comhrogha ar an bhfoirm don Mhodh Foshuiteach Caite ó tá cúrsaí comhréire i gceist, agus, cé nach bhfuiltear á ligean isteach mar chaighdeán, ceadaíodh an fhoirm choibhneasta toisc bá mhór a bheith leis fós in dhá chanúint.
+:sec5-p1_en: An alternative form was given for the Past Subjunctive Mood because comparative matters are involved, and although it is not allowed as a standard, the relative form was permitted because it is still very common in two dialects.
 
-:sec5-p3_ga: TODO
-:sec5-p3_en: TODO
+:sec5-p2_ga: Bhíothas sásta tríd is tríd leis an rogha a moladh cheana idir na foirmeacha táite agus na foirmeacha scartha den bhriathar agus measadh gurbh fhearr iad a fhágáil mar sin. Géilleadh i gcás an tsaorbhriathair don nós is treise sa Ghaeltacht, is é sin, séimhiú mar a théann ar fhoirmeacha eile a dhul air ach amháin san Aimsir Chaite.
+:sec5-p2_en: The choice previously recommended between the compound forms and the simple forms of the verb was generally accepted and it was considered best to leave them as they are. In the case of the autonomous verb, the strongest usage in the Gaeltacht was yielded to, that is, lenition as applies to other forms being applied to it except in the Past Tense.
 
-:sec5-p4_ga: TODO
-:sec5-p4_en: TODO
+:sec5-p3_ga: Tá claonadh láidir i gceann de na príomhchanúintí na briathra coimrithe a chur sa Chéad Réimniú ach is é claonadh atá go tréan sa dá phríomhchanúint eile iad a chur sa Dara Réimniú. Ós é an dara ceann is fearr a théann chun rialtachta bhí dhá chúis mhaithe lena gcur sa Dara Réimniú.
+:sec5-p3_en: There is a strong tendency in one of the main dialects to place the comparative verbs in the First Conjugation but the tendency is very strong in the other two main dialects to place them in the Second Conjugation. Since the latter is better suited to regularity, there were two good reasons for placing them in the Second Conjugation.
 
-:sec5-p5_ga: TODO
-:sec5-p5_en: TODO
+:sec5-p4_ga: I gcomórtas le teangacha eile tá an Ghaeilge saor go maith ó bhriathra neamhrialta, ach toisc a mhinice a bhíonn gnó díobh tá éileamh láidir ar iad a shimpliú. Ba é ba rialta _deirim_ a fhágáil saor ó shéimhiú i gcónaí, agus na foirmeacha spleácha _abraim_ (nó _abraím_), etc., a ligean ar lár. Réitíonn sé leis an gcaint sa chuid is mó den Ghaeltacht cuid de na foirmeacha neamhspleácha atá ag _faighim_ a fhágáil ar lár. I gcás _feicim_ bhí rogha le déanamh idir (a) _cím_, etc. san fhoirm neamhspleách agus _ní chím_, etc., san fhoirm spleách, (b) _chím_ nó _tím_, etc., san fhoirm neamhspleách agus _ní fheicim_, etc., san fhoirm spleách, agus (c) _feicim_, _ní fheicim_, etc., sna foirmeacha sin. Ba é socrú ba shimplí agus ba rialta _feicim_ a thoghadh mar chaighdeán. Níorbh fhéidir neamhaird a thabhairt ar na leaganacha ar leith atá ag _déanaim_, _téim_, san fhoirm spleách toisc go mbeadh sin ag neamhréiteach an iomad le dhá phríomhchanúint.
+:sec5-p4_en: Compared with other languages, Irish is quite free from irregular verbs, but because of the frequency of their use there is a strong demand for their simplification. It was usual to always leave _deirim_ free from lenition, and to discard the compound forms _abraim_ (or _abraím_), etc. This accords with the speech in most of the Gaeltacht to discard some of the simple forms that _faighim_ has. In the case of _feicim_ there was a choice to be made between (a) _cím_, etc. in the simple form and _ní chím_, etc., in the compound form, (b) _chím_ or _tím_, etc., in the simple form and _ní fheicim_, etc., in the compound form, and (c) _feicim_, _ní fheicim_, etc., in those forms. The simplest and most regular arrangement was to choose _feicim_ as the standard. It was not possible to disregard the particular variants that _déanaim_, _téim_, have in the compound form because that would create inconsistency with two main dialects.
 
-:sec6-title_ga: TODO
-:sec6-title_en: TODO
+:sec5-p5_ga: Sna hainmneacha briathartha féachadh leis na foircinn iomadúla a thabhairt chun rialtachta. De ghrá na simplíochta, agus ar iarratas múinteoirí agus daoine eile, cuireadh ar ceal an mhalairt litrithe don aidiacht bhriathartha agus do ghinideach an ainm bhriathartha i gcás ainmneacha briathartha den Dara Réimniú a chríochnaíonn ar _-ú_. Coinníodh _-uithe_, áfach, in iolra na n-ainmneacha briathartha.
+:sec5-p5_en: In the verbal nouns an attempt was made to bring the various endings to regularity. For the sake of simplicity, and at the request of teachers and others, the alternative spelling for the verbal adjective and the genitive of the verbal noun in the case of verbal nouns of the Second Conjugation ending in _-ú_ was discontinued. However, _-uithe_ was retained in the plural of the verbal nouns.
 
-:sec6-p1_ga: TODO
-:sec6-p1_en: TODO
+:sec6-title_ga: Séimhiú agus Urú
+:sec6-title_en: Lenition and Eclipsis
 
-:sec6-p2_ga: TODO
-:sec6-p2_en: TODO
+:sec6-p1_ga: Measadh nach bhfuil an t-ionú ann fós chun an choimhlint idir séimhiú agus urú ar lorg réamhfhocail lena ngabhann an t-alt a shocrú go cinnte. Má tá fairsinge ag nós acu de bhreis ar an nós eile tá sé ródheoranta faoi láthair ag an líon mór Gaeilgeoirí arb é an nós eile is dúchas dóibh, nó is cleachtadh leo, chun go mbeifí ag súil go ngéillfidís dó. Níorbh fhéidir dul níos faide le comhréiteach eatarthu ná _d_ agus _t_ a fhágáil lom, gan _t_ a chur roimh _s_ ná aidiacht a shéimhiú mura mbeadh sin le déanamh san ainmneach, agus glacadh le séimhiú i ndiaidh _den_, _don_, _san_.
+:sec6-p1_en: It was considered that there is not yet sufficient consensus to definitely settle the conflict between lenition and eclipsis after prepositions with which the article is combined. If they have a prevalence of usage over the other usage, it is at present too much to expect a large number of Irish speakers whose native usage or practice is the other usage to yield to it. It was not possible to go further in compromise between them than to leave _d_ and _t_ bare, not to put _t_ before _s_ nor to lenite the adjective unless that would have to be done in the nominative, and to accept lenition after _den_, _don_, _san_.
 
-:sec6-p3_ga: TODO
-:sec6-p3_en: TODO
+:sec6-p2_ga: Ina lán cásanna ina mbeadh súil le séimhiú ar ainmfhocal ar lorg ainmfhocail eile tá an neamhshéimhiú coitianta sa Ghaeltacht. Rinneadh iarracht ar rialacha a leagan amach a mhíneodh an neamhshéimhiú sin ach níl sé le tuiscint go bhfuil míniú tugtha iontu ar gach aon chás díobh. Níor mhór chuige sin gramadach thuarascálach do gach ceann de na canúintí.
+:sec6-p2_en: In many cases where lenition would be expected on a noun following another noun, non-lenition is common in the Gaeltacht. An attempt was made to lay down rules explaining that non-lenition but it is not to be understood that an explanation has been given for every single case of it. For that a descriptive grammar for each of the dialects would be necessary.
 
-:sec6-p4_ga: TODO
-:sec6-p4_en: TODO
+:sec6-p3_ga: Faightear séimhiú, neamhshéimhiú, agus _t_ roimh _s_, sa dara cuid de chomhfhocail nuair a thagann _d_, _n_, _t_, _l_, _s_ le chéile. Is é is rialta agus is simplí an neamhshéimhiú a bheith mar chaighdeán.
+:sec6-p3_en: Lenition, non-lenition, and _t_ before _s_ are found in the second part of compound words when _d_, _n_, _t_, _l_, _s_ come together. The most regular and simplest is for non-lenition to be the standard.
 
-:sec6-p5_ga: TODO
-:sec6-p5_en: TODO
+:sec6-p4_ga: Féachadh le simplíocht agus slacht a lorg sna rialacha i dtaobh _h_ a chur roimh fhocail. Socraíodh gan _h_ a scríobh i ndiaidh _ní_ ach amháin roimh na forainmneacha _é_, _í_, _iad_, _ea_.
+:sec6-p4_en: An attempt was made to seek simplicity and order in the rules regarding the addition of _h_ before words. It was decided not to write _h_ after _ní_ except before the pronouns _é_, _í_, _iad_, _ea_.
 
-:sec6-p6_ga: TODO
-:sec6-p6_en: TODO
+:sec6-p5_ga: San aimsir chaite den Saorbhriathar tá, e.g., _Hardaíodh_, (nó _hArdaíodh_), _Do hardaíodh_ agus _ardaíodh_ le fáil sa chaint. Measadh gurb é an ceann deiridh is slachtmhaire sa scríobh.
+:sec6-p5_en: In the past tense of the Autonomous Verb, e.g., _Hardaíodh_, (or _hArdaíodh_), _Do hardaíodh_ and _ardaíodh_ are found in speech. It was considered that the last one is the most orderly in writing.
 
-:closing-line1_ga: TODO
-:closing-line1_en: TODO
+:sec6-p6_ga: Rinneadh tagairt do chúrsaí comhréire i gcásanna áirithe a bhfuil dlúthbhaint acu leis an deilbhíocht.
+:sec6-p6_en: Reference was made to comparative matters in certain cases closely related to conjugation.
 
-:closing-line2_ga: TODO
-:closing-line2_en: TODO
+:closing-line1_ga: Rannóg an Aistriúcháin,
+:closing-line1_en: Translation Department,
 
-:closing-line3_ga: TODO
-:closing-line3_en: TODO
+:closing-line2_ga: Oifig Thithe an Oireachtais,
+:closing-line2_en: Office of the Houses of the Oireachtas,
 
-:closing-line4_ga: TODO
-:closing-line4_en: TODO
+:closing-line3_ga: Teach Laighean,
+:closing-line3_en: House of Leinster,
+
+:closing-line4_ga: Iúil, 1958.
+:closing-line4_en: July, 1958.
