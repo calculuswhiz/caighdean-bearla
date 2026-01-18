@@ -14,6 +14,10 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: resolve(__dirname, 'index.html'),
+        preface: resolve(__dirname, 'entrypoints/preface.html'),
+        advisoryCommittee: resolve(__dirname, 'entrypoints/advisoryCommittee.html'),
+        prefaceOfFirstEdition: resolve(__dirname, 'entrypoints/prefaceOfFirstEdition.html'),
+        grammarNotes: resolve(__dirname, 'entrypoints/grammarNotes.html'),
         chapter1: resolve(__dirname, 'entrypoints/chapter1.html'),
         chapter2: resolve(__dirname, 'entrypoints/chapter2.html'),
         chapter3: resolve(__dirname, 'entrypoints/chapter3.html'),
