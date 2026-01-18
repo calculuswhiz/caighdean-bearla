@@ -45,11 +45,12 @@ If a table has multiple sub-tables (e.g. 2A), it shall be grouped as one table. 
 
 For those interested, the following base will be used:
 
-- React (TSX) for web-app interaction
 - Tailwind for CSS
 - Vite for bundling
 - AsciiDoctor.js for markup rendering.
 - Various node.js scripts for quicker text processing (index+layout)
+- If application development is required beyond document generation,
+we will bring in React, but currentl we are not actively using it, despite any project dependencies.
 
 ## Contributing
 

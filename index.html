@@ -1,12 +1,51 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Irish Official Standard - English Translation Project</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Irish Official Standard - English Translation Project</title>
+  <link rel="stylesheet" href="/src/index.css" />
+</head>
+
+<body>
+  <div id="root">
+    <div class="max-w-[900px] pl-1 pt-1">
+      <header class="border-b-1 border-black text-center bg-green-100 select-none">
+        <h1 class="text-2xl font-bold">Irish Grammar</h1>
+        <h2 class="text-xl mb-1">The Official Standard</h2>
+        <p>The guide to writing in Irish</p>
+        <p>As published by the Houses of the Oireachtas, translated into English</p>
+      </header>
+      Notes:
+      <ul class="list-disc list-inside text-sm">
+        <li>
+          A lot of work was assisted by machine translation.
+          While these are heavily QC'd, I'm sure there will be mistakes I
+          go along as Irish isn't anywhere near my first language.
+        </li>
+        <li>
+          The project is tracked at <a class="text-blue-400"
+            href="https://github.com/calculuswhiz/caighdean-bearla">GitHub</a>.
+          You can find a roadman project there. We are still a bit away from 1st draft status.
+        </li>
+      </ul>
+      <b>Chapter Selection:</b><br />
+      <sub>Line through = under construction</sub>
+      <div id="chapter-select" class="flex flex-col flex-wrap border-1 border-dashed border-black mb-1">
+        <!-- Chapter menu items -->
+      </div>
+      <footer class="fixed bottom-0 w-[100%] p-2 border-y-1 border-black bg-white">
+        This is an unofficial translation.
+      </footer>
+      <button onclick="window.scrollTo({ top: 0 })"
+        class="fixed bottom-12 right-2 border-1 border-black p-2 bg-white cursor-pointer"
+        title="Scroll to top">
+        ⌃
+      </button>
+    </div>
+  </div>
+  <script type="module" src="/src/HomeMenu.ts"></script>
+</body>
+
 </html>

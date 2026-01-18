@@ -1,0 +1,71 @@
+:prefaceTitle_ga: An Réamhrá
+:prefaceTitle_en: The Preface
+
+:sec1-title_ga: TODO
+:sec1-title_en: TODO
+
+:sec1-p1_ga: TODO
+:sec1-p1_en: TODO
+
+:sec1-p2_ga: TODO
+:sec1-p2_en: TODO
+
+:sec2-title_ga: TODO
+:sec2-title_en: TODO
+
+:sec2-p1_ga: TODO
+:sec2-p1_en: TODO
+
+:sec2-p2_ga: TODO
+:sec2-p2_en: TODO
+
+:sec3-title_ga: TODO
+:sec3-title_en: TODO
+
+:sec3-p1_ga: TODO
+:sec3-p1_en: TODO
+
+:sec3-p2_ga: TODO
+:sec3-p2_en: TODO
+
+:sec4-title_ga: TODO
+:sec4-title_en: TODO
+
+:sec4-p_ga: TODO
+:sec4-p_en: TODO
+
+:sec5-title_ga: TODO
+:sec5-title_en: TODO
+
+:sec5-p_ga: TODO
+:sec5-p_en: TODO
+
+:sec6-title_ga: TODO
+:sec6-title_en: TODO
+
+:sec6-p_ga: TODO
+:sec6-p_en: TODO
+
+:sec7-title_ga: TODO
+:sec7-title_en: TODO
+
+:sec7-p1_ga: TODO
+:sec7-p1_en: TODO
+
+:sec7-p2_ga: TODO
+:sec7-p2_en: TODO
+
+:sec7-p3_ga: TODO
+:sec7-p3_en: TODO
+
+:sec7-p4_ga: TODO
+:sec7-p4_en: TODO
+
+:signature-title1_ga: TODO
+:signature-title1_en: TODO
+
+:signature-title2_ga: TODO
+:signature-title2_en: TODO
+
+:signature-date_ga: TODO
+:signature-date_en: TODO

@@ -1,0 +1,112 @@
+:AdvisoryCommitteeTitle_ga: Comhaltaí an Choiste Chomhairligh
+:AdvisoryCommitteeTitle_en: Members of the Advisory Committee
+
+:Chairman_ga: Cathaoirleach
+:Chairman_en: Chairman
+
+// TODO Check org names
+
+:name1-line1_ga: iarEagarthóir ar Fhoclóir Stairiúil na Nua-Ghaeilge,
+:name1-line1_en: Former Editor of the Historical Dictionary of Modern Irish,
+
+:name1-line2_ga: Acadamh Ríoga na hÉireann, Baile Átha Cliath
+:name1-line2_en: Royal Irish Academy, Dublin
+
+:name2-line1_ga: iarStiúrthóir, Gaeleagras na Seirbhíse Poiblí,
+:name2-line1_en: Former Director, Public Service Gaelic Services,
+
+:name2-line2_ga: An Roinn Airgeadais.
+:name2-line2_en: Department of Finance.
+
+:name3-line1_ga: Stiúrthóir Oideachais agus Taighde,
+:name3-line1_en: Director of Education and Research,
+
+:name3-line2_ga: Cumann Múinteoirí Éireann.
+:name3-line2_en: Irish National Teachers' Organisation.
+
+:name4-line1_ga: Ceann Scoile, Scoil Theanga agus Litríocht na Gaeilge,
+:name4-line1_en: Head of School, School of Irish Language and Literature,
+
+:name4-line2_ga: Ollscoil Uladh.
+:name4-line2_en: University of Ulster.
+
+:name5-line1_ga: Stiúrthóir Oideachais,
+:name5-line1_en: Director of Education,
+
+:name5-line2_ga: Coláiste na hÉireann/Gaelchultúr.
+:name5-line2_en: College of Ireland/Gaelchultúr.
+
+:name6-line1_ga: iarEagarthóir Cúnta sa Ghúm (1974-2007);
+:name6-line1_en: Former Assistant Editor at An Gúm (1974-2007);
+
+:name6-line2_ga: ar Fhoireann an Fhoclóra Gaeilge-Béarla (1975-1978).
+:name6-line2_en: on the Irish-English Dictionary Team (1975-1978).
+
+:name7-line1_ga: Ceann Aonad na Gaeilge, Ard-Stiúrthóireacht
+:name7-line1_en: Head of the Irish Unit, Directorate-General
+
+:name7-line2_ga: an Aistriúcháin, An Coimisiún Eorpach.
+:name7-line2_en: for Translation, European Commission.
+
+:name8-line1_ga: Saoraistritheoir agus Múinteoir Gaeilge,
+:name8-line1_en: Freelance Translator and Irish Teacher,
+
+:name8-line2_ga: Meánscoil San Nioclás, Rinn Ua gCuanach,
+:name8-line2_en: St. Nicholas Secondary School, Ringaskiddy,
+
+:name8-line3_ga: Co. Phort Láirge.
+:name8-line3_en: Co. Waterford.
+
+:name9-line1_ga: Aistritheoir, Rannóg an Aistriúcháin.
+:name9-line1_en: Translator, Translation Unit.
+
+:name10-line1_ga: iarOifigeach Cáilíochta, Aonad na Gaeilge,
+:name10-line1_en: Former Quality Officer, Irish Unit,
+
+:name10-line2_ga: Ard-Rúnaíocht Chomhairle an Aontais Eorpaigh.
+:name10-line2_en: General Secretariat of the Council of the European Union.
+
+:name11-line1_ga: Riarthóir an Aonaid Aistriúcháin agus Ateangaireachta,
+:name11-line1_en: Administrator of the Translation and Interpreting Unit,
+
+:name11-line2_ga: Acadamh na hOllscolaíochta Gaeilge,
+:name11-line2_en: Academy of Irish Studies,
+
+:name11-line3_ga: Ollscoil na hÉireann, Gaillimh.
+:name11-line3_en: National University of Ireland, Galway.
+
+:name12-line1_ga: Príomh-Aistritheoir Cúnta, Rannóg an Aistriúcháin.
+:name12-line1_en: Principal Assistant Translator, Translation Unit.
+
+:name12-line1_ga: Cigire Sinsearach,
+:name12-line1_en: Senior Inspector,
+
+:name12-line2_ga: An Roinn Oideachais agus Scileanna.
+:name12-line2_en: Department of Education and Skills.
+
+:name13-line1_ga: Seirbhís Aistriúcháin na Gaeilge,
+:name13-line1_en: Irish Language Translation Service,
+
+:name13-line2_ga: Parlaimint na hEorpa.
+:name13-line2_en: European Parliament.
+
+:name14-line1_ga: Saoraistritheoir agus iarPhríomh-Aistritheoir Cúnta,
+:name14-line1_en: Freelance Translator and former Principal Assistant Translator,
+
+:name14-line2_ga: Rannóg an Aistriúcháin.
+:name14-line2_en: Translation Unit.
+
+:name15-line1_ga: Ceann Scoile, Fiontar agus Scoil na Gaeilge,
+:name15-line1_en: Head of School, Fiontar and Scoil na Gaeilge,
+
+:name15-line2_ga: Ollscoil Chathair Bhaile Átha Cliath.
+:name15-line2_en: Dublin City University.
+
+:name16-line1_ga: Stiúrthóir Europus, An Cheathrú Rua, Co. na Gaillimhe.
+:name16-line1_en: Director of Europus, Carraroe, Co. Galway.
+
+:name17-line1_ga: Aistritheoir, Rannóg an Aistriúcháin.
+:name17-line1_en: Translator, Translation Unit.
+
+:name18-line1_ga: Aistritheoir, Rannóg an Aistriúcháin.
+:name18-line1_en: Translator, Translation Unit.

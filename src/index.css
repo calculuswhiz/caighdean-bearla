@@ -91,6 +91,12 @@
     @apply list-[upper-alpha];
   }
 
+  .grammar-notes-chapter {
+    & thead tr:first-child th {
+      @apply bg-gray-800 text-white;
+    }
+  }
+
   .chapter-1 {
     & thead tr:first-child th {
       @apply bg-blue-950 text-white;
@@ -168,8 +174,6 @@
   }
 
   .chapter-6 {
-    /* There are no table stacks in chapter 6 */
-
     & thead tr:first-child th {
       @apply bg-sky-600 text-white;
     }

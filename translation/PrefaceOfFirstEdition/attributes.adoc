@@ -1,0 +1,125 @@
+:PrefaceOfFirstEditionTitle_ga: An Réamhrá Leis An gCéad Eagrán
+:PrefaceOfFirstEditionTitle_en: The Preface to the First Edition
+
+:sec1-p1_ga: TODO
+:sec1-p1_en: TODO
+
+:sec1-p2_ga: TODO
+:sec1-p2_en: TODO
+
+:sec1-p3_ga: TODO
+:sec1-p3_en: TODO
+
+:sec1-p4_ga: TODO
+:sec1-p4_en: TODO
+
+:sec1-p5_ga: TODO
+:sec1-p5_en: TODO
+
+:sec1-p6_ga: TODO
+:sec1-p6_en: TODO
+
+:sec1-p7_ga: TODO
+:sec1-p7_en: TODO
+
+:sec1-p8_ga: TODO
+:sec1-p8_en: TODO
+
+:sec1-li-1-p_ga: TODO
+:sec1-li-1-p_en: TODO
+
+:sec1-li-2-p_ga: TODO
+:sec1-li-2-p_en: TODO
+
+:sec1-li-3-p_ga: TODO
+:sec1-li-3-p_en: TODO
+
+:sec1-li-4-p_ga: TODO
+:sec1-li-4-p_en: TODO
+
+:sec2-title_ga: TODO
+:sec2-title_en: TODO
+
+:sec2-p1_ga: TODO
+:sec2-p1_en: TODO
+
+:sec2-p2_ga: TODO
+:sec2-p2_en: TODO
+
+:sec2-p3_ga: TODO
+:sec2-p3_en: TODO
+
+:sec2-p4_ga: TODO
+:sec2-p4_en: TODO
+
+:sec2-p5_ga: TODO
+:sec2-p5_en: TODO
+
+:sec2-p6_ga: TODO
+:sec2-p6_en: TODO
+
+:sec3-title_ga: TODO
+:sec3-title_en: TODO
+
+:sec3-p1_ga: TODO
+:sec3-p1_en: TODO
+
+:sec4-title_ga: TODO
+:sec4-title_en: TODO
+
+:sec4-p1_ga: TODO
+:sec4-p1_en: TODO
+
+:sec4-p2_ga: TODO
+:sec4-p2_en: TODO
+
+:sec5-title_ga: TODO
+:sec5-title_en: TODO
+
+:sec5-p1_ga: TODO
+:sec5-p1_en: TODO
+
+:sec5-p2_ga: TODO
+:sec5-p2_en: TODO
+
+:sec5-p3_ga: TODO
+:sec5-p3_en: TODO
+
+:sec5-p4_ga: TODO
+:sec5-p4_en: TODO
+
+:sec5-p5_ga: TODO
+:sec5-p5_en: TODO
+
+:sec6-title_ga: TODO
+:sec6-title_en: TODO
+
+:sec6-p1_ga: TODO
+:sec6-p1_en: TODO
+
+:sec6-p2_ga: TODO
+:sec6-p2_en: TODO
+
+:sec6-p3_ga: TODO
+:sec6-p3_en: TODO
+
+:sec6-p4_ga: TODO
+:sec6-p4_en: TODO
+
+:sec6-p5_ga: TODO
+:sec6-p5_en: TODO
+
+:sec6-p6_ga: TODO
+:sec6-p6_en: TODO
+
+:closing-line1_ga: TODO
+:closing-line1_en: TODO
+
+:closing-line2_ga: TODO
+:closing-line2_en: TODO
+
+:closing-line3_ga: TODO
+:closing-line3_en: TODO
+
+:closing-line4_ga: TODO
+:closing-line4_en: TODO

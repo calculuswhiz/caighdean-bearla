@@ -1,0 +1,209 @@
+:GrammarNotesTitle_ga: Noda agus Mínithe Gramadaí
+:GrammarNotesTitle_en: Abbreviations and Grammar Explanations
+
+:Abbreviation_ga: Noda
+:Abbreviation_en: Abbreviations
+
+:parens-meaning_ga: féadtar focail faoi lúibíní cruinne i lár sampla a úsáid nó a fhágáil ar lár
+:parens-meaning_en: words in parentheses in the middle of an example may be used or omitted
+
+:GrammarNotes_ga: Mínithe Gramadaí
+:GrammarNotes_en: Grammar Explanations
+
+:row1-term_ga: _a_ as _do_
+:row1-term_en: _a_ out of _do_
+
+:row1-definition_ga: tagairt don mhír _a_ a dhíorthaítear as _do_, e.g., _rud a dhéanamh_
+:row1-definition_en: refers to the particle _a_ being derived from _do_ e.g., _rud a dhéanamh_
+
+:row2-term_ga: abairt chopaileach
+:row2-term_en: copular sentence
+
+:row2-definition_ga: abairt ina gceanglaítear an t-ainmní leis an bhfaisnéis, e.g., _ba cheoltóir é_; _is fada liom uaim í_
+:row2-definition_en: a sentence where the subject is connected to the object, e.g., _ba cheoltóir é_; _is fada liom uaim í_
+
+:row3-term_ga: abairtín dobhriathartha
+:row3-term_en: adverbial phrase
+
+:row3-definition_ga: abairtín a bhfuil feidhm dhobhriathair aige, e.g., _chríochnaigh siad **ar deireadh**_; _níl sé **ar fáil**_
+:row3-definition_en: a phrase that has applications as an adverb, e.g., _chríochnaigh siad **ar deireadh**_; _níl sé **ar fáil**_
+
+:row4-term_ga: aidiacht
+:row4-term_en: adjective
+
+:row4-definition_ga: focal a cháilíonn ainmfhocal nó forainmneach, e.g., _an carr *dearg*; an bosca *mór*; tá sé **fliuch**_
+:row4-definition_en: a word that qualifies a noun or pronominal, e.g., _an carr *dearg*; an bosca *mór*; tá sé **fliuch**_
+
+:row5-term_ga: ainm briathartha
+:row5-term_en: verbal noun
+
+:row5-definition_ga: focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige, e.g., _deireadh na **heitilte**_, _ag **eitilt**_; _**foghlaim** a fháil_, _ag **foghlaim**_
+:row5-definition_en: a word that has applications both as a noun and a verb, e.g., _deireadh na **heitilte**_, _ag **eitilt**_; _**foghlaim** a fháil_, _ag **foghlaim**_
+
+:row6-term_ga: ainm dílis
+:row6-term_en: proper noun
+
+:row6-definition_ga: ainm duine nó áite áirithe, e.g., _Liam_; _Éire_
+:row6-definition_en: a name of a certain person or a place, e.g., _Liam_; _Éire_
+
+:row7-term_ga: ainmfhocal
+:row7-term_en: noun
+
+:row7-definition_ga: focal a úsáidtear chun tagairt do dhuine nó d'áit nó do rud nó d'idé, e.g., _bean_; _bóthar_; _camán_; _díograis_
+:row7-definition_en: word that is used in reference to a person or a place or a thing or an idea, e.g., _bean_; _bóthar_; _camán_; _díograis_
+
+:row8-term_ga: ainmní
+:row8-term_en: subject
+
+:row8-definition_ga: an príomh-ainmfhocal (nó a chothrom) in abairt, e.g., _cheannaigh *Nuala* mála nua, tá *páipéar* ar an mbord_; _canfaidh *sé* amhrán_
+:row8-definition_en: the main noun (or its equivalent) in a sentence, e.g., _cheannaigh *Nuala* mála nua, tá *páipéar* ar an mbord_; _canfaidh *sé* amhrán_
+
+:row9-term_ga: clásal
+:row9-term_en: clause
+
+:row9-definition_ga: frása atá nasctha le frása eile, e.g., _chuaigh sí chun na hoifige [agus thosaigh sí ag obair]_; _[tá an lá tirim] ach níl sé te_
+:row9-definition_en: phrase that is linked to another phrase, e.g., _chuaigh sí chun na hoifige [agus thosaigh sí ag obair]_; _[tá an lá tirim] ach níl sé te_
+
+:row10-term_ga: clásal coibhneasta
+:row10-term_en: relative clause
+
+:row10-definition_ga: clásal ina bhfuil mír choibhneasta nó ina bhfuil foirm choibhneasta den bhriathar, e.g., _sin í an cailín **a dhún an doras ar maidin**_; _cá bhfuil an bhróg **nár ghlan tú inné**?_
+:row10-definition_en: clause in which there is a relative particle or in which there is a relative form of a verb, e.g., _sin í an cailín **a dhún an doras ar maidin**_; _cá bhfuil an bhróg **nár ghlan tú inné**?_
+
+:row11-term_ga: consan caol
+:row11-term_en: slender consonant
+
+:row11-definition_ga: consan ar _e_ nó _i_ an guta is cóngaraí dó
+:row11-definition_en: consonant to which _e_ or _i_ is the closest vowel
+
+:row12-term_ga: consan inséimhithe
+:row12-term_en: lenitable consonant
+
+:row12-definition_ga: consan ar féidir séimhiú a chur air — _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (ach amháin i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ agus _sv-_) agus _t_
+:row12-definition_en: a consonant that can undergo lenition — _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (except in cases _sc-_, _sf-_, _sm-_, _sp-_, _st-_ and _sv-_) and _t_
+
+:row13-term_ga: consan inuraithe
+:row13-term_en: eclipsable consonant
+
+:row13-definition_ga: consan ar féidir urú a chur air — _b_, _c_, _d_, _f_, _g_, _p_ agus _t_
+:row13-definition_en: a consonant that can undergo eclipsis — _b_, _c_, _d_, _f_, _g_, _p_ and _t_
+
+:row14-term_ga: consan leathan
+:row14-term_en: broad consonant
+
+:row14-definition_ga: consan ar _a_, _o_ nó _u_ an guta is cóngaraí dó
+:row14-definition_en: consonant where _a_, _o_ or _u_ are the nearest vowels
+
+:row15-term_ga: cuspóir
+:row15-term_en: accusative
+
+:row15-definition_ga: ainmfhocal (nó a chothrom) a sheasann do dhuine (nó rud) ar a ndéantar gníomhú, e.g., _léigh mé **leabhar**_; _tá an *leabhar* léite agam_; _léigh mé *é*;_
+:row15-definition_en: a noun (or its equivalent) that represents a person (or thing) on which an action is performed, e.g., _léigh mé **leabhar**_; _tá an *leabhar* léite agam_; _léigh mé *é*;_
+
+:row16-term_ga: díspeagadh
+:row16-term_en: diminutive
+
+:row16-definition_ga: iarmhír a dhéanann athrú beag ar ainmfhocal, e.g., _-ín_; ainmfhocal a bhfuil iarmhír den saghas sin curtha leis, e.g., _buachaillín_
+:row16-definition_en: a suffix that makes a noun small, e.g., _-ín_; noun to which this suffix is applied, e.g., _buachaillín_
+
+:row17-term_ga: dobhriathar
+:row17-term_en: adverb
+
+:row17-definition_ga: focal nó grúpa focal a cháilíonn focal eile nach ainmfhocal ná forainmneach é, e.g., _rith sé go **tapa**_; _bhí sé mall **go leor**_; _bhí sí thuas **beagnach** nuair a thit sí_
+:row17-definition_en: word or word group that qualifies another word that is not a noun or pronominal, e.g., _rith sé go **tapa**_; _bhí sé mall **go leor**_; _bhí sí thuas **beagnach** nuair a thit sí_
+
+:row18-term_ga: dobhriathar aidiachtach
+:row18-term_en: adjectival adverb
+
+:row18-definition_ga: dobhriathar a bhfuil foirm aidiachta aige (ar lorg _go_ nó gan _go_), e.g., _ní thagann sí **minic** go leor_; _bhí sé **díreach** ag éirí_; _d'iarr sí air labhairt **go cruinn**_
+:row18-definition_en: adverb that has an adjective form (with _go_ or without _go_), e.g., _ní thagann sí **minic** go leor_; _bhí sé **díreach** ag éirí_; _d'iarr sí air labhairt **go cruinn**_
+
+:row19-term_ga: fochlásal
+:row19-term_en: subordinate clause
+
+:row19-definition_ga: clásal atá spleách ar an bpríomhchlásal lena mbaineann, e.g., _chuala mé scéal **nuair a bhí mé óg**_
+:row19-definition_en: clause that depends on a main clause it is related to, , e.g., _chuala mé scéal **nuair a bhí mé óg**_
+
+:row20-term_ga: fochlásal réamhfhoclach
+:row20-term_en: prepositional clause
+
+:row20-definition_ga: fochlásal a thosaíonn ar réamhfhocal, e.g., _chun na bainise_; _ó dhaltaí scoile_; _leis an Roinn_
+:row20-definition_en: subordinate clause that starts on a preposition e.g., _chun na bainise_; _ó dhaltaí scoile_; _leis an Roinn_
+
+:row21-term_ga: forainmneach réamhthagrach
+:row21-term_en: proleptic prominal
+
+:row21-definition_ga: forainmneach a thagann roimh an ní dá bhfuil sé ag tagairt, e.g., _tá a fhios agam gurb ise a rinne é_; _ba mhaith liom a rá go bhfuilim an-bhuíoch díbh_
+:row21-definition_en: pronominal that comes before the thing to which it refers, e.g., _tá a fhios agam gurb ise *a* rinne é_; _ba mhaith liom *a* rá go bhfuilim an-bhuíoch díbh_
+
+:row22-term_ga: feidhm aidiachtach
+:row22-term_en: adjectival function
+
+:row22-definition_ga: feidhm arb ionann é agus feidhm aidiachta, is é sin le rá, ainmfhocal nó forainmneach a cháiliú, e.g., _pingin **ar bith**_; _turas **ar an Afraic**_
+:row22-definition_en: a function that is the same as an adjective, that is to say, to qualify a noun or pronomnial, e.g., _pingin **ar bith**_; _turas **ar an Afraic**_
+
+:row23-term_ga: frása réamhfhoclach
+:row23-term_en: prepositional phrase
+
+:row23-definition_ga: frása beag (ina bhfuil dhá fhocal, de ghnáth) a thosaíonn ar réamhfhocal, e.g., _ar bith_; _ar leith_; _den scoth_; _in aisce_
+:row23-definition_en: a small phrase (with two words, at least) that starts with a preposition, e.g., _ar bith_; _ar leith_; _den scoth_; _in aisce_
+
+:row24-term_ga: ginideach rannaíoch
+:row24-term_en: partitive genitive
+
+:row24-definition_ga: ginideach a cháilíonn ainmfhocal cainníochta nó páirte, e.g., _roinnt **aráin**_; _mo chuid **eolais**_; _tuilleadh **siúcra**_
+:row24-definition_en: genitive that qualifies a noun of quantity or part,  e.g., _roinnt **aráin**_; _mo chuid **eolais**_; _tuilleadh **siúcra**_
+
+:row25-term_ga: iartheachtaí
+:row25-term_en: subsequent
+
+:row25-definition_ga: forainmneach, lena n-áirítear aidiacht shealbhach, lena dtagraítear siar don réamhtheachtaí i gclásal coibhneasta indíreach, e.g., _sin é an fear a bhfuil an carr **aige**_
+:row25-definition_en: a pronominal, including a possessive adjective, that refers back to the the proleptic in an indirect relative clause, e.g., _sin é an fear a bhfuil an carr **aige**_
+
+:row26-term_ga: infhilleadh
+:row26-term_en: inflexion
+
+:row26-definition_ga: foirceann focail a athrú chun feidhmeanna éagsúla an fhocail a thaispeáint, e.g., _amhrán, amhráin_; _beag, bige_; _can, canaigí_
+:row26-definition_en: change in word affixes to show the different functions of the word, e.g., _amhrán, amhráin_; _beag, bige_; _can, canaigí_
+
+:row27-term_ga: lom
+:row27-term_en: bare
+
+:row27-definition_ga: sna huimhreacha pearsanta, gan ainmfhocal ar a lorg
+:row27-definition_en: in the personal numbers, no noun following
+
+:row28-term_ga: príomhchlásal
+:row28-term_en: main clause
+
+:row28-definition_ga: clásal nach bhfuil spleách ar aon chlásal eile, e.g., _**chuala mé scéal** nuair a bhí mé óg_
+:row28-definition_en: a clause that is not dependent on any other clause, e.g., _**chuala mé scéal** nuair a bhí mé óg_
+
+:row29-term_ga: réamhfhocal comhshuite
+:row29-term_en: compound preposition
+
+:row29-definition_ga: frása réamhfhoclach ar leith a bhfuil brí mar aonad leis agus arb é _réamhfhocal_ + _ainmfhocal_ is múnla dó de ghnáth, e.g., _ar nós; d'ainneoin_; _thar ceann_. <br /> Is réamhfhocal comhshuite é frása réamhfhoclach den mhúnla sin má tá brí eile leis an ainmfhocal i gcomhthéacs eile, mar shampla, is réamhfhocal comhshuite é _i gcás_ sa bhrí _más rud é_; ní réamhfhocal comhshuite _i gcás_ sa bhrí _i mála, in imeachtaí dlí_
+:row29-definition_en: a specific prepositional phrase that has a meaning as a unit and usually formed by _preposition_ + _noun_, e.g., _ar nós; d'ainneoin; thar ceann_. <br /> A prepositional phrase of this form is a compound preposition if the noun has another meaning in another context, for example, _i gcás_ (in case) is a prepositional phrase meaning _if_; not a prepositional phrase _i gcás_ meaning _in a bag/case, in legal proceedings_
+
+:row30-term_ga: réamhfhocal simplí
+:row30-term_en: simple preposition
+
+:row30-definition_ga: focal a chuirtear roimh ainmfhocal nó roimh fhorainmneach chun an bhaint atá aige le focal eile san abairt a léiriú, e.g., _bhuail mé *le* hÁine_; _chuir sé fáilte *roimh* na haíonna_
+:row30-definition_en: a word placed before a noun or before a pronominal to show its relationship to another word in the sentence, e.g., _bhuail mé *le* hÁine_; _chuir sé fáilte *roimh* na haíonna_
+
+:row31-term_ga: réamhtheachtaí
+:row31-term_en: antecedent
+
+:row31-definition_ga: focal nó frása i bpríomhchlásal a thagann go díreach roimh an mír choibhneasta, e.g., _**na mná** a bhí ag caint_
+:row31-definition_en: word or phrase in a main clause that goes directly before the relative particle, e.g., _**na mná** a bhí ag caint_
+
+:row32-term_ga: réimír threise
+:row32-term_en: emphatic prefix
+
+:row32-definition_ga: mír a thagann roimh fhocal chun béim a leagan air, e.g., _tá sé *an*-chairdiúil_; _**an**-pheileadóir is ea í_
+:row32-definition_en: particle that goes before a word to stress it, e.g., _tá sé *an*-chairdiúil_; _**an**-pheileadóir is ea í_
+
+:row33-term_ga: tabharthach rannaíoch
+:row33-term_en: partitive dative
+
+:row33-definition_ga: an múnla _réamhfhocal_ + _tabharthach_, a úsáidtear in ionad an ghinidigh rannaíoch, e.g., _roinnt den arán_; _beirt de na páistí_; _cuid d'airgead Thomáis_
+:row33-definition_en: the form _preposition_ + _dative_, used in place of the partitive gentive, e.g., _roinnt den arán_; _beirt de na páistí_; _cuid d'airgead Thomáis_
