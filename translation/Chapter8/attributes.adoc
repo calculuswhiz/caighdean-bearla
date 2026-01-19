@@ -107,7 +107,7 @@
 :8-2-6-p_ga: Is é an forainmneach firinscneach uatha _é_ a úsáidtear in abairtí mar seo a leanas d'ainneoin ainmfhocal baininscneach a bheith iontu: _is é mo thuairim_; _is é an aidhm_; _is é an bhrí_; _is é mo bharúil_. Is ag tagairt don tuairim, don aidhm, don bhrí, etc. seachas don ainmfhocal féin atá an forainmneach.
 :8-2-6-p_en: The singular masculine pronominal _é_ is used in sentences like the following despite containing a feminine noun: _is é mo thuairim_; _is é an aidhm_; _is é an bhrí_; _is é mo bharúil_. The pronominal refers to the opinion, the aim, the meaning, etc. rather than the noun itself.
 
-:8-2-6-sample1_en: I *think* it's worth leaving now.
+:8-2-6-sample1_en: *It* is my opinion that it is worth leaving now.
 
 :8-2-6-sample2_en: *It* is the aim to increase the number of students.
 
