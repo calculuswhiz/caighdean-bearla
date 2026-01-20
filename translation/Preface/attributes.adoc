@@ -1,8 +1,8 @@
 :prefaceTitle_ga: An Réamhrá
-:prefaceTitle_en: The Preface
+:prefaceTitle_en: Preface
 
 :sec1-title_ga: An Cúlra
-:sec1-title_en: The Background
+:sec1-title_en: Background
 
 :sec1-p1_ga: Beart ceannródaíoch ab ea foilsiú an Chaighdeáin Oifigiúil sa bhliain 1958. Bhí Rannóg an Aistriúcháin tar éis _Litriú na Gaeilge: Lámhleabhar an Chaighdeáin Oifigiúil_ a fhoilsiú sa bhliain 1947 agus _Gramadach na Gaeilge -- Caighdeán Rannóg an Aistriúcháin_ a chur ar fáil sa bhliain 1953 ach, le foilsiú _Gramadach na Gaeilge_ agus _Litriú na Gaeilge -- An Caighdeán Oifigiúil_ sa bhliain 1958, bhí acmhainn chuimsitheach teanga curtha ar fáil ag an Rannóg don Stát agus don phobal le haghaidh na scríbhneoireachta oifigiúla, acmhainn de shaghas a bhí ar fáil le haghaidh teangacha oifigiúla eile san Eoraip cheana féin.
 :sec1-p1_en: The publication of the Official Standard in 1958 was a pioneering act. The Translation Department had published _Litriú na Gaeilge: Lámhleabhar an Chaighdeáin Oifigiúil_ (**EN**: _Irish Orthography: A Handbook of the Official Standard_) in 1947 and _Gramadach na Gaeilge -- Caighdeán Rannóg an Aistriúcháin_ (**EN**: _Irish Grammar -- Translation Department Standard_) in 1953 but, with the publication of _Gramadach na Gaeilge_ (**EN**: _Irish Grammar_) and _Litriú na Gaeilge -- An Chaighdeán Oifigiúil_ (**EN**: _Irish Orthography -- The Official Standard_) in 1958, the Department had provided a comprehensive linguistic resource for the State and the public for official writing, a resource of a kind that was already available for other official languages in Europe.

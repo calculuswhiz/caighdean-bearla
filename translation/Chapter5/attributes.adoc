@@ -1,40 +1,40 @@
 // Tenses and Moods
 
 :PresentTense_ga: An Aimsir Láithreach
-:PresentTense_en: The Present Tense
+:PresentTense_en: Present Tense
 
 :OrdinaryPresentTense_ga: An Aimsir Ghnáthláithreach
-:OrdinaryPresentTense_en: The Present Habitual Tense
+:OrdinaryPresentTense_en: Present Habitual Tense
 
 :PastTense_ga: An Aimsir Chaite
-:PastTense_en: The Past Tense
+:PastTense_en: Past Tense
 
 :PastHabitualTense_ga: An Aimsir Ghnáthchaite
-:PastHabitualTense_en: The Past Habitual Tense
+:PastHabitualTense_en: Past Habitual Tense
 
 :FutureTense_ga: An Aimsir Fháistineach
-:FutureTense_en: The Future Tense
+:FutureTense_en: Future Tense
 
 :ConditionalMood_ga: An Modh Coinníollach
-:ConditionalMood_en: The Conditional Mood
+:ConditionalMood_en: Conditional Mood
 
 :SubjunctiveMood_ga: An Modh Foshuiteach
-:SubjunctiveMood_en: The Subjunctive Mood
+:SubjunctiveMood_en: Subjunctive Mood
 
 :PresentSubjunctiveMood_ga: An Modh Foshuiteach Láithreach
-:PresentSubjunctiveMood_en: The Present Subjunctive Mood
+:PresentSubjunctiveMood_en: Present Subjunctive Mood
 
 :ImperativeMood_ga: An Modh Ordaitheach
-:ImperativeMood_en: The Imperative Mood
+:ImperativeMood_en: Imperative Mood
 
 :IndicativeMood_ga: An Modh Táscach
-:IndicativeMood_en: The Indicative Mood
+:IndicativeMood_en: Indicative Mood
 
 :VerbalNoun_ga: An tAinm Briathartha
-:VerbalNoun_en: The Verbal Noun
+:VerbalNoun_en: Verbal Noun
 
 :VerbalAdjective_ga: An Aidiacht Bhriathartha
-:VerbalAdjective_en: The Verbal Adjective
+:VerbalAdjective_en: Verbal Adjective
 
 // Normal chapter stuff
 
@@ -139,13 +139,13 @@
 :Table5A-caption_en: The Analytic Form _muid_
 
 :Table5A-col1_ga: An Aimsir/Modh
-:Table5A-col1_en: The Tense/Mood
+:Table5A-col1_en: Tense/Mood
 
 :Table5A-col2_ga: An Fhoirm Scartha + _muid_
-:Table5A-col2_en: The Analytic Form + _muid_
+:Table5A-col2_en: Analytic Form + _muid_
 
 :Table5A-col3_ga: An Fhoirm Tháite den Bhriathar
-:Table5A-col3_en: The Conjugated Form of the Verb
+:Table5A-col3_en: Conjugated Form of the Verb
 
 // Rest doesn't need translation
 
@@ -214,16 +214,16 @@
 :Table5E-caption_en: The First Conjugation — Conjugation of the Verb _tíolaic_
 
 :5-2-2-tables-col1_ga: An Fhréamh
-:5-2-2-tables-col1_en: The Root
+:5-2-2-tables-col1_en: Root
 
 :5-2-2-tables-col2_ga: An Chéad Phearsa Uatha <br /> An Aimsir Láithreach
-:5-2-2-tables-col2_en: The First Person Singular <br /> The Present Tense
+:5-2-2-tables-col2_en: First Person Singular <br /> Present Tense
 
 :5-2-2-tables-col3_ga: An tAinm Briathartha
-:5-2-2-tables-col3_en: The Verbal Noun
+:5-2-2-tables-col3_en: Verbal Noun
 
 :5-2-2-tables-col4_ga: An Aidiacht Bhriathartha
-:5-2-2-tables-col4_en: The Verbal Adjective
+:5-2-2-tables-col4_en: Verbal Adjective
 
 :5-2-2-a-p_ga: Briathra a réimnítear ar nós _sábháil_:
 :5-2-2-a-p_en: Verbs conjugated like _sábháil_:

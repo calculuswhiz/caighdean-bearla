@@ -296,7 +296,7 @@
             </thead>
             <tbody>
               <tr>
-                <th>{Consonant}</th>
+                <th class="bg-stone-300">{Consonant}</th>
                 <td>{Table1A-masc-cons-col1}</td>
                 <td>an</td>
                 <td>{Table1A-masc-cons-col3}</td>
@@ -312,7 +312,7 @@
                 </td>
               </tr>
               <tr>
-                <th>{Vowel}</th>
+                <th class="bg-stone-300">{Vowel}</th>
                 <td>{Table1A-masc-vowel-col1}</td>
                 <td>an</td>
                 <td>{Table1A-masc-vowel-col3}</td>
@@ -353,7 +353,7 @@
             </thead>
             <tbody>
               <tr>
-                <th rowspan=3>{Consonant}</th>
+                <th rowspan=3 class="bg-stone-300">{Consonant}</th>
                 <td>{Table1A-fem-cons-case1-col1}</td>
                 <td>an</td>
                 <td>{Table1A-fem-cons-case1-col3}</td>
@@ -387,7 +387,7 @@
                 </td>
               </tr>
               <tr>
-                <th>{Vowel}</th>
+                <th class="bg-stone-300">{Vowel}</th>
                 <td>{Table1A-fem-vowel-col1}</td>
                 <td>an</td>
                 <td>{Table1A-fem-vowel-col3}</td>
@@ -850,7 +850,7 @@
           </thead>
           <tbody>
             <tr>
-              <th rowspan=3>{Consonant}</th>
+              <th rowspan=3 class="bg-stone-300">{Consonant}</th>
               <td>{Table1F-masc-cons-case1-col1}</td>
               <td>an</td>
               <td>{Table1F-masc-cons-case1-col3}</td>
@@ -884,7 +884,7 @@
               </td>
             </tr>
             <tr>
-              <th>{Vowel}</th>
+              <th class="bg-stone-300">{Vowel}</th>
               <td>{Table1A-masc-vowel-col1}</td>
               <td>an</td>
               <td>{Table1F-masc-vowel-col3}</td>
@@ -919,7 +919,7 @@
             </head>
           <tbody>
             <tr>
-              <th>{Consonant}</th>
+              <th class="bg-stone-300">{Consonant}</th>
               <td>{Table1F-fem-cons-col1}</td>
               <td>na</td>
               <td>{Table1F-fem-cons-col3}</td>
@@ -933,7 +933,7 @@
               </td>
             </tr>
             <tr>
-              <th>{Vowel}</th>
+              <th class="bg-stone-300">{Vowel}</th>
               <td>{Table1F-fem-vowel-col1}</td>
               <td>na</td>
               <td>{Table1F-fem-vowel-col3}</td>
@@ -988,7 +988,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>{Consonant}</th>
+      <th class="bg-stone-300">{Consonant}</th>
       <td>na</td>
       <td>{Table1G-cons-col3}</td>
       <td>
@@ -1002,7 +1002,7 @@
       </td>
     </tr>
     <tr>
-      <th>{Vowel}</th>
+      <th class="bg-stone-300">{Vowel}</th>
       <td>na</td>
       <td>{Table1G-vowel-col3}</td>
       <td>
@@ -1048,7 +1048,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>{Consonant}</th>
+      <th class="bg-stone-300">{Consonant}</th>
       <td>na</td>
       <td>{Table1H-cons-col3}</td>
       <td>
@@ -1072,7 +1072,7 @@
       </td>
     </tr>
     <tr>
-      <th>{Vowel}</th>
+      <th class="bg-stone-300">{Vowel}</th>
       <td>na</td>
       <td>{Table1H-vowel-col3}</td>
       <td>
@@ -1127,7 +1127,7 @@
   </thead>
   <tbody>
     <tr>
-      <th>{Table1I-Row1Name}</th>
+      <th class="bg-stone-300">{Table1I-Row1Name}</th>
       <td>na</td>
       <td>{Eclipsis}</td>
       <td>
@@ -1139,7 +1139,7 @@
       </td>
     </tr>
     <tr>
-      <th>{Vowel}</th>
+      <th class="bg-stone-300">{Vowel}</th>
       <td>na</td>
       <td>{Eclipsis}</td>
       <td>
@@ -1419,48 +1419,6 @@
 
 {1-7-6}
 
-.*{Table} 1M*  {Table1M-caption-start} -- {Table1M-header}
-[.chapter-1]
-[%autowidth]
-[%noheader]
-[cols="1,1"]
-|===
-2+a| {Table1M-header}
-
-a|
-[.sub-header]
-{Masculine} 
-a|
-[.sub-header]
-{Feminine}
-
-| faoin dréimire bhriste
-| faoin deacracht bhreise
-
-| sa teas mhór
-| sa deoch fhuar
-
-| leis an duine chiúin
-| leis an taithí mhaith
-
-| ón deartháir chineálta
-| ón teanga líofa
-
-| roimh an tarbh fhiáin
-| roimh an deighilt mhór
-
-| thar an teach ghorm
-| thar an diallait nua
-
-| tríd an talamh chrua
-| tríd an drochaimsir ghránna
-
-| um an dlí choiriúil
-| um an tagairt chuí
-
-|===
-
-// Copy of above table. Irish should be copied verbatim.
 [subs=attributes,replacements]
 ++++
 <table class="chapter-1">

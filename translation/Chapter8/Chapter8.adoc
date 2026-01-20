@@ -29,11 +29,11 @@
       <th colspan="2">{Table8A-col2}</th>
     </tr>
     <tr>
-        <th></th>
-        <th>{TheSingularNumber}</th>
-        <th>{ThePluralNumber}</th>
-        <th>{TheSingularNumber}</th>
-        <th>{ThePluralNumber}</th>
+        <th class="bg-stone-300 text-black"></th>
+        <th class="bg-stone-300 text-black">{TheSingularNumber}</th>
+        <th class="bg-stone-300 text-black">{ThePluralNumber}</th>
+        <th class="bg-stone-300 text-black">{TheSingularNumber}</th>
+        <th class="bg-stone-300 text-black">{ThePluralNumber}</th>
     </tr>
   </thead>
   <tbody>

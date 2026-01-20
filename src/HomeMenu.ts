@@ -1,6 +1,6 @@
 const availableChapters = [
   {
-    label: "The Preface",
+    label: "Preface",
     id: "preface",
     bg: "bg-purple-800",
     fg: "text-white"
@@ -12,7 +12,7 @@ const availableChapters = [
     fg: "text-white"
   },
   {
-    label: "The Preface to the First Edition",
+    label: "Preface to the First Edition",
     id: "prefaceOfFirstEdition",
     bg: "bg-purple-800",
     fg: "text-white"

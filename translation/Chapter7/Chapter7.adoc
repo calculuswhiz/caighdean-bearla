@@ -230,9 +230,9 @@ i. {7-1-1-i-text}
     <th colspan="2">{BeforeVowelQualified}</th>
   </tr>
   <tr>
-    <th>ba</th>
-    <th>b'</th>
-    <th>ba (ab)</th>
+    <th class="bg-stone-300 text-black">ba</th>
+    <th class="bg-stone-300 text-black">b'</th>
+    <th class="bg-stone-300 text-black">ba (ab)</th>
   </tr></thead>
 <tbody>
   <tr>
@@ -427,29 +427,30 @@ i. {7-1-1-i-text}
         <th></th>
         <th>{BeforeConsonantQualified}</th>
         <th>{BeforeVowelQualified}</th>
-    </tr></thead>
-<tbody>
-  <tr>
-    <th class="bg-stone-300"></th>
-    <th class="bg-stone-300">gur</th>
-    <th class="bg-stone-300">gurbh</th>
-  </tr>
-  <tr>
-    <td>{Positive}</td>
-    <td>
-        <ul>
-            <li>Dúirt Eoin <strong>gur</strong> cheart é a dhíol.</li>
-            <li>Cheapamar <strong>gur</strong> fhlaithiúil an duine ab ea é.</li>
-        </ul>
-    </td>
-    <td>
-        <ul>
-            <li>Dhearbhaigh sé <strong>gurbh</strong> fhéimheach é.</li>
-            <li>Dúirt sí <strong>gurbh</strong> é leas an phobail é.</li>
-        </ul>
-    </td>
-  </tr>
-</tbody>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th class="bg-stone-300"></th>
+      <th class="bg-stone-300">gur</th>
+      <th class="bg-stone-300">gurbh</th>
+    </tr>
+    <tr>
+      <td>{Positive}</td>
+      <td>
+          <ul>
+              <li>Dúirt Eoin <strong>gur</strong> cheart é a dhíol.</li>
+              <li>Cheapamar <strong>gur</strong> fhlaithiúil an duine ab ea é.</li>
+          </ul>
+      </td>
+      <td>
+          <ul>
+              <li>Dhearbhaigh sé <strong>gurbh</strong> fhéimheach é.</li>
+              <li>Dúirt sí <strong>gurbh</strong> é leas an phobail é.</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 ++++
 

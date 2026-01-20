@@ -10,7 +10,7 @@
 :10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a narrow consonant.
 
 :10-1_5-title_ga: An Séimhiú
-:10-1_5-title_en: The Lenition
+:10-1_5-title_en: Lenition
 
 :10-1_5-p_ga: Is iad seo na consain inséimhithe: _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (ach amháin i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ agus _sv-_) agus _t_.
 :10-1_5-p_en: These are the lenitable consonants: _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (except for _sc-_, _sf-_, _sm-_, _sp-_, _st-_ and _sv-_) and _t_.
@@ -1028,7 +1028,7 @@
 :10-5-2-sample-2_en: He did not mention *what* was to be done.
 
 :10-6_5-title_ga: An tUrú
-:10-6_5-title_en: The Eclipsis
+:10-6_5-title_en: Eclipsis
 
 :10-6_5-p_ga: Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_. Cuirtear _n-_ roimh ghuta san áit a ndéanfaí urú a chur ar chonsan, ach amháin sa tuiseal tabharthach ar lorg an ailt nó an ailt i gcumasc le réamhfhocal, e.g., _ar an uisce_, _faoin ábhar_; agus i gcás _i_ (féach 10.6.4). Cuirtear fleiscín idir an t-urú _n_ agus guta, e.g., _líon na n-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _meon na nAlbanach_.
 :10-6_5-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article combined with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see 10.6.4). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
@@ -1652,10 +1652,10 @@
 :10-16-p1_en: As a reference aid, a summary is given here of the cases in which lenition is applied to nouns, adjectives, verbs and pronominals. A full explanation of the rule is available at the cross-references in the left-hand column.
 
 :Table10A-caption_ga: Achoimre ar an Séimhiú
-:Table10A-caption_en: Summary of the Lenition
+:Table10A-caption_en: Summary of Lenition
 
 :Table10A-header_ga: An Séimhiú
-:Table10A-header_en: The Lenition
+:Table10A-header_en: Lenition
 
 :Table10A-noun-header_ga: Cuirtear séimhiú ar an ainmfhocal sna cásanna seo a leanas:
 :Table10A-noun-header_en: Lenition is applied to the noun in the following cases:
@@ -1742,10 +1742,10 @@
 :10-16-p2_en: As a reference aid, a summary is given here of the cases in which eclipsis is applied to nouns, adjectives, and verbs.
 
 :Table10B-caption_ga: Achoimre ar an Urú
-:Table10B-caption_en: Summary of the Eclipsis
+:Table10B-caption_en: Summary of Eclipsis
 
 :Table10B-header_ga: An tUrú
-:Table10B-header_en: The Eclipsis
+:Table10B-header_en: Eclipsis
 
 :Table10B-noun-header_ga: Cuirtear urú ar an ainmfhocal sna cásanna seo a leanas:
 :Table10B-noun-header_en: Eclipsis is applied to the noun in the following cases:

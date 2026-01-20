@@ -301,13 +301,13 @@
 // Article Table
 
 :ArticleTable-col1-th_ga: Túslitir an Ainmfhocail
-:ArticleTable-col1-th_en: The Initial Letter of the Noun
+:ArticleTable-col1-th_en: Initial Letter of the Noun
 
 :ArticleTable-col2-th_ga: Foirm an Ailt
 :ArticleTable-col2-th_en: Form of the Article
 
 :ArticleTable-col3-th_ga: An Tionchar ar an Túslitir
-:ArticleTable-col3-th_en: The Effect on the Initial Letter
+:ArticleTable-col3-th_en: Effect on the Initial Letter
 
 :ArticleTable-col4-th_ga: Samplaí
 :ArticleTable-col4-th_en: Examples

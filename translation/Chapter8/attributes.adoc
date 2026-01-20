@@ -17,28 +17,28 @@
 :8A-caption_en: The Personal Pronominals
 
 :Table8A-col1_ga: Na Bunfhoirmeacha
-:Table8A-col1_en: The Basic Forms
+:Table8A-col1_en: Basic Forms
 
 :Table8A-col2_ga: Na Foirmeacha Treise
-:Table8A-col2_en: The Emphatic Forms
+:Table8A-col2_en: Emphatic Forms
 
 :TheSingularNumber_ga: An Uimhir Uatha
-:TheSingularNumber_en: The Singular Number
+:TheSingularNumber_en: Singular Number
 
 :ThePluralNumber_ga: An Uimhir Iolra
-:ThePluralNumber_en: The Plural Number
+:ThePluralNumber_en: Plural Number
 
 :TheFirstPerson_ga: An Chéad Phearsa
-:TheFirstPerson_en: The First Person
+:TheFirstPerson_en: First Person
 
 :TheSecondPerson_ga: An Dara Pearsa
-:TheSecondPerson_en: The Second Person
+:TheSecondPerson_en: Second Person
 
 :TheThirdPersonMasc_ga: An Triú Pearsa (_fir._)
-:TheThirdPersonMasc_en: The Third Person (_masc._)
+:TheThirdPersonMasc_en: Third Person (_masc._)
 
 :TheThirdPersonFem_ga: An Tríú Pearsa (_bain._)
-:TheThirdPersonFem_en: The Third Person (_fem._)
+:TheThirdPersonFem_en: Third Person (_fem._)
 
 :8-2-2-p_ga: Úsáidtear _thú_ (_thusa_) mar chuspóir briathair, e.g., _aithním thú_; _molaim thú_; agus nuair is ainmní é ar lorg na faisnéise in abairt chopaileach, e.g., _Mo náire thú_; _Is oibrí díograiseach thú_.
 :8-2-2-p_en: _thú_ (_thusa_) is used as the object of a verb, e.g., _aithním thú_; _molaim thú_; and when it is a subject following a predicate in a copular sentence, e.g., _Mo náire thú_; _Is oibrí díograiseach thú_.
@@ -134,10 +134,10 @@
 :8B-caption_en: The Possessive Adjectives
 
 :TheSingular_ga: An tUatha
-:TheSingular_en: The Singular
+:TheSingular_en: Singular
 
 :ThePlural_ga: An tIolra
-:ThePlural_en: The Plural
+:ThePlural_en: Plural
 
 :8-3-1-sample1_en: Have you seen *my bag*?
 

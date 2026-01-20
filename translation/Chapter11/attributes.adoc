@@ -91,8 +91,11 @@
 :11-2-1-b-sample-4b_ga: Sin é an teach *a cheannóidh* an teaghlach.
 :11-2-1-b-sample-4b_en: That is the house *that the family will buy*.
 
-:11-2-1-c-p_ga: Mar is léir ó (a) agus (b) roimhe seo, is abairtí débhríocha iad na habairtí: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_. D'fhéadfadh sé gur ainmní nó cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí i ngach cás. Is fearr clásal coibhneasta indíreach a úsáid i gcásanna den sórt sin más gá débhrí a sheachaint (féach 11.3.1(a) ina dhiaidh seo). Níl an abairt _sin é an dán a chum an fear_ débhríoch toisc nach bhféadfadh an réamhtheachtaí (_an dán_) a bheith ina ainmní don bhriathar.
-:11-2-1-c-p_en: As is clear from (a) and (b) above, the sentences: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_ are ambiguous. In each case, the antecedent could be either the subject or the direct object of the verb in the relative clause. It is preferable to use an indirect relative clause in such cases if ambiguity needs to be avoided (see 11.3.1(a) below). The sentence _sin é an dán a chum an fear_ is not ambiguous because the antecedent (_an dán_) could not be the subject of the verb.
+:11-2-1-b-note_ga: Mar is léir ó (a) agus (b) roimhe seo, is abairtí débhríocha iad na habairtí: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_. D'fhéadfadh sé gur ainmní nó cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí i ngach cás. Is fearr clásal coibhneasta indíreach a úsáid i gcásanna den sórt sin más gá débhrí a sheachaint (féach 11.3.1(a) ina dhiaidh seo). Níl an abairt _sin é an dán a chum an fear_ débhríoch toisc nach bhféadfadh an réamhtheachtaí (_an dán_) a bheith ina ainmní don bhriathar.
+:11-2-1-b-note_en: As is clear from (a) and (b) above, the sentences: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_ are ambiguous. In each case, the antecedent could be either the subject or the direct object of the verb in the relative clause. It is preferable to use an indirect relative clause in such cases if ambiguity needs to be avoided (see 11.3.1(a) below). The sentence _sin é an dán a chum an fear_ is not ambiguous because the antecedent (_an dán_) could not be the subject of the verb.
+
+:11-2-1-c-p_ga: más cuspóir d'ainm briathartha (cuspóir díreach nó _a_ (aidiacht shealbhach)) sa chlásal coibhneasta an réamhtheachtaí:
+:11-2-1-c-p_en: if the antecedent is the object of a verbal noun (direct object or _a_ (possessive adjective)) in the relative clause:
 
 :11-2-1-c-sample-1a_ga: Sin (é) an leabhar. Tá sé á léamh aige.
 :11-2-1-c-sample-1a_en: That is the book. He is reading it.
@@ -633,13 +636,13 @@
 :Table11C-caption_en: Fused Forms -- Prepositions with the Relative Particles _a_ and _ar_
 
 :Table11C-header1_ga: An Réamhfhocal
-:Table11C-header1_en: The Preposition
+:Table11C-header1_en: Preposition
 
 :Table11C-header2_ga: + an mhír choibhneasta _a_
-:Table11C-header2_en: + the relative particle _a_
+:Table11C-header2_en: + relative particle _a_
 
 :Table11C-header3_ga: + an mhír choibhneasta _ar_
-:Table11C-header3_en: + the relative particle _ar_
+:Table11C-header3_en: + relative particle _ar_
 
 :11-6-2-title_ga: An Mhír Choibhneasta Dhiúltach
 :11-6-2-title_en: The Negative Relative Particle
@@ -837,10 +840,10 @@
 :Table11D-caption_en: Forms of the Copula in a Relative Clause
 
 :Table11D-header-1_ga: An Aimsir Láithreach agus An Aimsir Fháistineach
-:Table11D-header-1_en: The Present and The Future Tense
+:Table11D-header-1_en: The Present and Future Tense
 
 :Table11D-header-2_ga: An Aimsir Chaite, An Aimsir Ghnáthchaite agus An Modh Coinníollach
-:Table11D-header-2_en: The Past, The Habitual Past and The Conditional Mood
+:Table11D-header-2_en: The Past Tense, Habitual Past Tense and Conditional Mood
 
 :Table11D-subheader-1_ga: roimh chonsan
 :Table11D-subheader-1_en: before a consonant

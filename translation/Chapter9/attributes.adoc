@@ -314,10 +314,10 @@
 :Table9M-caption_en: The Cardinal Numbers -- Nominative and Genitive Case of the Tens
 
 :TheNominativeCase_ga: An Tuiseal Ainmneach
-:TheNominativeCase_en: The Nominative Case
+:TheNominativeCase_en: Nominative Case
 
 :TheGenitiveCase_ga: An Tuiseal Ginideach
-:TheGenitiveCase_en: The Genitive Case
+:TheGenitiveCase_en: Genitive Case
 
 :WithoutArticle_ga: gan an tAlt
 :WithoutArticle_en: without the Article
@@ -440,7 +440,7 @@
 :Table9R-caption_en: The Bare Personal Numbers -- The Nominative and Genitive Cases with the Article
 
 :TheNumber_ga: An Uimhir
-:TheNumber_en: The Number
+:TheNumber_en: Number
 
 :9-4-2-c-title_ga: An aidiacht leis an uimhir phearsanta lom -- _Beirt_
 :9-4-2-c-title_en: The adjective with the bare personal number -- _Beirt_
@@ -704,16 +704,16 @@
 :Table9YCaption_en: The Fractions -- The Denominator 2-19
 
 :TheFraction_ga: An Codán
-:TheFraction_en: The Fraction
+:TheFraction_en: Fraction
 
 :TheDenominator_ga: An tAinmneoir
-:TheDenominator_en: The Denominator
+:TheDenominator_en: Denominator
 
 :TheFormWithCuid_ga: An Leagan le _cuid_
-:TheFormWithCuid_en: The Form with _cuid_
+:TheFormWithCuid_en: Form with _cuid_
 
 :9-6-2-b-title_ga: An tAinmneoir 20+
-:9-6-2-b-title_en: The Denominator 20+
+:9-6-2-b-title_en: Denominator 20+
 
 :9-6-2-b-p-1_ga: Tugtar samplaí sa tábla seo a leanas den tslí a ndéileáiltear le hainmneoirí os cionn 20 (seachas na deicheanna) nuair is 1 an t-uimhreoir. Is gnách an leagan le _cuid_ a úsáid i gcás codáin den sórt sin. Is ionann comhréir an leagain sin agus an chomhréir a úsáidtear sna maoluimhreacha ach go gcuirtear orduimhir in ionad na maoluimhreach ag an deireadh agus go bhfágtar an mhír uimhriúil _a_ ar lár.
 :9-6-2-b-p-1_en: The following table gives examples of how to deal with denominators above 20 (except the tens) when the numerator is 1. The form with _cuid_ is usually used in the case of such fractions. The order of that form is the same as that used in the cardinal numbers but an ordinal number is used instead of a bare number at the end and the numeral _a_ is left in the middle.

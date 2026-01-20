@@ -69,11 +69,10 @@
 
 .*{Table} 5A*  {Table5A-caption}
 [.chapter-5]
-[%noheader]
+[%header]
 [cols="1,1,1"]
 |===
 a|
-[.table-header]
 {Table5A-col1}
 a| {Table5A-col2}
 a| {Table5A-col3}
@@ -114,7 +113,7 @@ go dtaga muid
 | go gceanglaímid +
 go dtagaimid
 
-| {ImperativeModd}
+| {ImperativeMood}
 | déanadh muid + 
 fágadh muid
 | déanaimis + 
@@ -400,11 +399,11 @@ fágaimis
       <th colspan="2">{5-2-1-b-Table-col2}</th>
     </tr>
     <tr>
-      <th></th>
-      <th>-t(h) + t-</th>
-      <th>-t-</th>
-      <th>-t(h) + t-</th>
-      <th>-t-</th>
+      <th class="bg-stone-300 text-black"></th>
+      <th class="bg-stone-300 text-black">-t(h) + t-</th>
+      <th class="bg-stone-300 text-black">-t-</th>
+      <th class="bg-stone-300 text-black">-t(h) + t-</th>
+      <th class="bg-stone-300 text-black">-t-</th>
     </tr>
   </thead>
   <tbody>
@@ -463,11 +462,11 @@ fágaimis
       <th colspan="2">{5-2-1-c-Table-col2}</th>
     </tr>
     <tr>
-      <th></th>
-      <th>-bh + th-</th>
-      <th>-f-</th>
-      <th>-mh + th-</th>
-      <th>-f-</th>
+      <th class="bg-stone-300 text-black"></th>
+      <th class="bg-stone-300 text-black">-bh + th-</th>
+      <th class="bg-stone-300 text-black">-f-</th>
+      <th class="bg-stone-300 text-black">-mh + th-</th>
+      <th class="bg-stone-300 text-black">-f-</th>
     </tr>
   </thead>
   <tbody>
@@ -501,13 +500,13 @@ fágaimis
       <th colspan="2">{5-2-1-d-Table-col3}</th>
     </tr>
     <tr>
-      <th></th>
-      <th>-bh + f-</th>
-      <th>-bhf-</th>
-      <th>-mh + f-</th>
-      <th>-mhf-</th>
-      <th>-th + f-</th>
-      <th>-thf-</th>
+      <th class="bg-stone-300 text-black"></th>
+      <th class="bg-stone-300 text-black">-bh + f-</th>
+      <th class="bg-stone-300 text-black">-bhf-</th>
+      <th class="bg-stone-300 text-black">-mh + f-</th>
+      <th class="bg-stone-300 text-black">-mhf-</th>
+      <th class="bg-stone-300 text-black">-th + f-</th>
+      <th class="bg-stone-300 text-black">-thf-</th>
     </tr>
   </thead>
   <tbody>

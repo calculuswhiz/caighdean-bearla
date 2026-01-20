@@ -787,7 +787,8 @@ h| {Table3B-Col3}
 | Nílim *ag ceannach aon dearbháin* uait i mbliana.
 
 | Tá na mic léinn *ag déanamh an-obair* ar an tionscadal sin.
-|
+// Intentionally left blank
+| 
 
 |===
 
@@ -932,11 +933,10 @@ b. {3-3-12-b-p}
 +
 .*{Table} 3F*  {Table3F-caption}
 [.chapter-3]
-[%noheader]
+[%header]
 [cols="1,1"]
 |===
 a|
-[.table-header]
 {Singular}
 a|
 {Plural}

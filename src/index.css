@@ -81,14 +81,6 @@
     @apply bg-gray-100 p-1;
   }
 
-  .table-stack table {
-    @apply w-[100%];
-  }
-
-  .sub-header {
-    @apply font-bold text-center;
-  }
-
   /* Asciidoctor hack: CSS application on refresh is inconsistent.
    If you see a blink: undo, save, redo, save. */
   .upperalpha {
@@ -128,6 +120,10 @@
 
     & thead tr:nth-of-type(2) th {
       @apply bg-gray-700 text-white;
+    }
+
+    & tbody th {
+      @apply bg-stone-300 text-black;
     }
   }
 
@@ -227,6 +223,10 @@
     & thead tr:nth-of-type(2) th {
       @apply bg-stone-200 text-black;
     }
+
+    & tbody th {
+      @apply bg-stone-300 text-black;
+    }
   }
 
   .chapter-10 {
@@ -236,6 +236,10 @@
 
     & thead tr:nth-of-type(2) th {
       @apply bg-stone-200 text-black;
+    }
+
+    & tbody th {
+      @apply bg-stone-300 text-black;
     }
   }
 
