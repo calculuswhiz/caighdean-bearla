@@ -19,31 +19,161 @@
 :7-1-1-a-text_ga: an t-ainmní a aicmiú:
 :7-1-1-a-text_en: classification of the subject:
 
+:7-1-1-a-sample1_ga: *Is* sáraisteoir í. 
+:7-1-1-a-sample1_en: She is an excellent actor.
+
+:7-1-1-a-sample2_ga: *Is* éan é an faoileán. 
+:7-1-1-a-sample2_en: The seagull is a bird.
+
+:7-1-1-a-sample3_ga: Strainséirí *is* ea iad. 
+:7-1-1-a-sample3_en: They are strangers.
+
+:7-1-1-a-sample4_ga: *Is* fear é. 
+:7-1-1-a-sample4_en: He is a man.
+
 :7-1-1-b-text_ga: an t-ainmní a ionannú:
 :7-1-1-b-text_en: identification of the subject:
+
+:7-1-1-b-sample1_ga: *Ba* í Úna an bainisteoir. 
+:7-1-1-b-sample1_en: Úna was the manager.
+
+:7-1-1-b-sample2_ga: *Is* é Baile Átha Cliath príomhchathair na hÉireann. 
+:7-1-1-b-sample2_en: Dublin is the capital of Ireland.
 
 :7-1-1-c-text_ga: an t-ainmní a cháiliú le faisnéis aidiachtach nó le frása a thosaíonn ar réamhfhocal:
 :7-1-1-c-text_en: qualification of the subject with a predicate adjective or with a phrase starting with a preposition:
 
+:7-1-1-c-sample1_ga: *Nach* deas é? 
+:7-1-1-c-sample1_en: Isn't it nice?
+
+:7-1-1-c-sample2_ga: *Is* fíor sin. 
+:7-1-1-c-sample2_en: That is true.
+
+:7-1-1-c-sample3_ga: *Is* leor cúig euro. 
+:7-1-1-c-sample3_en: Five Euro is enough.
+
+:7-1-1-c-sample4_ga: *Is* as an Muileann gCearr di. 
+:7-1-1-c-sample4_en: She is from Mullingar.
+
 :7-1-1-d-text_ga: ainmfhocal nó clásal a cháiliú le haidiacht, nó le hainmfhocal, móide forainmneach réamhfhoclach:
 :7-1-1-d-text_en: qualification of a noun or clause, or with a noun plus a prepositional pronominal:
+
+:7-1-1-d-sample1_ga: *Is* maith léi an chispheil. 
+:7-1-1-d-sample1_en: She likes basketball.
+
+:7-1-1-d-sample2_ga: *Ní* mór dó imeacht. 
+:7-1-1-d-sample2_en: He must leave.
+
+:7-1-1-d-sample3_ga: *An* féidir leis é a dhéanamh? 
+:7-1-1-d-sample3_en: Can he do it?"
+
+:7-1-1-d-sample4_ga: *Is* leor liom an méid sin. 
+:7-1-1-d-sample4_en: That is enough for me.
+
+:7-1-1-d-sample5_ga: *An* cuimhin leat an teach sin? 
+:7-1-1-d-sample5_en: Do you remember that house?
+
+:7-1-1-d-sample6_ga: *Is* dona linn an briseadh seo. 
+:7-1-1-d-sample6_en: We are sorry for this break.
 
 :7-1-1-e-text_ga: ainmfhocal a cháiliú le breischéim aidiachta:
 :7-1-1-e-text_en: qualification of a noun with a comparative adjective:
 
+
+:7-1-1-e-sample1_ga: Tabhair leat an ceann *is* fearr leat. 
+:7-1-1-e-sample1_en: Take the one you prefer.
+
+:7-1-1-e-sample2_ga: Bhí na milseáin *ba* dheise ite sular shroich mé an chóisir. 
+:7-1-1-e-sample2_en: The nicest sweets were eaten before I arrived at the party.
+
 :7-1-1-f-text_ga: úinéireacht nó gaol idir daoine a chur in iúl trína húsáid leis an réamhfhocal _le_:
 :7-1-1-f-text_en: expression of ownership or relationship between people using the preposition _le_:
+
+
+:7-1-1-f-sample1_ga: *Ba* liomsa é. 
+:7-1-1-f-sample1_en: It was mine.
+
+:7-1-1-f-sample2_ga: *Ní* le Sorcha an ceann sin. 
+:7-1-1-f-sample2_en: That one is not Sorcha's.
+
+:7-1-1-f-sample3_ga: Tóg ceann ar bith *is* leat. 
+:7-1-1-f-sample3_en: Take any one you like.
+
+:7-1-1-f-sample4_ga: *Is* iníon le Seán ise. 
+:7-1-1-f-sample4_en: She is Seán's daughter.
+
+:7-1-1-f-sample5_ga: *Is* comhghleacaí le Cáit eisean. 
+:7-1-1-f-sample5_en: He is Cáit's colleague.
 
 :7-1-1-g-text_ga: clásal a cháiliú le haidiacht:
 :7-1-1-g-text_en: qualification of a clause with an adjective:
 
+
+:7-1-1-g-sample1_ga: *Is* gearr go mbeidh a fhios againn. 
+:7-1-1-g-sample1_en: Soon we will know.
+
+:7-1-1-g-sample1_ga: *Is* fada ó bhí sé ann. 
+:7-1-1-g-sample1_en: It has been a long time since he was there.
+
+:7-1-1-g-sample1_ga: *Is* maith is eol duit é. 
+:7-1-1-g-sample1_en: You know it well.
+
+:7-1-1-g-sample1_ga: *Is* iomaí duine a thagann an treo seo. 
+:7-1-1-g-sample1_en: Many people come this way.
+
+:7-1-1-g-sample1_ga: **B'**fhada ag teacht é. 
+:7-1-1-g-sample1_en: He was a long time coming.
+
 :7-1-1-h-text_ga: béim a leagan ar chuid den abairt:
 :7-1-1-h-text_en: emphasizing part of the sentence:
+
+:7-1-1-h-sample1_ga: *Ní* inniu ná inné a saolaíodh eisean. 
+:7-1-1-h-sample1_en: "He was not born today or yesterday.
+
+:7-1-1-h-sample2_ga: *Is* ag ceannach bainne a bhí mé. 
+:7-1-1-h-sample2_en: I was buying milk.
+
+:7-1-1-h-sample3_ga: *Is* chun na Spáinne a chuaigh sí. 
+:7-1-1-h-sample3_en: It was to Spain she went.
+
+:7-1-1-h-sample4_ga: *Ní* hí Muireann a chaill an eochair. 
+:7-1-1-h-sample4_en: It was not Muireann that lost the key.
+
+:7-1-1-h-sample5_ga: *Ba* í Nóra a d'aistrigh é sin. 
+:7-1-1-h-sample5_en: Nóra translated that.
+
+:7-1-1-h-sample6_ga: *Is* aici a bhí an ceart. 
+:7-1-1-h-sample6_en: She was right.
+
+:7-1-1-h-sample7_ga: *Níorbh* é sin an cineál comórtais a bhí ann in 1998. 
+:7-1-1-h-sample7_en: That was not the kind of competition that was there in 1998.
+
+:7-1-1-h-sample8_ga: *Is* inné a tháinig siad. 
+:7-1-1-h-sample8_en: Yesterday they came.
+
+:7-1-1-h-sample9_ga: *Is* é Peadar a dhéanfadh an beart dá mbeadh sé anseo. 
+:7-1-1-h-sample9_en: Peadar would make the move if he were here.
 
 :7-1-1-i-text_ga: í a úsáid in abairtí a chuireann comparáid in iúl:
 :7-1-1-i-text_en: using it in sentences that express a comparison:
 
-:7-2-title.ga: Foirmeacha Simplí na Copaile agus Athruithe Tosaigh
+
+:7-1-1-i-sample1_ga: *Is* troime bonn dhá phingin ná bonn pingine. 
+:7-1-1-i-sample1_en: A twopence is heavier than a penny.
+
+:7-1-1-i-sample2_ga: *Is* gile an ghrian ná an ghealach agus ná na pláinéid. 
+:7-1-1-i-sample2_en: The sun is brighter than either the moon or the planets.
+
+:7-1-1-i-sample3_ga: *Ní* lia tír ná nós. 
+:7-1-1-i-sample3_en: Countries aren't more numerous than customs. (figuratively: so many men, so many minds)
+
+:7-1-1-i-sample4_ga: *Nach* treise dúchas ná oiliúint? 
+:7-1-1-i-sample4_en: Isn't nature stronger than nurture?
+
+:7-1-1-i-sample5_ga: *Nárbh* fhearr gluaisteán ná rothar? 
+:7-1-1-i-sample5_en: Wouldn't a car be better than a bicycle?
+
+:7-2-title_ga: Foirmeacha Simplí na Copaile agus Athruithe Tosaigh
 :7-2-title_en: Simple Forms of the Copula and Initial Mutation
 
 :7-2-a-p_ga: Is ionann foirm shimplí agus foirm den chopail nach bhfuil i gcumasc le forainmneach ceisteach, réamhfhocal nó cónasc.

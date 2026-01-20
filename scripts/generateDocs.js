@@ -80,6 +80,37 @@ async function makeChapterHtml(chapterFolder, language, devMode) {
   });
 }
 
+/** Similar to {@link makeChapterHtml}, but just generates the Irish version
+ * @param {string} chapterFolder The chapter folder to load
+ * @param {boolean} devMode Whether to generate in dev mode
+ * @returns {Promise<string>} The processed chapter content as a string
+ */
+async function makeOriginalIrishHtml(chapterFolder, devMode) {
+  const [chapterAdocModule, chapterAttributesModule, commonAttributesModule] =
+    await Promise.all([
+      fs.readFile(`./translation/${chapterFolder}/original.adoc`, "utf-8"),
+      fs.readFile(`./translation/${chapterFolder}/attributes.adoc`, "utf-8"),
+      fs.readFile(`./translation/CommonAttributes.adoc`, "utf-8"),
+    ]);
+
+  const rawChapterAdoc = chapterAdocModule;
+  const rawChapterAttributes = chapterAttributesModule;
+  const rawCommonAttributes = commonAttributesModule;
+
+  const processedChapterAttrs = processAdocFileContents(rawChapterAttributes, 'ga');
+  const processedCommonAttrs = processAdocFileContents(rawCommonAttributes, 'ga');
+
+  const combined = [
+    processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
+  ].join("\n");
+
+  return asciidoctor.convert(combined, {
+    attributes: {
+      rootRef: devMode ? "/public/" : "/caighdean-bearla/"
+    }
+  });
+}
+
 /**
  * Generate the full HTML document for a chapter and write to `entrypoints`.
  * @param {string} chapterFolder The chapter id
@@ -87,14 +118,19 @@ async function makeChapterHtml(chapterFolder, language, devMode) {
 async function generateDoc(chapterFolder) {
   const devMode = process.argv.includes("--dev");
 
-  const html = await makeChapterHtml(chapterFolder, 'en', devMode);
+  const translationHtml = await makeChapterHtml(chapterFolder, 'en', devMode);
+  const originalIrishHtml = await makeOriginalIrishHtml(chapterFolder, devMode);
   const chapterTemplate = await fs.readFile(`./entrypoints/chapterTemplate.html`, "utf-8");
 
-  const finalHtml = chapterTemplate
-    .replace("<!-- Insert content here -->", html)
-    .replace("<!-- Insert title here -->", `Chapter ${chapterFolder.replace("Chapter", "")}`);
+  const finalTranslatedHtml = chapterTemplate
+    .replace("<!-- Insert content here -->", translationHtml)
+    .replace("<!-- Insert title here -->", chapterFolder);
+  const finalOriginalIrishHtml = chapterTemplate
+    .replace("<!-- Insert content here -->", originalIrishHtml)
+    .replace("<!-- Insert title here -->", chapterFolder);
 
-  await fs.writeFile(`./entrypoints/${chapterFolder}.html`, finalHtml, "utf-8");
+  await fs.writeFile(`./entrypoints/${chapterFolder}.html`, finalTranslatedHtml, "utf-8");
+  await fs.writeFile(`./entrypoints/${chapterFolder}-ga.html`, finalOriginalIrishHtml, "utf-8");
 }
 
 (async () => {

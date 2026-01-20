@@ -1,0 +1,908 @@
+= {Chapter} 8 | {chapterTitle}
+:showtitle:
+:table-caption!:
+
+== 8.1 {8-1-title}
+
+=== 8.1.1
+
+{8-1-1-p}
+
+'''
+
+== 8.2 {8-2-title}
+
+=== 8.2.1
+
+{8-2-1-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-8">
+    <caption>
+        <strong>{Table} 8A</strong> {8A-caption}
+    </caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan="2">{Table8A-col1}</th>
+      <th colspan="2">{Table8A-col2}</th>
+    </tr>
+    <tr>
+        <th class="bg-stone-300 text-black"></th>
+        <th class="bg-stone-300 text-black">{TheSingularNumber}</th>
+        <th class="bg-stone-300 text-black">{ThePluralNumber}</th>
+        <th class="bg-stone-300 text-black">{TheSingularNumber}</th>
+        <th class="bg-stone-300 text-black">{ThePluralNumber}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>{TheFirstPerson}</td>
+        <td>mé</td>
+        <td>sinn, muid</td>
+        <td>mise</td>
+        <td>sinne, muidne</td>
+    </tr>
+    <tr>
+        <td>{TheSecondPerson}</td>
+        <td>tú, thú</td>
+        <td>sibh</td>
+        <td>tusa, thusa</td>
+        <td>sibhse</td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonMasc}</td>
+        <td>sé, é</td>
+        <td rowspan="2">siad, iad</td>
+        <td>seisean, eisean</td>
+        <td rowspan="2">siadsan, iadsan</td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonFem}</td>
+        <td>sí, í</td>
+        <td>sise, ise</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+=== 8.2.2
+
+{8-2-2-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-2-2-sample1}
+| {8-2-2-sample2}
+| {8-2-2-sample3}
+| {8-2-2-sample4}
+| {8-2-2-sample5}
+| {8-2-2-sample6}
+|===
+
+=== 8.2.3
+
+{8-2-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-2-3-sample1}
+| {8-2-3-sample2}
+| {8-2-3-sample3}
+| {8-2-3-sample4}
+| {8-2-3-sample5}
+|===
+
+=== 8.2.4
+
+{8-2-4-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-2-4-sample1}
+| {8-2-4-sample2}
+| {8-2-4-sample3}
+|===
+
+=== 8.2.5
+
+{8-2-5-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-2-5-sample1}
+| {8-2-5-sample2}
+| {8-2-5-sample3}
+| {8-2-5-sample4}
+| {8-2-5-sample5}
+| {8-2-5-sample6}
+| {8-2-5-sample7}
+| {8-2-5-sample8}
+| {8-2-5-sample9}
+| {8-2-5-sample10}
+| {8-2-5-sample11}
+| {8-2-5-sample12}
+|===
+
+=== 8.2.6
+
+{8-2-6-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-2-6-sample1}
+| {8-2-6-sample2}
+| {8-2-6-sample3}
+| {8-2-6-sample4}
+| {8-2-6-sample5}
+|===
+
+=== 8.2.7
+
+{8-2-7-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-2-7-sample1}
+| {8-2-7-sample2}
+|===
+
+'''
+
+== 8.3 {8-3-title}
+
+=== 8.3.1
+
+{8-3-1-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-8">
+    <caption>
+        <strong>{Table} 8B</strong> {8B-caption}
+    </caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th>{TheSingular}</th>
+      <th>{ThePlural}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>{TheFirstPerson}</td>
+        <td>
+            <ul>
+                <li>mo chapallsa</li>
+                <li>mo phas-sa</li>
+                <li>mo bhailese</li>
+                <li>m'athairse</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>ár mbádna</li>
+                <li>ár n-arán-na</li>
+                <li>ár bpáircne</li>
+                <li>ár n-earraíne</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{TheSecondPerson}</td>
+        <td>
+            <ul>
+                <li>do chapallsa</li>
+                <li>do phas-sa</li>
+                <li>do bhailese</li>
+                <li>d'athairse</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>bhur mbádsa</li>
+                <li>bhur n-aránsa</li>
+                <li>bhur bpáircse</li>
+                <li>bhur n-earraíse</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonMasc}</td>
+        <td>
+            <ul>
+                <li>a chapallsan</li>
+                <li>a phas-san</li>
+                <li>a bhailesean</li>
+                <li>a athairsean</li>
+            </ul>
+        </td>
+        <td rowspan=2>
+            <ul>
+                <li>a mbádnasan</li>
+                <li>a n-aránsan</li>
+                <li>a bpáircnsan</li>
+                <li>a n-earráinsan</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonFem}</td>
+        <td>
+            <ul>
+                <li>a capallsa</li>
+                <li>a pas-sa</li>
+                <li>a bailese</li>
+                <li>a hathairse</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+++++
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-1-sample1}
+| {8-3-1-sample2}
+| {8-3-1-sample3}
+|===
+
+=== 8.3.2
+
+{8-3-2-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-2-sample1}
+| {8-3-2-sample2}
+| {8-3-2-sample3}
+|===
+
+=== 8.3.3
+
+{8-3-3-p}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-8">
+    <caption>
+        <strong>{Table} 8C</strong> {8C-caption}
+    </caption>
+  <thead>
+    <tr>
+      <th></th>
+        <th>
+            {TheSingular}<br />
+            {FollowingDha}
+        </th>
+        <th>
+            {ThePlural}<br />
+            {FollowingDha}
+        </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>{TheFirstPerson}</td>
+        <td>
+            <ul>
+                <li>mo dhá charr</li>
+                <li>mo dhá úll</li>
+                <li>mo dhá fheirm</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>ár dhá gcarr</li>
+                <li>ár dhá n-úll</li>
+                <li>ár dhá bhfeirm</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{TheSecondPerson}</td>
+        <td>
+            <ul>
+                <li>do dhá charr</li>
+                <li>do dhá úll</li>
+                <li>do dhá fheirm</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>bhur dhá gcarr</li>
+                <li>bhur dhá n-úll</li>
+                <li>bhur dhá bhfeirm</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonMasc}</td>
+        <td>
+            <ul>
+                <li>a dhá charr</li>
+                <li>a dhá úll</li>
+                <li>a dhá fheirm </li>
+            </ul>
+        </td>
+        <td rowspan=2>
+            <ul>
+                <li>a dhá gcarr</li>
+                <li>a dhá n-úll</li>
+                <li>a dhá bhfeirm</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonFem}</td>
+        <td>
+            <ul>
+                <li>a dhá carr</li>
+                <li>a dhá húll</li>
+                <li>a dhá feirm</li>
+            </ul>
+        </td>
+    </tr>
+  </tbody>
+++++
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-3-sample1}
+| {8-3-3-sample2}
+| {8-3-3-sample3}
+|===
+
+=== 8.3.4
+
+{8-3-4-p}
+
+[list-[lower-alpha]]
+. {8-3-4-a-p}
+. {8-3-4-b-p}
+
+[.chapter-8]
+[%header]
+[cols="1,1,1,1,1"]
+.*{Table} 8D* {8D-caption}
+|===
+h|
+| {TheSingular}
+| {ThePlural}
+| {TheSingular}
+| {ThePlural}
+
+| {TheFirstPerson}
+| mo cheannsa
+| ár gceann-na
+| mo chuidse
+| ár gcuidne
+
+| {TheSecondPerson}
+| do cheannsa
+| bhur gceannsa
+| do chuidse
+| bhur gcuidse
+
+| {TheThirdPersonMasc}
+| a ceannsan
+.2+| a gceannsan
+| a chuidsean
+.2+| a gcuidsean
+
+| {TheThirdPersonFem}
+| a ceannsa
+| a cuidse
+
+|===
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-4-sample1}
+| {8-3-4-sample2}
+| {8-3-4-sample3}
+| {8-3-4-sample4}
+| {8-3-4-sample5}
+| {8-3-4-sample6}
+| {8-3-4-sample7}
+| {8-3-4-sample8}
+|===
+
+=== 8.3.5
+
+{8-3-5-p}
+
+[.chapter-8]
+[%header]
+[cols="1,1,1,1,1"]
+.*{Table} 8E* {8E-caption}
+|===
+h|
+| {TheSingular}
+| {ThePlural}
+| {TheSingular}
+| {ThePlural}
+
+| {TheFirstPerson}
+| do m'ainmniú
+| dár n-ainmniú
+| do mo thástáil
+| dár dtástáil
+
+| {TheSecondPerson}
+| do d'ainmniú
+| do bhur n-ainmniú
+| do do thástáil
+| do bhur dtástáil
+
+| {TheThirdPersonMasc}
+| á ainmniú
+.2+| á n-ainmniú
+| á thástáil
+.2+| á dtástáil
+
+| {TheThirdPersonFem}
+| á hainmniú
+| á tástáil
+
+|===
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-5-sample1}
+| {8-3-5-sample2}
+| {8-3-5-sample3}
+|===
+
+=== 8.3.6
+
+{8-3-6-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-6-sample1}
+| {8-3-6-sample2}
+| {8-3-6-sample3}
+| {8-3-6-sample4}
+| {8-3-6-sample5}
+| {8-3-6-sample6}
+| {8-3-6-sample7}
+| {8-3-6-sample8}
+|===
+
+=== 8.3.7
+
+{8-3-7-p}
+
+[.samplebox]
+[cols="1,1,1"]
+|===
+| *de + a* | *->* | *dá*
+| *do + a* | *->* | *dá*
+| *de + ár* | *->* | *dár*
+| *do + ár* | *->* | *dár*
+|===
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-7-sample1}
+| {8-3-7-sample2}
+| {8-3-7-sample3}
+| {8-3-7-sample4}
+| {8-3-7-sample5}
+| {8-3-7-sample6}
+| {8-3-7-sample7}
+| {8-3-7-sample8}
+|===
+
+=== 8.3.8
+
+{8-3-8-p}
+
+[list-[lower-alpha]]
+. {8-3-8-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-8-a-sample1}
+| {8-3-8-a-sample2}
+|===
+. {8-3-8-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-8-b-sample1}
+| {8-3-8-b-sample2}
+|===
+. {8-3-8-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-8-c-sample1}
+| {8-3-8-c-sample2}
+|===
+. {8-3-8-d-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-8-d-sample1}
+| {8-3-8-d-sample2}
+|===
+. {8-3-8-e-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-8-e-sample1}
+| {8-3-8-e-sample2}
+|===
++
+*{Note}*: {8-3-8-e-note}
++
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-8-e-sample3}
+| {8-3-8-e-sample4}
+| {8-3-8-e-sample5}
+| {8-3-8-e-sample6}
+|===
+
+=== 8.3.9
+
+{8-3-9-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-3-9-sample1}
+| {8-3-9-sample2}
+| {8-3-9-sample3}
+|===
+
+'''
+
+== 8.4 {8-4-title}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-8">
+    <caption>
+        <strong>{Table} 8F</strong> {8F-caption}
+    </caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th colspan=4>{TheSingular}</th>
+      <th colspan=3>{ThePlural}</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>{TheFirstPerson}</th>
+        <th>{TheSecondPerson}</th>
+        <th>{TheThirdPersonMasc}</th>
+        <th>{TheThirdPersonFem}</th>
+        <th>{TheFirstPerson}</th>
+        <th>{TheSecondPerson}</th>
+        <th>{TheThirdPerson}</th>
+    </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="font-bold">ag</td>
+            <td>agam</td>
+            <td>agat</td>
+            <td>aige</td>
+            <td>aici</td>
+            <td>againn</td>
+            <td>agaibh</td>
+            <td>acu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">ar</td>
+            <td>orm</td>
+            <td>ort</td>
+            <td>air</td>
+            <td>uirthi</td>
+            <td>orainn</td>
+            <td>oraibh</td>
+            <td>orthu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">as</td>
+            <td>asam</td>
+            <td>asat</td>
+            <td>as</td>
+            <td>aisti</td>
+            <td>asainn</td>
+            <td>asaibh</td>
+            <td>astu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">chuig</td>
+            <td>chugam</td>
+            <td>chugat</td>
+            <td>chuige</td>
+            <td>chuici</td>
+            <td>chugainn</td>
+            <td>chugaibh</td>
+            <td>chucu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">de</td>
+            <td>díom</td>
+            <td>díot</td>
+            <td>de</td>
+            <td>di</td>
+            <td>dínn</td>
+            <td>díbh</td>
+            <td>díobh</td>
+        </tr>
+        <tr>
+            <td class="font-bold">do</td>
+            <td>dom</td>
+            <td>duit</td>
+            <td>dó</td>
+            <td>di</td>
+            <td>dúinn</td>
+            <td>daoibh</td>
+            <td>dóibh</td>
+        </tr>
+        <tr>
+            <td class="font-bold">faoi</td>
+            <td>fúm</td>
+            <td>fút</td>
+            <td>faoi</td>
+            <td>fúithi</td>
+            <td>fúinn</td>
+            <td>fúibh</td>
+            <td>fúthu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">fara</td>
+            <td>faram</td>
+            <td>farat</td>
+            <td>fairis</td>
+            <td>farae</td>
+            <td>farainn</td>
+            <td>faraibh</td>
+            <td>faru</td>
+        </tr>
+        <tr>
+            <td class="font-bold">i</td>
+            <td>ionam</td>
+            <td>ionat</td>
+            <td>ann</td>
+            <td>inti</td>
+            <td>ionainn</td>
+            <td>ionaibh</td>
+            <td>iontu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">idir</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>eadrainn</td>
+            <td>eadraibh</td>
+            <td>eatarthu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">ionsar</td>
+            <td>ionsorm</td>
+            <td>ionsort</td>
+            <td>ionsair</td>
+            <td>ionsuirthi</td>
+            <td>ionsorainn</td>
+            <td>ionsoraibh</td>
+            <td>ionsorthu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">le</td>
+            <td>liom</td>
+            <td>leat</td>
+            <td>leis</td>
+            <td>léi</td>
+            <td>linn</td>
+            <td>libh</td>
+            <td>leo</td>
+        </tr>
+        <tr>
+            <td class="font-bold">ó</td>
+            <td>uaim</td>
+            <td>uait</td>
+            <td>uaidh</td>
+            <td>uaithi</td>
+            <td>uainn</td>
+            <td>uaibh</td>
+            <td>uathu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">roimh</td>
+            <td>romham</td>
+            <td>romhat</td>
+            <td>roimhe</td>
+            <td>roimpi</td>
+            <td>romhainn</td>
+            <td>romhaibh</td>
+            <td>rompu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">thar</td>
+            <td>tharam</td>
+            <td>tharat</td>
+            <td>thairis</td>
+            <td>thairsti</td>
+            <td>tharainn</td>
+            <td>tharaibh</td>
+            <td>tharstu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">trí</td>
+            <td>tríom</td>
+            <td>tríot</td>
+            <td>tríd</td>
+            <td>tríthi</td>
+            <td>trínn</td>
+            <td>tríbh</td>
+            <td>tríothu</td>
+        </tr>
+        <tr>
+            <td class="font-bold">um</td>
+            <td>umam</td>
+            <td>umat</td>
+            <td>uime</td>
+            <td>uimpi</td>
+            <td>umainn</td>
+            <td>umaibh</td>
+            <td>umpu</td>
+        </tr>
+    </tbody>
+</table>
+++++
+
+{8-4-p}
+
+[list-[lower-alpha]]
+. {8-4-a-p}
+. {8-4-b-p}
+
+'''
+
+== 8.5 {8-5-title}
+
+=== 8.5.1
+
+{8-5-1-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-5-1-sample1}
+| {8-5-1-sample2}
+| {8-5-1-sample3}
+| {8-5-1-sample4}
+| {8-5-1-sample5}
+| {8-5-1-sample6}
+| {8-5-1-sample7}
+| {8-5-1-sample8}
+|===
+
+=== 8.5.2
+
+{8-5-2-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-5-2-sample1}
+| {8-5-2-sample2}
+| {8-5-2-sample3}
+| {8-5-2-sample4}
+|===
+
+=== 8.5.3
+
+{8-5-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-5-3-sample1}
+| {8-5-3-sample2}
+| {8-5-3-sample3}
+| {8-5-3-sample4}
+|===
+
+=== 8.5.4
+
+{8-5-4-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-5-4-sample1}
+| {8-5-4-sample2}
+| {8-5-4-sample3}
+| {8-5-4-sample4}
+| {8-5-4-sample5}
+| {8-5-4-sample6}
+| {8-5-4-sample7}
+| {8-5-4-sample8}
+|===
+
+=== 8.5.5
+
+{8-5-5-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-5-5-sample1}
+| {8-5-5-sample2}
+| {8-5-5-sample3}
+|===
+
+'''
+
+== 8.6 {8-6-title}
+
+=== 8.6.1
+
+{8-6-1-p}
+
+[list-[lower-alpha]]
+. {8-6-1-a-p}
+. {8-6-1-b-p}
+. {8-6-1-c-p}
+. {8-6-1-d-p}
+
+=== 8.6.2
+
+{8-6-2-p}
+
+[samplebox]
+[cols="1"]
+|===
+| {8-6-2-sample1}
+| {8-6-2-sample2}
+| {8-6-2-sample3}
+| {8-6-2-sample4}
+| {8-6-2-sample5}
+| {8-6-2-sample6}
+| {8-6-2-sample7}
+| {8-6-2-sample8}
+| {8-6-2-sample9}
+|===
+
+=== 8.6.3
+
+{8-6-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {8-6-3-sample1}
+| {8-6-3-sample2}
+| {8-6-3-sample3}
+| {8-6-3-sample4}
+|===

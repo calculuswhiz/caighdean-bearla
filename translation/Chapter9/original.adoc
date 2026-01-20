@@ -1,0 +1,1561 @@
+= Chapter 9 | {chapterTitle}
+:showtitle:
+:table-caption!:
+
+== 9.1 {9-1-title}
+
+=== 9.1.1
+
+{9-1-1-p}
+
+[list-[lower-alpha]]
+. *{9-1-1-a-title}*
++
+{9-1-1-a-p}
+. *{9-1-1-b-title}*
++
+{9-1-1-b-p}
+. *{9-1-1-c-title}*
++
+{9-1-1-c-p}
+. *{9-1-1-d-title}*
++
+{9-1-1-d-p}
+. *{9-1-1-e-title}*
++
+{9-1-1-e-p}
+. *{9-1-1-f-title}*
++
+{9-1-1-f-p}
+
+=== 9.1.2
+
+{9-1-2-p}
+
+'''
+
+== 9.2 {9-2-title}
+
+{9-2-p}
+
+=== 9.2.1 {9-2-1-title}
+
+[list-[lower-alpha]]
+. {9-2-1-a-p}
+. {9-2-1-b-p}
+
+{9-2-1-p1}
+
+[.chapter-9]
+[cols="1,5"]
+[options="header"]
+.*{Table} 9A* {TheBareNumbers} 0-19
+|===
+2+h| {TheBareNumbers} 0-19
+
+h| 0-10 | náid/neamhní, a haon, a dó, a trí, a ceathair, a cúig, a sé, a seacht, a hocht, a naoi, a deich
+
+h| 11-19 | a haon déag, a dó dhéag, a trí déag, a ceathair déag, a cúig déag, a sé déag, a seacht déag, a hocht déag, a naoi déag
+
+|===
+
+{9-2-1-p2}
+
+{9-2-1-p3}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9B* {TheBareNumbers} 20-99
+|===
+4+h| {TheBareNumbers} 20-99
+
+h| 20-29 | fiche, fiche a haon, fiche a dó, fiche a trí, fiche a ceathair, fiche a cúig, fiche a sé, fiche a seacht, fiche a hocht, fiche a naoi
+h| 60-69 | seasca, seasca a haon, seasca a dó, seasca a trí, seasca a ceathair, seasca a cúig, seasca a sé ...
+
+h| 30-39 | tríocha, ... tríocha a ceathair, tríocha a cúig, tríocha a sé ...
+h| 70-79 | seachtó, ... seachtó a seacht, seachtó a hocht, seachtó a naoi
+
+h| 40-49 | daichead/ceathracha, daichead a seacht/ceachreacha a seacht, daichead a hocht/ceathracha a hocht, daichead a naoi/ceathracha a naoi
+h| 80-89 | ochtó, ochtó a haon, ochtó a dó, ochtó a trí ...
+
+h| 50-59 | caoga, caoga a haon, caoga a dó, caoga a trí...
+h| 90-99 | nócha, nócha a ceathair, nócha a cúig, nócha a sé ...
+
+|===
+
+=== 9.2.2 {9-2-2-title}
+
+[list-[lower-alpha]]
+. {9-2-2-a-p}
+. {9-2-2-b-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9C* {TheBareNumbers} -- {TheTens}
+|===
+4+h| {TheBareNumbers} -- {TheTens}
+
+h| 100 | céad
+h| 200 | dhá chéad
+
+h| 1,000 | míle
+h| 4000 | ceithre míle
+
+h| 1,000,000 | milliún
+h| 5,000,000 | cúig milliún
+
+h| 1,000,000,000 | billiún
+h| 17,000,000,000 | seacht mbilliún déag
+
+|===
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9D* {TheBareNumbers} 100-9,999
+|===
+4+h| {TheBareNumbers} 100-9,999
+
+h| 103 | céad trí
+h| 1,001 | míle a haon
+
+h| 115 | céad a cúig déag
+h| 1,126 | míle, céad is fiche a sé
+
+h| 120 | céad fiche
+h| 1,230 | míle, dhá chéad tríocha
+
+h| 181 | céad ochtó a haon
+h| 2,915 | dhá mhíle, naoi gcéad a cúig déag
+
+h| 273 | dhá chéad seachtó a trí
+h| 3,824 | trí mhíle, ocht gcéad fiche a ceathair
+
+h| 355 | trí chéad caoga a cúig
+h| 4,733 | ceithre mhíle, seacht gcéad tríocha a trí
+
+h| 446 | ceithre chéad daichead a sé
+h| 5,642 | cúig mhíle, sé chéad daichead a dó
+
+h| 519 | cúig chéad a naoi déag
+h| 6,551 | sé mhíle, cúig chéad caoga a haon
+
+h| 657 | sé chéad caoga a seacht
+h| 7,460 | seacht míle, ceithre chéad seasca
+
+h| 734 | seacht gcéad tríocha a ceathair
+h| 8,379 | ocht míle, trí chéad seachtó a naoi
+
+h| 818 | ocht gcéad a hocht déag
+h| 9,288 | naoi míle, dhá chéad ochtó a hocht
+
+h| 999 | naoi gcéad nócha a naoi
+h| 9,999 | naoi míle, naoi gcéad nócha a naoi
+
+|===
+
+=== 9.2.3 {9-2-3-title}
+
+[list-[lower-alpha]]
+. {9-2-3-a-p}
+. {9-2-3-b-p}
+
+{9-2-3-p1}
+
+{9-2-3-p2}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-9">
+    <caption>
+        <strong>{Table} 9E</strong> {TheBareNumbers} 10,000+
+    </caption>
+  <thead>
+    <tr>
+        <th colspan=3>{TheBareNumbers} 10,000+</th>
+    </tr>
+    <tr>
+      <th></th>
+      <th>{Table9E-col2}</th>
+      <th>{Table9E-col3}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <th>13,452</th>
+        <td>trí mhíle dhéag, ceithre chéad caoga a dó</td>
+        <td>trí déag míle, ceithre chéad caoga a dó</td>
+    </tr>
+    <tr>
+        <th>18,901</th>
+        <td>ocht míle dhéag, naoi gcéad a haon</td>
+        <td>ocht déag míle, naoi gcéad a haon</td>
+    </tr>
+    <tr>
+        <th>38,482</th>
+        <td>ocht míle is tríocha, ceithre chéad ochtó a dó</td>
+        <td>tríocha a hocht míle, ceithre chéad ochtó a dó</td>
+    </tr>
+    <tr>
+        <th>65,155</th>
+        <td>cúig mhíle is seasca, céad caoga a cúig</td>
+        <td>seasca a cúig míle, céad caoga a cúig</td>
+    </tr>
+    <tr>
+        <th>74,048</th>
+        <td>ceithre mhíle is seachtó, daichead a hocht</td>
+        <td>seachtó a ceathair míle, daichead a hocht</td>
+    </tr>
+    <tr>
+        <th>92,827</th>
+        <td>dhá mhíle is nócha, ocht gcéad fiche a seacht</td>
+        <td>nócha a dó míle, ocht gcéad fiche a seacht</td>
+    </tr>
+    <tr>
+        <th>116,104</th>
+        <td>céad is sé mhíle dhéag, céad a ceathair</td>
+        <td>céad a sé déag míle, céad a ceathair</td>
+    </tr>
+    <tr>
+        <th>520,712</th>
+        <td>cúig chéad is fiche míle, seacht gcéad a dó dhéag</td>
+        <td>cúig chéad fiche míle, seacht gcéad a dó dhéag</td>
+    </tr>
+    <tr>
+        <th>974,345</th>
+        <td>naoi gcéad seachtó is ceithre mhíle, trí chéad daichead a cúig</td>
+        <td>naoi gcéad seachtó a ceathair míle, trí chéad daichead a cúig</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+'''
+
+== 9.3 {9-3-title}
+
+=== 9.3.1 {9-3-1-title}
+
+[list-[lower-alpha]]
+. {9-3-1-a-p}
+. {9-3-1-b-p}
+. {9-3-1-c-p}
+. {9-3-1-d-p}
+. {9-3-1-e-p}
+. {9-3-1-f-p}
+
+{9-3-1-p}
+
+[list-[lower-alpha]]
+[start=7]
+. {9-3-1-g-p}
+. {9-3-1-h-p}
+. {9-3-1-i-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9F* {TheCardinalNumbers} 1-19
+|===
+4+h| {TheCardinalNumbers} 1-19
+
+h| 1 | bád/bád amháin/aon bhád amháin +
+ábhar/ábhar amháin/aon ábhar amháin
+h| 11 | aon bhád déag +
+aon ábhar déag
+
+h| 2 | dhá bhád +
+dhá ábhar
+h| 12 | dhá bhád déag +
+dhá oíche déag
+
+h| 3 | trí bhád +
+trí ábhar
+h| 13 | trí bhád déag +
+trí ábhar déag
+
+h| 4 | ceithre bhád +
+ceithre ábhar
+h| 14 | ceithre bhád déag +
+ceithre ábhar déag
+
+h| 5 | cúig bhád +
+cúig ábhar
+h| 15 | cúig bhád déag +
+cúig oíche déag
+
+h| 6 | sé bhairille +
+sé oíche
+h| 16 | sé bhairille dhéag +
+sé ábhar déag
+
+h| 7 | seacht mbairille +
+seacht n-oíche
+h| 17 | seacht mbairille dhéag +
+seacht n-oíche déag
+
+h| 8 | ocht mbairille +
+ocht n-oíche
+h| 18 | ocht mbád déag +
+ocht n-oíche déag
+
+h| 9 | naoi mbairille +
+naoi n-oíche
+h| 19 | naoi mbairille dhéag +
+naoi n-oíche dhéag
+
+h| 10 | deich mbairille +
+deich n-oíche
+||
+
+|===
+
+=== 9.3.2 {9-3-2-title}
+
+{9-3-2-p}
+
+[.chapter-9]
+[cols="2,1,1,1"]
+[options="header"]
+.*{Table} 9G* {Table9G-caption}
+|===
+h| h| 2 h| 3-6 h| 7-10
+
+h| bliain | bhliain | bliana | mbliana
+h| seachtain | sheachtain | seachtaine | seachtaine
+
+h| ceann +
+(_seachas sa bhrí_ ball _beatha_) | cheann | cinn | gcinn
+
+h| cloigeann +
+(_seachas sa bhrí_ ball _beatha_) | chloigeann | cloigne | gcloigne
+
+h| fiche | fhichead | fichid | bhfichid
+h| pingin | phingin | pingine | bpingine
+h| trian | thrian | treana | dtreana
+h| troigh | throigh | troithe | dtroithe
+h| uair (_sa bhrí_ babhta) | uair | huaire | n-uaire
+
+|===
+
+[list-[lower-alpha]]
+. {9-3-2-a-p}
+. {9-3-2-b-p}
+. {9-3-2-c-p}
+. {9-3-2-d-p}
+. {9-3-2-e-p}
+. {9-3-2-f-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9H* {Table9H-caption}
+|===
+4+h| {Table9H-header}
+
+h| 1 | aon bhliain amháin
+h| 11 | aon uair déag
+
+h| 2 | dhá cheann
+h| 12 | dhá phingin déag
+
+h| 3 | trí cinn
+h| 13 | trí bliana déag
+
+h| 4 | ceithre cloigne
+h| 14 | ceithre cinn déag
+
+h| 5 | cúig fichid
+h| 15 | cúig seachtaine déag
+
+h| 6 | sé huaire
+h| 16 | sé cloigne déag
+
+h| 7 | seacht bpingine
+h| 17 | seacht bhfichid déag
+
+h| 8 | ocht seachtaine
+h| 18 | ocht dtroithe déag
+
+h| 9 | naoi mbliana
+h| 19 | naoi bpingine déag
+
+h| 10 | deich dtroithe || 
+
+|===
+
+=== 9.3.3 {9-3-3-title}
+
+[list-[lower-alpha]]
+. {9-3-3-a-p}
+. {9-3-3-b-p}
+. {9-3-3-c-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9I* {Table9I-caption}
+|===
+4+h| {Table9I-header}
+
+h| 1 | aon leabhar mór amháin +
+aon fhuinneog mhór amháin
+h| 11 | aon leabhar déag mhóra +
+aon fhuinneog déag mhóra
+
+h| 2 | dhá leabhar mhóra
+h| 12 | dhá oíche dhéag fhuara
+
+h| 3 | trí fhuinneog mhóra
+h| 13 | trí leabhar déag mhóra
+
+h| 4 | ceithre oíche fhuara
+h| 14 | ceithre fhuinneog déag mhóra
+
+h| 5 | cúig fhuinneog mhóra
+h| 15 | cúig leabhar déag mhóra
+
+h| 6 | sé leabhar mhóra
+h| 16 | sé fhuinneog déag mhóra
+
+h| 7 | seacht bhfuinneog mhóra
+h| 17 | seacht leabhar déag mhóra
+
+h| 8 | ocht leabhar mhóra
+h| 18 | ocht bhfuinneog déag mhóra
+
+h| 9 | naoi bhfuinneog mhóra
+h| 19 | naoi n-oíche dhéag fhuara
+
+h| 10 | deich leabhar mhóra | |
+
+|===
+
+=== 9.3.4 {9-3-4-title}
+
+[list-[lower-alpha]]
+. {9-3-4-a-p}
+. {9-3-4-b-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9J* {Table9J-caption}
+|===
+4+h| {Table9J-header}
+
+h| 1 | aon bhliain mhaith amháin/bliain mhaith amháin
+h| 11 | aon uair déag chiúine
+h| 2 | dhá cheann bhána h| 12 | dhá chloigeann déag mhaola
+h| 3 | trí cinn dhubha h| 13 | trí bliana déag maithe
+h| 4 | ceithre cloigne maola h| 14 | ceithre cinn déag bhána
+h| 5 | cúig cinn mhóra h| 15 | cúig pingine déag salacha
+h| 6 | sé troithe dearga h| 16 | sé cloigne déag maola
+h| 7 | seacht bpingine beaga h| 17 | seacht gcinn déag mhóra
+h| 8 | ocht seachtaine fada h| 18 | ocht dtroithe déag cearnacha
+h| 9 | naoi mbliana fada h| 19 | naoi bpingine déag beaga
+h| 10 | deich dtroithe cearnacha ||
+|===
+
+=== 9.3.5 {9-3-5-title}
+
+[list-[lower-alpha]]
+. {9-3-5-a-p}
+[list-[lower-roman]]
+.. {9-3-5-a-i-p}
+.. {9-3-5-a-ii-p}
+.. {9-3-5-a-iii-p}
+. {9-3-5-b-p}
+[list-[lower-roman]]
+.. {9-3-5-b-i-p}
+.. {9-3-5-b-ii-p}
+. {9-3-5-c-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9K* {Table9K-caption}
+|===
+4+h| {Table9K-header}
+
+h| 1 | an t-aon chapall amháin + 
+an t-aon fhuinneog amháin
+h| 11 | an t-aon chapall déag +
+an t-aon fhuinneog déag
+
+h| 2 | an dá chapall
+h| 12 | an dá chapall déag
+
+h| 3 | na trí chapall
+h| 13 | na trí chapall déag
+
+h| 4 | na ceithre chapall
+h| 14 | na ceithre chapall déag
+
+h| 5 | na cúig chapall
+h| 15 | na cúig chapall déag
+
+h| 6 | na sé fhuinneog
+h| 16 | na sé fhuinneog déag
+
+h| 7 | na seacht bhfuinneog
+h| 17 | na seacht bhfuinneog déag
+
+h| 8 | na hocht bhfuinneog
+h| 18 | na hocht bhfuinneog déag
+
+h| 9 | na naoi bhfuinneog
+h| 19 | na naoi bhfuinneog déag
+
+h| 10 | na deich bhfuinneog ||
+|===
+
+*{Note}*: {9-3-5-note}
+
+=== 9.3.6 {9-3-6-title}
+
+[list-[lower-alpha]]
+. {9-3-6-a-p}
+. {9-3-6-b-p}
+
+=== 9.3.7 {9-3-7-title}
+
+[list-[lower-alpha]]
+. *aon*
++
+{9-3-7-a-p}
++
+[list-[lower-roman]]
+.. {9-3-7-a-i-p}
+.. {9-3-7-a-ii-p}
+.. {9-3-7-a-iii-p}
+. {9-3-7-b-p}
+. {9-3-7-c-p}
+. {9-3-7-d-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9L* {Table9L-caption}
+|===
+4+h| {Table9L-header}
+
+h| 1 | ualach an aon chapaill mhóir amháin + 
+tréimhse na haon bhliana fada amháin
+h| 11 | stábla an aon chapall déag mhóra +
+ag oscailt an aon fhuinneog déag throma
+
+h| 2 | luach an dá theach bheaga
+h| 12 | tréimhse an dá bhliain déag fhada
+
+h| 3 | meáchan na dtrí bhó éagsúla
+h| 13 | innill na dtrí ghluaisteán déag chumhachtacha
+
+h| 4 | gaois na gceithre cloigne móra
+h| 14 | leathanaigh na gceithre leabhar déag ghearra
+
+h| 5 | ag dúnadh na gcúig fhuinneog ghlasa
+h| 15 | fad na gcúig oíche dhéag ghaofara
+
+h| 6 | fad na sé bliana fada
+h| 16 | gaois na sé cloigne déag maola
+
+h| 7 | ualach na seacht gcapall mhóra
+h| 17 | géaga na seacht gcrann déag dhuilleacha
+
+h| 8 | seolta na n-ocht mbád bheaga
+h| 18 | achar na n-ocht bpáirc déag mhóra
+
+h| 9 | leithead na naoi gcinn dheasa
+h| 19 | deireadh na naoi seachtaine déag fada
+
+h| 10 | achar na ndeich ngairdín chlocharacha ||
+|===
+
+=== 9.3.8 {9-3-8-title}
+
+{9-3-8-p}
+
+=== 9.3.9 {9-3-9-title}
+
+[list-[lower-alpha]]
+. {9-3-9-a-p}
+. {9-3-9-b-p}
+. {9-3-9-c-p}
+. {9-3-9-d-p}
+. {9-3-9-e-p}
+
+[.chapter-9]
+[cols="1,4,4,4"]
+[options="header"]
+.*{Table} 9M* {Table9M-caption}
+|===
+h| 
+h| {TheNominativeCase} 
+h| {TheGenitiveCase} +
+{WithoutArticle}
+h| {TheGenitiveCase} +
+{WithArticle}
+
+h| 20
+| fiche leabhar mór
+| meáchan fiche leabhar mór
+| meáchan an fiche leabhar mór
+
+h| 30
+| tríocha méadar glas
+| achar tríocha méadar glas
+| achar an tríocha méadar glas
+
+h| 40
+| daichead bád beag
+| lastas daichead bád beag
+| lastas an daichead bád beag
+
+h| 50
+| caoga císte milis
+| costas caoga císte milis
+| costas an chaoga císte milis
+
+h| 60
+| seasca bó bhán
+| bainne seasca bó bhán
+| bainne an seasca bó bhán
+
+h| 70
+| seachtó bliain fhada
+| tréimhse seachtó bliain fhada
+| tréimhse an seachtó bliain fhada
+
+h| 80
+| ochtó cloigeann maol
+| gaois ochtó cloigeann maol
+| gaois an ochtó cloigeann maol
+
+h| 90
+| nócha pingin bheag
+| luach nócha pingin bheag
+| luach an nócha pingin bheag
+
+|===
+
+*{Note}*:
+
+[.list-dots]
+- {9-3-9-note-p1}
+- {9-3-9-note-p2}
+
+=== 9.3.10 {9-3-10-title}
+
+[list-[lower-alpha]]
+. {9-3-10-a-p}
+. *{TheEstablishedSystem}*
+[list-[lower-roman]]
+.. {9-3-10-b-i-p}
+.. {9-3-10-b-ii-p}
+. *{TheSimplifiedSystem}*
+[list-[lower-roman]]
+.. {9-3-10-c-i-p}
+.. {9-3-10-c-ii-p}
+. {9-3-10-d-p}
+. {9-3-10-e-p}
+
+[.chapter-9]
+[cols="1,4,4"]
+[options="header"]
+.*{Table} 9N* {Table9N-caption}
+|===
+h| h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
+
+h| 21 
+a| . aon chapall mór amháin is fiche
+. capall mór is fiche
+| fiche a haon capall mór
+
+h| 33 
+| trí oíche dhorcha is tríocha
+| tríocha a trí oíche dhorcha
+
+h| 42 
+| dhá chapall mhóra is daichead
+| daichead a dó capall mór
+
+h| 55 
+| cúig fhuinneog dhúnta is caoga
+| caoga a cúig fuinneog dhúnta
+
+h| 67 
+| seacht leabhar shuimiúla is seasca
+| seasca a seacht leabhar suimiúil
+
+h| 74 
+| ceithre pingine beaga is seachtó
+| seachtó a ceathair pingin bheag
+
+h| 86 
+| sé bhó mhóra is ochtó
+| ochtó a sé bó mhór
+
+h| 99 
+| naoi mbád chostasacha is nócha
+| nócha a naoi bád costasach
+|===
+
+*{Note}*:
+[.list-dots]
+- {9-3-10-note-p1}
+- {9-3-10-note-p2}
+
+=== 9.3.11 {9-3-11-title}
+
+{9-3-11-p1}
+
+{9-3-11-p2}
+
+[.chapter-9]
+[cols="1,4,4"]
+[options="header"]
+.*{Table} 9O* {Table9O-caption}
+|===
+h| h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
+
+h| 191
+| céad nócha is aon mhéadar amháin
+| céad nócha a haon méadar
+
+h| 282
+| dhá chéad ochtó is dhá chat fhiáine
+| dhá chéad ochtó a dó cat fiáin
+
+h| 364
+| trí chéad seasca is ceithre chapall mhóra
+| trí chéad seasca a ceathair capall mór
+
+h| 1,446
+| míle, ceithre chéad daichead is sé bhó chrosta
+| míle, ceithre chéad daichead a sé bó chrosta
+
+h| 18,437
+| ocht míle dhéag, ceithre chéad tríocha is seacht gcás chasta
+| ocht déag míle, ceithre chéad tríocha a seacht cás casta
+
+h| 25,528
+| cúig mhíle is fiche, cúig chéad fiche is ocht leabhar shuimiúla
+| fiche a cúig míle, cúig chéad fiche a hocht leabhar suimiúil
+
+h| 100,513
+| céad míle, cúig chéad is trí mhilseán déag dhearga
+| céad míle, cúig chéad a trí déag milseán dearg
+|===
+
+=== 9.3.12 {9-3-12-title}
+
+{9-3-12-p}
+
+[.chapter-9]
+[cols="1,4,4"]
+[options="header"]
+.*{Table} 9P* {Table9P-caption}
+|===
+h| h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
+
+h| 21 
+| 21 bhád costasach
+| 21 bád costasach
+
+h| 22 
+| 22 bhád mhóra
+| 22 bád mór
+
+h| 37 
+| 37 n-ábhar shuimiúla
+| 37 ábhar suimiúil
+
+h| 44 
+| 44 fhuinneog dhúnta
+| 44 fuinneog dhúnta
+
+h| 53 
+| 53 bhó mhóra
+| 53 bó mhór
+
+h| 68 
+| 68 n-oíche ghaofara
+| 68 oíche ghaofar
+
+h| 76 
+| 76 dhuine ghnóthacha
+| 76 duine gnóthach
+
+h| 89 
+| 89 dtroithe cearnacha
+| 89 troigh chearnach
+
+h| 95 
+| 95 mhéadar chearnacha
+| 95 méadar cearnach
+
+h| 191 
+| 191 bhád costasach
+| 191 bád costasach
+
+|===
+
+'''
+
+== 9.4 {9-4-title}
+
+{9-4-p}
+
+=== 9.4.1 {9-4-1-title}
+
+[list-[lower-alpha]]
+. {9-4-1-a-p}
+. {9-4-1-b-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9Q* {Table9Q-caption}
+|===
+4+h| {Table9Q-header}
+
+h| 1 | duine/aon duine amháin h| 7 | seachtar
+h| 2 | beirt h| 8 | ochtar
+h| 3 | triúr h| 9 | naonúr
+h| 4 | ceathrar h| 10 | deichniúr
+h| 5 | cúigear h| 11 | aon duine dhéag
+h| 6 | seisear h| 12 | dháréag
+|===
+
+=== 9.4.2 {9-4-2-title}
+
+[list-[lower-alpha]]
+. *{9-4-2-a-title}*
+[list-[lower-roman]]
+.. {9-4-2-a-i-p}
+.. {9-4-2-a-ii-p}
+. *{9-4-2-b-title}*
+[list-[lower-roman]]
+.. {9-4-2-b-i-p}
+.. {9-4-2-b-ii-p}
+.. {9-4-2-b-iii-p}
+
++
+[.chapter-9]
+[cols="2,4,4"]
+[options="header"]
+.*{Table} 9R* {Table9R-caption}
+|===
+h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
+
+h| 1 | an t-aon duine amháin | ainm an aon duine amháin
+h| 2 | an bheirt | tuairimí na beirte
+h| 3 | an triúr | éadaí an triúir
+h| 4 | an ceathrar | táillí an cheathrair
+h| 5 | an cúigear | bád an chúigir
+h| 6 | an seisear | teach an tseisir
+h| 7 | an seachtar | scoil an tseachtair
+h| 8 | an t-ochtar | meitheal an ochtair
+h| 9 | an naonúr | foireann an naonúir
+h| 10 | an deichniúr | tithe an deichniúir
+h| 11 | an t-aon duine dhéag | foireann an aon duine dhéag
+h| 12 | an dáréag | airgead an dáréag
+|===
++
+. *{9-4-2-c-title}*
+[list-[lower-roman]]
+.. {9-4-2-c-i-p}
+.. {9-4-2-c-ii-p}
+.. {9-4-2-c-iii-p}
+.. {9-4-2-c-iv-p}
+. *{9-4-2-d-title}*
+[list-[lower-roman]]
+.. {9-4-2-d-i-p}
+.. {9-4-2-d-ii-p}
+
+*{OtherCasesFootnote}
+
+=== 9.4.3 {9-4-3-title}
+
+[list-[lower-alpha]]
+. *{9-4-3-a-title}*
+[list-[lower-roman]]
+.. {9-4-3-a-i-p}
+.. {9-4-3-a-ii-p}
+.. {9-4-3-a-iii-p}
+.. {9-4-3-a-iv-p}
+.. {9-4-3-a-v-p}
+
++
+*{OtherCasesFootnote}
+
++
+[.chapter-9]
+[cols="2,4,4"]
+[options="header"]
+.*{Table} 9S* {Table9S-caption}
+|===
+h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
+
+h| 1 
+| fear amháin/aon fhear amháin +
+bean amháin/aon bhean amháin
+| hata aon fhir amháin +
+hata aon mhná amháin
+
+h| 2 | beirt bhan | páistí bheirt bhan
+
+h| 3 | triúr bádóirí | báid triúr bádóirí
+
+h| 4 | ceathrar scoláirí | torthaí ceathrar scoláirí
+
+h| 5 | cúigear fear | gaolta cúigear fear
+
+h| 6 | seisear ban | páistí seisear ban
+
+h| 7 | seachtar bádóirí | long seachtar bádóirí
+
+h| 8 | ochtar báicéirí | cístí ochtar báicéirí
+
+h| 9 | naonúr fear | talamh naonúr fear
+
+h| 10 | deichniúr girseach | airgead deichniúr girseach
+
+h| 11* | aon imreoir déag | cultacha aon imreoir déag
+
+h| 12 | dháréag bádóirí | soitheach dháréag bádóirí
+
+|===
+*{Table9S-footnote}
+
++
+[list-[lower-alpha]]
+. *{9-4-3-b-title}*
+[list-[lower-roman]]
+.. {9-4-3-b-i-p}
+.. {9-4-3-b-ii-p}
+.. {9-4-3-b-iii-p}
+.. {9-4-3-b-iv-p}
+
++
+[.chapter-9]
+[cols="1,4,4"]
+[options="header"]
+.*{Table} 9T* {Table9T-caption}
+|===
+h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
+
+h| 1 | an t-aon fhear amháin +
+an t-aon bhean amháin
+| hata an aon fhir amháin +
+hata na haon mhná amháin
+h| 2   | an bheirt bhan | páistí na beirte ban
+h| 3   | an triúr bádóirí | báid an triúr bádóirí
+h| 4   | an ceathrar scoláirí | torthaí an cheathrar scoláirí
+h| 5   | an cúigear fear | gaolta an chúigear fear
+h| 6   | an seisear ban | páistí an tseisear ban
+h| 7   | an seachtar bádóirí | long an tseachtar bádóirí
+h| 8   | an t-ochtar báicéirí | cístí an ochtar báicéirí
+h| 9   | an naonúr fear | talamh an naonúr fear
+h| 10  | an deichniúr girseach | airgead an deichniúr girseach
+h| 11* | an t-aon imreoir déag | cluiche an aon imreoir déag
+h| 12  | an dáréag bádóirí | soitheach an dáréag bádóirí
+|===
+*{Table9T-footnote}
+
++
+. *{9-4-3-c-title}*
+[list-[lower-roman]]
+.. {9-4-3-c-i-p}
+.. {9-4-3-c-ii-p}
+.. {9-4-3-c-iii-p}
+.. {9-4-3-c-iv-p}
+
++
+[.chapter-9]
+[cols="2,4,4"]
+[options="header"]
+.*{Table} 9U* {Table9U-caption}
+|===
+h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
+
+h| 1 a| . fear ciallmhar amháin
+. bean shaibhir amháin
+. an t-aon fhear cineálta amháin
+. an t-aon bhean dheas amháin
+a| . cóta aon fhir chiallmhair amháin
+. geansaí aon mhná saibhre amháin
+. cóta an aon fhir chineálta amháin
+. geansaí na haon mhná deise amháin
+
+h| 2 a| . beirt bhan mhisniúla
+. beirt fhear chróga
+. beirt scoláirí chumasacha
+. an bheirt bhan mhisniúla
+. an bheirt fhear chróga
+a| . an bheirt scoláirí chumasacha
+. oifig bheirt bhan mhisniúla
+. páistí bheirt fhear chróga
+. cóipleabhair bheirt scoláirí chumasacha
+. oifig na beirte ban mhisniúla
+. páistí na beirte fear chróga
+. cóipleabhair na beirte scoláirí chumasacha
+
+h| 3 a| . triúr fear mór
+. triúr girseach galánta
+. an triúr bádóirí tuirseacha 
+a| . hataí triúr fear mór
+. gúnaí triúr girseach galánta
+. báid an triúr bádóirí tuirseacha
+
+h| 4
+| ceathrar (an ceathrar) scoláirí maithe
+| scrúduithe ceathrar (an cheathrar) scoláirí maithe
+
+h| 5
+| cúigear (an cúigear) fear inniúil
+| gaolta cúigear (an chúigear) fear inniúil
+
+h| 6
+| seisear (an seisear) ban cumasach
+| páistí seisear (an tseisear) ban cumasach
+
+h| 7
+| seachtar (an seachtar) bádóirí óga
+| long seachtar (an tseachtar) bádóirí óga
+
+h| 8
+| ochtar (an t-ochtar) báicéirí díograiseacha
+| cístí ochtar (an ochtar) báicéirí díograiseacha
+
+h| 9
+| naonúr (an naonúr) fear ocrach
+| talamh naonúr (an naonúr) fear ocrach
+
+h| 10
+| deichniúr (an deichniúr) girseach bríomhar
+| airgead deichniúr (an deichniúr) girseach bríomhar
+
+h| 11*
+| aon (an t-aon) imreoir déag thapa
+| cultacha aon (an aon) imreoir déag thapa
+
+h| 12
+| dháréag (an dáréag) scoláirí borba
+| leabhair dháréag (an dáréag) scoláirí borba
+
+|===
+
++
+*{Table9U-footnote}
+
+=== 9.4.4 {9-4-4-title}
+[list-[lower-alpha]]
+. {9-4-4-a-p}
+. {9-4-4-b-p}
+
+=== 9.4.5 {9-4-5-title}
+
+{9-4-5-p}
+
+'''
+
+== 9.5 {9-5-title}
+
+{9-5-p}
+
+=== 9.5.1 {9-5-1-title}
+
+[list-[lower-alpha]]
+. {9-5-1-a-p}
+. {9-5-1-b-p}
+[list-[lower-roman]]
+.. {9-5-1-b-i-p}
+.. {9-5-1-b-ii-p}
+.. {9-5-1-b-iii-p}
+. {9-5-1-c-p}
+. {9-5-1-d-p}
+
+=== 9.5.2 {9-5-2-title}
+
+[list-[lower-alpha]]
+. {9-5-2-a-p}
+. {9-5-2-b-p}
+. {9-5-2-c-p}
+. {9-5-2-d-p}
+. {9-5-2-e-p}
+
+[.chapter-9]
+[cols="1,2,1,2,1,2,1,2"]
+[options="header"]
+.*{Table} 9V* {TheOrdinalNumbers} 1-100
+|===
+8+h| {TheOrdinalNumbers} 1-100
+
+h| 1ú | an chéad fhear
+h| 11ú | an t-aonú bean déag
+h| 20ú | an fichiú capall
+h| 30ú | an tríochadú bean
+
+h| 2ú | an dara/dóú bean
+h| 12ú | an dara/dóú bosca déag
+h| 21ú | an t-aonú capall is fiche
+h| 39ú | an naoú hoíche is tríocha
+
+h| 3ú | an tríú leabhar
+h| 13ú | an tríú méadar déag
+h| 22ú | an dara/dóú bean is fiche
+h| 40ú | an daicheadú/ceathrachadú cuairteoir
+
+h| 4ú | an ceathrú méadar
+h| 14ú | an ceathrú bád déag
+h| 23ú | an tríú leabhar is fiche
+h| 48ú | an t-ochtú bó is daichead
+
+h| 5ú | an cúigiú bád
+h| 15ú | an cúigiú hábhar déag
+h| 24ú | an ceathrú méadar is fiche
+h| 57ú | an seachtú fuinneog is caoga
+
+h| 6ú | an séú hábhar
+h| 16ú | an séú bó déag
+h| 25ú | an cúigiú bád is fiche
+h| 66ú | an séú hábhar is seasca
+
+h| 7ú | an seachtú fuinneog
+h| 17ú | an seachtú fuinneog déag
+h| 26ú | an séú hábhar is fiche
+h| 75ú | an cúigiú bád is seachtó
+
+h| 8ú | an t-ochtú bó
+h| 18ú | an t-ochtú hoíche déag
+h| 27ú | an seachtú fuinneog is fiche
+h| 84ú | an ceathrú méadar is ochtó
+
+h| 9ú | an naoú hoíche
+h| 19ú | an naoú capall déag
+h| 28ú | an t-ochtú bó is fiche
+h| 93ú | an tríú leabhar is nócha
+
+h| 10ú | an deichiú capall
+h||
+h| 29ú | an naoú hoíche is fiche
+h| 100ú | an céadú custaiméir
+|===
+
+=== 9.5.3 {9-5-3-title}
+
+[list-[lower-alpha]]
+. {9-5-3-a-p}
+. {9-5-3-b-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9W* {TheOrdinalNumbers} 100+
+|===
+4+h| {TheOrdinalNumbers} 100+
+
+h| 104ú | an céad is ceathrú feirmeoir
+h| 1007ú | an míle is seachtú bliain
+
+h| 116ú | an céad is séú babhta déag 
+h| 7219ú | an seacht míle, dhá chéad is naoú méadar déag
+
+h| 131ú | an céad tríocha is aonú capall
+h| 10,000ú | an deich míliú lá
+
+h| 132ú | an céad tríocha is dóú hasal
+h| 223,413ú | an dá chéad fiche is trí mhíle, ceithre chéad is tríú cloigeann déag
+
+h| 211ú | an dá chéad is aonú bád déag 
+h| 613,564ú | an sé chéad is trí mhíle dhéag, cúig chéad seasca is ceathrú bó
+
+h| 1,000ú | an míliú heitilt
+h| 1,000,000ú | an milliúnú huair
+|===
+
+=== 9.5.4 {9-5-4-title}
+
+[list-[lower-alpha]]
+. {9-5-4-a-p}
+. {9-5-4-b-p}
+. {9-5-4-c-p}
+. {9-5-4-d-p}
+
+[.chapter-9]
+[cols="1,4,1,4"]
+[options="header"]
+.*{Table} 9X* {Table9XCaption}
+|===
+4+h| {Table9XHeader}
+
+h| 1ú | marcach an chéad chapaill +
+tús na chéad chaibidle
+h| 39ú | deireadh an naoú hoíche is tríocha
+
+h| 14ú | seol an cheathrú bád déag
+h| 100ú | gearán an chéadú custaiméir
+
+h| 20ú | torthaí an fichiú dalta
+h| 104ú | beithígh an chéad is ceathrú feirmeoir
+|===
+
+=== 9.5.5 {9-5-5-title}
+
+{9-5-5-p}
+
+=== 9.5.6 {9-5-6-title}
+
+[list-[lower-alpha]]
+. {9-5-6-a-p}
+. {9-5-6-b-p}
+
+'''
+
+== 9.6 {9-6-title}
+
+{9-6-p}
+
+=== 9.6.1 {9-6-1-title}
+
+[list-[lower-alpha]]
+. {9-6-1-a-p}
+. {9-6-1-b-p}
+
+{9-6-1-p}
+
+[list-[lower-alpha]]
+[start=3]
+. {9-6-1-c-p}
+. {9-6-1-d-p}
+. {9-6-1-e-p}
+[list-[lower-roman]]
+[.[&>ol>li:first-child]:border-purple-500]
+[.[&>ol>li:first-child]:border-1]
+[.[&>ol>li:first-child]:bg-yellow-50]
+.. {9-6-1-e-i-p}
+.. {9-6-1-e-ii-p}
+.. {9-6-1-e-iii-p}
+.. {9-6-1-e-iv-p}
+.. {9-6-1-e-v-p}
+
+=== 9.6.2 {9-6-2-title}
+
+[list-[lower-alpha]]
+. *{9-6-2-a-title}*
++
+{9-6-2-a-p}
++
+[.chapter-9]
+[options="header"]
+.*{Table} 9Y* {Table9YCaption}
+|===
+h| {TheFraction} h| {TheDenominator} h| {TheFormWithCuid} h| {TheFraction} h| {TheDenominator} h| {TheFormWithCuid}
+
+h| 1/2 | leath | an leathchuid 
+h| 1/11 | aondéagú | an t-aondéagú cuid
+
+h| 1/3 | trian | an tríú cuid 
+h| 1/12 | dódhéagú | an dódhéagú cuid
+
+h| 1/4 | ceathrú | an ceathrú cuid 
+h| 1/13 | trídéagú | an trídéagú cuid
+
+h| 1/5 | cúigiú | an cúigiú cuid 
+h| 1/14 | ceathairdéagú | an ceathairdéagú cuid
+
+h| 1/6 | séú | an séú cuid 
+h| 1/15 | cúigdéagú | an cúigdéagú cuid
+
+h| 1/7 | seachtú | an seachtú cuid 
+h| 1/16 | sédéagú | an sédéagú cuid
+
+h| 1/8 | ochtú | an t-ochtú cuid 
+h| 1/17 | seachtdéagú | an seachtdéagú cuid
+
+h| 1/9 | naoú | an naoú cuid 
+h| 1/18 | ochtdéagú | an t-ochtdéagú cuid
+
+h| 1/10 | deichiú | an deichiú cuid 
+h| 1/19 | naoidéagú | an naoidéagú cuid
+
+|===
++
+. *{9-6-2-b-title}*
++
+{9-6-2-b-p-1}
++
+[.chapter-9]
+[options="header"]
+.*{Table} 9Z* {Table9ZCaption}
+|===
+h| {TheFraction} h| {TheFormWithCuid} h| {TheFraction} h| {TheFormWithCuid}
+
+h| 1/21 | an fiche aonú cuid    h| 1/87 | an t-ochtó seachtú cuid
+h| 1/32 | an tríocha dóú cuid   h| 1/98 | an nócha ochtú cuid
+h| 1/43 | an daichead tríú cuid h| 1/99 | an nócha naoú cuid
+h| 1/54 | an caoga ceathrú cuid h| 1/156 | an céad caoga séú cuid
+h| 1/65 | an seasca cúigiú cuid h| 1/2,987 | an dá mhíle naoi gcéad ochtó seachtú cuid
+h| 1/76 | an seachtó séú cuid   h| 1/3,234,567 | an trí mhilliún, dhá chéad tríocha is ceithre mhíle, cúig chéad seasca seachtú cuid
+
+|===
++
+{9-6-2-b-p-2}
+
+=== 9.6.3 {9-6-3-title}
+
+[list-[lower-alpha]]
+. *{9-6-3-a-title}*
+[list-[lower-roman]]
+.. {9-6-3-a-i}
++
+[.chapter-9]
+[options="header"]
+.*{Table} 9AA* {Table9AACaption}
+|===
+h| {TheFraction} h| h| {TheFraction} h| h| {TheFraction} h|
+
+h| 3/2 | trí leath
+h| 2/11 | dhá aondéagú
+h| 4/30 | ceithre thríochadú
+
+h| 2/3 | dhá thrian
+h| 3/12 | trí dhódhéagú
+h| 5/40 | cúig dhaicheadú
+
+h| 5/4 | cúig cheathrú
+h| 4/13 | ceithre thrídéagú
+h| 6/50 | sé chaogadú
+
+h| 4/7 | ceithre sheachtú
+h| 7/16 | seacht sédéagú
+h| 9/80 | naoi n-ochtódú
+
+h| 8/9 | ocht naoú
+h| 9/18 | naoi n-ochtdéagú
+h| 9/100 | naoi gcéadú
+
+h| 9/10 | naoi ndeichiú
+h| 6/19 | sé naoidéagú
+h| 3/1,000 | trí mhíliú
+
+h| 10/3 | deich dtreana
+h| 3/20 | trí fichiú
+h| 5/1,000,000 | cúig mhilliúnú
+
+
+|===
+.. {9-6-3-a-ii}
++
+[.chapter-9]
+[options="header"]
+.*{Table} 9BB* {Table9BBCaption}
+|===
+h| {TheFraction} h| _ceann_/_cinn_ + _de_ h| {TheFraction} h| _ceann_/_cinn_ + _de_ 
+
+h| 2/21 | dhá cheann de fiche aonuithe
+h| 10/156 | deich gcinn de chéad caoga séithe
+
+h| 3/32 | trí cinn de thríocha dóithe
+h| 5/209 | cúig cinn de dhá chéad naoithe
+
+h| 4/43 | ceithre cinn de dhaichead tríthe
+h| 2/2,987| dhá cheann de dhá mhíle, naoi gcéad ochtó seachtuithe
+
+h| 5/54 | cúig cinn de chaoga ceathruithe
+h| 3/3,234,567 | trí cinn de thrí mhilliún, dhá chéad tríocha is ceithre mhíle, cúig chéad seasca seachtuithe
+
+|===
+. *{9-6-3-b-title}*
++
+[.chapter-9]
+[options="header"]
+.*{Table} 9CC* {Table9CCCaption}
+|===
+h| {TheFraction} h| {TheBareNumberModifiedBy} _de_ h| {TheFraction} h| {TheBareNumberModifiedBy} _de_
+
+h| 11/2 | a haon déag de leatha
+h| 19/12 | a naoi déag de dhódhéaguithe
+
+h| 12/3 | a dó dhéag de thrianta
+h| 20/19 | fiche de naoidéaguithe
+
+h| 15/6 | a cúig déag de shéithe
+h| 45/17 | daichead a cúig de sheachtdéaguithe
+
+h| 17/8 | a seacht déag d'ochtuithe
+h| 87/13 | ochtó a seacht de thrídéaguithe
+
+h| 18/9 | a hocht déag de naoithe
+h| 123/12 | céad fiche a trí de dhódhéaguithe
+
+
+|===
+
+=== 9.6.4 {9-6-4-title}
+
+{9-6-4-p}
+
+[.chapter-9]
+[options="header"]
+.*{Table} 9DD* {Table9DDCaption}
+|===
+h| {TheFraction} h| {TheBareNumberModifiedBy} _de_ h| {TheBareNumberModifiedBy} _ar_ h| {TheBareNumberModifiedBy} _os cionn_
+
+h| 23/29 
+| fiche a trí de fiche naoithe 
+| fiche a trí ar fiche a naoi 
+| fiche a trí os cionn fiche a naoi
+
+h| 13/30 
+| a trí déag de thríochaduithe 
+| a trí déag ar thríocha 
+| a trí déag os cionn tríocha
+
+h| 32/81 
+| tríocha a dó d'ochtó aonuithe 
+| tríocha a dó ar ochtó a haon 
+| tríocha a dó os cionn ochtó a haon
+
+h| 81/84 
+| ochtó a haon d'ochtó ceathruithe 
+| ochtó a haon ar ochtó a ceathair 
+| ochtó a haon os cionn ochtó a ceathair
+
+|===
+
+'''
+
+== 9.7 {9-7-title}
+
+[list-[lower-alpha]]
+. {9-7-a-p}
+. {9-7-b-p}
+
+== 9.8 {9-8-title}
+
+[.chapter-9]
+[options="header"]
+[cols="2,3,3,3"]
+.*{Table} 9EE* {Table9EECaption}
+|===
+
+h| 0-19 h| {TheNominativeCase} h| {TheGenitiveCase} h| {Tabel9EE-col4}
+
+h| {Table9EE-Row1} 
+a| . aon bhileog ghlan amháin
+. dhá chupán ghlasa
+. an dá chrann éagsúla
+. na seacht gcinn dhearga
+. na cúig bhád déag bheaga
+. sé oíche Shathairn déag
+. sé theach tábhairne dhéag
+a| . tús na haon bhileoige glaine amháin
+. dath an dá chrann éagsúla
+. costas na seacht gcinn dhearga
+. bádóirí na gcúig bhád déag bheaga
+. fuacht na n-ocht gcloigne maola
+a| . 1 bhileog ghlan
+. 2 chupán ghlasa
+. 3 cinn dhearga
+
+h| {Table9EE-Row2} 
+a| . beirt bhan mhisniúla
+. beirt fhear chróga
+. an bheirt scoláirí chumasacha
+. an ceathrar feirmeoirí gnóthacha
+. an t-ochtar aisteoirí maithe
+. trí fheirmeoir déag Éireannacha
+. na seacht n-oibrí dhéag ghnóthacha
+a| . ainmneacha na beirte ban mhisniúla
+. muintir an cheathrair
+. muintir an cheathrar feirmeoirí gnóthacha
+. róil an ochtair
+. róil an ochtar aisteoirí maithe
+. cumas na dtrí fheirmeoir déag Éireannacha
+. tuarastail na seacht n-oibrí dhéag ghnóthacha
+a| . 1 oibrí cáilithe
+. 3 fheisire shinsearacha
+. 8 n-údar fhoilsithe
+. 13 fheirmeoir Éireannacha
+. 17 n-oibrí ghnóthacha
+
+h| {Table9EE-Row3} 
+a| . an chéad fhear cróga
+. na chéad cheithre charr mhóra
+. an tríú cupán tae
+. an cúigiú hionstraim reachtúil
+. an seachtú hábhar déag nua
+. an t-ochtú capall déag mór
+a| . ráiteas an chéad fhir chróga
+. buiséad na chéad dánlainne nua-aoisí
+. blas an tríú cupán tae
+. forálacha an chúigiú hionstraim reachtúil
+. costas an seachtú hábhar déag nua
+. ualach an ochtú capall déag mór
+a| . an 1ú fear cróga
+. an 1ú dánlann nua-aoiseach
+. an 3ú cupán tae
+. an 5ú hionstraim reachtúil
+. an 17ú hábhar nua
+. an 18ú capall mór
+
+|===
+
+[.chapter-9]
+[options="header"]
+[cols="2,3,3"]
+.*{Table} 9FF* {Table9FFCaption}
+|===
+
+h| 20+ h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
+
+.2+h| {Table9FF-row1}
+a| . aon chapall mór amháin is fiche
+. trí bhean arda is ceathracha
+. cúig fhuinneog bhriste is caoga
+. seacht leabhar shuimiúla is seachtó
+. naoi nduine ghnóthacha is nócha
+. trí chéad seasca is ceithre bhuidéal fholmha
+a| . fiche a haon capall mór
+. ceathracha a trí bean ard
+. caoga a cúig fuinneog bhriste
+. seachtó a seacht leabhar suimiúil
+. nócha a naoi duine gnóthach
+. trí chéad seasca a ceathair buidéal folamh
+
+a| . 21 chapall mór
+. 43 bhean arda
+. 55 fhuinneog bhriste
+. 77 leabhar shuimiúla
+. 99 nduine ghnóthacha
+. 364 bhuidéal fholmha
+a| . 21 capall mór
+. 43 bean ard
+. 55 fuinneog bhriste
+. 77 leabhar suimiúil
+. 99 duine gnóthach
+. 364 buidéal folamh
+
+.2+h| {Table9FF-row2}
+a| . an ceathrú doras dúnta is fiche
+. an daicheadú leabhar nua
+. an séú hábhar suimiúil is seasca
+| 
+
+a| . an 24ú doras dúnta
+. an 40ú leabhar nua
+. an 66ú hábhar suimiúil
+|
+
+|===
+
+{Table9FF-note-p}:
+
+[list-[lower-alpha]]
+. {Table9FF-note-a-p}
+. {Table9FF-note-b-p}

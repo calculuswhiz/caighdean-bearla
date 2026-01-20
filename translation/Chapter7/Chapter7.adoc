@@ -18,10 +18,10 @@ a. {7-1-1-a-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Is* sáraisteoir í. | She is an excellent actor.
-| *Is* éan é an faoileán. | The seagull is a bird.
-| Strainséirí *is* ea iad. | They are strangers.
-| *Is* fear é. | He is a man.
+| {7-1-1-a-sample1_ga} | {7-1-1-a-sample1} 
+| {7-1-1-a-sample2_ga} | {7-1-1-a-sample2} 
+| {7-1-1-a-sample3_ga} | {7-1-1-a-sample3} 
+| {7-1-1-a-sample4_ga} | {7-1-1-a-sample4} 
 |===
 
 b. {7-1-1-b-text}
@@ -29,8 +29,8 @@ b. {7-1-1-b-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Ba* í Úna an bainisteoir. | Úna was the manager.
-| *Is* é Baile Átha Cliath príomhchathair na hÉireann. | Dublin is the capital of Ireland.
+| {7-1-1-b-sample1_ga} | {7-1-1-b-sample1}
+| {7-1-1-b-sample2_ga} | {7-1-1-b-sample2}
 |===
 
 c. {7-1-1-c-text}
@@ -38,10 +38,10 @@ c. {7-1-1-c-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Nach* deas é? | Isn't it nice?
-| *Is* fíor sin. | That is true.
-| *Is* leor cúig euro. | Five Euro is enough.
-| *Is* as an Muileann gCearr di. | She is from Mullingar.
+| {7-1-1-c-sample1_ga} | {7-1-1-c-sample1}
+| {7-1-1-c-sample2_ga} | {7-1-1-c-sample2}
+| {7-1-1-c-sample3_ga} | {7-1-1-c-sample3}
+| {7-1-1-c-sample4_ga} | {7-1-1-c-sample4}
 |===
 
 d. {7-1-1-d-text}
@@ -49,12 +49,12 @@ d. {7-1-1-d-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Is* maith léi an chispheil. | She likes basketball.
-| *Ní* mór dó imeacht. | He must leave.
-| *An* féidir leis é a dhéanamh? | Can he do it?"
-| *Is* leor liom an méid sin. | That is enough for me.
-| *An* cuimhin leat an teach sin? | Do you remember that house?
-| *Is* dona linn an briseadh seo. | We are sorry for this break. (?)
+| {7-1-1-d-sample1_ga} | {7-1-1-d-sample1}
+| {7-1-1-d-sample2_ga} | {7-1-1-d-sample2}
+| {7-1-1-d-sample3_ga} | {7-1-1-d-sample3}
+| {7-1-1-d-sample4_ga} | {7-1-1-d-sample4}
+| {7-1-1-d-sample5_ga} | {7-1-1-d-sample5}
+| {7-1-1-d-sample6_ga} | {7-1-1-d-sample6}
 |===
 
 e. {7-1-1-e-text}
@@ -62,8 +62,8 @@ e. {7-1-1-e-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tabhair leat an ceann *is* fearr leat. | Take the one you prefer.
-| Bhí na milseáin *ba* dheise ite sular shroich mé an chóisir. | The nicest sweets were eaten before I arrived at the party.
+| {7-1-1-e-sample1_ga} | {7-1-1-e-sample1}
+| {7-1-1-e-sample2_ga} | {7-1-1-e-sample2}
 |===
 
 f. {7-1-1-f-text}
@@ -71,11 +71,11 @@ f. {7-1-1-f-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Ba* liomsa é. | It was mine.
-| *Ní* le Sorcha an ceann sin. | That one is not Sorcha's.
-| Tóg ceann ar bith *is* leat. | Take any one with you. (?)
-| *Is* iníon le Seán ise. | She is Seán's daughter.
-| *Is* comhghleacaí le Cáit eisean. | He is Cáit's colleague.
+| {7-1-1-f-sample1_ga} | {7-1-1-f-sample1}
+| {7-1-1-f-sample2_ga} | {7-1-1-f-sample2}
+| {7-1-1-f-sample3_ga} | {7-1-1-f-sample3}
+| {7-1-1-f-sample4_ga} | {7-1-1-f-sample4}
+| {7-1-1-f-sample5_ga} | {7-1-1-f-sample5}
 |===
 
 g. {7-1-1-g-text}
@@ -83,11 +83,11 @@ g. {7-1-1-g-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Is* gearr go mbeidh a fhios againn. | Soon we will know.
-| *Is* fada ó bhí sé ann. | It has been a long time since he was there.
-| *Is* maith is eol duit é. | You know it well.
-| *Is* iomaí duine a thagann an treo seo. | Many people come this way.
-| *B*'fhada ag teacht é. | He was a long time coming.
+| {7-1-1-g-sample1_ga} | {7-1-1-g-sample1}
+| {7-1-1-g-sample1_ga} | {7-1-1-g-sample1}
+| {7-1-1-g-sample1_ga} | {7-1-1-g-sample1}
+| {7-1-1-g-sample1_ga} | {7-1-1-g-sample1}
+| {7-1-1-g-sample1_ga} | {7-1-1-g-sample1}
 |===
 
 h. {7-1-1-h-text}
@@ -95,26 +95,26 @@ h. {7-1-1-h-text}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Ní* inniu ná inné a saolaíodh eisean. | "He was not born today or yesterday.
-| *Is* ag ceannach bainne a bhí mé. | I was buying milk.
-| *Is* chun na Spáinne a chuaigh sí. | It was to Spain she went.
-| *Ní* hí Muireann a chaill an eochair. | It was not Muireann that lost the key.
-| *Ba* í Nóra a d'aistrigh é sin. | Nóra translated that.
-| *Is* aici a bhí an ceart. | She was right.
-| *Níorbh* é sin an cineál comórtais a bhí ann in 1998. | That was not the kind of competition that was there in 1998.
-| *Is* inné a tháinig siad. | Yesterday they came.
-| *Is* é Peadar a dhéanfadh an beart dá mbeadh sé anseo. | Peadar would make the move if he were here.
+| {7-1-1-h-sample1_ga} | {7-1-1-h-sample1}
+| {7-1-1-h-sample2_ga} | {7-1-1-h-sample2}
+| {7-1-1-h-sample3_ga} | {7-1-1-h-sample3}
+| {7-1-1-h-sample4_ga} | {7-1-1-h-sample4}
+| {7-1-1-h-sample5_ga} | {7-1-1-h-sample5}
+| {7-1-1-h-sample6_ga} | {7-1-1-h-sample6}
+| {7-1-1-h-sample7_ga} | {7-1-1-h-sample7}
+| {7-1-1-h-sample8_ga} | {7-1-1-h-sample8}
+| {7-1-1-h-sample9_ga} | {7-1-1-h-sample9}
 |===
 i. {7-1-1-i-text}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| *Is* troime bonn dhá phingin ná bonn pingine. | A twopence is heavier than a penny.
-| *Is* gile an ghrian ná an ghealach agus ná na pláinéid. | The sun is brighter than either the moon or the planets.
-| *Ní* lia tír ná nós. | Countries aren't more numerous than customs. (figuratively: so many men, so many minds)
-| *Nach* treise dúchas ná oiliúint? | Isn't nature stronger than nurture?
-| *Nárbh* fhearr gluaisteán ná rothar? | Wouldn't a car be better than a bicycle?
+| {7-1-1-i-sample1_ga} | {7-1-1-i-sample1}
+| {7-1-1-i-sample2_ga} | {7-1-1-i-sample2}
+| {7-1-1-i-sample3_ga} | {7-1-1-i-sample3}
+| {7-1-1-i-sample4_ga} | {7-1-1-i-sample4}
+| {7-1-1-i-sample5_ga} | {7-1-1-i-sample5}
 |===
 
 '''

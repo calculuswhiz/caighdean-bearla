@@ -1,0 +1,1870 @@
+= Chapter 10 | {chapterTitle}
+:showtitle:
+:table-caption!:
+
+== 10.1 {10-1-title}
+
+{10-1-p}
+
+== {10-1_5-title}
+
+{10-1_5-p}
+
+'''
+
+== 10.2 {10-2-title}
+
+{10-2-p}
+
+=== 10.2.1 {10-2-1-title}
+
+{10-2-1-p}
+
+[list-[lower-alpha]]
+. {10-2-1-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-1-a-sample-1}
+| {10-2-1-a-sample-2}
+|===
+
+. {10-2-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-1-b-sample-1}
+| {10-2-1-b-sample-2}
+|===
+
+. {10-2-1-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-1-c-sample-1}
+| {10-2-1-c-sample-2}
+|===
+
+=== 10.2.2 {10-2-2-title}
+
+{10-2-2-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-2-sample-1}
+| {10-2-2-sample-2}
+|===
+
+=== 10.2.3 {10-2-3-title}
+
+{10-2-3-p}
+
+[list-[lower-alpha]]
+. {10-2-3-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-3-a-sample-1}
+| {10-2-3-a-sample-2}
+|===
+
+. {10-2-3-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-3-b-sample-1}
+| {10-2-3-b-sample-2}
+|===
+
+. {10-2-3-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-3-c-sample-1}
+| {10-2-3-c-sample-2}
+|===
+
+=== 10.2.4 {10-2-4-title}
+
+{10-2-4-p}
+
+[list-[lower-alpha]]
+. {10-2-4-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-4-a-sample-1}
+| {10-2-4-a-sample-2}
+|===
+
+. {10-2-4-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-4-b-sample-1}
+| {10-2-4-b-sample-2}
+|===
+
+. {10-2-4-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-4-c-sample-1}
+| {10-2-4-c-sample-2}
+|===
+
+{10-2-4-note-p}
+[list-[lower-alpha]]
+. {10-2-4-note-a-i-p}
+. {10-2-4-note-a-ii-p}
+
+=== 10.2.5 {10-2-5-title}
+
+{10-2-5-p1}
+
+[list-[lower-alpha]]
+. {10-2-5-a-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-a-sample-1}
+| {10-2-5-a-sample-2}
+|===
++
+{10-2-5-a-p2}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-a-sample-3}
+| {10-2-5-a-sample-4}
+|===
++
+*{Note}:* {10-2-5-note-p}
+
+. {10-2-5-b-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-b-sample-1}
+| {10-2-5-b-sample-2}
+|===
++
+{10-2-5-b-p2}
+
+. {10-2-5-c-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-c-sample-1}
+| {10-2-5-c-sample-2}
+|===
++
+{10-2-5-c-p2}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-c-sample-3}
+| {10-2-5-c-sample-4}
+| {10-2-5-c-sample-5}
+|===
++
+{10-2-5-c-p3}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-c-sample-6}
+| {10-2-5-c-sample-7}
+|===
+
+. {10-2-5-d-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-d-sample-1}
+| {10-2-5-d-sample-2}
+|===
++
+{10-2-5-d-p2}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-d-sample-3}
+| {10-2-5-d-sample-4}
+|===
+
+. {10-2-5-e-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-e-sample-1}
+| {10-2-5-e-sample-2}
+|===
++
+{10-2-5-e-p2}
++ 
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-5-e-sample-3}
+| {10-2-5-e-sample-4}
+|===
++
+*{Note}:* {10-2-5-e-note-p}
+
+=== 10.2.6 {10-2-6-title}
+
+{10-2-6-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-6-sample-1}
+| {10-2-6-sample-2}
+| {10-2-6-sample-3}
+|===
+
+{10-2-6-p2}
+
+{10-2-6-p3}
+
+=== 10.2.7 {10-2-7-title}
+
+{10-2-7-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-sample-1}
+| {10-2-7-sample-2}
+| {10-2-7-sample-3}
+| {10-2-7-sample-4}
+|===
+
+{10-2-7-p2}
+
+*{Note}:* {10-2-7-note-p}
+
+[list-[lower-alpha]]
+. {10-2-7-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-a-sample-1}
+| {10-2-7-a-sample-2}
+|===
+. {10-2-7-b-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-b-sample-1}
+| {10-2-7-b-sample-2}
+|===
++
+{10-2-7-b-p2}
+. {10-2-7-c-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-c-sample-1}
+| {10-2-7-c-sample-2}
+|===
++
+{10-2-7-c-p2}
+. {10-2-7-d-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-d-sample-1}
+| {10-2-7-d-sample-2}
+|===
+. {10-2-7-e-p1}
++
+[list-[lower-roman]]
+.. {10-2-7-e-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-e-i-sample-1}
+| {10-2-7-e-i-sample-2}
+|===
+.. {10-2-7-e-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-e-ii-sample-1}
+| {10-2-7-e-ii-sample-2}
+|===
+.. {10-2-7-e-iii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-e-iii-sample-1}
+| {10-2-7-e-iii-sample-2}
+|===
+.. {10-2-7-e-iv-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-e-iv-sample-1}
+| {10-2-7-e-iv-sample-2}
+|===
+
++
+{10-2-7-e-p2}
+
+. {10-2-7-f-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-f-sample-1}
+| {10-2-7-f-sample-2}
+|===
+. {10-2-7-g-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-g-sample-1}
+| {10-2-7-g-sample-2}
+|===
+. {10-2-7-h-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-h-sample-1}
+| {10-2-7-h-sample-2}
+|===
++
+{10-2-7-h-p2}
+. {10-2-7-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-i-sample-1}
+| {10-2-7-i-sample-2}
+|===
+
+. {10-2-7-j-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-j-sample-1}
+| {10-2-7-j-sample-2}
+|===
+
+. {10-2-7-k-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-k-sample-1}
+| {10-2-7-k-sample-2}
+|===
+
+. {10-2-7-l-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-l-sample-1}
+| {10-2-7-l-sample-2}
+|===
+
+. {10-2-7-m-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-7-m-sample-1}
+| {10-2-7-m-sample-2}
+|===
++
+{10-2-7-m-p2}
++
+{10-2-7-m-p3}
+
+=== 10.2.8 {10-2-8-title}
+
+{10-2-8-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-sample-1}
+| {10-2-8-sample-2}
+| {10-2-8-sample-3}
+|===
+
+{10-2-8-p2}
+
+*{Note}:* {10-2-8-note-p}
+
+[list-[lower-alpha]]
+. {10-2-8-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-a-sample-1}
+| {10-2-8-a-sample-2}
+|===
+
+. {10-2-8-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-b-sample-1}
+| {10-2-8-b-sample-2}
+|===
+
+. {10-2-8-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-c-sample-1}
+| {10-2-8-c-sample-2}
+|===
+
+. {10-2-8-d-p}
+[.list-[lower-roman]]
+.. {10-2-8-d-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-d-i-sample-1}
+| {10-2-8-d-i-sample-2}
+|===
+
+.. {10-2-8-d-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-d-ii-sample-1}
+| {10-2-8-d-ii-sample-2}
+|===
+
+.. {10-2-8-d-iii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-d-iii-sample-1}
+| {10-2-8-d-iii-sample-2}
+|===
+
+.. {10-2-8-d-iv-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-d-iv-sample-1}
+| {10-2-8-d-iv-sample-2}
+|===
+
+. {10-2-8-e-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-e-sample-1}
+| {10-2-8-e-sample-2}
+|===
+
+. {10-2-8-f-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-8-f-sample-1}
+| {10-2-8-f-sample-2}
+|===
++
+{10-2-8-f-p2}
++
+{10-2-8-f-p3}
+
+=== 10.2.9 {10-2-9-title}
+
+{10-2-9-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-9-sample-1}
+| {10-2-9-sample-2}
+|===
+
+=== 10.2.10 {10-2-10-title}
+
+{10-2-10-p1}
+
+{10-2-10-p2}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-10-sample-1}
+| {10-2-10-sample-2}
+|===
+
+{10-2-10-p3}
+
+[list-[lower-alpha]]
+. {10-2-10-a-p}
+[list-[lower-roman]]
+.. {10-2-10-a-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-10-a-i-sample-1}
+|===
+
+.. {10-2-10-a-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-10-a-ii-sample-1}
+|===
+
+.. {10-2-10-a-iii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-10-a-iii-sample-1}
+|===
+
+. {10-2-10-b-p}
+[list-[lower-roman]]
+.. {10-2-10-b-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-10-b-i-sample-1}
+|===
+
+.. {10-2-10-b-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-10-b-ii-sample-1}
+|===
+
+. {10-2-10-c-p}
+
+=== 10.2.11 {10-2-11-title}
+
+{10-2-11-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-11-sample-1}
+| {10-2-11-sample-2}
+|===
+
+{10-2-11-p2}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-11-sample-3}
+| {10-2-11-sample-4}
+|===
+
+=== 10.2.12 {10-2-12-title}
+
+{10-2-12-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-12-sample-1}
+| {10-2-12-sample-2}
+| {10-2-12-sample-3}
+|===
+
+*{Note}:* {10-2-12-note-p}
+
+=== 10.2.13 {10-2-13-title}
+
+{10-2-13-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-2-13-sample-1}
+| {10-2-13-sample-2}
+|===
+
+'''
+
+== 10.3 {10-3-title}
+
+{10-3-p}
+
+=== 10.3.1 {10-3-1-title}
+
+{10-3-1-p}
+
+[list-[lower-alpha]]
+. {10-3-1-a-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-1-a-sample-1}
+| {10-3-1-a-sample-2}
+|===
++
+{10-3-1-a-p2}
+
+. {10-3-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-1-b-sample-1}
+| {10-3-1-b-sample-2}
+|===
+
+. {10-3-1-c-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-1-c-sample-1}
+| {10-3-1-c-sample-2}
+|===
++
+{10-3-1-c-p2}
+
+. {10-3-1-d-p}
+[list-[lower-roman]]
+.. {10-3-1-d-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-1-d-i-sample-1}
+| {10-3-1-d-i-sample-2}
+|===
+
+.. {10-3-1-d-ii-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-1-d-ii-sample-1}
+| {10-3-1-d-ii-sample-2}
+|===
++
+{10-3-1-d-ii-p2}
+
+.. {10-3-1-d-iii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-1-d-iii-sample-1}
+|===
+
+. {10-3-1-e-p}
+
+=== 10.3.2 {10-3-2-title}
+
+{10-3-2-p}
+
+[list-[lower-alpha]]
+. {10-3-2-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-2-a-sample-1}
+| {10-3-2-a-sample-2}
+| {10-3-2-a-sample-3}
+|===
+
+. {10-3-2-b-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-2-b-sample-1}
+| {10-3-2-b-sample-2}
+|===
++
+{10-3-2-b-p2}
+
++
+[list-[lower-roman]]
+.. {10-3-2-b-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-2-b-i-sample-1}
+| {10-3-2-b-i-sample-2}
+|===
+
+.. {10-3-2-b-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-2-b-ii-sample-1}
+| {10-3-2-b-ii-sample-2}
+| {10-3-2-b-ii-sample-3}
+|===
+
+.. {10-3-2-b-iii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-2-b-iii-sample-1}
+| {10-3-2-b-iii-sample-2}
+|===
+
+=== 10.3.3 {10-3-3-title}
+
+{10-3-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-3-sample-1}
+| {10-3-3-sample-2}
+| {10-3-3-sample-3}
+| {10-3-3-sample-4}
+|===
+
+=== 10.3.4 {10-3-4-title}
+
+{10-3-4-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-4-sample-1}
+| {10-3-4-sample-2}
+| {10-3-4-sample-3}
+|===
+
+=== 10.3.5 {10-3-5-title}
+
+{10-3-5-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-5-sample-1}
+| {10-3-5-sample-2}
+| {10-3-5-sample-3}
+|===
+
+=== 10.3.6 {10-3-6-title}
+
+{10-3-6-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-3-6-sample-1}
+| {10-3-6-sample-2}
+|===
+
+'''
+
+== 10.4 {10-4-title}
+
+=== 10.4.1 {10-4-1-title}
+
+{10-4-1-p}
+
+[list-[lower-alpha]]
+. {10-4-1-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-4-1-a-sample-1}
+| {10-4-1-a-sample-2}
+| {10-4-1-a-sample-3}
+|===
+
+. {10-4-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-4-1-b-sample-1}
+| {10-4-1-b-sample-2}
+| {10-4-1-b-sample-3}
+| {10-4-1-b-sample-4}
+|===
+
+. {10-4-1-c-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-4-1-c-sample-1}
+| {10-4-1-c-sample-2}
+|===
++
+{10-4-1-c-p2}
+
++
+[list-[lower-roman]]
+.. {10-4-1-c-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-4-1-c-i-sample-1}
+| {10-4-1-c-i-sample-2}
+|===
+
+.. {10-4-1-c-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-4-1-c-ii-sample-1}
+| {10-4-1-c-ii-sample-2}
+| {10-4-1-c-ii-sample-3}
+|===
+
+=== 10.4.2 {10-4-2-title}
+
+{10-4-2-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-4-2-sample-1}
+| {10-4-2-sample-2}
+| {10-4-2-sample-3}
+| {10-4-2-sample-4}
+| {10-4-2-sample-5}
+| {10-4-2-sample-6}
+| {10-4-2-sample-7}
+| {10-4-2-sample-8}
+| {10-4-2-sample-9}
+|===
+
+{10-4-2-p2}
+
+[list-lower-roman]
+. {10-4-2-a-p}
+. {10-4-2-b-p}
+
+'''
+
+== 10.5 {10-5-title}
+
+=== 10.5.1 {10-5-1-title}
+
+{10-5-1-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-5-1-sample-1}
+| {10-5-1-sample-2}
+|===
+
+=== 10.5.2 {10-5-2-title}
+
+{10-5-2-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-5-2-sample-1}
+| {10-5-2-sample-2}
+|===
+
+'''
+
+== {10-6_5-title}
+
+{10-6_5-p}
+
+'''
+
+== 10.6 {10-6-title}
+
+{10-6-p}
+
+=== 10.6.1 {10-6-1-title}
+
+{10-6-1-p}
+
+[list-[lower-alpha]]
+. {10-6-1-a-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-1-a-sample-1}
+| {10-6-1-a-sample-2}
+|===
++
+{10-6-1-a-p2}
+
+. {10-6-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-1-b-sample-1}
+| {10-6-1-b-sample-2}
+|===
+
+=== 10.6.2 {10-6-2-title}
+
+{10-6-2-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-2-sample-1}
+| {10-6-2-sample-2}
+|===
+
+{10-6-2-p2}
+
+=== 10.6.3 {10-6-3-title}
+
+{10-6-3-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-3-sample-1}
+| {10-6-3-sample-2}
+|===
+
+{10-6-3-p2}
+
+{10-6-3-p3}
+
+[list-[lower-alpha]]
+. {10-6-3-a-p}
+. {10-6-3-b-p}
+
+=== 10.6.4 {10-6-4-title}
+
+{10-6-4-p1}
+
+[list-[lower-alpha]]
+. {10-6-4-a-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-4-a-sample-1}
+| {10-6-4-a-sample-2}
+|===
++
+{10-6-4-a-p2}
+[list-[lower-roman]]
+.. {10-6-4-a-i-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-4-a-i-sample-1}
+| {10-6-4-a-i-sample-2}
+|===
+
+.. {10-6-4-a-ii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-4-a-ii-sample-1}
+| {10-6-4-a-ii-sample-2}
+|===
+
+.. {10-6-4-a-iii-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-4-a-iii-sample-1}
+| {10-6-4-a-iii-sample-2}
+|===
+
+.. {10-6-4-a-iv-p}
+
+. {10-6-4-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-4-b-sample-1}
+| {10-6-4-b-sample-2}
+|===
+
+=== 10.6.5 {10-6-5-title}
+
+{10-6-5-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-6-5-sample-1}
+|===
+
+'''
+
+== 10.7 {10-7-title}
+
+{10-7-p1}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-7-sample-1}
+| {10-7-sample-2}
+| {10-7-sample-3}
+|===
+
+{10-7-p2}
+
+[list-[lower-alpha]]
+. {10-7-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-7-a-sample-1}
+| {10-7-a-sample-2}
+|===
+
+. {10-7-b-p}
+
+'''
+
+== 10.8 {10-8-title}
+
+{10-8-p}
+
+=== 10.8.1 {10-8-1-title}
+
+{10-8-1-p}
+
+[list-[lower-alpha]]
+. {10-8-1-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-8-1-a-sample-1}
+| {10-8-1-a-sample-2}
+|===
+
+. {10-8-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-8-1-b-sample-1}
+| {10-8-1-b-sample-2}
+|===
+
+. {10-8-1-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-8-1-c-sample-1}
+| {10-8-1-c-sample-2}
+|===
+
+=== 10.8.2 {10-8-2-title}
+
+{10-8-2-p}
+
+[list-[lower-alpha]]
+. {10-8-2-a-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-8-2-a-sample-1}
+| {10-8-2-a-sample-2}
+| {10-8-2-a-sample-3}
+| {10-8-2-a-sample-4}
+| {10-8-2-a-sample-5}
+| {10-8-2-a-sample-6}
+| {10-8-2-a-sample-7}
+|===
++
+{10-8-2-a-p2}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-8-2-a-sample-8}
+| {10-8-2-a-sample-9}
+|===
+
+. {10-8-2-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-8-2-b-sample-1}
+| {10-8-2-b-sample-2}
+| {10-8-2-b-sample-3}
+|===
+
+'''
+
+== {10-8_5-title}
+
+{10-8_5-p}
+
+'''
+
+== 10.9 {10-9-title}
+
+=== 10.9.1
+
+{10-9-1-p}
+
+[list-[lower-alpha]]
+. {10-9-1-a-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-9-1-a-sample-1}
+| {10-9-1-a-sample-2}
+|===
++
+{10-9-1-a-p2}
+
+. {10-9-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-9-1-b-sample-1}
+| {10-9-1-b-sample-2}
+|===
+
+'''
+
+== 10.10 {10-10-title}
+
+=== 10.10.1
+
+{10-10-1-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-10-1-sample-1}
+| {10-10-1-sample-2}
+|===
+
+=== 10.10.2
+
+{10-10-2-p}
+
+[list-[lower-alpha]]
+. {10-10-2-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-10-2-a-sample-1}
+| {10-10-2-a-sample-2}
+|===
+
+. {10-10-2-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-10-2-b-sample-1}
+| {10-10-2-b-sample-2}
+|===
+
+'''
+
+== {10-10_5-title}
+
+{10-10_5-p}
+
+'''
+
+== 10.11 {10-11-title}
+
+=== 10.11.1 {10-11-1-title}
+
+{10-11-1-p}
+
+[list-[lower-alpha]]
+. {10-11-1-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-1-a-sample-1}
+| {10-11-1-a-sample-2}
+|===
+
+. {10-11-1-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-1-b-sample-1}
+| {10-11-1-b-sample-2}
+|===
+
+=== 10.11.2 {10-11-2-title}
+
+[list-[lower-alpha]]
+. {10-11-2-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-2-a-sample-1}
+| {10-11-2-a-sample-2}
+|===
+
+. {10-11-2-b-p1}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-2-b-sample-1}
+| {10-11-2-b-sample-2}
+|===
++
+{10-11-2-b-p2}
+
+=== 10.11.3 {10-11-3-title}
+
+{10-11-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-3-sample-1}
+| {10-11-3-sample-2}
+|===
+
+=== 10.11.4 {10-11-4-title}
+
+{10-11-4-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-4-sample-1}
+| {10-11-4-sample-2}
+|===
+
+=== 10.11.5 {10-11-5-title}
+
+{10-11-5-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-5-sample-1}
+| {10-11-5-sample-2}
+|===
+
+=== 10.11.6 {10-11-6-title}
+
+{10-11-6-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-6-sample-1}
+| {10-11-6-sample-2}
+|===
+
+=== 10.11.7 {10-11-7-title}
+
+{10-11-7-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-7-sample-1}
+| {10-11-7-sample-2}
+|===
+
+=== 10.11.8 {10-11-8-title}
+
+{10-11-8-p1}
+
+[list-[lower-alpha]]
+. {10-11-8-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-8-a-sample-1}
+| {10-11-8-a-sample-2}
+|===
+
+. {10-11-8-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-8-b-sample-1}
+| {10-11-8-b-sample-2}
+|===
+
+. {10-11-8-c-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-11-8-c-sample-1}
+| {10-11-8-c-sample-2}
+|===
+
+{10-11-8-p2}
+
+'''
+
+== 10.12 {10-12-title}
+
+=== 10.12.1 {10-12-1-title}
+
+{10-12-1-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-12-1-sample-1}
+| {10-12-1-sample-2}
+| {10-12-1-sample-3}
+|===
+
+=== 10.12.2 {10-12-2-title}
+
+{10-12-2-p}
+
+[list-[lower-alpha]]
+. {10-12-2-a-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-12-2-a-sample-1}
+| {10-12-2-a-sample-2}
+| {10-12-2-a-sample-3}
+|===
+
+. {10-12-2-b-p}
++
+[.samplebox]
+[cols="1"]
+|===
+| {10-12-2-b-sample-1}
+| {10-12-2-b-sample-2}
+|===
+
+=== 10.12.3 {10-12-3-title}
+
+{10-12-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-12-3-sample-1}
+| {10-12-3-sample-2}
+|===
+
+'''
+
+== 10.13 {10-13-title}
+
+=== 10.13.1 {10-13-1-title}
+
+{10-13-1-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-13-1-sample-1}
+| {10-13-1-sample-2}
+|===
+
+=== 10.13.2 {10-13-2-title}
+
+{10-13-2-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-13-2-sample-1}
+| {10-13-2-sample-2}
+|===
+
+=== 10.13.3 {10-13-3-title}
+
+{10-13-3-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-13-3-sample-1}
+| {10-13-3-sample-2}
+|===
+
+'''
+
+== 10.14 {10-14-title}
+
+=== 10.14.1 {10-14-1-title}
+
+{10-14-1-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-14-1-sample-1}
+| {10-14-1-sample-2}
+| {10-14-1-sample-3}
+|===
+
+'''
+
+== {10-14_5-title}
+
+'''
+
+== 10.15 {10-15-title}
+
+{10-15-p}
+
+[.samplebox]
+[cols="1"]
+|===
+| {10-15-sample-1}
+| {10-15-sample-2}
+| {10-15-sample-3}
+|===
+
+'''
+
+== 10.16 {10-16-title}
+
+{10-16-p1}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-10">
+  <caption>
+    <strong>{Table} 10A</strong> {Table10A-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th colspan=2>{Table10A-header}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>{Table10A-noun-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-1}</td>
+      <td>an bhean; hata an fhir; don chlár; sa pháirc</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-2}</td>
+      <td>a bhuachaill; a dhaoine uaisle</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-3}</td>
+      <td>mo pheann; do chat; a ghuthán; gach uile dhuine; aon bhord</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-4}</td>
+      <td>aon chailín amháin; an chéad bhróg; dhá mhadra; trí bhád</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-5}</td>
+      <td>faoi bhord; um Cháisc; ar bhád; idir fhir agus mhná</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-6}</td>
+      <td>in aice Bhaile Átha Cliath; timpeall mhí na Nollag</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-7}</td>
+      <td>cloch shneachta; tuarascáil pharlaiminte</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-8}</td>
+      <td>éin chlóis; ceadúnais ghnó</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-9}</td>
+      <td>Cuan Bhaile Átha Cliath; doras Theach an Phiarsaigh</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-10}</td>
+      <td>Úna Nic Shuibhne; Isibéal Nig Fhloinn</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-11}</td>
+      <td>dea-cháil; deargbhuile; rósghairdín</td>
+    </tr>
+    <tr>
+      <td>{Table10A-noun-rule-12}</td>
+      <td>Ba mheicneoir é; Nár cheoltóir maith é?; Ba dhóigh leis gur ghadaí é.</td>
+    </tr>
+    <tr>
+      <th>{Table10A-adjective-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10A-adjective-rule-1}</td>
+      <td>
+        feoil bhlasta; leis an mbean cháiliúil; a ghirseach chiúin; úinéir an chapaill ghlais; a éin bhig; lipéid shothuigthe; ar na scamaill mhóra dhubha; dhá ghadhar fhíochmhara; dhá chat thanaí; trí fhuinneog mhóra
+      </td>
+    </tr>
+    <tr>
+      <td>{Table10A-adjective-rule-2}</td>
+      <td>
+        laistigh de cheithre mhí; sa chúigiú háit; a dtríú hiarracht (<em>{ThirdPersonMasc}</em>); bróga an cheathrú girseach
+      </td>
+    </tr>
+    <tr>
+      <td>{Table10A-adjective-rule-3}</td>
+      <td>dhá bhróg; Bhí dháréag i láthair.</td>
+    </tr>
+    <tr>
+      <td>{Table10A-adjective-rule-4}</td>
+      <td>a dó dhéag; cúig bhó dhéag; trí cinn fhichead</td>
+    </tr>
+    <tr>
+      <td>{Table10A-adjective-rule-5}</td>
+      <td>beagmhaith; fíordheas; ollmhór</td>
+    </tr>
+    <tr>
+      <td>{Table10A-adjective-rule-6}</td>
+      <td>ba dheas; nár dhona; níor cheart</td>
+    </tr>
+    <tr>
+      <th>{Table10A-verb-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10A-verb-rule-1}</td>
+      <td>mhol mé; mholainn; mholfainn; an bhean a thiomáineann é; má dhéanann tú; Is ann a cheannaíonn sé leabhair.</td>
+    </tr>
+    <tr>
+      <td>{Table10A-verb-rule-2}</td>
+      <td>ar chuir tú; nár phós sé; níor cheannaigh mé; sular tháinig sé</td>
+    </tr>
+    <tr>
+      <th>{Table10A-pronominal-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10A-pronominal-rule-1}</td>
+      <td>ó shin i leith</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+{10-16-p2}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-10">
+  <caption>
+    <strong>{Table} 10B</strong> {Table10B-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th colspan=2>{Table10B-header}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>{Table10B-noun-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10B-noun-rule-1}</td>
+      <td>ar an gcapall; leis an mbean; ón mbosca; tríd an bpáirc; seolta na mbád beag</td>
+    </tr>
+    <tr>
+      <td>{Table10B-noun-rule-2}</td>
+      <td>ár n-athair; bhur bpáistí; a gcótaí; ár dhá gcapall; bhur dhá dteach</td>
+    </tr>
+    <tr>
+      <td>{Table10B-noun-rule-3}</td>
+      <td>seacht ndícheall; ocht gcinn</td>
+    </tr>
+    <tr>
+      <td>{Table10B-noun-rule-4}</td>
+      <td>i mbád; ar gcúl; go bhfios dom</td>
+    </tr>
+    <tr>
+      <td>{Table10B-noun-rule-5}</td>
+      <td>cá bhfios dó?</td>
+    </tr>
+    <tr>
+      <th>{Table10B-adjective-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10B-adjective-rule-1}</td>
+      <td>
+        i gceithre leabhar; ar an gcúigiú duine; a dtríú hiarracht (<em>{ThirdPersonPl}</em>); scéal mhadra na n-ocht gcos
+      </td>
+    </tr>
+    <tr>
+      <th>{Table10B-verb-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10B-verb-rule-1}</td>
+      <td>an bhean a dtagann a páistí ar scoil; an bainne nach n-óltar; tá a dteastódh uait acu; an leabhar dá dtagraítear</td>
+    </tr>
+    <tr>
+      <td>{Table10B-verb-rule-2}</td>
+      <td>an mbeidh; dá mbeadh; mura ndéanfaidh; Nach n-ólann sé bainne?; ní bhfuair; ní bhfaighidh sé; ní bhfaighfeá</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+{10-16-p3}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-10">
+  <caption>
+    <strong>{Table} 10C</strong> {Table10C-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th colspan=2>{Table10C-header}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>{Table10C-Noun-Adjective-Header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10C-rule-1}</td>
+      <td>an t-eitleán; an t-aon duine; an t-ochtú clár sa tsraith</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+{10-16-p4}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-10">
+  <caption>
+    <strong>{Table} 10D</strong> {Table10D-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th colspan=2>{Table10D-header}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>{Table10D-noun-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10D-rule-1}</td>
+      <td>an tsúil; ar an tsráid; leis an tsreang; deireadh an tséasúir; eochair an tsiopadóra</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+{10-16-p5}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-10">
+  <caption>
+    <strong>{Table} 10E</strong> {Table10E-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th colspan=2>{Table10E-header}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>{Table10E-noun-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-1}</td>
+      <td>ainm na háite; na heitleáin; faoi na hábhair</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-2}</td>
+      <td>an dara háit; an ceathrú halt</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-3}</td>
+      <td>trí huaire</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-4}</td>
+      <td>le hintinn mhaith; go hAlasca</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-5}</td>
+      <td>Cá hiontas?</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-6}</td>
+      <td>Seán Ó hAodha</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-7}</td>
+      <td>Dé hAoine</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-8}</td>
+      <td>a hathair; a húll</td>
+    </tr>
+    <tr>
+      <td>{Table10E-rule-9}</td>
+      <td>ní háibhéil é; ní hionadh é; ní hacmhainn di; ní healaín dó; ní huair chairde í; ní heolas go haontíos</td>
+    </tr>
+    <tr>
+      <th>{Table10E-adjective-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10E-adjective-rule-1}</td>
+      <td>chomh hard le teach; go hálainn; le haon duine</td>
+    </tr>
+    <tr>
+      <td>{Table10E-adjective-rule-2}</td>
+      <td>ní haon ionadh é; ní hiondúil go dtarlaíonn sé; ní hamhlaidh nár insíodh di</td>
+    </tr>
+    <tr>
+      <td>{Table10E-adjective-rule-3}</td>
+      <td>a hocht; na hocht gcáipéis</td>
+    </tr>
+    <tr>
+      <th>{Table10E-pronominal-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10E-pronominal-rule-1}</td>
+      <td>cé hí; ní hé</td>
+    </tr>
+    <tr>
+      <td>{Table10E-pronominal-rule-2}</td>
+      <td>ní héard; ní hin</td>
+    </tr>
+    <tr>
+      <td>{Table10E-pronominal-rule-3}</td>
+      <td>le hiad</td>
+    </tr>
+    <tr>
+      <th>{Table10E-verb-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10E-verb-rule-1}</td>
+      <td>ná habair; ná himigh</td>
+    </tr>
+  </tbody>
+</table>
+++++
+
+{10-16-p6}
+
+[subs=attributes,replacements]
+++++
+<table class="chapter-10">
+  <caption>
+    <strong>{Table} 10F</strong> {Table10F-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th colspan=2>{Table10F-header}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>{Table10F-verb-header}</th>
+      <th>{Examples}</th>
+    </tr>
+    <tr>
+      <td>{Table10F-verb-rule-1}</td>
+      <td>d'fhreagair sé; má d'fheiceadh sé; d'imigh sí; d'aithneofaí í</td>
+    </tr>
+  </tbody>
+</table>
+++++

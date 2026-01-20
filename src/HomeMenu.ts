@@ -96,17 +96,35 @@ function addChapterSelect() {
 
   if (container) {
     for (const x of availableChapters) {
-      const a = document.createElement("a");
-      a.href = `./entrypoints/${x.id}.html`;
-      a.title = x.label;
-      a.classList = [
-        'cursor-pointer', 'text-left',
-        'max-w-full',
-        x.fg, x.bg,
-        'p-1', 'm-1', 'font-bold'
+      const linkContainer = document.createElement("div");
+      linkContainer.classList = [
+        'flex', 'flex-row', 'items-center', 'justify-between', 'w-full',
+        'font-bold'
       ].join(' ');
-      a.textContent = x.label;
-      container.appendChild(a);
+      container.appendChild(linkContainer);
+
+      const irishLink = document.createElement("a");
+      irishLink.href = `./entrypoints/${x.id}-ga.html`;
+      irishLink.title = `View original Irish content`;
+      irishLink.classList = [
+        'cursor-pointer',
+        x.fg, x.bg,
+        'p-1', 'm-1'
+      ].join(' ');
+      irishLink.textContent = `[GA]`;
+      linkContainer.appendChild(irishLink);
+
+      const englishLink = document.createElement("a");
+      englishLink.href = `./entrypoints/${x.id}.html`;
+      englishLink.title = x.label;
+      englishLink.classList = [
+        'cursor-pointer',
+        'grow',
+        x.fg, x.bg,
+        'p-1', 'm-1'
+      ].join(' ');
+      englishLink.textContent = x.label;
+      linkContainer.appendChild(englishLink);
     }
   }
 }
