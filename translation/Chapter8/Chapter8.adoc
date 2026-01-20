@@ -8,7 +8,7 @@
 
 {8-1-1-p}
 
----
+'''
 
 == 8.2 {8-2-title}
 
@@ -154,7 +154,7 @@
 | Níor bhuail mé riamh le daoine mar *sibh*. | {8-2-7-sample2}
 |===
 
----
+'''
 
 == 8.3 {8-3-title}
 
@@ -578,7 +578,7 @@ h|
 | Déanfar é faoi réir rialacháin *arna ndéanamh* faoi fho-alt 7. (_iol._) | {8-3-9-sample3}
 |===
 
----
+'''
 
 == 8.4 {8-4-title}
 
@@ -786,7 +786,7 @@ h|
 . {8-4-a-p}
 . {8-4-b-p}
 
----
+'''
 
 == 8.5 {8-5-title}
 
@@ -862,7 +862,7 @@ h|
 | Céard *faoi* a bhfuil sibh ag caint? | {8-5-5-sample3}
 |===
 
----
+'''
 
 == 8.6 {8-6-title}
 

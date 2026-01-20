@@ -117,7 +117,7 @@ i. {7-1-1-i-text}
 | *Nárbh* fhearr gluaisteán ná rothar? | Wouldn't a car be better than a bicycle?
 |===
 
----
+'''
 
 == 7.2 {7-2-title}
 
@@ -863,7 +863,7 @@ i. {7-1-1-i-text}
 
 {7-2-5-B-p}
 
----
+'''
 
 == 7.3 {7-3-title}
 
@@ -1272,7 +1272,7 @@ i. {7-1-1-i-text}
 </table>
 ++++
 
----
+'''
 
 == 7.4 {7-4-title}
 

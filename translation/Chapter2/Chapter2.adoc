@@ -49,90 +49,51 @@
       <th colspan=2>{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th>{Nominative}</th> <th>{Genitive}</th> <th>{Nominative}</th> <th>{Genitive}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-1}</th>
-      <td>cás</td>
-      <td>cáis</td>
-      <td>cásanna</td>
-      <td>cásanna</td>
+      <td>cás</td> <td>cáis</td> <td>cásanna</td> <td>cásanna</td>
     </tr>
     <tr>
-      <td>ceol</td>
-      <td>ceoil</td>
-      <td>ceolta</td>
-      <td>ceolta</td>
+      <td>ceol</td> <td>ceoil</td> <td>ceolta</td> <td>ceolta</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-2}</th>
-      <td>foirm</td>
-      <td>foirme</td>
-      <td>foirmeacha</td>
-      <td>foirmeacha</td>
+      <td>foirm</td> <td>foirme</td> <td>foirmeacha</td> <td>foirmeacha</td>
     </tr>
     <tr>
-      <td>sliabh</td>
-      <td>sléibhe</td>
-      <td>sléibhte</td>
-      <td>sléibhte</td>
+      <td>sliabh</td> <td>sléibhe</td> <td>sléibhte</td> <td>sléibhte</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-3}</th>
-      <td>feirmeoir</td>
-      <td>feirmeora</td>
-      <td>feirmeoirí</td>
-      <td>feirmeoirí</td>
+      <td>feirmeoir</td> <td>feirmeora</td> <td>feirmeoirí</td> <td>feirmeoirí</td>
     </tr>
     <tr>
-      <td>foráil</td>
-      <td>forála</td>
-      <td>forálacha</td>
-      <td>forálacha</td>
+      <td>foráil</td> <td>forála</td> <td>forálacha</td> <td>forálacha</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-4}</th>
-      <td>amhránaí</td>
-      <td>amhránaí</td>
-      <td>amhránaithe</td>
-      <td>amhránaithe</td>
+      <td>amhránaí</td> <td>amhránaí</td> <td>amhránaithe</td> <td>amhránaithe</td>
     </tr>
     <tr>
-      <td>gloine</td>
-      <td>gloine</td>
-      <td>gloiní</td>
-      <td>gloiní</td>
+      <td>gloine</td> <td>gloine</td> <td>gloiní</td> <td>gloiní</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-5}</th>
-      <td>deartháir</td>
-      <td>dearthár</td>
-      <td>deartháireacha</td>
-      <td>deartháireacha</td>
+      <td>deartháir</td> <td>dearthár</td> <td>deartháireacha</td> <td>deartháireacha</td>
     </tr>
     <tr>
-      <td>lasair</td>
-      <td>lasrach</td>
-      <td>lasracha</td>
-      <td>lasracha</td>
+      <td>lasair</td> <td>lasrach</td> <td>lasracha</td> <td>lasracha</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{Table2A-Irregular}</th>
-      <td>leaba</td>
-      <td>leapa</td>
-      <td>leapacha</td>
-      <td>leapacha</td>
+      <td>leaba</td> <td>leapa</td> <td>leapacha</td> <td>leapacha</td>
     </tr>
     <tr>
-      <td>teach</td>
-      <td>tí</td>
-      <td>tithe</td>
-      <td>tithe</td>
+      <td>teach</td> <td>tí</td> <td>tithe</td> <td>tithe</td>
     </tr>
   </tbody>
 </table>
@@ -229,71 +190,41 @@
       <th colspan=2>{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th>{Nominative}</th> <th>{Genitive}</th> <th>{Nominative}</th> <th>{Genitive}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-2}</th>
-      <td>ealaín</td>
-      <td>ealaíne</td>
-      <td>ealaíona</td>
-      <td>ealaíon</td>
+      <td>ealaín</td> <td>ealaíne</td> <td>ealaíona</td> <td>ealaíon</td>
     </tr>
     <tr>
-      <td>súil</td>
-      <td>súile</td>
-      <td>súile</td>
-      <td>súl</td>
+      <td>súil</td> <td>súile</td> <td>súile</td> <td>súl</td>
     </tr>
     <tr>
       <th class="bg-stone-300">{declension-3}</th>
-      <td>mionn</td>
-      <td>mionna</td>
-      <td>mionnaí</td>
-      <td>mionn</td>
+      <td>mionn</td> <td>mionna</td> <td>mionnaí</td> <td>mionn</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-4}</th>
-      <td>bó</td>
-      <td>bó</td>
-      <td>ba</td>
-      <td>bó</td>
+      <td>bó</td> <td>bó</td> <td>ba</td> <td>bó</td>
     </tr>
     <tr>
-      <td>grásta</td>
-      <td>grásta</td>
-      <td>grásta</td>
-      <td>grást</td>
+      <td>grásta</td> <td>grásta</td> <td>grásta</td> <td>grást</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{declension-5}</th>
-      <td>caora</td>
-      <td>caorach</td>
-      <td>caoirigh</td>
-      <td>caorach</td>
+      <td>caora</td> <td>caorach</td> <td>caoirigh</td> <td>caorach</td>
     </tr>
     <tr>
-      <td>lacha</td>
-      <td>lachan</td>
-      <td>lachain</td>
-      <td>lachan</td>
+      <td>lacha</td> <td>lachan</td> <td>lachain</td> <td>lachan</td>
     </tr>
     <tr>
       <th class="bg-stone-300" rowspan=2>{Table2A-Irregular}</th>
-      <td>bean</td>
-      <td>mná</td>
-      <td>mná</td>
-      <td>ban</td>
+      <td>bean</td> <td>mná</td> <td>mná</td> <td>ban</td>
     </tr>
     <tr>
-      <td>olann</td>
-      <td>olla</td>
-      <td>olanna</td>
-      <td>olann</td>
+      <td>olann</td> <td>olla</td> <td>olanna</td> <td>olann</td>
     </tr>
   </tbody>
 </table>

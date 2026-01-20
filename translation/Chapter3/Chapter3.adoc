@@ -18,8 +18,8 @@ a. {3-1-2-a}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Caoimhe* is ainm di. | Her name is *Caoimhe*.
-| Tá cónaí orthu i *Meiriceá*. | They live in *America*.
+| {3-1-2-a-sample1_ga} | {3-1-2-a-sample1}
+| {3-1-2-a-sample2_ga} | {3-1-2-a-sample2}
 |===
 
 b. {3-1-2-b}
@@ -27,9 +27,9 @@ b. {3-1-2-b}
 [.samplebox]
 [cols="1,1"]
 |===
-| An bhfaca tú *an t-eitleán* mór sin? | Did you see *that* big *airplaine*?
-| Tá *an ghealach* lán anocht. | *The moon* is full tonight.
-| An raibh *an tiománaí* tacsaí ag an gcruinniú? | Was *the* taxi *driver* at the meeting?
+| {3-1-2-b-sample1_ga} | {3-1-2-b-sample1}
+| {3-1-2-b-sample2_ga} | {3-1-2-b-sample2}
+| {3-1-2-b-sample3_ga} | {3-1-2-b-sample3}
 |===
 
 c. {3-1-2-c}
@@ -37,10 +37,10 @@ c. {3-1-2-c}
 [.samplebox]
 [cols="1,1"]
 |===
-| Ar bhuail tú le *mo dheartháir*? | Have you met *my brother*?
-| *A hathair* a d'inis an scéal di. | *Her father* told her the story.
-| Bhí sí ag glanadh *a bróg* peile. (_iol._) | She was cleaining *her* football *shoes*. (_pl._)
-| Chuaigh sé i gcomhair *a chupáin* tae. (_u._) | He went for *his cup* of tea. (_sg._)
+| {3-1-2-c-sample1_ga} | {3-1-2-c-sample1}
+| {3-1-2-c-sample2_ga} | {3-1-2-c-sample2}
+| {3-1-2-c-sample3_ga} | {3-1-2-c-sample3}
+| {3-1-2-c-sample4_ga} | {3-1-2-c-sample4}
 |===
 
 d. {3-1-2-d}
@@ -48,9 +48,9 @@ d. {3-1-2-d}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí *gach duine* den teaghlach i láthair. | *Every person* in the family was present. 
-| Buaileann sé isteach ag an am céanna *gach aon lá*. | He comes in at the same time *every single day*.
-| Baineann an t-acht leasaithe le *gach uile fheithicil* inneallghluaiste. | The amended act applies to *all* mechanical *vehicles*.
+| {3-1-2-d-sample1_ga} | {3-1-2-d-sample1}
+| {3-1-2-d-sample2_ga} | {3-1-2-d-sample2}
+| {3-1-2-d-sample3_ga} | {3-1-2-d-sample3}
 |===
 
 e. {3-1-2-e}
@@ -58,8 +58,8 @@ e. {3-1-2-e}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bain triail as *ceist a ceathair*. | Try *question four*.
-| Ar sheiceáil tú *Aguisín A*? | Did you check *Appendix A*?
+| {3-1-2-e-sample1_ga} | {3-1-2-e-sample1}
+| {3-1-2-e-sample2_ga} | {3-1-2-e-sample2}
 |===
 
 f. {3-1-2-f}
@@ -67,12 +67,12 @@ f. {3-1-2-f}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an fhéile á heagrú i gcomhar le *muintir Thamhlachta*. | The festival is being organized in collaboration with *the people of Tallaght*.
-| An é *leabhar an mhúinteora* é? | Is it the *teacher's book*? 
-| Ar labhair tú le *bainisteoir an óstáin*? | Did you speak with *the hotel manager*?
-| Thug sé cuairt ar *theach a iníne*. | He visited *his daughter's house*.
-| Tá *ainm gach imreora* ar eolas aige. | He knows *the name of every player*.
-| Tugadh ardmholadh *d'fhoireann Bhus 16*. | The *Bus 16 Team* was highly commended.
+| {3-1-2-f-sample1_ga} | {3-1-2-f-sample1}
+| {3-1-2-f-sample2_ga} | {3-1-2-f-sample2}
+| {3-1-2-f-sample3_ga} | {3-1-2-f-sample3}
+| {3-1-2-f-sample4_ga} | {3-1-2-f-sample4}
+| {3-1-2-f-sample5_ga} | {3-1-2-f-sample5}
+| {3-1-2-f-sample6_ga} | {3-1-2-f-sample6}
 |===
 
 g. {3-1-2-g}
@@ -80,8 +80,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Céard atá á dhéanamh agat ansin, *a mhic*? | What are you doing there, *son*?
-| Ní chreidfeá é, *a thaisce*. | You would not believe it, *dear*.
+| {3-1-2-g-sample1_ga} | {3-1-2-g-sample1}
+| {3-1-2-g-sample2_ga} | {3-1-2-g-sample2}
 |===
 
 === 3.1.3
@@ -91,8 +91,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí mé ar *an Earagail* inné. | I was on *the Erigail* yesterday.
-| Cé a scríobh _**An Grá agus an Ghruaim**_? | Who wrote _**Love and Grief**_
+| {3-1-3-sample1_ga} | {3-1-3-sample1}
+| {3-1-3-sample2_ga} | {3-1-3-sample2}
 |===
 
 {3-1-3-p2}
@@ -104,8 +104,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an-eolas aici ar litríocht *na hÉireann*. | She knows a lot about *the* literature *of Ireland*.
-| Blas *na Gaillimhe* atá ar a cuid cainte. | Her speech has *the* flavor of *Galway*.
+| {3-1-4-p1-sample1_ga} | {3-1-4-p1-sample1}
+| {3-1-4-p1-sample2_ga} | {3-1-4-p1-sample2}
 |===
 
 {3-1-4-p2}
@@ -113,8 +113,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is clár de chuid *Raidió Teilifís Éireann* é. | It is a program from *Raidió Teilifís Éireann*
-| Is í *rogha ban Éireann* í. | It is the *choice of Irish women*.
+| {3-1-4-p2-sample1_ga} | {3-1-4-p2-sample1}
+| {3-1-4-p2-sample2_ga} | {3-1-4-p2-sample2}
 |===
 
 === 3.1.5
@@ -124,8 +124,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is é sin *an t-inneall fuála Singer* a cheannaigh mo sheanmháthair. | This is *the Singer sewing machine* that my grandmother bought.
-| Shábháil mé sa *scarbhileog Excel* chéanna é. | I saved it in the same *Excel spreadsheet*.
+| {3-1-5-p-sample1_ga} | {3-1-5-p-sample1}
+| {3-1-5-p-sample2_ga} | {3-1-5-p-sample2}
 |===
 
 === 3.1.6
@@ -135,8 +135,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| An raibh *úinéir an tsiopa* in ann cabhrú leat? | Was the *owner of the shop* able to help you?
-| Fágadh na heochracha in oifig chuntasóir *úinéir an tsiopa*. | The keys were left in the *owner of the shop*'s accountant's office.
+| {3-1-6-p1-sample1_ga} | {3-1-6-p1-sample1}
+| {3-1-6-p1-sample2_ga} | {3-1-6-p1-sample2}
 |===
 
 {3-1-6-p2}
@@ -144,8 +144,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is é *an t-úinéir talún* is fearr sa cheantar é. | He is *the* best *landowner* in the area.
-| Is í *an t-imreoir sacair* is gasta dá bhfaca mé riamh í. | She is *the* fastest *soccer player* I have ever seen.
+| {3-1-6-p2-sample1_ga} | {3-1-6-p2-sample1}
+| {3-1-6-p2-sample2_ga} | {3-1-6-p2-sample2}
 |===
 
 === 3.1.7
@@ -155,8 +155,8 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| D'imigh siad leo nuair a bhí *an uair an chloig* caite. | They left when *the hour* was up.
-| Nach é *an trua Mhuire* é! | Isn't it *the pity of Mary*!
+| {3-1-7-p1-sample1_ga} | {3-1-7-p1-sample1}
+| {3-1-7-p1-sample2_ga} | {3-1-7-p1-sample2}
 |===
 
 {3-1-7-p2}
@@ -168,9 +168,9 @@ g. {3-1-2-g}
 [.samplebox]
 [cols="1,1"]
 |===
-| An bhfuil *Tuarascáil Bhliantúil 2015* réidh? | Is *Annual Report 2015* ready?
-| Foilseofar *Tuarascáil Bhliantúil an Choimisinéara Faisnéise, 2014* go luath. | *The Information Commisioner's Anual Report, 2014* will be published shortly.
-| Eisíodh *an tAcht Oideachais, 2015* inné. | *The Education Act, 2015* was issued yesterday.
+| {3-1-8-p-sample1_ga} | {3-1-8-p-sample1}
+| {3-1-8-p-sample2_ga} | {3-1-8-p-sample2}
+| {3-1-8-p-sample3_ga} | {3-1-8-p-sample3}
 |===
 
 === 3.1.9
@@ -212,8 +212,8 @@ a. {3-1-10-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| An bhfuair tú cuid *den* airgead? | Did you get some *of the* money?
-| Tháinig na ceisteanna ó dhaoine *den* phobal. | The questions came from people *of the* community.
+| {3-1-10-a-p-sample1_ga} | {3-1-10-a-p-sample1}
+| {3-1-10-a-p-sample2_ga} | {3-1-10-a-p-sample2}
 |===
 
 b. {3-1-10-b-p}
@@ -221,8 +221,8 @@ b. {3-1-10-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Briseadh ríomhaire *de chuid* na hoifige. | *One of the* computers in the office was broken.
-| Is deontas *de chuid* na Roinne é. | It is *one of the* Department's grants.
+| {3-1-10-b-p-sample1_ga} | {3-1-10-b-p-sample1}
+| {3-1-10-b-p-sample2_ga} | {3-1-10-b-p-sample2}
 |===
 
 c. {3-1-10-c-p}
@@ -230,8 +230,8 @@ c. {3-1-10-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Ba *bhréagán le Caoimhe* an bréagán a bhris sé. | The toy that he broke was *one of Caoimhe's toys*.
-| Ar léigh sibh *tuarascáil ó Pharlaimint na hEorpa*? | Have you (all) read *a report from the European Parliament*?
+| {3-1-10-c-p-sample1_ga} | {3-1-10-c-p-sample1}
+| {3-1-10-c-p-sample2_ga} | {3-1-10-c-p-sample2}
 |===
 
 === 3.1.11
@@ -241,10 +241,10 @@ c. {3-1-10-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhris sé *ceann* de na cupáin sa chistin. | He broke *one* of the cups in the kitchen.
-| Rachaidh *cuid* den aos óg thar sáile i gcónaí. | *Some* young people will always go abroad.
-| Is *duine* d'fhoireann na hoifige é. | He is *a member* of the office staff.
-| Nach *amhrán* d'amhráin Kíla é? | Isn't it *a song of* Kila's songs?
+| {3-1-11-p-sample1_ga} | {3-1-11-p-sample1}
+| {3-1-11-p-sample2_ga} | {3-1-11-p-sample2}
+| {3-1-11-p-sample3_ga} | {3-1-11-p-sample3}
+| {3-1-11-p-sample4_ga} | {3-1-11-p-sample4}
 |===
 
 *{Note}:* {3-1-11-note}
@@ -252,8 +252,8 @@ c. {3-1-10-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí *gach ríomhaire de chuid* na cuideachta briste. | *All of* the company's computers were broken.
-| Ba é *an ceann* ba mheasa *de* na scannáin uile a chonaiceamar é. | It was *the* worst *of all* the movies we saw.
+| {3-1-11-p-sample5_ga} | {3-1-11-p-sample5}
+| {3-1-11-p-sample6_ga} | {3-1-11-p-sample6}
 |===
 
 '''
@@ -268,8 +268,8 @@ a. {3-2-1-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Scríobh sé leabhar *faoi SAM*. | He wrote a book *about the SAM*.
-| Tá agallamh aige *le OÉ* Gaillimh. | He has an interview *with OÉ* Galway
+| {3-2-1-a-p-sample1_ga} | {3-2-1-a-p-sample1}
+| {3-2-1-a-p-sample2_ga} | {3-2-1-a-p-sample2}
 |===
 
 b. {3-2-1-b-p}
@@ -277,8 +277,8 @@ b. {3-2-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá sí ag obair *in RTÉ*. | She works *at RTÉ*.
-| Tá na milliúin euro *in CSE*. | There are millions of euros *in the ESF*.
+| {3-2-1-b-p-sample1_ga} | {3-2-1-b-p-sample1}
+| {3-2-1-b-p-sample2_ga} | {3-2-1-b-p-sample2}
 |===
 
 c. {3-2-1-c-p1}
@@ -286,8 +286,8 @@ c. {3-2-1-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is ag cruinnithe *de OLAF* a pléadh an cheist. | The issue was discussed *at OLAF* meetings.
-| Tugadh aitheantas *do ÍMAT* mar chóras cánach a bhfuil ag éirí go maith leis. | *ÍMAT* has been recognized as a successful tax system.
+| {3-2-1-c-p1-sample1_ga} | {3-2-1-c-p1-sample1}
+| {3-2-1-c-p1-sample2_ga} | {3-2-1-c-p1-sample2}
 |===
 +
 {3-2-1-c-p2}
@@ -295,8 +295,8 @@ c. {3-2-1-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| An bhfuil an cur chuige bunaithe ar an *Ionstraim Eorpach Aonair*? | Is this approach based on the *Single European Act*?
-| Tá súil ag na *Náisiúin Aontaithe* go mbeidh dea-thoradh ar an bpróiseas. | The *United Nations* hopes that the process will have a positive outcome.
+| {3-2-1-c-p2-sample1_ga} | {3-2-1-c-p2-sample1}
+| {3-2-1-c-p2-sample2_ga} | {3-2-1-c-p2-sample2}
 |===
 
 === 3.2.2 {3-2-2-title}
@@ -311,11 +311,11 @@ A. *{3-2-2-A-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá *SAM* ina bhall den Chomhairle Slándála. | *The SAM* is a member of the Security Council.
-| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | The *OÉ*'s policies are focused on developing education.
-| Tagann Airí Bhallstáit *AE* le chéile sa Chomhairle. | Ministers of the *AE* Member States meet in the Council.
-| Tá obair ar bun le haghaidh dhíscaoileadh *CTT*. | Work is underway to disolve the *CTT*.
-| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *NA*. | She is working in collaboration with an *NA* Investigation Group.
+| {3-2-2-A-a-p-sample1_ga} | {3-2-2-A-a-p-sample1}
+| {3-2-2-A-a-p-sample2_ga} | {3-2-2-A-a-p-sample2}
+| {3-2-2-A-a-p-sample3_ga} | {3-2-2-A-a-p-sample3}
+| {3-2-2-A-a-p-sample4_ga} | {3-2-2-A-a-p-sample4}
+| {3-2-2-A-a-p-sample5_ga} | {3-2-2-A-a-p-sample5}
 |===
 +
   b. {3-2-2-A-b-p}
@@ -336,8 +336,8 @@ B. *{3-2-2-B-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá *SAM* ina bhall den Chomhairle Slándála. | *The USA* is a member of the Security Council.
-| Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt. | The *OÉ*'s policies are focused on developing education.
+| {3-2-2-B-a-p-sample1_ga} | {3-2-2-B-a-p-sample1}
+| {3-2-2-B-a-p-sample2_ga} | {3-2-2-B-a-p-sample2}
 |===
 +
   b. {3-2-2-B-b-p}
@@ -345,15 +345,16 @@ B. *{3-2-2-B-title}*
 [.samplebox]
 [cols="1,1"]
 |===
-| Tagann Airí Bhallstáit *an AE* le chéile sa Chomhairle. | Ministers of *the AE* Member States meet in the Council.
-| Cé atá i dteideal maoiniú *faoin CTT*? | Who is eligible for funding *under the CTT*?
-| Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *na NA*. | She is working in collaboration with an Investigation Team of *the NA*.
+| {3-2-2-B-b-p-sample1_ga} | {3-2-2-B-b-p-sample1}
+| {3-2-2-B-b-p-sample2_ga} | {3-2-2-B-b-p-sample2}
+| {3-2-2-B-b-p-sample3_ga} | {3-2-2-B-b-p-sample3}
 |===
 +
   c. {3-2-2-B-c-p}
 +
 [.samplebox]
 |===
+// Concept is self-evident.
 | Maidir leis *na NA*, is é 193 líon *a* bhall.
 | Síníodh *an IEA* sa bhliain 1986 agus tá feidhm reachtach *aige*.
 |===
@@ -366,10 +367,10 @@ a. {3-2-3-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Is fostaí de chuid *CIN* rannpháirteach í. | She is *a* participating *CIN* employee.
-| - _ach_ Is fostaí de chuid *an CIN rannpháirtigh sin* í. | - _but_ She is an employee of *that particpating CIN*.
-| Úsáidtear an seomra mar oifig *PO*. | The room is used as *a PO* office.
-| - _ach_ Úsáidtear an seomra mar oifig *an PO sin*. | - _but_ The room is used as *that PO office*.
+| {3-2-3-a-p-sample1_ga} | {3-2-3-a-p-sample1}
+| {3-2-3-a-p-sample2_ga} | {3-2-3-a-p-sample2}
+| {3-2-3-a-p-sample3_ga} | {3-2-3-a-p-sample3}
+| {3-2-3-a-p-sample4_ga} | {3-2-3-a-p-sample4}
 |===
 
 b. {3-2-3-b-p}
@@ -377,12 +378,12 @@ b. {3-2-3-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tabharfar *uimhir PSP* duit. | You will be given *a PSP number*.
-| - _ach_ Cá bhfuil *an uimhir PSP* a tugadh duit? | - _but_ Where is *the PSP number* that was given to you?
-| Tá *ráta ard CBL* i bhfeidhm. | *A high CBL rate* is in effect.
-| - _ach_ Tá *an ráta céanna CBL* i bhfeidhm le fada. | - _but_ *The same CBL rate* has been in effect for a long time.
-| Tá *stáisiún DART* sa cheantar seo. | There is *a DART station* in this area.
-| - _ach_ An é *an stáisiún DART sin* atá i gceist? | - _but_ Is *that the DART station* in question?
+| {3-2-3-b-p-sample1_ga} | {3-2-3-b-p-sample1}
+| {3-2-3-b-p-sample2_ga} | {3-2-3-b-p-sample2}
+| {3-2-3-b-p-sample3_ga} | {3-2-3-b-p-sample3}
+| {3-2-3-b-p-sample4_ga} | {3-2-3-b-p-sample4}
+| {3-2-3-b-p-sample5_ga} | {3-2-3-b-p-sample5}
+| {3-2-3-b-p-sample6_ga} | {3-2-3-b-p-sample6}
 |===
 
 c. {3-2-3-c-p}
@@ -390,8 +391,8 @@ c. {3-2-3-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Nach *iad* sin *na CINanna* a bhfuil dea-cháil *orthu*? | Aren't *those the* reputable *CINs*? 
-| Is *POnna* ar fad *iad* sin. | *Those* are all *POs*.
+| {3-2-3-c-p-sample1_ga} | {3-2-3-c-p-sample1}
+| {3-2-3-c-p-sample2_ga} | {3-2-3-c-p-sample2}
 |===
 
 '''
@@ -461,8 +462,8 @@ b. {3-3-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an t-iniúchóir *ag fiosrú an chur i gcéill* sin faoi láthair. | The auditor *is currently investigating* this allegation.
-| Bhí sí *i mbun an chur i láthair* nuair a theip ar an ríomhaire. | She was *giving the presentation* when the computer failed.
+| {3-3-1-b-i-p-sample1_ga} | {3-3-1-b-i-p-sample1}
+| {3-3-1-b-i-p-sample2_ga} | {3-3-1-b-i-p-sample2}
 |===
 +
   .. {3-3-1-b-ii-p}
@@ -470,9 +471,8 @@ b. {3-3-1-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá siad *ag moladh a chur chuige* ó mhínigh sé dóibh é. | They *have been praising his approach* since he explained it to them.
-// Can't find "cur i láthair" anywhere, but from a later example and GT, "presentation" seems correct.
-| Dúirt sí go raibh an t-eolas ag teastáil *le haghaidh a cur i láthair*. | She said the information was needed *for her presentation*.
+| {3-3-1-b-ii-p-sample1_ga} | {3-3-1-b-ii-p-sample1}
+| {3-3-1-b-ii-p-sample2_ga} | {3-3-1-b-ii-p-sample2}
 |===
 
 === 3.3.2 {3-3-2-title}
@@ -486,7 +486,6 @@ a. {3-3-2-a-p}
 [cols="1,1"]
 |===
 a|
-[.table-header]
 {Table-3A-Col1Title}
 a| {Table-3A-Col2Title}
 
@@ -514,10 +513,10 @@ b. {3-3-2-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Gortaíodh í *le linn ceann de na cluichí áitiúla*. | She was injured *during one of the local games*.
-| Tá laghdú tagtha ar *mhéid mo chuid oibre*. | The *amount of my work* has decreased.
-| Bhí siad *ag díbirt cuid mhór acu*. | They were *expelling many of them*.
-| Ritheadh é *d'ainneoin an chuid eile den alt*. | It was passed *despite the rest of the article*.
+| {3-3-2-b-p1-sample1_ga} | {3-3-2-b-p1-sample1}
+| {3-3-2-b-p1-sample2_ga} | {3-3-2-b-p1-sample2}
+| {3-3-2-b-p1-sample3_ga} | {3-3-2-b-p1-sample3}
+| {3-3-2-b-p1-sample4_ga} | {3-3-2-b-p1-sample4}
 |===
 +
 {3-3-2-b-p2}
@@ -525,8 +524,8 @@ b. {3-3-2-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| D'ainneoin *na Coda* sin, ritheadh an Bille. | Despite *that Section*, the Bill was passed.
-| Thit sí ar mhullach *a cinn*. | She fell on *her head*.
+| {3-3-2-b-p2-sample1_ga} | {3-3-2-b-p2-sample1}
+| {3-3-2-b-p2-sample2_ga} | {3-3-2-b-p2-sample2}
 |===
 
 c. {3-3-2-c-p1}
@@ -534,8 +533,8 @@ c. {3-3-2-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhuail mé le *Príomhfheidhmeannach Trócaire* ann. | I met the *Chief Executive of Trócaire* there.
-| Cá bhfuil *príomhoifig Bóthar*? | Where is *Bóthar's main office*?
+| {3-3-2-c-p1-sample1_ga} | {3-3-2-c-p1-sample1}
+| {3-3-2-c-p1-sample2_ga} | {3-3-2-c-p1-sample2}
 |===
 
 '''
@@ -550,10 +549,8 @@ a. {3-3-3-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-// "tar éis" seems to be "just" based on some sample sentences.
-// See "An mhuintir a bhí tar éis imeacht, the people who had just gone." from FGB.
-| Tá sé *tar éis a rá* go ndéanfaidh sé é. | He *has just said* that he will do it.
-| Tá sé *ag iarraidh a dheimhniú* go mbeidh gach ní ina cheart. | He *is trying to confirm* that everything is going to be all right.
+| {3-3-3-a-p-sample1_ga} | {3-3-3-a-p-sample1}
+| {3-3-3-a-p-sample2_ga} | {3-3-3-a-p-sample2}
 |===
 
 b. {3-3-3-b-p1}
@@ -561,13 +558,13 @@ b. {3-3-3-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| An bhfuil sé *chun iomáint* le Corcaigh? | Is he *going to play hurling* with Cork?
-| Níl an eagraíocht *chun snámh* in aghaidh easa. | The organization is not *going to swim* against the tide.
-| Tá na páistí *chun dul abhaile*. | The children are *going to go home*.
-| Tá an ghaoth *chun séideadh* níos measa. | The wind is *going to blow* worse.
-| Níl siad *chun seasamh* siar. | They are not *going to stand* back.
-| Tá sí *chun pósadh* go luath. | She is *going to get married* soon.
-| Tá sé *chun imirt*. | He is *going to play*.
+| {3-3-3-b-p1-sample1_ga} | {3-3-3-b-p1-sample1}
+| {3-3-3-b-p1-sample2_ga} | {3-3-3-b-p1-sample2}
+| {3-3-3-b-p1-sample3_ga} | {3-3-3-b-p1-sample3}
+| {3-3-3-b-p1-sample4_ga} | {3-3-3-b-p1-sample4}
+| {3-3-3-b-p1-sample5_ga} | {3-3-3-b-p1-sample5}
+| {3-3-3-b-p1-sample6_ga} | {3-3-3-b-p1-sample6}
+| {3-3-3-b-p1-sample7_ga} | {3-3-3-b-p1-sample7}
 |===
 +
 {3-3-3-b-p2}
@@ -577,9 +574,9 @@ c. {3-3-3-c-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Cén *cineál cur chuige* a d'úsáid siad? | What *kind of approach* did they use?
-| Bhí sí *i mbun cur i láthair* nuair a theip ar an teilgeoir. | She was *in the middle of a presentation* when the projector failed.
-| Tá an *plean dul chun cinn* sa tuarascáil bhliantúil. | The *progress plan* is in the annual report.
+| {3-3-3-c-p-sample1_ga} | {3-3-3-c-p-sample1}
+| {3-3-3-c-p-sample2_ga} | {3-3-3-c-p-sample2}
+| {3-3-3-c-p-sample3_ga} | {3-3-3-c-p-sample3}
 |===
 
 '''
@@ -591,9 +588,9 @@ a. {3-3-4-a-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí na léirsitheoirí *ag diúltú imeacht*. | The demonstrators were *refusing to leave*.
-| Níl na déagóirí *ag iarraidh troid* (_sa bhrí_ ag iarraidh troid a dhéanamh). | The teenagers were not *wanting to fight* (_meaning_ wanting to make a fight).
-| Tá sé *tar éis siúl* abhaile. | He *has just walked* home.
+| {3-3-4-a-p1-sample1_ga} | {3-3-4-a-p1-sample1}
+| {3-3-4-a-p1-sample2_ga} | {3-3-4-a-p1-sample2}
+| {3-3-4-a-p1-sample3_ga} | {3-3-4-a-p1-sample3}
 |===
 +
 {3-3-4-a-p2}
@@ -603,12 +600,12 @@ b. {3-3-4-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá siad *ag déanamh leasú* (athrú, marú, coigeartú). | They are *making an amendment* (a change, a killing, an adjustment).
-| Is minic é *a thabhairt moladh* (bualadh, ordú, ardú). | He/It is often *given praise* (a beating, an order, a raise).
-| Acht *do dhéanamh leasú* (iniúchadh, scrúdú) de réir moladh ón Aire. | An Act *to amend* (inspect, examine) in recommendation from the Minister.
-| An bhfuil tú *ag iarraidh suí* (éirí, pósadh)? | Are you *wanting to sit* (get up, marry)?
-| Tá sí *ag fáil ardú* (cáiliú, breisiú, greadadh). | She is *getting a raise* (qualification, increase, beating).
-| Cé a bhí *a dhéanamh cáineadh* (múineadh, díscaoileadh, fuirseadh)? | Who was *doing/making the condemnation* (teaching, dispersion, fuss)?
+| {3-3-4-b-p1-sample1_ga} | {3-3-4-b-p1-sample1}
+| {3-3-4-b-p1-sample2_ga} | {3-3-4-b-p1-sample2}
+| {3-3-4-b-p1-sample3_ga} | {3-3-4-b-p1-sample3}
+| {3-3-4-b-p1-sample4_ga} | {3-3-4-b-p1-sample4}
+| {3-3-4-b-p1-sample5_ga} | {3-3-4-b-p1-sample5}
+| {3-3-4-b-p1-sample6_ga} | {3-3-4-b-p1-sample6}
 |===
 +
 {3-3-4-b-p2}
@@ -616,10 +613,10 @@ b. {3-3-4-b-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Cé atá *ag déanamh an athraithe*? | Who is *making the change*?
-| An bhfuil an tArd-Rúnaí *ag dréachtú an ordaithe*? | Is the Secretary General *drafing the order*?
-| Bhí a gcairde *ag beannú a bpósta*. | Their friends were *congratulating their marriage*.
-| Is *ag léamh gach leasaithe* roimh an gcruinniú atá sí. | She is *reading every amendment* before the meeting.
+| {3-3-4-b-p2-sample1_ga} | {3-3-4-b-p2-sample1}
+| {3-3-4-b-p2-sample2_ga} | {3-3-4-b-p2-sample2}
+| {3-3-4-b-p2-sample3_ga} | {3-3-4-b-p2-sample3}
+| {3-3-4-b-p2-sample4_ga} | {3-3-4-b-p2-sample4}
 |===
 
 c. {3-3-4-c-p1}
@@ -627,10 +624,10 @@ c. {3-3-4-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an lánúin sin *ar tí pósadh*. | The couple is *about to marry*.
-| Nílim ach *tar éis éirí*. | I am *just getting up*.
-| Nach deas dul ag siúl *i ndiaidh suí*? | Isn't it nice to go on a walk *after sitting*?
-| Tá an lá ag dul *chun síneadh*. | The day is *going to get longer*.
+| {3-3-4-c-p1-sample1_ga} | {3-3-4-c-p1-sample1}
+| {3-3-4-c-p1-sample2_ga} | {3-3-4-c-p1-sample2}
+| {3-3-4-c-p1-sample3_ga} | {3-3-4-c-p1-sample3}
+| {3-3-4-c-p1-sample4_ga} | {3-3-4-c-p1-sample4}
 |===
 +
 {3-3-4-c-p2}
@@ -638,9 +635,9 @@ c. {3-3-4-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| Níl siad ar son *an cholscartha*. | They are not for *divorce*.
-| Tá sé ar tí *a phósta*. | He is about *to marry*.
-| Ní mór staidéar a dhéanamh i gcomhair *gach scrúdaithe*. | You must study for *every exam*.
+| {3-3-4-c-p2-sample1_ga} | {3-3-4-c-p2-sample1}
+| {3-3-4-c-p2-sample2_ga} | {3-3-4-c-p2-sample2}
+| {3-3-4-c-p2-sample3_ga} | {3-3-4-c-p2-sample3}
 |===
 
 '''
@@ -652,15 +649,15 @@ c. {3-3-4-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Tá siad ag tabhairt aghaidh* ar an bhfoireann eile anois. | *They are facing* the other team now.
-| *Is ag baint leas* as an gcóras atá siad. | They are *taking advantage* of the system.
-| *Tá an scoil ag cur deireadh* leis an scéim. | *The school is ending* the scheme.
-| *Is léir go bhfuil na mic léinn ag baint taitneamh* as an oíche. | *The students are are clearly enjoying* the night.
-| *Tá sé ag fágáil slán* leis. | *He is saying good-bye* to him.
-| *Stiúrthóirí do thabhairt aird* ar leasanna fostaithe. | *Directors to give attention* to the interests of employees.
-| *Tá siad ag baint triail* as roghchlár nua. | *They are trying out* a new menu.
-| *Bhí an eagraíocht ag cur tionscadail* chun cinn. (_iol._) | *The organization was* advancing *projects*. (_pl._)
-| *Tá an Roinn ag cur beartais* i bhfeidhm. (_iol._) | *The Department is* implementing *policies*. (_pl._)
+| {3-3-5-p1-sample1_ga} | {3-3-5-p1-sample1}
+| {3-3-5-p1-sample2_ga} | {3-3-5-p1-sample2}
+| {3-3-5-p1-sample3_ga} | {3-3-5-p1-sample3}
+| {3-3-5-p1-sample4_ga} | {3-3-5-p1-sample4}
+| {3-3-5-p1-sample5_ga} | {3-3-5-p1-sample5}
+| {3-3-5-p1-sample6_ga} | {3-3-5-p1-sample6}
+| {3-3-5-p1-sample7_ga} | {3-3-5-p1-sample7}
+| {3-3-5-p1-sample8_ga} | {3-3-5-p1-sample8}
+| {3-3-5-p1-sample9_ga} | {3-3-5-p1-sample9}
 |===
 
 {3-3-5-p2}
@@ -668,13 +665,13 @@ c. {3-3-4-c-p1}
 [.samplebox]
 [cols="1,1"]
 |===
-| *Bhí sé ag cur báistí* (i gCorcaigh). | *It was raining* (in Cork).
-| *Tá sí ag déanamh oibre* (san oifig). | *She was doing work* (in the office).
-| *Bíonn siad ag bailiú airgid* (ann). | *They are collecting money* (there).
-| *Beidh sé ag tabhairt cabhrach* (in am an ghátair). | *He will give help* (in times of need).
-| *Tá sí ag fáil bháis* (san ospidéal). | *She is dying* (in the hospital).
-| *An bhfuil sí ag imirt peile* (leis na comharsana)? | *Is she playing football* (with the neighbors)?
-| *Bhí siad ag gabháil fhoinn* (sa teach). | *They were singing* (in the house).
+| {3-3-5-p2-sample1_ga} | {3-3-5-p2-sample1}
+| {3-3-5-p2-sample2_ga} | {3-3-5-p2-sample2}
+| {3-3-5-p2-sample3_ga} | {3-3-5-p2-sample3}
+| {3-3-5-p2-sample4_ga} | {3-3-5-p2-sample4}
+| {3-3-5-p2-sample5_ga} | {3-3-5-p2-sample5}
+| {3-3-5-p2-sample6_ga} | {3-3-5-p2-sample6}
+| {3-3-5-p2-sample7_ga} | {3-3-5-p2-sample7}
 |===
 
 '''
@@ -687,12 +684,9 @@ a. {3-3-6-a-p}
 [.samplebox]
 [cols="1,1"]
 |===
-// As best I can tell, "beir leat" is an adjective here.
-| Gheobhaidh mé bia *beir leat* ar mo shlí abhaile dom. | I will get *takeaway* food on my way home.
-// FGB says this under "bolg". GT suggests "make a fool", but I don't know if this is also correct.
-| Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair. | He is sunbathing in France currently. (_Lit._ *belly with sun*)
-// Two different things translate to "center" here.
-| Tá ionad *buail isteach* acu i lár na cathrach. | They have a *drop-in* center in the middle of the city.
+| {3-3-6-a-p-sample1_ga} | {3-3-6-a-p-sample1}
+| {3-3-6-a-p-sample2_ga} | {3-3-6-a-p-sample2}
+| {3-3-6-a-p-sample3_ga} | {3-3-6-a-p-sample3}
 |===
 
 b. {3-3-6-b-p}
@@ -700,9 +694,9 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá gach rud eagraithe don chruinniú *tús* bliana. | Everything is organized for the *beginning* of the year meeting.
-| Bain taitneamh as an sos *lár* téarma! | Enjoy the *mid*-term break!
-| Déantar ócáid *deireadh* seachtaine a eagrú gach bliain. | A week-*end* event is organized every year.
+| {3-3-6-b-p-sample1_ga} | {3-3-6-b-p-sample1}
+| {3-3-6-b-p-sample2_ga} | {3-3-6-b-p-sample2}
+| {3-3-6-b-p-sample3_ga} | {3-3-6-b-p-sample3}
 |===
 
 '''
@@ -714,12 +708,12 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| 500g *plúr* | 500g *flour*
-| 1lb *plúr bán* | 1lb *white flour*
-| 250g *siúcra mín* | 250g *castor sugar*
-| 150ml *uachtar* | 150ml *cream* 
-| 1/2 taesp. *púdar bácála* | 1/2 taesp. *baking powder* 
-| 2 spúnóg bhoird *mil* | 2 tablesponns *honey*
+| {3-3-7-p1-sample1_ga} | {3-3-7-p1-sample1}
+| {3-3-7-p1-sample2_ga} | {3-3-7-p1-sample2}
+| {3-3-7-p1-sample3_ga} | {3-3-7-p1-sample3}
+| {3-3-7-p1-sample4_ga} | {3-3-7-p1-sample4}
+| {3-3-7-p1-sample5_ga} | {3-3-7-p1-sample5}
+| {3-3-7-p1-sample6_ga} | {3-3-7-p1-sample6}
 |===
 
 {3-3-7-p2}
@@ -727,8 +721,8 @@ b. {3-3-6-b-p}
 [.samplebox]
 [cols="1,1"]
 |===
-| Déan *500g de phlúr bán* agus *250g de shiúcra mín* a mheascadh i mbabhla. | Mix *500g of white flour* and *250g of castor sugar* in a bowl.
-| Cuir *150ml de bhainne* agus *150ml d'uachtar* leis an meascán. | Add *150ml of milk* and *150ml of cream* to the mixture.
+| {3-3-7-p2-sample1_ga} | {3-3-7-p2-sample1}
+| {3-3-7-p2-sample2_ga} | {3-3-7-p2-sample2}
 |===
 
 '''

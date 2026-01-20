@@ -25,17 +25,13 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Beidh *an tAire Airgeadais* ag freastal ar an gcruinniú.
-| The *Minister for Finance* will attend the meeting.
+| {1-1-5-a-sample1_ga} | {1-1-5-a-sample1}
 
-| Cá bhfuil *an Príomh-Oifigeach Feidhmiúcháin*?
-| Where is *the Chief Executive Officer*?
+| {1-1-5-a-sample2_ga} | {1-1-5-a-sample2}
 
-| Tá *an Taoiseach* ag labhairt leis na daltaí.
-| *The Taoiseach* is speaking with the students. 
+| {1-1-5-a-sample3_ga} | {1-1-5-a-sample3}
 
-| An é sin *Ard-Rúnaí na Náisiún Aontaithe*?
-| Is that *the Secretary General of the United Nations*?
+| {1-1-5-a-sample4_ga} | {1-1-5-a-sample4}
 |===
 
 . {1-1-5-b}
@@ -43,17 +39,13 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Is san fhoirgneamh sin thall atá *an Roinn Oideachais agus Scileanna*.
-| This building is opposite *the Department of Education and Skills*.
+| {1-1-5-b-sample1_ga} | {1-1-5-b-sample1}
 
-| Chuaigh Seán go dtí *an Oifig um Rialú Tobac*.
-| Sean went to *the Office of Tobacco Control*.
+| {1-1-5-b-sample2_ga} | {1-1-5-b-sample2}
 
-| Tá *Feidhmeannacht na Seirbhíse* Sláinte an-ghnóthach.
-| *The Health Service Executive* is very busy.
+| {1-1-5-b-sample3_ga} | {1-1-5-b-sample3}
 
-| Seo *an Phríomh-Oifig Staidrimh*.
-| This is *the Central Statistics Office*.
+| {1-1-5-b-sample4_ga} | {1-1-5-b-sample4}
 |===
 
 . {1-1-5-c}
@@ -61,23 +53,17 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Ba é *an tAthair Peadar Ua Laoghaire* a scríobh an dráma _An Sprid_.
-| *Father Peadar Ua Laoghaire* wrote the play _An Sprid_.
+| {1-1-5-c-sample1_ga} | {1-1-5-c-sample1}
 
-| Labhair *an Captaen Ó Murchú* leis na himreoirí.
-| *Captain Ó Murchu* spoke to the players. 
+| {1-1-5-c-sample2_ga} | {1-1-5-c-sample2}
 
-| Bhí *an tUachtarán Mhic Róibín* le feiceáil sa ghrianghraf.
-| *President Robinson* was to be seen in the photograph. 
+| {1-1-5-c-sample3_ga} | {1-1-5-c-sample3}
 
-| Beidh *an Dochtúir de Barra* ar saoire ar feadh seachtaine.
-| *Doctor De Barra* will be on holiday for the week. 
+| {1-1-5-c-sample4_ga} | {1-1-5-c-sample4}
 
-| Tá *an Múinteoir Ailbhe* i bhfeighil ar rang a sé i mbliana.
-| *Teacher Ailbhe* is in charge of sixth class this year.
+| {1-1-5-c-sample5_ga} | {1-1-5-c-sample5}
 
-| Is í *an Bhanríon Elsa a Dó* atá sa scannán.
-| It is *Queen Elsa II* in the film.
+| {1-1-5-c-sample6_ga} | {1-1-5-c-sample6}
 |===
 
 . {1-1-5-d-p1}
@@ -85,15 +71,13 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá *an Nollaig* ag teannadh linn.
-| *Christmas* is approaching us.
+| {1-1-5-d-sample1_ga} | {1-1-5-d-sample1}
 
-| Is i mí an Mhárta a bheid *an Cháisc* i mbliana.
-| *Easter* will be in March this year.
+| {1-1-5-d-sample2_ga} | {1-1-5-d-sample2}
 
-| Rinne mé *an Carghas* ar an ól.
-| I gave up drinking for *Lent*. 
+| {1-1-5-d-sample3_ga} | {1-1-5-d-sample3}
 |===
++
 {1-1-5-d-p2}
 
 . {1-1-5-e-p1}
@@ -101,16 +85,15 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Is é *an Luan* an lá is ansa liom.
-| *Monday* is my favourite day.
+| {1-1-5-e-sample1_ga} | {1-1-5-e-sample1}
 
-| Téim ag snámh ar *an Máirt*.
-| I go swimming *on Tuesdays*.
+| {1-1-5-e-sample2_ga} | {1-1-5-e-sample2}
 
-| Inniu *an Chéadaoin*.
-| Today *is a Wednesday*.
+| {1-1-5-e-sample3_ga} | {1-1-5-e-sample3}
 |===
++
 {1-1-5-e-p2}
++
 {1-1-5-e-p3}
 
 . *{1-1-5-f-p1}*
@@ -118,12 +101,11 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Is minic a bhíonn mí *Eanáir* níos fuaire ná mí *na Nollag*.
-| Often *January* is colder than *December*.
+| {1-1-5-f-sample1_ga} | {1-1-5-f-sample1}
 
-| Tá an Cháisc i mí *an Mhárta* seachas *mí Aibreáin* i mbliana.
-| Easter is in *March* rather than *April* this year.
+| {1-1-5-f-sample2_ga} | {1-1-5-f-sample2}
 |===
++
 {1-1-5-f-p2}
 
 . *{1-1-5-g-p1}*
@@ -131,41 +113,35 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Ba chóir é a dhéanamh tráth nach déanaí ná *an 30 Meán Fómhair* gach bliain.
-| I should be done no later than *30 September* every year.
+| {1-1-5-g-sample1_ga} | {1-1-5-g-sample1}
 
-| Beidh an chóisir ar síúl ar *an 12 Aibreán*.
-| The party will be on *the 12th of April*.
+| {1-1-5-g-sample2_ga} | {1-1-5-g-sample2}
 
-| Baineann na ráitis airgeadais leis an mbliain dar chríoch *an 31 Nollaig 2014*.
-| The financial reports are for the year ended *31 December 2014*.
+| {1-1-5-g-sample3_ga} | {1-1-5-g-sample3}
 
-| Pósfaidh siad *an 26 Feabhra*.
-| They will marry on *the 26th of February*.
+| {1-1-5-g-sample4_ga} | {1-1-5-g-sample4}
 
-| Ní ghlacfar le haon iarratas a gheofar tar éis *an 7 Márta 2016*.
-| No applications will be accepted after *7 March 2016*.
+| {1-1-5-g-sample5_ga} | {1-1-5-g-sample5}
 |===
++
 {1-1-5-g-p2}
++
 {1-1-5-g-p3}
 
 . *{1-1-5-h-p1}*
 [list-[lower-roman]]
-.. {1-1-5-h-i_ga}
-.. {1-1-5-h-ii_ga}
-.. {1-1-5-h-iii_ga}
+.. {1-1-5-h-i}
+.. {1-1-5-h-ii}
+.. {1-1-5-h-iii}
 +
 [.samplebox]
 [cols="1,1"]
 |===
-| Rinne mé *an Mhucais* a shiúl inné.
-| I did *the Muckish* walk yesterday.
+| {1-1-5-h-sample1_ga} | {1-1-5-h-sample1}
 
-| Ar bhuaig *an Spidéal* an cluiche?
-| Did *Spiddal* win the game?
+| {1-1-5-h-sample2_ga} | {1-1-5-h-sample2}
 
-| Bhí *an tSionainn* le feiceáil ón eitleán.
-| *Shannon* can be seen from the Airplane 
+| {1-1-5-h-sample3_ga} | {1-1-5-h-sample3}
 |===
 
 . *{1-1-5-i-p1}*
@@ -183,11 +159,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Is tír álainn í *an Fhrainc*.
-| *France* is a beautiful country.
+| {1-1-5-i-A-sample1_ga} | {1-1-5-i-A-sample1}
 
-| Luaitear *Mósaimbíc* sa leabhar.
-| *Mozambique* is mentioned in the book.
+| {1-1-5-i-A-sample2_ga} | {1-1-5-i-A-sample2}
 |===
 
 .. {1-1-5-i-B-p}
@@ -205,11 +179,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| I Muir Chairib atá *na Bahámaí*.
-| *The Bahamas* are in the Caribbean.
+| {1-1-5-i-C-sample1_ga} | {1-1-5-i-C-sample1}
 
-| Rinneadh an scannán a thaifeadadh *sna Garbhchríocha*.
-| The film was recorded in *the Highlands*.
+| {1-1-5-i-C-sample2_ga} | {1-1-5-i-C-sample2}
 |===
 
 . {1-1-5-j-p}
@@ -217,14 +189,11 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Dúradh *an Ghlóir* i lár an Aifrinn.
-| *Glory* was said in the middle of Hell.
+| {1-1-5-j-sample1_ga} | {1-1-5-j-sample1}
 
-| Ní minic a chloistear *an Dord Fiann*.
-| *The Dord Fiann* is not often heard.
+| {1-1-5-j-sample2_ga} | {1-1-5-j-sample2}
 
-| Dúirt sé *an Choróin Mhuire* os ard.
-| He said *the rosary* loudly.
+| {1-1-5-j-sample3_ga} | {1-1-5-j-sample3}
 |===
 
 . *{1-1-5-k-p1}*
@@ -234,14 +203,11 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Dhíol sé na leabhair ar euro *an ceann*.
-| He sells the books for a euro *each*.
+| {1-1-5-k-sample1_ga} | {1-1-5-k-sample1}
 
-| Eagraítear comóradh uair *sa bhliain*.
-| An anniversary is organised once *per year*.
+| {1-1-5-k-sample2_ga} | {1-1-5-k-sample2}
 
-| Bhí mála *an duine* ag na páistí scoile.
-| *Every* schoolchild had a bag.
+| {1-1-5-k-sample3_ga} | {1-1-5-k-sample3}
 |===
 
 . *{1-1-5-l-p1}*
@@ -249,27 +215,21 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Nuair a bhíonn *an t-ól* istigh, bíonn *an chiall* amuigh.
-| When *the drink* is in, *sense* is out.
+| {1-1-5-l-sample1_ga} | {1-1-5-l-sample1}
 
-| Ní maith í an fhearg.
-| *Anger* is not good.
+| {1-1-5-l-sample2_ga} | {1-1-5-l-sample2}
 
-| Tugadh isteach *an colscaradh* in Éirinn roinnt blianta ó shin.
-| *Divorce* was introduced in Ireland some years ago.
+| {1-1-5-l-sample3_ga} | {1-1-5-l-sample3}
 
-| Is rud nua í *an taiscéalaíocht* sa spás.
-| Space *exploration* is a new thing.
+| {1-1-5-l-sample4_ga} | {1-1-5-l-sample4}
 
-| Ní féidir taisteal *san am*.
-| It is not possible to travel through *time*.
+| {1-1-5-l-sample5_ga} | {1-1-5-l-sample5}
 
-| Inseoidh *an aimsir*.
-| *The weather* will tell.
+| {1-1-5-l-sample6_ga} | {1-1-5-l-sample6}
 
-| Is maith *an t-anlann* *an t-ocras*.
-| *Hunger* is the best *sauce*.
+| {1-1-5-l-sample7_ga} | {1-1-5-l-sample7}
 |===
++
 {1-1-5-l-p2}
 
 . {1-1-5-m-p}
@@ -277,11 +237,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Bhí *an bhruitíneach* fairsing in Éirinn go dtí na 1960idí.
-| *Measles* was widespread in Ireland until the 1960s.
+| {1-1-5-m-sample1_ga} | {1-1-5-m-sample1}
 
-| An bhfuil leigheas *ar an titimeas*?
-| Is there a cure for *epilepsy*?
+| {1-1-5-m-sample1_ga} | {1-1-5-m-sample1}
 |===
 
 . {1-1-5-n-p1}
@@ -289,21 +247,17 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Is í *an Ghaeilge* teanga ár sinsear.
-| *Irish* is the language of our ancestors.
+| {1-1-5-n-sample1_ga} | {1-1-5-n-sample1}
 
-| Labhraítear *an Ghearmáinis* san Ostair.
-| *German* is spoken in Austria.
+| {1-1-5-n-sample2_ga} | {1-1-5-n-sample2}
 
-| Bhí *an Béarla* go maith aici.
-| She had good *English*.
+| {1-1-5-n-sample3_ga} | {1-1-5-n-sample3}
 |===
++
 {1-1-5-n-p2}
 
 '''
 
-// Evidently this is not a real "subsection"
-[discrete]
 == {1-1_5-title}
 
 {1-1_5-p}
@@ -474,25 +428,15 @@
 [%noheader]
 [cols="2,1,2"]
 |===
-| de + an
-| ->
-| den
+| de + an | -> | den
 
-| do + an
-| ->
-| don
+| do + an | -> | don
 
-| faoi + an
-| ->
-| faoin
+| faoi + an | -> | faoin
 
-| i + an
-| ->
-| sa, san
+| i + an | -> | sa, san
 
-| ó + an
-| ->
-| ón
+| ó + an | -> | ón
 |===
 
 === 1.3.5 
@@ -501,17 +445,11 @@
 [%noheader]
 [cols="2,1,2"]
 |===
-| fara + an
-|->
-| fairis an
+| fara + an | -> | fairis an
 
-| le + an
-|->
-| leis an
+| le + an | -> | leis an
 
-| trí + an
-|->
-| tríd an
+| trí + an | -> | tríd an
 |===
 
 '''
@@ -836,11 +774,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Cár fhág tú *eochair an chairr*?
-| Where did you leave the car keys?
+| {1-5-1-a-sample1_ga} | {1-5-1-a-sample1}
 
-| Tá muintir na háite sásta le *foireann na leabharlainne*.
-| The local people are happy with the library staff.
+| {1-5-1-a-sample2_ga} | {1-5-1-a-sample2}
 |===
 
 . {1-5-1-b}
@@ -848,11 +784,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Is maith leis na gasúir a bheith *ag réiteach an dinnéir*.
-| The youngsters like to be preparing dinner.
+| {1-5-1-b-sample1_ga} | {1-5-1-b-sample1}
 
-| Is í Síle atá *ag déanamh na hArdteiste* i mbliana.
-| It is Síle who is doing the Leaving Certificate this year.
+| {1-5-1-b-sample2_ga} | {1-5-1-b-sample2}
 |===
 
 . {1-5-1-c}
@@ -860,11 +794,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Bíonn an cat ina shuí ansin *os comhair na tine* gach uile oíche.
-| The cat sits in front of the fire every night.
+| {1-5-1-c-sample1_ga} | {1-5-1-c-sample1}
 
-| Ba iad na hailtirí a bhí *i mbun an scrúdaithe*.
-| The architects were attending to the test.
+| {1-5-1-c-sample2_ga} | {1-5-1-c-sample2}
 |===
 
 . {1-5-1-d}
@@ -872,11 +804,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Chuala mé go ndeachaigh sibh ar thuras *timpeall an domhain*.
-| I heard that you went on a journey around the world.
+| {1-5-1-d-sample1_ga} | {1-5-1-d-sample1}
 
-| Shiúlamar *cois na habhann*.
-| We walked beside the river.
+| {1-5-1-d-sample2_ga} | {1-5-1-d-sample2}
 |===
 
 . {1-5-1-e}
@@ -884,11 +814,9 @@
 [.samplebox]
 [cols="1,1"]
 |===
-| Tá an grúpa uile ag dul *chun na Spáinne* i mí Iúil.
-| The whole group is going to Spain in July.
+| {1-5-1-e-sample1_ga} | {1-5-1-e-sample1}
 
-| Rinne siad achomharc *chun na cúirte*.
-| They made an appeal to the court.
+| {1-5-1-e-sample2_ga} | {1-5-1-e-sample2}
 |===
 
 {1-5-1-p2}

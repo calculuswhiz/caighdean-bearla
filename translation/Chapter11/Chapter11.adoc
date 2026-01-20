@@ -38,7 +38,7 @@
 | {11-1-5-sample-2_ga} | {11-1-5-sample-2}
 |===
 
----
+'''
 
 == 11.2 {11-2-title}
 
@@ -127,7 +127,7 @@
 | -> {11-2-1-f-sample-4b_ga} | -> {11-2-1-f-sample-4b}
 |===
 
----
+'''
 
 == 11.3 {11-3-title}
 
@@ -287,7 +287,7 @@
 +
 {11-3-1-i-p2}
 
----
+'''
 
 == 11.4 {11-4-title}
 
@@ -357,7 +357,7 @@
 
 *Note:* {11-4-3-note}
 
----
+'''
 
 == 11.5 {11-5-title}
 
@@ -421,7 +421,7 @@
 
 *Note:* {11-5-2-note}
 
----
+'''
 
 == 11.6 {11-6-title}
 
@@ -571,7 +571,7 @@ h| {Table11C-header1} h| {Table11C-header2} h| {Table11C-header3}
 | {11-6-2-a-iii-sample-6_ga} | {11-6-2-a-iii-sample-6}
 |===
 
----
+'''
 
 == 11.7 {11-7-title}
 
@@ -656,7 +656,7 @@ h| {Table11C-header1} h| {Table11C-header2} h| {Table11C-header3}
 . {11-7-4-a-p}
 . {11-7-4-b-p}
 
----
+'''
 
 == 11.8 {11-8-title}
 
@@ -770,7 +770,7 @@ h| {Table11E-header1} h| {Table11E-header2} h| {Table11E-header3} h| {Table11E-h
 | trí | trínar | trínarb | trínarbh
 |===
 
----
+'''
 
 == 11.9 {11-9-title}
 

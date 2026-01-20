@@ -1386,7 +1386,7 @@ fágaimis
 </table>
 ++++
 
----
+'''
 
 == 5.3 {5-3-title}
 
@@ -1868,7 +1868,7 @@ fágaimis
 </table>
 ++++
 
----
+'''
 
 == 5.4 {5-4-title}
 
@@ -3269,7 +3269,7 @@ fágaimis
 </table>
 ++++
 
----
+'''
 
 == 5.5 {5-5-title}
 
@@ -3320,7 +3320,7 @@ fágaimis
 |{Table5Z-trait-11} | damhsa, dúchan, eisiúint, insint, tiúchan
 |===
 
----
+'''
 
 == 5.6 {5-6-title}
 
@@ -3520,7 +3520,7 @@ babhta troda
 . {5-6-2-d-p}
 . {5-6-2-e-p}
 
----
+'''
 
 == 5.7 {5-7-title}
 

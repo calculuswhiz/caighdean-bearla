@@ -19,6 +19,18 @@
 :4-2-1-p_ga: Réitíonn an aidiacht cháilíochta leis an ainmfhocal ó thaobh inscne, tuisil agus uimhreach. I gcás sraith ainmfhocal, réitíonn an aidiacht leis an ainmfhocal deiridh, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. I gcás sraith aidiachtaí i ndiaidh ainmfhocal amháin, réitíonn gach aidiacht leis an ainmfhocal, e.g., _ailt shuimiúla thábhachtacha fhada_.
 :4-2-1-p_en: The qualifying adjective agrees with the noun in gender, case and number. When there is a series of nouns, the adjective agrees with the final noun, e.g., _mná agus fir ghnaíúla_; _peann, páipéar agus bileog ghorm_. When a series of adjectives follows a single noun, every adjective agrees with the noun, e.g., _ailt shuimiúla thábhachtacha fhada_.
 
+:4-2-1-p-sample1_ga: Tháinig na mná agus na fir *ghnaíúla* isteach.
+:4-2-1-p-sample1_en: The *lovely* women and men came in.
+
+:4-2-1-p-sample2_ga: Tháinig na fir agus na mná *gnaíúla* isteach.
+:4-2-1-p-sample2_en: The *lovely* men and women came in.
+
+:4-2-1-p-sample3_ga: Bhí sciorta, cóta agus scaif *ghorm* uirthi.
+:4-2-1-p-sample3_en: She had a *blue* skirt, coat and scarf on.
+
+:4-2-1-p-sample4_ga: Tá cait *mhóra fhiáine* i ngairdín na n-ainmhithe.
+:4-2-1-p-sample4_en: There are *big, wild* cats in the zoo.
+
 :4-2-2-a-p_ga: San uimhir uatha --
 :4-2-2-a-p_en: In the singular number --
 
@@ -112,6 +124,12 @@
 :4-3-2-a-sample-row2_ga: Ginideach iolra
 :4-3-2-a-sample-row2_en: Genitive plural
 
+:4-3-2-a-sample1_ga: Is maith liom na filí *móra*. 
+:4-3-2-a-sample1_en: I like the *great* poets.
+
+:4-3-2-a-sample2_ga: Is maith liom dánta na bhfilí *móra*.
+:4-3-2-a-sample2_en: I like the *great* poems of the poets.
+
 :4-3-2-b-p_ga: más lagiolra atá ag an ainmfhocal, úsáidtear an fhoirm chéanna den aidiacht a úsáidtear sa tuiseal ainmneach uatha:
 :4-3-2-b-p_en: if the noun is a weak plural, the same form of adjective is used as is used in the nominative singular case:
 
@@ -121,11 +139,35 @@
 :4-3-2-b-sample-row2_ga: Ginideach iolra
 :4-3-2-b-sample-row2_en: Genitive plural
 
+:4-3-2-b-sample1_ga: Foilsíonn an t-údarás *áitiúil* tuarascáil gach bliain.
+:4-3-2-b-sample1_en: The *local* authority publishes a report every year.
+
+:4-3-2-b-sample2_ga: Foilsíodh tuarascálacha na n-údarás *áitiúil*.
+:4-3-2-b-sample2_en: The reports of the *local* authorities were published.
+
 :4-3-3-a-p_ga: Ní shéimhítear ná ní infhilltear aidiacht sa ghairmeach firinscneach más ainm ceana nó brí mheafarach atá i gceist.
 :4-3-3-a-p_en: An adjective in the masculine vocative is not lenited or inflected if it is a nickname or metaphorical in meaning.
 
+:4-3-3-a-p-sample1_ga: Cén chaoi a bhfuil tú, *a athair beag*?
+:4-3-3-a-p-sample1_en: How are you, *little father*?
+
+:4-3-3-a-p-sample2_ga: *A dheartháir dílis*, bhí a fhios agam go maith gur tú a bhí ann.
+:4-3-3-a-p-sample2_en: *Faithful brother*, I knew very well it was you.
+
+:4-3-3-a-p-sample3_ga: *A bhéal cumhra*, nach muid a bheidh sásta le chéile.
+:4-3-3-a-p-sample3_en: *Fragrant mouth*, we won't be happy together.
+
+:4-3-3-a-p-sample4_ga: Conas atá tú, *a mhac bán*?
+:4-3-3-a-p-sample4_en: How are you, *white son*?
+
 :4-3-3-b-p_ga: Séimhítear túslitir na haidiachta, áfach, más ainmfhocal baininscneach atá roimpi.
 :4-3-3-b-p_en: The initial letter of an adjective is lenited, however, if a feminine noun precedes it.
+
+:4-3-3-b-p-sample1_ga: Cad é mar atá tú inniu, a thaisce *mhilis*?
+:4-3-3-b-p-sample1_en: How are you today, my *sweet* treasure?
+
+:4-3-3-b-p-sample2_ga: A mháthair *bheag*, ní bheidh deireadh go deo le do chuid oibre.
+:4-3-3-b-p-sample2_en: *Little* mother, your work will never end.
 
 :4-3-4-p_ga: Ní infhilltear an aidiacht i ndiaidh ainmneacha baiste ban, e.g., _Máire Mhór_, _teach Mháire Mhór_.
 :4-3-4-p_en: The adjective following a female baptismal name is not inflected, e.g., _Máire Mhór_, _teach Mháire Mhór_.
@@ -133,11 +175,44 @@
 :4-3-5-p_ga: Ní infhilltear an aidiacht ná ní dhéantar athrú tosaigh uirthi ar lorg dobhriathra nó aidiachtaí a úsáidtear mar dhobhriathra amhail _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
 :4-3-5-p_en: The adjective is neither inflected nor does it undergo an initial mutation after adverbs or adjectives used as adjectives _cuibheasach_, _sách_, _measartha_, _réasúnta_, etc.
 
+:4-3-5-p-sample1_ga: Is bean *measartha saibhir* í.
+:4-3-5-p-sample1_en: She is a *moderately wealthy* woman.
+
+:4-3-5-p-sample2_ga: Mná *measartha saibhir* is ea iad.
+:4-3-5-p-sample2_en: They are *moderately wealthy* women.
+
+:4-3-5-p-sample3_ga: Fir *sách ard* is ea iad.
+:4-3-5-p-sample3_en: They are *quite tall* men.
+
+:4-3-5-p-sample4_ga: Páistí *réasúnta ciúin* is ea iad.
+:4-3-5-p-sample4_en: They are *relatively quiet* children.
+
+:4-3-5-p-sample5_ga: Maidin *sách fuar* a bhí ann.
+:4-3-5-p-sample5_en: It was a *rather cold* morning.
+
+:4-3-5-p-sample6_ga: Bliain *cuibheasach tirim* atá uainn.
+:4-3-5-p-sample6_en: We want a *fairly dry* year.
+
 :4-3-6-p_ga: Ní infhilltear an aidiacht ar lorg na míre treise _an-_.
 :4-3-6-p_en: The adjective is not inflected after the emphatic particle _an-_.
 
+:4-3-6-p-sample1_ga: Is daoine *an-bhreá* iad.
+:4-3-6-p-sample1_en: They are *very nice* people.
+
+:4-3-6-p-sample2_ga: Déanfar na gnéithe *an-tábhachtach* sin a mheas.
+:4-3-6-p-sample2_en: Those *very important* aspects will be considered.
+
+:4-3-6-p-sample3_ga: Ní páistí *an-chiúin* iad.
+:4-3-6-p-sample3_en: They are not *very quiet* children.
+
 :4-3-7-p_ga: Ní infhilltear an aidiacht ná ní chuirtear séimhiú uirthi más cuid de fhrása aidiachtach ilfhoclach í, e.g., _athnuachan saor in aisce_; _tuarascáil cothrom le dáta_.
 :4-3-7-p_en: The adjective is neither inflected nor lenited if it is part of a multi-word adjectival phrase, e.g., _athnuachan saor in aisce_; _tuarascáil cothrom le dáta_.
+
+:4-3-7-p-sample1_ga: Is bean *mór le rá* í i réimse na heolaíochta.
+:4-3-7-p-sample1_en: She is a *prominent* woman in the field of science.
+
+:4-3-7-p-sample2_ga: Ba é údar na tuarascála *cothrom le dáta* a thug an cur i láthair.
+:4-3-7-p-sample2_en: The author of the *up-to-date* report gave the presentation.
 
 :4-3-8-p_ga: Is faoi gach díochlaonadh ar leithligh a thugtar cur síos ar fhoirm an ghinidigh uatha.
 :4-3-8-p_en: The form of the singular genitive is described under each separate declension.
@@ -157,17 +232,56 @@
 :4-4-1-a-i-p_ga: Más consan leathan is críoch don aidiacht, caolaítear an consan mar a dhéantar le hainmfhocail sa Chéad Díochlaonadh (féach 2.2.2).
 :4-4-1-a-i-p_en: If the adjective ends with a broad consonant, the consonant is narrowed as it would be done with a noun in the First Declension (see 2.2.2).
 
+:4-4-1-a-i-p-sample1_ga: Cár fhág sé hata an fhir *mhóir*?
+:4-4-1-a-i-p-sample1_en: Where did he leave the *big* man's hat?
+
+:4-4-1-a-i-p-sample2_ga: Caithfear coinníollacha an chonartha *bhuain* a léamh go cúramach.
+:4-4-1-a-i-p-sample2_en: The terms of the *permanent* contract must be read carefully.
+
+:4-4-1-a-i-p-sample3_ga: Léigh sé leabhar an imreora *chlúitigh* nuair a foilsíodh é.
+:4-4-1-a-i-p-sample3_en: He read the *renowned* player's book when it was published.
+
 :4-4-1-a-ii-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar _-ch(t)_ (ach amháin _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
 :4-4-1-a-ii-p_en: Inflection is not done in the genitive singular masculine on monosyllabic adjectives ending in _-ch(t)_ (except _bocht_), e.g., _beacht_, _caoch_, _déach_, _fliuch_, _lách_, _moch_, _nocht_.
+
+:4-4-1-a-ii-p-sample1_ga: Bhí orthu an fhéile a chur ar siúl ag deireadh an tsamhraidh *fhliuch*.
+:4-4-1-a-ii-p-sample1_en: They had to hold the festival at the end of the *wet* summer.
+
+:4-4-1-a-ii-p-sample2_ga: Tá na páistí i rang an mhúinteora *bheacht* i mbliana.
+:4-4-1-a-ii-p-sample2_en: The children are in the teacher's class *exactly* this year.
+
+:4-4-1-a-ii-p-sample3_ga: Goideadh ba an fheirmeora *bhoicht*.
+:4-4-1-a-ii-p-sample3_en: The *poor* farmer's cows were stolen.
 
 :4-4-1-a-iii-p_ga: Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
 :4-4-1-a-iii-p_en: If a narrow consonant or _-íoch_ is the ending of the adjective, it is not inflected.
 
+:4-4-1-a-iii-p-sample1_ga: Ba mhaith liom labhairt le tuismitheoirí an bhuachalla *chiúin*.
+:4-4-1-a-iii-p-sample1_en: I would like to speak to the parents of the *quiet* boy.
+
+:4-4-1-a-iii-p-sample2_ga: Bhí gach duine i bhfabhar an fheachtais *thionsclaíoch*.
+:4-4-1-a-iii-p-sample2_en: Everyone was in favor of the *industrial* campaign.
+
 :4-4-1-a-iv-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar aidiachtaí aonsiollacha a chríochnaíonn ar chonsan dúbailte (ach amháin _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
 :4-4-1-a-iv-p_en: Inflection is not done in the genitive singular masculine on monosyllabic adjectives ending in double consonants (except _dall_, _donn_, _fionn_), e.g., _cearr_, _corr_, _gann_, _gearr_, _mall_, _teann_, _toll_.
 
+:4-4-1-a-iv-p-sample1_ga: Tá praghas an bhia *ghann* ag ardú gach lá.
+:4-4-1-a-iv-p-sample1_en: The price of *scarce* food is rising every day.
+
+:4-4-1-a-iv-p-sample2_ga: Chuir costas an turais *ghearr* iontas orthu.
+:4-4-1-a-iv-p-sample2_en: The cost of the *short* trip surprised them.
+
+:4-4-1-a-iv-p-sample3_ga: Bhí boladh an aráin *dhoinn* ar fud an tí.
+:4-4-1-a-iv-p-sample3_en: The smell of *brown* bread was all over the house.
+
 :4-4-1-a-v-p_ga: Ní dhéantar infhilleadh sa ghinideach uatha firinscneach ar na haidiachtaí aonsiollacha seo a leanas: _amh_, _cúng_, _deas_ (sa bhrí _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
 :4-4-1-a-v-p_en: Inflection is not done in the genitive singular masculine in these following monosyllabic adjectives: _amh_, _cúng_, _deas_ (meaning _cineálta_), _leamh_, _mear_, _seang_, _searbh_, _tearc_, _tiubh_, _trom_, _tur_.
+
+:4-4-1-a-v-p-sample1_ga: Chuir sí ola ar dhoras an bhealaigh *chúng*.
+:4-4-1-a-v-p-sample1_en: She put oil on the door of the *narrow* way.
+
+:4-4-1-a-v-p-sample2_ga: Labhair mé le húinéir an chapaill *mhear*.
+:4-4-1-a-v-p-sample2_en: I spoke to the owner of the *fast* horse.
 
 :4-4-1-b-title_ga: Baininscneach
 :4-4-1-b-title_en: Feminine
@@ -175,11 +289,29 @@
 :4-4-1-b-i-p_ga: Cuirtear _-e_ leis an gconsan deiridh, agus caolaítear é más leathan dó, e.g., _gorm_, _goirme_; _maith_, _maithe_ mar a dhéantar le hainmfhocail sa Dara Díochlaonadh (féach 2.3.2).
 :4-4-1-b-i-p_en: _-e_ is put with the final consonant, and it is narrowed if broad, e.g., _gorm_, _goirme_; _maith_, _maithe_ as would be done with nouns in the Second Declension (see 2.3.2).
 
+:4-4-1-b-i-p-sample1_ga: Féach ar áilleacht na spéire *goirme*.
+:4-4-1-b-i-p-sample1_en: Look at the beauty of the *blue* sky.
+
+:4-4-1-b-i-p-sample2_ga: Cé hé údar na tuarascála *maithe*?
+:4-4-1-b-i-p-sample2_en: Who is the author of the *good* report?
+
 :4-4-1-b-ii-p_ga: I gcás aidiachtaí a chríochnaíonn ar _-(e)ach_, cuirtear _-(a)í_ in ionad _-(e)ach_, e.g., _isteach_, _aistí_; _iontach_, _iontaí_; mar a dhéantar le hainmfhocail sa Dara Díochlaonadh (féach 2.3.2).
 :4-4-1-b-ii-p_en: When adjectives end with _-(e)ach_, _-(a)í_ replaces _-(e)ach_, e.g., _isteach_, _aistí_; _iontach_, _iontaí_; as would be done with nouns in the Second Declension (see 2.3.2).
 
+:4-4-1-b-ii-p-sample1_ga: Tá guth na caillí *aistí* le cloisteáil ar an taifead.
+:4-4-1-b-ii-p-sample1_en: The voice of the *peculiar* old woman can be heard on the record.
+
+:4-4-1-b-ii-p-sample2_ga: Thaitin téama na haiste *iontaí* liom.
+:4-4-1-b-ii-p-sample2_en: I liked the theme of the *wonderful* composition.
+
 :4-4-1-b-iii-p_ga: I gcás aidiachtaí a chríochnaíonn ar _-íoch_, athraítear _-íoch_ go _-íche_, e.g., _eacnamaíoch_, _eacnamaíche_.
 :4-4-1-b-iii-p_en: When adjectives end with _-íoch_, _-íoch_ is changed to _-íche_, e.g., _eacnamaíoch_, _eacnamaíche_.
+
+:4-4-1-b-iii-p-sample1_ga: Cathain a bhraithfimid deireadh na géarchéime *eacnamaíche*?
+:4-4-1-b-iii-p-sample1_en: When will we feel the end of the *economic* crisis?
+
+:4-4-1-b-iii-p-sample2_ga: Is maith an rud é fás na hearnála *tionsclaíche*.
+:4-4-1-b-iii-p-sample2_en: The growth of the *industrial* sector is a good thing.
 
 :4-4-1-b-iv-p_ga: Féach Caibidil 2 don chur síos cuimsitheach ar athrú gutaí.
 :4-4-1-b-iv-p_en: See Chapter 2 for a comprehensive description of vowel changes.
@@ -195,6 +327,15 @@
 
 :4-4-3-p_ga: Cuirtear _-a_ leis na haidiachtaí a chríochnaíonn ar chonsan leathan agus _-e_ leis na haidiachtaí a chríochnaíonn ar chonsan caol agus coimrítear aidiachtaí áirithe (ach féach lagiolraí sa ghinideach iolra, 4.3.2(b)).
 :4-4-3-p_en: _-a_ is added to adjectives ending in a broad consonant and _-e_ to adjectives ending in a narrow consonant and some adjectives are syncopated (but see weak plurals in the genitive plural, 4.3.2(b)).
+
+:4-4-3-p-sample1_ga: Cá bhfuil na peileadóirí *clúiteacha*?
+:4-4-3-p-sample1_en: Where are the *famous* footballers?
+
+:4-4-3-p-sample2_ga: Foilseofar na haistí *maithe* san iris bhliantúil.
+:4-4-3-p-sample2_en: The *good* essays will be published in the annual magazine.
+
+:4-4-3-p-sample3_ga: Bhí na daoine *uaisle* i láthair inné.
+:4-4-3-p-sample3_en: The *noble* persons were present yesterday.
 
 :4-4-4-title_ga: Coimriú san Uatha agus san Iolra
 :4-4-4-title_en: Syncopation in the Singular and in the Plural
@@ -229,8 +370,20 @@
 :4-5-1-a-p_ga: Ní théann aon infhilleadh ar aidiachtaí an díochlaonta seo.
 :4-5-1-a-p_en: Adjectives of this declension do not undergo any inflection.
 
+:4-5-1-a-p-sample1_ga: Cá bhfuil athair an fhir *chóir*?
+:4-5-1-a-p-sample1_en: Where is the father of the *just* man?
+
+:4-5-1-a-p-sample2_ga: Léigh mé tús an leabhair *shuimiúil*.
+:4-5-1-a-p-sample2_en: I read the start of the *interesting* book.
+
 :4-5-1-b-p_ga: Leathnaítear an consan deiridh agus cuirtear _-a_ leis.
 :4-5-1-b-p_en: The final consonant is broadened and _-a_ is added.
+
+:4-5-1-b-p-sample1_ga: Cá bhfuil athair na mná *cáiliúla*?
+:4-5-1-b-p-sample1_en: Where is the father of the *famous* woman?
+
+:4-5-1-b-p-sample2_ga: Léigh mé tús na haiste *deacra*.
+:4-5-1-b-p-sample2_en: I read the start of the *difficult* essay.
 
 :nopass-4-5-1-b-title_ga: {Feminine}
 :nopass-4-5-1-b-title_en: {Feminine}
@@ -240,6 +393,12 @@
 
 :4-5-2-a-p_ga: Leathnaítear an consan deiridh agus cuirtear _-a_ leis mar a dhéantar sa ghinideach uatha baininscneach (ach féach lagiolraí sa ghinideach iolra, 4.3.2(b)).
 :4-5-2-a-p_en: The final consonant is broadened and _-a_ is added as in the feminine genitive singular (but see genitive plurals, 4.3.2(b)).
+
+:4-5-2-a-p-sample1_ga: Cá bhfuil na fir *cháiliúla* agus na mná *dathúla*?
+:4-5-2-a-p-sample1_en: Where are the *famous* men and the *beautiful* women?
+
+:4-5-2-a-p-sample2_ga: Léigh mé na dánta *suimiúla* inné.
+:4-5-2-a-p-sample2_en: I read the *interesting* poems yesterday.
 
 :4-5-2-b-p_ga: Coimrítear _deacair_, _deacra_; _socair_, _socra_ sa ghinideach uatha agus san uimhir iolra.
 :4-5-2-b-p_en: _deacair_, _deacra_; _socair_, _socra_ are syncopated in the genitive singular and in the plural number.
@@ -261,6 +420,15 @@
 
 :4-6-2-sample-row3_ga: Ainmneach iolra
 :4-6-2-sample-row3_en: Nominative plural
+
+:4-6-2-sample1_ga: Tine *bhreá the* a bhí ann.
+:4-6-2-sample1_en: It was a *lovely, hot* fire.
+
+:4-6-2-sample2_ga: Dath na tine *breátha te*.
+:4-6-2-sample2_en: The color of the *lovely, hot* fire.
+
+:4-6-2-sample3_ga: Lasadh na tinte *breátha teo*.
+:4-6-2-sample3_en: The *lovely, hot* fires were lit.
 
 :4-7-title_ga: Achoimre ar Dhíochlaontaí na nAidiachtaí
 :4-7-title_en: Summary of the Adjectives' Declensions
@@ -324,11 +492,38 @@
 :4-8-1-a-p_ga: Is gnách gurb ionann foirm do bhreischéim agus do shárchéim aidiachta agus don ghinideach uatha baininscneach, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _deacair_, _deacra_; _díreach_, _dírí_.
 :4-8-1-a-p_en: The form of the comparative degree and superlative forms of adjectives is usually the same as the feminine genitive singular, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _diacair_, _diacra_; _diríct_, _diríct_.
 
+:4-8-1-a-p-sample1_ga: Faigh an luach is *airde* air.
+:4-8-1-a-p-sample1_en: Get the **high**est value on it.
+
+:4-8-1-a-p-sample2_ga: Is í Ciara an cailín is *dathúla* sa rang.
+:4-8-1-a-p-sample2_en: Ciara is the most *beautiful* girl in the class.
+
+:4-8-1-a-p-sample3_ga: An rud is *deacra* faoin bhfilíocht, a léamh mar is cóir.
+:4-8-1-a-p-sample3_en: The **hard**est thing about poetry is reading it properly.
+
 :4-8-1-b-p_ga: Is ionann freisin foirm do bhreischéim agus do shárchéim aidiachta agus don ghinideach uatha baininscneach i gcás aidiachtaí a chríochnaíonn ar _-íoch_, e.g., _buíoch_, _buíche_; _débhríoch_, _débhríche_; _imníoch_, _imníche_; _impíoch_, _impíche_; _taithíoch_, _taithíche_; _uathoibríoch_, _uathoibríche_.
 :4-8-1-b-p_en: The form for the comparative degree and superlative forms of adjectives is also the same as for the feminine genitive singular for adjectives ending in _-íoch_, e.g., _buíoch_, _buíche_; _débhríoch_, _débhríche_; _imníoch_, _imníche_; _impíoch_, _impíche_; _taithíoch_, _taithíche_; _uathoibríoch_, _uathoibríche_.
 
+:4-8-1-b-p-sample1_ga: Is iadsan na daoine is *imníche* sa tír.
+:4-8-1-b-p-sample1_en: They are the most *concerned* people in the country.
+
+:4-8-1-b-p-sample2_ga: Is eisean is *taithíche* ar an obair seo.
+:4-8-1-b-p-sample2_en: He is the most *experienced* at this work.
+
+:4-8-1-b-p-sample3_ga: Cuirfear an córas is *uathoibríche* i bhfeidhm.
+:4-8-1-b-p-sample3_en: The most *automated* system will be put in place.
+
 :4-8-2-p_ga: Tá foirmeacha neamhrialta ar roinnt aidiachtaí, e.g., _eag_, _lú_; _dócha_, _dóichí_; _fada_, _faide (sia)_; _fogas_, _foisce_; _furasta_, _fusa_; _gearr_, _giorra_; _iomaí_, _lia_; _maith_, _fearr_; _mór_, _mó_; _olc_, _measa_; _te_, _teo_.
 :4-8-2-p_en: Some adjectives have irregular forms, e.g., _eag_, _lú_; _dócha_, _dóichí_; _fada_, _faide (sia)_; _fogas_, _foisce_; _furasta_, _fusa_; _gearr_, _giorra_; _iomaí_, _lia_; _maith_, _fearr_; _mór_, _mó_; _olc_, _measa_; _te_, _teo_.
+
+:4-8-2-p-sample1_ga: Is é Rónán an duine is *fearr* sa rang.
+:4-8-2-p-sample1_en: Rónán is the *best* person in the class.
+
+:4-8-2-p-sample2_ga: Is í an chuimhne is *faide* (is *sia*) siar i mo cheann í.
+:4-8-2-p-sample2_en: It is the **long**est memory (**earli**est) in my head.
+
+:4-8-2-p-sample3_ga: Cé acu ceann is *mó*?
+:4-8-2-p-sample3_en: Which one is **big**gest?
 
 :4-8-3-title_ga: Foirmeacha ar lorg _dá_ agus _a_
 :4-8-3-title_en: Forms following _dá_ and _a_
@@ -342,6 +537,24 @@
 :4-8-3-c-p_ga: Úsáidtear _méid_ seachas _méad_ i gcásanna áirithe, e.g., _dá mhéad airgead a bhí aici_ ach _a mhéid is indéanta le réasún_; _a mhéid is gá_.
 :4-8-3-c-p_en: _méid_ is used instead of _méad_ in certain cases, e.g., _dá mhéad airgead a bhí aici_ but _a mhéid is indéanta le réasún_; _a mhéid is gá_.
 
+:4-8-3-c-p-sample1_ga: B'aoibhinn liom *a áille* (a bhinne, a chruinne, a líofa, a réidhe, a shoiléire) a labhair sí.
+:4-8-3-c-p-sample1_en: I loved how *beautifully* (how sweetly, how accurately, how fluently, how smoothly, how clearly) she spoke.
+
+:4-8-3-c-p-sample2_ga: Ní chreidfeá *a achrannaí* (a dhonacht, a olcas, a shleamhaine, a uaigní) a bhí an áit.
+:4-8-3-c-p-sample2_en: You wouldn't believe how *difficult* (how wretched, how bad, how slippery, how lonely) the place was.
+
+:4-8-3-c-p-sample3_ga: Fuair sé ardmholadh *trína fheabhas* a rinne sé an obair.
+:4-8-3-c-p-sample3_en: He received high praise *because of how well* he did the job.
+
+:4-8-3-c-p-sample4_ga: *Dá chríonna* (dá chróga, dá fheabhas, dá ghlice, dá oilte) é, níor éirigh an gnó leis.
+:4-8-3-c-p-sample4_en: *However wise* (how brave, how good, how clever, how skilled) he was, the business didn't work out for him.
+
+:4-8-3-c-p-sample5_ga: *Dá dhonacht* (dá ghránna, dá leisciúla, dá olcas, dá shuaraí) é, caithfear glacadh leis.
+:4-8-3-c-p-sample5_en: *However bad* (how ugly, how lazy, how bad, how annoying) he was, you have to accept it.
+
+:4-8-3-c-p-sample6_ga: *Dá mhéad* dúil a bhí aici ann, níor cheannaigh sí sa deireadh é.
+:4-8-3-c-p-sample6_en: *However much* she wanted him, she didn't buy him in the end.
+
 :4-9-title_ga: An Aidiacht Shealbhach
 :4-9-title_en: The Possessive Adjective
 
@@ -354,11 +567,47 @@
 :4-10-p_ga: Is iad _seo_, _sin_, _siúd_ agus _úd_ na haidiachtaí taispeántacha. (Cé gur forainmnigh thaispeántacha iad _seo_, _sin_ agus _siúd_, is minic a dhéantar tagairt dóibh mar aidiachtaí taispeántacha.)
 :4-10-p_en: The demonstrative adjectives are _seo_, _sin_, _siúd_ and _úd_. (Although _seo_, _sin_ and _siúd_ are demonstrative pronominals, they are often referred to as demonstrative adjectives.)
 
+:4-10-p-sample1_ga: Tá an fear *seo* tinn.
+:4-10-p-sample1_en: *This* man is sick.
+
+:4-10-p-sample2_ga: Beidh an buachaill *seo* ag teacht liom.
+:4-10-p-sample2_en: *This* boy will be coming with me.
+
+:4-10-p-sample3_ga: Is liomsa iad *seo*.
+:4-10-p-sample3_en: *These* are with me.
+
+:4-10-p-sample4_ga: Níl an doras *sin* dúnta.
+:4-10-p-sample4_en: *That* door is not closed.
+
+:4-10-p-sample5_ga: Síle is ainm don chailín *sin*.
+:4-10-p-sample5_en: *That* girl's name is Síle.
+
+:4-10-p-sample6_ga: Díoladh a theach *siúd* inné.
+:4-10-p-sample6_en: *That* house was sold yesterday.
+
+:4-10-p-sample7_ga: Is aige *siúd* a bhí an t-airgead.
+:4-10-p-sample7_en: He was *the one* that had the money.
+
+:4-10-p-sample8_ga: An bhfeiceann tú an pháirc *úd* thall?
+:4-10-p-sample8_en: Do you see *that* field over there?
+
 :4-11-title_ga: An Aidiacht Fhaisnéiseach
 :4-11-title_en: The Predicative Adjective
 
 :4-11-p_ga: Is aidiacht fhaisnéiseach aidiacht atá ag cáiliú an ainmní mar fhaisnéis nó mar chuid den fhaisnéis, e.g., _Nach deas é?_; _Tá an aimsir fuar_. Ní dhéantar an aidiacht fhaisnéiseach a infhilleadh ná ní chuirtear séimhiú uirthi.
 :4-11-p_en: An predicative adjective is an adjective that qualifies the noun as predicate or as part of a predicate, e.g., _Nach deas é?_; _Tá an aimsir fuar_. The predicative adjective is not inflected or lenited.
+
+:4-11-p-sample1_ga: Bhí an traein *folamh*.
+:4-11-p-sample1_en: The train was *empty*.
+
+:4-11-p-sample2_ga: Bíonn na busanna *déanach*.
+:4-11-p-sample2_en: The buses are usually *late*.
+
+:4-11-p-sample3_ga: An bhfuil an bhean sin *saibhir*?
+:4-11-p-sample3_en: Is that woman *rich*?
+
+:4-11-p-sample4_ga: Beidh an bhainis sin *mór*.
+:4-11-p-sample4_en: That wedding will be *big*.
 
 :4-12-title_ga: An Aidiacht Bhriathartha
 :4-12-title_en: The Verbal Adjective
