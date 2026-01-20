@@ -17,6 +17,7 @@
 
 {sec1-p8}
 
+[list-[arabic]]
 1. {sec1-li-1-p}
 2. {sec1-li-2-p}
 3. {sec1-li-3-p}

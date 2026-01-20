@@ -6,7 +6,7 @@
   }
 
   p {
-    @apply mb-2 leading-relaxed;
+    @apply my-2 leading-relaxed;
   }
 
   em {
@@ -78,7 +78,7 @@
   }
 
   .samplebox td {
-    @apply bg-gray-100 p-1;
+    @apply bg-gray-200 p-1;
   }
 
   /* Asciidoctor hack: CSS application on refresh is inconsistent.

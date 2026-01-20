@@ -430,8 +430,8 @@
 :1-5-title_ga: An Tuiseal Ginideach Uatha
 :1-5-title_en: The Genitive Singular Case
 
-:1-5-1-p1_ga: Is gnách foirm an ghinidigh a úsáid i gcás go bhfuil an t-ainmfhocal faoi réir ag ceann de na nithe seo a leanas--
-:1-5-1-p1_en: It is customary to use the genitive form when the noun is governed by the following things--
+:1-5-1-p1_ga: Is gnách foirm an ghinidigh a úsáid i gcás go bhfuil an t-ainmfhocal faoi réir ag ceann de na nithe seo a leanas --
+:1-5-1-p1_en: It is customary to use the genitive form when the noun is governed by the following things --
 
 :1-5-1-a_ga: ainmfhocal eile:
 :1-5-1-a_en: other nouns:
