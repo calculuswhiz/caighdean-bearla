@@ -123,14 +123,12 @@ async function generateDoc(chapterFolder) {
   const chapterTemplate = await fs.readFile(`./entrypoints/chapterTemplate.html`, "utf-8");
 
   const finalTranslatedHtml = chapterTemplate
-    .replace("<!-- Insert content here -->", translationHtml)
-    .replace("<!-- Insert title here -->", chapterFolder);
+    .replace("<!-- Insert content here -->", translationHtml);
   const finalOriginalIrishHtml = chapterTemplate
-    .replace("<!-- Insert content here -->", originalIrishHtml)
-    .replace("<!-- Insert title here -->", chapterFolder);
+    .replace("<!-- Insert content here -->", originalIrishHtml);
 
-  await fs.writeFile(`./entrypoints/${chapterFolder}.html`, finalTranslatedHtml, "utf-8");
-  await fs.writeFile(`./entrypoints/${chapterFolder}-ga.html`, finalOriginalIrishHtml, "utf-8");
+  await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}.html`, finalTranslatedHtml, "utf-8");
+  await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-ga.html`, finalOriginalIrishHtml, "utf-8");
 }
 
 (async () => {

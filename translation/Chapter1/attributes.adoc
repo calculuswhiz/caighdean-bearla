@@ -110,7 +110,7 @@
 :1-1-5-f-sample2_en: Easter is in *March* rather than *April* this year.
 
 :1-1-5-f-p2_ga: Úsáidtear an t-alt leis na míonna _Márta_, _Bealtaine_, _Meitheamh_, _Samhain_ agus _Nollaig_. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha _san Aibreán_.
-:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) agus _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)
+:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)
 
 :1-1-5-g-p1_ga: Dátaí
 :1-1-5-g-p1_en: Dates

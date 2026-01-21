@@ -49,13 +49,13 @@
 [.chapter-9]
 [cols="1,5"]
 [options="header"]
-.*{Table} 9A* {TheBareNumbers} 0-19
+.*{Table} 9A* {TheBareNumbers} 0&ndash;19
 |===
-2+h| {TheBareNumbers} 0-19
+2+h| {TheBareNumbers} 0&ndash;19
 
-h| 0-10 | náid/neamhní, a haon, a dó, a trí, a ceathair, a cúig, a sé, a seacht, a hocht, a naoi, a deich
+h| 0&ndash;10 | náid/neamhní, a haon, a dó, a trí, a ceathair, a cúig, a sé, a seacht, a hocht, a naoi, a deich
 
-h| 11-19 | a haon déag, a dó dhéag, a trí déag, a ceathair déag, a cúig déag, a sé déag, a seacht déag, a hocht déag, a naoi déag
+h| 11&ndash;19 | a haon déag, a dó dhéag, a trí déag, a ceathair déag, a cúig déag, a sé déag, a seacht déag, a hocht déag, a naoi déag
 
 |===
 
@@ -66,21 +66,21 @@ h| 11-19 | a haon déag, a dó dhéag, a trí déag, a ceathair déag, a cúig d
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9B* {TheBareNumbers} 20-99
+.*{Table} 9B* {TheBareNumbers} 20&ndash;99
 |===
-4+h| {TheBareNumbers} 20-99
+4+h| {TheBareNumbers} 20&ndash;99
 
-h| 20-29 | fiche, fiche a haon, fiche a dó, fiche a trí, fiche a ceathair, fiche a cúig, fiche a sé, fiche a seacht, fiche a hocht, fiche a naoi
-h| 60-69 | seasca, seasca a haon, seasca a dó, seasca a trí, seasca a ceathair, seasca a cúig, seasca a sé ...
+h| 20&ndash;29 | fiche, fiche a haon, fiche a dó, fiche a trí, fiche a ceathair, fiche a cúig, fiche a sé, fiche a seacht, fiche a hocht, fiche a naoi
+h| 60&ndash;69 | seasca, seasca a haon, seasca a dó, seasca a trí, seasca a ceathair, seasca a cúig, seasca a sé ...
 
-h| 30-39 | tríocha, ... tríocha a ceathair, tríocha a cúig, tríocha a sé ...
-h| 70-79 | seachtó, ... seachtó a seacht, seachtó a hocht, seachtó a naoi
+h| 30&ndash;39 | tríocha, ... tríocha a ceathair, tríocha a cúig, tríocha a sé ...
+h| 70&ndash;79 | seachtó, ... seachtó a seacht, seachtó a hocht, seachtó a naoi
 
-h| 40-49 | daichead/ceathracha, daichead a seacht/ceachreacha a seacht, daichead a hocht/ceathracha a hocht, daichead a naoi/ceathracha a naoi
-h| 80-89 | ochtó, ochtó a haon, ochtó a dó, ochtó a trí ...
+h| 40&ndash;49 | daichead/ceathracha, daichead a seacht/ceachreacha a seacht, daichead a hocht/ceathracha a hocht, daichead a naoi/ceathracha a naoi
+h| 80&ndash;89 | ochtó, ochtó a haon, ochtó a dó, ochtó a trí ...
 
-h| 50-59 | caoga, caoga a haon, caoga a dó, caoga a trí...
-h| 90-99 | nócha, nócha a ceathair, nócha a cúig, nócha a sé ...
+h| 50&ndash;59 | caoga, caoga a haon, caoga a dó, caoga a trí...
+h| 90&ndash;99 | nócha, nócha a ceathair, nócha a cúig, nócha a sé ...
 
 |===
 
@@ -114,9 +114,9 @@ h| 17,000,000,000 | seacht mbilliún déag
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9D* {TheBareNumbers} 100-9,999
+.*{Table} 9D* {TheBareNumbers} 100&ndash;9,999
 |===
-4+h| {TheBareNumbers} 100-9,999
+4+h| {TheBareNumbers} 100&ndash;9,999
 
 h| 103 | céad trí
 h| 1,001 | míle a haon
@@ -257,9 +257,9 @@ h| 9,999 | naoi míle, naoi gcéad nócha a naoi
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9F* {TheCardinalNumbers} 1-19
+.*{Table} 9F* {TheCardinalNumbers} 1&ndash;19
 |===
-4+h| {TheCardinalNumbers} 1-19
+4+h| {TheCardinalNumbers} 1&ndash;19
 
 h| 1 | bád/bád amháin/aon bhád amháin +
 ábhar/ábhar amháin/aon ábhar amháin
@@ -321,7 +321,7 @@ deich n-oíche
 [options="header"]
 .*{Table} 9G* {Table9G-caption}
 |===
-h| h| 2 h| 3-6 h| 7-10
+h| h| 2 h| 3&ndash;6 h| 7&ndash;10
 
 h| bliain | bhliain | bliana | mbliana
 h| seachtain | sheachtain | seachtaine | seachtaine
@@ -1091,9 +1091,9 @@ h| 12
 [.chapter-9]
 [cols="1,2,1,2,1,2,1,2"]
 [options="header"]
-.*{Table} 9V* {TheOrdinalNumbers} 1-100
+.*{Table} 9V* {TheOrdinalNumbers} 1&ndash;100
 |===
-8+h| {TheOrdinalNumbers} 1-100
+8+h| {TheOrdinalNumbers} 1&ndash;100
 
 h| 1ú | an chéad fhear
 h| 11ú | an t-aonú bean déag
@@ -1444,7 +1444,7 @@ h| 81/84
 .*{Table} 9EE* {Table9EECaption}
 |===
 
-h| 0-19 h| {TheNominativeCase} h| {TheGenitiveCase} h| {Tabel9EE-col4}
+h| 0&ndash;19 h| {TheNominativeCase} h| {TheGenitiveCase} h| {Tabel9EE-col4}
 
 h| {Table9EE-Row1} 
 a| . aon bhileog ghlan amháin
