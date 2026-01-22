@@ -568,6 +568,15 @@
 :3-3-4-a-p2_ga: *Ach*, déantar athrú an ghinidigh ar an ainmfhocal nuair a úsáidtear mar ainmfhocal éiginnte é.
 :3-3-4-a-p2_en: *But*, the genitive case of a noun is changed when it is used as an indefinite noun.
 
+:3-3-4-a-p2-sample1_ga: Tá sé ag *tabhairt léime*.
+:3-3-4-a-p2-sample1_en: He is *taking a jump*.
+
+:3-3-4-a-p2-sample2_ga: Bíonn an fhoireann *ag imirt iomána* gach deireadh seachtaine.
+:3-3-4-a-p2-sample2_en: The team is *playing hurling* every weekend.
+
+:3-3-4-a-p2-sample3_ga: Bíonn siad amuigh istoíche *ag iarraidh troda* (_sa bhrí_ ag lorg troda).
+:3-3-4-a-p2-sample3_en: They are out in the open *seeking a fight* (_meaning_ looking for a fight).
+
 :3-3-4-b-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach 5.6.1(a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
 :3-3-4-b-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see 5.6.1(a)), and if it is the direct object of a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_), the genitive is not changed.
 

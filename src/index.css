@@ -54,6 +54,14 @@
     @apply align-top;
   }
 
+  thead th {
+    @apply text-center;
+  }
+
+  tbody th {
+    @apply text-left;
+  }
+
   th,
   td {
     @apply border-2 border-white p-1;
