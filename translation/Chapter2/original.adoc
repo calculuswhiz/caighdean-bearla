@@ -42,14 +42,24 @@
   <caption>
     <strong>{Table} 2A</strong> {Table2A-Title}
   </caption>
+  <colgroup>
+    <col class="w-1/3">
+    <col class="w-1/6">
+    <col class="w-1/6">
+    <col class="w-1/6">
+    <col class="w-1/6">
+  </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2A-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th colspan=2>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2A-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th colspan=2 class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th> <th>{Genitive}</th> <th>{Nominative}</th> <th>{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
@@ -109,28 +119,28 @@
 
 [subs=attributes,replacements]
 ++++
-<table class="chapter-2">
+<table class="chapter-2 w-1/2">
   <caption>
     <strong>{Table} 2B</strong> {Table2B-Title}
   </caption>
   <thead>
     <tr>
-      <th colspan=3>{declension-1}</th>
+      <th colspan=3 class="text-center">{declension-1}</th>
     </tr>
     <tr>
-      <th></th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th class="bg-orange-600 text-white"></th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>{Singular}</th>
+      <th class="bg-orange-600 text-white">{Singular}</th>
       <td>fear</td>
       <td>fir</td>
     </tr>
     <tr>
-      <th>{Plural}</th>
+      <th class="bg-orange-600 text-white">{Plural}</th>
       <td>fir</td>
       <td>fear</td>
     </tr>
@@ -143,28 +153,28 @@
 
 [subs=attributes,replacements]
 ++++
-<table class="chapter-2">
+<table class="chapter-2 w-1/2">
   <caption>
     <strong>{Table} 2C</strong> {Table2C-Title}
   </caption>
   <thead>
     <tr>
-      <th colspan=3>{declension-2}</th>
+      <th colspan=3 class="text-center">{declension-2}</th>
     </tr>
     <tr>
-      <th></th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th class="bg-orange-600 text-white"></th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th>{Singular}</th>
+      <th class="bg-orange-600 text-white">{Singular}</th>
       <td>fuinneog</td>
       <td>fuinneoige</td>
     </tr>
     <tr>
-      <th>{Plural}</th>
+      <th class="bg-orange-600 text-white">{Plural}</th>
       <td>fuinneoga</td>
       <td>fuinneog</td>
     </tr>
@@ -183,44 +193,54 @@
   <caption>
     <strong>{Table} 2D</strong> {Table2D-Title}
   </caption>
+  <colgroup>
+    <col class="w-1/3">
+    <col class="w-1/6">
+    <col class="w-1/6">
+    <col class="w-1/6">
+    <col class="w-1/6">
+  </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2A-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th colspan=2>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2A-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th colspan=2 class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th> <th>{Genitive}</th> <th>{Nominative}</th> <th>{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th class="bg-stone-300" rowspan=2>{declension-2}</th>
+      <th class="bg-stone-300 text-left" rowspan=2>{declension-2}</th>
       <td>ealaín</td> <td>ealaíne</td> <td>ealaíona</td> <td>ealaíon</td>
     </tr>
     <tr>
       <td>súil</td> <td>súile</td> <td>súile</td> <td>súl</td>
     </tr>
     <tr>
-      <th class="bg-stone-300">{declension-3}</th>
+      <th class="bg-stone-300 text-left">{declension-3}</th>
       <td>mionn</td> <td>mionna</td> <td>mionnaí</td> <td>mionn</td>
     </tr>
     <tr>
-      <th class="bg-stone-300" rowspan=2>{declension-4}</th>
+      <th class="bg-stone-300 text-left" rowspan=2>{declension-4}</th>
       <td>bó</td> <td>bó</td> <td>ba</td> <td>bó</td>
     </tr>
     <tr>
       <td>grásta</td> <td>grásta</td> <td>grásta</td> <td>grást</td>
     </tr>
     <tr>
-      <th class="bg-stone-300" rowspan=2>{declension-5}</th>
+      <th class="bg-stone-300 text-left" rowspan=2>{declension-5}</th>
       <td>caora</td> <td>caorach</td> <td>caoirigh</td> <td>caorach</td>
     </tr>
     <tr>
       <td>lacha</td> <td>lachan</td> <td>lachain</td> <td>lachan</td>
     </tr>
     <tr>
-      <th class="bg-stone-300" rowspan=2>{Table2A-Irregular}</th>
+      <th class="bg-stone-300 text-left" rowspan=2>{Table2A-Irregular}</th>
       <td>bean</td> <td>mná</td> <td>mná</td> <td>ban</td>
     </tr>
     <tr>
@@ -270,9 +290,10 @@
 . {2-1-7-f}
 
 ==== **{Note}**
-. - {2-1-7-notes-1}
-. - {2-1-7-notes-2}
-. - {2-1-7-notes-3}
+[list-[disc]]
+. {2-1-7-notes-1}
+. {2-1-7-notes-2}
+. {2-1-7-notes-3}
 
 === 2.1.8 {2-1-8-title}
 
@@ -286,6 +307,12 @@
     <tr>
       <td>
         <table class="chapter-2">
+          <colgroup>
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+          </colgroup>
           <thead>
             <tr>
               <th colspan=5>{declension-1}</th>
@@ -316,6 +343,12 @@
     <tr>
       <td>
         <table class="chapter-2">
+          <colgroup>
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+          </colgroup>
           <thead>
             <tr>
               <th colspan=5>{declension-2}</th>
@@ -346,6 +379,12 @@
     <tr>
       <td>
         <table class="chapter-2">
+          <colgroup>
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+          </colgroup>
           <thead>
             <tr>
               <th colspan=5>{declension-3}</th>
@@ -372,6 +411,12 @@
     <tr>
       <td>
         <table class="chapter-2">
+          <colgroup>
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+          </colgroup>
           <thead>
             <tr>
               <th colspan=5>{declension-4}</th>
@@ -397,6 +442,12 @@
     <tr>
       <td>
         <table class="chapter-2">
+          <colgroup>
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+            <col class="w-1/5">
+          </colgroup>
           <thead>
             <tr>
               <th colspan=5>{declension-5}</th>
@@ -469,16 +520,21 @@ a. *{2-2-4-a}*
   <caption>
     <strong>{Table} 2F</strong> {Table2F-Title}
   </caption>
+  <colgroup>
+    <col class="w-4/8">
+    <col class="w-1/8">
+    <col class="w-1/8">
+  </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2F-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2F-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{EveryCase}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{EveryCase}</th>
     </tr>
   </thead>
   <tbody>
@@ -501,7 +557,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>pór</td> <td>póir</td> <td>pórtha</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>tuar</td> <td>tuair</td> <td>tuartha</td>
     </tr>
 
@@ -521,7 +577,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>daichead</td> <td>daichid</td> <td>daichidí</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>margadh</td> <td>margaidh</td> <td>margaí</td>
     </tr>
 
@@ -532,7 +588,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>dearcadh</td> <td>dearcaidh</td> <td>dearcthaí</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>toradh</td> <td>toraidh</td> <td>torthaí</td>
     </tr>
 
@@ -543,7 +599,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>praghas</td> <td>praghais</td> <td>praghsanna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>saghas</td> <td>saghais</td> <td>saghsanna</td>
     </tr>
 
@@ -554,7 +610,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>doras</td> <td>dorais</td> <td>doirse</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>uasal</td> <td>uasail</td> <td>uaisle</td>
     </tr>
 
@@ -565,7 +621,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>coinníoll</td> <td>coinníll</td> <td>coinníollacha</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>tobar</td> <td>tobair</td> <td>toibreacha</td>
     </tr>
 
@@ -576,7 +632,7 @@ a. *{2-2-4-a}*
     <tr>
       <td>muileann</td> <td>muilinn</td> <td>muilte</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>smaoineamh</td> <td>smaoinimh</td> <td>smaointe</td>
     </tr>
 
@@ -606,19 +662,19 @@ b. *{2-2-4-b}*
     <strong>{Table} 2G</strong> {Table2G-Title}
   </caption>
   <colgroup>
-    <col class="w-1/3">
+    <col class="w-3/8">
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2G-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th colspan=2>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2G-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th colspan=2 class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
@@ -632,7 +688,7 @@ b. *{2-2-4-b}*
     <tr>
       <td>foirgneamh</td> <td>foirgnimh</td> <td>foirgnimh</td> <td>foirgneamh</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>iasc</td> <td>éisc</td> <td>éisc</td> <td>iasc</td>
     </tr>
 
@@ -699,18 +755,18 @@ a. *{2-3-4-a-title}*
     <strong>{Table} 2H</strong> {Table2H-Title}
   </caption>
   <colgroup>
-    <col class="w-3/8">
+    <col class="w-4/8">
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2H-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2H-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{EveryCase}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{EveryCase}</th>
     </tr>
   </thead>
   <tbody>
@@ -721,7 +777,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>roinn</td> <td>roinne</td> <td>ranna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>scian</td> <td>scine</td> <td>sceana</td>
     </tr>
 
@@ -732,7 +788,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>blaosc</td> <td>blaoisce</td> <td>blaoscanna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>im</td> <td>ime</td> <td>imeanna</td>
     </tr>
 
@@ -746,7 +802,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>cáipéis</td> <td>cáipéise</td> <td>cáipéisí</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>earráid</td> <td>earráide</td> <td>earráidí</td>
     </tr>
 
@@ -763,7 +819,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>iníon</td> <td>iníne</td> <td>iníonacha</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>maidin</td> <td>maidine</td> <td>maidineacha</td>
     </tr>
 
@@ -777,7 +833,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>grian</td> <td>gréine</td> <td>grianta</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>steall</td> <td>steille</td> <td>steallta</td>
     </tr>
 
@@ -791,7 +847,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>bléin</td> <td>bléine</td> <td>bléinte</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>linn</td> <td>linne</td> <td>linnte</td>
     </tr>
 
@@ -805,7 +861,7 @@ a. *{2-3-4-a-title}*
     <tr>
       <td>foireann</td> <td>foirne</td> <td>foirne</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>maighean</td> <td>maighne</td> <td>maighne</td>
     </tr>
 
@@ -839,15 +895,15 @@ b. *{2-3-4-b-title}*
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2I-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th colspan=2>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2I-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th colspan=2 class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
@@ -867,7 +923,7 @@ b. *{2-3-4-b-title}*
     <tr>
       <td>girseach</td> <td>girsí</td> <td>girseacha</td> <td>girseach</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>maighdean</td> <td>maighdine</td> <td>maighdeana</td> <td>maighdean</td>
     </tr>
 
@@ -881,7 +937,7 @@ b. *{2-3-4-b-title}*
     <tr>
       <td>ealaín</td> <td>ealaíne</td> <td>ealaíona</td> <td>ealaíon</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>rinn</td> <td>rinne</td> <td>reanna</td> <td>reann</td>
     </tr>
 
@@ -939,14 +995,14 @@ a. *{2-4-3-a-title}*
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2J-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2J-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{EveryCase}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{EveryCase}</th>
     </tr>
   </thead>
   <tbody>
@@ -975,7 +1031,7 @@ a. *{2-4-3-a-title}*
     <tr>
       <td>eisiúint</td> <td>eisiúna</td> <td>eisiúintí</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>múinteoir</td> <td>múinteora</td> <td>múinteoirí</td>
     </tr>
 
@@ -989,7 +1045,7 @@ a. *{2-4-3-a-title}*
     <tr>
       <td>rang</td> <td>ranga</td> <td>ranganna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>troid</td> <td>troda</td> <td>troideanna</td>
     </tr>
 
@@ -1000,7 +1056,7 @@ a. *{2-4-3-a-title}*
     <tr>
       <td>gamhain</td> <td>gamhna</td> <td>gamhna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>slios</td> <td>sleasa</td> <td>sleasa</td>
     </tr>
 
@@ -1018,7 +1074,7 @@ a. *{2-4-3-a-title}*
     <tr>
       <td>fíniúin</td> <td>fíniúna</td> <td>fíniúnacha</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>onóir</td> <td>onóra</td> <td>onóracha</td>
     </tr>
 
@@ -1032,7 +1088,7 @@ a. *{2-4-3-a-title}*
     <tr>
       <td>feoil</td> <td>feola</td> <td>feolta</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>gleann</td> <td>gleanna</td> <td>gleannta</td>
     </tr>
 
@@ -1043,7 +1099,7 @@ a. *{2-4-3-a-title}*
     <tr>
       <td>móin</td> <td>móna</td> <td>móinte</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>táin</td> <td>tána</td> <td>táinte</td>
     </tr>
 
@@ -1080,15 +1136,15 @@ b. *{2-4-3-b-title}*
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2K-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th colspan=2>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2K-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th colspan=2 class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
     </tr>
   </thead>
   <tbody>
@@ -1148,13 +1204,13 @@ a. *{2-5-3-a-title}*
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2L-CornerHeading}</th>
-      <th>{Singular}</th>
-      <th>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2L-CornerHeading}</th>
+      <th class="text-center">{Singular}</th>
+      <th class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{EveryCase}</th>
-      <th>{EveryCase}</th>
+      <th class="text-center">{EveryCase}</th>
+      <th class="text-center">{EveryCase}</th>
     </tr>
   </thead>
   <tbody>
@@ -1168,7 +1224,7 @@ a. *{2-5-3-a-title}*
     <tr>
       <td>báidín</td> <td>báidíní</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>fáinne</td> <td>fáinní</td>
     </tr>
 
@@ -1182,7 +1238,7 @@ a. *{2-5-3-a-title}*
     <tr>
       <td>sloinne</td> <td>sloinnte</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>tine</td> <td>tinte</td>
     </tr>
 
@@ -1199,7 +1255,7 @@ a. *{2-5-3-a-title}*
     <tr>
       <td>giúiré</td> <td>giúiréithe</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>rí</td> <td>ríthe</td>
     </tr>
 
@@ -1231,7 +1287,7 @@ a. *{2-5-3-a-title}*
     <tr>
       <td>meá</td> <td>meánna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>nia</td> <td>nianna</td>
     </tr>
 
@@ -1242,7 +1298,7 @@ a. *{2-5-3-a-title}*
     <tr>
       <td>seic</td> <td>seiceanna</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>téacs</td> <td>téacsanna</td>
     </tr>
 
@@ -1259,7 +1315,7 @@ a. *{2-5-3-a-title}*
     <tr>
       <td>rá</td> <td>ráite</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>slua</td> <td>sluaite</td>
     </tr>
 
@@ -1333,18 +1389,17 @@ a. *{2-6-2-a-title}*
     <strong>{Table} 2M</strong> {Table2M-Title}
   </caption>
   <colgroup>
-    <col class="w-3/8">
   </colgroup>
   <thead>
     <tr>
-      <th rowspan=2>{Table2M-CornerHeading}</th>
-      <th colspan=2>{Singular}</th>
-      <th>{Plural}</th>
+      <th rowspan=2 class="text-center text-xl">{Table2M-CornerHeading}</th>
+      <th colspan=2 class="text-center">{Singular}</th>
+      <th class="text-center">{Plural}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{EveryCase}</th>
+      <th class="text-center">{Nominative}</th>
+      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{EveryCase}</th>
     </tr>
   </thead>
   <tbody>
@@ -1374,7 +1429,7 @@ a. *{2-6-2-a-title}*
     <tr>
       <td>triail</td> <td>trialach</td> <td>trialacha</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>uimhir</td> <td>uimhreach</td> <td>uimhreacha</td>
     </tr>
 
@@ -1388,7 +1443,7 @@ a. *{2-6-2-a-title}*
     <tr>
       <td>máthair</td> <td>máthar</td> <td>máithreacha</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>teorainn</td> <td>teorann</td> <td>teorainneacha</td>
     </tr>
 
@@ -1412,7 +1467,7 @@ a. *{2-6-2-a-title}*
     <tr>
       <td>monarcha</td> <td>monarchan</td> <td>monarchana</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>pearsa</td> <td>pearsan</td>
       <td>pearsana (<em>{genPl}</em> pearsan)</td>
     </tr>
@@ -1443,7 +1498,7 @@ a. *{2-6-2-a-title}*
     <tr>
       <td>ochtó</td> <td>ochtód</td> <td>ochtóidí</td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>nócha</td> <td>nóchad</td> <td>nóchaidí</td>
     </tr>
 
@@ -1488,8 +1543,8 @@ a. *{2-6-2-a-title}*
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2>{Singular}</th>
-      <th>{Plural}</th>
+      <th colspan=2 class="text-xl">{Singular}</th>
+      <th class="text-xl">{Plural}</th>
     </tr>
     <tr>
       <th>{Nominative}</th>

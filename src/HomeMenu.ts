@@ -32,7 +32,7 @@ const availableChapters = [
   {
     label: "Chapter 2 - The Noun",
     id: "chapter2",
-    bg: "bg-orange-500",
+    bg: "bg-orange-600",
     fg: "text-white"
   },
   {

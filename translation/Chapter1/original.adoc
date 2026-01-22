@@ -24,6 +24,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-a-sample1}
 | {1-1-5-a-sample2}
@@ -35,6 +36,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-b-sample1}
 | {1-1-5-b-sample2}
@@ -46,6 +48,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-c-sample1}
 | {1-1-5-c-sample2}
@@ -59,6 +62,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 
 | {1-1-5-d-sample1}
@@ -72,6 +76,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 
 | {1-1-5-e-sample1}
@@ -85,20 +90,24 @@
 
 . *{1-1-5-f-p1}*
 +
+{1-1-5-f-p2}
++
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 
 | {1-1-5-f-sample1}
 | {1-1-5-f-sample2}
 |===
-+
-{1-1-5-f-p2}
 
 . *{1-1-5-g-p1}*
 +
+{1-1-5-g-p2}
++
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-g-sample1}
 | {1-1-5-g-sample2}
@@ -106,8 +115,6 @@
 | {1-1-5-g-sample4}
 | {1-1-5-g-sample5}
 |===
-+
-{1-1-5-g-p2}
 +
 {1-1-5-g-p3}
 
@@ -119,6 +126,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-h-sample1}
 | {1-1-5-h-sample2}
@@ -139,6 +147,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-i-A-sample1}
 | {1-1-5-i-A-sample2}
@@ -158,6 +167,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-i-C-sample1}
 | {1-1-5-i-C-sample2}
@@ -167,6 +177,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-j-sample1}
 | {1-1-5-j-sample2}
@@ -179,6 +190,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-k-sample1}
 | {1-1-5-k-sample2}
@@ -189,6 +201,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-l-sample1}
 | {1-1-5-l-sample2}
@@ -205,6 +218,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-m-sample1}
 | {1-1-5-m-sample2}
@@ -214,6 +228,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-1-5-n-sample1}
 | {1-1-5-n-sample2}
@@ -397,13 +412,9 @@
 [cols="2,1,2"]
 |===
 | de + an | -> | den
-
 | do + an | -> | don
-
 | faoi + an | -> | faoin
-
 | i + an | -> | sa, san
-
 | ó + an | -> | ón
 |===
 
@@ -414,9 +425,7 @@
 [cols="2,1,2"]
 |===
 | fara + an | -> | fairis an
-
 | le + an | -> | leis an
-
 | trí + an | -> | tríd an
 |===
 
@@ -435,11 +444,11 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{CoreSystem} &mdash; {Table1B-caption}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1B-caption}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th class="py-2">{Masculine}</th>
+      <th class="py-2">{Feminine}</th>
     </tr>
   </thead>
   <tbody>
@@ -534,11 +543,11 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{CoreSystem} &mdash; {Table1C-caption}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1C-caption}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th class="py-2">{Masculine}</th>
+      <th class="py-2">{Feminine}</th>
     </tr>
     <tr>
       <th class="text-center bg-stone-300">
@@ -625,11 +634,11 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{CoreSystem} &mdash; {Table1D-caption}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1D-caption}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th class="py-2">{Masculine}</th>
+      <th class="py-2">{Feminine}</th>
     </tr>
   </thead>
   <tbody>
@@ -676,11 +685,11 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{CoreSystem} &mdash; {Table1E-caption}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1E-caption}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th class="py-2">{Masculine}</th>
+      <th class="py-2">{Feminine}</th>
     </tr>
   </thead>
   <tbody>
@@ -741,6 +750,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-5-1-a-sample1}
 | {1-5-1-a-sample2}
@@ -750,6 +760,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-5-1-b-sample1}
 | {1-5-1-b-sample2}
@@ -759,6 +770,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-5-1-c-sample1}
 | {1-5-1-c-sample2}
@@ -768,6 +780,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-5-1-d-sample1}
 | {1-5-1-d-sample2}
@@ -777,6 +790,7 @@
 +
 [.samplebox]
 [%noheader]
+[cols="1"]
 |===
 | {1-5-1-e-sample1}
 | {1-5-1-e-sample2}
@@ -799,10 +813,14 @@
       <td>
         <table class="chapter-1 w-full">
           <colgroup>
+            <col class="w-1/8">
+            <col class="w-2/8">
+            <col class="w-1/8">
+            <col class="w-2/8">
           </colgroup>
           <thead>
             <tr>
-              <th colspan=5 class="text-2xl">{Masculine}</th>
+              <th colspan=5 class="text-2xl px-4 py-2">{Masculine}</th>
             </tr>
             <tr>
               <th colspan=2>{ArticleTable-col1-th}</th>
@@ -868,10 +886,14 @@
       <td>
         <table class="chapter-1 w-full">
           <colgroup>
+            <col class="w-1/8">
+            <col class="w-2/8">
+            <col class="w-1/8">
+            <col class="w-2/8">
           </colgroup>
           <thead>
             <tr>
-              <th colspan=5 class="text-2xl">{Feminine}</th>
+              <th colspan=5 class="text-2xl px-4 py-2">{Feminine}</th>
             </tr>
             <tr>
               <th colspan=2>{ArticleTable-col1-th}</th>
@@ -940,7 +962,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=4 class="text-2xl">{MascAndFem}</th>
+      <th colspan=4 class="text-2xl px-4 py-2">{MascAndFem}</th>
     </tr>
     <tr>
       <th>{ArticleTable-col1-th}</th>
@@ -1000,7 +1022,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=4 class="text-2xl">{MascAndFem}</th>
+      <th colspan=4 class="text-2xl px-4 py-2">{MascAndFem}</th>
     </tr>
     <tr>
       <th>{ArticleTable-col1-th}</th>
@@ -1147,7 +1169,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{Table1J-header}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{Table1J-header}</th>
     </tr>
     <tr>
       <th>{Masculine}</th>
@@ -1247,7 +1269,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{Table1K-header}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{Table1K-header}</th>
     </tr>
     <tr>
       <th>{Masculine}</th>
@@ -1338,7 +1360,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{Table1L-header}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{Table1L-header}</th>
     </tr>
     <tr>
       <th>{Masculine}</th>
@@ -1394,7 +1416,7 @@
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2 class="text-2xl">{Table1M-header}</th>
+      <th colspan=2 class="text-2xl px-4 py-2">{Table1M-header}</th>
     </tr>
     <tr>
       <th>{Masculine}</th>

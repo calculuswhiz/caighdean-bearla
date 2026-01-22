@@ -10,7 +10,7 @@
   }
 
   em {
-    @apply tracking-wide;
+    @apply tracking-wide opacity-80;
   }
 
   a {
@@ -43,13 +43,24 @@
     @apply my-5 border-2 border-gray-500;
   }
 
+  tr.black-bottom-divider {
+    & td {
+      @apply border-b-2 border-b-black;
+    }
+  }
+
+  tbody th,
+  tbody td {
+    @apply align-top;
+  }
+
   th,
   td {
     @apply border-2 border-white p-1;
   }
 
   td {
-    @apply bg-gray-200;
+    @apply bg-stone-100;
 
     & li {
       @apply p-1;
@@ -77,8 +88,16 @@
     @apply caption-bottom;
   }
 
-  .samplebox td {
-    @apply bg-gray-200 p-1;
+  .samplebox {
+    @apply my-1;
+
+    & td {
+      @apply bg-stone-100 border-1 border-[rgba(0,0,0,0.1)] p-1;
+
+      & p {
+        @apply mx-2 my-0;
+      }
+    }
   }
 
   /* Asciidoctor hack: CSS application on refresh is inconsistent.
@@ -99,17 +118,17 @@
     }
 
     & thead tr:nth-of-type(2) th {
-      @apply bg-cyan-900 text-white;
+      @apply bg-slate-500 text-white;
     }
   }
 
   .chapter-2 {
     & thead tr:first-child th {
-      @apply bg-orange-500 text-white;
+      @apply bg-orange-600 text-white;
     }
 
     & thead tr:nth-of-type(2) th {
-      @apply bg-gray-700 text-white;
+      @apply bg-slate-500 text-white;
     }
   }
 

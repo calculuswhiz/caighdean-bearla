@@ -351,9 +351,9 @@
 :Table1A-fem-cons-case2-col3_ga: gan aon athrú
 :Table1A-fem-cons-case2-col3_en: no change
 
-:Table1A-fem-cons-case3-col1_ga: _s_ + <br /> (seachas _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
+:Table1A-fem-cons-case3-col1_ga: _s_ <br /> (seachas _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
 
-:Table1A-fem-cons-case3-col1_en: _s_ + <br /> (other than _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
+:Table1A-fem-cons-case3-col1_en: _s_ <br /> (other than _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
 
 :Table1A-fem-cons-case3-col3_ga: _t_ roimhe
 :Table1A-fem-cons-case3-col3_en: _t_ in front
@@ -591,8 +591,8 @@ This will (mostly) just be some algebra here...
 :1-7-3-p_ga: I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas _d_, _t_ agus _s_) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.
 :1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) as well as the adjectives attached to them. See the below table.
 
-:Table1J-header_ga: Córas an tSéimhithe — Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
-:Table1J-header_en: The Lenition System — Nouns starting with a consonant other than _d_, _t_, and _s_
+:Table1J-header_ga: Córas an tSéimhithe —<br />Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
+:Table1J-header_en: The Lenition System —<br />Nouns starting with a consonant other than _d_, _t_, and _s_
 
 :Table1J-caption-start_ga: An Tuiseal Tabharthach Uatha
 :Table1J-caption-start_en: The Dative Singular Case
@@ -603,8 +603,8 @@ This will (mostly) just be some algebra here...
 :Table1K-subheading_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_
 :Table1K-subheading_en: _t_ is put before the _s_, other than in case of _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_
 
-:Table1K-header_ga: Córas an tSéimhithe — Ainmfhocail dar tús _s_
-:Table1K-header_en: The Lenition System — Nouns Starting with _s_
+:Table1K-header_ga: Córas an tSéimhithe &mdash; Ainmfhocail dar tús _s_
+:Table1K-header_en: The Lenition System &mdash; Nouns Starting with _s_
 
 :nopass-Table1K-caption-start_ga: {Table1J-caption-start}
 :nopass-Table1K-caption-start_en: {Table1J-caption-start}
