@@ -583,8 +583,8 @@
 :9-5-1-d-p_ga: Úsáidtear an orduimhir _céad_ i gcás 1, ach i gcás na n-orduimhreacha eile a chríochnaíonn ar 1, úsáidtear an focal _aonú_. Sa tuiseal ainmneach, cuirtear _t-_ roimh _aonú_ i ndiaidh an ailt, e.g., _an t-aonú lá is tríocha_.
 :9-5-1-d-p_en: The ordinal number _céad_ is used in the for 1, but for other ordinals ending in 1, the word _aonú_ is used. In the nominative case, _t-_ is prefixed to _aonú_ after the article, e.g., _an t-aonú lá is tríocha_.
 
-:9-5-2-title_ga: Na hOrduimhreacha 1100 -- Eolas Ginearálta
-:9-5-2-title_en: The Ordinal Numbers 1100 -- General Information
+:9-5-2-title_ga: Na hOrduimhreacha 1&ndash;100 -- Eolas Ginearálta
+:9-5-2-title_en: The Ordinal Numbers 1&ndash;100 -- General Information
 
 :9-5-2-a-p_ga: Is é foirm uatha an ailt a bhíonn roimh na horduimhreacha (seachas an orduimhir 1, féach 9.5.1), e.g., _an dara bean_; _an dóú teach_; _an tríú tuarascáil_; _an ceathrú bean is fiche_; _an cúigiú comhartha is seasca_.
 :9-5-2-a-p_en: The singular form of the article precedes the ordinal numbers (except for the ordinal number 1, see 9.5.1), e.g., _an dara bean_; _an dóú teach_; _an tríú tuarascáil_; _an ceathrú bean is fiche_; _an cúigiú comhartha is seasca_.

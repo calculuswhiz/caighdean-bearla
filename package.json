@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "generate-docs": "node ./scripts/generateDocs.js --dev --all",
+    "generate-docs": "node ./scripts/generateDocs.js --dev --watch",
     "build": "node ./scripts/generateDocs.js --all && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"

@@ -221,7 +221,7 @@
 [cols="1,1"]
 |===
 | {1-1-5-m-sample1_ga} | {1-1-5-m-sample1}
-| {1-1-5-m-sample1_ga} | {1-1-5-m-sample1}
+| {1-1-5-m-sample2_ga} | {1-1-5-m-sample2}
 |===
 
 . {1-1-5-n-p1}
@@ -242,6 +242,8 @@
 == {1-1_5-title}
 
 {1-1_5-p}
+
+'''
 
 == 1.2 {1-2-title}
 
@@ -1174,44 +1176,44 @@
   </thead>
   <tbody>
     <tr>
-      <td>ag an bhfear maith</td>
+      <td>ag an fhear mhaith</td>
       <td>ag an chuideachta bheag</td>
     </tr>
     <tr>
-      <td>ar an mbosca dearg</td>
+      <td>ar an bhosca dhearg</td>
       <td>ar an bhean shaibhir</td>
     </tr>
     <tr>
-      <td>as an ngleann mór</td>
+      <td>as an ghleann mhór</td>
       <td>as an pháirc chéanna</td>
     </tr>
     <tr>
-      <td>chuig an gCoimisinéir coinsiasach</td>
+      <td>chuig an Choimisinéir choinsiasach</td>
       <td>chuig an bhean ghairmiúil</td>
     </tr>
     <tr>
-      <td>den chrann caol</td>
+      <td>den chrann chaol</td>
       <td>den bhean fhlaithiúil</td>
     </tr>
     <tr>
-      <td>don fhear trom</td>
+      <td>don fhear throm</td>
       <td>don chuideachta ghnóthach</td>
     </tr>
     <tr>
-      <td>fairis an ngarda béasach</td>
+      <td>fairis an gharda bhéasach</td>
       <td>fairis an bhean chairdiúil</td>
     </tr>
     <tr>
-      <td>faoin bhfógra práinneach</td>
+      <td>faoin fhógra phráinneach</td>
       <td>faoin ghrian bhreá</td>
     </tr>
     <tr>
       <td>
-        sa bhosca buí <br />
-        sa fhraoch bán <br />
+        sa bhosca bhuí <br />
+        sa fhraoch bhán <br />
         <br />
         {Table1B-note} <br />
-        san fhéar fliuch
+        san fhéar fhliuch
       </td>
       <td>
         sa chomhairle shóisialta <br />
@@ -1222,27 +1224,27 @@
       </td>
     </tr>
     <tr>
-      <td>leis an bhfasach cruinn</td>
+      <td>leis an fhasach chruinn</td>
       <td>leis an bháisteach throm</td>
     </tr>
     <tr>
-      <td>ón gcaisleán fuar</td>
+      <td>ón chaisleán fhuar</td>
       <td>ón chathair mhór</td>
     </tr>
     <tr>
-      <td>roimh an gcruinniú tábhachtach</td>
+      <td>roimh an chruinniú thábhachtach</td>
       <td>roimh an bhainis bheag</td>
     </tr>
     <tr>
-      <td>thar an gcnoc bhán</td>
+      <td>thar an chnoc bhán</td>
       <td>thar an fharraige chiúin</td>
     </tr>
     <tr>
-      <td>tríd an ngairdín breá</td>
+      <td>tríd an ghairdín bhreá</td>
       <td>tríd an fhuinneog ghorm</td>
     </tr>
     <tr>
-      <td>um an mBille fada</td>
+      <td>um an Bhille fhada</td>
       <td>um an ghníomhaireacht reachtúil</td>
     </tr>
   </tbody>

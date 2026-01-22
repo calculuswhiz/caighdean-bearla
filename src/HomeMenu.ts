@@ -91,6 +91,13 @@ const availableChapters = [
   },
 ];
 
+const availableLanguages = [
+  { label: "English", linkSuffix: "en" },
+  { label: "Gaeilge", linkSuffix: "ga" }
+] as const;
+
+let currentLanguageIdx = 0;
+
 function addChapterSelect() {
   const container = document.getElementById("chapter-select");
 
@@ -103,30 +110,62 @@ function addChapterSelect() {
       ].join(' ');
       container.appendChild(linkContainer);
 
-      const irishLink = document.createElement("a");
-      irishLink.href = `./entrypoints/${x.id}-ga.html`;
-      irishLink.title = `View original Irish content`;
-      irishLink.classList = [
-        'cursor-pointer',
-        x.fg, x.bg,
-        'p-1', 'm-1'
-      ].join(' ');
-      irishLink.textContent = `[GA]`;
-      linkContainer.appendChild(irishLink);
-
-      const englishLink = document.createElement("a");
-      englishLink.href = `./entrypoints/${x.id}.html`;
-      englishLink.title = x.label;
-      englishLink.classList = [
+      const link = document.createElement("a");
+      link.href = `./entrypoints/${x.id}-${availableLanguages[currentLanguageIdx].linkSuffix}.html`;
+      link.title = x.label;
+      link.classList = [
         'cursor-pointer',
         'grow',
         x.fg, x.bg,
         'p-1', 'm-1'
       ].join(' ');
-      englishLink.textContent = x.label;
-      linkContainer.appendChild(englishLink);
+      link.textContent = x.label;
+      linkContainer.appendChild(link);
+    }
+  }
+}
+
+const languageButtons: HTMLButtonElement[] = [];
+
+function addLanguageSelect() {
+  const container = document.getElementById("language-select");
+
+  if (container) {
+    for (const [index, lang] of availableLanguages.entries()) {
+      const langButton = document.createElement("button");
+      langButton.textContent = lang.label;
+      langButton.classList = [
+        'cursor-pointer',
+        'p-1', 'm-1',
+        'bg-gray-200',
+        currentLanguageIdx === index ? 'font-bold underline' : ''
+      ].join(' ');
+      langButton.onclick = () => {
+        currentLanguageIdx = index;
+
+        for (const btn of languageButtons) {
+          if (btn.textContent === lang.label) {
+            btn.classList.add('font-bold', 'underline');
+          } else {
+            btn.classList.remove('font-bold', 'underline');
+          }
+        }
+
+        // Update link urls
+        const chapterLinks = document.querySelectorAll<HTMLAnchorElement>('#chapter-select a');
+        for (const link of chapterLinks) {
+          const oldHref = link.href;
+          link.href = oldHref.replace(
+            /-(\w+)\.html$/,
+            `-${lang.linkSuffix}.html`
+          );
+        }
+      };
+      container.appendChild(langButton);
+      languageButtons.push(langButton);
     }
   }
 }
 
 addChapterSelect();
+addLanguageSelect();

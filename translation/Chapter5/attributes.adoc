@@ -183,23 +183,8 @@
 :EndsWith_ga: Críochnaíonn ar
 :EndsWith_en: Ends with
 
-:nopass-5-2-1-c-Table-col1_ga: {EndsWith} _-bh_
-:nopass-5-2-1-c-Table-col1_en: {EndsWith} _-bh_
-
-:nopass-5-2-1-c-Table-col2_ga: {EndsWith} _-mh_
-:nopass-5-2-1-c-Table-col2_en: {EndsWith} _-mh_
-
 :5-2-1-d-p_ga: Coinnítear _-bh_, _-mh_ agus _-th_ roimh _-f-_, e.g., _scríobhfaí_, _ríomhfá_, _chaithfeá_:
 :5-2-1-d-p_en: _-bh_, _-mh_ and _-th_ are retained before _-f-_, e.g., _scríobhfaí_, _ríomhfá_, _chaithfeá_:
-
-:nopass-5-2-1-d-Table-col1_ga: {EndsWith} _-bh_
-:nopass-5-2-1-d-Table-col1_en: {EndsWith} _-bh_
-
-:nopass-5-2-1-d-Table-col2_ga: {EndsWith} _-mh_
-:nopass-5-2-1-d-Table-col2_en: {EndsWith} _-mh_
-
-:nopass-5-2-1-d-Table-col3_ga: {EndsWith} _-th_
-:nopass-5-2-1-d-Table-col3_en: {EndsWith} _-th_
 
 :5-2-2-title_ga: Briathra ó Fhréamhacha Ilsiollacha
 :5-2-2-title_en: Verbs from Polysyllabic Roots

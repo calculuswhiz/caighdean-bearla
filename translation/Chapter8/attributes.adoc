@@ -46,19 +46,19 @@
 :8-2-2-sample1_ga: Níor dhearmad sé *thú* riamh.
 :8-2-2-sample1_en: He never forgot *you*.
 
-:8-2-2-sample1_ga: An é sin an áit ar rugadh *thú*?
+:8-2-2-sample2_ga: An é sin an áit ar rugadh *thú*?
 :8-2-2-sample2_en: Is that where *you* were born?
 
-:8-2-2-sample1_ga: Thréig sí *thú* ar fhear eile.
+:8-2-2-sample3_ga: Thréig sí *thú* ar fhear eile.
 :8-2-2-sample3_en: She abandoned *you* for another man.
 
-:8-2-2-sample1_ga: Ní aithnímse *thusa*.
+:8-2-2-sample4_ga: Ní aithnímse *thusa*.
 :8-2-2-sample4_en: I don't know *you*.
 
-:8-2-2-sample1_ga: Chugam aniar *thú*!
+:8-2-2-sample5_ga: Chugam aniar *thú*!
 :8-2-2-sample5_en: *You* come from the west! (idiom meaning _Bravo!_)
 
-:8-2-2-sample1_ga: Is fearrde *thú* an sos.
+:8-2-2-sample6_ga: Is fearrde *thú* an sos.
 :8-2-2-sample6_en: *You* better take a break.
 
 :8-2-3-p_ga: Úsáidtear _tú_ (_tusa_) i ngach cás eile.
@@ -322,10 +322,10 @@
 :8-3-8-a-p_ga: an aidiacht shealbhach;
 :8-3-8-a-p_en: the possessive adjective;
 
-:8-3-8-a-sample1_en: Fuair sé *inár* gcarr é.
+:8-3-8-a-sample1_ga: Fuair sé *inár* gcarr é.
 :8-3-8-a-sample1_en: He found it *in our* car.
 
-:8-3-8-a-sample2_en: Labhair sé *faoina* mhac.
+:8-3-8-a-sample2_ga: Labhair sé *faoina* mhac.
 :8-3-8-a-sample2_en: He talked *about his* son.
 
 :8-3-8-b-p_ga: an mhír uimhriúil _a_;

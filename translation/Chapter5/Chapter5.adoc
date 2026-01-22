@@ -4,7 +4,9 @@
 
 == 5.1 {5-1-title}
 
-=== 5.1.1 {5-1-1-p}
+=== 5.1.1
+
+{5-1-1-p}
 
 === 5.1.2 
 
@@ -458,8 +460,8 @@ fágaimis
   <thead>
     <tr>
       <th></th>
-      <th colspan="2">{5-2-1-c-Table-col1}</th>
-      <th colspan="2">{5-2-1-c-Table-col2}</th>
+      <th colspan="2">{EndsWith} <em>-bh</em></th>
+      <th colspan="2">{EndsWith} <em>-mh</em></th>
     </tr>
     <tr>
       <th class="bg-stone-300 text-black"></th>
@@ -495,9 +497,9 @@ fágaimis
   <thead>
     <tr>
       <th></th>
-      <th colspan="2">{5-2-1-d-Table-col1}</th>
-      <th colspan="2">{5-2-1-d-Table-col2}</th>
-      <th colspan="2">{5-2-1-d-Table-col3}</th>
+      <th colspan="2"> {EndsWith} <em>-bh</em></th>
+      <th colspan="2"> {EndsWith} <em>-mh</em></th>
+      <th colspan="2"> {EndsWith} <em>-th</em></th>
     </tr>
     <tr>
       <th class="bg-stone-300 text-black"></th>

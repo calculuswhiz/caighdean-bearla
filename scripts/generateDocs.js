@@ -1,5 +1,6 @@
 import Asciidoctor from "asciidoctor";
 import fs from "fs/promises";
+import path from "path";
 
 /* 
 Run command to generate all chapters:
@@ -120,14 +121,14 @@ async function generateDoc(chapterFolder) {
 
   const translationHtml = await makeChapterHtml(chapterFolder, 'en', devMode);
   const originalIrishHtml = await makeOriginalIrishHtml(chapterFolder, devMode);
-  const chapterTemplate = await fs.readFile(`./entrypoints/chapterTemplate.html`, "utf-8");
+  const chapterTemplate = await fs.readFile(`./src/chapterTemplate.html`, "utf-8");
 
   const finalTranslatedHtml = chapterTemplate
     .replace("<!-- Insert content here -->", translationHtml);
   const finalOriginalIrishHtml = chapterTemplate
     .replace("<!-- Insert content here -->", originalIrishHtml);
 
-  await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}.html`, finalTranslatedHtml, "utf-8");
+  await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-en.html`, finalTranslatedHtml, "utf-8");
   await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-ga.html`, finalOriginalIrishHtml, "utf-8");
 }
 
@@ -140,13 +141,24 @@ async function generateDoc(chapterFolder) {
     .filter(ent => ent.isDirectory())
     .map(ent => ent.name);
 
-  if (process.argv.find(arg => arg === "--all") != null) {
+  if (process.argv.includes("--all")) {
+    await fs.rm("./entrypoints/", { recursive: true, force: true });
+    await fs.mkdir("./entrypoints/");
+    
     for (const chapterFolder of allChapters) {
       console.log(`Generating chapter: ${chapterFolder}`);
       await generateDoc(chapterFolder);
     }
-  }
-  else {
+  } else if (process.argv.includes("--watch")) {
+    console.log("Watching for changes...");
+    const watcher = fs.watch("./translation/", { recursive: true });
+    for await (const event of watcher) {
+      console.log(`File changed: ${event.filename}`);
+      // Regenerate the document for the changed chapter
+      const chapterFolder = path.dirname(event.filename);
+      await generateDoc(chapterFolder);
+    }
+  } else {
     let chapterFolder = null;
     const folderArg = process.argv.find(arg => arg.startsWith("--folder="));
     if (folderArg != null) {

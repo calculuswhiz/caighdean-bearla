@@ -86,7 +86,7 @@
 :1-1-5-e-p1_en: *Days of the week*, e.g., _an Luan_, _an Mháirt_, _an Chéadaoin_.
 
 :1-1-5-e-sample1_ga: Is é *an Luan* an lá is ansa liom.
-:1-1-5-e-sample1_en: *Monday* is my favourite day.
+:1-1-5-e-sample1_en: *Monday* is my favorite day.
 
 :1-1-5-e-sample2_ga: Téim ag snámh ar *an Máirt*.
 :1-1-5-e-sample2_en: I go swimming *on Tuesdays*.
@@ -152,13 +152,13 @@
 :1-1-5-h-iii_en: Most rivers e.g., _an Bhóinn_, _an Danóib_, _an Life_, _an Phó_, _an Réin_, _an Róin_, _an tSéin_, _an tSionainn_, _an Tibir_.
 
 :1-1-5-h-sample1_ga: Rinne mé *an Mhucais* a shiúl inné.
-:1-1-5-h-sample1_en: I did *the Muckish* walk yesterday.
+:1-1-5-h-sample1_en: I walked *the Muckish* yesterday.
 
-:1-1-5-h-sample2_ga: Ar bhuaig *an Spidéal* an cluiche?
+:1-1-5-h-sample2_ga: Ar bhuaigh *an Spidéal* an cluiche?
 :1-1-5-h-sample2_en: Did *Spiddal* win the game?
 
 :1-1-5-h-sample3_ga: Bhí *an tSionainn* le feiceáil ón eitleán.
-:1-1-5-h-sample3_en: *Shannon* can be seen from the Airplane.
+:1-1-5-h-sample3_en: *The Shannon* can be seen from the Airplane.
 
 :1-1-5-i-p1_ga: Ainmneacha tíortha agus réigiún
 :1-1-5-i-p1_en: Names of countries and regions
@@ -212,7 +212,7 @@
 :1-1-5-j-p_en: *Prayers and certain battle cries*, e.g., _an Choróin Mhuire_, _an Ghlóir_, _an Dord Fiann_.
 
 :1-1-5-j-sample1_ga: Dúradh *an Ghlóir* i lár an Aifrinn.
-:1-1-5-j-sample1_en: *Glory* was said in the middle of Hell.
+:1-1-5-j-sample1_en: *Glory* was said in the middle of the Mass.
 
 :1-1-5-j-sample2_ga: Ní minic a chloistear *an Dord Fiann*.
 :1-1-5-j-sample2_en: *The Dord Fiann* is not often heard.
@@ -224,16 +224,16 @@
 :1-1-5-k-p1_en: Distributive use
 
 :1-1-5-k-sample1_ga: Dhíol sé na leabhair ar euro *an ceann*.
-:1-1-5-k-sample1_en: He sells the books for a euro *each*.
+:1-1-5-k-sample1_en: He sells the books for one Euro *each*.
 
 :1-1-5-k-sample2_ga: Eagraítear comóradh uair *sa bhliain*.
-:1-1-5-k-sample2_en: An anniversary is organised once *per year*.
+:1-1-5-k-sample2_en: An anniversary is organized once *per year*.
 
 :1-1-5-k-sample3_ga: Bhí mála *an duine* ag na páistí scoile.
 :1-1-5-k-sample3_en: *Every* schoolchild had a bag.
 
 :1-1-5-k-p2_ga: Úsáidtear an t-alt chun ráta a chur in iúl nuair a bhíonn an bhrí _gach ceann ar leithligh_ nó _in aghaidh_ i gceist.
-:1-1-5-k-p2_en: The article is used to express rate when either _every individual separately_ or _in opposition_ is in question.
+:1-1-5-k-p2_en: The article is used to express a rate when the meaning _each individual_ or _per_ is intended.
 
 :1-1-5-l-p1_ga: Brí theibí nó brí choincheapúil a bheith leis an ainmfhocal
 :1-1-5-l-p1_en: The noun has an abstract or conceptual meaning
@@ -241,7 +241,7 @@
 :1-1-5-l-sample1_ga: Nuair a bhíonn *an t-ól* istigh, bíonn *an chiall* amuigh.
 :1-1-5-l-sample1_en: When *the drink* is in, *sense* is out.
 
-:1-1-5-l-sample2_ga: Ní maith í an fhearg.
+:1-1-5-l-sample2_ga: Ní maith í *an fhearg*.
 :1-1-5-l-sample2_en: *Anger* is not good.
 
 :1-1-5-l-sample3_ga: Tugadh isteach *an colscaradh* in Éirinn roinnt blianta ó shin.
@@ -284,7 +284,7 @@
 :1-1-5-n-sample3: She had good *English*.
 
 :1-1-5-n-p2_ga: Tabhair faoi deara go ligtear an t-alt ar lár mura bhfuil an bhrí forleathan, e.g., _Tá Fraincis aici_; _Cuir i nGaeilge é_; _rang Iodáilise_.
-:1-1-5-n-p2_en: Note that the article should be omitted if the general case, e.g., _Tá Fraincis aici_; _Cuir i nGaeilge é_; _rang Iodáilise_.
+:1-1-5-n-p2_en: Note that the article should be omitted if the general case is intended, e.g., _Tá Fraincis aici_; _Cuir i nGaeilge é_; _rang Iodáilise_.
 
 :1-1_5-title_ga: Na Tuisil
 :1-1_5-title_en: The Cases
@@ -437,46 +437,46 @@
 :1-5-1-a_en: other nouns:
 
 :1-5-1-a-sample1_ga: Cár fhág tú *eochair an chairr*?
-:1-5-1-a-sample1_en: Where did you leave the car keys?
+:1-5-1-a-sample1_en: Where did you leave *the car keys*?
 
 :1-5-1-a-sample2_ga: Tá muintir na háite sásta le *foireann na leabharlainne*.
-:1-5-1-a-sample2_en: The local people are happy with the library staff.
+:1-5-1-a-sample2_en: The local people are happy with *the library staff*.
 
 :1-5-1-b_ga: ainm briathartha:
 :1-5-1-b_en: verbal nouns:
 
 :1-5-1-b-sample1_ga: Is maith leis na gasúir a bheith *ag réiteach an dinnéir*.
-:1-5-1-b-sample1_en: The youngsters like to be preparing dinner.
+:1-5-1-b-sample1_en: The youngsters like *to be preparing dinner*.
 
 :1-5-1-b-sample2_ga: Is í Síle atá *ag déanamh na hArdteiste* i mbliana.
-:1-5-1-b-sample2_en: It is Síle who is doing the Leaving Certificate this year.
+:1-5-1-b-sample2_en: It is Síle who is *doing the Leaving Certificate* this year.
 
 :1-5-1-c_ga: réamhfhocal comhshuite, e.g., _faoi chomhair_, _i gcás_, _le haghaidh_:
 :1-5-1-c_en: compound prepositions, e.g., _faoi chomhair_, _i gcás_, _le haghaidh_:
 
 :1-5-1-c-sample1_ga: Bíonn an cat ina shuí ansin *os comhair na tine* gach uile oíche.
-:1-5-1-c-sample1_en: The cat sits in front of the fire every night.
+:1-5-1-c-sample1_en: The cat sits *in front of the fire* every night.
 
 :1-5-1-c-sample2_ga: Ba iad na hailtirí a bhí *i mbun an scrúdaithe*.
-:1-5-1-c-sample2_en: The architects were attending to the test.
+:1-5-1-c-sample2_en: The architects were *conducting the examination*.
 
 :1-5-1-d_ga: ceann de na focail _cois_, _dála_, _fearacht_, _timpeall_, _trasna_:
 :1-5-1-d_en: one of the words _cois_, _dála_, _fearacht_, _timpeall_, _trasna_:
 
 :1-5-1-d-sample1_ga: Chuala mé go ndeachaigh sibh ar thuras *timpeall an domhain*.
-:1-5-1-d-sample1_en: I heard that you went on a journey around the world.
+:1-5-1-d-sample1_en: I heard that you went on a journey *around the world*.
 
 :1-5-1-d-sample2_ga: Shiúlamar *cois na habhann*.
-:1-5-1-d-sample2_en: We walked beside the river.
+:1-5-1-d-sample2_en: We walked *beside the river*.
 
 :1-5-1-e_ga: an réamhfhocal _chun_:
 :1-5-1-e_en: the preposition _chun_:
 
 :1-5-1-e-sample1_ga: Tá an grúpa uile ag dul *chun na Spáinne* i mí Iúil.
-:1-5-1-e-sample1_en: The whole group is going to Spain in July.
+:1-5-1-e-sample1_en: The whole group is going *to Spain* in July.
 
 :1-5-1-e-sample2_ga: Rinne siad achomharc *chun na cúirte*.
-:1-5-1-e-sample2_en: They made an appeal to the court.
+:1-5-1-e-sample2_en: They made an appeal *to the court*.
 
 :1-5-1-p2_ga: Féach 3.3 le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
 :1-5-1-p2_en: See 3.3 for cases where the nominative form is used instead of the genitive.
@@ -589,7 +589,7 @@ This will (mostly) just be some algebra here...
 :1-7-2-p_en: The rules regarding the dative plural case in the Core System and in the Lenition System are the same (See 1.6.2).
 
 :1-7-3-p_ga: I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas _d_, _t_ agus _s_) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.
-:1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) and on the adjectives attached to them. See the below table.
+:1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) as well as the adjectives attached to them. See the below table.
 
 :Table1J-header_ga: Córas an tSéimhithe — Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
 :Table1J-header_en: The Lenition System — Nouns starting with a consonant other than _d_, _t_, and _s_

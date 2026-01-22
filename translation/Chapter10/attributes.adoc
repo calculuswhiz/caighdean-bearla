@@ -1523,7 +1523,7 @@
 :10-12-1-p_en: _h_ is placed before an adjective or adverb beginning with a vowel after _chomh_, _go_ and _le_, e.g., _chomh hard le haon chapall_; _Tá sé go hálainn_.
 
 :10-12-1-sample-1_ga: Bhí an crann crónghiúise *chomh hard* le foirgneamh tríocha urlár.
-:10-12-1-sample-1_en: The redwood tree was *as tall* as a thirty-storey building.
+:10-12-1-sample-1_en: The redwood tree was *as tall* as a thirty-story building.
 
 :10-12-1-sample-2_ga: Ní bhíonn sé anseo ach *go hannamh*.
 :10-12-1-sample-2_en: He is only here *rarely*.
