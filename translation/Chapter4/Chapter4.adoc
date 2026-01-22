@@ -338,6 +338,10 @@ b. *{4-4-1-b-title}*
 
   .. {4-4-1-b-iv-p}
 
+=== 4.4.2 {4-4-2-title}
+
+{4-4-2-p}
+
 === 4.4.3 {4-4-3-title}
 
 {4-4-3-p}
@@ -406,6 +410,7 @@ a. *{4-5-1-a-title}*
 | {4-5-1-a-p-sample1_ga} | {4-5-1-a-p-sample1}
 | {4-5-1-a-p-sample2_ga} | {4-5-1-a-p-sample2}
 |===
++
 b. *{4-5-1-b-title}*
 +
 {4-5-1-b-p}
@@ -445,6 +450,7 @@ b. {4-5-2-b-p}
 
 [.samplebox]
 [cols="1,1"]
+[%noheader]
 |===
 | _{4-6-2-sample-row1}_ | {4-6-2-sample1_ga} | {4-6-2-sample1}
 
@@ -465,7 +471,7 @@ b. {4-5-2-b-p}
   </caption>
   <thead>
     <tr>
-      <th colspan="4">{Table4D-title}</th>
+      <th colspan="4" class="text-xl">{Table4D-title}</th>
     </tr>
     <tr>
       <th>{Table4D-col1}</th>
@@ -486,7 +492,7 @@ b. {4-5-2-b-p}
       <td>an duine <strong>cóir</strong></td>
       <td>an garda <strong>cróga</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>an buachaill <strong>ciúin</strong></td>
       <td>an t-óstóir <strong>flaithiúil</strong></td>
       <td>an duine <strong>cuí</strong></td>
@@ -503,7 +509,7 @@ b. {4-5-2-b-p}
       <td>a dhuine <strong>chóir</strong></td>
       <td>a dhuine <strong>chuí</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>a bhuachaill <strong>chiúin</strong></td>
       <td>a t-óstóir <strong>fhlaithiúil</strong></td>
       <td>a fhear <strong>chliste</strong></td>
@@ -520,7 +526,7 @@ b. {4-5-2-b-p}
       <td>chuig an duine <strong>cóir</strong></td>
       <td>ag an ngarda <strong>cróga</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>leis an mbuachaill <strong>ciúin</strong></td>
       <td>ón óstóir <strong>flaithiúil</strong></td>
       <td>leis an duine <strong>cuí</strong></td>
@@ -556,7 +562,7 @@ b. {4-5-2-b-p}
   </caption>
   <thead>
     <tr>
-      <th colspan="4">{Table4E-title}</th>
+      <th colspan="4" class="text-xl">{Table4E-title}</th>
     </tr>
     <tr>
       <th>{Table4D-col1}</th>
@@ -577,7 +583,7 @@ b. {4-5-2-b-p}
       <td>an tuairisc <strong>mhíosúil</strong></td>
       <td>an aiste <strong>ghonta</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>an mháthair <strong>imníoch</strong></td>
       <td>an aiste <strong>dheacair</strong></td>
       <td>an mhí <strong>fhada</strong></td>
@@ -594,7 +600,7 @@ b. {4-5-2-b-p}
       <td>a aintín <strong>fhlaithiúil</strong></td>
       <td>a aintín <strong>ghalánta</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>a mháthair <strong>imníoch</strong></td>
       <td>a mháthair <strong>chóir</strong></td>
       <td>a mháthair <strong>chróga</strong></td>
@@ -611,7 +617,7 @@ b. {4-5-2-b-p}
       <td>sa tuairisc <strong>mhíosúil</strong></td>
       <td>san aiste <strong>ghonta</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>leis an máthair <strong>imníoch</strong></td>
       <td>san aiste <strong>dheacair</strong></td>
       <td>den mhí <strong>fhada</strong></td>
@@ -645,7 +651,7 @@ b. {4-5-2-b-p}
   </caption>
   <thead>
     <tr>
-      <th colspan="4">{Table4F-title}</th>
+      <th colspan="4" class="text-xl">{Table4F-title}</th>
     </tr>
     <tr>
       <th>{Table4D-col1}</th>
@@ -666,7 +672,7 @@ b. {4-5-2-b-p}
       <td>na daoine <strong>córa</strong></td>
       <td>na daoine <strong>cuí</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>na buachaillí <strong>ciúine</strong></td>
       <td>na páistí <strong>flaithiúla</strong></td>
       <td>na gardaí <strong>cróga</strong></td>
@@ -683,7 +689,7 @@ b. {4-5-2-b-p}
       <td>a dhaoine <strong>córa</strong></td>
       <td>a fheara <strong>cliste</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>a bhuachaillí <strong>ciúine</strong></td>
       <td>a pháistí <strong>flaithiúla</strong></td>
       <td>a ghardaí <strong>cróga</strong></td>
@@ -700,7 +706,7 @@ b. {4-5-2-b-p}
       <td>leis na daoine <strong>córa</strong></td>
       <td>leis na daoine <strong>cuí</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>leis na buachaillí <strong>ciúine</strong></td>
       <td>ó na páistí <strong>flaithiúla</strong></td>
       <td>do na gardaí <strong>cróga</strong></td>
@@ -734,7 +740,7 @@ b. {4-5-2-b-p}
   </caption>
   <thead>
     <tr>
-      <th colspan="4">{Table4G-title}</th>
+      <th colspan="4" class="text-xl">{Table4G-title}</th>
     </tr>
     <tr>
       <th>{Table4D-col1}</th>
@@ -755,7 +761,7 @@ b. {4-5-2-b-p}
       <td>na haintíní <strong>córa</strong></td>
       <td>na haistí <strong>gonta</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>na máithreacha <strong>imníocha</strong></td>
       <td>na hiníonacha <strong>flaithiúla</strong></td>
       <td>na míonna <strong>fada</strong></td>
@@ -772,7 +778,7 @@ b. {4-5-2-b-p}
       <td>a aintíní <strong>córa</strong></td>
       <td>a iníonacha <strong>cróga</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>a mháithreacha <strong>imníocha</strong></td>
       <td>a iníonacha <strong>flaithiúla</strong></td>
       <td>a aintíní <strong>cliste</strong></td>
@@ -789,7 +795,7 @@ b. {4-5-2-b-p}
       <td>leis na haintíní <strong>córa</strong></td>
       <td>sna haistí <strong>gonta</strong></td>
     </tr>
-    <tr>
+    <tr class="black-bottom-divider">
       <td>leis na máithreacha <strong>imníocha</strong></td>
       <td>ó na hiníonacha <strong>flaithiúla</strong></td>
       <td>de na míonna <strong>fada</strong></td>

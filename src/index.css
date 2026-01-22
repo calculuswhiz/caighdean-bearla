@@ -49,6 +49,10 @@
     }
   }
 
+  table {
+    @apply my-2;
+  }
+
   tbody th,
   tbody td {
     @apply align-top;
@@ -77,7 +81,13 @@
 
   ol,
   ul {
-    @apply list-inside;
+    & > li {
+      @apply list-inside indent-[-1em] pl-[1em];
+
+      & > * {
+        @apply indent-0;
+      }
+    }
   }
 
   ol > li > p {
@@ -167,6 +177,10 @@
 
     & thead tr:nth-of-type(2) th {
       @apply bg-gray-700 text-white;
+    }
+
+    & tbody th {
+      @apply bg-stone-300 text-black;
     }
   }
 
