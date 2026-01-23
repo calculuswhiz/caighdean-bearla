@@ -410,7 +410,7 @@ fágaimis
   </thead>
   <tbody>
     <tr>
-      <td class="font-bold" rowspan="2">{PresentTense}</td>
+      <th class="font-bold" rowspan="2">{PresentTense}</th>
       <td>at + tar</td>
       <td>atar</td>
       <td>loit + tear</td>
@@ -423,7 +423,7 @@ fágaimis
       <td>caitear</td>
     </tr>
     <tr>
-      <td class="font-bold" rowspan="2">{PastHabitualTense}</td>
+      <th class="font-bold" rowspan="2">{PastHabitualTense}</th>
       <td>d'at + taí</td>
       <td>d'at + taí</td>
       <td>loit + tí</td>
@@ -436,7 +436,7 @@ fágaimis
       <td>chaití</td>
     </tr>
     <tr>
-      <td class="font-bold" rowspan="2">{VerbalAdjective}</td>
+      <th class="font-bold" rowspan="2">{VerbalAdjective}</th>
       <td>at + ta</td>
       <td>ata</td>
       <td>loit + te</td>
@@ -473,7 +473,7 @@ fágaimis
   </thead>
   <tbody>
     <tr>
-      <td class="font-bold" rowspan="2">{VerbalNoun}</td>
+      <th class="font-bold" rowspan="2">{VerbalNoun}</th>
       <td>gabh + tha</td>
       <td>gafa</td>
       <td>ríomh + tha</td>
@@ -513,7 +513,7 @@ fágaimis
   </thead>
   <tbody>
     <tr>
-      <td class="font-bold">{ConditionalMood}</td>
+      <th class="font-bold">{ConditionalMood}</th>
       <td>scríobh + fá</td>
       <td>scríobhfá</td>
       <td>ríomh + fá</td>
@@ -871,7 +871,7 @@ fágaimis
 === 5.2.3 {5-2-3-title}
 
 [upperalpha]
-. Cráigh, dóigh
+. *Cráigh*, *dóigh*
 +
 [subs=attributes,replacements]
 ++++
@@ -1122,7 +1122,7 @@ fágaimis
 </table>
 ++++
 +
-. Léigh, nigh
+. *Léigh*, *nigh*
 +
 {5-2-3-B-p}
 +
@@ -3335,41 +3335,46 @@ fágaimis
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
 
-|{Table5AA-trait1} | bearradh +
-cáineadh +
-folcadh +
-moladh | scian bhearrtha +
-rún cáinte +
-dabhach folctha +
-dán molta
-|{Table5AA-trait2} | cló +
-reo +
-sú
-| leabhar clóite +
-uachtar reoite +
-páipéar súite
-|{Table5AA-trait3} | cónaí +
-éalú +
-ionsaí
-| áit chónaithe +
-bealach éalaithe +
-lucht ionsaithe
-|{Table5AA-trait4} | cuimilt +
-cosaint +
-labhairt
-| barr cuimilte +
-gléas cosanta +
-deis labhartha
-|{Table5AA-trait5} | coimeád +
-léamh +
-scríobh
-| fear coimeádta +
-lucht léite +
-an focal scríofa
-|{Table5AA-trait6} | bruith +
-druidim
-| práta bruite +
-dorn druidte
+|{Table5AA-trait1} a| . bearradh
+. cáineadh
+. folcadh
+. moladh a| . scian bhearrtha
+. rún cáinte
+. dabhach folctha
+. dán molta
+
+|{Table5AA-trait2} a| . cló
+. reo
+. sú
+a| . leabhar clóite
+. uachtar reoite
+. páipéar súite
+
+|{Table5AA-trait3} a| . cónaí
+. éalú
+. ionsaí
+a| . áit chónaithe
+. bealach éalaithe
+. lucht ionsaithe
+
+|{Table5AA-trait4} a| . cuimilt
+. cosaint
+. labhairt
+a| . barr cuimilte
+. gléas cosanta
+. deis labhartha
+
+|{Table5AA-trait5} a| . coimeád
+. léamh
+. scríobh
+a| . fear coimeádta
+. lucht léite
+. an focal scríofa
+
+|{Table5AA-trait6} a| . bruith
+. druidim
+a| . práta bruite
+. dorn druidte
 |===
 +
 *{Note}*: {Table5AA-Note}
@@ -3383,26 +3388,27 @@ dorn druidte
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
 
-| {Table5BB-trait1} | gol +
-machnamh | fonn goil +
-ag déanamh a machnaimh
+| {Table5BB-trait1} a| . gol
+. machnamh a| . fonn goil
+. ag déanamh a machnaimh
 
 | {Table5BB-trait2} | fóirithint | foireann fóirithinte
-| {Table5BB-trait3} | admháil +
-dúiseacht +
-iomáint +
-lúbarnaíl +
-oiliúint +
-díolaim +
-éag +
-tuiscint | páipéar admhála +
-clog dúiseachta +
-foireann iomána +
-le teann lúbarnaíola +
-coláiste oiliúna +
-fear díolama +
-ar chúl éaga +
-bua tuisceana
+
+| {Table5BB-trait3} a| . admháil
+. dúiseacht
+. iomáint
+. lúbarnaíl
+. oiliúint
+. díolaim
+. éag
+. tuiscint a| . páipéar admhála
+. clog dúiseachta
+. foireann iomána
+. le teann lúbarnaíola
+. coláiste oiliúna
+. fear díolama
+. ar chúl éaga
+. bua tuisceana
 |===
 +
 .. {5-6-1-b-ii-p}
@@ -3412,19 +3418,21 @@ bua tuisceana
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
 
-| {Table5CC-trait-1} | ag magadh +
-ag seanchas | cúis mhagaidh +
-fear seanchais
-| {Table5CC-trait-2} | ag báisteach +
-ag fearthainn | cuma bháistí +
-fuadar fearthainne
-| {Table5CC-trait-3} | ag bádóireacht +
-ag peataireacht +
-ag bradaíl +
-ag feadaíl | cumann bádóireachta +
-an iomarca peataireachta +
-bó bhradaíola +
-port feadaíola
+| {Table5CC-trait-1} a| . ag magadh
+. ag seanchas a| . cúis mhagaidh
+. fear seanchais
+
+| {Table5CC-trait-2} a| . ag báisteach
+. ag fearthainn a| . cuma bháistí
+. fuadar fearthainne
+
+| {Table5CC-trait-3} a| . ag bádóireacht
+. ag peataireacht
+. ag bradaíl
+. ag feadaíl a| . cumann bádóireachta
+. an iomarca peataireachta
+. bó bhradaíola
+. port feadaíola
 |===
 +
 *{Note}*: {Table5CC-Note}
@@ -3444,51 +3452,51 @@ port feadaíola
 .*{Table} 5EE*  {Table5EE-caption}
 [.chapter-5]
 |===
-|{Trait} |{Table5AA-col2} |{Table5AA-col3}
+|{Trait} |{Table5AA-col2} |{Table5EE-col3}
 
-| {Table5EE-trait-1} | brath +
-ceannach +
-comhrac +
-gearán +
-iompar +
-tochas | lucht braith +
-árthach ceannaigh +
-céile comhraic +
-cúis ghearáin +
-gléas iompair +
-cuaille tochais
+| {Table5EE-trait-1} a| . brath
+. ceannach +
+. comhrac
+. gearán
+. iompar
+. tochas a| . lucht braith
+. árthach ceannaigh
+. céile comhraic
+. cúis ghearáin
+. gléas iompair
+. cuaille tochais
 
-| {Table5EE-trait-2} | aithris +
-breith +
-insint +
-léim +
-titim +
-úsáid | cóir aithrise +
-lá breithe +
-an sórt insinte +
-ag caitheamh léime +
-fonn titime +
-easpa úsáide
+| {Table5EE-trait-2} a| . aithris
+. breith
+. insint
+. léim
+. titim
+. úsáid a| . cóir aithrise
+. lá breithe
+. an sórt insinte
+. ag caitheamh léime
+. fonn titime
+. easpa úsáide
 
-| {Table5EE-trait-3} | beochan +
-crith +
-foghlaim +
-íoc +
-reic +
-rith +
-seinm +
-sníomh +
-trácht +
-troid | deoch bheochana +
-galar creatha +
-aos foghlama +
-fear íoca +
-stalla reaca +
-ligean reatha +
-lucht seanma +
-fearsaid sníomha +
-brú tráchta +
-babhta troda
+| {Table5EE-trait-3} a| . beochan
+. crith
+. foghlaim
+. íoc
+. reic
+. rith
+. seinm
+. sníomh
+. trácht
+. troid a| . deoch bheochana
+. galar creatha
+. aos foghlama
+. fear íoca
+. stalla reaca
+. ligean reatha
+. lucht seanma
+. fearsaid sníomha
+. brú tráchta
+. babhta troda
 |===
 +
 [list-[lower-roman]]
