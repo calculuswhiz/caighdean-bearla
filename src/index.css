@@ -10,7 +10,7 @@
   }
 
   em {
-    @apply tracking-wide opacity-80;
+    @apply font-serif tracking-wide;
   }
 
   a {
@@ -42,55 +42,55 @@
     @apply my-5 border-2 border-gray-500;
   }
 
-  tr.black-bottom-divider {
-    & td {
-      @apply border-b-2 border-b-black;
-    }
-  }
-
   table {
     @apply my-2;
-  }
 
-  tbody th,
-  tbody td {
-    @apply align-top;
-  }
+    & caption {
+      @apply caption-bottom;
+    }
 
-  thead th {
-    @apply text-center;
-  }
+    & tr.black-bottom-divider {
+      & td {
+        @apply border-b-2 border-b-black;
+      }
+    }
 
-  tbody th {
-    @apply text-left;
-  }
+    & tbody th,
+    & tbody td {
+      @apply align-top px-2 py-2;
+    }
 
-  th,
-  td {
-    @apply border-2 border-white p-1;
-  }
+    & thead th {
+      @apply text-center px-2 font-bold;
+    }
 
-  td {
-    @apply bg-stone-100;
+    & tbody th {
+      @apply text-left font-bold;
+    }
 
-    & li {
-      @apply p-1;
+    & th,
+    & td {
+      @apply border-2 border-white p-1;
+    }
+
+    & td {
+      @apply bg-stone-100;
+
+      & li {
+        @apply pb-1 mx-1;
+      }
     }
   }
 
   ol,
   ul {
     & > li {
-      @apply list-inside indent-[-1em] pl-[1em];
+      @apply list-outside ml-6 pb-1;
 
-      & > * {
-        @apply indent-0;
+      & > p {
+        @apply inline;
       }
     }
-  }
-
-  ol > li > p {
-    @apply inline;
   }
 
   .list-dots ul {
@@ -99,10 +99,6 @@
     & > li > p {
       @apply inline;
     }
-  }
-
-  caption {
-    @apply caption-bottom;
   }
 
   .samplebox {
@@ -212,7 +208,8 @@
       @apply bg-stone-300 text-black px-1;
     }
 
-    & th, & td {
+    & th,
+    & td {
       @apply px-0;
     }
   }
@@ -250,6 +247,10 @@
 
     & thead tr:nth-of-type(3) th {
       @apply bg-stone-200 text-black;
+    }
+
+    & tbody th {
+      @apply bg-stone-300 text-black;
     }
   }
 

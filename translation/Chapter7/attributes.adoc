@@ -112,17 +112,17 @@
 :7-1-1-g-sample1_ga: *Is* gearr go mbeidh a fhios againn. 
 :7-1-1-g-sample1_en: Soon we will know.
 
-:7-1-1-g-sample1_ga: *Is* fada ó bhí sé ann. 
-:7-1-1-g-sample1_en: It has been a long time since he was there.
+:7-1-1-g-sample2_ga: *Is* fada ó bhí sé ann. 
+:7-1-1-g-sample2_en: It has been a long time since he was there.
 
-:7-1-1-g-sample1_ga: *Is* maith is eol duit é. 
-:7-1-1-g-sample1_en: You know it well.
+:7-1-1-g-sample3_ga: *Is* maith is eol duit é. 
+:7-1-1-g-sample3_en: You know it well.
 
-:7-1-1-g-sample1_ga: *Is* iomaí duine a thagann an treo seo. 
-:7-1-1-g-sample1_en: Many people come this way.
+:7-1-1-g-sample4_ga: *Is* iomaí duine a thagann an treo seo. 
+:7-1-1-g-sample4_en: Many people come this way.
 
-:7-1-1-g-sample1_ga: **B'**fhada ag teacht é. 
-:7-1-1-g-sample1_en: He was a long time coming.
+:7-1-1-g-sample5_ga: **B'**fhada ag teacht é. 
+:7-1-1-g-sample5_en: He was a long time coming.
 
 :7-1-1-h-text_ga: béim a leagan ar chuid den abairt:
 :7-1-1-h-text_en: emphasizing part of the sentence:
@@ -328,8 +328,8 @@
 :7-2-2-A-b-iv-p_ga: dobhriathra (seachas _amhlaidh_) nach dobhriathra aidiachtacha iad, e.g., _Síltear gur amach anseo atá i gceist_; _Tuigtear dom gur amuigh sa ghairdín atá an ceiliúradh ar bun_;
 :7-2-2-A-b-iv-p_en: adverbs (other than _amhlaidh_) which are not adjectival adverbs, e.g., _Síltear gur amach anseo atá i gceist_; _Tuigtear dom gur amuigh sa ghairdín atá an ceiliúradh ar bun_;
 
-:7-2-2-A-b-v-p_ga: na forainmnigh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_ más gníomhaí nó cuspóir ainm bhriathartha an forainmneach, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
-:7-2-2-A-b-v-p_en: the pronominals _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_ if the pronominal is the agent or object of a verbal noun, e.g., _Síleann sí gur_ _é a bhailiú_ _is fearr_; _Dar leis gur_ _iad a fhoilsiú_ _is fearr_.
+:7-2-2-A-b-v-p_ga: na forainmnigh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_ más gníomhaí nó cuspóir ainm bhriathartha an forainmneach, e.g., _Síleann sí gur <span class="underline">é a bhailiú</span> is fearr_; _Dar leis gur <span class="underline">iad a fhoilsiú</span> is fearr_.
+:7-2-2-A-b-v-p_en: the pronominals _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_ if the pronominal is the agent or object of a verbal noun, e.g., _Síleann sí gur <span class="underline">é a bhailiú</span> is fearr_; _Dar leis gur <span class="underline">iad a fhoilsiú</span> is fearr_.
 
 :7-2-2-A-c-p_ga: Cuirtear _gurb_ roimh ghuta sna cásanna seo a leanas:
 :7-2-2-A-c-p_en: _gurb_ is preceded by a vowel in the following cases:
