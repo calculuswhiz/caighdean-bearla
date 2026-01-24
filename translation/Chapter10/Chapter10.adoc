@@ -896,7 +896,7 @@
 
 {10-4-2-p2}
 
-[list-lower-roman]
+[list-[lower-alpha]]
 . {10-4-2-a-p}
 . {10-4-2-b-p}
 
@@ -1517,7 +1517,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10A-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table10A-header}</th>
     </tr>
   </thead>
   <tbody>
@@ -1639,7 +1639,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10B-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table10B-header}</th>
     </tr>
   </thead>
   <tbody>
@@ -1703,7 +1703,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10C-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table10C-header}</th>
     </tr>
   </thead>
   <tbody>
@@ -1729,7 +1729,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10D-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table10D-header}</th>
     </tr>
   </thead>
   <tbody>
@@ -1755,7 +1755,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10E-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table10E-header}</th>
     </tr>
   </thead>
   <tbody>
@@ -1853,7 +1853,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table10F-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table10F-header}</th>
     </tr>
   </thead>
   <tbody>

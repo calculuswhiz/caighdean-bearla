@@ -77,7 +77,7 @@
 | -> {11-2-1-b-sample-4b_ga} | -> {11-2-1-b-sample-4b}
 |===
 +
-*Note:* {11-2-1-b-note}
+*{Note}:* {11-2-1-b-note}
 
 . {11-2-1-c-p}
 +
@@ -90,7 +90,7 @@
 | -> {11-2-1-c-sample-2b_ga} | -> {11-2-1-c-sample-2b}
 |===
 +
-*Note:* {11-2-1-c-note}
+*{Note}:* {11-2-1-c-note}
 
 . {11-2-1-d-p}
 +
@@ -110,10 +110,10 @@
 | {11-2-1-e-sample-2_ga} | {11-2-1-e-sample-2}
 |===
 +
-*Note:* {11-2-1-e-note}
+*{Note}:* {11-2-1-e-note}
 
 . {11-2-1-f-p}
-
++
 [.samplebox]
 [cols="1,1"]
 |===
@@ -160,7 +160,7 @@
 | -> {11-3-1-b-sample-2b_ga} | -> {11-3-1-b-sample-2b}
 |===
 +
-*Note:* {11-3-1-b-note}
+*{Note}:* {11-3-1-b-note}
 
 . {11-3-1-c-p1}
 +
@@ -234,7 +234,7 @@
 | -> {11-3-1-e-sample-4b_ga} | -> {11-3-1-e-sample-4b}
 |===
 +
-*Note:* {11-3-1-e-note}
+*{Note}:* {11-3-1-e-note}
 
 . {11-3-1-f-p}
 +
@@ -258,7 +258,7 @@
 | {11-3-1-g-sample-2_ga} | {11-3-1-g-sample-2}
 |===
 +
-*Note:* {11-3-1-g-note}
+*{Note}:* {11-3-1-g-note}
 
 . {11-3-1-h-p}
 +
@@ -273,7 +273,7 @@
 | {11-3-1-h-sample-6_ga} | {11-3-1-h-sample-6}
 |===
 +
-*Note:* {11-3-1-h-note}
+*{Note}:* {11-3-1-h-note}
 
 . {11-3-1-i-p1}
 +
@@ -299,7 +299,7 @@
 
 {11-4-2-p}
 
-*Note:* {11-4-2-note}
+*{Note}:* {11-4-2-note}
 
 === 11.4.3
 
@@ -313,7 +313,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table11A-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table11A-header}</th>
     </tr>
     <tr>
       <th>{Table11A-col1}</th>
@@ -355,7 +355,7 @@
 </table>
 ++++
 
-*Note:* {11-4-3-note}
+*{Note}:* {11-4-3-note}
 
 '''
 
@@ -377,7 +377,7 @@
   </caption>
   <thead>
     <tr>
-      <th colspan=2>{Table11B-header}</th>
+      <th colspan=2 class="text-xl py-2">{Table11B-header}</th>
     </tr>
     <tr>
       <th>{Table11B-col1}</th>
@@ -419,7 +419,7 @@
 </table>
 ++++
 
-*Note:* {11-5-2-note}
+*{Note}:* {11-5-2-note}
 
 '''
 
@@ -780,44 +780,44 @@ h| {Table11E-header1} h| {Table11E-header2} h| {Table11E-header3} h| {Table11E-h
 |===
 h| {Table11F-header1} h| {Table11F-header2}
 
-| cad 
+h| cad 
 a| . Cad a tharla?
 . Cad is brí leis sin?
 
-| cathain | Cathain a fuair tú an carr nua?
+h| cathain | Cathain a fuair tú an carr nua?
 
-| cá fhad, cén fhad* a| . Cá fhad a bhí sibh ann?
+h| cá fhad, cén fhad* a| . Cá fhad a bhí sibh ann?
 . Cén fhad a mhair an cheolchoirm?
 
-| cá mhéad, cé mhéad, cén méid
+h| cá mhéad, cé mhéad, cén méid
 a| . Cá mhéad leabhar atá agat?
 . Cé mhéad a fuair tú mar íocaíocht?
 . Cén méid a chosnaíonn sé?
 
-| cé | Cé a bhí leat?
+h| cé | Cé a bhí leat?
 
-| cé acu, cibé acu 
+h| cé acu, cibé acu 
 a| . Cé acu mise nó tusa atá i gceist?
 . Is cuma liom cé acu a rinne sé é nó nach ndearna.
 . Beidh feidhm ag an socrú cibé acu atá sé sásta nó nach bhfuil.
 
-| céard | Céard atá ar siúl agat?
+h| céard | Céard atá ar siúl agat?
 
-| cá huair, cén uair
+h| cá huair, cén uair
 a| . Cá huair a tháinig sí?
 . Cén uair a chríochnóidh an scannán?
 
-| chomh + dobhriathar ama + is
+h| chomh + dobhriathar ama + is
 a| . Coimeádfar na sonraí sin chomh fada is a bheidh siad riachtanach.
 . Cé chomh minic (is) a bhíonn cóisir agaibh sa teach?
 
-| conas | Conas a dhéanann tú é?
+h| conas | Conas a dhéanann tú é?
 
-| cad é mar, mar (_cónasc_) 
+h| cad é mar, mar (_cónasc_) 
 a| . Cad é mar a chuir tú aithne air?
 . Déan mar is ceart é.
 
-| nuair | Cuirfidh mé scairt ort nuair a bheidh deis agam.
+h| nuair | Cuirfidh mé scairt ort nuair a bheidh deis agam.
 
 |===
 
@@ -829,37 +829,39 @@ a| . Cad é mar a chuir tú aithne air?
 |===
 h| {Table11G-header1} h| {Table11G-header2}
 
-| an áit, cá háit, cén áit
+h| an áit, cá háit, cén áit
 a| . Sin an áit a raibh sé.
 . Cá háit a mbíonn na ranganna sin ar siúl?
 . Cén áit a ndeachaigh sibh ansin?
 
-| an chaoi, cén chaoi
+h| an chaoi, cén chaoi
 a| . Ba é sin an chaoi ar chuala mé faoi.
 . Cén chaoi ar tharla a leithéid?
 
-| an dóigh, cén dóigh
+h| an dóigh, cén dóigh
 a| . Sin an dóigh a bhfuil sé anois.
 . Cén dóigh a ndéantar an obair?
 
-| an fáth, cén fáth
+h| an fáth, cén fáth
 a| . Is é sin an fáth a raibh áthas orm.
 . Cén fáth a gcuireann tú do chuid ama amú mar sin?
-. cad chuige Cad chuige a ndearna tú sin?
-. cad ina thaobh Cad ina thaobh ar inis tú bréag?
 
-| an tslí, cén tslí
+h| cad chuige | Cad chuige a ndearna tú sin?
+
+h| cad ina thaobh | Cad ina thaobh ar inis tú bréag?
+
+h| an tslí, cén tslí
 a| . Ní maith liom an tslí a bhfuil sé á chur i bhfeidhm.
 . Cén tslí a dtoghtar comhaltaí an tSeanaid?
 
-| a, ar (_sa bhrí_ an méid a, an méid ar);
+h| a, ar (_sa bhrí_ an méid a, an méid ar);
 gach a, gach ar (_sa bhrí_ gach rud a, gach rud ar)
 a| . Ólann sé a dtuilleann sé.
 . D'ól sé ar thuill sé.
 . Faigheann sí gach a bhfuil ag teastáil.
 . Fuair sí gach ar theastaigh uaithi.
 
-| mar (_sa bhrí_ áit)
+h| mar (_sa bhrí_ áit)
 a| . Chuaigh mé go dtí an siopa éadaí mar a ndíoltar geansaithe áille olla.
 . Sin é teach m'aintín mar ar mhinic mo chuairt.
 

@@ -29,11 +29,11 @@
       <th colspan="2">{Table8A-col2}</th>
     </tr>
     <tr>
-        <th class="bg-stone-300 text-black"></th>
-        <th class="bg-stone-300 text-black">{TheSingularNumber}</th>
-        <th class="bg-stone-300 text-black">{ThePluralNumber}</th>
-        <th class="bg-stone-300 text-black">{TheSingularNumber}</th>
-        <th class="bg-stone-300 text-black">{ThePluralNumber}</th>
+        <th></th>
+        <th>{TheSingularNumber}</th>
+        <th>{ThePluralNumber}</th>
+        <th>{TheSingularNumber}</th>
+        <th>{ThePluralNumber}</th>
     </tr>
   </thead>
   <tbody>
@@ -373,7 +373,7 @@
 
 [.chapter-8]
 [%header]
-[cols="1,1,1,1,1"]
+[cols="1.5,1,1,1,1"]
 .*{Table} 8D* {8D-caption}
 |===
 h|
@@ -425,7 +425,7 @@ h|
 
 [.chapter-8]
 [%header]
-[cols="1,1,1,1,1"]
+[cols="1.5,1,1,1,1"]
 .*{Table} 8E* {8E-caption}
 |===
 h|
@@ -880,7 +880,7 @@ h|
 
 {8-6-2-p}
 
-[samplebox]
+[.samplebox]
 [cols="1"]
 |===
 | {8-6-2-sample1}

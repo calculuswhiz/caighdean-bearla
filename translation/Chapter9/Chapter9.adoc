@@ -462,12 +462,12 @@ h| 10 | deich dtroithe cearnacha ||
 === 9.3.5 {9-3-5-title}
 
 [list-[lower-alpha]]
-. {9-3-5-a-p}
+. *{9-3-5-a-p}*
 [list-[lower-roman]]
 .. {9-3-5-a-i-p}
 .. {9-3-5-a-ii-p}
 .. {9-3-5-a-iii-p}
-. {9-3-5-b-p}
+. *{9-3-5-b-p}*
 [list-[lower-roman]]
 .. {9-3-5-b-i-p}
 .. {9-3-5-b-ii-p}
@@ -942,7 +942,7 @@ h| 12 | dháréag bádóirí | soitheach dháréag bádóirí
 
 +
 [.chapter-9]
-[cols="1,4,4"]
+[cols="2,4,4"]
 [options="header"]
 .*{Table} 9T* {Table9T-caption}
 |===
@@ -1371,6 +1371,8 @@ h| 3/3,234,567 | trí cinn de thrí mhilliún, dhá chéad tríocha is ceithre m
 
 |===
 . *{9-6-3-b-title}*
++
+{9-6-3-b-p}
 +
 [.chapter-9]
 [options="header"]

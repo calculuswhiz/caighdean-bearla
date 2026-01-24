@@ -934,8 +934,8 @@
 :10-4-1-c-sample-2_ga: Is ar líne *a chraolfar* é.
 :10-4-1-c-sample-2_en: It is online *that it will be broadcast*.
 
-:10-4-1-c-p2_ga: Ach, tabhair faoi deara --
-:10-4-1-c-p2_en: But, note --
+:10-4-1-c-p2_ga: *Ach*, tabhair faoi deara --
+:10-4-1-c-p2_en: *But*, note --
 
 :10-4-1-c-i-p_ga: Taobh amuigh de bhriathra neamhrialta áirithe -- _bhíothas_, _chonacthas_, _chualathas_, _chuathas_, _thángthas_ -- ní shéimhítear an saorbhriathar san aimsir chaite, e.g., _Buaileadh go dona iad_; _an geall a briseadh_:
 :10-4-1-c-i-p_en: Outside certain irregular verbs -- _bhíothas_, _chonacthas_, _chualathas_, _chuathas_, _thángthas_ -- the verbal noun in the past tense is not lenited, e.g., _Buaileadh go dona iad_; _an geall a briseadh_:
@@ -991,8 +991,8 @@
 :10-4-2-sample-9_ga: Bhí mise anseo *sular tháinig* Seán.
 :10-4-2-sample-9_en: I was here *before* Seán *came*.
 
-:10-4-2-p2_ga: Ach, tabhair faoi deara:
-:10-4-2-p2_en: But, note:
+:10-4-2-p2_ga: *Ach*, tabhair faoi deara:
+:10-4-2-p2_en: *But*, note:
 
 :10-4-2-a-p_ga: go n-uraítear an briathar _faigh_ sa leagan spleách san aimsir chaite, san aimsir fháistineach agus sa mhodh coinníollach i ndiaidh na míre briathartha _ní_, e.g., _Ní bhfuair tú ansin iad_; _Ní bhfaighinn aon chabhair uathu_ (féach 10.8.2(b)).
 :10-4-2-a-p_en: that the verb _faigh_ is eclipsed in the dependent form in the past tense, future tense and conditional mood after the verbal particle _ní_, e.g., _Ní bhfuair tú ansin iad_; _Ní bhfaighinn aon chabhair uathu_ (see 10.8.2(b)).
@@ -1417,7 +1417,7 @@
 :10-11-2-b-p2_ga: Tabhair faoi deara nach n-úsáidtear an leagan iolra ar leith den ainmfhocal _uair_ nuair is aonad 60 nóiméad atá i gceist, e.g., _Thóg sé trí uair an chloig orm an obair a chríochnú_.
 :10-11-2-b-p2_en: Note that the specific plural form of the noun _uair_ is not used when referring to a unit of 60 minutes, e.g., _Thóg sé trí uair an chloig orm an obair a chríochnú_.
 
-:10-11-3-title_ga: I nDiaidh na Réamhfhocal l_e agus _go_
+:10-11-3-title_ga: I nDiaidh na Réamhfhocal _le_ agus _go_
 :10-11-3-title_en: After the Prepositions _le_ and _go_
 
 :10-11-3-p_ga: Cuirtear h roimh ainmfhocal a thosaíonn ar ghuta i ndiaidh na réamhfhocal le agus go (sa bhrí _go dtí_), e.g., _ó mhaidin go hoíche_; _le hintinn mhaith_; _le hÁine_; _go hAlasca_.

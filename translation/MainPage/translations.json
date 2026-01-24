@@ -1,0 +1,90 @@
+{
+  "documentTitle": {
+    "ga": "An Caighdeán Oifigiúil 2017; Gramadach na Gaeilge — Leagan Gréasáin",
+    "en": "The Official Standard 2017; Irish Grammar — Web Version"
+  },
+
+  "bookTitle": {
+    "ga": "An Caighdeán Oifigiúil 2017",
+    "en": "The Official Standard 2017"
+  },
+  "bookSubtitle": {
+    "ga": "Gramadach na Gaeilge",
+    "en": "Irish Grammar"
+  },
+  "bookAbout": {
+    "ga": "An treoir le haghaidh scríbhneoireacht sa Ghaeilge",
+    "en": "The guide for writing in Irish"
+  },
+  "bookPublisherInfo": {
+    "ga": "Arna Fhoilsiú ag Seirbhís Thithe an Oireachtais",
+    "en": "Published by the Service of the Houses of the Oireachtas"
+  },
+  "chapterSelection": {
+    "ga": "Roghnaigh Caibidil",
+    "en": "Select Chapter"
+  },
+  "prefaceTitle": {
+    "ga": "An Réamhrá",
+    "en": "The Preface"
+  },
+  "advisoryCommittee": {
+    "ga": "Comhaltaí an Choiste Chomhairligh",
+    "en": "Members of the Advisory Committee"
+  },
+  "preface1stEd": {
+    "ga": "Réamhrá an Chéad Eagráin",
+    "en": "The Preface to the First Edition"
+  },
+  "abbrevAndGrammarTitle": {
+    "ga": "Noda agus Mínithe Gramadaí",
+    "en": "Abbreviations and Grammar Explanations"
+  },
+
+  "chapterTitles": {
+    "Chapter1": {
+      "ga": "Caibidil 1 — An Alt",
+      "en": "Chapter 1 — The Article"
+    },
+    "Chapter2": {
+      "ga": "Caibidil 2 — An tAinmfhocal",
+      "en": "Chapter 2 — The Noun"
+    },
+    "Chapter3": {
+      "ga": "Caibidil 3 — Ainmfhocail Chinnte agus Éiginnte, Giorrúcháin agus Foirm an Ainmnigh in ionad an Ghinidigh",
+      "en": "Chapter 3 — Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in the Place of the Genitive"
+    },
+    "Chapter4": {
+      "ga": "Caibidil 4 — An Aidiacht",
+      "en": "Chapter 4 — The Adjective"
+    },
+    "Chapter5": {
+      "ga": "Caibidil 5 — An Briathar",
+      "en": "Chapter 5 — The Verb"
+    },
+    "Chapter6": {
+      "ga": "Caibidil 6 — An Dobhriathar",
+      "en": "Chapter 6 — The Adverb"
+    },
+    "Chapter7": {
+      "ga": "Caibidil 7 — An Chopail",
+      "en": "Chapter 7 — The Copula"
+    },
+    "Chapter8": {
+      "ga": "Caibidil 8 — An Forainmneach",
+      "en": "Chapter 8 — The Pronominal"
+    },
+    "Chapter9": {
+      "ga": "Caibidil 9 — An Uimhir",
+      "en": "Chapter 9 — The Number"
+    },
+    "Chapter10": {
+      "ga": "Caibidil 10 — Na hAthruithe Tosaigh",
+      "en": "Chapter 10 — The Initial Mutations"
+    },
+    "Chapter11": {
+      "ga": "Caibidil 11 — An Clásal Coibhneasta",
+      "en": "Chapter 11 — The Relative Clause"
+    }
+  }
+}
