@@ -157,28 +157,28 @@
 
 | *suas* +
 Tá sé ag dul *suas* an staighre.
-| *thuas* {Table6A-row1} +
+| *thuas* +
 Tá sé *thuas* staighre.
 | *anuas* +
 Tá sé ag teacht *anuas* an staighre.
 
 | *síos*
 Tá sí ag dul *síos* an staighre.
-| *thíos* {Table6A-row2} +
+| *thíos* +
 Tá sí *thíos* staighre.
 | *aníos* +
 Tá sí ag teacht *aníos* an staighre.
 
 | *amach*
 An bhfuil tú ag dul *amach* don oíche?
-| *amuigh* {Table6A-row3} +
+| *amuigh* +
 Táim *amuigh*.
 | *amach* +
 Tá sí ag teacht *amach* chomh fada leat.
 
 | *isteach*
 An bhfuil tú ag dul *isteach* sa teach?
-| *istigh* {Table6A-row4} +
+| *istigh* +
 Is *istigh* sa teach a tharla an timpiste.
 | *isteach* +
 Tar *isteach* chugam!
@@ -191,35 +191,35 @@ Tar *isteach* chugam!
 
 | *ó thuaidh* +
 Rachaimid *ó thuaidh* amárach.
-| *ó thuaidh*/*thuaidh* {Table6B-row1} +
+| *ó thuaidh*/*thuaidh* +
 Tá an siopa sin ar an taobh *ó thuaidh*/*thuaidh* den chontae.
 | *aduaidh* +
 Tháinig siad *aduaidh* inné.
 
 | *ó dheas* +
 D'imigh sé *ó dheas* ar maidin.
-| *ó dheas*/*theas* {Table6B-row2} +
+| *ó dheas*/*theas* +
 Tá teach acu ar an gcósta *ó dheas*/*theas*.
 | *aneas* +
 Tá sí ag teacht *aneas* faoi láthair.
 
 | *soir* + 
 An ndeachaigh tú *soir* chucu?
-| *thoir* {Table6B-row3} +
+| *thoir* +
 Chuaigh, ach ní raibh aon duine *thoir*.
 | *anoir* +
 Bhí orm teacht *anoir* arís.
 
 | *siar* +
 An bhfuil tú ag dul *siar* anocht?
-| *thiar* {Table6B-row4} +
+| *thiar* +
 An raibh tú *thiar* aréir?
 | *aniar* +
 An mbeidh siad ag teacht *aniar* ar cuairt?
 
 | *anonn*/*sall* +
 An ndeachaigh Áine *sall*/*anonn* go Sasana inné?
-| *thall* {Table6B-row5} +
+| *thall* +
 Chuaigh, tá sí *thall* le seachtain.
 | *anall* +
 Cén uair a thiocfaidh sí *anall* arís?
@@ -227,9 +227,9 @@ Cén uair a thiocfaidh sí *anall* arís?
 
 '''
 
-== 6.2 {6-2-title}
+== 6.4 {6-4-title}
 
-{6-2-p1}
+{6-4-p1}
 
 [.compass-block]
 --
@@ -247,15 +247,16 @@ image::{rootRef}Compass-quarter.svg[Static]
 --
 
 [.compass-basic-table]
+[.w-full]
 [cols="1,1,1,1"]
 |===
-| *T (an tuaisceart {CompassT})*
-| *D (an deisceart {CompassD})*
-| *O (an t-oirthear {CompassO})*
-| *I (an t-iarthar {CompassI})*
+| *T (an tuaisceart)*
+| *D (an deisceart)*
+| *O (an t-oirthear)*
+| *I (an t-iarthar)*
 |===
 
-{6-2-p2}
+{6-4-p2}
 
 .*{Table} 6C*  {Table6C-caption}
 [.chapter-6]

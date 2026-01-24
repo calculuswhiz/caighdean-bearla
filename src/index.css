@@ -18,8 +18,7 @@
   }
 
   .sectionbody,
-  .sect2 h3 ~ *,
-  li {
+  .sect2 h3 ~ * {
     @apply pl-1 border-l-3 border-gray-200;
   }
 

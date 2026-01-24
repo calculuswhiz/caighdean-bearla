@@ -171,14 +171,14 @@
 :Table6B-row4_en: -- West
 :Table6B-row5_en: -- Over (e.g. there)
 
-:6-2-title_ga: Airde an Chompáis
-:6-2-title_en: Points on the Compass
+:6-4-title_ga: Airde an Chompáis
+:6-4-title_en: Points on the Compass
 
-:6-2-p1_ga: Ionas gur féidir idirdhealú a dhéanamh idir na treonna, cuirtear príomhairde an chompáis i láthair sa léaráid thíos le túslitir an fhocail:
-:6-2-p1_en: In order to distinguish between the directions, the main compass point is presented in the diagram below with the initial letter of the word:
+:6-4-p1_ga: Ionas gur féidir idirdhealú a dhéanamh idir na treonna, cuirtear príomhairde an chompáis i láthair sa léaráid thíos le túslitir an fhocail:
+:6-4-p1_en: In order to distinguish between the directions, the main compass point is presented in the diagram below with the initial letter of the word:
 
-:6-2-p2_ga: Léirítear thíos noda do na fo-airde a bhaineann leis an gceathramhán den chompás atá thuas.
-:6-2-p2_en: Below are the abbreviations for the sub-points associated with the quadrant of the compass above.
+:6-4-p2_ga: Léirítear thíos noda do na fo-airde a bhaineann leis an gceathramhán den chompás atá thuas.
+:6-4-p2_en: Below are the abbreviations for the sub-points associated with the quadrant of the compass above.
 
 :Table6C-caption_ga: Airde an Chompáis
 :Table6C-caption_en: Points on the Compass

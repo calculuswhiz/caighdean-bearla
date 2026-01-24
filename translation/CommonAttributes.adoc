@@ -22,7 +22,7 @@
 :Lenition_ga: séimhiú
 :Lenition_en: lenition
 
-:Table_ga: Tábhla
+:Table_ga: Tábla
 :Table_en: Table
 
 :General_ga: Ginearálta
