@@ -296,7 +296,7 @@
 
 [subs=attributes,replacements]
 ++++
-<table class="chapter-2">
+<table class="chapter-2 top-level-table">
   <caption>
     <strong>{Table} 2E</strong> {2-1-8-title}
   </caption>

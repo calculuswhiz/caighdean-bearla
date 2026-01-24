@@ -13,10 +13,6 @@
     @apply font-serif tracking-wide;
   }
 
-  a {
-    @apply text-blue-600 underline;
-  }
-
   .sectionbody,
   .sect2 h3 ~ * {
     @apply pl-1 border-l-3 border-gray-200;
@@ -40,6 +36,12 @@
 
   hr {
     @apply my-5 border-2 border-gray-500;
+  }
+
+  .top-level-table {
+    & > tbody > tr > td {
+      @apply p-0;
+    }
   }
 
   table {
@@ -196,6 +198,14 @@
   .verb-table {
     @apply my-4;
 
+    & > tbody > tr > td {
+      @apply p-0;
+
+      & table {
+        @apply w-full;
+      }
+    }
+
     & .primary-header {
       @apply bg-orange-800 text-white text-2xl p-1 text-left;
     }
@@ -206,11 +216,6 @@
 
     & .tense-row th {
       @apply bg-stone-300 text-black px-1;
-    }
-
-    & th,
-    & td {
-      @apply px-0;
     }
   }
 

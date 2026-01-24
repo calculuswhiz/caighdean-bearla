@@ -9,11 +9,11 @@
 :10-1-p_ga: Is é is athrú tosaigh ann athrú a dhéantar ar thús focail mar gheall ar inscne, tuiseal, aimsir nó cúinsí eile gramadaí. Áirítear ar na hathruithe tosaigh an séimhiú, an t-urú, _t_ roimh ghuta, _t_ roimh _s_, _h_ roimh ghuta agus _d'_ roimh ghuta nó roimh _fh-_. Tugtar míniú anseo ar úsáid na n-athruithe tosaigh, lena n-áirítear an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal baininscneach agus an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol.
 :10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a narrow consonant.
 
-:10-1_5-title_ga: An Séimhiú
-:10-1_5-title_en: Lenition
+:h2-gp-2-5-title_ga: An Séimhiú
+:h2-gp-2-5-title_en: Lenition
 
-:10-1_5-p_ga: Is iad seo na consain inséimhithe: _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (ach amháin i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ agus _sv-_) agus _t_.
-:10-1_5-p_en: These are the lenitable consonants: _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (except for _sc-_, _sf-_, _sm-_, _sp-_, _st-_ and _sv-_) and _t_.
+:h2-gp-2-5-p_ga: Is iad seo na consain inséimhithe: _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (ach amháin i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ agus _sv-_) agus _t_.
+:h2-gp-2-5-p_en: These are the lenitable consonants: _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (except for _sc-_, _sf-_, _sm-_, _sp-_, _st-_ and _sv-_) and _t_.
 
 :10-2-title_ga: Séimhiú ar an Ainmfhocal
 :10-2-title_en: Lenition of the Noun
@@ -1027,11 +1027,11 @@
 :10-5-2-sample-2_ga: Níor thrácht sé ar *cad* a bhí le déanamh.
 :10-5-2-sample-2_en: He did not mention *what* was to be done.
 
-:10-6_5-title_ga: An tUrú
-:10-6_5-title_en: Eclipsis
+:h2-gp-6-8-title_ga: An tUrú
+:h2-gp-6-8-title_en: Eclipsis
 
-:10-6_5-p_ga: Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_. Cuirtear _n-_ roimh ghuta san áit a ndéanfaí urú a chur ar chonsan, ach amháin sa tuiseal tabharthach ar lorg an ailt nó an ailt i gcumasc le réamhfhocal, e.g., _ar an uisce_, _faoin ábhar_; agus i gcás _i_ (féach 10.6.4). Cuirtear fleiscín idir an t-urú _n_ agus guta, e.g., _líon na n-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _meon na nAlbanach_.
-:10-6_5-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article combined with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see 10.6.4). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
+:h2-gp-6-8-p_ga: Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_. Cuirtear _n-_ roimh ghuta san áit a ndéanfaí urú a chur ar chonsan, ach amháin sa tuiseal tabharthach ar lorg an ailt nó an ailt i gcumasc le réamhfhocal, e.g., _ar an uisce_, _faoin ábhar_; agus i gcás _i_ (féach 10.6.4). Cuirtear fleiscín idir an t-urú _n_ agus guta, e.g., _líon na n-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _meon na nAlbanach_.
+:h2-gp-6-8-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article combined with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see 10.6.4). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
 
 :10-6-title_ga: Urú ar an Ainmfhocal
 :10-6-title_en: Eclipsis on the Noun
@@ -1294,11 +1294,11 @@
 :10-8-2-b-sample-3_ga: *Ní bhfaighfeá* san ollmhargadh sin é.
 :10-8-2-b-sample-3_en: You *would not get* it in that supermarket.
 
-:10-8_5-title_ga: _t_ roimh Ghuta nó roimh _s_
-:10-8_5-title_en: _t_ before a Vowel or before _s_
+:h2-gp-9-10-title_ga: _t_ roimh Ghuta nó roimh _s_
+:h2-gp-9-10-title_en: _t_ before a Vowel or before _s_
 
-:10-8_5-p_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, e.g., _an t-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _an tAlbanach_. Ní chuirtear fleiscín riamh idir an réamhlitir _t_ agus _s_, e.g., _an tsatailít_; _an tSeapáin_.
-:10-8_5-p_en: A hyphen is placed between the initial letter _t_ and a vowel, e.g., _an t-ospidéal_; except when the vowel is a proper noun initial, e.g., _an tAlbanach_. A hyphen is never placed between the initial letter _t_ and _s_, e.g., an tsatailít; an tSeapáin.
+:h2-gp-9-10-p_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, e.g., _an t-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _an tAlbanach_. Ní chuirtear fleiscín riamh idir an réamhlitir _t_ agus _s_, e.g., _an tsatailít_; _an tSeapáin_.
+:h2-gp-9-10-p_en: A hyphen is placed between the initial letter _t_ and a vowel, e.g., _an t-ospidéal_; except when the vowel is a proper noun initial, e.g., _an tAlbanach_. A hyphen is never placed between the initial letter _t_ and _s_, e.g., an tsatailít; an tSeapáin.
 
 :10-9-title_ga: _t_ roimh Ghuta i nDiaidh an Ailt
 :10-9-title_en: _t_ before a Vowel after the Article
@@ -1360,11 +1360,11 @@
 :10-10-2-b-sample-2_ga: Is í seo an *chéad saoire* a bheidh againn le chéile.
 :10-10-2-b-sample-2_en: This is the *first holiday* we will have together.
 
-:10-10_5-title_ga: _h_ roimh Ghuta
-:10-10_5-title_en: _h_ before a Vowel
+:h2-gp-11-14-title_ga: _h_ roimh Ghuta
+:h2-gp-11-14-title_en: _h_ before a Vowel
 
-:10-10_5-p_ga: Ní chuirtear fleiscín idir an réamhlitir _h_ agus guta, e.g., _le háthas_; _go hÉirinn_; _na húlla_. Cuirtear _h_ roimh ghuta sna cásanna seo a leanas.
-:10-10_5-p_en: A hyphen is not placed between the initial letter _h_ and a vowel, e.g., _le háthas_; _go hÉirinn_; _na húlla_. _h_ is placed before a vowel in the following cases.
+:h2-gp-11-14-p_ga: Ní chuirtear fleiscín idir an réamhlitir _h_ agus guta, e.g., _le háthas_; _go hÉirinn_; _na húlla_. Cuirtear _h_ roimh ghuta sna cásanna seo a leanas.
+:h2-gp-11-14-p_en: A hyphen is not placed between the initial letter _h_ and a vowel, e.g., _le háthas_; _go hÉirinn_; _na húlla_. _h_ is placed before a vowel in the following cases.
 
 :10-11-title_ga: _h_ Roimh Ghuta -- An tAinmfhocal
 :10-11-title_en: _h_ Before a Vowel -- The Noun
@@ -1627,8 +1627,8 @@
 :10-14-1-sample-3_ga: *Ná hóltar* sa Dánlann.
 :10-14-1-sample-3_en: *Do not drink* in the Library.
 
-:10-14_5-title_ga: _d'_ Roimh Ghuta nó Roimh _fh_
-:10-14_5-title_en: _d'_ Before a Vowel or Before _fh_
+:h2-gp-15-title_ga: _d'_ Roimh Ghuta nó Roimh _fh_
+:h2-gp-15-title_en: _d'_ Before a Vowel or Before _fh_
 
 :10-15-title_ga: _d'_ roimh Ghuta nó roimh _fh_ -- An Briathar
 :10-15-title_en: _d'_ before a Vowel or before _fh_ -- The Verb
