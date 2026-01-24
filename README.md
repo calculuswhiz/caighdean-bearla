@@ -1,11 +1,11 @@
-# caighdean-bearla
+# caighdean-i18n
 
 Probably not the best repo name, but we can always rename it later.
 
 Another shot at an unofficial translation project of **Gramadach na Gaeilge - An Caighdeán Oifigiúil** (2017 edition)
 
-- Source code tracked at https://github.com/calculuswhiz/caighdean-bearla.
-- Current translation can be viewed at at https://calculuswhiz.github.io/caighdean-bearla/.
+- Source code tracked at https://github.com/calculuswhiz/caighdean-i18n.
+- Current translation can be viewed at at https://calculuswhiz.github.io/caighdean-i18n/.
 
 I found a translation effort [here](https://caighdean.home.blog/), but it seems to have not been updated since 2019. There was an attempt to put it on GitHub, but according to the blog author, it had to be taken down due to a security flaw.
 
@@ -68,7 +68,7 @@ If a table has multiple sub-tables (e.g. 2A), it shall be grouped as one table. 
 
 # Contributing
 
-Please create a branch and submit a pull request to make changes, or a new [issue](https://github.com/calculuswhiz/caighdean-bearla/issues). Just make sure it's easy to extract text from.
+Please create a branch and submit a pull request to make changes, or a new [issue](https://github.com/calculuswhiz/caighdean-i18n/issues). Just make sure it's easy to extract text from.
 
 - Translations are stored in **translation**.
   - Organized by Chapter
