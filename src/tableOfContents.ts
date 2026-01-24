@@ -2,7 +2,7 @@ import { EasyDOM } from "./EasyDOM";
 import translations from "../translation/MainPage/translations.json";
 
 const docLang: keyof typeof translations["tableOfContents"] 
-  = location.href.match(/-(.*)\.html/)?.[1] as keyof typeof translations["tableOfContents"] 
+  = location.href.match(/-(\w+)\.html/)?.[1] as keyof typeof translations["tableOfContents"] 
     ?? 'en';
 
 function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
