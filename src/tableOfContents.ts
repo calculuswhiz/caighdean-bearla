@@ -1,10 +1,6 @@
 import { EasyDOM } from "./EasyDOM";
 import translations from "../translation/MainPage/translations.json";
 
-const docLang: keyof typeof translations["tableOfContents"] 
-  = location.href.match(/-(\w+)\.html/)?.[1] as keyof typeof translations["tableOfContents"] 
-    ?? 'en';
-
 function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
   return EasyDOM.createElement("li")
     .addClasses('toc-item', 'my-1')
@@ -16,7 +12,7 @@ function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
 }
 
 /** Scan DOM, adding Table of Contents element to the document */
-export function generateTableOfContents() {
+export function generateTableOfContents(docLang: keyof typeof translations["tableOfContents"] = 'en') {
   const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
 
   const showHideSpan = EasyDOM.createElement("span")
