@@ -13,9 +13,10 @@
 <body>
   <header>
     <div id="home-menu-container">
-      <a href="../">Menu | Roghchlár</a>
+      <a id="menu-link" href="../"></a>
     </div>
   </header>
+  <div id="toc-container"></div>
   <div id="root">
     <!-- Insert content here -->
   </div>
@@ -25,6 +26,7 @@
   <script>
     document.title = document.querySelector('h1').textContent;
   </script>
+  <script type="module" src="/src/chapterScripts.ts"></script>
 </body>
 
 </html>

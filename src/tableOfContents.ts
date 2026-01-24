@@ -1,0 +1,82 @@
+import { EasyDOM } from "./EasyDOM";
+import translations from "../translation/MainPage/translations.json";
+
+const docLang: keyof typeof translations["tableOfContents"] 
+  = location.href.match(/-(.*)\.html/)?.[1] as keyof typeof translations["tableOfContents"] 
+    ?? 'en';
+
+function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
+  return EasyDOM.createElement("li")
+    .addClasses('toc-item', 'my-1')
+    .append(
+      EasyDOM.createElement("a")
+        .setProperties({ href: `#${heading.id}` })
+        .setText(heading.textContent ?? "")
+    );
+}
+
+/** Scan DOM, adding Table of Contents element to the document */
+export function generateTableOfContents() {
+  const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
+
+  const showHideSpan = EasyDOM.createElement("span")
+    .addClasses('toc-toggle', 'text-sm', 'ml-4', 'cursor-pointer', 'text-blue-700')
+    .setText("Show/hide");
+
+  showHideSpan.element.addEventListener('click', () => {
+    rootList.element.classList.toggle('hidden');
+  });
+
+  const tocContainer = EasyDOM.createElement("div")
+    .addClasses('toc-container', 'border', 'p-4', 'mb-6', 'bg-gray-100')
+    .append(
+      EasyDOM.createElement("h2")
+        .addClasses('toc-title', 'text-xl', 'font-bold', 'mb-4', 'select-none')
+        .setText(translations.tableOfContents[docLang])
+        .append(showHideSpan),
+    );
+
+  const rootList = EasyDOM.createElement("ul").addClasses('hidden');
+  tocContainer.append(rootList);
+
+  let writeRef = rootList;
+
+  // Normalized at 0 = h2
+  let currentLevel = 0;
+  for (const heading of headings) {
+    if (heading.textContent.replace(/\d+(\.\d+)+/, '').trim() === "")
+      // Skip headings with no text
+      continue;
+
+    const level = parseInt(heading.tagName.substring(1)) - 2;
+    const levelDiff = level - currentLevel;
+
+    if (levelDiff > 0) {
+      for (let i = 0; i < levelDiff; i++) {
+        const newList = EasyDOM.createElement("ul")
+          .addClasses('toc-list', 'list-disc', 'ml-4', 'mt-1', 'mb-1', 'pl-4');
+        writeRef.append(newList);
+        writeRef = newList;
+      }
+
+      currentLevel = level;
+      writeRef.append(createListItem(heading));
+    } else if (levelDiff < 0) {
+      for (let i = 0; i < -levelDiff; i++) {
+        if (writeRef.element.parentElement) {
+          const parent = writeRef.element.parentElement.closest('ul');
+          if (parent) 
+            writeRef = new EasyDOM(parent);
+        }
+      }
+
+      currentLevel = level;
+      writeRef.append(createListItem(heading));
+    } else {
+      // Same level
+      writeRef.append(createListItem(heading));
+    }
+  }
+
+  EasyDOM.querySelector<HTMLDivElement>("#toc-container")?.append(tocContainer.element);
+}

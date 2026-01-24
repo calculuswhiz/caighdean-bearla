@@ -41,6 +41,21 @@
     "en": "Abbreviations and Grammar Explanations"
   },
 
+  "tableOfContents": {
+    "ga": "Clár an Ábhar",
+    "en": "Table of Contents"
+  },
+
+  "showHide": {
+    "ga": "Taispeáin/Folaigh",
+    "en": "Show/Hide"
+  },
+
+  "menu": {
+    "ga": "Roghchlár",
+    "en": "Menu"
+  },
+
   "chapterTitles": {
     "Chapter1": {
       "ga": "Caibidil 1 — An Alt",

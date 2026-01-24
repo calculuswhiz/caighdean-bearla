@@ -13,9 +13,10 @@
 <body>
   <header>
     <div id="home-menu-container">
-      <a href="../">Menu | Roghchlár</a>
+      <a id="menu-link" href="../"></a>
     </div>
   </header>
+  <div id="toc-container"></div>
   <div id="root">
     <h1>Members of the Advisory Committee</h1>
 <div class="paragraph">
@@ -209,6 +210,7 @@
   <script>
     document.title = document.querySelector('h1').textContent;
   </script>
+  <script type="module" src="/src/chapterScripts.ts"></script>
 </body>
 
 </html>
