@@ -140,7 +140,7 @@ function addChapterSelectLinks() {
       
       const link = EasyDOM.createElement("a")
         .setProperties({
-          href: `/entrypoints/${x.id}-${availableLanguages[currentLanguageIdx].linkSuffix}.html`,
+          href: `./entrypoints/${x.id}-${availableLanguages[currentLanguageIdx].linkSuffix}.html`,
           title: getLabelText(x.labelChain)
         }).addClasses(
           'cursor-pointer', 'hover:brightness-120', 'hover:pl-2',
