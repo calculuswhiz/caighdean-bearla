@@ -138,7 +138,11 @@ async function generateDoc(chapterFolder) {
     withFileTypes: true
   });
   const allChapters = xlateFolderEnts
-    .filter(ent => ent.isDirectory())
+    .filter(ent => 
+      ent.isDirectory()
+      // ! The main page is not built with asciidoc
+      && ent.name !== "MainPage"
+    )
     .map(ent => ent.name);
 
   if (process.argv.includes("--all")) {
