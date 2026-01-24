@@ -44,7 +44,7 @@ export function generateTableOfContents() {
   // Normalized at 0 = h2
   let currentLevel = 0;
   for (const heading of headings) {
-    if (heading.textContent.replace(/\d+(\.\d+)+/, '').trim() === "")
+    if (heading.textContent?.replace(/\d+(\.\d+)+/, '').trim() === "")
       // Skip headings with no text
       continue;
 
