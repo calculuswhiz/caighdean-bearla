@@ -14,22 +14,36 @@ function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
 }
 
 /** Removes everything after the numeric prefix.
- * E.g. "sec_1_1_general" becomes "sec_1_1"
+ * E.g. "sec_1_1_general" becomes "sec_1_1".
+ * Also encapsulate the number part in a span for styling.
  */
-function cleanHeadingId(ref: HTMLHeadingElement) {
-  const id = ref.id;
+function processHeading(heading: HTMLHeadingElement) {
+  const id = heading.id;
   const newId = id.replace(/(sec(_\d+)+).*/, '$1');
-  ref.id = newId;
+  heading.id = newId;
+
+  const match = heading.textContent?.match(/^(\d+(\.\d+)+)(.*)/);
+  if (match) {
+    const numberSpan = EasyDOM.createElement("span")
+      .addClasses('mr-2')
+      .setText(match[1] + ' ');
+
+    const restText = match[3] ?? '';
+
+    heading.textContent = '';
+    heading.appendChild(numberSpan.element);
+    heading.appendChild(document.createTextNode(restText));
+  }
 }
 
 /** Scan DOM, adding Table of Contents element to the document.
- * Also cleans heading IDs for easier reference linking.
+ * Also processes heading IDs for easier reference linking.
  */
 export function generateTableOfContents(docLang: keyof typeof translations["tableOfContents"] = 'en') {
   const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
 
   for (const heading of headings)
-    cleanHeadingId(heading);
+    processHeading(heading);
 
   const showHideSpan = EasyDOM.createElement("span")
     .addClasses('toc-toggle', 'text-sm', 'ml-4', 'cursor-pointer', 'text-blue-700')
