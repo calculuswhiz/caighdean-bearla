@@ -263,7 +263,7 @@
 :8-3-5-sample3_en: It was *our search*.
 
 :8-3-6-p_ga: Má tá aidiacht shealbhach ar lorg réamhfhocail, ní dhéantar cumasc idir an réamhfhocal agus an aidiacht shealbhach i gcásanna den sórt seo a leanas.
-:8-3-6-p_en: When a possessive adjective is following a preposition, no contraction is done between the preposition and the possessive adjective in such cases.
+:8-3-6-p_en: When a possessive adjective is following a preposition, no contraction is done between the preposition and the possessive adjective in such contexts.
 
 :8-3-6-sample1_ga: Bhí carr *ag mo* mháthair nuair a bhí sí óg.
 :8-3-6-sample1_en: *My* mother *had* a car when she was young.
@@ -317,7 +317,7 @@
 :8-3-7-sample8_en: We gave them *to our aunts*.
 
 :8-3-8-p_ga: Cuirtear _n_ idir na réamhfhocail _faoi_, _i_, _le_, _ó_ agus _trí_ agus an aidiacht shealbhach nó an mhír _a_ sna cásanna seo a leanas:
-:8-3-8-p_en: _n_ is placed between the prepositions _faoi_, _i_, _le_, _ó_ and _trí_ and the possessive adjective or the particle _a_ in the following cases:
+:8-3-8-p_en: _n_ is placed between the prepositions _faoi_, _i_, _le_, _ó_ and _trí_ and the possessive adjective or the particle _a_ in the following contexts:
 
 :8-3-8-a-p_ga: an aidiacht shealbhach;
 :8-3-8-a-p_en: the possessive adjective;
@@ -350,7 +350,7 @@
 :8-3-8-d-p_en: in phrases such as _a lán_; _a leithéid_; _a thuilleadh_;
 
 :8-3-8-d-sample1_ga: Ceadófar post lánaimseartha *ina leithéid* de chás.
-:8-3-8-d-sample1_en: A full-time position will be allowed *in such* case.
+:8-3-8-d-sample1_en: A full-time position will be allowed *in such* an instance.
 
 :8-3-8-d-sample2_ga: Fuair sí billí *óna lán* siopadóirí.
 :8-3-8-d-sample2_en: She got bills *from a lot* of shoppers.

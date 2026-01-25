@@ -35,7 +35,7 @@
 :11-2-title_en: The Direct Relative Clause
 
 :11-2-1-p_ga: Clásal coibhneasta díreach a bhíonn i gceist sna cásanna seo a leanas. Ní bhíonn iartheachtaí i gclásal coibhneasta díreach --
-:11-2-1-p_en: A direct relative clause is involved in the following cases. There are no subsequents in a direct relative clause --
+:11-2-1-p_en: A direct relative clause is involved in the following contexts. There are no subsequents in a direct relative clause --
 
 :11-2-1-a-p_ga: más é an réamhtheachtaí ainmní an bhriathair sa chlásal coibhneasta:
 :11-2-1-a-p_en: if the antecedent is the subject of the verb in the relative clause:
@@ -92,7 +92,7 @@
 :11-2-1-b-sample-4b_en: That is the house *that the family will buy*.
 
 :11-2-1-b-note_ga: Mar is léir ó (a) agus (b) roimhe seo, is abairtí débhríocha iad na habairtí: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_. D'fhéadfadh sé gur ainmní nó cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí i ngach cás. Is fearr clásal coibhneasta indíreach a úsáid i gcásanna den sórt sin más gá débhrí a sheachaint (féach link:#sec_11_3_1[11.3.1](a) ina dhiaidh seo). Níl an abairt _sin é an dán a chum an fear_ débhríoch toisc nach bhféadfadh an réamhtheachtaí (_an dán_) a bheith ina ainmní don bhriathar.
-:11-2-1-b-note_en: As is clear from (a) and (b) above, the sentences: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_ are ambiguous. In each case, the antecedent could be either the subject or the direct object of the verb in the relative clause. It is preferable to use an indirect relative clause in such cases if ambiguity needs to be avoided (see link:#sec_11_3_1[11.3.1](a) below). The sentence _sin é an dán a chum an fear_ is not ambiguous because the antecedent (_an dán_) could not be the subject of the verb.
+:11-2-1-b-note_en: As is clear from (a) and (b) above, the sentences: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_ are ambiguous. In each context, the antecedent could be either the subject or the direct object of the verb in the relative clause. It is preferable to use an indirect relative clause in such contexts if ambiguity needs to be avoided (see link:#sec_11_3_1[11.3.1](a) below). The sentence _sin é an dán a chum an fear_ is not ambiguous because the antecedent (_an dán_) could not be the subject of the verb.
 
 :11-2-1-c-p_ga: más cuspóir d'ainm briathartha (cuspóir díreach nó _a_ (aidiacht shealbhach)) sa chlásal coibhneasta an réamhtheachtaí:
 :11-2-1-c-p_en: if the antecedent is the object of a verbal noun (direct object or _a_ (possessive adjective)) in the relative clause:
@@ -110,7 +110,7 @@
 :11-2-1-c-sample-2b_en: She bought the dress *that* I was wanting.
 
 :11-2-1-c-note_ga: Is féidir clásal coibhneasta díreach den sórt a úsáidtear sa dara sampla thuas a úsáid i gcás an chéad sampla freisin, e.g., _Sin (é) an leabhar a bhí sé a léamh_. Mar an gcéanna: _Sin an cineál cairr atá á thiomáint aige_; _Sin an cineál cairr atá sé a thiomáint_.
-:11-2-1-c-note_en: A direct relative clause of the type used in the second example above can also be used in the case of the first example, e.g., _Sin (é) an leabhar a bhí sé a léamh_. Similarly: _Sin an cineál cairr atá á thiomáint aige_; _Sin an cineál cairr atá sé a thiomáint_.
+:11-2-1-c-note_en: A direct relative clause of the type used in the second example above can also be used for the first example, e.g., _Sin (é) an leabhar a bhí sé a léamh_. Similarly: _Sin an cineál cairr atá á thiomáint aige_; _Sin an cineál cairr atá sé a thiomáint_.
 
 :11-2-1-d-p_ga: más é an dobhriathar ama _uair_ nó an cónasc _nuair_ an réamhtheachtaí:
 :11-2-1-d-p_en: if the temporal adverb _uair_ or the conjunction _nuair_ is the antecedent:
@@ -131,7 +131,7 @@
 :11-2-1-e-sample-2_en: Do you remember the day *when* the tree *fell*?
 
 :11-2-1-e-note_ga: Is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh i gcás na ndobhriathra ama sin, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (féach link:#sec_11_3_1[11.3.1](g)).
-:11-2-1-e-note_en: An indirect relative clause can be used instead of the direct relative clause in the case of those temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (see link:#sec_11_3_1[11.3.1](g)).
+:11-2-1-e-note_en: An indirect relative clause can be used instead of the direct relative clause for those temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (see link:#sec_11_3_1[11.3.1](g)).
 
 :11-2-1-f-p_ga: más é atá sa réamhtheachtaí réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh agus an chopail roimhe chun béim a leagan air (féach link:#sec_11_8_4[11.8.4]):
 :11-2-1-f-p_en: if the antecedent is a simple preposition, a compound preposition, a prepositional pronominal or a prepositional phrase brought to the front along with the copula before it for emphasis (see link:#sec_11_8_4[11.8.4]):
@@ -164,7 +164,7 @@
 :11-3-title_en: The Indirect Relative Clause
 
 :11-3-1-p_ga: Clásal coibhneasta indíreach a bhíonn i gceist sna cásanna seo a leanas. Déantar tagairt le hiartheachtaí sa chlásal coibhneasta indíreach don réamhtheachtaí sa phríomhchlásal. Úsáidtear clásal coibhneasta indíreach --
-:11-3-1-p_en: An indirect relative clause is involved in the following cases. Subsequents in the indirect relative clause refer to the antecedent in the main clause. An indirect relative clause is used --
+:11-3-1-p_en: An indirect relative clause is involved in the following contexts. Subsequents in the indirect relative clause refer to the antecedent in the main clause. An indirect relative clause is used --
 
 :11-3-1-a-p_ga: chun débhrí a sheachaint nuair is cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí (féach link:#sec_11_2_1[11.2.1](b) roimhe seo):
 :11-3-1-a-p_en: to avoid ambiguity when the antecedent is the direct object of the verb in the relative clause (see link:#sec_11_2_1[11.2.1](b) above):
@@ -203,7 +203,7 @@
 :11-3-1-b-sample-2b_en: They sold the chair *that* I *was* recommending keeping.
 
 :11-3-1-b-note_ga: Is féidir clásal coibhneasta díreach den sórt seo a leanas a úsáid i gcás (b) freisin, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (féach link:#sec_11_2_1[11.2.1](c)).
-:11-3-1-b-note_en: A direct relative clause of the following type can also be used in the case of (b) above, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (see link:#sec_11_2_1[11.2.1](c)).
+:11-3-1-b-note_en: A direct relative clause of the following type can also be used for (b) above, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (see link:#sec_11_2_1[11.2.1](c)).
 
 :11-3-1-c-p1_ga: nuair is cuspóir indíreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí:
 :11-3-1-c-p1_en: when the antecedent is the indirect object of the verb in the relative clause:
@@ -278,7 +278,7 @@
 :11-3-1-c-ii-sample-2b_en: It is that building *in respect of which* an application for planning permission *was submitted*.
 
 :11-3-1-d-p_ga: nuair atá nasc ginidigh idir an réamhtheachtaí agus ainmní nó cuspóir (díreach nó indíreach) an bhriathair sa chlásal coibhneasta. Sa chás sin, aidiacht shealbhach atá san iartheachtaí:
-:11-3-1-d-p_en: when there is a genitive link between the antecedent and a noun or object (direct or indirect) of the verb in the relative clause. In that case, the subsequent is a possessive adjective:
+:11-3-1-d-p_en: when there is a genitive link between the antecedent and a noun or object (direct or indirect) of the verb in the relative clause. In that context, the subsequent is a possessive adjective:
 
 :11-3-1-d-sample-1a_ga: Bhí iníon na mná sin ar an teilifís aréir.
 :11-3-1-d-sample-1a_en: The daughter of that woman was on television last night.
@@ -330,7 +330,7 @@
 :11-3-1-e-note_en: See also the explanation of parenthetical clauses in link:#sec_11_4[11.4], e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
 
 :11-3-1-f-p_ga: i gcás forainmnigh cheisteacha amhail _cé_, _cad_ (_é_), etc. nuair a dhéantar réamhfhocal simplí, réamhfhocal comhshuite nó forainmneach réamhfhoclach a thabhairt chun tosaigh san abairt chun go dtagann sé go díreach ar lorg an fhorainmnigh cheistigh:
-:11-3-1-f-p_en: in the case of interrogative pronominals such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronominal is brought to the front of the sentence so that it comes directly before the interrogative pronominal:
+:11-3-1-f-p_en: for interrogative pronominals such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronominal is brought to the front of the sentence so that it comes directly before the interrogative pronominal:
 
 :11-3-1-f-sample-1a_ga: Cé hé + is ina aghaidh a bheidh sibh ag imirt.
 :11-3-1-f-sample-1a_en: Who is it + you will be playing against him.
@@ -360,7 +360,7 @@
 :11-3-1-g-sample-2_en: Do you remember the day *when* the tree *fell*?
 
 :11-3-1-g-note_ga: Is féidir an clásal coibhneasta díreach a úsáid in ionad an chlásail choibhneasta indírigh i gcás na ndobhriathra ama freisin, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (féach link:#sec_11_2_1[11.2.1](e)).
-:11-3-1-g-note_en: A direct relative clause can also be used instead of an indirect relative clause in the case of temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (see link:#sec_11_2_1[11.2.1](e)).
+:11-3-1-g-note_en: A direct relative clause can also be used instead of an indirect relative clause for temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (see link:#sec_11_2_1[11.2.1](e)).
 
 :11-3-1-h-p_ga: más ceann de na focail _áit_, _bealach_, _caoi_, _cúis_, _dóigh_, _fáth_, _réasún_, _slí_ nó _treo_ (nó focal a bhfuil an bhrí chéanna leis) an réamhtheachtaí agus má tá sé ag feidhmiú mar dhobhriathar atá ag cáiliú an bhriathair sa chlásal coibhneasta:
 :11-3-1-h-p_en: if one of the words _áit_, _bealach_, _caoi_, _cúis_, _dóigh_, _fáth_, _réasún_, _slí_ or _treo_ (or a word with the same meaning) is the antecedent and it is functioning as an adverb qualifying the verb in the relative clause:
@@ -411,7 +411,7 @@
 :11-4-2-p_en: Verbs used to express opinion or speech, e.g., _abair_, _ceap_, _maígh_, _síl_, etc., are most commonly found in parenthetical clauses.
 
 :11-4-2-note_ga: Féach freisin link:#sec_11_3_1[11.3.1](e) le haghaidh míniú ar chásanna ina ndéantar tagairt don réamhtheachtaí i gclásal briathartha atá faoi réir ag an mbriathar sa chlásal coibhneasta, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
-:11-4-2-note_en: See also link:#sec_11_3_1[11.3.1](e) for an explanation of cases where the antecedent is referred to in a verbal clause that is subordinate to the verb in the relative clause, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
+:11-4-2-note_en: See also link:#sec_11_3_1[11.3.1](e) for an explanation of contexts where the antecedent is referred to in a verbal clause that is subordinate to the verb in the relative clause, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
 
 :11-4-3-p_ga: Is clásal díreach an clásal idiraisnéiseach, ach féadfaidh an clásal ar a lorg a bheith díreach nó indíreach ag brath ar mhúnla na habairte.
 :11-4-3-p_en: The parenthetical clause is a direct clause, but the clause it refers to can be either direct or indirect depending on the structure of the sentence.
@@ -447,7 +447,7 @@
 :Table11A-row3-col2_en: How *do you think* that work will be done?
 
 :11-4-3-note_ga: Is féidir clásal díreach nó indíreach a úsáid i roinnt cásanna, e.g., _Fuair mé é in áit ar mheas mé a gheobhainn é_ seachas _Fuair mé é in áit a mheas mé a bhfaighinn é_.
-:11-4-3-note_en: A direct or indirect clause can be used in some cases, e.g., _Fuair mé é in áit ar mheas mé a gheobhainn é_ rather than _Fuair mé é in áit a mheas mé a bhfaighinn é_.
+:11-4-3-note_en: A direct or indirect clause can be used in some contexts, e.g., _Fuair mé é in áit ar mheas mé a gheobhainn é_ rather than _Fuair mé é in áit a mheas mé a bhfaighinn é_.
 
 :11-5-title_ga: An Clásal Breischéime
 :11-5-title_en: The Comparative Degree Clause
@@ -501,7 +501,7 @@
 :11-6-1-a-title_en: The Direct Relative Clause
 
 :11-6-1-a-i-p_ga: Más clásal coibhneasta díreach atá ann, is é _a_ an fhoirm den mhír choibhneasta a úsáidtear roimh na briathra rialta agus neamhrialta i ngach aimsir (seachas i gcás aimsir láithreach an bhriathair _bí_ -- féach (ii) thíos). Séimhítear an briathar i ndiaidh na míre coibhneasta dírí _a_ ach amháin i gcás an tsaorbhriathair, aimsir chaite (ach féach link:#sec_11_7_1[11.7.1](b)).
-:11-6-1-a-i-p_en: If it is a direct relative clause, _a_ is the form of the relative particle used before regular and irregular verbs in all tenses (except in the present tense of the verb _bí_ -- see (ii) below). The verb is lenited after the direct relative particle _a_ except in the case of the past participle (but see link:#sec_11_7_1[11.7.1](b)).
+:11-6-1-a-i-p_en: If it is a direct relative clause, _a_ is the form of the relative particle used before regular and irregular verbs in all tenses (except in the present tense of the verb _bí_ -- see (ii) below). The verb is lenited after the direct relative particle _a_ except when the past participle (but see link:#sec_11_7_1[11.7.1](b)).
 
 :11-6-1-a-i-sample-1_ga: Sin é an stáisiún raidió *a* chraolann cláir do leanaí.
 :11-6-1-a-i-sample-1_en: That is the radio station *that* broadcasts programs for children.
@@ -675,7 +675,7 @@
 :11-6-2-a-i-sample-7_en: That is the woman *whose* son does *not* come home every year.
 
 :11-6-2-a-ii-p_ga: San aimsir chaite, freagraíonn _nár_ do _a_ agus _ar_ i gcás na mbriathra rialta agus i gcás na mbriathra neamhrialta _beir_, _clois/cluin_, _ith_, _tabhair_ agus _tar_.
-:11-6-2-a-ii-p_en: In the past tense, _nár_ corresponds to both _a_ and _ar_ in the case of regular verbs and the irregular verbs _beir_, _clois/cluin_, _ith_, _tabhair_ and _tar_.
+:11-6-2-a-ii-p_en: In the past tense, _nár_ corresponds to both _a_ and _ar_ for regular verbs and the irregular verbs _beir_, _clois/cluin_, _ith_, _tabhair_ and _tar_.
 
 :11-6-2-a-ii-sample-1_ga: Ba dhuine é *nár* ghlac comhairle.
 :11-6-2-a-ii-sample-1_en: He was a person *who* did *not* take advice.
@@ -708,7 +708,7 @@
 :11-6-2-a-ii-sample-10_en: Is there anyone *who* has still not come home from the concert?
 
 :11-6-2-a-iii-p_ga: San aimsir chaite, freagraíonn _nach_ do _a_ i gcás na mbriathra neamhrialta _abair_, _bí_, _déan_, _faigh_, _feic_ agus _téigh_.
-:11-6-2-a-iii-p_en: In the past tense, _nach_ corresponds to _a_ in the case of the irregular verbs _abair_, _bí_, _déan_, _faigh_, _feic_ and _téigh_.
+:11-6-2-a-iii-p_en: In the past tense, _nach_ corresponds to _a_ for the irregular verbs _abair_, _bí_, _déan_, _faigh_, _feic_ and _téigh_.
 
 :11-6-2-a-iii-sample-1_ga: Is rud é *nach* ndúirt mé riamh.
 :11-6-2-a-iii-sample-1_en: It is a thing *that* I never said.
@@ -753,7 +753,7 @@
 :11-7-1-b-sample-2_en: That is the hurley ball *that will be hit* during the game.
 
 :11-7-1-p_ga: Tabhair faoi deara go séimhítear an saorbhriathar sna cásanna ina séimhítear na foirmeacha eile den bhriathar, e.g., _na héadaí a cheannaítear_ (_a cheannófar_, _a cheannaítí_) seachas san aimsir chaite, e.g., _na héadaí a ceannaíodh_. Ní shéimhítear an saorbhriathar neamhspleách san aimsir chaite ach amháin i gcás _chonacthas_, _chualathas_, _chuathas_ agus _thángthas_.
-:11-7-1-p_en: Note that the past participle is lenited in cases where the other forms of the verb are lenited, e.g., _na héadaí a cheannaítear_ (_a cheannófar_, _a cheannaítí_) except in the past tense, e.g., _na héadaí a ceannaíodh_. The independent past participle is only lenited in the past tense in the case of _chonacthas_, _chualathas_, _chuathas_ and _thángthas_.
+:11-7-1-p_en: Note that the past participle is lenited where the other forms of the verb are lenited, e.g., _na héadaí a cheannaítear_ (_a cheannófar_, _a cheannaítí_) except in the past tense, e.g., _na héadaí a ceannaíodh_. The independent past participle is only lenited in the past tense for _chonacthas_, _chualathas_, _chuathas_ and _thángthas_.
 
 :11-7-2-title_ga: An Briathar -- An Clásal Coibhneasta Indíreach Deimhneach
 :11-7-2-title_en: The Verb -- The Indirect Affirmative Relative Clause
@@ -762,7 +762,7 @@
 :11-7-2-p_en: The dependent form of the verb is used after the relative particles _ar_ and _a_ in indirect affirmative relative clauses.
 
 :11-7-2-a-p_ga: Séimhítear an fhoirm spleách den bhriathar i ndiaidh na míre coibhneasta _ar_ (ach amháin i gcás an tsaorbhriathair san aimsir chaite, e.g., _ar goideadh_; _ar buaileadh_).
-:11-7-2-a-p_en: The dependent form of the verb is lenited after the relative particle _ar_ (except in the case of the past participle in the past tense, e.g., _ar goideadh_; _ar buaileadh_).
+:11-7-2-a-p_en: The dependent form of the verb is lenited after the relative particle _ar_ (except for the past participle in the past tense, e.g., _ar goideadh_; _ar buaileadh_).
 
 :11-7-2-a-sample-1_ga: Sin é an sliotar *ar bhuail* an bhean é.
 :11-7-2-a-sample-1_en: That is the hurley ball *that* the woman *hit*.
@@ -807,7 +807,7 @@
 :11-7-3-a-sample-4_en: That is the woman from *whom* the boy *will not buy* a car.
 
 :11-7-3-b-p_ga: Séimhítear an fhoirm spleách den bhriathar i ndiaidh _nár_ ach amháin i gcás an tsaorbhriathair, aimsir chaite, e.g., _nár ceannaíodh_; _nár blaiseadh_.
-:11-7-3-b-p_en: The dependent form of the verb is lenited after _nár_ except in the case of the past participle in the past tense, e.g., _nár ceannaíodh_; _nár blaiseadh_.
+:11-7-3-b-p_en: The dependent form of the verb is lenited after _nár_ except for the past participle in the past tense, e.g., _nár ceannaíodh_; _nár blaiseadh_.
 
 :11-7-3-b-sample-1_ga: Sin é an sliotar *nár bhuail* an bhean.
 :11-7-3-b-sample-1_en: That is the hurley ball *that* the woman *did not hit*.
@@ -900,7 +900,7 @@
 :11-8-3-sample-5_en: I did nothing *that* was suitable for me.
 
 :11-8-4-p_ga: I gcás go mbaintear leas as an gcopail chun béim a leagan ar réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh, is clásal coibhneasta díreach an dara clásal.
-:11-8-4-p_en: In cases where the copula is used to emphasize a simple preposition, a compound preposition, a prepositional pronominal or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
+:11-8-4-p_en: Where the copula is used to emphasize a simple preposition, a compound preposition, a prepositional pronominal or a verbal phrase placed at the beginning, the second clause is a direct relative clause.
 
 :11-8-4-sample-1_ga: Is arú inné *a tháinig* siad abhaile.
 :11-8-4-sample-1_en: It was yesterday *that* they came home.

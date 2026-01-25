@@ -347,13 +347,13 @@
 :9-3-10-b-i-p_en: The noun is in the singular form or in its particular plural form and the appropriate initial mutation is made to the noun.
 
 :9-3-10-b-ii-p_ga: Tar éis uimhreacha a chríochnaíonn ar 1, réitíonn an aidiacht le hinscne an ainmfhocail. I gcás uimhreacha a chríochnaíonn ar 2&ndash;9, bíonn an aidiacht san uimhir iolra agus séimhítear í (ach féach link:#sec_9_3_4[9.3.4]).
-:9-3-10-b-ii-p_en: After numbers ending in 1, the adjective agrees with the gender of the noun. In the case of numbers ending in 2&ndash;9, the adjective is in the plural number and is lenited (but see link:#sec_9_3_4[9.3.4]).
+:9-3-10-b-ii-p_en: After numbers ending in 1, the adjective agrees with the gender of the noun. For numbers ending in 2&ndash;9, the adjective is in the plural number and is lenited (but see link:#sec_9_3_4[9.3.4]).
 
 :9-3-10-c-i-p_ga: Bíonn an t-ainmfhocal san uimhir uatha i gcónaí, fiú más ainmfhocal é a bhfuil leagan iolra ar leith aige, agus ní dhéantar aon athrú tosaigh air. Bíonn an aidiacht san uimhir uatha i gcónaí agus séimhítear í de réir inscne an ainmfhocail.
 :9-3-10-c-i-p_en: The noun is always in the singular number, even if it is a noun that has a particular plural form, and no initial mutation is made to it. The adjective is always in the singular number and is lenited according to the gender of the noun.
 
 :9-3-10-c-ii-p_ga: I gcás uimhreacha a chríochnaíonn ar 2 nó 4, úsáidtear na foirmeacha maoluimhreach _dó_ agus _ceathair_ in ionad _dhá_ agus _ceithre_.
-:9-3-10-c-ii-p_en: In the case of numbers ending in 2 or 4, the bare numbers _dó_ and _ceathair_ are used instead of _dhá_ and _ceithre_.
+:9-3-10-c-ii-p_en: For numbers ending in 2 or 4, the bare numbers _dó_ and _ceathair_ are used instead of _dhá_ and _ceithre_.
 
 :9-3-10-d-p_ga: Más iolraí ar 10 atá i gceist, níl ann ach leagan amháin, e.g., _céad is fiche bád_.
 :9-3-10-d-p_en: If multiples of 10 are involved, there is only one form, e.g., _céad is fiche bád_.
@@ -569,7 +569,7 @@
 :9-5-1-b-p_en: The ordinal number _céad_ is lenited after the article, e.g., _an chéad leabhar_; _na chéad rialacha_, but it is not lenited:
 
 :9-5-1-b-i-p_ga: sna cásanna a luaitear i link:./chapter1-ga.html[gCaibidil 1] ina mbíonn urú i ndiaidh an ailt sa tuiseal tabharthach, e.g., _ar an gcéad duine_; _leis an gcéad cheadúnas_;
-:9-5-1-b-i-p_en: in the cases mentioned in link:./chapter1-en.html[Chapter 1] where there is eclipsis after the article in the accusative case, e.g., _ar an gcéad duine_; _leis an gcéad cheadúnas_;
+:9-5-1-b-i-p_en: in the contexts mentioned in link:./chapter1-en.html[Chapter 1] where there is eclipsis after the article in the accusative case, e.g., _ar an gcéad duine_; _leis an gcéad cheadúnas_;
 
 :9-5-1-b-ii-p_ga: nuair a úsáidtear _céad_ mar réimír in ainmfhocal firinscneach nó in ainmfhocal san iolra, e.g., _céadainm_, _an céadainm_; _Céad-Aire_, _an Céad-Aire_; _céadonóracha_, _na céadonóracha_; (ach _céadghairm_, _an chéadghairm_; _céadsearc_, _an chéadsearc_; de réir ghnáthrialacha an ainmfhocail bhaininscnigh); nó mar réimír i mbriathar, e.g., _céadbhlaisim_, _céadbhlaisfidh sé_ (ach _ón uair a chéadbhlais mé é_, de réir ghnáthrialacha na mbriathra san aimsir chaite, modh táscach);
 :9-5-1-b-ii-p_en: when _céad_ is used as a prefix in a masculine noun or in a plural noun, e.g., _céadainm_, _an céadainm_; _Céad-Aire_, _an Céad-Aire_; _céadonóracha_, _na céadonóracha_; (but _céadghairm_, _an chéadghairm_; _céadsearc_, _an chéadsearc_; according to the usual rules of the feminine noun); or as a prefix in a verb, e.g., _céadbhlaisim_, _céadbhlaisfidh sé_ (but _ón uair a chéadbhlais mé é_, according to the usual rules of verbs in the past tense, indicative mood);
@@ -617,10 +617,10 @@
 :9-5-4-title_en: The Ordinal Numbers in the Genitive Case
 
 :9-5-4-a-p_ga: I gcás na horduimhreach _céad_, díochlaontar an t-ainmfhocal ina dhiaidh agus géilleann an t-alt d'uimhir agus d'inscne an ainmfhocail, e.g., _an chéad fhear_, _clann an chéad fhir_; _an chéad bhean_, _clann na chéad mhná_; _na chéad cheithre bliana_, _tús na chéad cheithre bliana_; _na chéad chúig charr_, _plátaí clárúcháin na chéad chúig charr_; _na chéad taiscéalaithe_, _eachtraí na chéad taiscéalaithe_.
-:9-5-4-a-p_en: In the case of the ordinal number _céad_, the noun following it is declined and the article agrees with the number and gender of the noun, e.g., _an chéad fhear_, _clann an chéad fhir_; _an chéad bhean_, _clann na chéad mhná_; _na chéad cheithre bliana_, _tús na chéad cheithre bliana_; _na chéad chúig charr_, _plátaí clárúcháin na chéad chúig charr_; _na chéad taiscéalaithe_, _eachtraí na chéad taiscéalaithe_.
+:9-5-4-a-p_en: For the ordinal number _céad_, the noun following it is declined and the article agrees with the number and gender of the noun, e.g., _an chéad fhear_, _clann an chéad fhir_; _an chéad bhean_, _clann na chéad mhná_; _na chéad cheithre bliana_, _tús na chéad cheithre bliana_; _na chéad chúig charr_, _plátaí clárúcháin na chéad chúig charr_; _na chéad taiscéalaithe_, _eachtraí na chéad taiscéalaithe_.
 
 :9-5-4-b-p_ga: I gcás na n-orduimhreacha eile go léir, ní dhéantar díochlaonadh riamh ar an ainmfhocal, e.g., _mac an dara bean_; _mac an dara fear_; _eagraíocht tríú tír_; _oideachas tríú leibhéal_; _clúdach an cheathrú tuarascáil_; _deireadh an fichiú haois_; _tús an aonú haois is fiche_.
-:9-5-4-b-p_en: In the case of all other ordinal numbers, the noun is never declined, e.g., _mac an dara bean_; _mac an dara fear_; _eagraíocht tríú tír_; _oideachas tríú leibhéal_; _clúdach an cheathrú tuarascáil_; _deireadh an fichiú haois_; _tús an aonú haois is fiche_.
+:9-5-4-b-p_en: For all other ordinal numbers, the noun is never declined, e.g., _mac an dara bean_; _mac an dara fear_; _eagraíocht tríú tír_; _oideachas tríú leibhéal_; _clúdach an cheathrú tuarascáil_; _deireadh an fichiú haois_; _tús an aonú haois is fiche_.
 
 :9-5-4-c-p_ga: Cailltear an _t-_ roimh _aonú_, _ochtú_, _ochtódú_, etc., e.g., _an t-aonú bliain déag_, _tús an aonú bliain déag_; _an t-ochtú haois déag_, _tús an ochtú haois déag_; _an t-ochtódú cruinniú_, _miontuairiscí an ochtódú cruinniú_.
 :9-5-4-c-p_en: The _t-_ is dropped before _aonú_, _ochtú_, _ochtódú_, etc., e.g., _an t-aonú bliain déag_, _tús an aonú bliain déag_; _an t-ochtú haois déag_, _tús an ochtú haois déag_; _an t-ochtódú cruinniú_, _miontuairiscí an ochtódú cruinniú_.
@@ -659,19 +659,19 @@
 :9-6-1-title_en: Composition of the Fraction
 
 :9-6-1-a-p_ga: Bíonn dhá chuid sa ghnáthchodán: _an t-uimhreoir_ agus _an t-ainmneoir_. Cuirtear an t-uimhreoir os cionn na líne agus an t-ainmneoir faoi bhun na líne, e.g., i gcás 6/7, is é 6 an t-uimhreoir agus is é 7 an t-ainmneoir.
-:9-6-1-a-p_en: A standard fraction has two parts: _the numerator_ and _the denominator_. The numerator is placed above the line and the denominator below the line, e.g., in the case of 6/7, 6 is the numerator and 7 is the denominator.
+:9-6-1-a-p_en: A standard fraction has two parts: _the numerator_ and _the denominator_. The numerator is placed above the line and the denominator below the line, e.g., for 6/7, 6 is the numerator and 7 is the denominator.
 
 :9-6-1-b-p1_ga: Baintear leas as na horduimhreacha chun an t-ainmneoir a chur in iúl seachas i gcás na bhfocal _leath_ agus _trian_.
-:9-6-1-b-p1_en: The ordinal numbers are used to indicate the denominator except in the case of the words _leath_ and _trian_.
+:9-6-1-b-p1_en: The ordinal numbers are used to indicate the denominator except for the words _leath_ and _trian_.
 
 :9-6-1-b-p2_ga: Tabhair faoi deara go n-úsáidtear an fhoirm speisialta iolra _treana_ den ainmfhocal _trian_ ar lorg na n-uimhreacha 3&ndash;10. Fágtar an t-ainmfhocal sin lom i ndiaidh _trí_, _ceithre_, _cúig_, _sé_, e.g., _3/3 -- trí treana_; _4/3 -- ceithre treana_; agus uraítear é i ndiaidh _seacht_, _ocht_, _naoi_, _deich_, e.g., _9/3 -- naoi dtreana_; _10/3 -- deich dtreana_.
 :9-6-1-b-p2_en: Note that a special plural form _treana_ of the noun _trian_ is used with the numbers 3&ndash;10. The noun is left unmodified after _trí_, _ceithre_, _cúig_, _sé_, e.g., _3/3 -- trí treana_; _4/3 -- ceithre treana_; and it is eclipsed after _seacht_, _ocht_, _naoi_, _deich_, e.g., _9/3 -- naoi dtreana_; _10/3 -- deich dtreana_.
 
 :9-6-1-c-p_ga: I gcás gur uimhir idir 11&ndash;19 an t-ainmneoir, úsáidtear leagan a dhíorthaítear ón orduimhir, e.g., _4/13 -- ceithre thrídéagú_; _6/15 -- sé chúigdéagú_.
-:9-6-1-c-p_en: In the case where the denominator is a number between 11&ndash;19, a form derived from the ordinal number is used, e.g., _4/13 -- ceithre thrídéagú_; _6/15 -- sé chúigdéagú_.
+:9-6-1-c-p_en: When the denominator is a number between 11&ndash;19, a form derived from the ordinal number is used, e.g., _4/13 -- ceithre thrídéagú_; _6/15 -- sé chúigdéagú_.
 
 :9-6-1-d-p_ga: I gcás gur uimhir os cionn 20 an t-ainmneoir, is ionann ord na bhfocal agus ord na bhfocal sna maoluimhreacha ach go gcuirtear orduimhir in ionad na maoluimhreach ag an deireadh, e.g., _1/30 -- tríochadú_; _4/97 -- ceithre nócha seachtú_.
-:9-6-1-d-p_en: In the case where the denominator is a number over 20, the order of the words is the same as that of the bare numbers but an ordinal number is used instead of a bare number at the end, e.g., _1/30 -- tríochadú_; _4/97 -- ceithre nócha seachtú_.
+:9-6-1-d-p_en: When the denominator is a number over 20, the order of the words is the same as that of the bare numbers but an ordinal number is used instead of a bare number at the end, e.g., _1/30 -- tríochadú_; _4/97 -- ceithre nócha seachtú_.
 
 :9-6-1-e-p_ga: Scríobhtar codáin ar roinnt bealaí éagsúla, mar a léirítear thíos. Is í rogha (i) an struchtúr is minice a úsáidtear.
 :9-6-1-e-p_en: Fractions are written in several different ways, as illustrated below. Option (i) is the structure most commonly used.
@@ -680,7 +680,7 @@
 :9-6-1-e-i-p_en: It is possible to use two bare numbers with the preposition _ar_ or the compound preposition _os cionn_ between them to express any fraction, e.g., _1/11 -- a haon ar a haon déag_; _a haon os cionn a haon déag_; _7/8 -- a seacht ar a hocht_; _a seacht os cionn a hocht_; _4/15 -- a ceathair ar a cúig déag_; _a ceathair os cionn a cúig déag_; _33/57 -- tríocha a trí ar chaoga a seacht_; _tríocha a trí os cionn caoga a seacht_; _136/82 -- céad tríocha a sé ar ochtó dó_; _céad tríocha a sé os cionn ochtó dó_. _Fiche_ is not lenited in fractions, e.g., _3/24 -- a trí ar fiche a ceathair_.
 
 :9-6-1-e-ii-p_ga: Más 1 an t-uimhreoir, is féidir an focal _cuid_ a úsáid leis na horduimhreacha chun codáin a chur in iúl, e.g., _1/2 -- leath_; _an leathchuid_; _1/3 -- trian_; _an tríú cuid_; _1/11 -- aondéagú_; _an t-aondéagú cuid_. Is gnách an leagan le _cuid_ a úsáid nuair is uimhir os cionn 20 an t-ainmneoir, e.g., _1/27 -- an fiche seachtú cuid_; _1/156 -- an céad caoga séú cuid_. I gcás na ndeicheanna, áfach, is túisce a déarfaí _tríochadú_, etc. _ná an tríochadú cuid_.
-:9-6-1-e-ii-p_en: When the numerator is 1, the word _cuid_ can be used with the ordinal numbers to express fractions, e.g., _1/2 -- leath_; _an leathchuid_; _1/3 -- trian_; _an tríú cuid_; _1/11 -- aondéagú_; _an t-aondéagú cuid_. The form with _cuid_ is usually used when the denominator is a number over 20, e.g., _1/27 -- an fiche seachtú cuid_; _1/156 -- an céad caoga séú cuid_. In the case of the tens, however, one would rather say _tríochadú_, etc. _ná an tríochadú cuid_.
+:9-6-1-e-ii-p_en: When the numerator is 1, the word _cuid_ can be used with the ordinal numbers to express fractions, e.g., _1/2 -- leath_; _an leathchuid_; _1/3 -- trian_; _an tríú cuid_; _1/11 -- aondéagú_; _an t-aondéagú cuid_. The form with _cuid_ is usually used when the denominator is a number over 20, e.g., _1/27 -- an fiche seachtú cuid_; _1/156 -- an céad caoga séú cuid_. For the tens, however, one would rather say _tríochadú_, etc. _ná an tríochadú cuid_.
 
 :9-6-1-e-iii-p_ga: Má tá an t-uimhreoir idir 2 agus 10, úsáidtear na bunuimhreacha agus foirm na horduimhreach (féach (b), (c) agus (d) roimhe seo) chun an codán a chur in iúl. Is gnáth-ainmfhocail iad na codáin agus leantar gnáthrialacha na mbunuimhreacha agus iad á gcomhaireamh, e.g., _7/8 -- seacht n-ochtú_; _4/15 -- ceithre chúigdéagú_; ach ní shéimhítear _fichiú_, e.g., _3/20 -- trí fichiú_.
 :9-6-1-e-iii-p_en: When the numerator is between 2 and 10, the cardinal numbers and the ordinal form (see (b), (c) and (d) above) are used to express the fraction. Fractions are common nouns and the usual rules of the cardinal numbers are followed when counting them, e.g., _7/8 -- seacht n-ochtú_; _4/15 -- ceithre chúigdéagú_; but _fichiú_ is not lenited, e.g., _3/20 -- trí fichiú_.
@@ -716,13 +716,13 @@
 :9-6-2-b-title_en: Denominator 20+
 
 :9-6-2-b-p-1_ga: Tugtar samplaí sa tábla seo a leanas den tslí a ndéileáiltear le hainmneoirí os cionn 20 (seachas na deicheanna) nuair is 1 an t-uimhreoir. Is gnách an leagan le _cuid_ a úsáid i gcás codáin den sórt sin. Is ionann comhréir an leagain sin agus an chomhréir a úsáidtear sna maoluimhreacha ach go gcuirtear orduimhir in ionad na maoluimhreach ag an deireadh agus go bhfágtar an mhír uimhriúil _a_ ar lár.
-:9-6-2-b-p-1_en: The following table gives examples of how to deal with denominators above 20 (except the tens) when the numerator is 1. The form with _cuid_ is usually used in the case of such fractions. The order of that form is the same as that used in the cardinal numbers but an ordinal number is used instead of a bare number at the end and the numeral _a_ is left in the middle.
+:9-6-2-b-p-1_en: The following table gives examples of how to deal with denominators above 20 (except the tens) when the numerator is 1. The form with _cuid_ is usually used for such fractions. The order of that form is the same as that used in the cardinal numbers but an ordinal number is used instead of a bare number at the end and the numeral _a_ is left in the middle.
 
 :Table9ZCaption_ga: Na Codáin -- An tAinmneoir 20+
 :Table9ZCaption_en: The Fractions -- The Denominator 20+
 
 :9-6-2-b-p-2_ga: Tabhair faoi deara gurb í an orduimhir a úsáidtear i gcás na ndeicheanna, e.g., _fichiú_, _céadú_, _míliú_, etc. agus nach gnách an leagan le _cuid_ a úsáid leo, e.g., _1/30 -- tríochadú_; _1/50 -- caogadú_.
-:9-6-2-b-p-2_en: Note that an ordinal number is used in the case of the tens, e.g., _fichiú_, _céadú_, _míliú_, etc., and that the form with _cuid_ is not usually used with them, e.g., _1/30 -- tríochadú_; _1/50 -- caogadú_.
+:9-6-2-b-p-2_en: Note that an ordinal number is used for the tens, e.g., _fichiú_, _céadú_, _míliú_, etc., and that the form with _cuid_ is not usually used with them, e.g., _1/30 -- tríochadú_; _1/50 -- caogadú_.
 
 :9-6-3-title_ga: An tUimhreoir
 :9-6-3-title_en: The Numerator
@@ -767,7 +767,7 @@
 :9-7-title_en: The Decimal Number
 
 :9-7-a-p_ga: Is é córas na maoluimhreacha a úsáidtear i gcás uimhreacha deachúlacha, e.g., _1.7 -- a haon ponc a seacht_; _22.4 -- fiche a dó ponc a ceathair_; _84.22 -- ochtó a ceathair ponc a dó a dó_.
-:9-7-a-p_en: The bare number system is used in the case of decimal numbers, e.g., _1.7 -- a haon ponc a seacht_; _22.4 -- fiche a dó ponc a ceathair_; _84.22 -- ochtó a ceathair ponc a dó a dó_.
+:9-7-a-p_en: The bare number system is used for decimal numbers, e.g., _1.7 -- a haon ponc a seacht_; _22.4 -- fiche a dó ponc a ceathair_; _84.22 -- ochtó a ceathair ponc a dó a dó_.
 
 :9-7-b-p_ga: Ní dhéantar infhilleadh ná athrú tosaigh ar ainmfhocal atá ar lorg uimhir dheachúlach, bíodh sí i bhfoirm focal nó figiúirí, e.g., _a haon ponc a dó gram_; _1.5 cileagram_; _7.4 méadar ciúbach_.
 :9-7-b-p_en: No inflection or initial mutation is made to a noun following a decimal number, whether it is in word or figure form, e.g., _a haon ponc a dó gram_; _1.5 cileagram_; _7.4 méadar ciúbach_.
@@ -806,4 +806,4 @@
 :Table9FF-note-a-p_en: that only the Established System is used with numbers under 20;
 
 :Table9FF-note-b-p_ga: go moltar, i gcás an phróis, uimhreacha pearsanta suas go _dháréag_ a scríobh ina bhfocail seachas ina bhfigiúirí.
-:Table9FF-note-b-p_en: it is recommended, in the case of prose, to write personal numbers up to _dháréag_ in words rather than figures.
+:Table9FF-note-b-p_en: it is recommended, for prose, to write personal numbers up to _dháréag_ in words rather than figures.

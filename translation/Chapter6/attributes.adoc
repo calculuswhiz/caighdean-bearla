@@ -128,7 +128,7 @@
 :6-2-title_en: Adverbs of Manner and Adverbs of Time and Frequency
 
 :6-2-p_ga: Maidir leis na dobhriathra modha agus na dobhriathra ama agus minicíochta atá bunaithe ar aidiacht, sna cásanna seo a leanas ní chuirtear _go_ leo --
-:6-2-p_en: For the adverbs of manner and the adverbs of time and frequency based on an adjective, in the following cases _go_ is not added --
+:6-2-p_en: For the adverbs of manner and the adverbs of time and frequency based on an adjective, in the following contexts _go_ is not added --
 
 :6-2-a-p_ga: sa chéim chomparáide:
 :6-2-a-p_en: in the comparative degree:

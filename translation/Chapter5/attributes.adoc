@@ -81,7 +81,7 @@
 :5-1-5-title_en: The Subjunctive Mood
 
 :5-1-5-a-p_ga: Má tá feidhm ghuítheach ag abairt is sa mhodh foshuiteach a bhíonn sí i gcónaí, e.g., _Go raibh maith agat_; _Go dté tú slán_. Bíonn rogha idir an modh foshuiteach láithreach agus an aimsir fháistineach nuair is aimsir phríomha atá ag briathar an phríomhchlásail sna cásanna seo a leanas:
-:5-1-5-a-p_en: If a sentence has a optative function, it is always in the subjunctive mood, e.g., _Go raibh maith agat_; _Go dté tú slán_. There is a choice between the present subjunctive mood and the future tense when the verb of the main clause is in the primary tense in the following cases:
+:5-1-5-a-p_en: If a sentence has a optative function, it is always in the subjunctive mood, e.g., _Go raibh maith agat_; _Go dté tú slán_. There is a choice between the present subjunctive mood and the future tense when the verb of the main clause is in the primary tense in the following contexts:
 
 :5-1-5-a-i-p_ga: i ndiaidh na gcónasc ama _ach a_, _go_, _nó go_, _sula_, e.g., _Gheobhaimid an scéal ceart ach a dtaga_ (_a dtiocfaidh_) _Pól_; _Ná beannaigh don diabhal go mbeannaí_ (_go mbeannóidh_) _sé duit_; _Beidh tú ann nó go bhfása_ (_nó go bhfásfaidh_) _coincleach ort_; _Beidh siad ann sula mbuailtear_ (_sula mbuailfear_) _clog an aingil;_
 :5-1-5-a-i-p_en: after the time conjuctions _ach a_, _go_, _nó go_, _sula_, e.g., _Gheobhaimid an scéal ceart ach a dtaga_ (_a dtiocfaidh_) _Pól_; _Ná beannaigh don diabhal go mbeannaí_ (_go mbeannóidh_) _sé duit_; _Beidh tú ann nó go bhfása_ (_nó go bhfásfaidh_) _coincleach ort_; _Beidh siad ann sula mbuailtear_ (_sula mbuailfear_) _clog an aingil;_
@@ -95,7 +95,7 @@
 // There is no text for just "b"
 
 :5-1-5-b-i-p_ga: Is ionann foirmeacha an mhodha fhoshuitigh chaite agus foirmeacha na haimsire gnáthchaite spleáiche (ach amháin i gcás an bhriathair _bí_) (féach an Fhoirm Spleách, link:#sec_5_1_8[5.1.8]). Is féidir freisin foirm an mhodha choinníollaigh a úsáid thar ceann an fhoshuitigh chaite más san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach atá an príomhchlásal, e.g., _Tháinig_ (_thagadh_, _thiocfadh_) _sí isteach sula bhfeictí_ (_bhfeicfí_) _í_. I gcás an bhriathair _bí_ is ionann foirmeacha don mhodh foshuiteach caite agus don mhodh coinníollach.
-:5-1-5-b-i-p_en: The forms of the past subjunctive mood are the same as the forms of the dependent past habitual tense (except for the verb _bí_) (see the Dependent Form, link:#sec_5_1_8[5.1.8]). The conditional mood's form can also be used instead of the past subjunctive if the main clause is in the past tense, the past habitual tense or the conditional mood, e.g., _Táinig_ (_thagadh_, _thiocfadh_) _sí aír preo fíctí_ (_bhfécfí_) _í_. In the case of the verb _bí_ the forms of the past subjunctive mood are the same as the conditional mood.
+:5-1-5-b-i-p_en: The forms of the past subjunctive mood are the same as the forms of the dependent past habitual tense (except for the verb _bí_) (see the Dependent Form, link:#sec_5_1_8[5.1.8]). The conditional mood's form can also be used instead of the past subjunctive if the main clause is in the past tense, the past habitual tense or the conditional mood, e.g., _Táinig_ (_thagadh_, _thiocfadh_) _sí aír preo fíctí_ (_bhfécfí_) _í_. For the verb _bí_, the forms of the past subjunctive mood are the same as the conditional mood.
 
 :5-1-5-b-ii-p_ga: Sna táblaí sa chaibidil seo, léirítear an modh foshuiteach láithreach leis an mír _go_. Bíodh go leanann urú an mhír sin agus roinnt eile, ní hamhlaidh i gcás gach míre a ghabhann leis an modh foshuiteach. Séimhiú a leanann _nár_, e.g., _Nár fhana sé i bhfad_.
 :5-1-5-b-ii-p_en: In the tables in this chapter, the present subjunctive mood is indicated by the particle _go_. Although eclipsis follows that particle and some others, this is not true for every particle accompanying the subjunctive mood. Lenition follows _nár_, e.g., _Nár fhana sé i bhfad_.
@@ -163,7 +163,7 @@
 :Table5C-caption_en: The First Conjugation &#8212; Conjugation of the Verb _bris_
 
 :Table5C-Note_ga: Séimhítear an briathar neamhspleách rialta sa mhodh táscach, aimsir chaite (seachas an saorbhriathar) agus aimsir ghnáthchaite, agus sa mhodh coinníollach. Tá tuilleadh eolais in link:./chapter10-ga.html#sec_10_4[10.4] faoi na cásanna eile ina séimhítear an briathar spleách agus neamhspleách agus pléitear na cásanna ina n-uraítear an briathar in link:./chapter10-ga.html#sec_10_8[10.8].
-:Table5C-Note_en: The independent verb is lenited in the indicative mood, past tense (other than the autonomous verb) and past habitual tense, and in the conditional mood. There is more information in link:./chapter10-en.html#sec_10_4[10.4] about the other cases in which the dependent and independent verb is lenited and the cases in which the verb is eclipsed are discussed in link:./chapter10-en.html#sec_10_8[10.8].
+:Table5C-Note_en: The independent verb is lenited in the indicative mood, past tense (other than the autonomous verb) and past habitual tense, and in the conditional mood. There is more information in link:./chapter10-en.html#sec_10_4[10.4] about the other contexts in which the dependent and independent verb is lenited and the contexts in which the verb is eclipsed are discussed in link:./chapter10-en.html#sec_10_8[10.8].
 
 :5-2-1-a-p_ga: Is ar an gcuma chéanna le _mol_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan leathan, agus is ar an gcuma chéanna le _bris_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan caol.
 :5-2-1-a-p_en: Regular verbs from monosyllabic roots ending in a broad consonant are formed in the same way as _mol_, and regular verbs are formed from monosyllabic roots ending in a narrow consonant in the same way as _bris_.
@@ -310,7 +310,7 @@
 :5-4-2-p_en: The irregular verbs do not keep the same root throughout their formation and some of them have separate forms in the dependent form.
 
 :5-4-3-p_ga: Is ionann fréamh an bhriathair san aimsir ghnáthláithreach agus san aimsir ghnáthchaite sna briathra neamhrialta go léir, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Seachas i gcás an bhriathair _bí_, bíonn an fhréamh chéanna leis an modh foshuiteach láithreach freisin, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
-:5-4-3-p_en: The root of the verb in the present habitual and past habitual tenses is the same in all irregular verbs, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Except in the case of the verb _bí_, the present subjunctive also has the same root, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
+:5-4-3-p_en: The root of the verb in the present habitual and past habitual tenses is the same in all irregular verbs, e.g., _cloisimid_, _chloisimis_; _deirim_, _deirinn_; _tugann sí_, _thugadh sí_. Except for the verb _bí_, the present subjunctive also has the same root, e.g., _go gcloise_; _go ndeire_; _go dtuga_.
 
 :5-4-4-p_ga: Is ionann fréamh an bhriathair san aimsir fháistineach agus sa mhodh coinníollach sna briathra neamhrialta go léir, e.g., _déarfaidh mé_, _déarfainn_; _déanfaidh tú_, _dhéanfá_; _tabharfaidh siad_, _thabharfaidís_.
 :5-4-4-p_en: The root of the verb in the future tense and the conditional mood is the same in all irregular verbs, e.g., _déarfaidh mé_, _déarfainn_; _déanfaidh tú_, _dhéanfá_; _tabharfaidh siad_, _thabharfaidís_.
@@ -532,7 +532,7 @@
 :5-6-1-title_en: The Genitive
 
 :5-6-1-a-p_ga: Is ionann foirm de ghnáth do ghinideach an ainm bhriathartha agus don aidiacht bhriathartha sna cásanna a léirítear sa tábla thíos:
-:5-6-1-a-p_en: The genitive form of the verbal noun is usually the same as the verbal adjective in the cases shown in the table below:
+:5-6-1-a-p_en: The genitive form of the verbal noun is usually the same as the verbal adjective in the contexts shown in the table below:
 
 :Table5AA-caption_ga: Díochlaonadh an Ainm Bhriathartha — Ginideach an Ainm Bhriathartha ar Aon Fhoirm leis an Aidiacht Bhriathartha
 :Table5AA-caption_en: Declension of the Verb Noun — Genitive of the Verbal Noun in Any Form with the Verbal Adjective
@@ -595,7 +595,7 @@
 :Table5CC-trait-2_en: As a noun in the Second Declension (see link:./chapter2-en.html#sec_2_3_2[2.3.2])
 
 :Table5CC-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcásanna ina gcuirtear foirceann leis an mbun-ainmfhocal, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ agus i gcás corrainm briathartha eile (féach link:./chapter2-ga.html#sec_2_4_2[2.4.2])
-:Table5CC-trait-3_en: As a noun in the Third Declension, in cases where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and in the case of other verbal nouns (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
+:Table5CC-trait-3_en: As a noun in the Third Declension, where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and for other verbal nouns (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
 
 :Table5CC-Note_ga: Ainmneacha briathartha de na cineálacha sin atá luaite in (b)(ii) roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
 :Table5CC-Note_en: Verbal nouns of the types mentioned in (b)(ii) above do not have a form for the verbal adjective. Some regular nouns also lack the verbal adjective form, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
@@ -665,13 +665,13 @@
 :5-6-2-a-p_en: For verbal nouns ending in _-(e)adh_, _-taí_ (_-tí_) is usually replaced by _-(e)adh_ if the root ends in _-ch_, _-d_, _-l_, _-ll_, _-n_, _-rr_, _-s_ or _-t_, and _-thaí_ (_-thí_), if it ends with another consonant, e.g., _baisteadh_, _baistí_; _casadh_, _castaí_; _cinneadh_, _cinntí_; _moladh_, _moltaí_; _pósadh_, _póstaí_; _tarscaoileadh_, _tarscaoiltí_; _bloscadh_, _bloscthaí_; _colscaradh_, _colscarthaí_; _crapadh_, _crapthaí_; _loscadh_, _loscthaí_; _madhmadh_, _madhmthaí_; _scríobadh_, _scríobthaí_; _speireadh_, _speirthí_; _tíolacadh_, _tíolacthaí_, or occasionally _-teacha_, _-thacha_, e.g., _filleadh_, _fillteacha_; _gearradh_, _gearrthacha_.
 
 :5-6-2-b-p_ga: I gcás ainmneacha briathartha ilsiollacha a chríochnaíonn ar _-(i)ú_, cuirtear _-(u)ithe_ in ionad an _-(i)ú_, e.g., _athrú_, _athruithe_; _ceartú_, _ceartuithe_; _cruinniú_, _cruinnithe_; _fiosrú_, _fiosruithe_; _míniú_, _mínithe_; _ordú_, _orduithe_; _scrúdú_, _scrúduithe_; _toiliú_, _toilithe_.
-:5-6-2-b-p_en: In the case of polysyllabic verbal nouns ending in _-(i)ú_, _-(u)ithe_ is replaced by _-(i)ú_, e.g., _athrú_, _athruithe_; _ceartú_, _ceartuithe_; _cruinniú_, _cruinnithe_; _fiosrú_, _fiosruithe_; _míniú_, _mínithe_; _ordú_, _orduithe_; _scrúdú_, _scrúduithe_; _toiliú_, _toilithe_.
+:5-6-2-b-p_en: For polysyllabic verbal nouns ending in _-(i)ú_, _-(u)ithe_ is replaced by _-(i)ú_, e.g., _athrú_, _athruithe_; _ceartú_, _ceartuithe_; _cruinniú_, _cruinnithe_; _fiosrú_, _fiosruithe_; _míniú_, _mínithe_; _ordú_, _orduithe_; _scrúdú_, _scrúduithe_; _toiliú_, _toilithe_.
 
 :5-6-2-c-p_ga: I gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, leathnaítear an _l_ agus cuirtear _-acha_ leis, e.g., _admháil_, _admhálacha_; _ofráil_, _ofrálacha_.
 :5-6-2-c-p_en: For nouns ending in _-áil_, the _l_ is broadened and _-acha_ is added, e.g., _admháil_, _admhálacha_; _ofráil_, _ofrálacha_.
 
 :5-6-2-d-p_ga: I gcás ainmneacha briathartha a chríochnaíonn ar _cht_, cuirtear _-aí_ leo, e.g., _gluaiseacht_, _gluaiseachtaí_, agus cuirtear _-í_ le hainmneacha briathartha a chríochnaíonn ar _-lt_, _-nt_, _-rt_, e.g., _bagairt_, _bagairtí_; _creidiúint_, _creidiúintí_; _oscailt_, _oscailtí_; _tairiscint_, _tairiscintí_.
-:5-6-2-d-p_en: In the case of verbal nouns ending in _cht_, _-áí_ is added, e.g., _gluaiseacht_, _gluaiseachtaí_, and add _-í_ to verbal nouns ending in _-lt_, _-nt_, _-rt_, e.g., _bagairt_, _bagairtí_; _creidiúint_, _creidiúintí_; _oscailt_, _oscailtí_; _tairiscint_, _tairiscintí_.
+:5-6-2-d-p_en: For verbal nouns ending in _cht_, _-áí_ is added, e.g., _gluaiseacht_, _gluaiseachtaí_, and add _-í_ to verbal nouns ending in _-lt_, _-nt_, _-rt_, e.g., _bagairt_, _bagairtí_; _creidiúint_, _creidiúintí_; _oscailt_, _oscailtí_; _tairiscint_, _tairiscintí_.
 
 :5-6-2-e-p_ga: I gcás ainmneacha briathartha aonsiollacha a chríochnaíonn ar ghuta, cuirtear _-nna_ nó, corruair, _-ite_ leo, e.g., _breo_, _breonna_; _brú_, _brúnna_; _cló_, _clónna_; _dó_, _dónna_; _liú_, _liúnna_; _meá_, _meánna_; _sú_, _súnna_; _crú_, _crúite_; _rá_, _ráite_; _sá_, _sáite_.
 :5-6-2-e-p_en: For monosyllabic verbal nouns ending in a vowel, _-nna_ or, occasionally, _-ite_ are added, e.g., _breo_, _breonna_; _brú_, _brúnna_; _cló_, _clónna_; _dó_, _dónna_; _liú_, _liúnna_; _meá_, _meánna_; _sú_, _súnna_; _crú_, _crúite_; _rá_, _ráite_; _sá_, _sáite_.

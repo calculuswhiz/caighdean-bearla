@@ -98,7 +98,7 @@
 :3-1-2-g-sample2_en: You would not believe it, *dear*.
 
 :3-1-3-p1_ga: Is minic an t-alt ina chuid d'ainm dílis (go háirithe i gcás logainmneacha) agus ní mór an t-alt a úsáid sna cásanna sin, e.g., _an Ísiltír_, _an tSionainn_, _an Longfort_, _an Streoillín_, _an Earagail_, _An tOileánach_ (nuair is é an leabhar atá i gceist), _na Cruacha Dubha_.
-:3-1-3-p1_en: The article is often a part of the proper name (especially for place names) and the article must be used in these cases, e.g., _an Ísiltír_, _an tSionainn_, _an Longfort_, _an Streoillín_, _an Earagail_, _An tOileánach_ (when it comes to the book), _na Cruacha Dubha_.
+:3-1-3-p1_en: The article is often a part of the proper name (especially for place names) and the article must be used in these contexts, e.g., _an Ísiltír_, _an tSionainn_, _an Longfort_, _an Streoillín_, _an Earagail_, _An tOileánach_ (when it comes to the book), _na Cruacha Dubha_.
 
 :3-1-3-sample1_ga: Bhí mé ar *an Earagail* inné.
 :3-1-3-sample1_en: I was on *the Erigail* yesterday.
@@ -107,7 +107,7 @@
 :3-1-3-sample2_en: Who wrote _**Love and Grief**_?
 
 :3-1-3-p2_ga: Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
-:3-1-3-p2_en: Note, in cases where it is usual to use the article with a proper name, the article is not put in if the proper name is functioning as an adjective, e.g., _an Nollaig_ vs _cárta Nollag_; _an Ardteist_ vs _scrúdú Ardteiste_; _an Cháisc_ vs _ubh Chásca_.
+:3-1-3-p2_en: Note, in contexts where it is usual to use the article with a proper name, the article is not put in if the proper name is functioning as an adjective, e.g., _an Nollaig_ vs _cárta Nollag_; _an Ardteist_ vs _scrúdú Ardteiste_; _an Cháisc_ vs _ubh Chásca_.
 
 :3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (féach link:./chapter1-ga.html#sec_1_1_5[1.1.5](i)A).
 :3-1-4-p1_en: The article is used before genitive _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (see link:./chapter1-en.html#sec_1_1_5[1.1.5](i)A).
@@ -155,7 +155,7 @@
 :3-1-6-p2-sample2_en: She is *the* fastest *soccer player* I have ever seen.
 
 :3-1-7-p1_ga: Tá roinnt frásaí ainmfhoclacha ann a bhfuil ainmfhocal iontu a bheadh cinnte de réir link:#sec_3_1_2[3.1.2] ach atá éiginnte toisc go bhfuil an frása iomlán á úsáid ina aonad amháin brí mar ainmfhocal éiginnte. Uaireanta, sna cásanna sin, úsáidtear an t-alt nuair atá an frása iomlán ag feidhmiú mar ainmfhocal cinnte, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
-:3-1-7-p1_en: There are some noun phrases that have nouns in them which would be definite according to link:#sec_3_1_2[3.1.2] are indefinite because the whole phrase is being used as a single unit of meaning as an indefinite noun. Sometimes, in these cases, the article is used when the whole phrase functions as a definite noun, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
+:3-1-7-p1_en: There are some noun phrases that have nouns in them which would be definite according to link:#sec_3_1_2[3.1.2] are indefinite because the whole phrase is being used as a single unit of meaning as an indefinite noun. Sometimes, in these contexts, the article is used when the whole phrase functions as a definite noun, e.g., _an Leabhar Eoin_; _an Choróin Mhuire_; _ba mhór an grá Dia é_; _an fear sin na n-uibheacha_.
 
 :3-1-7-p1-sample1_ga: D'imigh siad leo nuair a bhí *an uair an chloig* caite.
 :3-1-7-p1-sample1_en: They left when *the hour* was up.
@@ -212,7 +212,7 @@
 :3-1-10-b-p-sample2_en: It is *one of the* Department's grants.
 
 :3-1-10-c-p_ga: Úsáidtear réamhfhocal eile (_le_, etc.) i gcásanna eile chun éiginnteacht a chur in iúl, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
-:3-1-10-c-p_en: Another preposition is used (_le_, etc.) in other cases to express indefiniteness, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
+:3-1-10-c-p_en: Another preposition is used (_le_, etc.) in other contexts to express indefiniteness, e.g., _deartháir le Bríd_; _úrscéal le Máire_:
 
 :3-1-10-c-p-sample1_ga: Ba *bhréagán le Caoimhe* an bréagán a bhris sé.
 :3-1-10-c-p-sample1_en: The toy that he broke was *one of Caoimhe's toys*.
@@ -498,7 +498,7 @@
 :3-3-3-title_en: The Indefinite Noun -- The Verbal Noun
 
 :3-3-3-p_ga: Is é is ainm briathartha ann focal a bhfuil feidhm ainmfhocail agus feidhm bhriathair araon aige. Is féidir focail amhail _eitilt_, _foghlaim_, _snámh_, etc. a úsáid mar ainmfhocal, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, agus mar ainm briathartha, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. Déantar cur síos anseo ar chásanna ina n-úsáidtear foirm an ainmnigh den ainm briathartha in ionad fhoirm an ghinidigh de.
-:3-3-3-p_en: A verbal noun is a word that has both the function of a noun and a verb. It is possible to use words like _eitilt_, _foghlaim_, _snámh_, etc. like nouns, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, and as a verbal noun, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. This accounts for cases where the nominative form is used instead of the genitive form.
+:3-3-3-p_en: A verbal noun is a word that has both the function of a noun and a verb. It is possible to use words like _eitilt_, _foghlaim_, _snámh_, etc. like nouns, e.g., _deireadh na heitilte_; _foghlaim a fháil_; _snámh féileacáin_, and as a verbal noun, e.g., _ag eitilt sa spéir_; _ag foghlaim teanga_; _ag snámh in aghaidh easa_. This accounts for contexts where the nominative form is used instead of the genitive form.
 
 :3-3-3-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainm briathartha nuair atá an forainmneach réamhthagrach _a_ roimhe.
 :3-3-3-a-p_en: The genitive case of a verbal noun is not changed when preceded by the prepositional pronominal _a_.
@@ -832,13 +832,13 @@
 :Table3D-Caption_en: Qualifiers -- Indefinite Noun subject to an Indefinite Quantity
 
 :3-3-11-p2_ga: Tabhair faoi deara go mbreathnaítear ar chainníocht éiginnte mar chainníocht chinnte nuair a chuirtear aidiacht shealbhach roimpi agus sa chás sin go ndéantar athrú an ghinidigh ar an ainmfhocal a thagann ina dhiaidh (agus ar an aidiacht a ghabhann leis), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
-:3-3-11-p2_en: Note that an indefinite quantity is observed as a definite quantity when a possessive adjective precedes it and in this case the genitive of the following noun is changed (and the adjective accompanying it), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
+:3-3-11-p2_en: Note that an indefinite quantity is observed as a definite quantity when a possessive adjective precedes it, and in this context the genitive of the following noun is changed (and the adjective accompanying it), e.g., _a chuid gruaige fada_; _a dóthain bia the_; _a ndóthain saineolais theicniúil_; _ár gcuid oibre baile_.
 
 :3-3-12-title_ga: Foirm an Ghinidigh
 :3-3-12-title_en: Form of the Genitive
 
 :3-3-12-a-p_ga: Lasmuigh de na cásanna atá sonraithe i dtáblaí link:#table3b[3B], link:#table3c[3C] agus link:#table3d[3D], déantar athrú an ghinidigh ar an ainmfhocal éiginnte sa struchtúr _ainmfhocal_ + _ainmfhocal éiginnte_ + _cáilitheoir_.
-:3-3-12-a-p_en: Apart from the cases specified in tables link:#table3b[3B], link:#table3c[3C] and link:#table3d[3D], the genitive of the indefinite noun is changed in the structure _noun_ + _indefinite noun_ + _qualifier_.
+:3-3-12-a-p_en: Apart from the contexts specified in tables link:#table3b[3B], link:#table3c[3C] and link:#table3d[3D], the genitive of the indefinite noun is changed in the structure _noun_ + _indefinite noun_ + _qualifier_.
 
 :Table3E-caption_ga: Foirm an Ghinidigh -- Ainmfhocal + Ainmfhocal Éiginnte + Cáilitheoir
 :Table3E-caption_en: Form of the Genitive -- Noun + Indefinite Noun + Qualifier

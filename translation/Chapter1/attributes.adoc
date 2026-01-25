@@ -5,7 +5,7 @@
 :1-1-1_en: There is one article in the Irish language -- the definite article. The subject of the article is called the definite noun. Here the article has two forms: _an_ and _na_. The article is placed before the noun, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ or before whatever word is put before the noun as a qualifier e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. It is possible to replace the article with possessive adjectives e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
 
 :1-1-2_ga: Is litir bheag a bhíonn ar an alt i lár abairte, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., _Cé a scríobh An tOileánach?_
-:1-1-2_en: The article is written with a small letter in the middle of sentences e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ except in certain cases such as publication titles e.g., _Cé a scríobh An tOileánach?_
+:1-1-2_en: The article is written with a small letter in the middle of sentences e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ except in certain contexts such as publication titles e.g., _Cé a scríobh An tOileánach?_
 
 :1-1-3_ga: Má tá teideal a bhfuil an t-alt ann (féach link:#sec_1_1_5[1.1.5] (a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
 :1-1-3_en: If a title containing an article (see link:#sec_1_1_5[1.1.5] (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
@@ -14,7 +14,7 @@
 :1-1-4_en: Put a hyphen between the preliminary letter _t_ and a vowel, except when the vowel is capitalized e.g., _an t-ospidéal_, _an tAlbanach_. Do not put a hyphen between the preliminary letter _t_ and _s_ e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ or between the preliminary letter _h_ and a vowel e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
 
 :1-1-5_ga: Úsáidtear an t-alt sna cásanna seo a leanas.
-:1-1-5_en: The article is used in the following cases.
+:1-1-5_en: The article is used in the following contexts.
 
 :1-1-5-a_ga: *Teidil oifige*, e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
 :1-1-5-a_en: *Official Titles* e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
@@ -176,7 +176,7 @@
 :1-1-5-i-A-iii_en: if it ends with _-e_, _-é_ e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 
 :1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain_, _Éire_ (féach link:./chapter3-ga.html#sec_3_1_4[3.1.4]).
-:1-1-5-i-A-p2_en: Some names of countries and regions end with a narrow consonant but are not accompanied by the article e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular case but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive in the case of _Albain_, _Éire_ (see link:./chapter3-en#sec_3_1_4[3.1.4]).
+:1-1-5-i-A-p2_en: Some names of countries and regions end with a narrow consonant but are not accompanied by the article e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular number but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive for _Albain_, _Éire_ (see link:./chapter3-en#sec_3_1_4[3.1.4]).
 
 :1-1-5-i-A-sample1_ga: Is tír álainn í *an Fhrainc*.
 :1-1-5-i-A-sample1_en: *France* is a beautiful country.
@@ -185,7 +185,7 @@
 :1-1-5-i-A-sample2_en: *Mozambique* is mentioned in the book.
 
 :1-1-5-i-B-p_ga: Ní ghabhann an t-alt le hainmneacha tíortha agus réigiún más rud é go bhfuil an t-ainmfhocal firinscneach agus:
-:1-1-5-i-B-p_en: The article does not accompany the names of countries and regions if it is the case that the noun is masculine and:
+:1-1-5-i-B-p_en: The article does not accompany the names of countries and regions if the noun is masculine and:
 
 :1-1-5-i-B-i_ga: má chríochnaíonn sé ar chonsan leathan, e.g., _Barbadós_, _Eacuadór_, _Guam_, _Hondúras_, _Natal_, _Óman_, _Sead_, _Siam_, _Suranam_;
 :1-1-5-i-B-i_en: if it ends with a broad consonant e.g., _Barbadós_, _Eacuadór_, _Guam_, _Hondúras_, _Natal_, _Óman_, _Sead_, _Siam_, _Suranam_;
@@ -200,7 +200,7 @@
 :1-1-5-i-B-iv_en: if it ends with _-ael_ e.g., _Iosrael_.
 
 :1-1-5-i-C-p_ga: Gabhann an t-alt le hainmneacha tíortha agus réigiún is ainmfhocail san uimhir iolra, e.g., _na hAsóir_, _na Bahámaí_, _na Garbhchríocha_, _na Scigirí_.
-:1-1-5-i-C-p_en: The article accompanies the names of countries and regions that are nouns in the plural case e.g., _na hAsóir_, _na Bahámaí_, _na Garbhchríocha_, _na Scigirí_.
+:1-1-5-i-C-p_en: The article accompanies the names of countries and regions that are nouns in the plural number e.g., _na hAsóir_, _na Bahámaí_, _na Garbhchríocha_, _na Scigirí_.
 
 :1-1-5-i-C-sample1_ga: I Muir Chairib atá *na Bahámaí*.
 :1-1-5-i-C-sample1_en: *The Bahamas* are in the Caribbean.
@@ -281,10 +281,10 @@
 :1-1-5-n-sample2_en: *German* is spoken in Austria.
 
 :1-1-5-n-sample3_ga: Bhí *an Béarla* go maith aici.
-:1-1-5-n-sample3: She had good *English*.
+:1-1-5-n-sample3_en: She had good *English*.
 
 :1-1-5-n-p2_ga: Tabhair faoi deara go ligtear an t-alt ar lár mura bhfuil an bhrí forleathan, e.g., _Tá Fraincis aici_; _Cuir i nGaeilge é_; _rang Iodáilise_.
-:1-1-5-n-p2_en: Note that the article should be omitted if the general case is intended, e.g., _Tá Fraincis aici_; _Cuir i nGaeilge é_; _rang Iodáilise_.
+:1-1-5-n-p2_en: Note that the article is omitted when the general meaning is not intended, e.g., _Tá Fraincis aici_; _Cuir i nGaeilge é_; _rang Iodáilise_.
 
 :h2-gp-2-5-title_ga: Na Tuisil
 :h2-gp-2-5-title_en: The Cases
@@ -398,13 +398,13 @@
 :Table1B-note_en: _BUT where_ f _precedes a vowel:_
 
 :1-4-2_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús _s_ sa tuiseal tabharthach. Cuirtear _t_ roimh _s_ ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-4-2_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than cases in which the noun starts with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-4-2_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than when the noun starts with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
 
 :Table1C-caption_ga: Ainmfhocail dar tús _s_
 :Table1C-caption_en: Nouns Starting with _s_
 
 :Table1C-col2-subheader_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_
-:Table1C-col2-subheader_en: _t_ is put before the _s_, other than in case of _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_
+:Table1C-col2-subheader_en: _t_ is put before the _s_, other than for _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_
 
 :1-4-3_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta.
 :1-4-3_en: No change is made to masculine nouns or feminine nouns starting with a vowel.
@@ -479,7 +479,7 @@
 :1-5-1-e-sample2_en: They made an appeal *to the court*.
 
 :1-5-1-p2_ga: Féach link:./chapter3-ga#sec_3_3[3.3] le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
-:1-5-1-p2_en: See link:./chapter3-en#sec_3_3[3.3] for cases where the nominative form is used instead of the genitive.
+:1-5-1-p2_en: See link:./chapter3-en#sec_3_3[3.3] for contexts where the nominative form is used instead of the genitive.
 
 :1-5-2-p_ga: Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.
 :1-5-2-p_en: In the below table, the effect of the article on the noun in the genitive singular case is shown.

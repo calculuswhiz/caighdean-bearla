@@ -50,7 +50,7 @@
 :4-2-4-title_en: Lenition of an Attributive Adjective in the Singular Number
 
 :4-2-4-p_ga: Fágtar aidiacht lom nó cuirtear séimhiú uirthi bunaithe ar inscne agus tuiseal an ainmfhocail atá á cháiliú léi. Léirítear na cásanna sa tábla thíos. Féach an plé ar dhíochlaonadh na haidiachta (link:#sec_4_3[4.3]) chun eolas a fháil ar athrú foirme (seachas séimhiú) ar an aidiacht féin.
-:4-2-4-p_en: An adjective is either left bare or inflected based on the gender and case of the noun it is qualifying. The cases are shown in the table below. See the discussion of adjective declension (link:#sec_4_3[4.3]) for information on form change (other than lenition) of the adjective itself.
+:4-2-4-p_en: An adjective is either left bare or inflected based on the gender and case of the noun it is qualifying. The contexts are shown in the table below. See the discussion of adjective declension (link:#sec_4_3[4.3]) for information on form change (other than lenition) of the adjective itself.
 
 :lenition_ga: séimhiú
 :lenition_en: lenition
@@ -535,7 +535,7 @@
 :4-8-3-b-p_en: Only one form is used for the following adjectives: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; and for these irregular forms: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_. (_Translation note_: These are abstract nouns. e.g., _beag_ (_small_) → _laghad_ (_smallness_))
 
 :4-8-3-c-p_ga: Úsáidtear _méid_ seachas _méad_ i gcásanna áirithe, e.g., _dá mhéad airgead a bhí aici_ ach _a mhéid is indéanta le réasún_; _a mhéid is gá_.
-:4-8-3-c-p_en: _méid_ is used instead of _méad_ in certain cases, e.g., _dá mhéad airgead a bhí aici_ but _a mhéid is indéanta le réasún_; _a mhéid is gá_.
+:4-8-3-c-p_en: _méid_ is used instead of _méad_ in certain contexts, e.g., _dá mhéad airgead a bhí aici_ but _a mhéid is indéanta le réasún_; _a mhéid is gá_.
 
 :4-8-3-c-p-sample1_ga: B'aoibhinn liom *a áille* (a bhinne, a chruinne, a líofa, a réidhe, a shoiléire) a labhair sí.
 :4-8-3-c-p-sample1_en: I loved how *beautifully* (how sweetly, how accurately, how fluently, how smoothly, how clearly) she spoke.

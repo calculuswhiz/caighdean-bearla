@@ -80,7 +80,7 @@
 :row12-term_en: lenitable consonant
 
 :row12-definition_ga: consan ar féidir séimhiú a chur air — _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (ach amháin i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ agus _sv-_) agus _t_
-:row12-definition_en: a consonant that can undergo lenition — _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (except in cases _sc-_, _sf-_, _sm-_, _sp-_, _st-_ and _sv-_) and _t_
+:row12-definition_en: a consonant that can undergo lenition — _b_, _c_, _d_, _f_, _g_, _m_, _p_, _s_ (except for _sc-_, _sf-_, _sm-_, _sp-_, _st-_ and _sv-_) and _t_
 
 :row13-term_ga: consan inuraithe
 :row13-term_en: eclipsable consonant

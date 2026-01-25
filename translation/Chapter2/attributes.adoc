@@ -215,7 +215,7 @@
 :2-1-7-c_en: between two prefixes, e.g., _comh-cheolfhoireann_; _mór-cheoldráma_; _sin-seanathair;_
 
 :2-1-7-d_ga: i gcásanna inar bhaol go mbeadh an comhfhocal do-aitheanta d'éagmais an fhleiscín, mar shampla idir na réimíreanna _do-_, _fo-_, _so-_ agus focail dar tús _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe;_
-:2-1-7-d_en: in cases when the compound would be unrecognizable without the hyphen, for example, between the prefixes _do-_, _fo-_, _so-_ and words starting with _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe;_
+:2-1-7-d_en: in contexts when the compound would be unrecognizable without the hyphen, for example, between the prefixes _do-_, _fo-_, _so-_ and words starting with _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe;_
 
 :2-1-7-e_ga: i dteidil shainiúla agus ceannlitreacha orthu, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh;_
 :2-1-7-e_en: in specific titles and their initials, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh;_
@@ -419,7 +419,7 @@
 :2-3-4-p1_en: There are weak plurals and strong plurals in this declension.
 
 :2-3-4-p2_ga: Tabhair faoi deara go bhfuil patrún an Dara Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-e_ agus go gcaolaítear an consan deiridh más consan leathan é, agus i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, go n-athraítear _-(e)ach_ go _-(a)í_.
-:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables, that is, the genitive singular ends with _-e_ and the final consonant is narrowed if it is a broad consonant, and in the case of polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
+:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables, that is, the genitive singular ends with _-e_ and the final consonant is narrowed if it is a broad consonant, and for polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
 
 :2-3-4-a-title_ga: Tréaniolraí
 :2-3-4-a-title_en: Strong Plurals

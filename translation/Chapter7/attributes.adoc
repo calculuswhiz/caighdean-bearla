@@ -251,7 +251,7 @@
 :7-2-1-B-b-iv-p_en: adverbs that are not adjectival adverbs, e.g., _Ba arú inné a d'ith siad an cáca_.
 
 :7-2-1-B-c-p_ga: Cuirtear _b'_ roimh ghuta nó roimh _fh-_ + _guta_ sna cásanna seo a leanas:
-:7-2-1-B-c-p_en: _b'_ is placed before a vowel or before _fh-_ + _vowel_ in the following cases:
+:7-2-1-B-c-p_en: _b'_ is placed before a vowel or before _fh-_ + _vowel_ in the following contexts:
 
 :7-2-1-B-c-i-p_ga: ainmfhocail, e.g., _B'innealtóir maith í_;
 :7-2-1-B-c-i-p_en: nouns, e.g., _B'innealtóir maith í_;
@@ -314,7 +314,7 @@
 :7-2-2-A-a-p_en: _gur_ is always placed before a consonant, e.g., _Is dóigh leo gur teagascóir gairmiúil é Cian_.
 
 :7-2-2-A-b-p_ga: Cuirtear _gur_ roimh ghuta sna cásanna seo a leanas:
-:7-2-2-A-b-p_en: _gur_ is preceded by a vowel in the following cases:
+:7-2-2-A-b-p_en: _gur_ is preceded by a vowel in the following contexts:
 
 :7-2-2-A-b-i-p_ga: ainmfhocail (seachas ainmfhocail sna frásaí copaile réamhfhoclacha a luaitear faoi _gurb_ thíos), e.g., _Is dóigh liom gur áit dheas an t-óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
 :7-2-2-A-b-i-p_en: nouns (other than nouns in prepositional copula phrases mentioned under _gurb_ below), e.g., _Is dóigh liom gur áit dheas an t-óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
@@ -332,7 +332,7 @@
 :7-2-2-A-b-v-p_en: the pronominals _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_ if the pronominal is the agent or object of a verbal noun, e.g., _Síleann sí gur <span class="underline">é a bhailiú</span> is fearr_; _Dar leis gur <span class="underline">iad a fhoilsiú</span> is fearr_.
 
 :7-2-2-A-c-p_ga: Cuirtear _gurb_ roimh ghuta sna cásanna seo a leanas:
-:7-2-2-A-c-p_en: _gurb_ is preceded by a vowel in the following cases:
+:7-2-2-A-c-p_en: _gurb_ is preceded by a vowel in the following contexts:
 
 :7-2-2-A-c-i-p_ga: aidiachtaí, e.g., _Sílim gurb iontach an deis duit é_; _Ceapaim gurb eolach an bhean í_;
 :7-2-2-A-c-i-p_en: adjectives, e.g., _Sílim gurb iontach an deis duit é_; _Ceapaim gurb eolach an bhean í_;
@@ -398,7 +398,7 @@
 :7-2-2-B-b-i_en: _go mba_ is placed before a consonant or before _fh-_ + _consonant_ in all situations, e.g., _Cé gur impigh sí air, níor dhóigh leis go mba chóir an madra a choinneáil_.
 
 :7-2-2-B-b-ii_ga: Cuirtear _go mba_ roimh ghuta nó roimh _fh-_ + _guta_ sna cásanna seo a leanas:
-:7-2-2-B-b-ii_en: _go mba_ is placed before a vowel or before _fh-_ + _vowel_ in the following cases:
+:7-2-2-B-b-ii_en: _go mba_ is placed before a vowel or before _fh-_ + _vowel_ in the following contexts:
 
 :7-2-2-B-b-ii-1_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
 :7-2-2-B-b-ii-1_en: the pronominals _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_, e.g., _Ba dhóigh liomsa go mba iad an fhoireann ab fhearr ar an lá_;
