@@ -1509,7 +1509,7 @@
 
 {10-16-p1}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-10">
   <caption>
@@ -1631,7 +1631,7 @@
 
 {10-16-p2}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-10">
   <caption>
@@ -1695,7 +1695,7 @@
 
 {10-16-p3}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-10">
   <caption>
@@ -1721,7 +1721,7 @@
 
 {10-16-p4}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-10">
   <caption>
@@ -1747,7 +1747,7 @@
 
 {10-16-p5}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-10">
   <caption>
@@ -1845,7 +1845,7 @@
 
 {10-16-p6}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-10">
   <caption>

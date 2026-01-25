@@ -16,7 +16,7 @@
 
 {8-2-1-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-8">
     <caption>
@@ -162,7 +162,7 @@
 
 {8-3-1-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-8">
     <caption>
@@ -271,7 +271,7 @@
 
 {8-3-3-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-8">
     <caption>
@@ -582,7 +582,7 @@ h|
 
 == 8.4 {8-4-title}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-8">
     <caption>

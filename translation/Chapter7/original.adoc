@@ -130,7 +130,7 @@ i. {7-1-1-i-text}
 
 {7-2-1-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -216,7 +216,7 @@ i. {7-1-1-i-text}
 
 {7-2-1-B-p2}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -267,7 +267,7 @@ i. {7-1-1-i-text}
 
 {7-2-1-B-p2}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -334,7 +334,7 @@ i. {7-1-1-i-text}
 
 {7-2-2-A-p2}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -421,7 +421,7 @@ i. {7-1-1-i-text}
 {7-2-2-B-a-p2}
 
 +
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -484,7 +484,7 @@ i. {7-1-1-i-text}
 {7-2-2-B-b-p2}
 
 +
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -538,7 +538,7 @@ i. {7-1-1-i-text}
 {7-2-2-B-c-p2}
 
 +
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -585,7 +585,7 @@ i. {7-1-1-i-text}
 
 {7-2-3-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -633,7 +633,7 @@ i. {7-1-1-i-text}
 
 {7-2-3-B-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -694,7 +694,7 @@ i. {7-1-1-i-text}
 
 {7-2-4-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -753,7 +753,7 @@ i. {7-1-1-i-text}
 
 {7-2-4-B-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -822,7 +822,7 @@ i. {7-1-1-i-text}
 
 {7-2-5-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -883,7 +883,7 @@ i. {7-1-1-i-text}
 
 {7-3-1-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -917,7 +917,7 @@ i. {7-1-1-i-text}
 
 {7-3-1-B-p1}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -955,7 +955,7 @@ i. {7-1-1-i-text}
 
 {7-3-2-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1012,7 +1012,7 @@ i. {7-1-1-i-text}
 
 {7-3-2-B-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1071,7 +1071,7 @@ i. {7-1-1-i-text}
 
 {7-3-3-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1105,7 +1105,7 @@ i. {7-1-1-i-text}
 
 {7-3-3-B-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1143,7 +1143,7 @@ i. {7-1-1-i-text}
 
 {7-3-4-A-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1201,7 +1201,7 @@ i. {7-1-1-i-text}
 
 {7-3-4-B-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1257,7 +1257,7 @@ i. {7-1-1-i-text}
 
 {7-3-5-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>
@@ -1294,7 +1294,7 @@ i. {7-1-1-i-text}
 
 {7-4-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
   <caption>

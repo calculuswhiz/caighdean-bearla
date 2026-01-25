@@ -39,7 +39,7 @@ Notes:
 The base Asciidoc language is incapable of rendering any of the more complex tables without significant infrastructure programming (technical debt). As a result if a table is anything more complex than having a single header row, it should be rendered using direct html injection.
 
 ```adoc
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
 // etc.

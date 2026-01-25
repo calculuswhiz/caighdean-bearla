@@ -7,11 +7,11 @@
 :11-1-1-p_ga: Úsáidtear cónasc ar a dtugtar _an mhír choibhneasta_ (deimhneach: _a_, _ar_; diúltach: _nach_, _nár_) chun príomhchlásal agus fochlásal coibhneasta a nascadh le chéile.
 :11-1-1-p_en: A conjunction called the _relative particle_ (affirmative: _a_, _ar_; negative: _nach_, _nár_) is used to link a main clause and a relative subordinate clause together.
 
-:11-1-2-p_ga: Is roimh an mbriathar san fhochlásal a chuirtear an mhír choibhneasta. Más í an chopail atá san fhochlásal, ní úsáidtear mír choibhneasta chun an príomhchlásal agus an fochlásal a nascadh le chéile ach bíonn foirm ar leith ar an gcopail féin (féach 11.8).
-:11-1-2-p_en: The relative particle is placed before the verb in the subordinate clause. If the copula is in the subordinate clause, the relative particle is not used to link the main clause and the subordinate clause together but the copula itself has a special form (see 11.8).
+:11-1-2-p_ga: Is roimh an mbriathar san fhochlásal a chuirtear an mhír choibhneasta. Más í an chopail atá san fhochlásal, ní úsáidtear mír choibhneasta chun an príomhchlásal agus an fochlásal a nascadh le chéile ach bíonn foirm ar leith ar an gcopail féin (féach link:#sec_11_8[11.8]).
+:11-1-2-p_en: The relative particle is placed before the verb in the subordinate clause. If the copula is in the subordinate clause, the relative particle is not used to link the main clause and the subordinate clause together but the copula itself has a special form (see link:#sec_11_8[11.8]).
 
-:11-1-3-p_ga: Déantar idirdhealú idir _clásal coibhneasta díreach_ agus _clásal coibhneasta indíreach_ (féach 11.2 agus 11.3).
-:11-1-3-p_en: A distinction is made between a _direct relative clause_ and an _indirect relative clause_ (see 11.2 and 11.3).
+:11-1-3-p_ga: Déantar idirdhealú idir _clásal coibhneasta díreach_ agus _clásal coibhneasta indíreach_ (féach link:#sec_11_2[11.2] agus link:#sec_11_3[11.3]).
+:11-1-3-p_en: A distinction is made between a _direct relative clause_ and an _indirect relative clause_ (see link:#sec_11_2[11.2] and link:#sec_11_3[11.3]).
 
 :11-1-4-p_ga: Tugtar _réamhtheachtaí_ ar an bhfocal nó ar an bhfrása sa phríomhchlásal a thagann go díreach roimh an mír choibhneasta.
 :11-1-4-p_en: The word or phrase in the main clause that comes directly before the relative particle is called the _antecedent_.
@@ -91,8 +91,8 @@
 :11-2-1-b-sample-4b_ga: Sin é an teach *a cheannóidh* an teaghlach.
 :11-2-1-b-sample-4b_en: That is the house *that the family will buy*.
 
-:11-2-1-b-note_ga: Mar is léir ó (a) agus (b) roimhe seo, is abairtí débhríocha iad na habairtí: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_. D'fhéadfadh sé gur ainmní nó cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí i ngach cás. Is fearr clásal coibhneasta indíreach a úsáid i gcásanna den sórt sin más gá débhrí a sheachaint (féach 11.3.1(a) ina dhiaidh seo). Níl an abairt _sin é an dán a chum an fear_ débhríoch toisc nach bhféadfadh an réamhtheachtaí (_an dán_) a bheith ina ainmní don bhriathar.
-:11-2-1-b-note_en: As is clear from (a) and (b) above, the sentences: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_ are ambiguous. In each case, the antecedent could be either the subject or the direct object of the verb in the relative clause. It is preferable to use an indirect relative clause in such cases if ambiguity needs to be avoided (see 11.3.1(a) below). The sentence _sin é an dán a chum an fear_ is not ambiguous because the antecedent (_an dán_) could not be the subject of the verb.
+:11-2-1-b-note_ga: Mar is léir ó (a) agus (b) roimhe seo, is abairtí débhríocha iad na habairtí: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_. D'fhéadfadh sé gur ainmní nó cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí i ngach cás. Is fearr clásal coibhneasta indíreach a úsáid i gcásanna den sórt sin más gá débhrí a sheachaint (féach link:#sec_11_3_1[11.3.1](a) ina dhiaidh seo). Níl an abairt _sin é an dán a chum an fear_ débhríoch toisc nach bhféadfadh an réamhtheachtaí (_an dán_) a bheith ina ainmní don bhriathar.
+:11-2-1-b-note_en: As is clear from (a) and (b) above, the sentences: _Sin í an bhean a phóg Gearóid_; _Ba charr úrnua an carr a bhuail an leoraí_ are ambiguous. In each case, the antecedent could be either the subject or the direct object of the verb in the relative clause. It is preferable to use an indirect relative clause in such cases if ambiguity needs to be avoided (see link:#sec_11_3_1[11.3.1](a) below). The sentence _sin é an dán a chum an fear_ is not ambiguous because the antecedent (_an dán_) could not be the subject of the verb.
 
 :11-2-1-c-p_ga: más cuspóir d'ainm briathartha (cuspóir díreach nó _a_ (aidiacht shealbhach)) sa chlásal coibhneasta an réamhtheachtaí:
 :11-2-1-c-p_en: if the antecedent is the object of a verbal noun (direct object or _a_ (possessive adjective)) in the relative clause:
@@ -130,11 +130,11 @@
 :11-2-1-e-sample-2_ga: An cuimhin leat an lá *a thit* an crann?
 :11-2-1-e-sample-2_en: Do you remember the day *when* the tree *fell*?
 
-:11-2-1-e-note_ga: Is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh i gcás na ndobhriathra ama sin, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (féach 11.3.1(g)).
-:11-2-1-e-note_en: An indirect relative clause can be used instead of the direct relative clause in the case of those temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (see 11.3.1(g)).
+:11-2-1-e-note_ga: Is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh i gcás na ndobhriathra ama sin, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (féach link:#sec_11_3_1[11.3.1](g)).
+:11-2-1-e-note_en: An indirect relative clause can be used instead of the direct relative clause in the case of those temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a bhfoilseofar é?_; _An cuimhin leat an lá ar thit an crann?_ (see link:#sec_11_3_1[11.3.1](g)).
 
-:11-2-1-f-p_ga: más é atá sa réamhtheachtaí réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh agus an chopail roimhe chun béim a leagan air (féach 11.8.4):
-:11-2-1-f-p_en: if the antecedent is a simple preposition, a compound preposition, a prepositional pronominal or a prepositional phrase brought to the front along with the copula before it for emphasis (see 11.8.4):
+:11-2-1-f-p_ga: más é atá sa réamhtheachtaí réamhfhocal simplí, réamhfhocal comhshuite, forainmneach réamhfhoclach nó frása dobhriathartha a thugtar chun tosaigh agus an chopail roimhe chun béim a leagan air (féach link:#sec_11_8_4[11.8.4]):
+:11-2-1-f-p_en: if the antecedent is a simple preposition, a compound preposition, a prepositional pronominal or a prepositional phrase brought to the front along with the copula before it for emphasis (see link:#sec_11_8_4[11.8.4]):
 
 :11-2-1-f-sample-1a_ga: Déanfar an obair de réir a chéile.
 :11-2-1-f-sample-1a_en: The work will be done gradually.
@@ -166,8 +166,8 @@
 :11-3-1-p_ga: Clásal coibhneasta indíreach a bhíonn i gceist sna cásanna seo a leanas. Déantar tagairt le hiartheachtaí sa chlásal coibhneasta indíreach don réamhtheachtaí sa phríomhchlásal. Úsáidtear clásal coibhneasta indíreach --
 :11-3-1-p_en: An indirect relative clause is involved in the following cases. Subsequents in the indirect relative clause refer to the antecedent in the main clause. An indirect relative clause is used --
 
-:11-3-1-a-p_ga: chun débhrí a sheachaint nuair is cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí (féach 11.2.1(b) roimhe seo):
-:11-3-1-a-p_en: to avoid ambiguity when the antecedent is the direct object of the verb in the relative clause (see 11.2.1(b) above):
+:11-3-1-a-p_ga: chun débhrí a sheachaint nuair is cuspóir díreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí (féach link:#sec_11_2_1[11.2.1](b) roimhe seo):
+:11-3-1-a-p_en: to avoid ambiguity when the antecedent is the direct object of the verb in the relative clause (see link:#sec_11_2_1[11.2.1](b) above):
 
 :11-3-1-a-sample-1a_ga: Phóg Gearóid an bhean sin.
 :11-3-1-a-sample-1a_en: Gerard kissed that woman.
@@ -202,8 +202,8 @@
 :11-3-1-b-sample-2b_ga: Dhíol siad an chathaoir *a raibh* mé ag moladh *í* a choimeád.
 :11-3-1-b-sample-2b_en: They sold the chair *that* I *was* recommending keeping.
 
-:11-3-1-b-note_ga: Is féidir clásal coibhneasta díreach den sórt seo a leanas a úsáid i gcás (b) freisin, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (féach 11.2.1(c)).
-:11-3-1-b-note_en: A direct relative clause of the following type can also be used in the case of (b) above, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (see 11.2.1(c)).
+:11-3-1-b-note_ga: Is féidir clásal coibhneasta díreach den sórt seo a leanas a úsáid i gcás (b) freisin, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (féach link:#sec_11_2_1[11.2.1](c)).
+:11-3-1-b-note_en: A direct relative clause of the following type can also be used in the case of (b) above, e.g., _Cheannaigh sí an gúna a bhí mé ag iarraidh a fháil_; _Dhíol siad an chathaoir a bhí mé ag moladh a choimeád_ (see link:#sec_11_2_1[11.2.1](c)).
 
 :11-3-1-c-p1_ga: nuair is cuspóir indíreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí:
 :11-3-1-c-p1_en: when the antecedent is the indirect object of the verb in the relative clause:
@@ -241,8 +241,8 @@
 :11-3-c-p2_ga: Tabhair faoi deara:
 :11-3-c-p2_en: Note:
 
-:11-3-1-c-i-p_ga: I gcás gur réamhfhocal simplí (_as_, _de_, _do_, etc.) a cheanglaíonn an briathar leis an gcuspóir indíreach, is féidir an réamhfhocal a thabhairt chun tosaigh roimh an mír choibhneasta. Déantar cumasc ansin idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach (féach 11.6.1(c)).
-:11-3-1-c-i-p_en: When a simple preposition (_as_, _de_, _do_, etc.) links the verb to the indirect object, the preposition can be brought to the front before the relative particle. A fusion then takes place between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively (see 11.6.1(c)).
+:11-3-1-c-i-p_ga: I gcás gur réamhfhocal simplí (_as_, _de_, _do_, etc.) a cheanglaíonn an briathar leis an gcuspóir indíreach, is féidir an réamhfhocal a thabhairt chun tosaigh roimh an mír choibhneasta. Déantar cumasc ansin idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach (féach link:#sec_11_6_1[11.6.1](c)).
+:11-3-1-c-i-p_en: When a simple preposition (_as_, _de_, _do_, etc.) links the verb to the indirect object, the preposition can be brought to the front before the relative particle. A fusion then takes place between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively (see link:#sec_11_6_1[11.6.1](c)).
 
 :11-3-1-c-i-sample-1a_ga: Cuireadh an t-agallamh ar an mbean sin.
 :11-3-1-c-i-sample-1a_en: The interview was put on that woman.
@@ -326,8 +326,8 @@
 :11-3-1-e-sample-4b_ga: Sin í an pháirc *a dteastaíonn* uainn fál a thógáil idir í agus an bóthar.
 :11-3-1-e-sample-4b_en: It is that field *which* we *want* to build a fence between it and the road.
 
-:11-3-1-e-note_ga: Féach freisin an míniú ar chlásal idiraisnéiseach in 11.4, e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
-:11-3-1-e-note_en: See also the explanation of parenthetical clauses in 11.4, e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
+:11-3-1-e-note_ga: Féach freisin an míniú ar chlásal idiraisnéiseach in link:#sec_11_4[11.4], e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
+:11-3-1-e-note_en: See also the explanation of parenthetical clauses in link:#sec_11_4[11.4], e.g., _Ba dhuine í a cheap mé a chonaic mé cheana_.
 
 :11-3-1-f-p_ga: i gcás forainmnigh cheisteacha amhail _cé_, _cad_ (_é_), etc. nuair a dhéantar réamhfhocal simplí, réamhfhocal comhshuite nó forainmneach réamhfhoclach a thabhairt chun tosaigh san abairt chun go dtagann sé go díreach ar lorg an fhorainmnigh cheistigh:
 :11-3-1-f-p_en: in the case of interrogative pronominals such as _cé_, _cad_ (_é_), etc. when a simple preposition, a compound preposition or a prepositional pronominal is brought to the front of the sentence so that it comes directly before the interrogative pronominal:
@@ -350,8 +350,8 @@
 :11-3-1-f-sample-3b_ga: Cé *leis a raibh* tú ag caint?
 :11-3-1-f-sample-3b_en: Who *was it to whom* you *were* talking?
 
-:11-3-1-g-p_ga: nuair is dobhriathar ama ar nós _an tráth_, _an t-am_, etc. an réamhtheachtaí, is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh (úsáidtear an clásal coibhneasta díreach i ndiaidh _nuair_ agus _uair_ i gcónaí, féach 11.2.1(d)):
-:11-3-1-g-p_en: when a temporal adverb such as _an tráth_, _an t-am_, etc. is the antecedent, an indirect relative clause can be used instead of a direct relative clause (a direct relative clause is always used after _nuair_ and _uair_, see 11.2.1(d)):
+:11-3-1-g-p_ga: nuair is dobhriathar ama ar nós _an tráth_, _an t-am_, etc. an réamhtheachtaí, is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh (úsáidtear an clásal coibhneasta díreach i ndiaidh _nuair_ agus _uair_ i gcónaí, féach link:#sec_11_2_1[11.2.1](d)):
+:11-3-1-g-p_en: when a temporal adverb such as _an tráth_, _an t-am_, etc. is the antecedent, an indirect relative clause can be used instead of a direct relative clause (a direct relative clause is always used after _nuair_ and _uair_, see link:#sec_11_2_1[11.2.1](d)):
 
 :11-3-1-g-sample-1_ga: An bhfuil a fhios agat cén tráth *a bhfoilseofar* é?
 :11-3-1-g-sample-1_en: Do you know the time *when* it *will be published*?
@@ -359,8 +359,8 @@
 :11-3-1-g-sample-2_ga: An cuimhin leat an lá *ar thit* an crann?
 :11-3-1-g-sample-2_en: Do you remember the day *when* the tree *fell*?
 
-:11-3-1-g-note_ga: Is féidir an clásal coibhneasta díreach a úsáid in ionad an chlásail choibhneasta indírigh i gcás na ndobhriathra ama freisin, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (féach 11.2.1(e)).
-:11-3-1-g-note_en: A direct relative clause can also be used instead of an indirect relative clause in the case of temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (see 11.2.1(e)).
+:11-3-1-g-note_ga: Is féidir an clásal coibhneasta díreach a úsáid in ionad an chlásail choibhneasta indírigh i gcás na ndobhriathra ama freisin, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (féach link:#sec_11_2_1[11.2.1](e)).
+:11-3-1-g-note_en: A direct relative clause can also be used instead of an indirect relative clause in the case of temporal adverbs, e.g., _An bhfuil a fhios agat cén tráth a fhoilseofar é?_; _An cuimhin leat an lá a thit an crann?_ (see link:#sec_11_2_1[11.2.1](e)).
 
 :11-3-1-h-p_ga: más ceann de na focail _áit_, _bealach_, _caoi_, _cúis_, _dóigh_, _fáth_, _réasún_, _slí_ nó _treo_ (nó focal a bhfuil an bhrí chéanna leis) an réamhtheachtaí agus má tá sé ag feidhmiú mar dhobhriathar atá ag cáiliú an bhriathair sa chlásal coibhneasta:
 :11-3-1-h-p_en: if one of the words _áit_, _bealach_, _caoi_, _cúis_, _dóigh_, _fáth_, _réasún_, _slí_ or _treo_ (or a word with the same meaning) is the antecedent and it is functioning as an adverb qualifying the verb in the relative clause:
@@ -410,8 +410,8 @@
 :11-4-2-p_ga: Briathra a úsáidtear chun tuairim nó caint a chur in iúl, e.g., _abair_, _ceap_, _maígh_, _síl_, etc., is mó a bhíonn i gclásail idiraisnéiseacha.
 :11-4-2-p_en: Verbs used to express opinion or speech, e.g., _abair_, _ceap_, _maígh_, _síl_, etc., are most commonly found in parenthetical clauses.
 
-:11-4-2-note_ga: Féach freisin 11.3.1(e) le haghaidh míniú ar chásanna ina ndéantar tagairt don réamhtheachtaí i gclásal briathartha atá faoi réir ag an mbriathar sa chlásal coibhneasta, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
-:11-4-2-note_en: See also 11.3.1(e) for an explanation of cases where the antecedent is referred to in a verbal clause that is subordinate to the verb in the relative clause, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
+:11-4-2-note_ga: Féach freisin link:#sec_11_3_1[11.3.1](e) le haghaidh míniú ar chásanna ina ndéantar tagairt don réamhtheachtaí i gclásal briathartha atá faoi réir ag an mbriathar sa chlásal coibhneasta, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
+:11-4-2-note_en: See also link:#sec_11_3_1[11.3.1](e) for an explanation of cases where the antecedent is referred to in a verbal clause that is subordinate to the verb in the relative clause, e.g., _Ba dhuine é ar cheap mé nach n-inseodh sé an fhírinne choíche_.
 
 :11-4-3-p_ga: Is clásal díreach an clásal idiraisnéiseach, ach féadfaidh an clásal ar a lorg a bheith díreach nó indíreach ag brath ar mhúnla na habairte.
 :11-4-3-p_en: The parenthetical clause is a direct clause, but the clause it refers to can be either direct or indirect depending on the structure of the sentence.
@@ -500,8 +500,8 @@
 :11-6-1-a-title_ga: An Clásal Coibhneasta Díreach
 :11-6-1-a-title_en: The Direct Relative Clause
 
-:11-6-1-a-i-p_ga: Más clásal coibhneasta díreach atá ann, is é _a_ an fhoirm den mhír choibhneasta a úsáidtear roimh na briathra rialta agus neamhrialta i ngach aimsir (seachas i gcás aimsir láithreach an bhriathair _bí_ -- féach (ii) thíos). Séimhítear an briathar i ndiaidh na míre coibhneasta dírí _a_ ach amháin i gcás an tsaorbhriathair, aimsir chaite (ach féach 11.7.1(b)).
-:11-6-1-a-i-p_en: If it is a direct relative clause, _a_ is the form of the relative particle used before regular and irregular verbs in all tenses (except in the present tense of the verb _bí_ -- see (ii) below). The verb is lenited after the direct relative particle _a_ except in the case of the past participle (but see 11.7.1(b)).
+:11-6-1-a-i-p_ga: Más clásal coibhneasta díreach atá ann, is é _a_ an fhoirm den mhír choibhneasta a úsáidtear roimh na briathra rialta agus neamhrialta i ngach aimsir (seachas i gcás aimsir láithreach an bhriathair _bí_ -- féach (ii) thíos). Séimhítear an briathar i ndiaidh na míre coibhneasta dírí _a_ ach amháin i gcás an tsaorbhriathair, aimsir chaite (ach féach link:#sec_11_7_1[11.7.1](b)).
+:11-6-1-a-i-p_en: If it is a direct relative clause, _a_ is the form of the relative particle used before regular and irregular verbs in all tenses (except in the present tense of the verb _bí_ -- see (ii) below). The verb is lenited after the direct relative particle _a_ except in the case of the past participle (but see link:#sec_11_7_1[11.7.1](b)).
 
 :11-6-1-a-i-sample-1_ga: Sin é an stáisiún raidió *a* chraolann cláir do leanaí.
 :11-6-1-a-i-sample-1_en: That is the radio station *that* broadcasts programs for children.
@@ -629,8 +629,8 @@
 :11-6-1-c-title_ga: Foirmeacha cumaisc
 :11-6-1-c-title_en: Fused Forms
 
-:11-6-1-c-p_ga: Déantar cumasc idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach, mar a leagtar amach anseo thíos (féach freisin 11.3.1(c)(i)). Tabhair faoi deara nach féidir cumasc a dhéanamh idir an réamhfhocal agus na míreanna coibhneasta diúltacha.
-:11-6-1-c-p_en: A fusion is made between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively, as outlined below (see also 11.3.1(c)(i)). Note that a fusion cannot be made between the preposition and the negative relative particles.
+:11-6-1-c-p_ga: Déantar cumasc idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach, mar a leagtar amach anseo thíos (féach freisin link:#sec_11_3_1[11.3.1](c)(i)). Tabhair faoi deara nach féidir cumasc a dhéanamh idir an réamhfhocal agus na míreanna coibhneasta diúltacha.
+:11-6-1-c-p_en: A fusion is made between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively, as outlined below (see also link:#sec_11_3_1[11.3.1](c)(i)). Note that a fusion cannot be made between the preposition and the negative relative particles.
 
 :Table11C-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna Coibhneasta _a_ agus _ar_
 :Table11C-caption_en: Fused Forms -- Prepositions with the Relative Particles _a_ and _ar_
@@ -734,8 +734,8 @@
 :11-7-1-title_ga: An Briathar -- An Clásal Coibhneasta Díreach Deimhneach
 :11-7-1-title_en: The Verb -- The Direct Affirmative Relative Clause
 
-:11-7-1-a-title_ga: Úsáidtear an fhoirm neamhspleách den bhriathar i ndiaidh na míre coibhneasta _a_ i gclásail choibhneasta dhíreacha dheimhneacha.
-:11-7-1-a-title_en: The independent form of the verb is used after the direct relative particle _a_ in direct affirmative relative clauses.
+:11-7-1-a-p_ga: Úsáidtear an fhoirm neamhspleách den bhriathar i ndiaidh na míre coibhneasta _a_ i gclásail choibhneasta dhíreacha dheimhneacha.
+:11-7-1-a-p_en: The independent form of the verb is used after the direct relative particle _a_ in direct affirmative relative clauses.
 
 :11-7-1-a-sample-1_ga: An bhfaca tú an cóta nua *a fuair* mé?
 :11-7-1-a-sample-1_en: Did you see the new coat *that* I *got*?
@@ -743,8 +743,8 @@
 :11-7-1-a-sample-2_ga: An é sin an fear *a théadh* go dtí na cluichí go léir?
 :11-7-1-a-sample-2_en: Is that the man *who went* to all the games?
 
-:11-7-1-b-title_ga: Séimhítear an briathar (seachas _abair_) san aimsir láithreach agus san aimsir fháistineach (ach féach 11.6.1(a)(ii)).
-:11-7-1-b-title_en: The verb (except _abair_) is lenited in the present and future tenses (but see 11.6.1(a)(ii)).
+:11-7-1-b-p_ga: Séimhítear an briathar (seachas _abair_) san aimsir láithreach agus san aimsir fháistineach (ach féach link:#sec_11_6_1[11.6.1](a)(ii)).
+:11-7-1-b-p_en: The verb (except _abair_) is lenited in the present and future tenses (but see link:#sec_11_6_1[11.6.1](a)(ii)).
 
 :11-7-1-b-sample-1_ga: Sin é an sliotar *a bhuaileann* sí gach maidin.
 :11-7-1-b-sample-1_en: That is the hurley ball *that* she *hits* every morning.
@@ -833,8 +833,8 @@
 :11-8-title_ga: An Chopail agus an Clásal Coibhneasta
 :11-8-title_en: The Copula and the Relative Clause
 
-:11-8-1-p_ga: Seo thíos foirmeacha na copaile a úsáidtear i gclásail choibhneasta (féach freisin 7.2.3 agus 7.2.4 le haghaidh tuilleadh faisnéise).
-:11-8-1-p_en: Below are the forms of the copula used in relative clauses (see also 7.2.3 and 7.2.4 for further information).
+:11-8-1-p_ga: Seo thíos foirmeacha na copaile a úsáidtear i gclásail choibhneasta (féach freisin link:./chapter7-ga.html#sec_7_2_3[7.2.3] agus link:./chapter7-ga.html#sec_7_2_4[7.2.4] le haghaidh tuilleadh faisnéise).
+:11-8-1-p_en: Below are the forms of the copula used in relative clauses (see also link:./chapter7-en.html#sec_7_2_3[7.2.3] and link:./chapter7-en.html#sec_7_2_4[7.2.4] for further information).
 
 :Table11D-caption_ga: Foirmeacha na Copaile i gClásal Coibhneasta
 :Table11D-caption_en: Forms of the Copula in a Relative Clause
@@ -920,8 +920,8 @@
 :11-8-4-sample-6_ga: Is de réir a chéile *a dhéantar* dul chun cinn.
 :11-8-4-sample-6_en: It is gradually *that* progress is made.
 
-:11-8-5-p_ga: Déantar cumasc idir na foirmeacha den chopail _ar_, _arb_ agus _arbh_ agus na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ mar a leagtar amach anseo thíos (féach freisin 7.3.2).
-:11-8-5-p_en: A fusion is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also 7.3.2).
+:11-8-5-p_ga: Déantar cumasc idir na foirmeacha den chopail _ar_, _arb_ agus _arbh_ agus na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ mar a leagtar amach anseo thíos (féach freisin link:./chapter7-ga.html#sec_7_3_2[7.3.2]).
+:11-8-5-p_en: A fusion is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also link:./chapter7-en.html#sec_7_3_2[7.3.2]).
 
 :Table11E-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna _ar_, _arb_ agus _arbh_
 :Table11E-caption_en: Fused Forms -- Prepositions with the Particles _ar_, _arb_ and _arbh_

@@ -305,7 +305,7 @@
 
 {11-4-3-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-11">
   <caption>
@@ -369,7 +369,7 @@
 
 {11-5-2-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-11">
   <caption>
@@ -578,7 +578,7 @@ h| {Table11C-header1} h| {Table11C-header2} h| {Table11C-header3}
 === 11.7.1 {11-7-1-title}
 
 [list-[lower-alpha]]
-. *{11-7-1-a-title}*
+. {11-7-1-a-p}
 +
 [.samplebox]
 [cols="1"]
@@ -587,7 +587,7 @@ h| {Table11C-header1} h| {Table11C-header2} h| {Table11C-header3}
 | {11-7-1-a-sample-2}
 |===
 
-. *{11-7-1-b-title}*
+. {11-7-1-b-p}
 +
 [.samplebox]
 [cols="1"]
@@ -664,7 +664,7 @@ h| {Table11C-header1} h| {Table11C-header2} h| {Table11C-header3}
 
 {11-8-1-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-11">
   <caption>

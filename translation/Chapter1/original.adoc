@@ -247,7 +247,7 @@
 
 {1-2-p1}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="w-full top-level-table">
   <caption>
@@ -434,7 +434,7 @@
 ==== 1.4.1
 {1-4-1}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -530,7 +530,7 @@
 
 {1-4-2}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -625,7 +625,7 @@
 ==== 1.4.3
 {1-4-3}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -676,7 +676,7 @@
 ==== 1.4.4
 {1-4-4}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -801,7 +801,7 @@
 
 {1-5-2-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="w-full top-level-table">
   <caption>
@@ -950,7 +950,7 @@
 
 {1-6-1-p1}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -1009,7 +1009,7 @@
 
 {1-6-2-p1}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -1089,7 +1089,7 @@
 
 {1-6-3-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -1158,7 +1158,7 @@
 
 {1-7-3-p}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -1258,7 +1258,7 @@
 
 {1-7-4}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -1349,7 +1349,7 @@
 
 {1-7-5}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>
@@ -1405,7 +1405,7 @@
 
 {1-7-6}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-1">
   <caption>

@@ -166,7 +166,7 @@ h| 9,999 | naoi míle, naoi gcéad nócha a naoi
 
 {9-2-3-p2}
 
-[subs=attributes,replacements]
+[subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-9">
     <caption>
