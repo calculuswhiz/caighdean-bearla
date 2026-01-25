@@ -94,20 +94,18 @@ npm run generate-docs
 # Translation notes
 - **US or UK spelling?** - Currently, the English translation uses US spelling as I am from the US. If this project gains any traction, a separate translation set shall be created for en_GB.
 
-- **"Case"** - The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to translate this as "when" or avoid the word "case" altogether if there is a perceived risk of ambiguity in a given context.
+- **"Case"** - The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to avoid the word "case" altogether unless the grammatical case is meant.
 
-- **Machine Translation** - Machine translation (usually Google Translate) is used extensively to assist with the translation. These are to be vetted with caution.
+- **Machine Translation** - Machine translation (usually Google Translate/Copilot GPT autocomplete) is used extensively to assist with the translation. These are to be vetted with caution due to hallucination potential.
 
-- **Generative AI Assistance** - Generative AI is only permitted to translate words and idioms not found in available dictionaries, and even then, it is to be carefully scrutinized in relation to its context. It will not be used to translate very large amounts of text (more than one translation unit in the .adoc files.)
-
-  - **Amendment 1** - GitHub Copilot (backed by GPT) has some surprisingly competent translations in its code completion, with comparable (slightly better on average) results to Google Translate. Like GT, it is prone to errors, so use with caution and QC every line.
+- **Generative AI Assistance** - After much trial, Copilot/GPT autocmplete has proven to get fairly decent results on average, if for no other reason than it generates easy translations quickly. Of course, it will make hallucinatory mistakes, especially on specific grammar terms, so it is not to be used without caution.
 
 - **Sample Boxes** - The gray boxes that show examples will generally be more literally translated to highlight Irish Grammar points (with some attempt to bold corresponding words). If the correspondence does not help, no words may be bolded. If the translation does not serve for this, it may be omitted.
 
 - **"Pronominal"** - FGB distinguishes between "pronoun" (forainm) and "pronominal" (forainmneach). This translation will strive to keep this distinction.
 
 ## Abbreviations and sources
-Some of these may appear in annotations and comments in the asciidoc code.
+Some of these may appear in annotations and comments in the Asciidoc code.
 - GT - Google Translate
 - FGB - Foclóir Gaeilge-Béarla, Ó Dónaill, 1977
 - Other sources may be mentioned inline directly
