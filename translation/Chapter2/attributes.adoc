@@ -25,7 +25,6 @@
 :datSg_ga: _tabh. uatha_
 :datSg_en: _dat. sg._
 
-
 :Table2C-title_ga: An Dara Díochlaonadh — Lagiolraí
 :Table2C-title_en: The Second Declension — Weak Plural
 
@@ -83,8 +82,8 @@
 :2-1-1-title_ga: Na Díochlaontaí
 :2-1-1-title_en: The Declensions
 
-:2-1-1-p1_ga: Roinntear na hainmfhocail ina gcúig dhíochlaonadh, de réir fhoirm a dtuisil ghinidigh, mar a léirítear i dtábla 2E.
-:2-1-1-p1_en: The nouns can be divided into five declensions, according to the genitive case form, as is seen in table 2E.
+:2-1-1-p1_ga: Roinntear na hainmfhocail ina gcúig dhíochlaonadh, de réir fhoirm a dtuisil ghinidigh, mar a léirítear i link:#table2e[dtábla 2E].
+:2-1-1-p1_en: The nouns can be divided into five declensions, according to the genitive case form, as is seen in link:#table2e[table 2E].
 
 :2-1-2-title_ga: Na Tuisil
 :2-1-2-title_en: The Cases
@@ -98,8 +97,8 @@
 :2-1-2-b-title_ga: *An Tabharthach*
 :2-1-2-b-title_en: *The Dative*
 
-:2-1-2-b-p1_ga: Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach 2.3.3), agus áirítear an tuiseal sin freisin faoin teideal _Ainmneach_.
-:2-1-2-b-p1_en: The form of the dative is also the same as the nominative, singular and plural (but see 2.3.3), and that case is also counted under the title _Nominative_.
+:2-1-2-b-p1_ga: Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach link:#sec_2_3_3[2.3.3]), agus áirítear an tuiseal sin freisin faoin teideal _Ainmneach_.
+:2-1-2-b-p1_en: The form of the dative is also the same as the nominative, singular and plural (but see link:#sec_2_3_3[2.3.3]), and that case is also counted under the title _Nominative_.
 
 :2-1-2-c-title_ga: *An Ginideach*
 :2-1-2-c-title_en: *The Genitive*
@@ -110,8 +109,8 @@
 :2-1-2-d-title_ga: *An Gairmeach*
 :2-1-2-d-title_en: *The Vocative*
 
-:2-1-2-d-p1_ga: Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach 2.2.3 agus 2.2.4(c)).
-:2-1-2-d-p1_en: In the vocative case, the vocative particle _a_ is put before the noun and the initial consonant of the following noun is lenited. The form of the vocative is the same as the nominative except in the first declension and does not need to be specified separately outside of that declension (see 2.2.3 and 2.2.4(c)).
+:2-1-2-d-p1_ga: Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach link:#sec_2_2_3[2.2.3] agus link:#sec_2_2_4[2.2.4](c)).
+:2-1-2-d-p1_en: In the vocative case, the vocative particle _a_ is put before the noun and the initial consonant of the following noun is lenited. The form of the vocative is the same as the nominative except in the first declension and does not need to be specified separately outside of that declension (see link:#sec_2_2_3[2.2.3] and link:#sec_2_2_4[2.2.4](c)).
 
 :2-1-3-title_ga: An tIolra
 :2-1-3-title_en: The Plural
@@ -221,8 +220,8 @@
 :2-1-7-e_ga: i dteidil shainiúla agus ceannlitreacha orthu, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh;_
 :2-1-7-e_en: in specific titles and their initials, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh;_
 
-:2-1-7-f_ga: i ndiaidh _an-_ (réimír threise) agus i ndiaidh _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Tabhair faoi deara nach séimhítear an dara focal i gcomhfhocal i ndiaidh _an-_ nuair a thagann _d, t_ nó _s_ ar a lorg, e.g., _an-duine is ea é_; _an-drochaimsir_ (féach 10.2.12).
-:2-1-7-f_en: after _an-_ (emphatic prefix) and after _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Note that there is no lenition of the second word in a compound word after _an-_ when _d, t_ or _s_ follows it, e.g., _an-duine is ea é_; _an-drochaimsir_ (see 10.2.12).
+:2-1-7-f_ga: i ndiaidh _an-_ (réimír threise) agus i ndiaidh _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Tabhair faoi deara nach séimhítear an dara focal i gcomhfhocal i ndiaidh _an-_ nuair a thagann _d, t_ nó _s_ ar a lorg, e.g., _an-duine is ea é_; _an-drochaimsir_ (féach link:chapter10-ga.html#sec_10_2_12[10.2.12]).
+:2-1-7-f_en: after _an-_ (emphatic prefix) and after _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Note that there is no lenition of the second word in a compound word after _an-_ when _d, t_ or _s_ follows it, e.g., _an-duine is ea é_; _an-drochaimsir_ (see link:chapter10-en.html#sec_10_2_12[10.2.12]).
 
 :2-1-7-notes-1_ga: Cuirtear dhá fhleiscín i gcomhfhocal nuair is gá ar mhaithe leis an tsoiléireacht, e.g., _an-dea-aimsir_; _an-droch-chaint_; _iar-nua-aimseartha_; _an Leas-Phríomh-Aire_.
 :2-1-7-notes-1_en: Two hyphens are placed in a compound word when it is necessary for the sake of clarity, e.g., _an-dea-aimsir_; _an-droch-chaint_; _iar-nua-aimseartha_; _an Leas-Phríomh-Aire_.
@@ -305,8 +304,8 @@
 :2-1-8-title_ga: Gearrléiriú ar na Díochlaontaí
 :2-1-8-title_en: A Brief Overview of the Declensions
 
-:2-1-8-notes_ga: Mar a luadh in 2.1.2, is ionann foirm don Tuiseal Ainmneach, don Tuiseal Cuspóireach agus don Tuiseal Tabharthach agus áirítear iad uile faoin teideal Ainmneach.
-:2-1-8-notes_en: As mentioned in 2.1.2, the form is the same in the Nominative Case, the Accusative Case and the Dative Case and all of them are included under the title Nominative.
+:2-1-8-notes_ga: Mar a luadh in link:#sec_2_1_2[2.1.2], is ionann foirm don Tuiseal Ainmneach, don Tuiseal Cuspóireach agus don Tuiseal Tabharthach agus áirítear iad uile faoin teideal Ainmneach.
+:2-1-8-notes_en: As mentioned in link:#sec_2_1_2[2.1.2], the form is the same in the Nominative Case, the Accusative Case and the Dative Case and all of them are included under the title Nominative.
 
 :nopass-2-2-title_ga: {declension-1}
 :nopass-2-2-title_en: {declension-1}
@@ -323,8 +322,8 @@
 :2-2-2-a_ga: Sa ghinideach uatha, caolaítear an consan deiridh, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
 :2-2-2-a_en: In the genitive singular, the last consonant is narrowed, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
 
-:2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
-:2-2-2-b_en: The changes under 2.1.4 apply with the narrowing, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
+:2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
+:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the narrowing, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
 
 :2-2-2-c_ga: Athraítear _mac_ go _mic_ sa ghinideach uatha agus san ainmneach iolra.
 :2-2-2-c_en: _mac_ is changed to _mic_ in the genitive singular and in the genitive plural.
@@ -392,8 +391,8 @@
 :2-3-2-b_ga: I gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, déantar _-(a)í_ den _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
 :2-3-2-b_en: When polysyllabic nouns end with _-(e)ach_, make _-(a)í_ from _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
 
-:2-3-2-c-p1_ga: Gabhann na hathruithe a luaitear faoi 2.1.4 leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
-:2-3-2-c-p1_en: The narrowing changes mentioned in 2.1.4 apply to the nouns as follows:
+:2-3-2-c-p1_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
+:2-3-2-c-p1_en: The narrowing changes mentioned in link:#sec_2_1_4[2.1.4] apply to the nouns as follows:
 
 :2-3-2-c-i_ga: _-ea-_ go _-ei-_, e.g., _beach_, _beiche_ (athraítear _-ea-_ go _-i-_ san ainmfhocal aonsiollach, e.g., _beann_, _binne_; _cearc_, _circe_; agus sa siolla neamhaiceanta d'ainmfhocail ilsiollacha, e.g., _bruinneall_, _bruinnille_; _ficheall_, _fichille_); agus
 :2-3-2-c-i_en: _-ea-_ to _-ei-_, e.g., _beach_, _beiche_ (_-ea-_ is changed to _-i-_ in a monosyllabic noun, e.g., _beann_, _binne_; _cearc_, _circe_; and in the unaccented syllable of the polysyllabic noun, e.g., _bruinneall_, _bruinnille_; _ficheall_, _fichille_); and
@@ -494,8 +493,8 @@
 :2-4-1-a_ga: Is leis an díochlaonadh seo a bhaineann ainmfhocail ilsiollacha a chríochnaíonn ar _-áil_, _-aíl_, _-cht_, _-éir_, _-eoir_, _-irt_, _-óir_, _-úil_, _-úint_, _-úir_ (seachas i gcás ainmneacha tíortha atá sa Dara Díochlaonadh, e.g., _an Ailgéir_, _an Bhrasaíl_, _an Iodáil_).
 :2-4-1-a_en: This declension has the polysyllabic nouns ending in _-áil_, _-aíl_, _-cht_, _-éir_, _-eoir_, _-irt_, _-óir_, _-úil_, _-úint_, _-úir_ (other than country names that are in the second declension, e.g., _an Ailgéir_, _an Bhrasaíl_, _an Iodáil_).
 
-:2-4-1-b_ga: Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan, leathan nó caol, san ainmneach uatha. I gcás na n-ainmfhocal sin, críochnaíonn an ginideach uatha ar _-a_ agus leathnaítear an consan deiridh más gá, e.g., _buachaill_, _buachalla_; _gleann_, _gleanna_ (féach 2.1.5).
-:2-4-1-b_en: This declension also has some nouns ending in a consonant, broad or slender, in the nominative singular. For these nouns, the genitive singular ends with _-a_ and the final consonant is broadened if necessary, e.g., _buachaill_, _buachalla_; _gleann_, _gleanna_ (see 2.1.5).
+:2-4-1-b_ga: Is leis an díochlaonadh seo freisin a bhaineann roinnt ainmfhocal a chríochnaíonn ar chonsan, leathan nó caol, san ainmneach uatha. I gcás na n-ainmfhocal sin, críochnaíonn an ginideach uatha ar _-a_ agus leathnaítear an consan deiridh más gá, e.g., _buachaill_, _buachalla_; _gleann_, _gleanna_ (féach link:#sec_2_1_5[2.1.5]).
+:2-4-1-b_en: This declension also has some nouns ending in a consonant, broad or slender, in the nominative singular. For these nouns, the genitive singular ends with _-a_ and the final consonant is broadened if necessary, e.g., _buachaill_, _buachalla_; _gleann_, _gleanna_ (see link:#sec_2_1_5[2.1.5]).
 
 :2-4-2-title_ga: An Ginideach Uatha
 :2-4-2-title_en: The Genitive Singular

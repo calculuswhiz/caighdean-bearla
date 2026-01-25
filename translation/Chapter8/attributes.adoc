@@ -439,8 +439,8 @@
 :8-5-1-sample8_ga: *Céard* a rinne siad tar éis na hoibre?
 :8-5-1-sample8_en: *What* did they do after the work?
 
-:8-5-2-p_ga: Cuirtear _h_ roimh fhocal dar tús guta ar lorg _cá_ (féach 10.11.4).
-:8-5-2-p_en: _h_ is placed before a word at the beginning of a sentence when _cá_ is used (see 10.11.4).
+:8-5-2-p_ga: Cuirtear _h_ roimh fhocal dar tús guta ar lorg _cá_ (féach link:./chapter10-ga.html#sec_10_11_4[10.11.4]).
+:8-5-2-p_en: _h_ is placed before a word at the beginning of a sentence when _cá_ is used (see link:./chapter10-en.html#sec_10_11_4[10.11.4]).
 
 :8-5-2-sample1_ga: *Cá háit* a ndeachaigh siad?
 :8-5-2-sample1_en: *Where* did they go?
@@ -454,8 +454,8 @@
 :8-5-2-sample4_ga: *Cá haois* é?
 :8-5-2-sample4_en: *What age* is he?
 
-:8-5-3-p_ga: Cuirtear _h_ roimh na forainmnigh _é_ (_eisean_), _í_ (_ise_) agus _iad_ (_iadsan_) ar lorg _cé_ (féach 10.13.1).
-:8-5-3-p_en: _h_ is placed before the pronominals _é_ (_eisean_), _í_ (_ise_) and _iad_ (_iadsan_) when used with _cé_ (see 10.13.1).
+:8-5-3-p_ga: Cuirtear _h_ roimh na forainmnigh _é_ (_eisean_), _í_ (_ise_) agus _iad_ (_iadsan_) ar lorg _cé_ (féach link:./chapter10-ga.html#sec_10_13_1[10.13.1])).
+:8-5-3-p_en: _h_ is placed before the pronominals _é_ (_eisean_), _í_ (_ise_) and _iad_ (_iadsan_) when used with _cé_ (see link:./chapter10-en.html#sec_10_13_1[10.13.1])).
 
 :8-5-3-sample1_ga: *Cé hé* an fear sin?
 :8-5-3-sample1_en: *Who* is that man?
@@ -469,8 +469,8 @@
 :8-5-3-sample4_ga: *Cé hiadsan*?
 :8-5-3-sample4_en: *Who are they*?
 
-:8-5-4-p_ga: Ní shéimhítear na forainmnigh cheisteacha (féach 10.5.2), ach déantar cumasc idir _cá_, _cé_ agus an chopail chun na foirmeacha _cár_, _cárb_, _cárbh_, _cér_, _cérb_ agus _cérbh_ a chruthú (féach 7.3.1). Déantar cumasc idir _cé_ agus an t-alt uatha an chun _cén_ a chruthú.
-:8-5-4-p_en: The interrogative pronominals are not lenited (see 10.5.2), but fusions are made between _cá_, _cé_ and the copula to make the forms _cár_, _cárb_, _cárbh_, _cér_, _cérb_ and _cérbh_ (see 7.3.1). A fusion is made between _cé_ and the singular article to form _cén_.
+:8-5-4-p_ga: Ní shéimhítear na forainmnigh cheisteacha (féach link:./chapter10-ga.html#sec_10_5_2[10.5.2]), ach déantar cumasc idir _cá_, _cé_ agus an chopail chun na foirmeacha _cár_, _cárb_, _cárbh_, _cér_, _cérb_ agus _cérbh_ a chruthú (féach link:./chapter7-ga.html#sec_7_3_1[7.3.1]). Déantar cumasc idir _cé_ agus an t-alt uatha an chun _cén_ a chruthú.
+:8-5-4-p_en: The interrogative pronominals are not lenited (see link:./chapter10-en.html#sec_10_5_2[10.5.2]), but fusions are made between _cá_, _cé_ and the copula to make the forms _cár_, _cárb_, _cárbh_, _cér_, _cérb_ and _cérbh_ (see link:./chapter7-en.html#sec_7_3_1[7.3.1]). A fusion is made between _cé_ and the singular article to form _cén_.
 
 :8-5-4-sample1_ga: *Cár* chuir tú é?
 :8-5-4-sample1_en: *Where* did you put it?

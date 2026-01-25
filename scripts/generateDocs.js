@@ -48,6 +48,15 @@ export function processAdocFileContents(contents, language) {
   return outputBuffer.join("\n");
 }
 
+function convertCommon(raw, devMode) {
+  return asciidoctor.convert(raw, {
+    attributes: {
+      rootRef: devMode ? "/public/" : "/caighdean-i18n/",
+      idprefix: "sec_"
+    }
+  });
+}
+
 /** Generate html for chapter by number. 
  * Does not generate full document, only chapter content in a div.
  * @param {string} chapterFolder The chapter folder to load
@@ -74,11 +83,7 @@ async function makeChapterHtml(chapterFolder, language, devMode) {
     processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
   ].join("\n");
 
-  return asciidoctor.convert(combined, {
-    attributes: {
-      rootRef: devMode ? "/public/" : "/caighdean-bearla/"
-    }
-  });
+  return convertCommon(combined, devMode);
 }
 
 /** Similar to {@link makeChapterHtml}, but just generates the Irish version
@@ -105,11 +110,7 @@ async function makeOriginalIrishHtml(chapterFolder, devMode) {
     processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
   ].join("\n");
 
-  return asciidoctor.convert(combined, {
-    attributes: {
-      rootRef: devMode ? "/public/" : "/caighdean-bearla/"
-    }
-  });
+  return convertCommon(combined, devMode);
 }
 
 /**

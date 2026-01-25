@@ -7,8 +7,8 @@
 :7-1-p1_ga: Úsáidtear an chopail chun dhá fhocal nó dhá abairtín a cheangal le chéile.
 :7-1-p1_en: The copula is used to associate two words or phrases together.
 
-:7-1-p2_ga: Is ionann an leagan den chopail a úsáidtear san aimsir láithreach agus an leagan a úsáidtear san aimsir fháistineach. Ina theannta sin, is ionann an leagan den chopail a úsáidtear san aimsir chaite agus an leagan a úsáidtear san aimsir ghnáthchaite agus sa mhodh coinníollach. Tabhair faoi deara, más san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach atá faisnéis na habairte, nach gá go mbeadh aimsir na copaile agus aimsir fhaisnéis na habairte ag aontú le chéile. Féach 7.2 le haghaidh fhoirmeacha simplí na copaile.
-:7-1-p2_en: The form of the copula used in the present tense is the same as that used in the future tense. Moreover, the form of the copula, when used in the past tense, the past habitual tense, and the conditional mood, is the same. Bear in mind, if the predicate of the sentence is in the past tense, the present tense, or the conditional mood, the tense of the copula and the tense of the predicate would not necessarily agree with each other. See 7.2 for simple forms of the copula.
+:7-1-p2_ga: Is ionann an leagan den chopail a úsáidtear san aimsir láithreach agus an leagan a úsáidtear san aimsir fháistineach. Ina theannta sin, is ionann an leagan den chopail a úsáidtear san aimsir chaite agus an leagan a úsáidtear san aimsir ghnáthchaite agus sa mhodh coinníollach. Tabhair faoi deara, más san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach atá faisnéis na habairte, nach gá go mbeadh aimsir na copaile agus aimsir fhaisnéis na habairte ag aontú le chéile. Féach link:#sec_7_2[7.2] le haghaidh fhoirmeacha simplí na copaile.
+:7-1-p2_en: The form of the copula used in the present tense is the same as that used in the future tense. Moreover, the form of the copula, when used in the past tense, the past habitual tense, and the conditional mood, is the same. Bear in mind, if the predicate of the sentence is in the past tense, the present tense, or the conditional mood, the tense of the copula and the tense of the predicate would not necessarily agree with each other. See link:#sec_7_2[7.2] for simple forms of the copula.
 
 :7-1-1-title_ga: *Feidhmeanna na Copaile*
 :7-1-1-title_en: *Functions of the Copula*
@@ -385,8 +385,8 @@
 :Table7E-header_ga: An Aimsir Chaite, An Aimsir Ghnáthchaite agus An Modh Coinníollach
 :Table7E-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
-:Table7E-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta -- An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach -- _gur_ agus _gurbh_
-:Table7E-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses -- Past Tense, Past Habitual Tense and Conditional Mood -- _gur_ and _gurbh_
+:Table7E-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta &mdash; An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach &mdash; _gur_ agus _gurbh_
+:Table7E-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses &mdash; Past Tense, Past Habitual Tense and Conditional Mood &mdash; _gur_ and _gurbh_
 
 :7-2-2-B-b-title_ga: _go mba_ nó _go mb'_
 :7-2-2-B-b-title_en: _go mba_ or _go mb'_
@@ -433,8 +433,8 @@
 :Table7F-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7F-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
-:Table7F-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach — _go mba_ agus _go mb'_
-:Table7F-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses — the Past Tense, Past Habitual Tense and Conditional Mood — _go mba_ and _go mb'_
+:Table7F-caption_ga: Foirmeacha Simplí i dtús Fochlásail, seachas Clásal Coibhneasta &mdash; An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach &mdash; _go mba_ agus _go mb'_
+:Table7F-caption_en: Simple Forms at the beginning of Subordinate Clauses, except Relative Clauses &mdash; the Past Tense, Past Habitual Tense and Conditional Mood &mdash; _go mba_ and _go mb'_
 
 :7-2-2-B-c-title_ga: _nár_ nó _nárbh_
 :7-2-2-B-c-title_en: _nár_ or _nárbh_
@@ -622,8 +622,8 @@
 :7-3-1-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-3-1-A-title_en: The Present Tense and the Future Tense
 
-:7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach 8.5.4).
-:7-3-1-A-p_en: In the table below, examples of interrogative pronominals combined with the copula in the present tense or future tense are given (see 8.5.4).
+:7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach link:./chapter8-ga.html#sec_8_5_4[8.5.4]).
+:7-3-1-A-p_en: In the table below, examples of interrogative pronominals combined with the copula in the present tense or future tense are given (see link:./chapter8-en.html#sec_8_5_4[8.5.4]).
 
 :Table7M-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7M-header_en: The Present Tense and Future Tense
@@ -721,8 +721,8 @@
 :7-3-4-B-title_ga: An Aimsir Chaite agus an Aimsir Ghnáthchaite
 :7-3-4-B-title_en: The Past Tense and the Past Habitual Tense
 
-:7-3-4-B-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir chaite nó san aimsir ghnáthchaite. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach 7.2.1B).
-:7-3-4-B-p_en: In the table below, examples of _má_ combined with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see 7.2.1B).
+:7-3-4-B-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir chaite nó san aimsir ghnáthchaite. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1[7.2.1]B).
+:7-3-4-B-p_en: In the table below, examples of _má_ combined with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1[7.2.1]B).
 
 :Table7T-caption_ga: _má_ i gcumasc leis an gCopail — An Aimsir Chaite agus an Aimsir Ghnáthchaite
 :Table7T-caption_en: _má_ combined with the copula — The Past Tense and the Past Habitual Tense
@@ -733,8 +733,8 @@
 :7-3-5-title_ga: _dá_ agus an Chopail
 :7-3-5-title_en: _dá_ and the Copula
 
-:7-3-5-p_ga: Sa tábla thíos, leagtar amach samplaí de _dá_ leis an gcopail. Is sa mhodh coinníollach amháin a úsáidtear _dá_. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach 7.2.1B).
-:7-3-5-p_en: In the table below, examples of _dá_ combined with the copula are given. _dá_ is used only in the conditional mood. The rules for the use of _ba_ and _b'_ also apply here (see 7.2.1B).
+:7-3-5-p_ga: Sa tábla thíos, leagtar amach samplaí de _dá_ leis an gcopail. Is sa mhodh coinníollach amháin a úsáidtear _dá_. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1[7.2.1]B).
+:7-3-5-p_en: In the table below, examples of _dá_ combined with the copula are given. _dá_ is used only in the conditional mood. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1[7.2.1]B).
 
 :Table7U-caption_ga: _dá_ agus an Chopail — An Modh Coinníollach
 :Table7U-caption_en: _dá_ and the Copula — The Conditional Mood

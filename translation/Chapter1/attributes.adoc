@@ -7,8 +7,8 @@
 :1-1-2_ga: Is litir bheag a bhíonn ar an alt i lár abairte, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., _Cé a scríobh An tOileánach?_
 :1-1-2_en: The article is written with a small letter in the middle of sentences e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ except in certain cases such as publication titles e.g., _Cé a scríobh An tOileánach?_
 
-:1-1-3_ga: Má tá teideal a bhfuil an t-alt ann (féach1.1.5(a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
-:1-1-3_en: If a title containing an article (see 1.1.5 (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
+:1-1-3_ga: Má tá teideal a bhfuil an t-alt ann (féach link:#sec_1_1_5[1.1.5] (a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
+:1-1-3_en: If a title containing an article (see link:#sec_1_1_5[1.1.5] (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
 
 :1-1-4_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, ach amháin nuair is ceannlitir an guta, e.g., _an t-ospidéal_, _an tAlbanach_. Ní chuirtear fleiscín idir an réamhlitir _t_ agus _s_, e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ ná idir an réamhlitir _h_ agus guta, e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
 :1-1-4_en: Put a hyphen between the preliminary letter _t_ and a vowel, except when the vowel is capitalized e.g., _an t-ospidéal_, _an tAlbanach_. Do not put a hyphen between the preliminary letter _t_ and _s_ e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ or between the preliminary letter _h_ and a vowel e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
@@ -110,7 +110,7 @@
 :1-1-5-f-sample2_en: Easter is in *March* rather than *April* this year.
 
 :1-1-5-f-p2_ga: Úsáidtear an t-alt leis na míonna _Márta_, _Bealtaine_, _Meitheamh_, _Samhain_ agus _Nollaig_. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha _san Aibreán_.
-:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also 1.3 for another instance.)
+:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also link:#sec_1_3_2[1.3.2] for another instance.)
 
 :1-1-5-g-p1_ga: Dátaí
 :1-1-5-g-p1_en: Dates
@@ -175,8 +175,8 @@
 :1-1-5-i-A-iii_ga: má chríochnaíonn sé ar _-e_, _-é_, e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 :1-1-5-i-A-iii_en: if it ends with _-e_, _-é_ e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 
-:1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain_, _Éire_ (féach 3.1.4).
-:1-1-5-i-A-p2_en: Some names of countries and regions end with a narrow consonant but are not accompanied by the article e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular case but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive in the case of _Albain_, _Éire_ (see 3.1.4).
+:1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain_, _Éire_ (féach link:./chapter3-ga.html#sec_3_1_4[3.1.4]).
+:1-1-5-i-A-p2_en: Some names of countries and regions end with a narrow consonant but are not accompanied by the article e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular case but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive in the case of _Albain_, _Éire_ (see link:./chapter3-en#sec_3_1_4[3.1.4]).
 
 :1-1-5-i-A-sample1_ga: Is tír álainn í *an Fhrainc*.
 :1-1-5-i-A-sample1_en: *France* is a beautiful country.
@@ -289,8 +289,8 @@
 :h2-gp-2-5-title_ga: Na Tuisil
 :h2-gp-2-5-title_en: The Cases
 
-:h2-gp-2-5-p_ga: Cúig thuiseal atá sa Ghaeilge: an tuiseal ainmneach, an tuiseal cuspóireach, an tuiseal tabharthach, an tuiseal ginideach agus an tuiseal gairmeach (féach 2.1.2). Sna táblaí a leanas, taispeántar na hathruithe a dhéantar ar an alt agus ar thúslitir an ainmfhocail bunaithe ar cheithre ní -- inscne, tuiseal, uimhir agus túslitir an ainmfhocail. Féach freisin Caibidil 10 le haghaidh eolas breise ar na hathruithe tosaigh.
-:h2-gp-2-5-p_en: There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see 2.1.2). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items -- gender, case, number and the first letter of the noun. Also see Chapter 10 for additional information about initial mutations.
+:h2-gp-2-5-p_ga: Cúig thuiseal atá sa Ghaeilge: an tuiseal ainmneach, an tuiseal cuspóireach, an tuiseal tabharthach, an tuiseal ginideach agus an tuiseal gairmeach (féach link:./chapter2-ga#sec_2_1_2[2.1.2]). Sna táblaí a leanas, taispeántar na hathruithe a dhéantar ar an alt agus ar thúslitir an ainmfhocail bunaithe ar cheithre ní -- inscne, tuiseal, uimhir agus túslitir an ainmfhocail. Féach freisin link:chapter10-ga.html[Caibidil 10] le haghaidh eolas breise ar na hathruithe tosaigh.
+:h2-gp-2-5-p_en: There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see link:./chapter2-en#sec_2_1_2[2.1.2]). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items -- gender, case, number and the first letter of the noun. Also see link:chapter10-en.html[Chapter 10] for additional information about initial mutations.
 
 :1-2-title_ga: An Tuiseal Ainmneach agus an Tuiseal Cuspóireach Uatha
 :1-2-title_en: The Nominative Case and the Singular Accusative Case
@@ -478,8 +478,8 @@
 :1-5-1-e-sample2_ga: Rinne siad achomharc *chun na cúirte*.
 :1-5-1-e-sample2_en: They made an appeal *to the court*.
 
-:1-5-1-p2_ga: Féach 3.3 le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
-:1-5-1-p2_en: See 3.3 for cases where the nominative form is used instead of the genitive.
+:1-5-1-p2_ga: Féach link:./chapter3-ga#sec_3_3[3.3] le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
+:1-5-1-p2_en: See link:./chapter3-en#sec_3_3[3.3] for cases where the nominative form is used instead of the genitive.
 
 :1-5-2-p_ga: Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.
 :1-5-2-p_en: In the below table, the effect of the article on the noun in the genitive singular case is shown.
@@ -585,8 +585,8 @@ This will (mostly) just be some algebra here...
 :1-7-1-p_ga: Sa tuiseal tabharthach uatha amháin, tá rogha eile ann ar a dtugtar Córas an tSéimhithe. Moltar cloí le córas amháin -- an Córas Lárnach nó Córas an tSéimhithe -- agus gan na córais a mheascadh.
 :1-7-1-p_en: In the dative plural case only, there are other choices given for the Lenition System. It is recommended to adhere to one system only -- the Core System or the Lenition System -- and  not to mix the systems.
 
-:1-7-2-p_ga: Is ionann na rialacha a bhaineann leis an tuiseal tabharthach iolra sa Chóras Lárnach agus i gCóras an tSéimhithe (féach 1.6.2).
-:1-7-2-p_en: The rules regarding the dative plural case in the Core System and in the Lenition System are the same (See 1.6.2).
+:1-7-2-p_ga: Is ionann na rialacha a bhaineann leis an tuiseal tabharthach iolra sa Chóras Lárnach agus i gCóras an tSéimhithe (féach link:#sec_1_6_2[1.6.2]).
+:1-7-2-p_en: The rules regarding the dative plural case in the Core System and in the Lenition System are the same (See link:#sec_1_6_2[1.6.2]).
 
 :1-7-3-p_ga: I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas _d_, _t_ agus _s_) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.
 :1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) as well as the adjectives attached to them. See the below table.

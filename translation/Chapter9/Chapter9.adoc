@@ -1224,12 +1224,9 @@ h| 104ú | beithígh an chéad is ceathrú feirmeoir
 
 [list-[lower-alpha]]
 . {9-6-1-a-p}
-. {9-6-1-b-p}
-
-{9-6-1-p}
-
-[list-[lower-alpha]]
-[start=3]
+. {9-6-1-b-p1}
++
+{9-6-1-b-p2}
 . {9-6-1-c-p}
 . {9-6-1-d-p}
 . {9-6-1-e-p}

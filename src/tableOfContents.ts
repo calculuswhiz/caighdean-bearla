@@ -1,6 +1,8 @@
 import { EasyDOM } from "./EasyDOM";
 import translations from "../translation/MainPage/translations.json";
 
+// This script processes headings to make Table of Contents
+
 function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
   return EasyDOM.createElement("li")
     .addClasses('toc-item', 'my-1')
@@ -11,9 +13,23 @@ function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
     );
 }
 
-/** Scan DOM, adding Table of Contents element to the document */
+/** Removes everything after the numeric prefix.
+ * E.g. "sec_1_1_general" becomes "sec_1_1"
+ */
+function cleanHeadingId(ref: HTMLHeadingElement) {
+  const id = ref.id;
+  const newId = id.replace(/(sec(_\d+)+).*/, '$1');
+  ref.id = newId;
+}
+
+/** Scan DOM, adding Table of Contents element to the document.
+ * Also cleans heading IDs for easier reference linking.
+ */
 export function generateTableOfContents(docLang: keyof typeof translations["tableOfContents"] = 'en') {
   const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
+
+  for (const heading of headings)
+    cleanHeadingId(heading);
 
   const showHideSpan = EasyDOM.createElement("span")
     .addClasses('toc-toggle', 'text-sm', 'ml-4', 'cursor-pointer', 'text-blue-700')
@@ -61,7 +77,7 @@ export function generateTableOfContents(docLang: keyof typeof translations["tabl
       for (let i = 0; i < -levelDiff; i++) {
         if (writeRef.element.parentElement) {
           const parent = writeRef.element.parentElement.closest('ul');
-          if (parent) 
+          if (parent)
             writeRef = new EasyDOM(parent);
         }
       }

@@ -1,11 +1,12 @@
 {
-  "name": "caighdean-bearla",
+  "name": "caighdean-i18n",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "generate-docs": "node ./scripts/generateDocs.js --dev --watch",
+    "generate-all-docs": "node ./scripts/generateDocs.js --dev --all",
     "build": "node ./scripts/generateDocs.js --all && tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview"
