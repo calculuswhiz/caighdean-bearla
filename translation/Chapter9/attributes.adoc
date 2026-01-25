@@ -493,8 +493,8 @@
 :Table9S-caption_ga: Na hUimhreacha Pearsanta -- Foirm an Ainmfhocail ar lorg Uimhir Phearsanta
 :Table9S-caption_en: The Personal Numbers -- The Form of the Noun following the Personal Number
 
-:Table9S-footnote_ga: Tabhair faoi deara go gcaitear le 11 mar a chaitear leis i gcóras na mbunuimhreacha, agus nach gcuirtear an t-ainmfhocal sa ghinideach (féach 9.3.6(a)).
-:Table9S-footnote_en: Note that 11 is treated as it is in the cardinal number system, and that the noun is not put in the genitive (see 9.3.6(a)).
+:Table9S-footnote_ga: Tabhair faoi deara go gcaitear le 11 mar a chaitear leis i gcóras na mbunuimhreacha, agus nach gcuirtear an t-ainmfhocal sa ghinideach (féach link:#sec9_3_6[9.3.6](a)).
+:Table9S-footnote_en: Note that 11 is treated as it is in the cardinal number system, and that the noun is not put in the genitive (see link:#sec9_3_6[9.3.6](a)).
 
 :9-4-3-b-title_ga: An t-alt roimh uimhir phearsanta a bhfuil ainmfhocal ar a lorg
 :9-4-3-b-title_en: The article before a personal number with a following noun
@@ -529,8 +529,8 @@
 :9-4-3-c-iii-p_ga: Má tá an focal _beirt_, agus é sa ghinideach ach gan an t-alt a bheith roimhe, á cháiliú le _hainmfhocal_ + _aidiacht_ a thagann ina dhiaidh, agus é ar lorg agus faoi réir ag réamhfhocal comhshuite nó ainm briathartha, bíonn an aidiacht atá á cháiliú san iolra agus í séimhithe, e.g., _le haghaidh beirt mholtóirí dheasa_; _ag moladh beirt chumadóirí shamhlaíocha_.
 :9-4-3-c-iii-p_en: If the word _beirt_, when in the genitive but without the article preceding it, is being qualified by a _noun_ + _adjective_ that follows it, and it is following and subject to a compound preposition or a verbal noun, the adjective being qualified is in the plural and lenited, e.g., _le haghaidh beirt mholtóirí dheasa_; _ag moladh beirt chumadóirí shamhlaíocha_.
 
-:9-4-3-c-iv-p_ga: Ar lorg na n-uimhreacha pearsanta _triúr_ go _dháréag_ (ach féach 9.4.1(b)), is sa ghinideach iolra a bhíonn an aidiacht a ghabhann leis an ainmfhocal, e.g., _triúr scoláirí díograiseacha_; _ceathrar girseach éirimiúil_; _bád an triúr bádóirí tuirseacha_; _airgead an deichniúr ban bríomhar_. Léirítear samplaí leis an alt agus gan an t-alt sa tábla ina dhiaidh seo.
-:9-4-3-c-iv-p_en: Following the personal numbers _triúr_ to _dháréag_ (but see 9.4.1(b)), the adjective accompanying the noun is in the genitive plural, e.g., _triúr scoláirí díograiseacha_; _ceathrar girseach éirimiúil_; _bád an triúr bádóirí tuirseacha_; _airgead an deichniúr ban bríomhar_. Examples with and without the article are shown in the table below.
+:9-4-3-c-iv-p_ga: Ar lorg na n-uimhreacha pearsanta _triúr_ go _dháréag_ (ach féach link:#sec_9_4_1[9.4.1](b)), is sa ghinideach iolra a bhíonn an aidiacht a ghabhann leis an ainmfhocal, e.g., _triúr scoláirí díograiseacha_; _ceathrar girseach éirimiúil_; _bád an triúr bádóirí tuirseacha_; _airgead an deichniúr ban bríomhar_. Léirítear samplaí leis an alt agus gan an t-alt sa tábla ina dhiaidh seo.
+:9-4-3-c-iv-p_en: Following the personal numbers _triúr_ to _dháréag_ (but see link:#sec_9_4_1[9.4.1](b)), the adjective accompanying the noun is in the genitive plural, e.g., _triúr scoláirí díograiseacha_; _ceathrar girseach éirimiúil_; _bád an triúr bádóirí tuirseacha_; _airgead an deichniúr ban bríomhar_. Examples with and without the article are shown in the table below.
 
 :Table9U-caption_ga: Na hUimhreacha Pearsanta -- An Aidiacht le hAinmfhocal atá ar lorg Uimhir Phearsanta
 :Table9U-caption_en: The Personal Numbers -- The Adjective with a Noun following a Personal Number

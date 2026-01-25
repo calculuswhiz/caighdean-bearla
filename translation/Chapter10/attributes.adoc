@@ -45,8 +45,8 @@
 :10-2-1-b-sample-2_ga: Ba ghá dom imeacht roimh dheireadh *an chluiche*.
 :10-2-1-b-sample-2_en: I needed to leave before the end *of the game*.
 
-:10-2-1-c-p_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna ina ngabhann réamhfhocal leis an alt de réir an Chórais Lárnaigh, e.g., _den chapall_ (féach 1.4), nó de réir Chóras an tSéimhithe, e.g., _ar an chapall_ (féach link:./chapter1-ga.html#sec_1_7[1.7]):
-:10-2-1-c-p_en: in the dative singular, masculine and feminine, in some cases where a preposition takes the article according to the Core System, e.g., _den chapall_ (see 1.4), or according to the Lenition System, e.g., _ar an chapall_ (see link:./chapter1-en.html#sec_1_7[1.7]):
+:10-2-1-c-p_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna ina ngabhann réamhfhocal leis an alt de réir an Chórais Lárnaigh, e.g., _den chapall_ (féach link:./chapter1-ga.html#sec_1_4[1.4]), nó de réir Chóras an tSéimhithe, e.g., _ar an chapall_ (féach link:./chapter1-ga.html#sec_1_7[1.7]):
+:10-2-1-c-p_en: in the dative singular, masculine and feminine, in some cases where a preposition takes the article according to the Core System, e.g., _den chapall_ (see link:./chapter1-en.html#sec_1_4[1.4]), or according to the Lenition System, e.g., _ar an chapall_ (see link:./chapter1-en.html#sec_1_7[1.7]):
 
 :10-2-1-c-sample-1_ga: Mheallfadh sí an t-éan *den chrann*.
 :10-2-1-c-sample-1_en: She would attract the bird *from the tree*.
@@ -168,8 +168,8 @@
 :10-2-5-note-p_ga: Ní shéimhítear _b_, _m_ ná _p_ tar éis _um_, e.g., _ordú um praghsanna a chobhsú_; _an tÚdarás um Bóithre Náisiúnta_.
 :10-2-5-note-p_en: _b_, _m_ and _p_ are not lenited after _um_, e.g., _ordú um praghsanna a chobhsú_; _an tÚdarás um Bóithre Náisiúnta_.
 
-:10-2-5-b-p1_ga: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (féach freisin 10.6.4(b)):
-:10-2-5-b-p1_en: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (see also 10.6.4(b)):
+:10-2-5-b-p1_ga: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (féach freisin link:./chapter10-ga.html#sec_10_6_4[10.6.4](b)):
+:10-2-5-b-p1_en: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (see also link:./chapter10-en.html#sec_10_6_4[10.6.4](b)):
 
 :10-2-5-b-sample-1_ga: Níl a fhios aici conas cnaipe a chur *ar chóta*.
 :10-2-5-b-sample-1_en: She does not know how to put a button *on a coat*.
@@ -1225,8 +1225,8 @@
 :10-8-1-a-sample-2_ga: Is é sin an fear *a dtugtar* aire dó san ionad cónaithe.
 :10-8-1-a-sample-2_en: That is the man *who is given* care in the residential center.
 
-:10-8-1-b-p_ga: réamhfhocal i gcumasc le _a_, coibhneas indíreach (féach 11.6.1(c)), e.g., _an tAcht dá_ (as _do+a_) _dtagraítear_; _an Bille lena_ (as _le+a_) _ndéantar leasú_:
-:10-8-1-b-p_en: a preposition combined with _a_, indirect relative (see 11.6.1(c)), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
+:10-8-1-b-p_ga: réamhfhocal i gcumasc le _a_, coibhneas indíreach (féach link:./chapter11-ga.html#sec_11_6_1[11.6.1](c)), e.g., _an tAcht dá_ (as _do+a_) _dtagraítear_; _an Bille lena_ (as _le+a_) _ndéantar leasú_:
+:10-8-1-b-p_en: a preposition combined with _a_, indirect relative (see link:./chapter11-en.html#sec_11_6_1[11.6.1](c)), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
 
 :10-8-1-b-sample-1_ga: Is é sin an chuideachta *óna bhfuair* mé mo théacsleabhair.
 :10-8-1-b-sample-1_en: That is the company *from which* I got my textbooks.
@@ -1330,8 +1330,8 @@
 :10-10-title_ga: _t_ roimh _s_ i nDiaidh an Ailt
 :10-10-title_en: _t_ before _s_ after the Article
 
-:10-10-1-p_ga: Cuirtear _t_ roimh _s_ i ndiaidh an ailt más guta nó _l_, _n_ nó _r_ atá ar a lorg i gcásanna áirithe i ndiaidh an ailt de réir Chaibidil 1, e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
-:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial sound in certain cases after the article according to Chapter 1, e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
+:10-10-1-p_ga: Cuirtear _t_ roimh _s_ i ndiaidh an ailt más guta nó _l_, _n_ nó _r_ atá ar a lorg i gcásanna áirithe i ndiaidh an ailt de réir link:./chapter1-ga.html[Chaibidil 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
+:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial sound in certain cases after the article according to link:./chapter1-en.html[Chapter 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
 
 :10-10-1-sample-1_ga: Ná bain *an tsrón* díom!
 :10-10-1-sample-1_en: Don't *take the nose from me*!
@@ -1681,11 +1681,11 @@
 :Table10A-noun-rule-6_ga: I ndiaidh réamhfhocal comhshuite más ainmfhocal cinnte an t-ainmfhocal (link:#sec_10_2_6[10.2.6])
 :Table10A-noun-rule-6_en: After a compound preposition if the noun is a definite noun (link:#sec_10_2_6[10.2.6])
 
-:Table10A-noun-rule-7_ga: I ndiaidh ainmfhocal baininscneach seachas sna cásanna a luaitear in 10.2.7(a)-(m) (link:#sec_10_2_7[10.2.7])
-:Table10A-noun-rule-7_en: After a feminine noun except in the cases mentioned in 10.2.7(a)-(m) (link:#sec_10_2_7[10.2.7])
+:Table10A-noun-rule-7_ga: I ndiaidh ainmfhocal baininscneach seachas sna cásanna a luaitear in link:#sec_10_2_7[10.2.7](a)-(m) (link:#sec_10_2_7[10.2.7])
+:Table10A-noun-rule-7_en: After a feminine noun except in the cases mentioned in link:#sec_10_2_7[10.2.7](a)-(m) (link:#sec_10_2_7[10.2.7])
 
-:Table10A-noun-rule-8_ga: I ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol i ngach cás nach luaitear in 10.2.8(a)-(f) (link:#sec_10_2_8[10.2.8])
-:Table10A-noun-rule-8_en: After a noun in the plural ending in a slender consonant in all cases not mentioned in 10.2.8(a)-(f) (link:#sec_10_2_8[10.2.8])
+:Table10A-noun-rule-8_ga: I ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol i ngach cás nach luaitear in link:#sec_10_2_8[10.2.8](a)-(f) (link:#sec_10_2_8[10.2.8])
+:Table10A-noun-rule-8_en: After a noun in the plural ending in a slender consonant in all cases not mentioned in link:#sec_10_2_8[10.2.8](a)-(f) (link:#sec_10_2_8[10.2.8])
 
 :Table10A-noun-rule-9_ga: I ndiaidh ainmfhocal atá san uatha nó san iolra, firinscneach nó baininscneach, más ainmfhocal cinnte sa ghinideach é (link:#sec_10_2_10[10.2.10])
 :Table10A-noun-rule-9_en: After a noun that is in the singular or plural, masculine or feminine, if it is a definite noun in the genitive (link:#sec_10_2_10[10.2.10])
