@@ -13,16 +13,16 @@ function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
     );
 }
 
-/** Removes everything after the numeric prefix.
- * E.g. "sec_1_1_general" becomes "sec_1_1".
- * Also encapsulate the number part in a span for styling.
+/** 1) Removes everything after the numeric prefix.
+ *   E.g. "sec_1_1_general" becomes "sec_1_1".
+ * 2) Also encapsulate the number part in a span for styling.
  */
-function processHeading(heading: HTMLHeadingElement) {
-  const id = heading.id;
+function processHeading(heading: EasyDOM<HTMLHeadingElement>) {
+  const id = heading.element.id;
   const newId = id.replace(/(sec(_\d+)+).*/, '$1');
-  heading.id = newId;
+  heading.element.id = newId;
 
-  const match = heading.textContent?.match(/^(\d+(\.\d+)+)(.*)/);
+  const match = heading.element.textContent?.match(/^(\d+(\.\d+)+)(.*)/);
   if (match) {
     const numberSpan = EasyDOM.createElement("span")
       .addClasses('mr-2')
@@ -30,20 +30,36 @@ function processHeading(heading: HTMLHeadingElement) {
 
     const restText = match[3] ?? '';
 
-    heading.textContent = '';
-    heading.appendChild(numberSpan.element);
-    heading.appendChild(document.createTextNode(restText));
+    heading
+      .setText('')
+      .append(
+        numberSpan,
+        EasyDOM.createElement("span").setText(restText)
+      )
   }
+}
+
+function addSectionLinks(heading: EasyDOM<HTMLHeadingElement>) {
+  const linkIcon = EasyDOM.createElement("span")
+    .setProperties({ title: "Link to this section" })
+    .addClasses('ml-2', 'text-gray-400', 'hover:text-gray-600', 'cursor-pointer', 'select-none')
+    .setText('#');
+
+  linkIcon.element.addEventListener('click', () => {
+    location.href = `${location.origin}${location.pathname}#${heading.element.id}`;
+  });
+
+  heading.append(linkIcon);
 }
 
 /** Scan DOM, adding Table of Contents element to the document.
  * Also processes heading IDs for easier reference linking.
  */
-export function generateTableOfContents(docLang: keyof typeof translations["tableOfContents"] = 'en') {
+export function cleanHeadersAndMakeToC(docLang: keyof typeof translations["tableOfContents"] = 'en') {
   const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
 
   for (const heading of headings)
-    processHeading(heading);
+    processHeading(new EasyDOM(heading));
 
   const showHideSpan = EasyDOM.createElement("span")
     .addClasses('toc-toggle', 'text-sm', 'ml-4', 'cursor-pointer', 'text-blue-700')
@@ -103,6 +119,9 @@ export function generateTableOfContents(docLang: keyof typeof translations["tabl
       writeRef.append(createListItem(heading));
     }
   }
+
+  for (const heading of headings)
+    addSectionLinks(new EasyDOM(heading));
 
   EasyDOM.querySelector<HTMLDivElement>("#toc-container")?.append(tocContainer.element);
 }
