@@ -422,7 +422,7 @@
 :3-3-1-a-vi-p_en: a noun that has a definite noun following:
 
 :3-3-1-a-p2_ga: *Ach*, más ainm briathartha an t-ainmfhocal a bhfuil ainmfhocal cinnte ar a lorg, déantar athrú an ghinidigh air má thagann ainmfhocal eile roimhe, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
-:3-3-1-a-p2_en: *But*, if the noun that is followed by a definite noun is a verbal noun, the genitive case changes if another noun precedes it, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
+:3-3-1-a-p2_en: *But*, if the noun that has a definite noun following it is a verbal noun, its genitive is changed if another noun precedes it, e.g., _cosaint_, _madra cosanta na monarchan_; _fuascailt_, _bean fuascailte na ceiste_; _cealgadh_, _beach cealgtha an pháiste_; _bualadh_, _innill buailte an arbhair_; _bailiú_, _seachtain bailithe na rátaí_.
 
 :3-3-1-b-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é:
 :3-3-1-b-p_en: When a verbal noun is an integral part of a particular unit, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; which is subject to another noun or to a form followed by the genitive:
