@@ -1,23 +1,23 @@
 :chapterTitle_ga: An tAlt
 :chapterTitle_en: The Article
 
-:1-1-1_ga: Alt amháin atá sa Ghaeilge -- an t-alt cinnte. Deirtear gur _ainmfhocal cinnte_ ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: _an_ agus _na_. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
-:1-1-1_en: There is one article in the Irish language -- the definite article. The subject of the article is called the definite noun. Here the article has two forms: _an_ and _na_. The article is placed before the noun, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ or before whatever word is put before the noun as a qualifier e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. It is possible to replace the article with possessive adjectives e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
+:1-1-1-p_ga: Alt amháin atá sa Ghaeilge -- an t-alt cinnte. Deirtear gur _ainmfhocal cinnte_ ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: _an_ agus _na_. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
+:1-1-1-p_en: There is one article in the Irish language -- the definite article. The subject of the article is called the definite noun. Here the article has two forms: _an_ and _na_. The article is placed before the noun, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ or before whatever word is put before the noun as a qualifier e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. It is possible to replace the article with possessive adjectives e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
 
-:1-1-2_ga: Is litir bheag a bhíonn ar an alt i lár abairte, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., _Cé a scríobh An tOileánach?_
-:1-1-2_en: The article is written with a small letter in the middle of sentences e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ except in certain contexts such as publication titles e.g., _Cé a scríobh An tOileánach?_
+:1-1-2-p_ga: Is litir bheag a bhíonn ar an alt i lár abairte, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., _Cé a scríobh An tOileánach?_
+:1-1-2-p_en: The article is written with a small letter in the middle of sentences e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ except in certain contexts such as publication titles e.g., _Cé a scríobh An tOileánach?_
 
-:1-1-3_ga: Má tá teideal a bhfuil an t-alt ann (féach link:#sec_1_1_5[1.1.5] (a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
-:1-1-3_en: If a title containing an article (see link:#sec_1_1_5[1.1.5] (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
+:1-1-3-p_ga: Má tá teideal a bhfuil an t-alt ann (féach link:#sec_1_1_5[1.1.5] (a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
+:1-1-3-p_en: If a title containing an article (see link:#sec_1_1_5[1.1.5] (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
 
-:1-1-4_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, ach amháin nuair is ceannlitir an guta, e.g., _an t-ospidéal_, _an tAlbanach_. Ní chuirtear fleiscín idir an réamhlitir _t_ agus _s_, e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ ná idir an réamhlitir _h_ agus guta, e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
-:1-1-4_en: Put a hyphen between the preliminary letter _t_ and a vowel, except when the vowel is capitalized e.g., _an t-ospidéal_, _an tAlbanach_. Do not put a hyphen between the preliminary letter _t_ and _s_ e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ or between the preliminary letter _h_ and a vowel e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
+:1-1-4-p_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, ach amháin nuair is ceannlitir an guta, e.g., _an t-ospidéal_, _an tAlbanach_. Ní chuirtear fleiscín idir an réamhlitir _t_ agus _s_, e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ ná idir an réamhlitir _h_ agus guta, e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
+:1-1-4-p_en: Put a hyphen between the preliminary letter _t_ and a vowel, except when the vowel is capitalized e.g., _an t-ospidéal_, _an tAlbanach_. Do not put a hyphen between the preliminary letter _t_ and _s_ e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ or between the preliminary letter _h_ and a vowel e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
 
-:1-1-5_ga: Úsáidtear an t-alt sna cásanna seo a leanas.
-:1-1-5_en: The article is used in the following contexts.
+:1-1-5-p_ga: Úsáidtear an t-alt sna cásanna seo a leanas.
+:1-1-5-p_en: The article is used in the following contexts.
 
-:1-1-5-a_ga: *Teidil oifige*, e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
-:1-1-5-a_en: *Official Titles* e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
+:1-1-5-a-p_ga: *Teidil oifige*, e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
+:1-1-5-a-p_en: *Official Titles* e.g., _an tAire Airgeadais_, _an Príomh-Oifigeach Feidhmiúcháin_, _an Taoiseach_, _Ard-Rúnaí na Náisiún Aontaithe_.
 
 :1-1-5-a-sample1_ga: Beidh *an tAire Airgeadais* ag freastal ar an gcruinniú.
 :1-1-5-a-sample1_en: The *Minister for Finance* will attend the meeting.
@@ -31,8 +31,8 @@
 :1-1-5-a-sample4_ga: An é sin *Ard-Rúnaí na Náisiún Aontaithe*?
 :1-1-5-a-sample4_en: Is that *the Secretary General of the United Nations*?
 
-:1-1-5-b_ga: *Teidil ranna rialtais agus comhlachtaí stáit*, e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
-:1-1-5-b_en: *Titles of Government Departments and State Companies* e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
+:1-1-5-b-p_ga: *Teidil ranna rialtais agus comhlachtaí stáit*, e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
+:1-1-5-b-p_en: *Titles of Government Departments and State Companies* e.g., _an Roinn Oideachais agus Scileanna_, _an Oifig um Rialú Tobac_, _Feidhmeannacht na Seirbhíse Sláinte_, _an Phríomh-Oifig Staidrimh_.
 
 :1-1-5-b-sample1_ga: Is san fhoirgneamh sin thall atá *an Roinn Oideachais agus Scileanna*.
 :1-1-5-b-sample1_en: This building is opposite *the Department of Education and Skills*.
@@ -46,8 +46,8 @@
 :1-1-5-b-sample4_ga: Seo *an Phríomh-Oifig Staidrimh*.
 :1-1-5-b-sample4_en: This is *the Central Statistics Office*.
 
-:1-1-5-c_ga: *Teideal duine roimh ainm dílis*, e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
-:1-1-5-c_en: *Titles of people before a proper noun*, e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
+:1-1-5-c-p_ga: *Teideal duine roimh ainm dílis*, e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
+:1-1-5-c-p_en: *Titles of people before a proper noun*, e.g., _an tAthair Peadar Ua Laoghaire_, _an Captaen Ó Murchú_, _an tUachtarán Mhic Róibín_, _an Teachta de Barra_, _an Múinteoir Ailbhe_, _an Pápa Eoin Pól II_, _an Rí Anraí VIII_.
 
 :1-1-5-c-sample1_ga: Ba é *an tAthair Peadar Ua Laoghaire* a scríobh an dráma _An Sprid_.
 :1-1-5-c-sample1_en: *Father Peadar Ua Laoghaire* wrote the play _An Sprid_.
@@ -367,20 +367,20 @@
 :1-3-title_ga: An Tuiseal Tabharthach Uatha
 :1-3-title_en: The Dative Singular Case
 
-:1-3-1_ga: Tugtar an tuiseal tabharthach ar an tuiseal a thagann i ndiaidh na réamhfhocal _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ agus _um_. Is de réir mar atá leagtha amach sna táblaí ina dhiaidh seo a phléitear le hainmfhocail ar lorg an ailt sa tuiseal tabharthach uatha.
-:1-3-1_en: The dative case is given to the case following the preposition: _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. Nouns that follow the article in the dative singular case are dealt with as laid out in the following tables.
+:1-3-1-p_ga: Tugtar an tuiseal tabharthach ar an tuiseal a thagann i ndiaidh na réamhfhocal _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ agus _um_. Is de réir mar atá leagtha amach sna táblaí ina dhiaidh seo a phléitear le hainmfhocail ar lorg an ailt sa tuiseal tabharthach uatha.
+:1-3-1-p_en: The dative case is given to the case following the preposition: _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. Nouns that follow the article in the dative singular case are dealt with as laid out in the following tables.
 
-:1-3-2_ga: Is é an tuiseal ainmneach a leanann na focail _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ agus _seachas_ agus an t-alt, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. Úsáidtear an tuiseal tabharthach sa leagan calctha _mar an gcéanna_.
-:1-3-2_en: The nominative case follows the words _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ and _seachas_ and the article, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. The dative case is used in the calqued version _mar an gcéanna_.
+:1-3-2-p_ga: Is é an tuiseal ainmneach a leanann na focail _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ agus _seachas_ agus an t-alt, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. Úsáidtear an tuiseal tabharthach sa leagan calctha _mar an gcéanna_.
+:1-3-2-p_en: The nominative case follows the words _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ and _seachas_ and the article, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. The dative case is used in the calqued version _mar an gcéanna_.
 
-:1-3-3_ga: Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: _réamhfhocal_ + _ainmfhocal_ + _a_ + _ainm briathartha_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
-:1-3-3_en: The general rules of the dative are applied to forms of this type: _perposition_ + _noun_ + _a_ + _verbal noun_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
+:1-3-3-p_ga: Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: _réamhfhocal_ + _ainmfhocal_ + _a_ + _ainm briathartha_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
+:1-3-3-p_en: The general rules of the dative are applied to forms of this type: _perposition_ + _noun_ + _a_ + _verbal noun_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
 
-:1-3-4_ga: I gcás na réamhfhocal _de_, _do_, _faoi_, _i_ agus _ó_, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.
-:1-3-4_en: In the case of prepositions _de_, _do_, _faoi_, _i_ and _ó_, the preposition and the singular article are fused as shown below.
+:1-3-4-p_ga: I gcás na réamhfhocal _de_, _do_, _faoi_, _i_ agus _ó_, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.
+:1-3-4-p_en: In the case of prepositions _de_, _do_, _faoi_, _i_ and _ó_, the preposition and the singular article are fused as shown below.
 
-:1-3-5_ga: Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.
-:1-3-5_en: The prepositions in the below table have specific forms when they precede the singular article.
+:1-3-5-p_ga: Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.
+:1-3-5-p_en: The prepositions in the below table have specific forms when they precede the singular article.
 
 :CoreSystem_ga: An Córas Lárnach
 :CoreSystem_en: The Core System
@@ -388,8 +388,8 @@
 :nopass-1-4-title_ga: An Tuiseal Tabharthach Uatha — {CoreSystem}
 :nopass-1-4-title_en: The Dative Singular Case — {CoreSystem}
 
-:1-4-1_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas _d_, _t_ agus _s_), cuirtear séimhiú orthu i ndiaidh _den_, _don_, _sa/san_ agus urú i ngach cás eile, mar a léirítear sa tábla thíos.
-:1-4-1_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), apply lenition to them following _den_, _don_, _sa/san_ and eclipsis in every other case, as shown in the below table.
+:1-4-1-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas _d_, _t_ agus _s_), cuirtear séimhiú orthu i ndiaidh _den_, _don_, _sa/san_ agus urú i ngach cás eile, mar a léirítear sa tábla thíos.
+:1-4-1-p_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), apply lenition to them following _den_, _don_, _sa/san_ and eclipsis in every other case, as shown in the below table.
 
 :Table1B-caption_ga: Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
 :Table1B-caption_en: Nouns starting with a Consonant other than _d_, _t_ and _s_
@@ -397,8 +397,8 @@
 :Table1B-note_ga: _ACH i gcás_ f _roimh ghuta:_
 :Table1B-note_en: _BUT where_ f _precedes a vowel:_
 
-:1-4-2_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús _s_ sa tuiseal tabharthach. Cuirtear _t_ roimh _s_ ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-4-2_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than when the noun starts with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-4-2-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús _s_ sa tuiseal tabharthach. Cuirtear _t_ roimh _s_ ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
+:1-4-2-p_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than when the noun starts with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
 
 :Table1C-caption_ga: Ainmfhocail dar tús _s_
 :Table1C-caption_en: Nouns Starting with _s_
@@ -406,14 +406,14 @@
 :Table1C-col2-subheader_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_
 :Table1C-col2-subheader_en: _t_ is put before the _s_, other than for _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_
 
-:1-4-3_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta.
-:1-4-3_en: No change is made to masculine nouns or feminine nouns starting with a vowel.
+:1-4-3-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta.
+:1-4-3-p_en: No change is made to masculine nouns or feminine nouns starting with a vowel.
 
 :Table1D-caption_ga: Ainmfhocail dar tús Guta
 :Table1D-caption_en: Nouns Starting with Vowels
 
-:1-4-4_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_.
-:1-4-4_en: No change is made to masculine nouns or feminine nouns starting with _d_ and _t_.
+:1-4-4-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_.
+:1-4-4-p_en: No change is made to masculine nouns or feminine nouns starting with _d_ and _t_.
 
 :Table1E-caption_ga: Ainmfhocail dar tús _d_ agus _t_
 :Table1E-caption_en: Nouns Starting with _d_ and _t_
@@ -433,8 +433,8 @@
 :1-5-1-p1_ga: Is gnách foirm an ghinidigh a úsáid i gcás go bhfuil an t-ainmfhocal faoi réir ag ceann de na nithe seo a leanas --
 :1-5-1-p1_en: It is customary to use the genitive form when the noun is governed by the following things --
 
-:1-5-1-a_ga: ainmfhocal eile:
-:1-5-1-a_en: other nouns:
+:1-5-1-a-p_ga: ainmfhocal eile:
+:1-5-1-a-p_en: other nouns:
 
 :1-5-1-a-sample1_ga: Cár fhág tú *eochair an chairr*?
 :1-5-1-a-sample1_en: Where did you leave *the car keys*?
@@ -442,8 +442,8 @@
 :1-5-1-a-sample2_ga: Tá muintir na háite sásta le *foireann na leabharlainne*.
 :1-5-1-a-sample2_en: The local people are happy with *the library staff*.
 
-:1-5-1-b_ga: ainm briathartha:
-:1-5-1-b_en: verbal nouns:
+:1-5-1-b-p_ga: ainm briathartha:
+:1-5-1-b-p_en: verbal nouns:
 
 :1-5-1-b-sample1_ga: Is maith leis na gasúir a bheith *ag réiteach an dinnéir*.
 :1-5-1-b-sample1_en: The youngsters like *to be preparing dinner*.
@@ -451,8 +451,8 @@
 :1-5-1-b-sample2_ga: Is í Síle atá *ag déanamh na hArdteiste* i mbliana.
 :1-5-1-b-sample2_en: It is Síle who is *doing the Leaving Certificate* this year.
 
-:1-5-1-c_ga: réamhfhocal comhshuite, e.g., _faoi chomhair_, _i gcás_, _le haghaidh_:
-:1-5-1-c_en: compound prepositions, e.g., _faoi chomhair_, _i gcás_, _le haghaidh_:
+:1-5-1-c-p_ga: réamhfhocal comhshuite, e.g., _faoi chomhair_, _i gcás_, _le haghaidh_:
+:1-5-1-c-p_en: compound prepositions, e.g., _faoi chomhair_, _i gcás_, _le haghaidh_:
 
 :1-5-1-c-sample1_ga: Bíonn an cat ina shuí ansin *os comhair na tine* gach uile oíche.
 :1-5-1-c-sample1_en: The cat sits *in front of the fire* every night.
@@ -460,8 +460,8 @@
 :1-5-1-c-sample2_ga: Ba iad na hailtirí a bhí *i mbun an scrúdaithe*.
 :1-5-1-c-sample2_en: The architects were *conducting the examination*.
 
-:1-5-1-d_ga: ceann de na focail _cois_, _dála_, _fearacht_, _timpeall_, _trasna_:
-:1-5-1-d_en: one of the words _cois_, _dála_, _fearacht_, _timpeall_, _trasna_:
+:1-5-1-d-p_ga: ceann de na focail _cois_, _dála_, _fearacht_, _timpeall_, _trasna_:
+:1-5-1-d-p_en: one of the words _cois_, _dála_, _fearacht_, _timpeall_, _trasna_:
 
 :1-5-1-d-sample1_ga: Chuala mé go ndeachaigh sibh ar thuras *timpeall an domhain*.
 :1-5-1-d-sample1_en: I heard that you went on a journey *around the world*.
@@ -469,8 +469,8 @@
 :1-5-1-d-sample2_ga: Shiúlamar *cois na habhann*.
 :1-5-1-d-sample2_en: We walked *beside the river*.
 
-:1-5-1-e_ga: an réamhfhocal _chun_:
-:1-5-1-e_en: the preposition _chun_:
+:1-5-1-e-p_ga: an réamhfhocal _chun_:
+:1-5-1-e-p_en: the preposition _chun_:
 
 :1-5-1-e-sample1_ga: Tá an grúpa uile ag dul *chun na Spáinne* i mí Iúil.
 :1-5-1-e-sample1_en: The whole group is going *to Spain* in July.
@@ -597,8 +597,8 @@ This will (mostly) just be some algebra here...
 :Table1J-caption-start_ga: An Tuiseal Tabharthach Uatha
 :Table1J-caption-start_en: The Dative Singular Case
 
-:1-7-4_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús _s_, cuirtear _t_ roimh an _s_ (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-7-4_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (other than with nouns starting with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-7-4-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús _s_, cuirtear _t_ roimh an _s_ (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
+:1-7-4-p_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (other than with nouns starting with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
 
 :Table1K-subheading_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_
 :Table1K-subheading_en: _t_ is put before the _s_, other than in case of _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_
@@ -609,8 +609,8 @@ This will (mostly) just be some algebra here...
 :nopass-Table1K-caption-start_ga: {Table1J-caption-start}
 :nopass-Table1K-caption-start_en: {Table1J-caption-start}
 
-:1-7-5_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.
-:1-7-5_en: No change is done to either masculine nouns or feminine nouns starting with vowels. See the below table.
+:1-7-5-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.
+:1-7-5-p_en: No change is done to either masculine nouns or feminine nouns starting with vowels. See the below table.
 
 :Table1L-header_ga: Córas an tSéimhithe — Ainmfhocail dar tús Guta
 :Table1L-header_en: The Lenition System — Nouns Starting with a Vowel
@@ -618,8 +618,8 @@ This will (mostly) just be some algebra here...
 :nopass-Table1L-caption-start_ga: {Table1J-caption-start}
 :nopass-Table1L-caption-start_en: {Table1J-caption-start}
 
-:1-7-6_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_. Féach an tábla thíos.
-:1-7-6_en: No change is done to either masculine nouns or feminine nouns starting with _d_ and _t_. See the below table.
+:1-7-6-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_. Féach an tábla thíos.
+:1-7-6-p_en: No change is done to either masculine nouns or feminine nouns starting with _d_ and _t_. See the below table.
 
 :Table1M-Header_ga: Córas an tSéimhithe — Ainmfhocail dar tús _d_ agus _t_
 :Table1M-Header_en: The Lenition System — Nouns Starting with _d_ and _t_
