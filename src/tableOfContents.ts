@@ -1,5 +1,5 @@
 import { EasyDOM } from "./EasyDOM";
-import translations from "../translation/MainPage/translations.json";
+import translations from "../translation/json/translations.json";
 
 // This script processes headings and uses them to make Table of Contents
 
@@ -42,14 +42,14 @@ function processHeading(heading: EasyDOM<HTMLHeadingElement>) {
 function addSectionLinks(heading: EasyDOM<HTMLHeadingElement>) {
   const linkIcon = EasyDOM.createElement("span")
     .setProperties({ title: "Link to this section" })
-    .addClasses('ml-2', 'text-gray-400', 'hover:text-gray-600', 'cursor-pointer', 'select-none')
+    .addClasses('mx-2', 'text-blue-400', 'hover:text-blue-600', 'cursor-pointer', 'select-none')
     .setText('#');
 
   linkIcon.element.addEventListener('click', () => {
     location.href = `${location.origin}${location.pathname}#${heading.element.id}`;
   });
 
-  heading.append(linkIcon);
+  heading.prepend(linkIcon);
 }
 
 /** Scan DOM, adding Table of Contents element to the document.

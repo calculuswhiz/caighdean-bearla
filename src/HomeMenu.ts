@@ -1,4 +1,4 @@
-import translations from "../translation/MainPage/translations.json";
+import translations from "../translation/json/translations.json";
 import { EasyDOM } from "./EasyDOM";
 
 const availableChapters: {
@@ -143,7 +143,7 @@ function addChapterSelectLinks() {
         );
 
       container.append(linkContainer);
-      
+
       const link = EasyDOM.createElement("a")
         .setProperties({
           href: `./entrypoints/${x.id}-${availableLanguages[currentLanguageIdx].linkSuffix}.html`,
@@ -232,6 +232,12 @@ function applyTranslations() {
   const chapterSelect = EasyDOM.querySelector<HTMLDivElement>('#chapter-select');
   if (chapterSelect)
     chapterSelect.element.innerHTML = "";
+
+  const footer = EasyDOM.querySelector("footer");
+  if (footer) {
+    const disclaimerText = translations.footerDisclaimer[langSelect];
+    footer.setText(disclaimerText);
+  }
 
   addChapterSelectLinks();
 }

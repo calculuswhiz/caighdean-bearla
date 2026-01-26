@@ -141,8 +141,8 @@ async function generateDoc(chapterFolder) {
   const allChapters = xlateFolderEnts
     .filter(ent => 
       ent.isDirectory()
-      // ! The main page is not built with asciidoc
-      && ent.name !== "MainPage"
+      // ! The main page is not built with asciidoc, ignore
+      && ent.name !== "json"
     )
     .map(ent => ent.name);
 

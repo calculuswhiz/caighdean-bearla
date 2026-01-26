@@ -106,5 +106,11 @@
       "ga": "Caibidil 11 — An Clásal Coibhneasta",
       "en": "Chapter 11 — The Relative Clause"
     }
+  },
+
+  "footerDisclaimer": {
+    "comment": "The Irish text will not be translated as it is a disclaimer about the translation itself.",
+    "ga": "Is leagan neamhoifigiúil gréasáin den Chaighdeán Oifigiúil 2017 é seo.",
+    "en": "This is an unofficial translation of the 2017 Irish Official Standard."
   }
 }

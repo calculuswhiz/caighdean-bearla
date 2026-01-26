@@ -10,7 +10,7 @@ import type { SelectWritable } from "./metaTypes";
 export class EasyDOM<TElement extends HTMLElement> {
   /** Provides access to the underlying element */
   element: TElement;
-  
+
   /** Use this when constructing from an existing typed HTML element. */
   constructor(element: TElement) {
     this.element = element;
@@ -27,10 +27,9 @@ export class EasyDOM<TElement extends HTMLElement> {
    */
   static querySelector<TElement extends HTMLElement>(selector: string) {
     const element = document.querySelector<TElement>(selector);
-    if (element == null)
-      return null;
-    else
-      return new EasyDOM(element);
+    return element == null
+      ? null
+      : new EasyDOM(element);
   }
 
   /**
@@ -113,10 +112,24 @@ export class EasyDOM<TElement extends HTMLElement> {
    */
   append(...children: (HTMLElement | EasyDOM<HTMLElement>)[]) {
     for (const child of children) {
-      if (child instanceof HTMLElement)
-        this.element.append(child);
-      else
-        this.element.append(child.element);
+      this.element.append(
+        child instanceof HTMLElement
+          ? child
+          : child.element
+      )
+    }
+
+    return this;
+  }
+
+  /** Prepend either a list of EasyDOM or a list of HTMLElement */
+  prepend(...children: (HTMLElement | EasyDOM<HTMLElement>)[]) {
+    for (const child of children) {
+      this.element.prepend(
+        child instanceof HTMLElement
+          ? child
+          : child.element
+      )
     }
 
     return this;

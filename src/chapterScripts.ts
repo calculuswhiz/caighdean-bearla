@@ -1,5 +1,5 @@
 import { cleanHeadersAndMakeToC } from "./tableOfContents";
-import translations from "../translation/MainPage/translations.json";
+import translations from "../translation/json/translations.json";
 import { EasyDOM } from "./EasyDOM";
 
 const docLang: keyof typeof translations["tableOfContents"]
@@ -22,4 +22,11 @@ for (const table of allTables) {
 if (location.hash) {
   const targetElement = document.querySelector<HTMLElement>(location.hash);
   targetElement?.scrollIntoView();
+}
+
+// Insert footer disclaimer
+const footer = EasyDOM.querySelector("footer");
+if (footer) {
+  const disclaimerText = translations.footerDisclaimer[docLang];
+  footer.setText(disclaimerText);
 }
