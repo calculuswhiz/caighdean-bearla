@@ -97,6 +97,12 @@ const availableChapters: {
       bg: "bg-blue-950",
       fg: "text-white"
     },
+    {
+      labelChain: ["tableOfOptions"],
+      id: "tableOfOptions",
+      bg: "bg-purple-800",
+      fg: "text-white"
+    }
   ];
 
 type NestableRecord = {

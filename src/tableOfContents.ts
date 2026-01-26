@@ -1,7 +1,7 @@
 import { EasyDOM } from "./EasyDOM";
 import translations from "../translation/MainPage/translations.json";
 
-// This script processes headings to make Table of Contents
+// This script processes headings and uses them to make Table of Contents
 
 function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
   return EasyDOM.createElement("li")
@@ -54,16 +54,20 @@ function addSectionLinks(heading: EasyDOM<HTMLHeadingElement>) {
 
 /** Scan DOM, adding Table of Contents element to the document.
  * Also processes heading IDs for easier reference linking.
+ * Will not add TOC if there are no headings.
  */
 export function cleanHeadersAndMakeToC(docLang: keyof typeof translations["tableOfContents"] = 'en') {
   const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
+
+  if (headings.length === 0)
+    return;
 
   for (const heading of headings)
     processHeading(new EasyDOM(heading));
 
   const showHideSpan = EasyDOM.createElement("span")
     .addClasses('toc-toggle', 'text-sm', 'ml-4', 'cursor-pointer', 'text-blue-700')
-    .setText("Show/hide");
+    .setText("[+/-]");
 
   showHideSpan.element.addEventListener('click', () => {
     rootList.element.classList.toggle('hidden');
@@ -86,9 +90,15 @@ export function cleanHeadersAndMakeToC(docLang: keyof typeof translations["table
   // Normalized at 0 = h2
   let currentLevel = 0;
   for (const heading of headings) {
-    if (heading.textContent?.replace(/\d+(\.\d+)+/, '').trim() === "")
-      // Skip headings with no text
+    // Ignore certain headings
+    if (
+      // Empty after number
+      heading.textContent?.replace(/\d+(\.\d+)+/, '').trim() === ""
+      // Starts with capital letter (A/B starts)
+      || /^[A-Z] /.test(heading.textContent ?? "")
+    ) {
       continue;
+    }
 
     const level = parseInt(heading.tagName.substring(1)) - 2;
     const levelDiff = level - currentLevel;

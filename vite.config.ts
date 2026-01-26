@@ -31,6 +31,7 @@ export default defineConfig({
         chapter9: resolve(__dirname, 'entrypoints/chapter9-en.html'),
         chapter10: resolve(__dirname, 'entrypoints/chapter10-en.html'),
         chapter11: resolve(__dirname, 'entrypoints/chapter11-en.html'),
+        tableOfOptions: resolve(__dirname, 'entrypoints/tableOfOptions-en.html'),
         // Irish ones
         prefaceGa: resolve(__dirname, 'entrypoints/preface-ga.html'),
         advisoryCommitteeGa: resolve(__dirname, 'entrypoints/advisoryCommittee-ga.html'),
@@ -47,6 +48,7 @@ export default defineConfig({
         chapter9Ga: resolve(__dirname, 'entrypoints/chapter9-ga.html'),
         chapter10Ga: resolve(__dirname, 'entrypoints/chapter10-ga.html'),
         chapter11Ga: resolve(__dirname, 'entrypoints/chapter11-ga.html'),
+        tableOfOptionsGa: resolve(__dirname, 'entrypoints/tableOfOptions-ga.html'),
       }
     }
   }

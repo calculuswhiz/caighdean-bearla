@@ -1,0 +1,119 @@
+:TableOfOptionsTitle_ga: Tábla na Roghanna
+:TableOfOptionsTitle_en: Table of Options
+
+:p1_ga: Ceadaítear roinnt roghanna sa Chaighdeán Oifigiúil. Mar áis tagartha, léirítear na roghanna sin sa tábla thíos.
+:p1_en: Several options are permitted in the Official Standard. As a reference aid, those options are shown in the table below.
+
+:TableCaption_ga: Tábla na Roghanna
+:TableCaption_en: Table of Options
+
+:Col1_ga: An Chaibidil
+:Col1_en: Chapter
+
+:Col2_ga: An Rogha
+:Col2_en: Option
+
+:Col3_ga: An Chrostagairt
+:Col3_en: Cross Reference
+
+:ch1-link_ga: link:./chapter1-ga.html[1]
+:ch1-link_en: link:./chapter1-en.html[1]
+
+:Choice1A_ga: An Tuiseal Tabharthach
+:Choice1A_en: The Vocative Case
+
+:CrossRef1A_ga: link:./chapter1-ga.html#sec_1_4_4[1.4.4] N.B.
+:CrossRef1A_en: link:./chapter1-en.html#sec_1_4_4[1.4.4] N.B.
+
+:Choice1B_ga: An Córas Lárnach agus Córas an tSéimhithe
+:Choice1B_en: The Central System and the Lenition System
+
+:CrossRef1B_ga: link:./chapter1-ga.html#sec_1_4[1.4] agus link:./chapter1-ga.html#sec_1_7[1.7]
+:CrossRef1B_en: link:./chapter1-en.html#sec_1_4[1.4] and link:./chapter1-en.html#sec_1_7[1.7]
+
+:ch3-link_ga: link:./chapter3-ga.html[3]
+:ch3-link_en: link:./chapter3-en.html[3]
+
+:Choice3_ga: An tAlt le Giorrúcháin agus Acrainmneacha 
+:Choice3_en: The Article with Abbreviations and Acronyms
+
+:CrossRef3_ga: link:./chapter3-ga.html#sec_3_2[3.2]
+:CrossRef3_en: link:./chapter3-en.html#sec_3_2[3.2]
+
+:ch5-link_ga: link:./chapter5-ga.html[5]
+:ch5-link_en: link:./chapter5-en.html[5]
+
+:Choice5A_ga: _Muid_ agus an fhoirm scartha den bhriathar
+:Choice5A_en: _Muid_ and the Analytic Verb Form
+
+:CrossRef5A_ga: link:./chapter5-ga.html#sec_5_1_10[5.1.10]
+:CrossRef5A_en: link:./chapter5-en.html#sec_5_1_10[5.1.10]
+
+:Choice5B_ga: _Bí_ -- an chéad phearsa uatha, an aimsir láithreach
+:Choice5B_en: _Bí_ -- first person singular, present tense
+
+:CrossRef5B_ga: link:./chapter5-ga.html#table5p[Tábla 5P]
+:CrossRef5B_en: link:./chapter5-en.html#table5p[Table 5P]
+
+:Choice5C_ga: _Clois_/_cluin_
+:Choice5C_en: _Clois_/_cluin_
+
+:CrossRef5C_ga: link:./chapter5-ga.html#table5q[Tábla 5Q]
+:CrossRef5C_en: link:./chapter5-en.html#table5q[Table 5Q]
+
+:Choice5D_ga: _Déan_ san aimsir chaite
+:Choice5D_en: _Déan_ in the past tense
+
+:CrossRef5D_ga: link:./chapter5-ga.html#table5r[Tábla 5R]
+:CrossRef5D_en: link:./chapter5-en.html#table5r[Table 5R]
+
+:ch7-link_ga: link:./chapter7-ga.html[7]
+:ch7-link_en: link:./chapter7-en.html[7]
+
+:Choice7A_ga: _Ba_/_ab_
+:Choice7A_en: _Ba_/_ab_
+
+:CrossRef7A_ga: link:./chapter7-ga.html#sec_7_2_1[7.2.1]B(d)
+:CrossRef7A_en: link:./chapter7-en.html#sec_7_2_1[7.2.1]B(d)
+
+:Choice7B_ga: _Gurbh_/_go mba_, _go mb'_
+:Choice7B_en: _Gurbh_/_go mba_, _go mb'_
+
+:CrossRef7B_ga: link:./chapter7-ga.html#sec_7_2_2[7.2.2]B
+:CrossRef7B_en: link:./chapter7-en.html#sec_7_2_2[7.2.2]B
+
+:ch9-link_ga: link:./chapter9-ga.html[9]
+:ch9-link_en: link:./chapter9-en.html[9]
+
+:Choice9A_ga: Na Maoluimhreacha 10,000+
+:Choice9A_en: The Bare Numbers 10,000+
+
+:CrossRef9A_ga: link:./chapter9-ga.html#sec_9_2_3[9.2.3]
+:CrossRef9A_en: link:./chapter9-en.html#sec_9_2_3[9.2.3]
+
+:Choice9B_ga: An Córas Seanbhunaithe agus an Córas Simplithe
+:Choice9B_en: The Established System and the Simplified System
+
+:CrossRef9B_ga: link:./chapter9-ga.html#sec_9_3_10[9.3.10]; link:./chapter9-ga.html#sec_9_3_11[9.3.11]; link:./chapter9-ga.html#sec_9_3_12[9.3.12]; link:./chapter9-ga.html#sec_9_4_5[9.4.5] agus link:./chapter9-ga.html#sec_9_8[9.8]
+:CrossRef9B_en: link:./chapter9-en.html#sec_9_3_10[9.3.10]; link:./chapter9-en.html#sec_9_3_11[9.3.11]; link:./chapter9-en.html#sec_9_3_12[9.3.12]; link:./chapter9-en.html#sec_9_4_5[9.4.5] and link:./chapter9-en.html#sec_9_8[9.8]
+
+:Choice9C_ga: An Codán
+:Choice9C_en: The Partitive
+
+:CrossRef9C_ga: link:./chapter9-ga.html#sec_9_6_1[9.6.1](e)
+:CrossRef9C_en: link:./chapter9-en.html#sec_9_6_1[9.6.1](e)
+
+:ch11-link_ga: link:./chapter11-ga.html[11]
+:ch11-link_en: link:./chapter11-en.html[11]
+
+:Choice11A_ga: Clásal coibhneasta díreach nó indíreach tar éis dobhriathra ama
+:Choice11A_en: Relative clause direct or indirect after temporal verbs
+
+:CrossRef11A_ga: link:./chapter11-ga.html#sec_11_2_1[11.2.1](e) agus link:./chapter11-ga.html#sec_11_3_1[11.3.1](g)
+:CrossRef11A_en: link:./chapter11-en.html#sec_11_2_1[11.2.1](e) and link:./chapter11-en.html#sec_11_3_1[11.3.1](g)
+
+:Choice11B_ga: An fhoirm choibhneasta den bhriathar
+:Choice11B_en: The relative form of the verb
+
+:CrossRef11B_ga: link:./chapter11-ga.html#sec_11_7_4[11.7.4](a)
+:CrossRef11B_en: link:./chapter11-en.html#sec_11_7_4[11.7.4](a)

@@ -56,6 +56,11 @@
     "en": "Menu"
   },
 
+  "tableOfOptions": {
+    "ga": "Tábla na Roghanna",
+    "en": "Table of Options"
+  },
+
   "chapterTitles": {
     "Chapter1": {
       "ga": "Caibidil 1 — An Alt",

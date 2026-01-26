@@ -323,4 +323,10 @@
       @apply bg-stone-300 text-black;
     }
   }
+
+  .options-table {
+    & thead tr:first-child th {
+      @apply bg-gray-800 text-white;
+    }
+  }
 }
