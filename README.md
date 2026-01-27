@@ -5,11 +5,26 @@ Web-reflow and internationalization of **Gramadach na Gaeilge - An Caighdeán Oi
 - Source code tracked at https://github.com/calculuswhiz/caighdean-i18n.
 - Current translation can be viewed at at https://calculuswhiz.github.io/caighdean-i18n/.
 
-This project started life as an English translation, but I realized it could be extended into a framework for making the document web-accessible and translatable into other languages.
+This project started life as an English translation, but it was extended into a framework for making the document web-accessible and translatable into other languages.
 
 Early translations were based on [this effort](https://caighdean.home.blog/) to translate into English, but it seems to have not been updated since 2019. There was an attempt to put it on GitHub, but according to the blog author, it had to be taken down due to a security flaw.
 
 This project will hopefully be a way to get the ball rolling again with multiple collaborators (if needed). The document is sourced from the [Oireachtas website](https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_ga.pdf) (PDF).
+
+# Why translate?
+
+Often the foreign learners of languages will start their journey into the language by using language learning software. This software very often does not explain any grammar rules and elects instead to just show examples. While this approach may work for eventually, for people with a working understanding of grammar, it is much more efficient to learn the rules explicitly rather than to learn by failure. For Irish, this is especially frustrating.
+
+For example, Duolingo Irish:
+- Does not mention noun gender and declension
+- Does not explain initial mutations and when they're used
+- Fails to drill prepositional pronouns in a systematic way, hindering memorization
+- Does not explain compass/direction adverbs (to/from/at)
+- Contains pronunciation/audio inconsistencies
+- Has a small vocabulary pool even by the end
+- Does not signpost irregular verb conjugations
+
+The translation project's goal is to serve as a reference for foreign learners of Irish to understand how the language works, as standardized by the Irish government. It is not the project's goal to serve as a comprehensive Irish learner's textbook as that was never the goal of the original Standard.
 
 # How it works
 
@@ -102,7 +117,7 @@ npm run generate-docs
 
 ## Specific terms
 
-- **"Case"** - The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to avoid the word "case" altogether unless the grammatical case is meant.
+- **"Case"** - The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, the translation will elect to avoid the word "case" altogether unless the grammatical case is meant.
 
 - **"Pronominal"** - FGB distinguishes between "pronoun" (forainm) and "pronominal" (forainmneach). This translation will strive to keep this distinction.
 
