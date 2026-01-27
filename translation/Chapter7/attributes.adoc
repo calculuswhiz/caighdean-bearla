@@ -544,7 +544,7 @@
 :7-2-5-A-b-iv-p_en: on these prepositional copula phrases: _acmhainn do_, _áil le, aitheanta do_, _aithnid do_, _eagal do/le_, _éadáil le_, _ealaín do_, _éigean do_, _eol do_, _oircheas do_, e.g., _Ní hacmhainn dó bille eile a íoc_;
 
 :7-2-5-A-b-v-p_ga: ar na focail ar leith seo: _áibhéil_, _éard_, _ionadh_, _iontas_ agus _ualach_, e.g., _Ní hionadh ar bith é go gcuireann siad fáilte roimh chách_;
-:7-2-5-A-b-v-p_en: on these particular words: _áibhéil_, _éard_, _ionadh_, _iontas_ agus _ualach_, e.g., _Ní hionadh ar bith é go gcuireann siad fáilte roimh chách_;
+:7-2-5-A-b-v-p_en: on these particular words: _áibhéil_, _éard_, _ionadh_, _iontas_ and _ualach_, e.g., _Ní hionadh ar bith é go gcuireann siad fáilte roimh chách_;
 
 :7-2-5-A-b-vi-p_ga: i gcorr-sheanfhocal, e.g., _Ní heolas go haontíos_; _Ní haithne go haontíos_.
 :7-2-5-A-b-vi-p_en: in an odd proverb, e.g., _Ní heolas go haontíos_; _Ní haithne go haontíos_.

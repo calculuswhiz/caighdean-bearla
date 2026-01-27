@@ -25,60 +25,6 @@
 :datSg_ga: _tabh. uatha_
 :datSg_en: _dat. sg._
 
-:Table2C-title_ga: An Dara Díochlaonadh &mdash; Lagiolraí
-:Table2C-title_en: The Second Declension &mdash; Weak Plural
-
-:Table2D-title_ga: Lagiolraí Eile &mdash; Samplaí
-:Table2D-title_en: Other Weak Plurals &mdash; Examples
-
-:Table2F-Title_ga: Tréaniolraí sa Chéad Díochlaonadh &mdash; Samplaí
-:Table2F-Title_en: Strong Plurals in the First Declension &mdash; Examples
-
-:Table2F-CornerHeading_ga: Aicmí Tréaniolraí
-:Table2F-CornerHeading_en: Strong Plural Classes
-
-:Table2F-rh1-title_ga: Ainmfhocail a chríochnaíonn ar _-ta_, _-tha_ san iolra
-:Table2F-rh1-title_en: Nouns ending in _-ta_, _-tha_ in the singular
-
-:Table2F-rh1-p_ga: Formhór na n-ainmfhocal aonsiollach ina bhfuil guta fada (nó défhoghar) agus a chríochnaíonn ar _-l_, _-n_ (ach ní ar _-ll_, _-nn_) san ainmneach uatha. Cuirtear _-tha_ san iolra le corr-ainmfhocal a chríochnaíonn ar _-r_ (ach ní ar _-rr_) san ainmneach uatha.
-:Table2F-rh1-p_en: Most of the monosyllabic nouns in which there is a long vowel (or diphthong) and end with _-l_, _-n_ (but not _-ll_, _-nn_) in the nominative singular. _-tha_ is put in the plural with occasional nouns ending with _-r_ (but not _-rr_) in the nominative singular.
-
-:Table2F-rh2-title_ga: Ainmfhocail a chríochnaíonn ar _-aí_, _-í_ san iolra
-:Table2F-rh2-title_en: Nouns ending with _-aí_, _-i_ in the plural
-
-:Table2F-rh2-p_ga: Ainmfhocail ilsiollacha áirithe a chríochnaíonn ar _-ch_, agus roinnt ar _-dh_, san ainmneach uatha, mar aon le roinnt ainmfhocail eile.
-:Table2F-rh2-p_en: Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominative singular, as with some other nouns.
-
-:Table2F-rh3_ga: Ainmfhocail a chríochnaíonn ar _-taí_, _-thaí_ san iolra
-:Table2F-rh3_en: Nouns ending with _-taí_, _-thaí_ in the plural
-
-:Table2F-rh4_ga: Ainmfhocail a chríochnaíonn ar _-anna_ san iolra
-:Table2F-rh4_en: Nouns ending with _-anna_ in the plural
-
-:Table2F-rh5_ga: Ainmfhocail a chríochnaíonn ar _-e_ san iolra agus a dhéantar a choimriú
-:Table2F-rh5_en: Nouns ending with _-e_ in the plural and syncopated
-
-:Table2F-rh6_ga: Ainmfhocail a chríochnaíonn ar _-(e)acha_ san iolra 
-:Table2F-rh6_en: Nouns ending with _-(e)acha_ in the plural
-
-:Table2F-rh7_ga: Ainmfhocail a chríochnaíonn ar _-te_ san iolra
-:Table2F-rh7_en: Nouns ending with _-te_ in the plural
-
-:Table2F-rh8_ga: Ainmfhocail ilghnéitheacha
-:Table2F-rh8_en: Miscellaneous nouns
-
-:Table2G-Title_ga: Lagiolraí sa Chéad Díochlaonadh &mdash; Samplaí
-:Table2G-Title_en: Weak Plurals in the First Declension &mdash; Examples
-
-:Table2G-CornerHeading_ga: Aicmí Lagiolraí
-:Table2G-CornerHeading_en: Weak Plural Classes
-
-:Table2G-rh1_ga: Ainmfhocail a chaolaítear san ainmneach iolra
-:Table2G-rh1_en: Nouns that get narrowed in the nominative plural
-
-:Table2G-rh2_ga: Ainmfhocail a chríochnaíonn ar _-a_ san ainmneach iolra
-:Table2G-rh2_en: Nouns ending in _-a_ in the nominative plural
-
 :2-1-1-title_ga: Na Díochlaontaí
 :2-1-1-title_en: The Declensions
 
@@ -148,11 +94,17 @@
 :2-1-3-b-ii-p1_ga: Ainmfhocail a ghabhann _-a_ san ainmneach iolra gan coimriú ná malartú guta nó gutaí ná leathnú ar an ainmneach uatha -- cailleann siad an guta deiridh _-a_ sa ghinideach iolra. Is sa Dara Díochlaonadh is mó atá na hiolraí sin, e.g., _géag crainn_, _do ghéaga a shíneadh_, _laige na ngéag_. Léirítear sampla sa tábla thíos:
 :2-1-3-b-ii-p1_en: Nouns that take an _a_ in the nominative plural with neither syncope nor an exchange of vowel or vowels nor broadening in the nominative singular -- lose the ending vowel _-a_ in the genitive plural. Those plurals are mostly in the Second Declension, e.g., _géag crainn_, _do ghéaga a shíneadh_, _laige na ngéag_. This is shown in the table below:
 
+:Table2C-title_ga: An Dara Díochlaonadh &mdash; Lagiolraí
+:Table2C-title_en: The Second Declension &mdash; Weak Plural
+
 :2-1-3-b-ii-p2_ga: Tabhair faoi deara go bhfuil roinnt ainmfhocal a leanann an patrún céanna sa Chéad Díochlaonadh, e.g., _úll_, _itheadh na húlla_, _blas na n-úll_; sa Tríú Díochlaonadh, e.g., _tréad caorach_, _tréada is comhaltas_, _seoladh na dtréad_; agus sa Cheathrú Díochlaonadh, e.g., _gach aon neach_, _na neacha daonna_, _teacht na neach neamhshaolta_.
 :2-1-3-b-ii-p2_en: Note that several nouns follow the same pattern as in the First Declension, e.g., _úll_, _itheadh na húlla_, _blas na n-úll_; in the Third Declension, e.g., _tréad caorach_, _tréada is comhaltas_, _seoladh na dtréad_; and in the Fourth Declension, e.g., _gach aon neach_, _na neacha daonna_, _teacht na neach neamhshaolta_.
 
 :2-1-3-b-iii-p1_ga: Dornán ainmfhocal sa Dara Díochlaonadh, e.g., _súil_, _leath na súile uirthi_, _radharc na súl_; dornán sa Tríú Díochlaonadh, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn_; dornán sa Cheathrú Díochlaonadh, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó_; dornán sa Chúigiú Díochlaonadh, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach_; agus corr-ainmfhocal neamhrialta, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban_; a bhfuil foirm leithleach orthu sa ghinideach iolra. Léirítear samplaí sa tábla thíos:
 :2-1-3-b-iii-p1_en: A few nouns in the Second Declension, e.g., _súil_, _leath na súile uirthi_, _radharc na súl_; a few in the Third Declension, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn_; a few in the Fourth Declension, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó_; a few in the Fifth Declension, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach_; and an occasional irregular noun, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban_; have a separate form in the genitive plural. Examples are shown in the table below:
+
+:Table2D-title_ga: Lagiolraí Eile &mdash; Samplaí
+:Table2D-title_en: Other Weak Plurals &mdash; Examples
 
 :2-1-4-title_ga: Caolú
 :2-1-4-title_en: Palatalization
@@ -323,7 +275,7 @@
 :2-2-2-a_en: In the genitive singular, the last consonant is palatalized, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
 
 :2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain__; agus _trian_, _triain_.
-:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the palatalization, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain__; agus _trian_, _triain_.
+:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the palatalization, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain__; and _trian_, _triain_.
 
 :2-2-2-c_ga: Athraítear _mac_ go _mic_ sa ghinideach uatha agus san ainmneach iolra.
 :2-2-2-c_en: _mac_ is changed to _mic_ in the genitive singular and in the genitive plural.
@@ -335,10 +287,10 @@
 :2-2-3-title_en: The Vocative Singular
 
 :2-2-3-a_ga: Is ionann foirm de ghnáth don ghairmeach uatha agus don ghinideach uatha, e.g., _a Chorcaígh_, _a mhic_, _a Sheáin_.
-:2-2-3-a_en: The normal form of the vocative singular is the same as the genitive singular, e.g., _a Chorcaígh_, _a mhic_, _a Sheáin_.
+:2-2-3-a_en: The form is usually the same in the vocative singular as in the genitive singular, e.g., _a Chorcaígh_, _a mhic_, _a Sheáin_.
 
 :2-2-3-b-p_ga: Ní gnách, áfach, infhilleadh sa ghairmeach uatha:
-:2-2-3-b-p_en: It is not normal, however, to inflect the vocative singular:
+:2-2-3-b-p_en: However, it is not customary to inflect in the vocative singular:
 
 :2-2-3-b-i_ga: ar shlua-ainmneacha, e.g., _a chomhthionól_; _a phobal_;
 :2-2-3-b-i_en: on collective names, e.g., _a chomhthionól_; _a phobal_;
@@ -364,8 +316,56 @@
 :2-2-4-a_ga: Tréaniolraí
 :2-2-4-a_en: Strong Plurals
 
+:Table2F-Title_ga: Tréaniolraí sa Chéad Díochlaonadh &mdash; Samplaí
+:Table2F-Title_en: Strong Plurals in the First Declension &mdash; Examples
+
+:Table2F-CornerHeading_ga: Aicmí Tréaniolraí
+:Table2F-CornerHeading_en: Strong Plural Classes
+
+:Table2F-rh1-title_ga: Ainmfhocail a chríochnaíonn ar _-ta_, _-tha_ san iolra
+:Table2F-rh1-title_en: Nouns ending in _-ta_, _-tha_ in the singular
+
+:Table2F-rh1-p_ga: Formhór na n-ainmfhocal aonsiollach ina bhfuil guta fada (nó défhoghar) agus a chríochnaíonn ar _-l_, _-n_ (ach ní ar _-ll_, _-nn_) san ainmneach uatha. Cuirtear _-tha_ san iolra le corr-ainmfhocal a chríochnaíonn ar _-r_ (ach ní ar _-rr_) san ainmneach uatha.
+:Table2F-rh1-p_en: Most of the monosyllabic nouns in which there is a long vowel (or diphthong) and end with _-l_, _-n_ (but not _-ll_, _-nn_) in the nominative singular. _-tha_ is put in the plural with occasional nouns ending with _-r_ (but not _-rr_) in the nominative singular.
+
+:Table2F-rh2-title_ga: Ainmfhocail a chríochnaíonn ar _-aí_, _-í_ san iolra
+:Table2F-rh2-title_en: Nouns ending with _-aí_, _-i_ in the plural
+
+:Table2F-rh2-p_ga: Ainmfhocail ilsiollacha áirithe a chríochnaíonn ar _-ch_, agus roinnt ar _-dh_, san ainmneach uatha, mar aon le roinnt ainmfhocail eile.
+:Table2F-rh2-p_en: Certain monosyllabic nouns ending with _-ch_, and some in _-dh_, in the nominative singular, as with some other nouns.
+
+:Table2F-rh3_ga: Ainmfhocail a chríochnaíonn ar _-taí_, _-thaí_ san iolra
+:Table2F-rh3_en: Nouns ending with _-taí_, _-thaí_ in the plural
+
+:Table2F-rh4_ga: Ainmfhocail a chríochnaíonn ar _-anna_ san iolra
+:Table2F-rh4_en: Nouns ending with _-anna_ in the plural
+
+:Table2F-rh5_ga: Ainmfhocail a chríochnaíonn ar _-e_ san iolra agus a dhéantar a choimriú
+:Table2F-rh5_en: Nouns ending with _-e_ in the plural and syncopated
+
+:Table2F-rh6_ga: Ainmfhocail a chríochnaíonn ar _-(e)acha_ san iolra 
+:Table2F-rh6_en: Nouns ending with _-(e)acha_ in the plural
+
+:Table2F-rh7_ga: Ainmfhocail a chríochnaíonn ar _-te_ san iolra
+:Table2F-rh7_en: Nouns ending with _-te_ in the plural
+
+:Table2F-rh8_ga: Ainmfhocail ilghnéitheacha
+:Table2F-rh8_en: Miscellaneous nouns
+
 :2-2-4-b_ga: Lagiolraí
 :2-2-4-b_en: Weak Plurals
+
+:Table2G-Title_ga: Lagiolraí sa Chéad Díochlaonadh &mdash; Samplaí
+:Table2G-Title_en: Weak Plurals in the First Declension &mdash; Examples
+
+:Table2G-CornerHeading_ga: Aicmí Lagiolraí
+:Table2G-CornerHeading_en: Weak Plural Classes
+
+:Table2G-rh1_ga: Ainmfhocail a chaolaítear san ainmneach iolra
+:Table2G-rh1_en: Nouns that get narrowed in the nominative plural
+
+:Table2G-rh2_ga: Ainmfhocail a chríochnaíonn ar _-a_ san ainmneach iolra
+:Table2G-rh2_en: Nouns ending in _-a_ in the nominative plural
 
 :2-2-4-c-title_ga: An Gairmeach Iolra
 :2-2-4-c-title_en: The Vocative Plural
@@ -389,7 +389,7 @@
 :2-3-2-a_en: An _-e_ is put with the nominative singular and if it ends with a broad consonant, it is palatalized, e.g., _bróg_, _bróige_; _coill_, _coille_; _earr_, _eirre_; except with polysyllabic nouns ending with _-(e)ach_.
 
 :2-3-2-b_ga: I gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, déantar _-(a)í_ den _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
-:2-3-2-b_en: When polysyllabic nouns end with _-(e)ach_, make _-(a)í_ from _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
+:2-3-2-b_en: When polysyllabic nouns end with _-(e)ach_, _-(a)í_ is made from _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
 
 :2-3-2-c-p1_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
 :2-3-2-c-p1_en: The palatalization changes mentioned in link:#sec_2_1_4[2.1.4] apply to the nouns as follows:
