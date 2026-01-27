@@ -11,6 +11,12 @@ Early translations were based on [this effort](https://caighdean.home.blog/) to 
 
 This project will hopefully be a way to get the ball rolling again with multiple collaborators (if needed). The document is sourced from the [Oireachtas website](https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_ga.pdf) (PDF).
 
+# Why web?
+
+- HTML is much easier to process as data and rich text than PDF. The translation files were painstakingly copied into a text file, line by line, with manual formatting applied. HTML should not have this issue.
+- HTML allows for better semantics for people using screen readers (accessibility).
+- Internal linking and navigation is much easier to do.
+
 # Why translate?
 
 Often the foreign learners of languages will start their journey into the language by using language learning software. This software very often does not explain any grammar rules and elects instead to just show examples. While this approach may work for eventually, for people with a working understanding of grammar, it is much more efficient to learn the rules explicitly rather than to learn by failure. For Irish, this is especially frustrating.
