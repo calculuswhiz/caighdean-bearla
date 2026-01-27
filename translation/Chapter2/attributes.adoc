@@ -416,10 +416,10 @@
 :2-3-4-title_en: The Plural
 
 :2-3-4-p1_ga: Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo.
-:2-3-4-p1_en: There are weak plurals and strong plurals in this declension.
+:2-3-4-p1_en: There are both weak plurals and strong plurals in this declension.
 
 :2-3-4-p2_ga: Tabhair faoi deara go bhfuil patrún an Dara Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-e_ agus go gcaolaítear an consan deiridh más consan leathan é, agus i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, go n-athraítear _-(e)ach_ go _-(a)í_.
-:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables, that is, the genitive singular ends with _-e_ and the final consonant is palatalized if it is a broad consonant, and for polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
+:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables. That is, the genitive singular ends with _-e_ and the final consonant is palatalized if it is a broad consonant, and for polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
 
 :2-3-4-a-title_ga: Tréaniolraí
 :2-3-4-a-title_en: Strong Plurals
@@ -503,7 +503,7 @@
 :2-4-2-a_en: As with in (b) above, the genitive singular ends with _-a_.
 
 :2-4-2-b_ga: Is iondúil go n-athraítear _-io-_ go _-ea-_ sa ghinideach uatha i gcás ainmfhocail aonsiollacha, e.g., _crios_, _creasa_; _lios_, _leasa_; ach _cion_ (sa bhrí _coir_), _ciona_.
-:2-4-2-b_en: It is customary to change _-io-_ to _-ea-_ in the genitive singular for monosyllabic nouns, e.g., _crios_, _creasa_; _lios_, _leasa_; but not _cion_ (meaning _coir_), _ciona_.
+:2-4-2-b_en: It is customary to change _-io-_ to _-ea-_ in the genitive singular for monosyllabic nouns, e.g., _crios_, _creasa_; _lios_, _leasa_; but not _cion_ (meaning _coir_, _EN: crime_), _ciona_.
 
 :2-4-2-c_ga: Ligtear an _-t_ ar lár sa ghinideach uatha as ainmfhocail a chríochnaíonn ar _-int_, e.g., _oiliúint_, _oiliúna_ (ach amháin sna heisceachtaí _cogaint_, _coganta_; _cosaint_, _cosanta_; _seachaint_, _seachanta_). Déantar _-th-_ den _-t_ i gcás ainmfhocail a chríochnaíonn ar _-irt_, e.g., _imirt_, _imeartha_.
 :2-4-2-c_en: The _-t_ is dropped in the genitive singular from nouns ending in _-int_, e.g., _oiliúint_, _oiliúna_ (with these exceptions _cogaint_, _coganta_; _cosaint_, _cosanta_; _seachaint_, _seachanta_). The _-th-_ is turned to _-t_ when nouns end in _-irt_, e.g., _imirt_, _imeartha_.
@@ -515,7 +515,7 @@
 :2-4-3-p1_en: There are both weak plurals and strong plurals in this declension.
 
 :2-4-3-p2_ga: Tabhair faoi deara go bhfuil patrún an Tríú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-a_ agus go leathnaítear an consan deiridh más consan caol é.
-:2-4-3-p2_en: Note that the pattern of the Third Declension is seen in the genitive singular column in the following table, that is, the genitive singular ends with _-a_ and the last consonant is broadened if is a slender consonant.
+:2-4-3-p2_en: Note that the pattern of the Third Declension is seen in the genitive singular column in the following table. That is, the genitive singular ends with _-a_ and the last consonant is broadened if is a slender consonant.
 
 :2-4-3-a-title_ga: Tréaniolraí
 :2-4-3-a-title_en: Strong Plurals
@@ -587,7 +587,7 @@
 :2-5-1-b_en: Occupational nouns ending in _-(a)í_ or _-aire_ are also masculine, e.g., _ceannaí_, _cócaire_.
 
 :2-5-1-c_ga: Is baininscneach d'ainmfhocail theibí a chríochnaíonn ar _-e_ agus a chumtar ó aidiachtaí, e.g., _airde_, _gile_, _saoirse_.
-:2-5-1-c_en: Abstract nouns ending in _-e_ and formed from adjective are feminine, e.g., _airde_, _gile_, _saoirse_.
+:2-5-1-c_en: Abstract nouns ending in _-e_ and formed from an adjective are feminine, e.g., _airde_, _gile_, _saoirse_.
 
 :2-5-2-Title_ga: An Ginideach Uatha
 :2-5-2-Title_en: The Genitive Singular
@@ -596,10 +596,10 @@
 :2-5-2-a_en: Nouns of this declension do not undergo any change in the genitive singular.
 
 :2-5-2-b_ga: Is baininscneach de ghnáth don díspeagadh _-ín_, más focal baininscneach coitianta an bunfhocal. Tá eisceachtaí ann, e.g., _paidir_ (bain.), _paidrín_ (fir.); _toit_ (bain.), _toitín_ (fir.). Is mar ainmfhocal firinscneach, áfach, a dhíochlaontar gach díspeagadh sa ghinideach agus sa ghairmeach uatha, e.g., _an bheainín bheag_, _teach an bheainín bhig_, _a bheainín bhig_.
-:2-5-2-b_en: The diminutive _-ín_ normally is feminine, if the original word is a common feminine word. There are exceptions, e.g., _paidir_ (fem.), _paidrín_ (masc.); _toit_ (fem.), _toitín_ (masc.). However, it is declined in every diminutive in the genitive and in the accusative singular as a masculine noun, e.g., _an bheainín bheag_, _teach an bheainín bhig_, _a bheainín bhig_.
+:2-5-2-b_en: The diminutive _-ín_ normally is feminine if the original word is a common feminine word. There are exceptions, e.g., _paidir_ (fem.), _paidrín_ (masc.); _toit_ (fem.), _toitín_ (masc.). However, all diminutives are declined as masculine nouns in the genitive and vocative singular, e.g., _an bheainín bheag_, _teach an bheainín bhig_, _a bheainín bhig_.
 
 :2-5-2-c_ga: Tá roinnt ainmfhocal sa Díochlaonadh seo nach bhfuil aon uimhir iolra acu, e.g., _cruach_ (sa bhrí _miotal_), _dóthain_, _gorta_, _lucht_ (sa bhrí _daoine_), _oiread_, _tobac_.
-:2-5-2-c_en: There are some nouns in this Declension that do not have any plural, e.g., _cruach_ (meaning _miotal_), _dóthain_, _gorta_, _lucht_ (meaning _daoine_), _oiread_, _tobac_.
+:2-5-2-c_en: There are some nouns in this Declension that do not have any plural, e.g., _cruach_ (meaning _miotal_ (_EN: metal_)), _dóthain_, _gorta_, _lucht_ (meaning _daoine_ (_EN: people_)), _oiread_, _tobac_.
 
 :2-5-3-title_ga: An tIolra
 :2-5-3-title_en: The Plural
@@ -608,7 +608,7 @@
 :2-5-3-p1_en: The vast majority of the nouns in this declension have strong plurals.
 
 :2-5-3-p2_ga: Tabhair faoi deara go bhfuil patrún an Cheathrú Díochlaonadh le feiceáil i gcolún an uatha sa tábla ina dhiaidh seo, is é sin, gurb ionann foirm an ghinidigh uatha agus foirm an ainmnigh uatha.
-:2-5-3-p2_en: Note that the Fourth Declension's pattern is shown in the singular column in the table below, that is, that the form of the genitive singular is the same as the form of the nominative plural.
+:2-5-3-p2_en: Note that the Fourth Declension's pattern is shown in the singular column in the table below. That is, the form of the genitive singular is the same as the form of the nominative plural.
 
 :2-5-3-a-title_ga: Tréaniolraí
 :2-5-3-a-title_en: Strong Plurals
@@ -653,7 +653,7 @@
 :Table2L-rh7_en: Miscellaneous nouns
 
 :2-5-3-Note_ga: Tabhair faoi deara go mbaineann na hainmfhocail seo a leanas, nach dual dóibh foirm iolra a bheith orthu, leis an díochlaonadh seo freisin: _cruach_ (sa bhrí _miotal_), _dóthain_, _gorta_, _iomad_, _lucht_ (sa bhrí _daoine_), _oiread_, _tobac_; mar aon le hainmneacha pearsanta áirithe, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
-:2-5-3-Note_en: Note that in the following nouns, which do not necessarily have a plural form, also belong to this declension: _cruach_ (meaning _miotal_), _dóthain_, _gorta_, _iomad_, _lucht_ (meaning _daoine_), _oiread_, _tobac_; along with some personal names, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
+:2-5-3-Note_en: Note that in the following nouns, which do not necessarily have a plural form, also belong to this declension: _cruach_ (meaning _miotal_ (_EN: metal_)), _dóthain_, _gorta_, _iomad_, _lucht_ (meaning _daoine_ (_EN: people_)), _oiread_, _tobac_; along with some personal names, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
 
 :2-6-title_ga: An Cúigiú Díochlaonadh
 :2-6-title_en: The Fifth Declension
@@ -674,7 +674,7 @@
 :2-6-2-p1_en: The vast majority of nouns in this declension have strong plurals.
 
 :2-6-2-p2_ga: Tabhair faoi deara go bhfuil patrún an Chúigiú Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sa tábla ina dhiaidh seo, is é sin, críochnaíonn an ginideach uatha ar na consain leathana _-ch_, _-d_, _-(n)n_, _-r_ (seachas correisceacht, e.g., _Nollaig_, _Nollag_).
-:2-6-2-p2_en: Note that the pattern of the Fifth Declension is shown in the column of the genitive singular in the following table, that is, the genitive singular ends with broad consonants _-ch_, _-d_, _-(n)n_, _-r_ (other than rare exceptions, e.g., _Nollaig_, _Nollag_).
+:2-6-2-p2_en: Note that the pattern of the Fifth Declension is shown in the genitive singular column of the following table. That is, the genitive singular ends with broad consonants _-ch_, _-d_, _-(n)n_, _-r_ (other than rare exceptions, e.g., _Nollaig_, _Nollag_).
 
 :2-6-2-a-title_ga: Tréaniolraí
 :2-6-2-a-title_en: Strong Plurals
@@ -692,7 +692,7 @@
 :Table2M-rh1-p1_en: Feminine nouns ending in _-il_, _-in_, _-ir_ in the nominative singular (exceptions: _siúr, siúrach_). In the genitive singular, the final consonant of a monosyllabic noun is broadened, and other nouns do not undergo syncopation, and an _-ach_ is added (exceptions: _cathaoir_, _cathaoireach_).
 
 :Table2M-rh1-p2_ga: Coimrítear ainmfhocail ilsiollacha más guta gearr atá sa siolla deiridh acu agus cuirtear _-(e)ach_ leo.
-:Table2M-rh1-p2_en: Polysyllabic nouns are syncopated if there is a short vowel in their last syllable and an _-(e)ach_ is added.
+:Table2M-rh1-p2_en: Polysyllabic nouns are syncopated if they have a short vowel in the final syllable and _-(e)ach_ is added.
 
 :Table2M-rh2-title_ga: Corr-ainmfhocal a chríochnaíonn ar _-inn_, _-ir_ san ainmneach uatha, a leathnaítear sa ghinideach uatha agus a chríochnaíonn ar _-(e)acha_ san iolra.
 :Table2M-rh2-title_en: The occasional nouns that ends in _-inn_, _-ir_ in the nominative singular, broadened in the genitive singular and ending in _-(e)acha_ in the plural.
