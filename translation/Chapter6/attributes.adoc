@@ -71,10 +71,10 @@
 :6-1-1-g-p_en: *strong adverb*, e.g., _féin_:
 
 :6-1-1-g-SampleBox-eg1_ga: Má bhí sé tuirseach *féin*, chuaigh sé chuig an Oireachtas.
-:6-1-1-g-SampleBox-eg1_en: If he was tired *himself*, he went to the Oireachtas.
+:6-1-1-g-SampleBox-eg1_en: If he was tired him**self**, he went to the Oireachtas.
 
 :6-1-1-g-SampleBox-eg2_ga: Is ócáid thábhachtach í; beidh an tUachtarán *féin* ann.
-:6-1-1-g-SampleBox-eg2_en: It is an important event; the President *himself* will be there.
+:6-1-1-g-SampleBox-eg2_en: It is an important event; the President him**self** will be there.
 
 :6-1-1-h-p_ga: *ainmfhocal a úsáid go dobhriathartha i gcúrsaí tomhais*, e.g., _ar leithead_; _ar fad_:
 :6-1-1-h-p_en: *noun used as an adverb in measurement*, e.g., _ar leithead_; _ar fad_:
@@ -95,7 +95,7 @@
 :6-1-1-i-SampleBox-eg2_en: We were *short* of milk.
 
 :6-1-1-j-p_ga: *dobhriathar a úsáid go haidiachtach*, e.g., _amach_, _aniar_, _anuas_, _isteach_:
-:6-1-1-j-p_en: *adverb used as an adjective*, e.g., _amach_, _aniar_, _anuas_, _isteach_: *TL Note: Similar constructions do not exist in English. These imply direction or origin. E.g. a literal translation of "fear amach" would be "outwardly man", but that is not idiomatic English. Translations here will just give the meaning without attempting to parallel.*
+:6-1-1-j-p_en: *adverb used as an adjective*, e.g., _amach_, _aniar_, _anuas_, _isteach_:<br />(*TL Note*: Similar constructions do not exist in English. These imply direction or origin. E.g. a literal translation of "fear amach" would be "outwardly man", but that is not idiomatic English. Translations here will just give the meaning without attempting to parallel.)
 
 :6-1-1-j-SampleBox-eg1_ga: An bhfeiceann tú an fear *amach*?
 :6-1-1-j-SampleBox-eg1_en: Do you see the man who went out?

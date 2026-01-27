@@ -112,6 +112,8 @@ npm run generate-docs
 
 - **Caol** - Slender (letter)
 
+- **maoluimir** - A cardinal number with no noun following it. This is too long, so we term it "bare number."
+
 ## Abbreviations and sources
 Some of these may appear in annotations and comments in the Asciidoc code.
 - GT - Google Translate

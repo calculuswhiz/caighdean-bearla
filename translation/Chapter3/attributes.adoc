@@ -122,7 +122,7 @@
 :3-1-4-p2_en: The article is left out before _Éireann_ in some official forms, however, e.g., _Dáil Éireann_, _Seanad Éireann_, _Iarnród Éireann_, _Bus Éireann_, and in some old forms and poetic forms, e.g., _plúr ban Éireann_, _bánchnoic Éireann_.
 
 :3-1-4-p2-sample1_ga: Is clár de chuid *Raidió Teilifís Éireann* é.
-:3-1-4-p2-sample1_en: It is a program from *Raidió Teilifís Éireann*
+:3-1-4-p2-sample1_en: It is a program from *Raidió Teilifís Éireann*.
 
 :3-1-4-p2-sample2_ga: Is í *rogha ban Éireann* í.
 :3-1-4-p2-sample2_en: It is the *choice of Irish women*.
@@ -254,10 +254,10 @@
 :3-2-1-a-p_en: An abbreviation or acronym is never inflected or changed at the beginning. (_SAM -- Stáit Aontaithe Mheiriceá_; _OÉ -- Ollscoil na hÉireann_.)
 
 :3-2-1-a-p-sample1_ga: Scríobh sé leabhar *faoi SAM*.
-:3-2-1-a-p-sample1_en: He wrote a book *about the SAM*.
+:3-2-1-a-p-sample1_en: He wrote a book *about the USA*.<br />(_EN: United States of America_)
 
 :3-2-1-a-p-sample2_ga: Tá agallamh aige *le OÉ* Gaillimh.
-:3-2-1-a-p-sample2_en: He has an interview *with OÉ* Galway
+:3-2-1-a-p-sample2_en: He has an interview *with NUI* Galway.<br />(_EN: National University of Ireland_)
 
 :3-2-1-b-p_ga: Is é _in_ (seachas _i_) an fhoirm den réamhfhocal _i_ a úsáidtear roimh ghiorrúchán nó acrainm. (_RTÉ -- Raidió Teilifís Éireann_; _CSE -- Ciste Sóisialta na hEorpa_.)
 :3-2-1-b-p_en: _in_ (rather than _i_) is the form of the preposition _i_ used before an abbreviation or acronym. (_RTÉ -- Raidió Teilifís Éireann_; _CSE -- Ciste Sóisialta na hEorpa_.)
@@ -266,7 +266,7 @@
 :3-2-1-b-p-sample1_en: She works *at RTÉ*.
 
 :3-2-1-b-p-sample2_ga: Tá na milliúin euro *in CSE*.
-:3-2-1-b-p-sample2_en: There are millions of euros *in the ESF*.
+:3-2-1-b-p-sample2_en: There are millions of euros *in the ESF*.<br />(_EN: European Social Fund_)
 
 :3-2-1-c-p1_ga: Ní chiorraítear na réamhfhocail _de_ agus _do_ go _d'_ roimh ghiorrúchán nó acrainm a thosaíonn ar ghuta. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
 :3-2-1-c-p1_en: The preposition _de_ and _do_ are not shortened to _d'_ before abbreviations and acronyms starting with a vowel. (_OLAF -- an Oifig Eorpach Frith-Chalaoise_; _ÍMAT -- Íoc mar a Thuillir_.)
@@ -275,7 +275,7 @@
 :3-2-1-c-p1-sample1_en: The issue was discussed *at OLAF* meetings.
 
 :3-2-1-c-p1-sample2_ga: Tugadh aitheantas *do ÍMAT* mar chóras cánach a bhfuil ag éirí go maith leis.
-:3-2-1-c-p1-sample2_en: *ÍMAT* has been recognized as a successful tax system.
+:3-2-1-c-p1-sample2_en: *PAYE* has been recognized as a successful tax system.<br />(_EN: Pay As You Earn_)
 
 :3-2-1-c-p2_ga: Tabhair faoi deara go mbíonn sé de rogha ag an scríbhneoir na focail ar a bhfuil an giorrúchán nó an t-acrainm bunaithe a scríobh amach i gcónaí.
 :3-2-1-c-p2_en: Note that the writer always has the choice of writing the words on which the abbreviation or acronym is based.
@@ -299,19 +299,19 @@
 :3-2-2-A-a-p_en: In the system without the article, abbreviations and acronyms are treated as nouns are not preceded with the article (but see link:#sec_3_2_3[3.2.3](b)). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
 
 :3-2-2-A-a-p-sample1_ga: Tá *SAM* ina bhall den Chomhairle Slándála.
-:3-2-2-A-a-p-sample1_en: *The SAM* is a member of the Security Council.
+:3-2-2-A-a-p-sample1_en: The *USA* is a member of the Security Council.
 
 :3-2-2-A-a-p-sample2_ga: Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt.
-:3-2-2-A-a-p-sample2_en: The *OÉ*'s policies are focused on developing education.
+:3-2-2-A-a-p-sample2_en: The *NUI*'s policies are focused on developing education.
 
 :3-2-2-A-a-p-sample3_ga: Tagann Airí Bhallstáit *AE* le chéile sa Chomhairle.
-:3-2-2-A-a-p-sample3_en: Ministers of the *AE* Member States meet in the Council.
+:3-2-2-A-a-p-sample3_en: Ministers of the *EU* Member States meet in the Council.<br />(_EN: European Union_)
 
 :3-2-2-A-a-p-sample4_ga: Tá obair ar bun le haghaidh dhíscaoileadh *CTT*.
 :3-2-2-A-a-p-sample4_en: Work is underway to dissolve the *CTT*.
 
 :3-2-2-A-a-p-sample5_ga: Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *NA*.
-:3-2-2-A-a-p-sample5_en: She is working in collaboration with an *NA* Investigation Group.
+:3-2-2-A-a-p-sample5_en: She is working in collaboration with an *UN* Investigation Group.<br />(_EN: United Nations_)
 
 :3-2-2-A-b-p_ga: Is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_FSS -- Feidhmeannacht na Seirbhíse Sláinte_.)
 :3-2-2-A-b-p_en: An abbreviation or acronym is referred to as a singular masculine noun regardless of the number or gender on which the words are based. (_FSS -- Feidhmeannacht na Seirbhíse Sláinte_.)
@@ -326,22 +326,22 @@
 :3-2-2-B-a-p_en: the article is not used before abbreviations or acronyms if they are based on a definite noun that do not have the article, e.g., _Stáit Aontaithe Mheiriceá_, _Raidió Teilifís Éireann_, or if the article is in the middle of the words on which the abbreviations or the acronyms are based, e.g., _Feidhmeannacht na Seirbhíse Sláinte_, _Ollscoil na hÉireann_:
 
 :3-2-2-B-a-p-sample1_ga: Tá *SAM* ina bhall den Chomhairle Slándála.
-:3-2-2-B-a-p-sample1_en: *The USA* is a member of the Security Council.
+:3-2-2-B-a-p-sample1_en: The *USA* is a member of the Security Council.
 
 :3-2-2-B-a-p-sample2_ga: Tá beartais *OÉ* dírithe ar an oideachas a fhorbairt.
-:3-2-2-B-a-p-sample2_en: The *OÉ*'s policies are focused on developing education.
+:3-2-2-B-a-p-sample2_en: The *NUI*'s policies are focused on developing education.
 
 :3-2-2-B-b-p_ga: cuirtear an t-alt roimh ghiorrúcháin nó roimh acrainmneacha má tá siad bunaithe ar ainmfhocail a gcuirtear an t-alt rompu chun iad a dhéanamh cinnte. Úsáidtear foirm uatha nó iolra an ailt ag brath ar uimhir na bhfocal ar a bhfuil na giorrúcháin nó na hacrainmneacha bunaithe:
 :3-2-2-B-b-p_en: the article is placed before abbreviations or acronyms if they are based on words having an article to make it definite. The singular or plural form of the article is used depending on the number of words on which the abbreviations or the acronyms are based:
 
 :3-2-2-B-b-p-sample1_ga: Tagann Airí Bhallstáit *an AE* le chéile sa Chomhairle.
-:3-2-2-B-b-p-sample1_en: Ministers of *the AE* Member States meet in the Council.
+:3-2-2-B-b-p-sample1_en: Ministers of *the EU* Member States meet in the Council.
 
 :3-2-2-B-b-p-sample2_ga: Cé atá i dteideal maoiniú *faoin CTT*?
 :3-2-2-B-b-p-sample2_en: Who is eligible for funding *under the CTT*?
 
 :3-2-2-B-b-p-sample3_ga: Tá sí ag obair i gcomhar le Gasra Imscrúdaithe de chuid *na NA*.
-:3-2-2-B-b-p-sample3_en: She is working in collaboration with an Investigation Team of *the NA*.
+:3-2-2-B-b-p-sample3_en: She is working in collaboration with an Investigation Team of *the UN*.
 
 :3-2-2-B-c-p_ga: is mar ainmfhocal firinscneach uatha a dhéantar tagairt do ghiorrúchán nó d'acrainm gan beann ar uimhir ná inscne na bhfocal ar a bhfuil sé bunaithe. (_an IEA -- an Ionstraim Eorpach Aonair_.)
 :3-2-2-B-c-p_en: an abbreviation or acronym is referred to as a singular masculine noun regardless of the number or gender of the words on which it is based (_an IEA -- an Ionstraim Eorpach Aonair_.)
@@ -353,13 +353,13 @@
 :3-2-3-a-p_en: If an abbreviation or acronym refers to multiple things (things that have more than one item in them), the article can be placed in front of it in order to distinguish it from other things of the same kind. (_CIN -- Corparáid Ilnáisiúnta_; _PO -- Príomhoifigeach_.)
 
 :3-2-3-a-p-sample1_ga: Is fostaí de chuid *CIN* rannpháirteach í.
-:3-2-3-a-p-sample1_en: She is *a* participating *CIN* employee.
+:3-2-3-a-p-sample1_en: She is *a* participating *MNC* employee.<br />(_EN: multinational corporation_)
 
 :3-2-3-a-p-sample2_ga: - _ach_ Is fostaí de chuid *an CIN rannpháirtigh sin* í.
-:3-2-3-a-p-sample2_en: - _but_ She is an employee of *that participating CIN*.
+:3-2-3-a-p-sample2_en: - _but_ She is an employee of *that participating MNC*.
 
 :3-2-3-a-p-sample3_ga: Úsáidtear an seomra mar oifig *PO*.
-:3-2-3-a-p-sample3_en: The room is used as *a PO* office.
+:3-2-3-a-p-sample3_en: The room is used as *a PO* office.<br />(_EN: principal officer_)
 
 :3-2-3-a-p-sample4_ga: - _ach_ Úsáidtear an seomra mar oifig *an PO sin*.
 :3-2-3-a-p-sample4_en: - _but_ The room is used as *that PO office*.
@@ -368,16 +368,16 @@
 :3-2-3-b-p_en: The article can be used with a noun that is qualified by an abbreviation or an acronym which has an adjectival function in order to identify something specific from many things. (_uimhir PSP -- uimhir Phearsanta Seirbhíse Poiblí_; _CBL -- Cáin Bhreisluacha_; _DART -- Dublin Area Rapid Transit_.)
 
 :3-2-3-b-p-sample1_ga: Tabharfar *uimhir PSP* duit.
-:3-2-3-b-p-sample1_en: You will be given *a PSP number*.
+:3-2-3-b-p-sample1_en: You will be given *a PPS number*.<br />(_EN: Personal Public Service_)
 
 :3-2-3-b-p-sample2_ga: - _ach_ Cá bhfuil *an uimhir PSP* a tugadh duit?
-:3-2-3-b-p-sample2_en: - _but_ Where is *the PSP number* that was given to you?
+:3-2-3-b-p-sample2_en: - _but_ Where is *the PPS number* that was given to you?
 
 :3-2-3-b-p-sample3_ga: Tá *ráta ard CBL* i bhfeidhm.
-:3-2-3-b-p-sample3_en: *A high CBL rate* is in effect.
+:3-2-3-b-p-sample3_en: *A high VAT rate* is in effect.<br />(_EN: Value Added Tax_)
 
 :3-2-3-b-p-sample4_ga: - _ach_ Tá *an ráta céanna CBL* i bhfeidhm le fada.
-:3-2-3-b-p-sample4_en: - _but_ *The same CBL rate* has been in effect for a long time.
+:3-2-3-b-p-sample4_en: - _but_ *The same VAT rate* has been in effect for a long time.
 
 :3-2-3-b-p-sample5_ga: Tá *stáisiún DART* sa cheantar seo.
 :3-2-3-b-p-sample5_en: There is *a DART station* in this area.
@@ -389,7 +389,7 @@
 :3-2-3-c-p_en: A plural form is created from an abbreviation or an acronym when referring to multiple things by adding _-anna_ to it if it ends with a consonant and by adding _-nna_ to it if it ends with a vowel. An abbreviation or acronym in the plural is referred to as a plural masculine noun.
 
 :3-2-3-c-p-sample1_ga: Nach *iad* sin *na CINanna* a bhfuil dea-cháil *orthu*?
-:3-2-3-c-p-sample1_en: Aren't *those the* reputable *CINs*?
+:3-2-3-c-p-sample1_en: Aren't *those the* reputable *MNCs*?
 
 :3-2-3-c-p-sample2_ga: Is *POnna* ar fad *iad* sin.
 :3-2-3-c-p-sample2_en: *Those* are all *POs*.

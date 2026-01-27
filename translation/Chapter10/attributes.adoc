@@ -205,7 +205,7 @@
 :10-2-5-c-p3_en: Note that lenition is not applied to an unqualified noun if it is a definite proper name, e.g., _d'fhág siad gan Cáit_; or if it is a verbal noun in a noun phrase, e.g., _b'fhearr duit gan pósadh_; _moladh dó gan corraí_:
 
 :10-2-5-c-sample-6_ga: Chríochnaigh sí an obair *gan Micheál*.
-:10-2-5-c-sample-6_en: She finished the work *without Michael*.
+:10-2-5-c-sample-6_en: She finished the work *without Micheál*.
 
 :10-2-5-c-sample-7_ga: Shocraigh sí *gan géilleadh*.
 :10-2-5-c-sample-7_en: She decided *without surrendering*.
@@ -283,7 +283,7 @@
 :10-2-7-sample-2_en: Do you play a *musical instrument*?
 
 :10-2-7-sample-3_ga: Ar chríochnaigh tú *d'obair bhaile*?
-:10-2-7-sample-3_en: Did you finish *your homework*? (Lit. *your work of home*)
+:10-2-7-sample-3_en: Did you finish *your homework*?<br />(Lit. *your work of home*)
 
 :10-2-7-sample-4_ga: Fan agus ól *gloine cheirtlise* linn!
 :10-2-7-sample-4_en: Stay and drink a *glass of cider* with us!

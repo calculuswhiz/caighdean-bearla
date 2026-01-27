@@ -125,8 +125,8 @@ function getLabelText(labelChain: string[]): string {
 }
 
 const availableLanguages = [
-  { labelChain: "English", linkSuffix: "en" },
-  { labelChain: "Gaeilge", linkSuffix: "ga" }
+  { label: "Gaeilge", linkSuffix: "ga" },
+  { label: "English", linkSuffix: "en" },
 ] as const;
 
 let currentLanguageIdx = 0;
@@ -175,13 +175,13 @@ function addLanguageSelect() {
             ? ['font-bold', 'underline']
             : [])
         )
-        .setText(availableLanguages[index].labelChain);
+        .setText(availableLanguages[index].label);
 
       langButton.element.addEventListener('click', () => {
         currentLanguageIdx = index;
 
         for (const btn of languageButtons) {
-          if (btn.element.textContent === availableLanguages[index].labelChain)
+          if (btn.element.textContent === availableLanguages[index].label)
             btn.addClasses('font-bold', 'underline');
           else
             btn.removeClasses('font-bold', 'underline');

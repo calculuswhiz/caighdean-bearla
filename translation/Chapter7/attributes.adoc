@@ -14,7 +14,7 @@
 :7-1-1-title_en: *Functions of the Copula*
 
 :7-1-1-p_ga: Is iad príomhfheidhmeanna na copaile --
-:7-1-1-p_en: The primary functions of the copula are --
+:7-1-1-p_en: The primary functions of the copula are --<br />(*TL Note*: The copula does not always translate directly, so no attempt will be made to parallel.)
 
 :7-1-1-a-p_ga: an t-ainmní a aicmiú:
 :7-1-1-a-p_en: classification of the subject:
@@ -65,7 +65,7 @@
 :7-1-1-d-sample2_en: He must leave.
 
 :7-1-1-d-sample3_ga: *An* féidir leis é a dhéanamh? 
-:7-1-1-d-sample3_en: Can he do it?"
+:7-1-1-d-sample3_en: Can he do it?
 
 :7-1-1-d-sample4_ga: *Is* leor liom an méid sin. 
 :7-1-1-d-sample4_en: That is enough for me.
@@ -125,7 +125,7 @@
 :7-1-1-h-p_en: emphasizing part of the sentence:
 
 :7-1-1-h-sample1_ga: *Ní* inniu ná inné a saolaíodh eisean. 
-:7-1-1-h-sample1_en: "He was not born today or yesterday.
+:7-1-1-h-sample1_en: He was not born today or yesterday.
 
 :7-1-1-h-sample2_ga: *Is* ag ceannach bainne a bhí mé. 
 :7-1-1-h-sample2_en: I was buying milk.

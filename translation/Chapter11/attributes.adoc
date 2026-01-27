@@ -170,10 +170,10 @@
 :11-3-1-a-p_en: to avoid ambiguity when the antecedent is the direct object of the verb in the relative clause (see link:#sec_11_2_1[11.2.1](b) above):
 
 :11-3-1-a-sample-1a_ga: Phóg Gearóid an bhean sin.
-:11-3-1-a-sample-1a_en: Gerard kissed that woman.
+:11-3-1-a-sample-1a_en: Gearóid kissed that woman.
 
 :11-3-1-a-sample-1b_ga: Sin í an bhean *ar phóg* Gearóid *í*.
-:11-3-1-a-sample-1b_en: It is that woman *whom* Gerard *kissed*.
+:11-3-1-a-sample-1b_en: It is that woman *whom* Gearóid *kissed*.
 
 :11-3-1-a-sample-2a_ga: Buailfidh an sliotar an fear sin.
 :11-3-1-a-sample-2a_en: The hurley ball will hit that man.
