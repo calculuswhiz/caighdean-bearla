@@ -114,6 +114,11 @@ npm run generate-docs
 
 - **maoluimir** - A cardinal number with no noun following it. This is too long, so we term it "bare number."
 
+- **Names**
+  - Names of people, if given in Irish, shall be preserved with accents, but initial mutations dropped.
+  - Names of places, if they have a common English name, shall be translated
+  - Abbreviations shall be translated if a common English translation for the noun exists. E.g. RTÉ will not be translated, but **SAM** becomes **USA**.
+
 ## Abbreviations and sources
 Some of these may appear in annotations and comments in the Asciidoc code.
 - GT - Google Translate

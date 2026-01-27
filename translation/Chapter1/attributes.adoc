@@ -110,7 +110,7 @@
 :1-1-5-f-sample2_en: Easter is in *March* rather than *April* this year.
 
 :1-1-5-f-p2_ga: Úsáidtear an t-alt leis na míonna _Márta_, _Bealtaine_, _Meitheamh_, _Samhain_ agus _Nollaig_. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha _san Aibreán_.
-:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued form _san Aibreán_ (_EN: in April_). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_, not found in FGB. See also link:#sec_1_3_2[1.3.2] for another instance.)
+:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued form _san Aibreán_ (_From: in April_). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_, not found in FGB. See also link:#sec_1_3_2[1.3.2] for another instance.)
 
 :1-1-5-g-p1_ga: Dátaí
 :1-1-5-g-p1_en: Dates
@@ -296,7 +296,7 @@
 :1-2-title_en: The Nominative Case and the Singular Accusative Case
 
 :1-2-p1_ga: Is ionann foirm an ainmfhocail sa tuiseal ainmneach agus sa tuiseal cuspóireach uatha. Féach an tábla thíos ina léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sna tuisil sin.
-:1-2-p1_en: The noun form is the same for the nominative case and the singular accusative case. See the below table which shows the effect of the article on the noun in those cases.
+:1-2-p1_en: The noun form is the same for the nominative case and the singular accusative case. See the table below which shows the effect of the article on the noun in those cases.
 
 // Article Table
 
@@ -371,16 +371,16 @@
 :1-3-1-p_en: The dative case is given to the case following the preposition: _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. Nouns that follow the article in the dative singular case are dealt with as laid out in the following tables.
 
 :1-3-2-p_ga: Is é an tuiseal ainmneach a leanann na focail _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ agus _seachas_ agus an t-alt, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. Úsáidtear an tuiseal tabharthach sa leagan calctha _mar an gcéanna_.
-:1-3-2-p_en: The nominative case follows the words _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ and _seachas_ and the article, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. The dative case is used in the calqued version _mar an gcéanna_.
+:1-3-2-p_en: The nominative case follows the words _ach_, _amhail_, _gan_, _go dtí_, _idir_, _mar_, _murach_, _ná_ and _seachas_ and the article, e.g., _gan an t-uisce_; _idir an t-am sin agus an t-am seo_; _mar an t-aistriúchán_. The dative case is used in the calqued form _mar an gcéanna_ (_From: like the same_).
 
 :1-3-3-p_ga: Cuirtear gnáthrialacha an tabharthaigh i bhfeidhm ar mhúnlaí den saghas seo: _réamhfhocal_ + _ainmfhocal_ + _a_ + _ainm briathartha_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
-:1-3-3-p_en: The general rules of the dative are applied to forms of this type: _perposition_ + _noun_ + _a_ + _verbal noun_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
+:1-3-3-p_en: The general rules of the dative are applied to forms of this type: _preposition_ + _noun_ + _a_ + _verbal noun_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
 
 :1-3-4-p_ga: I gcás na réamhfhocal _de_, _do_, _faoi_, _i_ agus _ó_, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.
-:1-3-4-p_en: In the case of prepositions _de_, _do_, _faoi_, _i_ and _ó_, the preposition and the singular article are composed as shown below.
+:1-3-4-p_en: For prepositions _de_, _do_, _faoi_, _i_ and _ó_, the preposition and the singular article are composed as shown below.
 
 :1-3-5-p_ga: Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.
-:1-3-5-p_en: The prepositions in the below table have specific forms when they precede the singular article.
+:1-3-5-p_en: The prepositions in the table below have specific forms when they precede the singular article.
 
 :CoreSystem_ga: An Córas Lárnach
 :CoreSystem_en: The Core System
@@ -389,7 +389,7 @@
 :nopass-1-4-title_en: The Dative Singular Case — {CoreSystem}
 
 :1-4-1-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas _d_, _t_ agus _s_), cuirtear séimhiú orthu i ndiaidh _den_, _don_, _sa/san_ agus urú i ngach cás eile, mar a léirítear sa tábla thíos.
-:1-4-1-p_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), apply lenition to them following _den_, _don_, _sa/san_ and eclipsis in every other case, as shown in the below table.
+:1-4-1-p_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), lenition is applied to them following _den_, _don_, _sa/san_ and eclipsis in every other context, as shown in the table below.
 
 :Table1B-caption_ga: Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
 :Table1B-caption_en: Nouns starting with a Consonant other than _d_, _t_ and _s_
@@ -398,7 +398,7 @@
 :Table1B-note_en: _BUT where_ f _precedes a vowel:_
 
 :1-4-2-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha dar tús _s_ sa tuiseal tabharthach. Cuirtear _t_ roimh _s_ ar ainmfhocail bhaininscneacha (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-4-2-p_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than when the noun starts with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-4-2-p_en: No change is done to masculine nouns starting with _s_ in the dative case. A _t_ precedes an _s_ in feminine nouns (other than when the noun starts with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the table below.
 
 :Table1C-caption_ga: Ainmfhocail dar tús _s_
 :Table1C-caption_en: Nouns Starting with _s_
@@ -482,7 +482,7 @@
 :1-5-1-p2_en: See link:./chapter3-en#sec_3_3[3.3] for contexts where the nominative form is used instead of the genitive.
 
 :1-5-2-p_ga: Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.
-:1-5-2-p_en: In the below table, the effect of the article on the noun in the genitive singular case is shown.
+:1-5-2-p_en: In the table below, the effect of the article on the noun in the genitive singular case is shown.
 
 :Table1F-caption_ga: An Tuiseal Ginideach Uatha
 :Table1F-caption_en: The Genitive Singular Case
@@ -538,7 +538,7 @@ This will (mostly) just be some algebra here...
 :1-6-1-title_en: The Nominative Plural Case and the Accusative Plural Case
 
 :1-6-1-p1_ga: Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ainmneach iolra agus sa tuiseal cuspóireach iolra.
-:1-6-1-p1_en: In the table below, the effect of the article on the noun in the nominative plural case and in the accusative plural case.
+:1-6-1-p1_en: In the table below, the effect of the article on the noun in the nominative plural case and in the accusative plural case is shown.
 
 // Table 1G is the same as the Feminine sub-table of 1F.
 
@@ -555,7 +555,7 @@ This will (mostly) just be some algebra here...
 :1-6-2-title_en: The Dative Plural Case
 
 :1-6-2-p1_ga: Leanann an tuiseal tabharthach na réamhfhocail _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ agus _um_. Déantar cumasc idir an réamhfhocal _i_ agus an t-alt san uimhir iolra: _i_ + _na_ = _sna_. Tá foirm ar leith ar _fara_ agus _le_ roimh an alt san uimhir iolra: _fara_, _fairis_; _le_, _leis_. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.
-:1-6-2-p1_en: The dative plural case follows the prepositions _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. The preposition _i_ is composed with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara_, _fairis_; _le_, _leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
+:1-6-2-p1_en: The dative plural case follows the prepositions _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. The preposition _i_ is composed with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara_, _fairis_; _le_, _leis_. Shown in the table below is the effect of the article on the noun in the dative plural case.
 
 :Table1H-caption_ga: An Tuiseal Tabharthach Iolra
 :Table1H-caption_en: The Dative Plural Case
@@ -571,7 +571,7 @@ This will (mostly) just be some algebra here...
 :1-6-3-title_en: The Genitive Plural Case
 
 :1-6-3-p_ga: Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach iolra.
-:1-6-3-p_en: In the below table, the effect of the article on the noun in the genitive plural case is shown.
+:1-6-3-p_en: In the table below, the effect of the article on the noun in the genitive plural case is shown.
 
 :Table1I-caption_ga: An Tuiseal Ginideach Iolra
 :Table1I-caption_en: The Genitive Plural Case
@@ -589,7 +589,7 @@ This will (mostly) just be some algebra here...
 :1-7-2-p_en: The rules regarding the dative plural case in the Core System and in the Lenition System are the same (See link:#sec_1_6_2[1.6.2]).
 
 :1-7-3-p_ga: I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas _d_, _t_ agus _s_) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.
-:1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) as well as the adjectives attached to them. See the below table.
+:1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) as well as the adjectives attached to them. See the table below.
 
 :Table1J-header_ga: Córas an tSéimhithe —<br />Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
 :Table1J-header_en: The Lenition System —<br />Nouns starting with a consonant other than _d_, _t_, and _s_
@@ -598,7 +598,7 @@ This will (mostly) just be some algebra here...
 :Table1J-caption-start_en: The Dative Singular Case
 
 :1-7-4-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús _s_, cuirtear _t_ roimh an _s_ (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
-:1-7-4-p_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (other than with nouns starting with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the below table.
+:1-7-4-p_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (other than with nouns starting with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the table below.
 
 :Table1K-subheading_ga: Cuirtear _t_ roimh an _s_, seachas i gcás _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_
 :Table1K-subheading_en: _t_ is put before the _s_, other than in case of _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_
@@ -610,7 +610,7 @@ This will (mostly) just be some algebra here...
 :nopass-Table1K-caption-start_en: {Table1J-caption-start}
 
 :1-7-5-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.
-:1-7-5-p_en: No change is done to either masculine nouns or feminine nouns starting with vowels. See the below table.
+:1-7-5-p_en: No change is done to either masculine nouns or feminine nouns starting with vowels. See the table below.
 
 :Table1L-header_ga: Córas an tSéimhithe — Ainmfhocail dar tús Guta
 :Table1L-header_en: The Lenition System — Nouns Starting with a Vowel
@@ -619,7 +619,7 @@ This will (mostly) just be some algebra here...
 :nopass-Table1L-caption-start_en: {Table1J-caption-start}
 
 :1-7-6-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_. Féach an tábla thíos.
-:1-7-6-p_en: No change is done to either masculine nouns or feminine nouns starting with _d_ and _t_. See the below table.
+:1-7-6-p_en: No change is done to either masculine nouns or feminine nouns starting with _d_ and _t_. See the table below.
 
 :Table1M-Header_ga: Córas an tSéimhithe — Ainmfhocail dar tús _d_ agus _t_
 :Table1M-Header_en: The Lenition System — Nouns Starting with _d_ and _t_

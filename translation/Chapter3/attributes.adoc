@@ -824,7 +824,7 @@
 :3-3-11-title_en: A Qualified Indefinite Noun subject to An Indefinite Quantity
 
 :3-3-11-p1_ga: Nuair atá ainmfhocal éiginnte atá faoi réir ag focal nó frása lena gcuirtear cainníocht éiginnte in iúl, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, cáilithe leis na cáilitheoirí a liostaítear anseo thíos, ní dhéantar athrú an ghinidigh ar an ainmfhocal éiginnte (ná ar an aidiacht a ghabhann leis).
-:3-3-11-p1_en: When an indefinite noun is subject to a word or phrase expressing an indefinite quantity, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, qualified with one a qualifier in the below table, the genitive of the indefinite noun is not changed (or the adjective accompanying it).
+:3-3-11-p1_en: When an indefinite noun is subject to a word or phrase expressing an indefinite quantity, e.g., _barraíocht_, _breis_, _easpa_, _go leor_, _iomarca_, _níos mó_, _roinnt_, qualified with one a qualifier in the table below, the genitive of the indefinite noun is not changed (or the adjective accompanying it).
 
 // Shares headers with 3B
 

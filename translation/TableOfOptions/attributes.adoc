@@ -49,8 +49,8 @@
 :CrossRef5A_ga: link:./chapter5-ga.html#sec_5_1_10[5.1.10]
 :CrossRef5A_en: link:./chapter5-en.html#sec_5_1_10[5.1.10]
 
-:Choice5B_ga: _Bí_ -- an chéad phearsa uatha, an aimsir láithreach
-:Choice5B_en: _Bí_ -- first person singular, present tense
+:Choice5B_ga: _Bí_ &mdash; an chéad phearsa uatha, an aimsir láithreach
+:Choice5B_en: _Bí_ &mdash; first person singular, present tense
 
 :CrossRef5B_ga: link:./chapter5-ga.html#table5p[Tábla 5P]
 :CrossRef5B_en: link:./chapter5-en.html#table5p[Table 5P]

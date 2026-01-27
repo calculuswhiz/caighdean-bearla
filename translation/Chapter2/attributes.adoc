@@ -25,14 +25,14 @@
 :datSg_ga: _tabh. uatha_
 :datSg_en: _dat. sg._
 
-:Table2C-title_ga: An Dara Díochlaonadh — Lagiolraí
-:Table2C-title_en: The Second Declension — Weak Plural
+:Table2C-title_ga: An Dara Díochlaonadh &mdash; Lagiolraí
+:Table2C-title_en: The Second Declension &mdash; Weak Plural
 
-:Table2D-title_ga: Lagiolraí Eile — Samplaí
-:Table2D-title_en: Other Weak Plurals — Examples
+:Table2D-title_ga: Lagiolraí Eile &mdash; Samplaí
+:Table2D-title_en: Other Weak Plurals &mdash; Examples
 
-:Table2F-Title_ga: Tréaniolraí sa Chéad Díochlaonadh — Samplaí
-:Table2F-Title_en: Strong Plurals in the First Declension — Examples
+:Table2F-Title_ga: Tréaniolraí sa Chéad Díochlaonadh &mdash; Samplaí
+:Table2F-Title_en: Strong Plurals in the First Declension &mdash; Examples
 
 :Table2F-CornerHeading_ga: Aicmí Tréaniolraí
 :Table2F-CornerHeading_en: Strong Plural Classes
@@ -67,8 +67,8 @@
 :Table2F-rh8_ga: Ainmfhocail ilghnéitheacha
 :Table2F-rh8_en: Miscellaneous nouns
 
-:Table2G-Title_ga: Lagiolraí sa Chéad Díochlaonadh — Samplaí
-:Table2G-Title_en: Weak Plurals in the First Declension — Examples
+:Table2G-Title_ga: Lagiolraí sa Chéad Díochlaonadh &mdash; Samplaí
+:Table2G-Title_en: Weak Plurals in the First Declension &mdash; Examples
 
 :Table2G-CornerHeading_ga: Aicmí Lagiolraí
 :Table2G-CornerHeading_en: Weak Plural Classes
@@ -83,33 +83,33 @@
 :2-1-1-title_en: The Declensions
 
 :2-1-1-p1_ga: Roinntear na hainmfhocail ina gcúig dhíochlaonadh, de réir fhoirm a dtuisil ghinidigh, mar a léirítear i link:#table2e[dtábla 2E].
-:2-1-1-p1_en: The nouns can be divided into five declensions, according to the genitive case form, as is seen in link:#table2e[table 2E].
+:2-1-1-p1_en: The nouns can be divided into five declensions, according to genitive case form, as is seen in link:#table2e[table 2E].
 
 :2-1-2-title_ga: Na Tuisil
 :2-1-2-title_en: The Cases
 
-:2-1-2-a-title_ga: *An tAinmneach agus an Cuspóireach*
-:2-1-2-a-title_en: *The Nominative and the Accusative*
+:2-1-2-a-title_ga: An tAinmneach agus an Cuspóireach
+:2-1-2-a-title_en: The Nominative and the Accusative
 
 :2-1-2-a-p1_ga: Is ionann foirm don dá thuiseal seo anois, san uatha agus san iolra, agus áirítear iad araon faoin teideal _Ainmneach_ i ndíochlaonadh na n-ainmfhocal.
-:2-1-2-a-p1_en: The form of the two cases are the same here, in the singular and in the plural, and they are both counted under the title _Nominative_ in the declensions of nouns.
+:2-1-2-a-p1_en: Both of these cases have the same form now, in the singular and in the plural, and they are both counted under the title _Nominative_ in the declensions of nouns.
 
-:2-1-2-b-title_ga: *An Tabharthach*
-:2-1-2-b-title_en: *The Dative*
+:2-1-2-b-title_ga: An Tabharthach
+:2-1-2-b-title_en: The Dative
 
 :2-1-2-b-p1_ga: Is ionann foirm freisin don tabharthach agus don ainmneach, uatha agus iolra (ach féach link:#sec_2_3_3[2.3.3]), agus áirítear an tuiseal sin freisin faoin teideal _Ainmneach_.
 :2-1-2-b-p1_en: The form of the dative is also the same as the nominative, singular and plural (but see link:#sec_2_3_3[2.3.3]), and that case is also counted under the title _Nominative_.
 
-:2-1-2-c-title_ga: *An Ginideach*
-:2-1-2-c-title_en: *The Genitive*
+:2-1-2-c-title_ga: An Ginideach
+:2-1-2-c-title_en: The Genitive
 
 :2-1-2-c-p1_ga: Tugtar foirm an ghinidigh sna díochlaontaí éagsúla sna táblaí sa chaibidil seo agus sa chur síos ar na díochlaontaí ar leithligh.
 :2-1-2-c-p1_en: The form of the genitive in the different declensions is given in the tables in this chapter and in the description of the particular declensions.
 
-:2-1-2-d-title_ga: *An Gairmeach*
-:2-1-2-d-title_en: *The Vocative*
+:2-1-2-d-title_ga: An Gairmeach
+:2-1-2-d-title_en: The Vocative
 
-:2-1-2-d-p1_ga: Sa tuiseal gairmeach, cuirtear an mhír ghairmeach a roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach link:#sec_2_2_3[2.2.3] agus link:#sec_2_2_4[2.2.4](c)).
+:2-1-2-d-p1_ga: Sa tuiseal gairmeach, cuirtear an mhír ghairmeach _a_ roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach link:#sec_2_2_3[2.2.3] agus link:#sec_2_2_4[2.2.4](c)).
 :2-1-2-d-p1_en: In the vocative case, the vocative particle _a_ is put before the noun and the initial consonant of the following noun is lenited. The form of the vocative is the same as the nominative except in the first declension and does not need to be specified separately outside of that declension (see link:#sec_2_2_3[2.2.3] and link:#sec_2_2_4[2.2.4](c)).
 
 :2-1-3-title_ga: An tIolra
@@ -118,8 +118,8 @@
 :2-1-3-p1_ga: Is féidir iolraí na n-ainmfhocal a roinnt ina dhá bpríomhaicme: tréaniolraí agus lagiolraí. Déantar cur síos ar an dá aicme anseo thíos:
 :2-1-3-p1_en: The plurals of nouns can be divided into two main classes: strong plurals and weak plurals. The two classes are described as follows:
 
-:2-1-3-a-title_ga: *Tréaniolraí*
-:2-1-3-a-title_en: *Strong Plurals*
+:2-1-3-a-title_ga: Tréaniolraí
+:2-1-3-a-title_en: Strong Plurals
 
 :2-1-3-a-p1_ga: Tugtar tréaniolra ar iolra ainmfhocail i gcás gurb ionann foirm iolra an ainmfhocail sna tuisil go léir.
 :2-1-3-a-p1_en: The plural of a noun is a strong plural if the noun's plural form is the same in all the cases.
@@ -133,26 +133,26 @@
 :Table2A-Irregular_ga: Ainmfhocail Neamhrialta
 :Table2A-Irregular_en: Irregular Nouns
 
-:2-1-3-b-title_ga: *Lagiolraí*
-:2-1-3-b-title_en: *Weak Plurals*
+:2-1-3-b-title_ga: Lagiolraí
+:2-1-3-b-title_en: Weak Plurals
 
 :2-1-3-b-p1_ga: Tugtar lagiolra ar iolra ainmfhocail i gcás nach ionann foirm an ainmfhocail sa ghinideach iolra agus foirm an ainmfhocail sna tuisil eile san iolra. Leis an aicme sin, baineann:
-:2-1-3-b-p1_en: The plural of a noun is a weak plural if the noun's plural form is not the same in the genitive plural as the noun's plural form in the other plural cases. This class includes:
+:2-1-3-b-p1_en: The plural of a noun is a weak plural if the noun's plural form is not the same in the genitive plural as the noun's plural form in the other cases. This class includes:
 
 :2-1-3-b-i-p1_ga: Ainmfhocail a chríochnaíonn ar chonsan leathan agus a gcaolaítear a gconsan deiridh san ainmneach iolra agus sa ghinideach uatha, e.g., _fear_, _tá na fir ag teacht_, _hata an fhir_; _eitleán_, _feictear na heitleáin sa spéir_, _athraíodh roth an eitleáin_. Is sa Chéad Díochlaonadh amháin atá na hainmfhocail sin. Léirítear sampla sa tábla thíos:
-:2-1-3-b-i-p1_en: Nouns that end on a broad consonant and the ending consonant becomes slender in the nominative plural and the genitive singular, e.g., _fear_, _tá na fir ag teacht_, _hata an fhir_; _eitleán_, _feictear na heitleáin sa spéir_, _athraíodh roth an eitleáin_. Those nouns are only in the First Declension. An example is in the below table:
+:2-1-3-b-i-p1_en: Nouns that end on a broad consonant and the ending consonant becomes slender in the nominative plural and the genitive singular, e.g., _fear_, _tá na fir ag teacht_, _hata an fhir_; _eitleán_, _feictear na heitleáin sa spéir_, _athraíodh roth an eitleáin_. Those nouns are only in the First Declension. An example is in the table below:
 
-:Table2B-title_ga: An Chéad Díochlaonadh — Lagiolraí
-:Table2B-title_en: The First Declension — Weak Plural
+:Table2B-title_ga: An Chéad Díochlaonadh &mdash; Lagiolraí
+:Table2B-title_en: The First Declension &mdash; Weak Plural
 
 :2-1-3-b-ii-p1_ga: Ainmfhocail a ghabhann _-a_ san ainmneach iolra gan coimriú ná malartú guta nó gutaí ná leathnú ar an ainmneach uatha -- cailleann siad an guta deiridh _-a_ sa ghinideach iolra. Is sa Dara Díochlaonadh is mó atá na hiolraí sin, e.g., _géag crainn_, _do ghéaga a shíneadh_, _laige na ngéag_. Léirítear sampla sa tábla thíos:
-:2-1-3-b-ii-p1_en: Nouns that take an _a_ in the nominative plural with neither syncope nor an exchange of vowel or vowels nor broadening in the nominative singular -- lose the ending vowel _-a_ in the genitive plural. Those plurals are mostly in the Second Declension, e.g., _géag crainn_, _do ghéaga a shíneadh_, _laige na ngéag_. This is shown in the below table:
+:2-1-3-b-ii-p1_en: Nouns that take an _a_ in the nominative plural with neither syncope nor an exchange of vowel or vowels nor broadening in the nominative singular -- lose the ending vowel _-a_ in the genitive plural. Those plurals are mostly in the Second Declension, e.g., _géag crainn_, _do ghéaga a shíneadh_, _laige na ngéag_. This is shown in the table below:
 
-:2-1-3-b-ii-p2_ga: Tabhair faoi deara go bhfuil roinnt ainmfhocal a leanann an patrún céanna sa Chéad Díochlaonadh, e.g., _úll_, _itheadh na húlla_, _blas na n-úll;_ sa Tríú Díochlaonadh, e.g., _tréad caorach_, _tréada is comhaltas_, _seoladh na dtréad;_ agus sa Cheathrú Díochlaonadh, e.g., _gach aon neach_, _na neacha daonna_, _teacht na neach neamhshaolta_.
-:2-1-3-b-ii-p2_en: Notice that several nouns follow the same pattern as in the First Declension, e.g., _úll_, _itheadh na húlla_, _blas na n-úll_; in the Third Declension, e.g., _tréad caorach_, _tréada is comhaltas_, _seoladh na dtréad;_ and in the Fourth Declension, e.g., _gach aon neach_, _na neacha daonna_, _teacht na neach neamhshaolta_.
+:2-1-3-b-ii-p2_ga: Tabhair faoi deara go bhfuil roinnt ainmfhocal a leanann an patrún céanna sa Chéad Díochlaonadh, e.g., _úll_, _itheadh na húlla_, _blas na n-úll_; sa Tríú Díochlaonadh, e.g., _tréad caorach_, _tréada is comhaltas_, _seoladh na dtréad_; agus sa Cheathrú Díochlaonadh, e.g., _gach aon neach_, _na neacha daonna_, _teacht na neach neamhshaolta_.
+:2-1-3-b-ii-p2_en: Note that several nouns follow the same pattern as in the First Declension, e.g., _úll_, _itheadh na húlla_, _blas na n-úll_; in the Third Declension, e.g., _tréad caorach_, _tréada is comhaltas_, _seoladh na dtréad_; and in the Fourth Declension, e.g., _gach aon neach_, _na neacha daonna_, _teacht na neach neamhshaolta_.
 
-:2-1-3-b-iii-p1_ga: Dornán ainmfhocal sa Dara Díochlaonadh, e.g., _súil_, _leath na súile uirthi_, _radharc na súl;_ dornán sa Tríú Díochlaonadh, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn;_ dornán sa Cheathrú Díochlaonadh, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó;_ dornán sa Chúigiú Díochlaonadh, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach;_ agus corr-ainmfhocal neamhrialta, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban;_ a bhfuil foirm leithleach orthu sa ghinideach iolra. Léirítear samplaí sa tábla thíos:
-:2-1-3-b-iii-p1_en: A few nouns in the Second Declension, e.g., _súil_, _leath na súile uirthi_, _radharc na súl;_ a few in the Third Declension, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn;_ a few in the Fourth Declension, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó;_ a few in the Fifth Declension, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach;_ and an occasional irregular noun, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban;_ have a separate form in the genitive plural. Examples are shown in the below table.
+:2-1-3-b-iii-p1_ga: Dornán ainmfhocal sa Dara Díochlaonadh, e.g., _súil_, _leath na súile uirthi_, _radharc na súl_; dornán sa Tríú Díochlaonadh, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn_; dornán sa Cheathrú Díochlaonadh, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó_; dornán sa Chúigiú Díochlaonadh, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach_; agus corr-ainmfhocal neamhrialta, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban_; a bhfuil foirm leithleach orthu sa ghinideach iolra. Léirítear samplaí sa tábla thíos:
+:2-1-3-b-iii-p1_en: A few nouns in the Second Declension, e.g., _súil_, _leath na súile uirthi_, _radharc na súl_; a few in the Third Declension, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn_; a few in the Fourth Declension, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó_; a few in the Fifth Declension, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach_; and an occasional irregular noun, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban_; have a separate form in the genitive plural. Examples are shown in the table below:
 
 :2-1-4-title_ga: Caolú
 :2-1-4-title_en: Palatalization
@@ -166,13 +166,13 @@
 :2-1-4-a-p_ga: _-ea-_ agus _-io-_ go _-i-_, e.g., _ceann_, _cinn_; _fionn_, _finn_ (ach in ainmfhocail aonsiollacha áirithe _ea-_ go _ei-_, e.g., _each, eich_);
 :2-1-4-a-p_en: _-ea-_ and _-io-_  to _-i-_, e.g., _ceann_, _cinn_; _fionn_, _finn_ (but in certain monosyllabic nouns _ea-_ to _ei-_, e.g., _each_, _eich_);
 
-:2-1-4-b-p1_ga: _-éa-_ agus _-ia-_ go _-éi-_, e.g., _béal_, _béil_; _iasc_, _éisc;_
-:2-1-4-b-p1_en: _-éa-_ and _-ia-_ to _éi-_, e.g., _béal_, _béil_; _iasc_, _éisc;_
+:2-1-4-b-p1_ga: _-éa-_ agus _-ia-_ go _-éi-_, e.g., _béal_, _béil_; _iasc_, _éisc_;
+:2-1-4-b-p1_en: _-éa-_ and _-ia-_ to _éi-_, e.g., _béal_, _béil_; _iasc_, _éisc_;
 
-:2-1-4-c-p1_ga: _-ío-_ go _-í-_, e.g., _síol_, _síl;_
-:2-1-4-c-p1_en: _-ío-_ to _-í-_, e.g., _síol_, _síl;_
+:2-1-4-c-p1_ga: _-ío-_ go _-í-_, e.g., _síol_, _síl_;
+:2-1-4-c-p1_en: _-ío-_ to _-í-_, e.g., _síol_, _síl_;
 
-:2-1-4-d-p1_ga: in ainmfhocail ilsiollacha, _-ach_ go _-aigh_, _-each_ go _-igh_, _-íoch_ go _-ígh_, e.g., _bithiúnach_, _bithiúnaigh_; _cléireach_, _cléirigh_; _gaiscíoch_, _gaiscígh_. Baineann an t-athrú sin leis na hainmfhocail aonsiollacha seo a leanas a scríobhtaí tráth mar fhocail dhéshiollacha, e.g., _dúch_, _dúigh_; _fiach_, _fiaigh;_ agus le corr-ainmfhocal aonsiollach eile, e.g., _fraoch_, _fraoigh_.
+:2-1-4-d-p1_ga: in ainmfhocail ilsiollacha, _-ach_ go _-aigh_, _-each_ go _-igh_, _-íoch_ go _-ígh_, e.g., _bithiúnach_, _bithiúnaigh_; _cléireach_, _cléirigh_; _gaiscíoch_, _gaiscígh_. Baineann an t-athrú sin leis na hainmfhocail aonsiollacha seo a leanas a scríobhtaí tráth mar fhocail dhéshiollacha, e.g., _dúch_, _dúigh_; _fiach_, _fiaigh_; agus le corr-ainmfhocal aonsiollach eile, e.g., _fraoch_, _fraoigh_.
 :2-1-4-d-p1_en: in the polysyllabic nouns, _-ach_ to _-aigh_, _-each_ to _-igh_, _-ioch_ to _-igh_, e.g., _bithiúnach_, _bithiúnaigh_; _cléireach_, _cléirigh_; _gaiscíoch_, _gaiscígh_. That change applies to these monosyllabic nouns which were once written as disyllabic nouns, e.g., _dúch_, _dúigh_; _fiach_, _fiaigh_; and occasionally with other monosyllabic nouns, e.g., _fraoch_, _fraoigh_.
 
 :2-1-5-title_ga: Leathnú
@@ -182,13 +182,13 @@
 :2-1-5-p1_en: When a slender consonant is made broad, this is broadening. The _-i-_ directly in front of the consonant is dropped to broaden the noun, e.g., _athair, athar; droim, droma._
 
 :2-1-5-p2_ga: Is iondúil go n-athraítear gutaí áirithe mar a leanas nuair a leathnaítear iad:
-:2-1-5-p2_en: Certain vowels are usually changed as follows when they are broadened:
+:2-1-5-p2_en: It is customary to change certain vowels as follows when they are broadened:
 
 :2-1-5-a_ga: _-ei-_ agus _-i-_ go _-ea-_, e.g., _greim_, _greama_; _mil_, _meala_;
 :2-1-5-a_en: _-ei-_ and _-i-_ to _-ea-_, e.g., _greim_, _greama_; _mil_, _meala_;
 
-:2-1-5-b_ga: _-éi-_ go _-éa-_, e.g., _úinéir_, _úinéara;_
-:2-1-5-b_en: _-éi-_ to _-éa-_, e.g., _úinéir_, _úinéara;_
+:2-1-5-b_ga: _-éi-_ go _-éa-_, e.g., _úinéir_, _úinéara_;
+:2-1-5-b_en: _-éi-_ to _-éa-_, e.g., _úinéir_, _úinéara_;
 
 :2-1-5-c_ga: _-oi-_ agus _-ui-_ go _-o-_, e.g., _fuil_, _fola_; _toil_, _tola_.
 :2-1-5-c_en: _-oi-_ and _-ui-_ to _-o-_, e.g., _fuil_, _fola_; _toil_, _tola_.
@@ -203,25 +203,25 @@
 :2-1-7-title_en: The Compound Word
 
 :2-1-7-p1_ga: Déantar comhfhocal nuair a cheanglaítear dhá fhocal nó níos mó le chéile, e.g., _bunscoil_; _príomhoifigeach_; _ríomheolaíocht_. Séimhítear an dara focal i gcomhfhocal, e.g., _deargbhuile_; _rósghairdín_, ach amháin nuair a thagann _d_, _n_, _t_, _l_ nó _s_ le chéile, e.g., _antráth_; _catsúil_. Úsáidtear an fleiscín i gcomhfhocal:
-:2-1-7-p1_en: A compound word is made by connecting two words or more together, e.g, _bunscoil_; _príomhoifigeach_; _ríomheolaíocht_. The second word in a compound word is lenited, e.g., _deargbhuile_; _rósghairdín_, except when _d_, _n_, _t_, _l_ or _s_ occur together, e.g., _antráth_; _catsúil_. The hyphen is used in a compound:
+:2-1-7-p1_en: A compound word is made by connecting two words or more together, e.g, _bunscoil_; _príomhoifigeach_; _ríomheolaíocht_. The second word in a compound word is lenited, e.g., _deargbhuile_; _rósghairdín_, except when _d_, _n_, _t_, _l_ or _s_ come with it, e.g., _antráth_; _catsúil_. The hyphen is used in a compound:
 
-:2-1-7-a_ga: idir dhá ghuta, e.g., _fo-aicme_; _mí-ádh_; _mí-iompar_; _ró-olc;_
-:2-1-7-a_en: between two vowels, e.g., _fo-aicme_; _mí-ádh_; _mí-iompar_; _ró-olc;_
+:2-1-7-a_ga: idir dhá ghuta, e.g., _fo-aicme_; _mí-ádh_; _mí-iompar_; _ró-olc_;
+:2-1-7-a_en: between two vowels, e.g., _fo-aicme_; _mí-ádh_; _mí-iompar_; _ró-olc_;
 
-:2-1-7-b_ga: idir comhchonsain, e.g., _droch-chaint_; _gearr-rás_; _gnáth-thuarastal;_
-:2-1-7-b_en: between common consonants, e.g., _droch-chaint_; _gearr-rás_; _gnáth-thuarastal;_
+:2-1-7-b_ga: idir comhchonsain, e.g., _droch-chaint_; _gearr-rás_; _gnáth-thuarastal_;
+:2-1-7-b_en: between common consonants, e.g., _droch-chaint_; _gearr-rás_; _gnáth-thuarastal_;
 
-:2-1-7-c_ga: idir dhá réimír, e.g., _comh-cheolfhoireann_; _mór-cheoldráma_; _sin-seanathair;_
-:2-1-7-c_en: between two prefixes, e.g., _comh-cheolfhoireann_; _mór-cheoldráma_; _sin-seanathair;_
+:2-1-7-c_ga: idir dhá réimír, e.g., _comh-cheolfhoireann_; _mór-cheoldráma_; _sin-seanathair_;
+:2-1-7-c_en: between two prefixes, e.g., _comh-cheolfhoireann_; _mór-cheoldráma_; _sin-seanathair_;
 
-:2-1-7-d_ga: i gcásanna inar bhaol go mbeadh an comhfhocal do-aitheanta d'éagmais an fhleiscín, mar shampla idir na réimíreanna _do-_, _fo-_, _so-_ agus focail dar tús _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe;_
-:2-1-7-d_en: in contexts when the compound would be unrecognizable without the hyphen, for example, between the prefixes _do-_, _fo-_, _so-_ and words starting with _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe;_
+:2-1-7-d_ga: i gcásanna inar bhaol go mbeadh an comhfhocal do-aitheanta d'éagmais an fhleiscín, mar shampla idir na réimíreanna _do-_, _fo-_, _so-_ agus focail dar tús _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe_;
+:2-1-7-d_en: in contexts when the compound would be unrecognizable without the hyphen, for example, between the prefixes _do-_, _fo-_, _so-_ and words starting with _bha-_, _bhla-_, _bhra-_, _dha-_, _gha-_, _ghla-_, _ghra-_, _mha-_, e.g., _do-ghlanta_; _fo-bhaile_; _so-mharaithe_;
 
-:2-1-7-e_ga: i dteidil shainiúla agus ceannlitreacha orthu, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh;_
-:2-1-7-e_en: in specific titles and their initials, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh;_
+:2-1-7-e_ga: i dteidil shainiúla agus ceannlitreacha orthu, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh_;
+:2-1-7-e_en: in specific titles and their initial letters, e.g., _an Ard-Chúirt_; _an tArd-Aighne_; _an Príomh-Aire_; _an Príomh-Bhreitheamh_;
 
 :2-1-7-f_ga: i ndiaidh _an-_ (réimír threise) agus i ndiaidh _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Tabhair faoi deara nach séimhítear an dara focal i gcomhfhocal i ndiaidh _an-_ nuair a thagann _d, t_ nó _s_ ar a lorg, e.g., _an-duine is ea é_; _an-drochaimsir_ (féach link:chapter10-ga.html#sec_10_2_12[10.2.12]).
-:2-1-7-f_en: after _an-_ (emphatic prefix) and after _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Note that there is no lenition of the second word in a compound word after _an-_ when _d, t_ or _s_ follows it, e.g., _an-duine is ea é_; _an-drochaimsir_ (see link:chapter10-en.html#sec_10_2_12[10.2.12]).
+:2-1-7-f_en: after _an-_ (emphatic prefix) and after _dea-_, e.g., _an-aimsir_; _dea-bhéas_. Note that the second word is not lenited in a compound word after _an-_ when _d, t_ or _s_ follows it, e.g., _an-duine is ea é_; _an-drochaimsir_ (see link:chapter10-en.html#sec_10_2_12[10.2.12]).
 
 :2-1-7-notes-1_ga: Cuirtear dhá fhleiscín i gcomhfhocal nuair is gá ar mhaithe leis an tsoiléireacht, e.g., _an-dea-aimsir_; _an-droch-chaint_; _iar-nua-aimseartha_; _an Leas-Phríomh-Aire_.
 :2-1-7-notes-1_en: Two hyphens are placed in a compound word when it is necessary for the sake of clarity, e.g., _an-dea-aimsir_; _an-droch-chaint_; _iar-nua-aimseartha_; _an Leas-Phríomh-Aire_.
@@ -256,8 +256,8 @@
 :Table2E-row2-cell2_ga: Críochnaíonn ar chonsan (leathan nó caol), e.g., _aisling_, _áit_, _baintreach_, _bróg_, _coill_, _foirm_, _muinín_, _pian_, _scornach_, _tír_.
 :Table2E-row2-cell2_en: Ends with a consonant (broad or slender), e.g., _aisling_, _áit_, _baintreach_, _bróg_, _coill_, _foirm_, _muinín_, _pian_, _scornach_, _tír_.
 
-:Table2E-row2-cell3_ga: Críochnaíonn ar _-e_, e.g., _aislinge_, _áite_, _bróige_, _coille_, _foirme_, _muiníne_, _péine_, _tíre;_ nó ar _-(a)í_, e.g., _baintrí_, _scornaí_.
-:Table2E-row2-cell3_en: Ends with _-e_, e.g., _aislinge_, _áite_, _bróige_, _coille_, _foirme_, _muiníne_, _péine_, _tíre;_ or with _-(a)í_, e.g., _baintrí_, _scornaí_.
+:Table2E-row2-cell3_ga: Críochnaíonn ar _-e_, e.g., _aislinge_, _áite_, _bróige_, _coille_, _foirme_, _muiníne_, _péine_, _tíre_; nó ar _-(a)í_, e.g., _baintrí_, _scornaí_.
+:Table2E-row2-cell3_en: Ends with _-e_, e.g., _aislinge_, _áite_, _bróige_, _coille_, _foirme_, _muiníne_, _péine_, _tíre_; or with _-(a)í_, e.g., _baintrí_, _scornaí_.
 
 :Table2E-row2-cell4_ga: Críochnaíonn ar _-a_, e.g., _baintreacha_, _bróga_, _scornacha._
 :Table2E-row2-cell4_en: Ends with _-a_, e.g., _baintreacha_, _bróga_, _scornacha._
@@ -322,8 +322,8 @@
 :2-2-2-a_ga: Sa ghinideach uatha, caolaítear an consan deiridh, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
 :2-2-2-a_en: In the genitive singular, the last consonant is palatalized, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
 
-:2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
-:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the palatalization, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
+:2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain__; agus _trian_, _triain_.
+:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the palatalization, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain__; agus _trian_, _triain_.
 
 :2-2-2-c_ga: Athraítear _mac_ go _mic_ sa ghinideach uatha agus san ainmneach iolra.
 :2-2-2-c_en: _mac_ is changed to _mic_ in the genitive singular and in the genitive plural.
@@ -424,8 +424,8 @@
 :2-3-4-a-title_ga: Tréaniolraí
 :2-3-4-a-title_en: Strong Plurals
 
-:Table2H-Title_ga: Tréaniolraí sa Dara Díochlaonadh — Samplaí
-:Table2H-Title_en: Strong Plurals in the Second Declension — Examples
+:Table2H-Title_ga: Tréaniolraí sa Dara Díochlaonadh &mdash; Samplaí
+:Table2H-Title_en: Strong Plurals in the Second Declension &mdash; Examples
 
 :Table2H-CornerHeading_ga: Aicmí Tréaniolraí
 :Table2H-CornerHeading_en: Strong Plural Classes
@@ -469,8 +469,8 @@
 :2-3-4-b-title_ga: Lagiolraí
 :2-3-4-b-title_en: Weak Plurals
 
-:Table2I-Title_ga: Lagiolraí sa Dara Díochlaonadh — Samplaí
-:Table2I-Title_en: Weak Plurals in the Second Declension — Examples
+:Table2I-Title_ga: Lagiolraí sa Dara Díochlaonadh &mdash; Samplaí
+:Table2I-Title_en: Weak Plurals in the Second Declension &mdash; Examples
 
 :Table2I-CornerHeading_ga: Aicmí Lagiolraí
 :Table2I-CornerHeading_en: Weak Plural Classes
@@ -520,8 +520,8 @@
 :2-4-3-a-title_ga: Tréaniolraí
 :2-4-3-a-title_en: Strong Plurals
 
-:Table2J-Title_ga: Tréaniolraí sa Tríú Díochlaonadh — Samplaí
-:Table2J-Title_en: Strong Plurals in the Third Declension — Examples
+:Table2J-Title_ga: Tréaniolraí sa Tríú Díochlaonadh &mdash; Samplaí
+:Table2J-Title_en: Strong Plurals in the Third Declension &mdash; Examples
 
 :Table2J-CornerHeading_ga: Aicmí Tréaniolraí
 :Table2J-CornerHeading_en: Strong Plural Classes
@@ -565,8 +565,8 @@
 :2-4-3-b-title_ga: Lagiolraí
 :2-4-3-b-title_en: Weak Plurals
 
-:Table2K-Title_ga: Lagiolraí sa Tríú Díochlaonadh — Samplaí
-:Table2K-Title_en: Weak Plurals in the Third Declension — Examples
+:Table2K-Title_ga: Lagiolraí sa Tríú Díochlaonadh &mdash; Samplaí
+:Table2K-Title_en: Weak Plurals in the Third Declension &mdash; Examples
 
 :Table2K-CornerHeading_ga: Aicmí Lagiolraí
 :Table2K-CornerHeading_en: Weak Plural Classes
@@ -608,13 +608,13 @@
 :2-5-3-p1_en: The vast majority of the nouns in this declension have strong plurals.
 
 :2-5-3-p2_ga: Tabhair faoi deara go bhfuil patrún an Cheathrú Díochlaonadh le feiceáil i gcolún an uatha sa tábla ina dhiaidh seo, is é sin, gurb ionann foirm an ghinidigh uatha agus foirm an ainmnigh uatha.
-:2-5-3-p2_en: Note that the Fourth Declension's pattern is shown in the singular column in the below table, that is, that the form of the genitive singular is the same as the form of the nominative plural.
+:2-5-3-p2_en: Note that the Fourth Declension's pattern is shown in the singular column in the table below, that is, that the form of the genitive singular is the same as the form of the nominative plural.
 
 :2-5-3-a-title_ga: Tréaniolraí
 :2-5-3-a-title_en: Strong Plurals
 
-:Table2L-Title_ga: Tréaniolraí sa Cheathrú Díochlaonadh — Samplaí
-:Table2L-Title_en: Strong Plurals in the Fourth Declension — Examples
+:Table2L-Title_ga: Tréaniolraí sa Cheathrú Díochlaonadh &mdash; Samplaí
+:Table2L-Title_en: Strong Plurals in the Fourth Declension &mdash; Examples
 
 :Table2L-CornerHeading_ga: Aicmí Tréaniolraí
 :Table2L-CornerHeading_en: Strong Plural Classes
@@ -652,8 +652,8 @@
 :Table2L-rh7_ga: Ainmfhocail ilghnéitheacha
 :Table2L-rh7_en: Miscellaneous nouns
 
-:2-5-3-Note_ga: Tabhair faoi deara go mbaineann na hainmfhocail seo a leanas, nach dual dóibh foirm iolra a bheith orthu, leis an díochlaonadh seo freisin: _cruach_ (sa bhrí _miotal_), _dóthain_, _gorta_, _iomad_, _lucht_ (sa bhrí _daoine_), _oiread_, _tobac;_ mar aon le hainmneacha pearsanta áirithe, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
-:2-5-3-Note_en: Note that in the following nouns, which do not necessarily have a plural form, also belong to this declension: _cruach_ (meaning _miotal_), _dóthain_, _gorta_, _iomad_, _lucht_ (meaning _daoine_), _oiread_, _tobac;_ along with some personal names, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
+:2-5-3-Note_ga: Tabhair faoi deara go mbaineann na hainmfhocail seo a leanas, nach dual dóibh foirm iolra a bheith orthu, leis an díochlaonadh seo freisin: _cruach_ (sa bhrí _miotal_), _dóthain_, _gorta_, _iomad_, _lucht_ (sa bhrí _daoine_), _oiread_, _tobac_; mar aon le hainmneacha pearsanta áirithe, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
+:2-5-3-Note_en: Note that in the following nouns, which do not necessarily have a plural form, also belong to this declension: _cruach_ (meaning _miotal_), _dóthain_, _gorta_, _iomad_, _lucht_ (meaning _daoine_), _oiread_, _tobac_; along with some personal names, e.g., _Cáit_, _Liam_, _Pilib_, _Siobhán_, _Uileag_.
 
 :2-6-title_ga: An Cúigiú Díochlaonadh
 :2-6-title_en: The Fifth Declension
@@ -679,8 +679,8 @@
 :2-6-2-a-title_ga: Tréaniolraí
 :2-6-2-a-title_en: Strong Plurals
 
-:Table2M-title_ga: Tréaniolraí sa Chúigiú Díochlaonadh — Samplaí
-:Table2M-title_en: Strong Plurals in the Fifth Declension — Examples
+:Table2M-title_ga: Tréaniolraí sa Chúigiú Díochlaonadh &mdash; Samplaí
+:Table2M-title_en: Strong Plurals in the Fifth Declension &mdash; Examples
 
 :Table2M-CornerHeading_ga: Aicmí Tréaniolraí
 :Table2M-CornerHeading_en: Strong Plural Classes
@@ -724,8 +724,8 @@
 :2-7-p_ga: Ní fhreagraíonn infhilleadh na n-ainmfhocal seo a leanas d'aon cheann de na díochlaontaí:
 :2-7-p_en: The inflections of the following nouns do not correspond to any of the declensions:
 
-:Table2N-Title_ga: Ainmfhocail Neamhrialta — Samplaí
-:Table2N-Title_en: Irregular Nouns — Examples
+:Table2N-Title_ga: Ainmfhocail Neamhrialta &mdash; Samplaí
+:Table2N-Title_en: Irregular Nouns &mdash; Examples
 
 :Table2N-masc_ga: fir.
 :Table2N-masc_en: masc.

@@ -97,8 +97,8 @@
 :row15-term_ga: cuspóir
 :row15-term_en: accusative
 
-:row15-definition_ga: ainmfhocal (nó a chothrom) a sheasann do dhuine (nó rud) ar a ndéantar gníomhú, e.g., _léigh mé **leabhar**_; _tá an *leabhar* léite agam_; _léigh mé *é*;_
-:row15-definition_en: a noun (or its equivalent) that represents a person (or thing) on which an action is performed, e.g., _léigh mé **leabhar**_; _tá an *leabhar* léite agam_; _léigh mé *é*;_
+:row15-definition_ga: ainmfhocal (nó a chothrom) a sheasann do dhuine (nó rud) ar a ndéantar gníomhú, e.g., _léigh mé **leabhar**_; _tá an *leabhar* léite agam_; _léigh mé *é*_;
+:row15-definition_en: a noun (or its equivalent) that represents a person (or thing) on which an action is performed, e.g., _léigh mé **leabhar**_; _tá an *leabhar* léite agam_; _léigh mé *é*_;
 
 :row16-term_ga: díspeagadh
 :row16-term_en: diminutive

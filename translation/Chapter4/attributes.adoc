@@ -89,7 +89,7 @@
 :4-2-5-title_en: Lenition of Attributive Adjective in the Plural
 
 :4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin link:./chapter10-ga.html#sec_10_3_1[10.3.1]).
-:4-2-5-p_en: In the plural, the initial consonant of the adjective is lenited if the plural noun starts with a slender consonant, as in the below table (see also link:./chapter10-en.html#sec_10_3_1[10.3.1]).
+:4-2-5-p_en: In the plural, the initial consonant of the adjective is lenited if the plural noun starts with a slender consonant, as in the table below (see also link:./chapter10-en.html#sec_10_3_1[10.3.1]).
 
 :nopass-Table4B-caption_ga: {4-2-5-title}
 :nopass-Table4B-caption_en: {4-2-5-title}

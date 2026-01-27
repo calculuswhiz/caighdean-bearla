@@ -424,7 +424,7 @@
 :7-2-2-B-b-iii-4_en: adjectival adverbs, e.g., _Dúirt sé go mb'annamh a théadh sé ann_.
 
 :7-2-2-B-b-p2_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach den chopail i bpríomhchlásal atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-2-2-B-b-p2_en: In the below table, the positive form of copula is set out in a main clause that is in the past tense, the past habitual tense or the conditional mood.
+:7-2-2-B-b-p2_en: In the table below, the positive form of copula is set out in a main clause that is in the past tense, the past habitual tense or the conditional mood.
 
 :Table7F-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7F-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
@@ -475,7 +475,7 @@
 :7-2-3-B-title_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-2-3-B-p_ga: Sa tábla thíos, leagtar amach an fhoirm dheimhneach agus an fhoirm dhiúltach den chopail i gclásal coibhneasta díreach atá san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-2-3-B-p_en: In the below table, the positive and negative forms of the copula in a direct relative clause that is in the past tense, the past habitual tense or the conditional mood are given.
+:7-2-3-B-p_en: In the table below, the positive and negative forms of the copula in a direct relative clause that is in the past tense, the past habitual tense or the conditional mood are given.
 
 :Table7I-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7I-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
