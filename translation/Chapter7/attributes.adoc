@@ -5,7 +5,7 @@
 :7-1-title_en: General
 
 :7-1-p1_ga: Úsáidtear an chopail chun dhá fhocal nó dhá abairtín a cheangal le chéile.
-:7-1-p1_en: The copula is used to associate two words or phrases together.
+:7-1-p1_en: The copula is used to associate two words or two phrases together.
 
 :7-1-p2_ga: Is ionann an leagan den chopail a úsáidtear san aimsir láithreach agus an leagan a úsáidtear san aimsir fháistineach. Ina theannta sin, is ionann an leagan den chopail a úsáidtear san aimsir chaite agus an leagan a úsáidtear san aimsir ghnáthchaite agus sa mhodh coinníollach. Tabhair faoi deara, más san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach atá faisnéis na habairte, nach gá go mbeadh aimsir na copaile agus aimsir fhaisnéis na habairte ag aontú le chéile. Féach link:#sec_7_2[7.2] le haghaidh fhoirmeacha simplí na copaile.
 :7-1-p2_en: The form of the copula used in the present tense is the same as that used in the future tense. Moreover, the form of the copula, when used in the past tense, the past habitual tense, and the conditional mood, is the same. Bear in mind, if the predicate of the sentence is in the past tense, the present tense, or the conditional mood, the tense of the copula and the tense of the predicate would not necessarily agree with each other. See link:#sec_7_2[7.2] for simple forms of the copula.
@@ -16,8 +16,8 @@
 :7-1-1-p_ga: Is iad príomhfheidhmeanna na copaile --
 :7-1-1-p_en: The primary functions of the copula are --
 
-:7-1-1-a-text_ga: an t-ainmní a aicmiú:
-:7-1-1-a-text_en: classification of the subject:
+:7-1-1-a-p_ga: an t-ainmní a aicmiú:
+:7-1-1-a-p_en: classification of the subject:
 
 :7-1-1-a-sample1_ga: *Is* sáraisteoir í. 
 :7-1-1-a-sample1_en: She is an excellent actor.
@@ -31,8 +31,8 @@
 :7-1-1-a-sample4_ga: *Is* fear é. 
 :7-1-1-a-sample4_en: He is a man.
 
-:7-1-1-b-text_ga: an t-ainmní a ionannú:
-:7-1-1-b-text_en: identification of the subject:
+:7-1-1-b-p_ga: an t-ainmní a ionannú:
+:7-1-1-b-p_en: identification of the subject:
 
 :7-1-1-b-sample1_ga: *Ba* í Úna an bainisteoir. 
 :7-1-1-b-sample1_en: Úna was the manager.
@@ -40,8 +40,8 @@
 :7-1-1-b-sample2_ga: *Is* é Baile Átha Cliath príomhchathair na hÉireann. 
 :7-1-1-b-sample2_en: Dublin is the capital of Ireland.
 
-:7-1-1-c-text_ga: an t-ainmní a cháiliú le faisnéis aidiachtach nó le frása a thosaíonn ar réamhfhocal:
-:7-1-1-c-text_en: qualification of the subject with a predicate adjective or with a phrase starting with a preposition:
+:7-1-1-c-p_ga: an t-ainmní a cháiliú le faisnéis aidiachtach nó le frása a thosaíonn ar réamhfhocal:
+:7-1-1-c-p_en: qualification of the subject with a predicate adjective or with a phrase starting with a preposition:
 
 :7-1-1-c-sample1_ga: *Nach* deas é? 
 :7-1-1-c-sample1_en: Isn't it nice?
@@ -55,8 +55,8 @@
 :7-1-1-c-sample4_ga: *Is* as an Muileann gCearr di. 
 :7-1-1-c-sample4_en: She is from Mullingar.
 
-:7-1-1-d-text_ga: ainmfhocal nó clásal a cháiliú le haidiacht, nó le hainmfhocal, móide forainmneach réamhfhoclach:
-:7-1-1-d-text_en: qualification of a noun or clause, or with a noun plus a prepositional pronominal:
+:7-1-1-d-p_ga: ainmfhocal nó clásal a cháiliú le haidiacht, nó le hainmfhocal, móide forainmneach réamhfhoclach:
+:7-1-1-d-p_en: qualification of a noun or clause, or with a noun plus a prepositional pronominal:
 
 :7-1-1-d-sample1_ga: *Is* maith léi an chispheil. 
 :7-1-1-d-sample1_en: She likes basketball.
@@ -76,19 +76,17 @@
 :7-1-1-d-sample6_ga: *Is* dona linn an briseadh seo. 
 :7-1-1-d-sample6_en: We are sorry for this break.
 
-:7-1-1-e-text_ga: ainmfhocal a cháiliú le breischéim aidiachta:
-:7-1-1-e-text_en: qualification of a noun with a comparative adjective:
-
+:7-1-1-e-p_ga: ainmfhocal a cháiliú le breischéim aidiachta:
+:7-1-1-e-p_en: qualification of a noun with a comparative adjective:
 
 :7-1-1-e-sample1_ga: Tabhair leat an ceann *is* fearr leat. 
-:7-1-1-e-sample1_en: Take the one you prefer.
+:7-1-1-e-sample1_en: Take the one you like best.
 
 :7-1-1-e-sample2_ga: Bhí na milseáin *ba* dheise ite sular shroich mé an chóisir. 
 :7-1-1-e-sample2_en: The nicest sweets were eaten before I arrived at the party.
 
-:7-1-1-f-text_ga: úinéireacht nó gaol idir daoine a chur in iúl trína húsáid leis an réamhfhocal _le_:
-:7-1-1-f-text_en: expression of ownership or relationship between people using the preposition _le_:
-
+:7-1-1-f-p_ga: úinéireacht nó gaol idir daoine a chur in iúl trína húsáid leis an réamhfhocal _le_:
+:7-1-1-f-p_en: expression of ownership or relationship between people using the preposition _le_:
 
 :7-1-1-f-sample1_ga: *Ba* liomsa é. 
 :7-1-1-f-sample1_en: It was mine.
@@ -105,9 +103,8 @@
 :7-1-1-f-sample5_ga: *Is* comhghleacaí le Cáit eisean. 
 :7-1-1-f-sample5_en: He is Cáit's colleague.
 
-:7-1-1-g-text_ga: clásal a cháiliú le haidiacht:
-:7-1-1-g-text_en: qualification of a clause with an adjective:
-
+:7-1-1-g-p_ga: clásal a cháiliú le haidiacht:
+:7-1-1-g-p_en: qualification of a clause with an adjective:
 
 :7-1-1-g-sample1_ga: *Is* gearr go mbeidh a fhios againn. 
 :7-1-1-g-sample1_en: Soon we will know.
@@ -124,8 +121,8 @@
 :7-1-1-g-sample5_ga: **B'**fhada ag teacht é. 
 :7-1-1-g-sample5_en: He was a long time coming.
 
-:7-1-1-h-text_ga: béim a leagan ar chuid den abairt:
-:7-1-1-h-text_en: emphasizing part of the sentence:
+:7-1-1-h-p_ga: béim a leagan ar chuid den abairt:
+:7-1-1-h-p_en: emphasizing part of the sentence:
 
 :7-1-1-h-sample1_ga: *Ní* inniu ná inné a saolaíodh eisean. 
 :7-1-1-h-sample1_en: "He was not born today or yesterday.
@@ -154,9 +151,8 @@
 :7-1-1-h-sample9_ga: *Is* é Peadar a dhéanfadh an beart dá mbeadh sé anseo. 
 :7-1-1-h-sample9_en: Peadar would make the move if he were here.
 
-:7-1-1-i-text_ga: í a úsáid in abairtí a chuireann comparáid in iúl:
-:7-1-1-i-text_en: using it in sentences that express a comparison:
-
+:7-1-1-i-p_ga: í a úsáid in abairtí a chuireann comparáid in iúl:
+:7-1-1-i-p_en: using it in sentences that express a comparison:
 
 :7-1-1-i-sample1_ga: *Is* troime bonn dhá phingin ná bonn pingine. 
 :7-1-1-i-sample1_en: A twopence is heavier than a penny.
@@ -165,7 +161,7 @@
 :7-1-1-i-sample2_en: The sun is brighter than either the moon or the planets.
 
 :7-1-1-i-sample3_ga: *Ní* lia tír ná nós. 
-:7-1-1-i-sample3_en: Countries aren't more numerous than customs. (figuratively: so many men, so many minds)
+:7-1-1-i-sample3_en: Countries aren't more numerous than customs. (_figuratively: so many men, so many minds_)
 
 :7-1-1-i-sample4_ga: *Nach* treise dúchas ná oiliúint? 
 :7-1-1-i-sample4_en: Isn't nature stronger than nurture?
@@ -177,7 +173,7 @@
 :7-2-title_en: Simple Forms of the Copula and Initial Mutation
 
 :7-2-a-p_ga: Is ionann foirm shimplí agus foirm den chopail nach bhfuil i gcumasc le forainmneach ceisteach, réamhfhocal nó cónasc.
-:7-2-a-p_en: A simple form is a form of the copula that is not combined with an interrogative pronominal, preposition or conjunction.
+:7-2-a-p_en: A simple form is a form of the copula that is not composed with an interrogative pronominal, preposition or conjunction.
 
 :7-2-b-p1_ga: Leagtar amach anseo foirmeacha simplí na copaile:
 :7-2-b-p1_en: The simple forms of copula are given here:
@@ -617,91 +613,91 @@
 :7-3-title_en: Compound Forms of the Copula
 
 :7-3-1-title_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail
-:7-3-1-title_en: Interrogative Pronominals combined with the copula
+:7-3-1-title_en: Interrogative Pronominals composed with the copula
 
 :7-3-1-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-3-1-A-title_en: The Present Tense and the Future Tense
 
 :7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach link:./chapter8-ga.html#sec_8_5_4[8.5.4]).
-:7-3-1-A-p_en: In the table below, examples of interrogative pronominals combined with the copula in the present tense or future tense are given (see link:./chapter8-en.html#sec_8_5_4[8.5.4]).
+:7-3-1-A-p_en: In the table below, examples of interrogative pronominals composed with the copula in the present tense or future tense are given (see link:./chapter8-en.html#sec_8_5_4[8.5.4]).
 
 :Table7M-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7M-header_en: The Present Tense and Future Tense
 
 :Table7M-caption_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
-:Table7M-caption_en: Interrogative Pronominals combined with the copula — The Present Tense and Future Tense
+:Table7M-caption_en: Interrogative Pronominals composed with the copula — The Present Tense and Future Tense
 
 :7-3-1-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :7-3-1-B-title_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-3-1-B-p1_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-3-1-B-p1_en: In the table below, examples of interrogative pronominals combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
+:7-3-1-B-p1_en: In the table below, examples of interrogative pronominals composed with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
 :Table7N-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7N-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :Table7N-caption_ga: Forainmnigh Cheisteacha i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
-:Table7N-caption_en: Interrogative Pronominals combined with the Copula — The Past Tense, Past Habitual Tense and Conditional Mood
+:Table7N-caption_en: Interrogative Pronominals composed with the Copula — The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-3-1-p_ga: Tabhair faoi deara nach n-úsáidtear an cumasc _cérbh_ ach roimh _é_, _í_, _eisean_, _ise_, _iad_ agus _iadsan_. Ní dhéantar cumasc idir _cé_ agus na foirmeacha _ab_ nó _ba_ den chopail nuair nach forainmneach pearsanta a leanann _cé_: _cérbh é_; ach _cé ab fhearr_?; _cé ba chaptaen oraibh_?
 :7-3-1-p_en: Note that the compound _cérbh_ is only used before _é_, _í_, _eisean_, _ise_, _iad_ and _iadsan_. _cé_ does not merge with the _ab_ or _ba_ forms of the copula when _cé_ is not followed by a personal pronominal: _cérbh é_; but _cé ab fhearr_?; _cé ba chaptaen oraibh_?
 
 :7-3-2-title_ga: Réamhfhocail i gcumasc leis an gCopail
-:7-3-2-title_en: Prepositions in combination with the Copula
+:7-3-2-title_en: Prepositions composed with the Copula
 
 :7-3-2-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-3-2-A-title_en: The Present Tense and the Future Tense
 
 :7-3-2-A-p_ga: Sa tábla thíos, leagtar amach samplaí de réamhfhocail i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach.
-:7-3-2-A-p_en: In the table below, examples of prepositions combined with the copula in the present tense or future tense are given.
+:7-3-2-A-p_en: In the table below, examples of prepositions composed with the copula in the present tense or future tense are given.
 
 :Table7O-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7O-header_en: The Present Tense and Future Tense
 
 :Table7O-caption_ga: Réamhfhocail i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
-:Table7O-caption_en: Prepositions in combination with the Copula — The Present Tense and Future Tense
+:Table7O-caption_en: Prepositions composed with the Copula — The Present Tense and Future Tense
 
 :7-3-2-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :7-3-2-B-title_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-3-2-B-p_ga: Sa tábla thíos, leagtar amach samplaí de réamhfhocail i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-3-2-B-p_en: In the table below, examples of prepositions combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
+:7-3-2-B-p_en: In the table below, examples of prepositions composed with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
 :Table7P-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7P-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :Table7P-caption_ga: Réamhfhocail i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
-:Table7P-caption_en: Prepositions in combination with the Copula — The Past Tense, Past Habitual Tense and Conditional Mood
+:Table7P-caption_en: Prepositions composed with the Copula — The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-3-3-title_ga: Cónaisc i gcumasc leis an gCopail
-:7-3-3-title_en: Conjunctions in combination with the Copula
+:7-3-3-title_en: Conjunctions composed with the Copula
 
 :7-3-3-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-3-3-A-title_en: The Present Tense and the Future Tense
 
 :7-3-3-A-p_ga: Sa tábla thíos, leagtar amach samplaí de chónaisc i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach.
-:7-3-3-A-p_en: In the table below, examples of conjunctions combined with the copula in the present tense or future tense are given.
+:7-3-3-A-p_en: In the table below, examples of conjunctions composed with the copula in the present tense or future tense are given.
 
 :Table7Q-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7Q-header_en: The Present Tense and Future Tense
 
 :Table7Q-caption_ga: Cónaisc i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
-:Table7Q-caption_en: Conjunctions in combination with the Copula — The Present Tense and Future Tense
+:Table7Q-caption_en: Conjunctions composed with the Copula — The Present Tense and Future Tense
 
 :7-3-3-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :7-3-3-B-title_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-3-3-B-p_ga: Sa tábla thíos, leagtar amach samplaí de chónaisc i gcumasc leis an gcopail san aimsir chaite, san aimsir ghnáthchaite nó sa mhodh coinníollach.
-:7-3-3-B-p_en: In the table below, examples of conjunctions combined with the copula in the past tense, the past habitual tense or the conditional mood are given.
+:7-3-3-B-p_en: In the table below, examples of conjunctions composed with the copula in the past tense, the past habitual tense or the conditional mood are given.
 
 :Table7R-header_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :Table7R-header_en: The Past Tense, Past Habitual Tense and Conditional Mood
 
 :Table7R-caption_ga: Cónaisc i gcumasc leis an gCopail — An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
-:Table7R-caption_en: Conjunctions in combination with the Copula — The Past Tense, Past Habitual Tense and Conditional Mood
+:Table7R-caption_en: Conjunctions composed with the Copula — The Past Tense, Past Habitual Tense and Conditional Mood
 
 :7-3-4-title_ga: _má_ i gcumasc leis an gCopail
-:7-3-4-title_en: _má_ combined with the Copula
+:7-3-4-title_en: _má_ composed with the Copula
 
 :7-3-4-p_ga: Úsáidtear _má_ san aimsir láithreach, san aimsir fháistineach, san aimsir chaite agus san aimsir ghnáthchaite.
 :7-3-4-p_en: _má_ is used in the present tense, the future tense, the past tense and the past habitual tense.
@@ -710,22 +706,22 @@
 :7-3-4-A-title_en: The Present Tense and Future Tense
 
 :7-3-4-A-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach.
-:7-3-4-A-p_en: In the table below, examples of _má_ combined with the copula in the present tense or future tense are given.
+:7-3-4-A-p_en: In the table below, examples of _má_ composed with the copula in the present tense or future tense are given.
 
 :Table7S-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7S-header_en: The Present Tense and Future Tense
 
 :Table7S-caption_ga: _má_ i gcumasc leis an gCopail — An Aimsir Láithreach agus an Aimsir Fháistineach
-:Table7S-caption_en: _má_ combined with the copula — The Present Tense and Future Tense
+:Table7S-caption_en: _má_ composed with the copula — The Present Tense and Future Tense
 
 :7-3-4-B-title_ga: An Aimsir Chaite agus an Aimsir Ghnáthchaite
 :7-3-4-B-title_en: The Past Tense and the Past Habitual Tense
 
 :7-3-4-B-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir chaite nó san aimsir ghnáthchaite. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1[7.2.1]B).
-:7-3-4-B-p_en: In the table below, examples of _má_ combined with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1[7.2.1]B).
+:7-3-4-B-p_en: In the table below, examples of _má_ composed with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1[7.2.1]B).
 
 :Table7T-caption_ga: _má_ i gcumasc leis an gCopail — An Aimsir Chaite agus an Aimsir Ghnáthchaite
-:Table7T-caption_en: _má_ combined with the copula — The Past Tense and the Past Habitual Tense
+:Table7T-caption_en: _má_ composed with the copula — The Past Tense and the Past Habitual Tense
 
 :Table7T-header_ga: An Aimsir Chaite agus an Aimsir Ghnáthchaite
 :Table7T-header_en: The Past Tense and Past Habitual Tense

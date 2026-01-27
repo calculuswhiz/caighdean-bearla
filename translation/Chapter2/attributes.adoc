@@ -155,10 +155,10 @@
 :2-1-3-b-iii-p1_en: A few nouns in the Second Declension, e.g., _súil_, _leath na súile uirthi_, _radharc na súl;_ a few in the Third Declension, e.g., _mionn_, _na mionnaí marbha_, _dar bhrí na mionn;_ a few in the Fourth Declension, e.g., _bó_, _tá na ba sa gharraí_, _cró na mbó;_ a few in the Fifth Declension, e.g., _caora_, _tá na caoirigh ann_, _líon na gcaorach;_ and an occasional irregular noun, e.g., _bean_, _tá na mná ag teacht_, _hataí na mban;_ have a separate form in the genitive plural. Examples are shown in the below table.
 
 :2-1-4-title_ga: Caolú
-:2-1-4-title_en: Narrowing (Palatization)
+:2-1-4-title_en: Palatalization
 
 :2-1-4-p1_ga: Is é is caolú ann consan leathan a dhéanamh caol. Cuirtear _-i-_ roimh an gconsan deiridh chun caolú a chur in iúl, e.g., _cnoc_, _cnoic_. Déantar an caolú céanna i gcás consan deiridh a bhfuil ae roimhe, e.g., _aer_, _aeir_.
-:2-1-4-p1_en: When a broad consonant is made slender, this is narrowing. An _-i-_ is placed before the end consonant to indicate a narrowing, e.g., _cnoc_, _cnoic_. The narrowing is done in the same way if the end-consonant has an _ae_ in front, e.g., _aer_, _aeir_.
+:2-1-4-p1_en: When a broad consonant is made slender, this is palatalization. An _-i-_ is placed before the end consonant to indicate a palatalization, e.g., _cnoc_, _cnoic_. The palatalization is done in the same way if the end-consonant has an _ae_ in front, e.g., _aer_, _aeir_.
 
 :2-1-4-p2_ga: Is iondúil go n-athraítear gutaí áirithe nuair a chaolaítear an consan ina ndiaidh:
 :2-1-4-p2_en: It is customary to change certain vowels when the following consonant is narrowed:
@@ -239,7 +239,7 @@
 :Table2E-row1-cell2_en: Ends with a broad consonant, e.g., _bád_, _cás_, _ceol_, _marcach_.
 
 :Table2E-row1-cell3_ga: Caolaítear an consan deiridh, e.g., _báid_, _cáis_, _ceoil_, _marcaigh_.
-:Table2E-row1-cell3_en: Narrowing of the last consonant, e.g., _báid_, _cáis_, _ceoil_, _marcaigh_.
+:Table2E-row1-cell3_en: Palatalization of the last consonant, e.g., _báid_, _cáis_, _ceoil_, _marcaigh_.
 
 :Table2E-row1-cell4_ga: Bíonn ar aon fhoirm de ghnáth leis an nginideach uatha, e.g., _báid_, _marcaigh_.
 :Table2E-row1-cell4_en: The form is usually the same as in the genitive singular, e.g., _báid_, _marcaigh_.
@@ -320,10 +320,10 @@
 :2-2-2-title_en: The Genitive Singular
 
 :2-2-2-a_ga: Sa ghinideach uatha, caolaítear an consan deiridh, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
-:2-2-2-a_en: In the genitive singular, the last consonant is narrowed, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
+:2-2-2-a_en: In the genitive singular, the last consonant is palatalized, e.g., _bord_, _boird_; _nuachtán_, _nuachtáin_.
 
 :2-2-2-b_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú ach ní athraítear _-ia-_ go _-éi-_ sna hainmfhocail seo: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
-:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the narrowing, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
+:2-2-2-b_en: The changes under link:#sec_2_1_4[2.1.4] apply with the palatalization, but _-ia-_ is not changed to _-éi-_ in these nouns: _Brian_, _Briain_; _cliant_, _cliaint_; _fiar_, _fiair_; _giar_, _giair_; _rian_, _riain_; _srian_, _sriain_;_ agus _trian_, _triain_.
 
 :2-2-2-c_ga: Athraítear _mac_ go _mic_ sa ghinideach uatha agus san ainmneach iolra.
 :2-2-2-c_en: _mac_ is changed to _mic_ in the genitive singular and in the genitive plural.
@@ -356,10 +356,10 @@
 :2-2-4-title_en: The Plural
 
 :2-2-4-p1_ga: Tá idir lagiolraí agus tréaniolraí sa díochlaonadh seo. Is lagiolraí iad na hainmfhocail a gcaolaítear a ndeireadh, e.g., _amhrán_; _amhráin_; nó a gcuirtear _-a_ leo gan aon athrú eile, e.g., _nod_; _noda_; _úll_; _úlla_; san ainmneach iolra. Tréaniolraí is ea na hainmfhocail eile.
-:2-2-4-p1_en: There are both weak plurals and strong plurals in this declension. The nouns that narrow the final consonant are weak plurals, e.g., _amhrán_; _amhráin_; or have _-a_ with them without other changes, e.g., _nod_; _noda_; _úll_; _úlla_; in the genitive plural. All the other nouns are strong plurals.
+:2-2-4-p1_en: There are both weak plurals and strong plurals in this declension. The nouns that palatalize the final consonant are weak plurals, e.g., _amhrán_; _amhráin_; or have _-a_ with them without other changes, e.g., _nod_; _noda_; _úll_; _úlla_; in the genitive plural. All the other nouns are strong plurals.
 
 :2-2-4-p2_ga: Tabhair faoi deara go bhfuil patrún an Chéad Díochlaonta le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcaolaítear an consan deiridh agus go n-athraítear _-(e)ach_ go _-(a)igh_.
-:2-2-4-p2_en: Note that the First Declension pattern appears in the genitive singular column in the following tables, namely, that the final consonant is narrowed and _-(e)ach_ is changed to _-(a)igh_.
+:2-2-4-p2_en: Note that the First Declension pattern appears in the genitive singular column in the following tables, namely, that the final consonant is palatalized and _-(e)ach_ is changed to _-(a)igh_.
 
 :2-2-4-a_ga: Tréaniolraí
 :2-2-4-a_en: Strong Plurals
@@ -386,13 +386,13 @@
 :2-3-2-title_en: The Genitive Singular
 
 :2-3-2-a_ga: Cuirtear _-e_ leis an ainmneach uatha agus más consan leathan is críoch dó caolaítear é, e.g., _bróg_, _bróige_; _coill_, _coille_; _earr_, _eirre_; ach amháin i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_.
-:2-3-2-a_en: An _-e_ is put with the nominative singular and if it ends with a broad consonant, it is narrowed, e.g., _bróg_, _bróige_; _coill_, _coille_; _earr_, _eirre_; except with polysyllabic nouns ending with _-(e)ach_.
+:2-3-2-a_en: An _-e_ is put with the nominative singular and if it ends with a broad consonant, it is palatalized, e.g., _bróg_, _bróige_; _coill_, _coille_; _earr_, _eirre_; except with polysyllabic nouns ending with _-(e)ach_.
 
 :2-3-2-b_ga: I gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, déantar _-(a)í_ den _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
 :2-3-2-b_en: When polysyllabic nouns end with _-(e)ach_, make _-(a)í_ from _-(e)ach_, e.g., _scornach_, _scornaí_; _cailleach_, _caillí_.
 
 :2-3-2-c-p1_ga: Gabhann na hathruithe a luaitear faoi link:#sec_2_1_4[2.1.4] leis an gcaolú faoi réir na n-ainmfhocal seo a leanas:
-:2-3-2-c-p1_en: The narrowing changes mentioned in link:#sec_2_1_4[2.1.4] apply to the nouns as follows:
+:2-3-2-c-p1_en: The palatalization changes mentioned in link:#sec_2_1_4[2.1.4] apply to the nouns as follows:
 
 :2-3-2-c-i_ga: _-ea-_ go _-ei-_, e.g., _beach_, _beiche_ (athraítear _-ea-_ go _-i-_ san ainmfhocal aonsiollach, e.g., _beann_, _binne_; _cearc_, _circe_; agus sa siolla neamhaiceanta d'ainmfhocail ilsiollacha, e.g., _bruinneall_, _bruinnille_; _ficheall_, _fichille_); agus
 :2-3-2-c-i_en: _-ea-_ to _-ei-_, e.g., _beach_, _beiche_ (_-ea-_ is changed to _-i-_ in a monosyllabic noun, e.g., _beann_, _binne_; _cearc_, _circe_; and in the unaccented syllable of the polysyllabic noun, e.g., _bruinneall_, _bruinnille_; _ficheall_, _fichille_); and
@@ -419,7 +419,7 @@
 :2-3-4-p1_en: There are weak plurals and strong plurals in this declension.
 
 :2-3-4-p2_ga: Tabhair faoi deara go bhfuil patrún an Dara Díochlaonadh le feiceáil i gcolún an ghinidigh uatha sna táblaí ina dhiaidh seo, is é sin, go gcríochnaíonn an ginideach uatha ar _-e_ agus go gcaolaítear an consan deiridh más consan leathan é, agus i gcás ainmfhocail ilsiollacha a chríochnaíonn ar _-(e)ach_, go n-athraítear _-(e)ach_ go _-(a)í_.
-:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables, that is, the genitive singular ends with _-e_ and the final consonant is narrowed if it is a broad consonant, and for polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
+:2-3-4-p2_en: Note that the pattern of the Second Declension is seen in the genitive singular column in the following tables, that is, the genitive singular ends with _-e_ and the final consonant is palatalized if it is a broad consonant, and for polysyllabic nouns ending in _-each_, _-each_ is changed to _-(a)í_.
 
 :2-3-4-a-title_ga: Tréaniolraí
 :2-3-4-a-title_en: Strong Plurals

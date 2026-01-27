@@ -94,15 +94,23 @@ npm run generate-docs
 # Translation notes
 - **US or UK spelling?** - Currently, the English translation uses US spelling as I am from the US. If this project gains any traction, a separate translation set shall be created for en_GB.
 
-- **"Case"** - The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to avoid the word "case" altogether unless the grammatical case is meant.
-
 - **Machine Translation** - Machine translation (usually Google Translate/Copilot GPT autocomplete) is used extensively to assist with the translation. These are to be vetted with caution due to hallucination potential.
 
 - **Generative AI Assistance** - After much trial, Copilot/GPT autocmplete has proven to get fairly decent results on average, if for no other reason than it generates easy translations quickly. Of course, it will make hallucinatory mistakes, especially on specific grammar terms, so it is not to be used without caution.
 
 - **Sample Boxes** - The gray boxes that show examples will generally be more literally translated to highlight Irish Grammar points (with some attempt to bold corresponding words). If the correspondence does not help, no words may be bolded. If the translation does not serve for this, it may be omitted.
 
+## Specific terms
+
+- **"Case"** - The phrase "i gcás" literally means "in case." Normally, this is a fine translation. However, Irish is a language with several grammatical "cases" as well. In order to avoid ambiguity, I will elect to avoid the word "case" altogether unless the grammatical case is meant.
+
 - **"Pronominal"** - FGB distinguishes between "pronoun" (forainm) and "pronominal" (forainmneach). This translation will strive to keep this distinction.
+
+- **Grammatical Numbers** - It is usually not necessary in English to include the word "number" after "singular" or "plural" to denote the grammatical number. It can be omitted.
+
+- **Déantar cumasc** - Lit. "Mixture/merge/fusion is done" will be translated as "composed", based on the [linguistic compound](https://en.wikipedia.org/wiki/Compound_(linguistics)). See https://www.tearma.ie/id/3473189/.
+
+- **Caol** - Slender (letter)
 
 ## Abbreviations and sources
 Some of these may appear in annotations and comments in the Asciidoc code.

@@ -13,7 +13,7 @@
 {7-1-1-p}
 
 [list-[lower-alpha]]
-a. {7-1-1-a-text}
+a. {7-1-1-a-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -24,7 +24,7 @@ a. {7-1-1-a-text}
 | {7-1-1-a-sample4_ga} | {7-1-1-a-sample4} 
 |===
 
-b. {7-1-1-b-text}
+b. {7-1-1-b-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -33,7 +33,7 @@ b. {7-1-1-b-text}
 | {7-1-1-b-sample2_ga} | {7-1-1-b-sample2}
 |===
 
-c. {7-1-1-c-text}
+c. {7-1-1-c-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -44,7 +44,7 @@ c. {7-1-1-c-text}
 | {7-1-1-c-sample4_ga} | {7-1-1-c-sample4}
 |===
 
-d. {7-1-1-d-text}
+d. {7-1-1-d-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -57,7 +57,7 @@ d. {7-1-1-d-text}
 | {7-1-1-d-sample6_ga} | {7-1-1-d-sample6}
 |===
 
-e. {7-1-1-e-text}
+e. {7-1-1-e-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -66,7 +66,7 @@ e. {7-1-1-e-text}
 | {7-1-1-e-sample2_ga} | {7-1-1-e-sample2}
 |===
 
-f. {7-1-1-f-text}
+f. {7-1-1-f-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -78,7 +78,7 @@ f. {7-1-1-f-text}
 | {7-1-1-f-sample5_ga} | {7-1-1-f-sample5}
 |===
 
-g. {7-1-1-g-text}
+g. {7-1-1-g-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -90,7 +90,7 @@ g. {7-1-1-g-text}
 | {7-1-1-g-sample5_ga} | {7-1-1-g-sample5}
 |===
 
-h. {7-1-1-h-text}
+h. {7-1-1-h-p}
 +
 [.samplebox]
 [cols="1,1"]
@@ -105,7 +105,7 @@ h. {7-1-1-h-text}
 | {7-1-1-h-sample8_ga} | {7-1-1-h-sample8}
 | {7-1-1-h-sample9_ga} | {7-1-1-h-sample9}
 |===
-i. {7-1-1-i-text}
+i. {7-1-1-i-p}
 +
 [.samplebox]
 [cols="1,1"]

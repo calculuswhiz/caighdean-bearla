@@ -1,17 +1,17 @@
 :chapterTitle_ga: An tAlt
 :chapterTitle_en: The Article
 
-:1-1-1-p_ga: Alt amháin atá sa Ghaeilge -- an t-alt cinnte. Deirtear gur _ainmfhocal cinnte_ ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: _an_ agus _na_. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
-:1-1-1-p_en: There is one article in the Irish language -- the definite article. The subject of the article is called the definite noun. Here the article has two forms: _an_ and _na_. The article is placed before the noun, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte;_ or before whatever word is put before the noun as a qualifier e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. It is possible to replace the article with possessive adjectives e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
+:1-1-1-p_ga: Alt amháin atá sa Ghaeilge -- an t-alt cinnte. Deirtear gur _ainmfhocal cinnte_ ainmfhocal atá faoi réir ag an alt. Tá dhá fhoirm den alt ann: _an_ agus _na_. Is roimh an ainmfhocal a chuirtear an t-alt, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte_; nó roimh cibé focal a chuirtear roimh an ainmfhocal lena cháiliú, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. Is féidir an t-alt a chur in ionad na haidiachta sealbhaí, e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
+:1-1-1-p_en: There is one article in the Irish language -- the definite article. The subject of the article is called the _definite noun_. The article has two forms: _an_ and _na_. The article is placed before the noun, e.g., _an baile_; _an mhír_; _na caoirigh_; _teach na cúirte_; or before whatever word is put before the noun to qualify it, e.g., _an uile dhuine_; _scéal mhadra na n-ocht gcos_; _tús na chéad seachtaine_. It is possible to replace the article with the possessive adjective e.g., _Tá an croí ag cur air_; _Bhí an ghrian ag baint na súl asam_.
 
-:1-1-2-p_ga: Is litir bheag a bhíonn ar an alt i lár abairte, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., _Cé a scríobh An tOileánach?_
-:1-1-2-p_en: The article is written with a small letter in the middle of sentences e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac;_ except in certain contexts such as publication titles e.g., _Cé a scríobh An tOileánach?_
+:1-1-2-p_ga: Is litir bheag a bhíonn ar an alt i lár abairte, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac_; ach amháin i gcásanna áirithe amhail teidil foilseachán, e.g., _Cé a scríobh An tOileánach?_
+:1-1-2-p_en: The article is written with a small letter in the middle of sentences, e.g., _Nach raibh tú ag an Oireachtas i mbliana?_; _Bhí aithne mhaith agam ar an Seabhac_; except in certain contexts such as publication titles e.g., _Cé a scríobh An tOileánach?_
 
 :1-1-3-p_ga: Má tá teideal a bhfuil an t-alt ann (féach link:#sec_1_1_5[1.1.5] (a), (b) agus (c)) á scríobh ina aonar, mar shampla ar fhógra poiblí nó ar cheannpháipéar, cuirtear an t-alt leis i gcónaí agus is ceannlitir a bhíonn air, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
-:1-1-3-p_en: If a title containing an article (see link:#sec_1_1_5[1.1.5] (a), (b) and (c)) is written on its own, for example on a public notice or on head paper, always include the article and capitalize it e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
+:1-1-3-p_en: If a title containing an article (see link:#sec_1_1_5[1.1.5] (a), (b) and (c)) is written on its own, for example on a public notice or on a cover sheet, the article is always included and is capitalized, e.g., _An Ghníomhaireacht um Thacaíocht Teaghlaigh_; _Na Coimisinéirí Ioncaim_; _An Ceoláras Náisiúnta_.
 
-:1-1-4-p_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, ach amháin nuair is ceannlitir an guta, e.g., _an t-ospidéal_, _an tAlbanach_. Ní chuirtear fleiscín idir an réamhlitir _t_ agus _s_, e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ ná idir an réamhlitir _h_ agus guta, e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
-:1-1-4-p_en: Put a hyphen between the preliminary letter _t_ and a vowel, except when the vowel is capitalized e.g., _an t-ospidéal_, _an tAlbanach_. Do not put a hyphen between the preliminary letter _t_ and _s_ e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil;_ or between the preliminary letter _h_ and a vowel e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
+:1-1-4-p_ga: Cuirtear fleiscín idir an réamhlitir _t_ agus guta, ach amháin nuair is ceannlitir an guta, e.g., _an t-ospidéal_, _an tAlbanach_. Ní chuirtear fleiscín idir an réamhlitir _t_ agus _s_, e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil_; ná idir an réamhlitir _h_ agus guta, e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
+:1-1-4-p_en: A hyphen is placed between the initial letter _t_ and a vowel, except when the vowel is capitalized, e.g., _an t-ospidéal_, _an tAlbanach_. A hyphen is not placed between the initial letter _t_ and _s_, e.g., _an tsaoirse_; _an tSionainn_; _tús an tsaoil_; nor between the initial letter _h_ and a vowel, e.g., _na hainmneacha_; _lár na habairte_; _stair na hUachtaránachta_.
 
 :1-1-5-p_ga: Úsáidtear an t-alt sna cásanna seo a leanas.
 :1-1-5-p_en: The article is used in the following contexts.
@@ -53,13 +53,13 @@
 :1-1-5-c-sample1_en: *Father Peadar Ua Laoghaire* wrote the play _An Sprid_.
 
 :1-1-5-c-sample2_ga: Labhair *an Captaen Ó Murchú* leis na himreoirí.
-:1-1-5-c-sample2_en: *Captain Ó Murchu* spoke to the players. 
+:1-1-5-c-sample2_en: *Captain Ó Murchú* spoke to the players. 
 
 :1-1-5-c-sample3_ga: Bhí *an tUachtarán Mhic Róibín* le feiceáil sa ghrianghraf.
-:1-1-5-c-sample3_en: *President Robinson* was to be seen in the photograph. 
+:1-1-5-c-sample3_en: *President Mhic Róibín* was to be seen in the photograph. 
 
 :1-1-5-c-sample4_ga: Beidh *an Dochtúir de Barra* ar saoire ar feadh seachtaine.
-:1-1-5-c-sample4_en: *Doctor De Barra* will be on holiday for the week. 
+:1-1-5-c-sample4_en: *Doctor de Barra* will be on holiday for the week. 
 
 :1-1-5-c-sample5_ga: Tá *an Múinteoir Ailbhe* i bhfeighil ar rang a sé i mbliana.
 :1-1-5-c-sample5_en: *Teacher Ailbhe* is in charge of sixth class this year.
@@ -80,7 +80,7 @@
 :1-1-5-d-sample3_en: I gave up drinking for *Lent*. 
 
 :1-1-5-d-p2_ga: Tabhair faoi deara nach n-úsáidtear an t-alt i leaganacha dobhriathartha áirithe, e.g., _faoi Cháisc_, _um Nollaig_, _faoi Bhealtaine_.
-:1-1-5-d-p2_en: Note that the article is not used in certain adverbial situations e.g., _faoi Cháisc_, _um Nollaig_, _faoi Bhealtaine_.
+:1-1-5-d-p2_en: Note that the article is not used in certain adverbial forms, e.g., _faoi Cháisc_, _um Nollaig_, _faoi Bhealtaine_.
 
 :1-1-5-e-p1_ga: *Laethanta na seachtaine*, e.g., _an Luan_, _an Mháirt_, _an Chéadaoin_.
 :1-1-5-e-p1_en: *Days of the week*, e.g., _an Luan_, _an Mháirt_, _an Chéadaoin_.
@@ -95,10 +95,10 @@
 :1-1-5-e-sample3_en: Today *is a Wednesday*.
 
 :1-1-5-e-p2_ga: Tabhair faoi deara go n-úsáidtear an dobhriathar ama _Dé_ in ionad an ailt nuair atáthar ag tagairt do lá áirithe, e.g., _Bhí mé ag caint leis Dé Céadaoin seo caite_.
-:1-1-5-e-p2_en: Note that the adverb _Dé_ is used in place of the article when referring to a particular day e.g., _Bhí mé ag caint leis Dé Céadaoin seo caite_.
+:1-1-5-e-p2_en: Note that the adverb _Dé_ is used in place of the article when referring to a particular day, e.g., _Bhí mé ag caint leis Dé Céadaoin seo caite_.
 
 :1-1-5-e-p3_ga: Má tá réamhfhocal á úsáid roimh lá áirithe, déantar an t-alt a chumasc leis an réamhfhocal, e.g., _Ní mór na hiarratais a bheith faighte faoin Aoine, an 16 Bealtaine_.
-:1-1-5-e-p3_en: If a preposition is used before certain days, the article is merged with the preposition e.g., _Ní mór na hiarratais a bheith faighte foin Aoine, an 16 Bealtaine_.
+:1-1-5-e-p3_en: If a preposition is used before certain days, a compound is formed between the article and the preposition, e.g., _Ní mór na hiarratais a bheith faighte foin Aoine, an 16 Bealtaine_.
 
 :1-1-5-f-p1_ga: Míonna na bliana
 :1-1-5-f-p1_en: Months and years
@@ -110,7 +110,7 @@
 :1-1-5-f-sample2_en: Easter is in *March* rather than *April* this year.
 
 :1-1-5-f-p2_ga: Úsáidtear an t-alt leis na míonna _Márta_, _Bealtaine_, _Meitheamh_, _Samhain_ agus _Nollaig_. Ní úsáidtear an t-alt leis na míonna eile, ach amháin sa leagan calctha _san Aibreán_.
-:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued version _san Aibreán_ (in April). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_. As best I can tell, this means that phrase's structure was borrowed from another language and adopted into Irish. See also link:#sec_1_3_2[1.3.2] for another instance.)
+:1-1-5-f-p2_en: The article is used for the months _Márta_ (March), _Bealtaine_ (May), _Meitheamh_ (June), _Samhain_ (November) and _Nollaig_ (December). The article is not used for the other months except for the calqued form _san Aibreán_ (_EN: in April_). <br /> *TL Note*: (_calqued version/form_ appears to be the intended meaning here for _leagan calctha_, not found in FGB. See also link:#sec_1_3_2[1.3.2] for another instance.)
 
 :1-1-5-g-p1_ga: Dátaí
 :1-1-5-g-p1_en: Dates
@@ -119,13 +119,13 @@
 :1-1-5-g-sample1_en: I should be done no later than *30 September* every year.
 
 :1-1-5-g-sample2_ga: Beidh an chóisir ar síúl ar *an 12 Aibreán*.
-:1-1-5-g-sample2_en: The party will be on *the 12th of April*.
+:1-1-5-g-sample2_en: The party will be on *12 April*.
 
 :1-1-5-g-sample3_ga: Baineann na ráitis airgeadais leis an mbliain dar chríoch *an 31 Nollaig 2014*.
 :1-1-5-g-sample3_en: The financial reports are for the year ended *31 December 2014*.
 
 :1-1-5-g-sample4_ga: Pósfaidh siad *an 26 Feabhra*.
-:1-1-5-g-sample4_en: They will marry on *the 26th of February*.
+:1-1-5-g-sample4_en: They will marry on *26 February*.
 
 :1-1-5-g-sample5_ga: Ní ghlacfar le haon iarratas a gheofar tar éis *an 7 Márta 2016*.
 :1-1-5-g-sample5_en: No applications will be accepted after *7 March 2016*.
@@ -134,19 +134,19 @@
 :1-1-5-g-p2_en: The article should be used when referring to a date in a sentence.
 
 :1-1-5-g-p3_ga: Nuair atá an dáta leis féin -- ar bharr litreach, nó mar dháta le sonrasc nó le hAcht, etc. -- fágtar an t-alt ar lár, e.g., _26 Feabhra 2014_.
-:1-1-5-g-p3_en: When the date is by itself -- in a letterhead, or as in the date on an invoice or Act etc. -- omit the article e.g., _26 Feabhra 2014_.
+:1-1-5-g-p3_en: When the date is by itself -- in a letterhead, or as in the date on an invoice or an Act etc. -- the article is omitted, e.g., _26 Feabhra 2014_.
 
 :1-1-5-h-p1_ga: Ainmneacha bailte, sléibhte agus aibhneacha
 :1-1-5-h-p1_en: Names of towns, mountains and rivers
 
 :1-1-5-h-i_ga: Roinnt cathracha agus bailte, e.g., _an Aithin_, _na Cealla Beaga_, _na Gleannta_, _an tSnaidhm_, _an Spidéal_.
-:1-1-5-h-i_en: Some cities and towns e.g., _an Aithin_, _na Cealla Beaga_, _na Gleannta_, _an tSnaidhm_, _an Spidéal_.
+:1-1-5-h-i_en: Some cities and towns, e.g., _an Aithin_, _na Cealla Beaga_, _na Gleannta_, _an tSnaidhm_, _an Spidéal_.
 
 :1-1-5-h-i_ga: Roinnt cathracha agus bailte, e.g., _an Aithin_, _na Cealla Beaga_, _na Gleannta_, _an tSnaidhm_, _an Spidéal_.
-:1-1-5-h-i_en: Some cities and towns e.g., _an Aithin_, _na Cealla Beaga_, _na Gleannta_, _an tSnaidhm_, _an Spidéal_.
+:1-1-5-h-i_en: Some cities and towns, e.g., _an Aithin_, _na Cealla Beaga_, _na Gleannta_, _an tSnaidhm_, _an Spidéal_.
 
 :1-1-5-h-ii_ga: Cnoic agus sléibhte áirithe, e.g., _na hAindéis_, _na hAlpa_, _an Bhograch_, _an Chearc_, _na Comaraigh_, _an Earagail_, _na Himiléithe_, _an Mhucais_.
-:1-1-5-h-ii_en: Certain mountains and cities e.g., _na hAindéis_, _na hAlpa_, _an Bhograch_ _an Chearc_, _na Comaraigh_, _an Earagail_, _na Himiléithe_, _an Mhucais_.
+:1-1-5-h-ii_en: Certain mountains and cities, e.g., _na hAindéis_, _na hAlpa_, _an Bhograch_ _an Chearc_, _na Comaraigh_, _an Earagail_, _na Himiléithe_, _an Mhucais_.
 
 :1-1-5-h-iii_ga: Formhór na n-aibhneacha, e.g., _an Bhóinn_, _an Danóib_, _an Life_, _an Phó_, _an Réin_, _an Róin_, _an tSéin_, _an tSionainn_, _an Tibir_.
 :1-1-5-h-iii_en: Most rivers e.g., _an Bhóinn_, _an Danóib_, _an Life_, _an Phó_, _an Réin_, _an Róin_, _an tSéin_, _an tSionainn_, _an Tibir_.
@@ -166,17 +166,17 @@
 :1-1-5-i-A-p1_ga: Gabhann an t-alt le hainmneacha tíortha agus réigiún más rud é go bhfuil an t-ainmfhocal baininscneach agus:
 :1-1-5-i-A-p1_en: The article accompanies the names of countries and regions if the noun is feminine and:
 
-:1-1-5-i-A-i_ga: má chríochnaíonn sé ar chonsan caol, e.g., _an Airgintín_, _an Albáin_, _an Bhaváir_, _an Chatalóin_, _an Eastóin_, _an Eoraip_, _an Fhrainc_, _an Ghearmáin_, _an Mhacadóin_, _an Namaib_, _an Phacastáin_, _an tSeineagáil_, _an Spáinn_, _an tSúdáin;_
-:1-1-5-i-A-i_en: if it ends with a narrow consonant e.g., _an Airgintín_, _an Albáin_, _an Bhaváir_, _an Chatalóin_, _an Eastóin_, _an Eoraip_, _an Fhrainc_, _an Ghearmáin_, _an Mhacadóin_, _an Namaib_, _an Phacastáin_, _an tSeineagáil_, _an Spáinn_, _an tSúdáin;_
+:1-1-5-i-A-i_ga: má chríochnaíonn sé ar chonsan caol, e.g., _an Airgintín_, _an Albáin_, _an Bhaváir_, _an Chatalóin_, _an Eastóin_, _an Eoraip_, _an Fhrainc_, _an Ghearmáin_, _an Mhacadóin_, _an Namaib_, _an Phacastáin_, _an tSeineagáil_, _an Spáinn_, _an tSúdáin_;
+:1-1-5-i-A-i_en: if it ends with a slender consonant e.g., _an Airgintín_, _an Albáin_, _an Bhaváir_, _an Chatalóin_, _an Eastóin_, _an Eoraip_, _an Fhrainc_, _an Ghearmáin_, _an Mhacadóin_, _an Namaib_, _an Phacastáin_, _an tSeineagáil_, _an Spáinn_, _an tSúdáin_;
 
-:1-1-5-i-A-ii_ga: má chríochnaíonn sé ar _-ia_, e.g., _an India_, _an Laitvia_, _an tSiria;_
-:1-1-5-i-A-ii_en: if it ends with _-ia_ e.g., _an India_, _an Laitvia_, _an tSiria;_
+:1-1-5-i-A-ii_ga: má chríochnaíonn sé ar _-ia_, e.g., _an India_, _an Laitvia_, _an tSiria_;
+:1-1-5-i-A-ii_en: if it ends with _-ia_ e.g., _an India_, _an Laitvia_, _an tSiria_;
 
 :1-1-5-i-A-iii_ga: má chríochnaíonn sé ar _-e_, _-é_, e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 :1-1-5-i-A-iii_en: if it ends with _-e_, _-é_ e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 
 :1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain_, _Éire_ (féach link:./chapter3-ga.html#sec_3_1_4[3.1.4]).
-:1-1-5-i-A-p2_en: Some names of countries and regions end with a narrow consonant but are not accompanied by the article e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular number but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive for _Albain_, _Éire_ (see link:./chapter3-en#sec_3_1_4[3.1.4]).
+:1-1-5-i-A-p2_en: Some names of countries and regions end with a slender consonant but are not accompanied by the article, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive for _Albain_, _Éire_ (see link:./chapter3-en#sec_3_1_4[3.1.4]).
 
 :1-1-5-i-A-sample1_ga: Is tír álainn í *an Fhrainc*.
 :1-1-5-i-A-sample1_en: *France* is a beautiful country.
@@ -188,7 +188,7 @@
 :1-1-5-i-B-p_en: The article does not accompany the names of countries and regions if the noun is masculine and:
 
 :1-1-5-i-B-i_ga: má chríochnaíonn sé ar chonsan leathan, e.g., _Barbadós_, _Eacuadór_, _Guam_, _Hondúras_, _Natal_, _Óman_, _Sead_, _Siam_, _Suranam_;
-:1-1-5-i-B-i_en: if it ends with a broad consonant e.g., _Barbadós_, _Eacuadór_, _Guam_, _Hondúras_, _Natal_, _Óman_, _Sead_, _Siam_, _Suranam_;
+:1-1-5-i-B-i_en: if it ends with a broad consonant, e.g., _Barbadós_, _Eacuadór_, _Guam_, _Hondúras_, _Natal_, _Óman_, _Sead_, _Siam_, _Suranam_;
 
 :1-1-5-i-B-ii_ga: má chríochnaíonn sé ar _-eo_, _-ó_, e.g., _Boirneo_, _Maracó_, _Meicsiceo_, _Monacó_, _Samó_ (eisceacht: _an Congó_);
 :1-1-5-i-B-ii_en: if it ends with _-eo_, _-ó_, e.g., _Boirneo_, _Maracó_, _Meicsiceo_, _Monacó_, _Samó_ (exception: _an Congó_);
@@ -197,10 +197,10 @@
 :1-1-5-i-B-iii_en: if it ends with _-a_, _-á_, _-iú_, _-ua_, e.g., _Alasca_, _Ceanada_, _Cúba_, _Gána_, _Meiriceá_, _Nicearagua_, _Panama_, _Papua_, _Paragua_, _Peiriú_, _Sasana_;
 
 :1-1-5-i-B-iv_ga: má chríochnaíonn sé ar _-ael_, e.g., _Iosrael_.
-:1-1-5-i-B-iv_en: if it ends with _-ael_ e.g., _Iosrael_.
+:1-1-5-i-B-iv_en: if it ends with _-ael_, e.g., _Iosrael_.
 
 :1-1-5-i-C-p_ga: Gabhann an t-alt le hainmneacha tíortha agus réigiún is ainmfhocail san uimhir iolra, e.g., _na hAsóir_, _na Bahámaí_, _na Garbhchríocha_, _na Scigirí_.
-:1-1-5-i-C-p_en: The article accompanies the names of countries and regions that are nouns in the plural number e.g., _na hAsóir_, _na Bahámaí_, _na Garbhchríocha_, _na Scigirí_.
+:1-1-5-i-C-p_en: The article accompanies the names of countries and regions that are nouns in the plural, e.g., _na hAsóir_, _na Bahámaí_, _na Garbhchríocha_, _na Scigirí_.
 
 :1-1-5-i-C-sample1_ga: I Muir Chairib atá *na Bahámaí*.
 :1-1-5-i-C-sample1_en: *The Bahamas* are in the Caribbean.
@@ -259,8 +259,8 @@
 :1-1-5-l-sample7_ga: Is maith *an t-anlann* *an t-ocras*.
 :1-1-5-l-sample7_en: *Hunger* is the best *sauce*.
 
-:1-1-5-l-p2_ga: Tabhair faoi deara nach nós an t-alt a úsáid i nathanna áirithe, e.g., _Tá ciall cheannaithe aige;_ ná nuair nach bhfuil brí ghinearálta leis an ainmfhocal, e.g., _Bhí ocras orm_; _Tá siad i ngrá_.
-:1-1-5-l-p2_en: Note that the article is not used in some situations e.g., _Tá ciall cheannaith aige;_ or when the noun does not have a general meaning e.g., _Bhí ocras orm_; _Tá siad i ngrá_.
+:1-1-5-l-p2_ga: Tabhair faoi deara nach nós an t-alt a úsáid i nathanna áirithe, e.g., _Tá ciall cheannaithe aige_; ná nuair nach bhfuil brí ghinearálta leis an ainmfhocal, e.g., _Bhí ocras orm_; _Tá siad i ngrá_.
+:1-1-5-l-p2_en: Note that the article is not used in certain sayings, e.g., _Tá ciall cheannaith aige_; or when the noun does not have a general meaning, e.g., _Bhí ocras orm_; _Tá siad i ngrá_.
 
 :1-1-5-m-p_ga: *Tinnis áirithe*, e.g., _an ailse_, _an déideadh_, _an titimeas_, _an bhruitíneach_.
 :1-1-5-m-p_en: *Certain Illnesses*, e.g., _an ailse_, _an déideadh_, _an titimeas_, _an bhruitíneach_.
@@ -377,7 +377,7 @@
 :1-3-3-p_en: The general rules of the dative are applied to forms of this type: _perposition_ + _noun_ + _a_ + _verbal noun_, e.g., _leis an ngnó a dhéanamh_; _as an árasán a dhíol_.
 
 :1-3-4-p_ga: I gcás na réamhfhocal _de_, _do_, _faoi_, _i_ agus _ó_, déantar cumasc idir an réamhfhocal agus an t-alt san uimhir uatha, mar a léirítear thíos.
-:1-3-4-p_en: In the case of prepositions _de_, _do_, _faoi_, _i_ and _ó_, the preposition and the singular article are fused as shown below.
+:1-3-4-p_en: In the case of prepositions _de_, _do_, _faoi_, _i_ and _ó_, the preposition and the singular article are composed as shown below.
 
 :1-3-5-p_ga: Bíonn foirmeacha ar leith ar na réamhfhocail sa tábla thíos nuair a thagann siad roimh an alt san uimhir uatha.
 :1-3-5-p_en: The prepositions in the below table have specific forms when they precede the singular article.
@@ -555,7 +555,7 @@ This will (mostly) just be some algebra here...
 :1-6-2-title_en: The Dative Plural Case
 
 :1-6-2-p1_ga: Leanann an tuiseal tabharthach na réamhfhocail _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ agus _um_. Déantar cumasc idir an réamhfhocal _i_ agus an t-alt san uimhir iolra: _i_ + _na_ = _sna_. Tá foirm ar leith ar _fara_ agus _le_ roimh an alt san uimhir iolra: _fara_, _fairis_; _le_, _leis_. Léirítear sa tábla thíos an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal tabharthach iolra.
-:1-6-2-p1_en: The dative plural case follows the prepositions _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. The preposition _i_ is fused with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara_, _fairis_; _le_, _leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
+:1-6-2-p1_en: The dative plural case follows the prepositions _a_, _ag_, _ar_, _as_, _chuig_, _dar_, _de_, _do_, _faoi_, _fara_, _go_, _i_, _ionsar_, _le_, _ó_, _roimh_, _trí_ and _um_. The preposition _i_ is composed with the article in the plural: _i_ + _na_ = _sna_. There is a separate form for _fara_ and _le_ before the article in the plural: _fara_, _fairis_; _le_, _leis_. Shown in the below table is the effect of the article on the noun in the dative plural case.
 
 :Table1H-caption_ga: An Tuiseal Tabharthach Iolra
 :Table1H-caption_en: The Dative Plural Case

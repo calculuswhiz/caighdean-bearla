@@ -166,7 +166,7 @@
 :Table5C-Note_en: The independent verb is lenited in the indicative mood, past tense (other than the autonomous verb) and past habitual tense, and in the conditional mood. There is more information in link:./chapter10-en.html#sec_10_4[10.4] about the other contexts in which the dependent and independent verb is lenited and the contexts in which the verb is eclipsed are discussed in link:./chapter10-en.html#sec_10_8[10.8].
 
 :5-2-1-a-p_ga: Is ar an gcuma chéanna le _mol_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan leathan, agus is ar an gcuma chéanna le _bris_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan caol.
-:5-2-1-a-p_en: Regular verbs from monosyllabic roots ending in a broad consonant are formed in the same way as _mol_, and regular verbs are formed from monosyllabic roots ending in a narrow consonant in the same way as _bris_.
+:5-2-1-a-p_en: Regular verbs from monosyllabic roots ending in a broad consonant are formed in the same way as _mol_, and regular verbs are formed from monosyllabic roots ending in a slender consonant in the same way as _bris_.
 
 :5-2-1-b-p_ga: Má ghabhann fréamh a chríochnaíonn ar _-t_ nó _-th_ (e.g., _at_, _loit_, _caith_, _leath_) foirceann dar tús _-t_ (e.g., _-tar/-tear_, _-taí/-tí_, _-tá/-teá_, _-ta/-te_), déantar _-t-_ den _-t(h)t-_:
 :5-2-1-b-p_en: If a root ending in _-t_ or _-th_ (e.g., _at_, _loit_, _caith_, _leath_) joins an affix beginning with _-t_ (e.g., _-tar/-tear_, _-taí/-tí_, _-tá/-tá_, _-ta/-te_), the _-t(h)t-_ becomes _-t-_:
@@ -175,7 +175,7 @@
 :5-2-1-b-Table-col1_en: Ends in broad _-t(h)_
 
 :5-2-1-b-Table-col2_ga: Críochnaíonn ar _-t(h)_ caol
-:5-2-1-b-Table-col2_en: Ends in narrow _-t(h)_
+:5-2-1-b-Table-col2_en: Ends in slender _-t(h)_
 
 :5-2-1-c-p_ga: Má ghabhann fréamh a chríochnaíonn ar _-bh_ nó _-mh_ (e.g., _gabh_, _ríomh_) foirceann dar tús _-th-_ (e.g., _-tha_ san aidiacht bhriathartha), déantar _-f-_ den _-bhth-_ nó den _-mhth-_:
 :5-2-1-c-p_en: If a root ending in _-bh_ or _-mh_ (e.g., _gabh_, _ríomh_) joins an affix beginning with _-th-_ (e.g., _-tha_ in the verbal adjective), the _-bhth-_ or _-mhth-_ becomes _-f-_:
@@ -193,7 +193,7 @@
 :Table5D-caption_en: The First Conjugation — Conjugation of the Verb _sábháil_
 
 :Table5D-note_ga: Maidir le briathra a chríochnaíonn ar _-áil_, tabhair faoi deara go mbíonn na leaganacha le _-t-_ caol, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, ach go mbíonn na leaganacha le _-f-_ leathan, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
-:Table5D-note_en: As for verbs ending in _-áil_, note that these forms with _-t-_ are narrow, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, but the forms with _-f-_ are broad, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
+:Table5D-note_en: As for verbs ending in _-áil_, note that these forms with _-t-_ are slender, e.g., _athchúrsáiltear_, _d'athchúrsáiltí_, _athchúrsáilte_; _sábháiltear_, _shábháiltí_, _sábháilte_, but the forms with _-f-_ are broad, e.g., _athchúrsálfar_, _d'athchúrsálfaí_; _sábhálfar_, _shábhálfaí_.
 
 :Table5E-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _tíolaic_
 :Table5E-caption_en: The First Conjugation — Conjugation of the Verb _tíolaic_
@@ -217,7 +217,7 @@
 :5-2-2-b-p_en: Verbs conjugated like _tíolaic_:
 
 :5-2-2-c-p_ga: Briathra a choinnítear caol tríd síos (gan an t-ainm briathartha a áireamh) ina réimniú:
-:5-2-2-c-p_en: Verbs that are kept narrow throughout (excluding the verbal noun) in their conjugation:
+:5-2-2-c-p_en: Verbs that are kept slender throughout (excluding the verbal noun) in their conjugation:
 
 :5-2-2-d-p_ga: Briathra a choinnítear leathan tríd síos ina réimniú:
 :5-2-2-d-p_en: Verbs that are kept broad throughout in their conjugation:
@@ -232,7 +232,7 @@
 :Table5F-caption_en: The First Conjugation — Conjugation of the Verb _cráigh_
 
 :Table5F-note_ga: Maidir le briathra a réimnítear ar nós _cráigh_ agus _dóigh_, tabhair faoi deara go mbíonn na leaganacha le _-t-_ caol, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, ach go mbíonn na leaganacha le _-f-_ leathan, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
-:Table5F-note_en: For verbs that are conjugated like _cráigh_ and _dóigh_, note that the forms with _-t-_ are narrow, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, but the forms with _-f-_ are broad, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
+:Table5F-note_en: For verbs that are conjugated like _cráigh_ and _dóigh_, note that the forms with _-t-_ are slender, e.g., _chráiteá_, _cráitear_; _dhóiteá_, _dóitear_, but the forms with _-f-_ are broad, e.g., _cráfaidh tú_, _chráfaí_; _dófaidh tú_, _dhófaí_.
 
 :Table5G-caption_ga: An Chéad Réimniú — Réimniú an Bhriathair _dóigh_
 :Table5G-caption_en: The First Conjugation — Conjugation of the Verb _dóigh_

@@ -242,7 +242,7 @@
 :11-3-c-p2_en: Note:
 
 :11-3-1-c-i-p_ga: I gcás gur réamhfhocal simplí (_as_, _de_, _do_, etc.) a cheanglaíonn an briathar leis an gcuspóir indíreach, is féidir an réamhfhocal a thabhairt chun tosaigh roimh an mír choibhneasta. Déantar cumasc ansin idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach (féach link:#sec_11_6_1[11.6.1](c)).
-:11-3-1-c-i-p_en: When a simple preposition (_as_, _de_, _do_, etc.) links the verb to the indirect object, the preposition can be brought to the front before the relative particle. A fusion then takes place between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively (see link:#sec_11_6_1[11.6.1](c)).
+:11-3-1-c-i-p_en: When a simple preposition (_as_, _de_, _do_, etc.) links the verb to the indirect object, the preposition can be brought to the front before the relative particle. A compound is then formed between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively (see link:#sec_11_6_1[11.6.1](c)).
 
 :11-3-1-c-i-sample-1a_ga: Cuireadh an t-agallamh ar an mbean sin.
 :11-3-1-c-i-sample-1a_en: The interview was put on that woman.
@@ -534,7 +534,7 @@
 :11-6-1-a-i-sample-10_en: That is the woman *who* went to the football stadium.
 
 :11-6-1-a-ii-p_ga: Déantar cumasc idir an mhír choibhneasta _a_ agus an fhoirm neamhspleách láithreach den bhriathar _bí_ chun na foirmeacha _atá_, _atáim_, _atáimid_ a chruthú.
-:11-6-1-a-ii-p_en: A fusion is made between the relative particle _a_ and the independent present tense form of the verb _bí_ to create the forms _atá_, _atáim_, _atáimid_.
+:11-6-1-a-ii-p_en: A compound is made between the relative particle _a_ and the independent present tense form of the verb _bí_ to create the forms _atá_, _atáim_, _atáimid_.
 
 :11-6-1-a-ii-sample-1_ga: Sin iad na leabhair *atá* á n-iarraidh agam.
 :11-6-1-a-ii-sample-1_en: Those are the books *that* I am asking for.
@@ -630,7 +630,7 @@
 :11-6-1-c-title_en: Fused Forms
 
 :11-6-1-c-p_ga: Déantar cumasc idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach, mar a leagtar amach anseo thíos (féach freisin link:#sec_11_3_1[11.3.1](c)(i)). Tabhair faoi deara nach féidir cumasc a dhéanamh idir an réamhfhocal agus na míreanna coibhneasta diúltacha.
-:11-6-1-c-p_en: A fusion is made between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively, as outlined below (see also link:#sec_11_3_1[11.3.1](c)(i)). Note that a fusion cannot be made between the preposition and the negative relative particles.
+:11-6-1-c-p_en: A compound is made between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively, as outlined below (see also link:#sec_11_3_1[11.3.1](c)(i)). Note that a compound cannot be made between the preposition and the negative relative particles.
 
 :Table11C-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna Coibhneasta _a_ agus _ar_
 :Table11C-caption_en: Fused Forms -- Prepositions with the Relative Particles _a_ and _ar_
@@ -921,7 +921,7 @@
 :11-8-4-sample-6_en: It is gradually *that* progress is made.
 
 :11-8-5-p_ga: Déantar cumasc idir na foirmeacha den chopail _ar_, _arb_ agus _arbh_ agus na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ mar a leagtar amach anseo thíos (féach freisin link:./chapter7-ga.html#sec_7_3_2[7.3.2]).
-:11-8-5-p_en: A fusion is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also link:./chapter7-en.html#sec_7_3_2[7.3.2]).
+:11-8-5-p_en: A compound is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also link:./chapter7-en.html#sec_7_3_2[7.3.2]).
 
 :Table11E-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna _ar_, _arb_ agus _arbh_
 :Table11E-caption_en: Fused Forms -- Prepositions with the Particles _ar_, _arb_ and _arbh_

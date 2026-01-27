@@ -32,7 +32,7 @@
 :4-2-1-p-sample4_en: There are *big, wild* cats in the zoo.
 
 :4-2-2-a-p_ga: San uimhir uatha --
-:4-2-2-a-p_en: In the singular number --
+:4-2-2-a-p_en: In the singular --
 
 :4-2-2-a-i-p_ga: i gcás ainmfhocal firinscneach, ní shéimhítear an aidiacht atá á cháiliú, e.g., _an fear beag_; _ag an bhfear beag_; ach amháin sa tuiseal gairmeach agus sa tuiseal ginideach e.g., _a fhir bhig_; _hata an fhir bhig_;
 :4-2-2-a-i-p_en: when there is a masculine noun, the adjective that qualifies it is not lenited, e.g., _an fear beag_; _ag an bhfear beag_; except in the vocative case and in the genitive case e.g., _a fhir bhig_; _hata an fhir bhig_;
@@ -41,13 +41,13 @@
 :4-2-2-a-ii-p_en: if the Lenition System (see link:./chapter1-en.html#sec_1_7[1.7]) is in use, the adjective that qualifies the masculine noun is lenited in the dative case if the article goes with that noun, e.g., _ag an fhear bheag_.
 
 :4-2-2-b-p_ga: San uimhir uatha, i gcás ainmfhocal baininscneach, séimhítear an aidiacht atá á cháiliú sna tuisil go léir, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; ach amháin sa tuiseal ginideach, e.g., _hata na mná bige_.
-:4-2-2-b-p_en: In the singular number, when there is a feminine noun, the adjective that qualifies it is lenited in all the cases, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; except in the genitive case, e.g., _hata na mná bige_.
+:4-2-2-b-p_en: In the singular, when there is a feminine noun, the adjective that qualifies it is lenited in all the cases, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; except in the genitive case, e.g., _hata na mná bige_.
 
 :4-2-3-p_ga: Tugtar léiriú i link:./chapter9-ga.html[Caibidil 9] ar an aidiacht cháilíochta nuair atá uimhir roimh an ainmfhocal atá á cháiliú.
 :4-2-3-p_en: link:./chapter9-en.html[Chapter 9] provides an illustration of the attributive adjective when a number precedes the noun being qualified.
 
 :4-2-4-title_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
-:4-2-4-title_en: Lenition of an Attributive Adjective in the Singular Number
+:4-2-4-title_en: Lenition of an Attributive Adjective in the Singular
 
 :4-2-4-p_ga: Fágtar aidiacht lom nó cuirtear séimhiú uirthi bunaithe ar inscne agus tuiseal an ainmfhocail atá á cháiliú léi. Léirítear na cásanna sa tábla thíos. Féach an plé ar dhíochlaonadh na haidiachta (link:#sec_4_3[4.3]) chun eolas a fháil ar athrú foirme (seachas séimhiú) ar an aidiacht féin.
 :4-2-4-p_en: An adjective is either left bare or inflected based on the gender and case of the noun it is qualifying. The contexts are shown in the table below. See the discussion of adjective declension (link:#sec_4_3[4.3]) for information on form change (other than lenition) of the adjective itself.
@@ -59,7 +59,7 @@
 :no-lenition_en: no lenition
 
 :Table4A-caption_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Uatha
-:Table4A-caption_en: Lenition of an Attributive Adjective in the Singular Number
+:Table4A-caption_en: Lenition of an Attributive Adjective in the Singular
 
 :Table4A-col1_ga: An Tuiseal
 :Table4A-col1_en: The Case
@@ -86,10 +86,10 @@
 :Table4A-footnote_en: But see link:./chapter1-en.html#sec_1_7[1.7] The Lenition System
 
 :4-2-5-title_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Iolra
-:4-2-5-title_en: Lenition of Attributive Adjective in the Plural Number
+:4-2-5-title_en: Lenition of Attributive Adjective in the Plural
 
 :4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin link:./chapter10-ga.html#sec_10_3_1[10.3.1]).
-:4-2-5-p_en: In the plural number, the initial consonant of the adjective is lenited if the plural noun starts with a narrow consonant, as in the below table (see also link:./chapter10-en.html#sec_10_3_1[10.3.1]).
+:4-2-5-p_en: In the plural, the initial consonant of the adjective is lenited if the plural noun starts with a slender consonant, as in the below table (see also link:./chapter10-en.html#sec_10_3_1[10.3.1]).
 
 :nopass-Table4B-caption_ga: {4-2-5-title}
 :nopass-Table4B-caption_en: {4-2-5-title}
@@ -101,7 +101,7 @@
 :Table4B-col2-main_en: Without Lenition
 
 :Table4B-col1-sub_ga: Ainmfhocal dar críoch consan caol san iolra
-:Table4B-col1-sub_en: Noun that starts with a narrow consonant in the plural
+:Table4B-col1-sub_en: Noun that starts with a slender consonant in the plural
 
 :Table4B-col2-sub_ga: Ainmfhocal dar críoch consan leathan nó guta san iolra
 :Table4B-col2-sub_en: Noun that starts with a broad consonant or vowel in the plural
@@ -221,7 +221,7 @@
 :4-4-title_en: The First Declension
 
 :4-4-p_ga: Cuimsítear sa díochlaonadh seo aidiachtaí a chríochnaíonn ar chonsan, leathan nó caol, seachas aidiachtaí a chríochnaíonn ar _-úil_ agus roinnt aidiachtaí a chríochnaíonn ar _-ir_ (féach link:#sec_4_5[4.5]).
-:4-4-p_en: Included in this declension are adjectives ending with a consonant, broad or narrow, aside from adjectives ending with _-úil_ and certain adjectives ending with _-ir_ (see link:#sec_4_5[4.5]).
+:4-4-p_en: Included in this declension are adjectives ending with a consonant, broad or slender, aside from adjectives ending with _-úil_ and certain adjectives ending with _-ir_ (see link:#sec_4_5[4.5]).
 
 :4-4-1-title_ga: Foirm an Ghinidigh Uatha
 :4-4-1-title_en: Form of the Genitive Singular
@@ -230,7 +230,7 @@
 :4-4-1-a-title_en: Masculine
 
 :4-4-1-a-i-p_ga: Más consan leathan is críoch don aidiacht, caolaítear an consan mar a dhéantar le hainmfhocail sa Chéad Díochlaonadh (féach link:./chapter2-ga.html#sec_2_2_2[2.2.2]).
-:4-4-1-a-i-p_en: If the adjective ends with a broad consonant, the consonant is narrowed as it would be done with a noun in the First Declension (see link:./chapter2-en.html#sec_2_2_2[2.2.2]).
+:4-4-1-a-i-p_en: If the adjective ends with a broad consonant, the consonant is palatalized as it would be done with a noun in the First Declension (see link:./chapter2-en.html#sec_2_2_2[2.2.2]).
 
 :4-4-1-a-i-p-sample1_ga: Cár fhág sé hata an fhir *mhóir*?
 :4-4-1-a-i-p-sample1_en: Where did he leave the *big* man's hat?
@@ -254,7 +254,7 @@
 :4-4-1-a-ii-p-sample3_en: The *poor* farmer's cows were stolen.
 
 :4-4-1-a-iii-p_ga: Más consan caol nó _-íoch_ is críoch don aidiacht, ní dhéantar infhilleadh uirthi.
-:4-4-1-a-iii-p_en: If a narrow consonant or _-íoch_ is the ending of the adjective, it is not inflected.
+:4-4-1-a-iii-p_en: If a slender consonant or _-íoch_ is the ending of the adjective, it is not inflected.
 
 :4-4-1-a-iii-p-sample1_ga: Ba mhaith liom labhairt le tuismitheoirí an bhuachalla *chiúin*.
 :4-4-1-a-iii-p-sample1_en: I would like to speak to the parents of the *quiet* boy.
@@ -287,7 +287,7 @@
 :4-4-1-b-title_en: Feminine
 
 :4-4-1-b-i-p_ga: Cuirtear _-e_ leis an gconsan deiridh, agus caolaítear é más leathan dó, e.g., _gorm_, _goirme_; _maith_, _maithe_ mar a dhéantar le hainmfhocail sa Dara Díochlaonadh (féach link:./chapter2-ga.html#sec_2_3_2[2.3.2])).
-:4-4-1-b-i-p_en: _-e_ is put with the final consonant, and it is narrowed if broad, e.g., _gorm_, _goirme_; _maith_, _maithe_ as would be done with nouns in the Second Declension (see link:./chapter2-en.html#sec_2_3_2[2.3.2])).
+:4-4-1-b-i-p_en: _-e_ is put with the final consonant, and it is palatalized if broad, e.g., _gorm_, _goirme_; _maith_, _maithe_ as would be done with nouns in the Second Declension (see link:./chapter2-en.html#sec_2_3_2[2.3.2])).
 
 :4-4-1-b-i-p-sample1_ga: Féach ar áilleacht na spéire *goirme*.
 :4-4-1-b-i-p-sample1_en: Look at the beauty of the *blue* sky.
@@ -320,13 +320,13 @@
 :4-4-2-title_en: Form of the Vocative Singular
 
 :4-4-2-p_ga: Is ionann foirm don ghairmeach uatha agus don ainmneach uatha, ach amháin i gcás aidiachtaí a gcaolaítear a gconsan deiridh sa ghinideach uatha firinscneach. I gcás na n-aidiachtaí sin, is gnách gurb ionann foirm an ghairmigh uatha fhirinscnigh agus foirm an ghinidigh uatha fhirinscnigh, e.g., _a fhir mhóir_; _cóta an fhir mhóir_.
-:4-4-2-p_en: The form of the vocative singular is the same as the nominative singular, except when adjectives whose final consonant is syncopated in the masculine genitive singular. With such adjectives, the form of the masculine vocative singular is usually the same as the form of the masculine genitive singular, e.g., _a fhir mhóir_; _cóta an fhir mhóir_.
+:4-4-2-p_en: The form of the vocative singular is the same as the nominative singular, except when adjectives whose final consonant is palatalized in the masculine genitive singular. With such adjectives, the form of the masculine vocative singular is usually the same as the form of the masculine genitive singular, e.g., _a fhir mhóir_; _cóta an fhir mhóir_.
 
 :4-4-3-title_ga: Foirm an Iolra -- Gach Tuiseal
 :4-4-3-title_en: Form of the Plural -- Every Case
 
 :4-4-3-p_ga: Cuirtear _-a_ leis na haidiachtaí a chríochnaíonn ar chonsan leathan agus _-e_ leis na haidiachtaí a chríochnaíonn ar chonsan caol agus coimrítear aidiachtaí áirithe (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2[4.3.2](b)).
-:4-4-3-p_en: _-a_ is added to adjectives ending in a broad consonant and _-e_ to adjectives ending in a narrow consonant and some adjectives are syncopated (but see weak plurals in the genitive plural, link:#sec_4_3_2[4.3.2](b)).
+:4-4-3-p_en: _-a_ is added to adjectives ending in a broad consonant and _-e_ to adjectives ending in a slender consonant and some adjectives are syncopated (but see weak plurals in the genitive plural, link:#sec_4_3_2[4.3.2](b)).
 
 :4-4-3-p-sample1_ga: Cá bhfuil na peileadóirí *clúiteacha*?
 :4-4-3-p-sample1_en: Where are the *famous* footballers?
@@ -401,7 +401,7 @@
 :4-5-2-a-p-sample2_en: I read the *interesting* poems yesterday.
 
 :4-5-2-b-p_ga: Coimrítear _deacair_, _deacra_; _socair_, _socra_ sa ghinideach uatha agus san uimhir iolra.
-:4-5-2-b-p_en: _deacair_, _deacra_; _socair_, _socra_ are syncopated in the genitive singular and in the plural number.
+:4-5-2-b-p_en: _deacair_, _deacra_; _socair_, _socra_ are syncopated in the genitive singular and in the plural.
 
 :4-6-title_ga: An Tríú Díochlaonadh
 :4-6-title_en: The Third Declension
@@ -410,7 +410,7 @@
 :4-6-1-p_en: This declension includes adjectives that end in a vowel, e.g., _cliste_, _cróga_.
 
 :4-6-2-p_ga: Ní dhéantar infhilleadh ach ar dhá aidiacht sa díochlaonadh seo: _breá_ agus _te_. Athraíonn _breá_ go _breátha_ sa ghinideach uatha baininscneach agus san uimhir iolra agus athraíonn _te_ go _teo_ san uimhir iolra (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2[4.3.2](b)).
-:4-6-2-p_en: Only two adjectives are inflected in this declension: _breá_ and _te_. _breá_ changes to _breátha_ in the feminine genitive singular and plural number and _te_ changes to _teo_ in the plural number (but see weak plurals in the genitive plural, link:#sec_4_3_2[4.3.2](b)).
+:4-6-2-p_en: Only two adjectives are inflected in this declension: _breá_ and _te_. _breá_ changes to _breátha_ in the feminine genitive singular and plural and _te_ changes to _teo_ in the plural (but see weak plurals in the genitive plural, link:#sec_4_3_2[4.3.2](b)).
 
 :4-6-2-sample-row1_ga: Ainmneach uatha
 :4-6-2-sample-row1_en: Nominative singular

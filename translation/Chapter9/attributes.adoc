@@ -185,7 +185,7 @@
 :9-3-3-a-p_en: Following for the cardinal number 1, the adjective accompanying the noun is in the singular and is of the same gender as the noun.
 
 :9-3-3-b-p_ga: Ar lorg na n-uimhreacha eile (2&ndash;19), bíonn an aidiacht san uimhir iolra agus séimhítear í.
-:9-3-3-b-p_en: Following the other numbers (2&ndash;19), the adjective is in the plural number and is omitted.
+:9-3-3-b-p_en: Following the other numbers (2&ndash;19), the adjective is in the plural and is omitted.
 
 :9-3-3-c-p_ga: Cuirtear an focal _déag_ roimh aidiacht nó aidiachtaí atá ag gabháil leis an ainmfhocal (ach féach link:#sec_9_3_1[9.3.1](f)).
 :9-3-3-c-p_en: The word _déag_ is placed before an adjective or adjectives accompanying the noun (but see link:#sec_9_3_1[9.3.1](f)).
@@ -203,7 +203,7 @@
 :9-3-4-a-p_en: Following the cardinal number 1, the adjective accompanying the noun is in the singular, and is of the same gender as the noun.
 
 :9-3-4-b-p_ga: Cuirtear an aidiacht san uimhir iolra i ndiaidh an leagain iolra ach ní chuirtear séimhiú ar an aidiacht sa chás go gcríochnaíonn an leagan iolra sin ar ghuta. Séimhítear an aidiacht i ndiaidh _cinn_ agus _fichid_.
-:9-3-4-b-p_en: The adjective in the plural number is placed after the plural form but the adjective is not lenited if that plural form ends in a vowel. The adjective is lenited after _cinn_ and _fichid_.
+:9-3-4-b-p_en: The adjective in the plural is placed after the plural form but the adjective is not lenited if that plural form ends in a vowel. The adjective is lenited after _cinn_ and _fichid_.
 
 :Table9J-caption_ga: Na Bunuimhreacha 1&ndash;19 -- Foirm na hAidiachta leis na hAinmfhocail a bhfuil Leagan Iolra ar leith acu
 :Table9J-caption_en: The Cardinal Numbers 1&ndash;19 -- Adjective Form with Nouns that have a particular Plural Version
@@ -347,10 +347,10 @@
 :9-3-10-b-i-p_en: The noun is in the singular form or in its particular plural form and the appropriate initial mutation is made to the noun.
 
 :9-3-10-b-ii-p_ga: Tar éis uimhreacha a chríochnaíonn ar 1, réitíonn an aidiacht le hinscne an ainmfhocail. I gcás uimhreacha a chríochnaíonn ar 2&ndash;9, bíonn an aidiacht san uimhir iolra agus séimhítear í (ach féach link:#sec_9_3_4[9.3.4]).
-:9-3-10-b-ii-p_en: After numbers ending in 1, the adjective agrees with the gender of the noun. For numbers ending in 2&ndash;9, the adjective is in the plural number and is lenited (but see link:#sec_9_3_4[9.3.4]).
+:9-3-10-b-ii-p_en: After numbers ending in 1, the adjective agrees with the gender of the noun. For numbers ending in 2&ndash;9, the adjective is in the plural and is lenited (but see link:#sec_9_3_4[9.3.4]).
 
 :9-3-10-c-i-p_ga: Bíonn an t-ainmfhocal san uimhir uatha i gcónaí, fiú más ainmfhocal é a bhfuil leagan iolra ar leith aige, agus ní dhéantar aon athrú tosaigh air. Bíonn an aidiacht san uimhir uatha i gcónaí agus séimhítear í de réir inscne an ainmfhocail.
-:9-3-10-c-i-p_en: The noun is always in the singular number, even if it is a noun that has a particular plural form, and no initial mutation is made to it. The adjective is always in the singular number and is lenited according to the gender of the noun.
+:9-3-10-c-i-p_en: The noun is always in the singular, even if it is a noun that has a particular plural form, and no initial mutation is made to it. The adjective is always in the singular and is lenited according to the gender of the noun.
 
 :9-3-10-c-ii-p_ga: I gcás uimhreacha a chríochnaíonn ar 2 nó 4, úsáidtear na foirmeacha maoluimhreach _dó_ agus _ceathair_ in ionad _dhá_ agus _ceithre_.
 :9-3-10-c-ii-p_en: For numbers ending in 2 or 4, the bare numbers _dó_ and _ceathair_ are used instead of _dhá_ and _ceithre_.

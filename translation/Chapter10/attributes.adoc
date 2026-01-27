@@ -7,7 +7,7 @@
 :10-1-title_en: General
 
 :10-1-p_ga: Is é is athrú tosaigh ann athrú a dhéantar ar thús focail mar gheall ar inscne, tuiseal, aimsir nó cúinsí eile gramadaí. Áirítear ar na hathruithe tosaigh an séimhiú, an t-urú, _t_ roimh ghuta, _t_ roimh _s_, _h_ roimh ghuta agus _d'_ roimh ghuta nó roimh _fh-_. Tugtar míniú anseo ar úsáid na n-athruithe tosaigh, lena n-áirítear an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal baininscneach agus an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol.
-:10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a narrow consonant.
+:10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a slender consonant.
 
 :h2-gp-2-5-title_ga: An Séimhiú
 :h2-gp-2-5-title_en: Lenition
@@ -460,10 +460,10 @@
 :10-2-7-m-p3_en: Note that, subject to the exceptions in (a) to (m) above, lenition is applied to every noun subject to a feminine noun, e.g., _tuarascáil pharlaiminte agus chomhphobail_. However, if there is a series of nouns in a list before another noun, the initial mutation associated with the last noun in the series is applied to the noun or nouns subject to it, e.g., _leabhar nó iris cheoil_; _iris nó leabhar ceoil_.
 
 :10-2-8-title_ga: I nDiaidh Ainmfhocal san Iolra a chríochnaíonn ar Chonsan Caol
-:10-2-8-title_en: After a Noun in the Plural Ending in a Narrow Consonant
+:10-2-8-title_en: After a Noun in the Plural Ending in a Slender Consonant
 
 :10-2-8-p1_ga: Má tá ainmfhocal (nach ainmfhocal cinnte) sa ghinideach faoi réir ag ainmfhocal san iolra a chríochnaíonn ar chonsan caol, is gnách séimhiú a chur air, e.g., _éin chlóis_; _dualgais bhreise_; _ceadúnais ghnó_.
-:10-2-8-p1_en: If a (non-definite) noun in the genitive is subject to a noun in the plural ending in a narrow consonant, it is usually lenited, e.g., _éin chlóis_; _dualgais bhreise_; _ceadúnais ghnó_.
+:10-2-8-p1_en: If a (non-definite) noun in the genitive is subject to a noun in the plural ending in a slender consonant, it is usually lenited, e.g., _éin chlóis_; _dualgais bhreise_; _ceadúnais ghnó_.
 
 :10-2-8-sample-1_ga: Bhí cruinniú aici le *hoifigigh thithíochta* as Meiriceá.
 :10-2-8-sample-1_en: She had a meeting with *housing officials* from America.
@@ -475,7 +475,7 @@
 :10-2-8-sample-3_en: *Traffic wardens* issue *parking tickets*.
 
 :10-2-8-p2_ga: Tabhair faoi deara go liostaítear in (a) go (f) ina dhiaidh seo na cásanna go léir nach séimhítear ainmfhocal éiginnte atá faoi réir ag ainmfhocal san iolra a chríochnaíonn ar chonsan caol. I ngach cás eile, cuirtear séimhiú ar ainmfhocal éiginnte atá faoi réir ag ainmfhocal iolra a chríochnaíonn ar chonsan caol.
-:10-2-8-p2_en: Note that all the contexts in (a) to (f) below list the instances when an indefinite noun subject to a noun in the plural ending in a narrow consonant is not lenited. In all other contexts, lenition is applied to an indefinite noun subject to a noun in the plural ending in a narrow consonant.
+:10-2-8-p2_en: Note that all the contexts in (a) to (f) below list the instances when an indefinite noun subject to a noun in the plural ending in a slender consonant is not lenited. In all other contexts, lenition is applied to an indefinite noun subject to a noun in the plural ending in a slender consonant.
 
 :10-2-8-note-p_ga: D'fhéadfaí sampla a áireamh i gceann amháin nó níos mó de na cásanna ina dhiaidh seo, e.g., le (a), (c) agus (d) a bhaineann an sampla _dualgais dochtúirí_.
 :10-2-8-note-p_en: An example could be included in one or more of the following contexts, e.g., (a), (c) and (d) apply to the example _dualgais dochtúirí_.
@@ -569,7 +569,7 @@
 :10-2-8-f-p2_en: Exception: when _beirt_ is the second noun, e.g., _gluaisteáin bheirt pheileadóirí_.
 
 :10-2-8-f-p3_ga: Tabhair faoi deara go gcuirtear séimhiú, faoi réir na n-eisceachtaí in (a) go (f) roimhe seo, ar gach ainmfhocal atá faoi réir ag ainmfhocal san iolra a chríochnaíonn ar chonsan caol, e.g., _comórtais idir-ollscoile chadhcála agus bhoghdóireachta_; _páipéir bhainc agus pharlaiminte_; _limistéir pleanála teanga Ghaeltachta_. Má tá sraith ainmfhocal i liosta roimh ainmfhocal eile, áfach, is é an t-athrú tosaigh a ghabhann leis an ainmfhocal deiridh sa tsraith a bhíonn le cur ar an ainmfhocal nó ar na hainmfhocail eile a bhíonn faoina réir, e.g., _treoracha nó leabhair ghramadaí_; _leabhair nó treoracha gramadaí_.
-:10-2-8-f-p3_en: Note that, subject to the exceptions in (a) to (f) above, lenition is applied to every noun subject to a noun in the plural ending in a narrow consonant, e.g., _comórtais idir-ollscoile chadhcála agus bhoghdóireachta_; _páipéir bhainc agus pharlaiminte_; _limistéir pleanála teanga Ghaeltachta_. However, if there is a series of nouns in a list before another noun, the initial mutation associated with the last noun in the series is applied to the noun or nouns subject to it, e.g., _treoracha nó leabhair ghramadaí_; _leabhair nó treoracha gramadaí_.
+:10-2-8-f-p3_en: Note that, subject to the exceptions in (a) to (f) above, lenition is applied to every noun subject to a noun in the plural ending in a slender consonant, e.g., _comórtais idir-ollscoile chadhcála agus bhoghdóireachta_; _páipéir bhainc agus pharlaiminte_; _limistéir pleanála teanga Ghaeltachta_. However, if there is a series of nouns in a list before another noun, the initial mutation associated with the last noun in the series is applied to the noun or nouns subject to it, e.g., _treoracha nó leabhair ghramadaí_; _leabhair nó treoracha gramadaí_.
 
 :10-2-9-title_ga: I nDiaidh Ainmfhocal atá sa Ghinideach
 :10-2-9-title_en: After a Noun in the Genitive
@@ -1031,7 +1031,7 @@
 :h2-gp-6-8-title_en: Eclipsis
 
 :h2-gp-6-8-p_ga: Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_. Cuirtear _n-_ roimh ghuta san áit a ndéanfaí urú a chur ar chonsan, ach amháin sa tuiseal tabharthach ar lorg an ailt nó an ailt i gcumasc le réamhfhocal, e.g., _ar an uisce_, _faoin ábhar_; agus i gcás _i_ (féach link:#sec_10_6_4[10.6.4]). Cuirtear fleiscín idir an t-urú _n_ agus guta, e.g., _líon na n-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _meon na nAlbanach_.
-:h2-gp-6-8-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article combined with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see link:#sec_10_6_4[10.6.4]). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
+:h2-gp-6-8-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article composed with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see link:#sec_10_6_4[10.6.4]). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
 
 :10-6-title_ga: Urú ar an Ainmfhocal
 :10-6-title_en: Eclipsis on the Noun
@@ -1226,7 +1226,7 @@
 :10-8-1-a-sample-2_en: That is the man *who is given* care in the residential center.
 
 :10-8-1-b-p_ga: réamhfhocal i gcumasc le _a_, coibhneas indíreach (féach link:./chapter11-ga.html#sec_11_6_1[11.6.1](c)), e.g., _an tAcht dá_ (as _do+a_) _dtagraítear_; _an Bille lena_ (as _le+a_) _ndéantar leasú_:
-:10-8-1-b-p_en: a preposition combined with _a_, indirect relative (see link:./chapter11-en.html#sec_11_6_1[11.6.1](c)), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
+:10-8-1-b-p_en: a preposition composed with _a_, indirect relative (see link:./chapter11-en.html#sec_11_6_1[11.6.1](c)), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
 
 :10-8-1-b-sample-1_ga: Is é sin an chuideachta *óna bhfuair* mé mo théacsleabhair.
 :10-8-1-b-sample-1_en: That is the company *from which* I got my textbooks.
@@ -1703,7 +1703,7 @@
 :Table10A-adjective-header_en: Lenition is applied to the adjective in the following contexts:
 
 :Table10A-adjective-rule-1_ga: I ndiaidh ainmfhocal atá san ainmneach, tabharthach nó gairmeach uatha baininscneach; sa ghinideach nó sa ghairmeach uatha firinscneach; san ainmneach nó sa tabharthach iolra má chríochnaíonn an t-ainmfhocal ar chonsan caol (nó sa tabharthach uatha firinscneach má tá Córas an tSéimhithe in úsáid) nó i ndiaidh ainmfhocal san uatha má tá _dhá_ nó uimhir ó _trí_ go _deich_ roimhe (link:#sec_10_3_1[10.3.1])
-:Table10A-adjective-rule-1_en: After a noun that is in the nominative, dative or possessive singular feminine; in the genitive or possessive singular masculine; in the nominative or dative plural if the noun ends in a narrow consonant (or in the dative singular masculine if the Lenition System is in use) or after a noun in the singular if _dhá_ or a number from _trí_ to _deich_ precedes it (link:#sec_10_3_1[10.3.1])
+:Table10A-adjective-rule-1_en: After a noun that is in the nominative, dative or possessive singular feminine; in the genitive or possessive singular masculine; in the nominative or dative plural if the noun ends in a slender consonant (or in the dative singular masculine if the Lenition System is in use) or after a noun in the singular if _dhá_ or a number from _trí_ to _deich_ precedes it (link:#sec_10_3_1[10.3.1])
 
 :Table10A-adjective-rule-2_ga: Ar an tslí chéanna ar a séimhítear ainmfhocal ar lorg réamhfhocal simplí, ar lorg réamhfhocal simplí agus an ailt, ar lorg aidiacht shealbhach, agus sa tuiseal ginideach firinscneach (link:#sec_10_3_2[10.3.2])
 :Table10A-adjective-rule-2_en: In the same way as a noun is lenited after a simple preposition, after a simple preposition and the articles, after a possessive adjective, and in the masculine genitive case (link:#sec_10_3_2[10.3.2])
@@ -1775,7 +1775,7 @@
 :Table10B-verb-header_en: Eclipsis is applied to the verb in the following contexts:
 
 :Table10B-verb-rule-1_ga: San fhochlásal coibhneasta i ndiaidh _a_, coibhneas indíreach, agus _nach_, i ndiaidh réamhfhocal atá i gcumasc le _a_, coibhneas indíreach, agus i ndiaidh _a_ (sa bhrí _an méid a_) agus _dá_ (as _de+a_, _do+a_) (link:#sec_10_8_1[10.8.1])
-:Table10B-verb-rule-1_en: In the relative clause after _a_, indirect relative, and _nach_, after a preposition that is combined with _a_, indirect relative, and after _a_ (meaning _the amount that_) and _dá_ (from _de+a_, _do+a_) (link:#sec_10_8_1[10.8.1])
+:Table10B-verb-rule-1_en: In the relative clause after _a_, indirect relative, and _nach_, after a preposition that is composed with _a_, indirect relative, and after _a_ (meaning _the amount that_) and _dá_ (from _de+a_, _do+a_) (link:#sec_10_8_1[10.8.1])
 
 :Table10B-verb-rule-2_ga: Ar an mbriathar spleách i ndiaidh na gcónasc agus na míreanna briathartha seo a leanas: _an_, _cá_, _dá_ (coinníollach), _go_, _mura_, _nach_, _sula_, agus i ndiaidh _ní_ i gcás an leagain spleách den bhriathar _faigh_ san aimsir chaite, san aimsir fháistineach agus sa mhodh coinníollach (link:#sec_10_8_2[10.8.2])
 :Table10B-verb-rule-2_en: On the dependent verb after the conjunctions and verbal particles: _an_, _cá_, _dá_ (conditional), _go_, _mura_, _nach_, _sula_, and after _ní_ for the dependent form of the verb _faigh_ in the past tense, future tense and conditional mood (link:#sec_10_8_2[10.8.2])
