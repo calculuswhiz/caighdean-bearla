@@ -88,8 +88,8 @@ Please create a branch and submit a pull request to make changes, or a new [issu
 
 - Translations are stored in **translation**.
   - Organized by Chapter
-  - Structure held by ChapterXX.adoc
-  - Translations held in attributes.adoc
+  - Structure held by ChapterXX.adoc. This contains the master layout for the chapter. Control the language with the `isGa` attribute passed in with node script.
+  - Translations held in attributes.adoc.
 
 # Roadmap
 

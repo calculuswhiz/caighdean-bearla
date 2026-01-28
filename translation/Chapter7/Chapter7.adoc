@@ -16,6 +16,7 @@
 a. {7-1-1-a-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-a-sample1_ga} | {7-1-1-a-sample1} 
@@ -23,19 +24,37 @@ a. {7-1-1-a-p}
 | {7-1-1-a-sample3_ga} | {7-1-1-a-sample3} 
 | {7-1-1-a-sample4_ga} | {7-1-1-a-sample4} 
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-a-sample1}
+| {7-1-1-a-sample2}
+| {7-1-1-a-sample3}
+| {7-1-1-a-sample4}
+|===
+endif::[]
 
 b. {7-1-1-b-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-b-sample1_ga} | {7-1-1-b-sample1}
 | {7-1-1-b-sample2_ga} | {7-1-1-b-sample2}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-b-sample1}
+| {7-1-1-b-sample2}
+|===
+endif::[]
 
 c. {7-1-1-c-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-c-sample1_ga} | {7-1-1-c-sample1}
@@ -43,10 +62,20 @@ c. {7-1-1-c-p}
 | {7-1-1-c-sample3_ga} | {7-1-1-c-sample3}
 | {7-1-1-c-sample4_ga} | {7-1-1-c-sample4}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-c-sample1}
+| {7-1-1-c-sample2}
+| {7-1-1-c-sample3}
+| {7-1-1-c-sample4}
+|===
+endif::[]
 
 d. {7-1-1-d-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-d-sample1_ga} | {7-1-1-d-sample1}
@@ -56,19 +85,39 @@ d. {7-1-1-d-p}
 | {7-1-1-d-sample5_ga} | {7-1-1-d-sample5}
 | {7-1-1-d-sample6_ga} | {7-1-1-d-sample6}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-d-sample1}
+| {7-1-1-d-sample2}
+| {7-1-1-d-sample3}
+| {7-1-1-d-sample4}
+| {7-1-1-d-sample5}
+| {7-1-1-d-sample6}
+|===
+endif::[]
 
 e. {7-1-1-e-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-e-sample1_ga} | {7-1-1-e-sample1}
 | {7-1-1-e-sample2_ga} | {7-1-1-e-sample2}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-e-sample1}
+| {7-1-1-e-sample2}
+|===
+endif::[]
 
 f. {7-1-1-f-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-f-sample1_ga} | {7-1-1-f-sample1}
@@ -77,10 +126,21 @@ f. {7-1-1-f-p}
 | {7-1-1-f-sample4_ga} | {7-1-1-f-sample4}
 | {7-1-1-f-sample5_ga} | {7-1-1-f-sample5}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-f-sample1}
+| {7-1-1-f-sample2}
+| {7-1-1-f-sample3}
+| {7-1-1-f-sample4}
+| {7-1-1-f-sample5}
+|===
+endif::[]
 
 g. {7-1-1-g-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-g-sample1_ga} | {7-1-1-g-sample1}
@@ -89,10 +149,21 @@ g. {7-1-1-g-p}
 | {7-1-1-g-sample4_ga} | {7-1-1-g-sample4}
 | {7-1-1-g-sample5_ga} | {7-1-1-g-sample5}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-g-sample1}
+| {7-1-1-g-sample2}
+| {7-1-1-g-sample3}
+| {7-1-1-g-sample4}
+| {7-1-1-g-sample5}
+|===
+endif::[]
 
 h. {7-1-1-h-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-h-sample1_ga} | {7-1-1-h-sample1}
@@ -105,9 +176,25 @@ h. {7-1-1-h-p}
 | {7-1-1-h-sample8_ga} | {7-1-1-h-sample8}
 | {7-1-1-h-sample9_ga} | {7-1-1-h-sample9}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-h-sample1}
+| {7-1-1-h-sample2}
+| {7-1-1-h-sample3}
+| {7-1-1-h-sample4}
+| {7-1-1-h-sample5}
+| {7-1-1-h-sample6}
+| {7-1-1-h-sample7}
+| {7-1-1-h-sample8}
+| {7-1-1-h-sample9}
+|===
+endif::[]
+
 i. {7-1-1-i-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {7-1-1-i-sample1_ga} | {7-1-1-i-sample1}
@@ -116,6 +203,16 @@ i. {7-1-1-i-p}
 | {7-1-1-i-sample4_ga} | {7-1-1-i-sample4}
 | {7-1-1-i-sample5_ga} | {7-1-1-i-sample5}
 |===
+endif::[]
+ifdef::isGa[]
+|===
+| {7-1-1-i-sample1}
+| {7-1-1-i-sample2}
+| {7-1-1-i-sample3}
+| {7-1-1-i-sample4}
+| {7-1-1-i-sample5}
+|===
+endif::[]
 
 '''
 

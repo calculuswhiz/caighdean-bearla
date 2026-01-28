@@ -2,7 +2,7 @@ import Asciidoctor from "asciidoctor";
 import fs from "fs/promises";
 import path from "path";
 
-/* 
+/*
 Run command to generate all chapters:
 node ./scripts/generateDocs.js --dev --all
 */
@@ -48,16 +48,18 @@ export function processAdocFileContents(contents, language) {
   return outputBuffer.join("\n");
 }
 
-function convertCommon(raw, devMode) {
+function convertCommon(raw, devMode, isGa = false) {
   return asciidoctor.convert(raw, {
     attributes: {
       rootRef: devMode ? "/public/" : "/caighdean-i18n/",
-      idprefix: "sec_"
+      idprefix: "sec_",
+      // If the isGa attribute is set, we are generating the Irish version
+      isGa: isGa ? "1" : undefined,
     }
   });
 }
 
-/** Generate html for chapter by number. 
+/** Generate html for chapter by number.
  * Does not generate full document, only chapter content in a div.
  * @param {string} chapterFolder The chapter folder to load
  * @param {'ga' | 'en'} language The language selection
@@ -83,34 +85,7 @@ async function makeChapterHtml(chapterFolder, language, devMode) {
     processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
   ].join("\n");
 
-  return convertCommon(combined, devMode);
-}
-
-/** Similar to {@link makeChapterHtml}, but just generates the Irish version
- * @param {string} chapterFolder The chapter folder to load
- * @param {boolean} devMode Whether to generate in dev mode
- * @returns {Promise<string>} The processed chapter content as a string
- */
-async function makeOriginalIrishHtml(chapterFolder, devMode) {
-  const [chapterAdocModule, chapterAttributesModule, commonAttributesModule] =
-    await Promise.all([
-      fs.readFile(`./translation/${chapterFolder}/original.adoc`, "utf-8"),
-      fs.readFile(`./translation/${chapterFolder}/attributes.adoc`, "utf-8"),
-      fs.readFile(`./translation/CommonAttributes.adoc`, "utf-8"),
-    ]);
-
-  const rawChapterAdoc = chapterAdocModule;
-  const rawChapterAttributes = chapterAttributesModule;
-  const rawCommonAttributes = commonAttributesModule;
-
-  const processedChapterAttrs = processAdocFileContents(rawChapterAttributes, 'ga');
-  const processedCommonAttrs = processAdocFileContents(rawCommonAttributes, 'ga');
-
-  const combined = [
-    processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
-  ].join("\n");
-
-  return convertCommon(combined, devMode);
+  return convertCommon(combined, devMode, language === 'ga');
 }
 
 /**
@@ -121,7 +96,7 @@ async function generateDoc(chapterFolder) {
   const devMode = process.argv.includes("--dev");
 
   const translationHtml = await makeChapterHtml(chapterFolder, 'en', devMode);
-  const originalIrishHtml = await makeOriginalIrishHtml(chapterFolder, devMode);
+  const originalIrishHtml = await makeChapterHtml(chapterFolder, 'ga', devMode);
   const chapterTemplate = await fs.readFile(`./src/chapterTemplate.html`, "utf-8");
 
   const finalTranslatedHtml = chapterTemplate
@@ -129,8 +104,14 @@ async function generateDoc(chapterFolder) {
   const finalOriginalIrishHtml = chapterTemplate
     .replace("<!-- Insert content here -->", originalIrishHtml);
 
-  await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-en.html`, finalTranslatedHtml, "utf-8");
-  await fs.writeFile(`./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-ga.html`, finalOriginalIrishHtml, "utf-8");
+  await fs.writeFile(
+    `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-en.html`,
+    finalTranslatedHtml,
+    "utf-8");
+  await fs.writeFile(
+    `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-ga.html`,
+    finalOriginalIrishHtml,
+    "utf-8");
 }
 
 (async () => {
@@ -139,7 +120,7 @@ async function generateDoc(chapterFolder) {
     withFileTypes: true
   });
   const allChapters = xlateFolderEnts
-    .filter(ent => 
+    .filter(ent =>
       ent.isDirectory()
       // ! The main page is not built with asciidoc, ignore
       && ent.name !== "json"
@@ -149,7 +130,7 @@ async function generateDoc(chapterFolder) {
   if (process.argv.includes("--all")) {
     await fs.rm("./entrypoints/", { recursive: true, force: true });
     await fs.mkdir("./entrypoints/");
-    
+
     for (const chapterFolder of allChapters) {
       console.log(`Generating chapter: ${chapterFolder}`);
       await generateDoc(chapterFolder);

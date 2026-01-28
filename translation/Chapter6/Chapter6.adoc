@@ -14,80 +14,170 @@
 . {6-1-1-a-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-a-SampleBox-eg1_ga} | {6-1-1-a-SampleBox-eg1}
 | {6-1-1-a-SampleBox-eg2_ga} | {6-1-1-a-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-a-SampleBox-eg1}
+| {6-1-1-a-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-b-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-b-SampleBox-eg1_ga} | {6-1-1-b-SampleBox-eg1}
 | {6-1-1-b-SampleBox-eg2_ga} | {6-1-1-b-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-b-SampleBox-eg1}
+| {6-1-1-b-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-c-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-c-SampleBox-eg1_ga} | {6-1-1-c-SampleBox-eg1}
 | {6-1-1-c-SampleBox-eg2_ga} | {6-1-1-c-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-c-SampleBox-eg1}
+| {6-1-1-c-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-d-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-d-SampleBox-eg1_ga} | {6-1-1-d-SampleBox-eg1}
 | {6-1-1-d-SampleBox-eg2_ga} | {6-1-1-d-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-d-SampleBox-eg1}
+| {6-1-1-d-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-e-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-e-SampleBox-eg1_ga} | {6-1-1-e-SampleBox-eg1}
 | {6-1-1-e-SampleBox-eg2_ga} | {6-1-1-e-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-e-SampleBox-eg1}
+| {6-1-1-e-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-f-p1}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-f-SampleBox-eg1_ga} | {6-1-1-f-SampleBox-eg1}
 | {6-1-1-f-SampleBox-eg2_ga} | {6-1-1-f-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-f-SampleBox-eg1}
+| {6-1-1-f-SampleBox-eg2}
+|===
+endif::[]
 +
 {6-1-1-f-p2}
 . {6-1-1-g-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-g-SampleBox-eg1_ga} | {6-1-1-g-SampleBox-eg1}
 | {6-1-1-g-SampleBox-eg2_ga} | {6-1-1-g-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-g-SampleBox-eg1}
+| {6-1-1-g-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-h-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-h-SampleBox-eg1_ga} | {6-1-1-h-SampleBox-eg1}
 | {6-1-1-h-SampleBox-eg2_ga} | {6-1-1-h-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-h-SampleBox-eg1}
+| {6-1-1-h-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-i-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-i-SampleBox-eg1_ga} | {6-1-1-i-SampleBox-eg1}
 | {6-1-1-i-SampleBox-eg2_ga} | {6-1-1-i-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-i-SampleBox-eg1}
+| {6-1-1-i-SampleBox-eg2}
+|===
+endif::[]
+
 . {6-1-1-j-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-j-SampleBox-eg1_ga} | {6-1-1-j-SampleBox-eg1}
@@ -97,14 +187,35 @@
 | {6-1-1-j-SampleBox-eg5_ga} | {6-1-1-j-SampleBox-eg5}
 | {6-1-1-j-SampleBox-eg6_ga} | {6-1-1-j-SampleBox-eg6}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-j-SampleBox-eg1}
+| {6-1-1-j-SampleBox-eg2}
+| {6-1-1-j-SampleBox-eg3}
+| {6-1-1-j-SampleBox-eg4}
+| {6-1-1-j-SampleBox-eg5}
+| {6-1-1-j-SampleBox-eg6}
+|===
+endif::[]
 . {6-1-1-k-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {6-1-1-k-SampleBox-eg1_ga} | {6-1-1-k-SampleBox-eg1}
 | {6-1-1-k-SampleBox-eg2_ga} | {6-1-1-k-SampleBox-eg2}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {6-1-1-k-SampleBox-eg1}
+| {6-1-1-k-SampleBox-eg2}
+|===
+endif::[]
 
 '''
 
@@ -157,28 +268,36 @@
 
 | *suas* +
 Tá sé ag dul *suas* an staighre.
-| *thuas* {Table6A-row1} +
+a| *thuas*
+ifndef::isGa[{Table6A-row1} +]
+ifdef::isGa[ +]
 Tá sé *thuas* staighre.
 | *anuas* +
 Tá sé ag teacht *anuas* an staighre.
 
 | *síos*
 Tá sí ag dul *síos* an staighre.
-| *thíos* {Table6A-row2} +
+| *thíos* 
+ifndef::isGa[{Table6A-row2} +]
+ifdef::isGa[ +]
 Tá sí *thíos* staighre.
 | *aníos* +
 Tá sí ag teacht *aníos* an staighre.
 
 | *amach*
 An bhfuil tú ag dul *amach* don oíche?
-| *amuigh* {Table6A-row3} +
+| *amuigh*
+ifndef::isGa[{Table6A-row3} +]
+ifdef::isGa[ +]
 Táim *amuigh*.
 | *amach* +
 Tá sí ag teacht *amach* chomh fada leat.
 
 | *isteach*
 An bhfuil tú ag dul *isteach* sa teach?
-| *istigh* {Table6A-row4} +
+| *istigh*
+ifndef::isGa[{Table6A-row4} +]
+ifdef::isGa[ +]
 Is *istigh* sa teach a tharla an timpiste.
 | *isteach* +
 Tar *isteach* chugam!
@@ -191,35 +310,45 @@ Tar *isteach* chugam!
 
 | *ó thuaidh* +
 Rachaimid *ó thuaidh* amárach.
-| *ó thuaidh*/*thuaidh* {Table6B-row1} +
+| *ó thuaidh*/*thuaidh*
+ifndef::isGa[{Table6B-row1} +]
+ifdef::isGa[ +]
 Tá an siopa sin ar an taobh *ó thuaidh*/*thuaidh* den chontae.
 | *aduaidh* +
 Tháinig siad *aduaidh* inné.
 
 | *ó dheas* +
 D'imigh sé *ó dheas* ar maidin.
-| *ó dheas*/*theas* {Table6B-row2} +
+| *ó dheas*/*theas*
+ifndef::isGa[{Table6B-row2} +]
+ifdef::isGa[ +]
 Tá teach acu ar an gcósta *ó dheas*/*theas*.
 | *aneas* +
 Tá sí ag teacht *aneas* faoi láthair.
 
 | *soir* + 
 An ndeachaigh tú *soir* chucu?
-| *thoir* {Table6B-row3} +
+| *thoir*
+ifndef::isGa[{Table6B-row3} +]
+ifdef::isGa[ +]
 Chuaigh, ach ní raibh aon duine *thoir*.
 | *anoir* +
 Bhí orm teacht *anoir* arís.
 
 | *siar* +
 An bhfuil tú ag dul *siar* anocht?
-| *thiar* {Table6B-row4} +
+| *thiar*
+ifndef::isGa[{Table6B-row4} +]
+ifdef::isGa[ +]
 An raibh tú *thiar* aréir?
 | *aniar* +
 An mbeidh siad ag teacht *aniar* ar cuairt?
 
 | *anonn*/*sall* +
 An ndeachaigh Áine *sall*/*anonn* go Sasana inné?
-| *thall* {Table6B-row5} +
+| *thall*
+ifndef::isGa[{Table6B-row5} +]
+ifdef::isGa[ +]
 Chuaigh, tá sí *thall* le seachtain.
 | *anall* +
 Cén uair a thiocfaidh sí *anall* arís?
@@ -250,10 +379,14 @@ image::{rootRef}Compass-quarter.svg[Static]
 [.w-full]
 [cols="1,1,1,1"]
 |===
-| *T (an tuaisceart {CompassT})*
-| *D (an deisceart {CompassD})*
-| *O (an t-oirthear {CompassO})*
-| *I (an t-iarthar {CompassI})*
+ifndef::isGa[| *T (an tuaisceart {CompassT})*]
+ifdef::isGa[| *T (an tuaisceart)*]
+ifndef::isGa[| *D (an deisceart {CompassD})*]
+ifdef::isGa[| *D (an deisceart)*]
+ifndef::isGa[| *O (an t-oirthear {CompassO})*]
+ifdef::isGa[| *O (an t-oirthear)*]
+ifndef::isGa[| *I (an t-iarthar {CompassI})*]
+ifdef::isGa[| *I (an t-iarthar)*]
 |===
 
 {6-4-p2}

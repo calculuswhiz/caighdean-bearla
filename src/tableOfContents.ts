@@ -22,7 +22,8 @@ function processHeading(heading: EasyDOM<HTMLHeadingElement>) {
   const newId = id.replace(/(sec(_\d+)+).*/, '$1');
   heading.element.id = newId;
 
-  const match = heading.element.textContent?.match(/^(\d+(\.\d+)+)(.*)/);
+  // Use innerHTML because we want to preserve any inner markup (like <em> and <strong>)
+  const match = heading.element.innerHTML?.match(/^(\d+(\.\d+)+)(.*)/);
   if (match) {
     const numberSpan = EasyDOM.createElement("span")
       .addClasses('mr-2')
@@ -34,7 +35,7 @@ function processHeading(heading: EasyDOM<HTMLHeadingElement>) {
       .setText('')
       .append(
         numberSpan,
-        EasyDOM.createElement("span").setText(restText)
+        EasyDOM.createElement("span").setHtml(restText)
       )
   }
 }

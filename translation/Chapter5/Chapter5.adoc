@@ -1892,6 +1892,7 @@ fágaimis
 . {5-4-5-a-p}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {5-4-5-SampleBox-1_ga} | {5-4-5-SampleBox-1}
@@ -1900,10 +1901,22 @@ fágaimis
 | {5-4-5-SampleBox-4_ga} | {5-4-5-SampleBox-4}
 | {5-4-5-SampleBox-5_ga} | {5-4-5-SampleBox-5}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {5-4-5-SampleBox-1}
+| {5-4-5-SampleBox-2}
+| {5-4-5-SampleBox-3}
+| {5-4-5-SampleBox-4}
+| {5-4-5-SampleBox-5}
+|===
+endif::[]
 +
 {5-4-5-a-p2}
 +
 [.samplebox]
+ifndef::isGa[]
 [cols="1,1"]
 |===
 | {5-4-5-SampleBox2-1_ga} | {5-4-5-SampleBox2-1}
@@ -1912,6 +1925,17 @@ fágaimis
 | {5-4-5-SampleBox2-4_ga} | {5-4-5-SampleBox2-4}
 | {5-4-5-SampleBox2-5_ga} | {5-4-5-SampleBox2-5}
 |===
+endif::[]
+ifdef::isGa[]
+[cols="1"]
+|===
+| {5-4-5-SampleBox2-1}
+| {5-4-5-SampleBox2-2}
+| {5-4-5-SampleBox2-3}
+| {5-4-5-SampleBox2-4}
+| {5-4-5-SampleBox2-5}
+|===
+endif::[]
 +
 . {5-4-5-b-p}
 . {5-4-5-c-p}

@@ -57,5 +57,16 @@
 			"== $1.$2 {$1-$2-title}",
 			"$0",
 		]
+	},
+	"gaCheck": {
+		"scope": "asciidoc",
+		"prefix": "gaCheck",
+		"body": [
+			"ifndef::isGa[]",
+			"${TM_SELECTED_TEXT}",
+			"endif::[]",
+			"ifdef::isGa[]",
+			"endif::[]"
+		]
 	}
 }
