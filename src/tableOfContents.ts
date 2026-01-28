@@ -41,16 +41,16 @@ function processHeading(heading: EasyDOM<HTMLHeadingElement>) {
 }
 
 function addSectionLinks(heading: EasyDOM<HTMLHeadingElement>) {
-  const linkIcon = EasyDOM.createElement("span")
+  const sectionLink = EasyDOM.createElement("a")
     .setProperties({ title: "Link to this section" })
     .addClasses('mx-2', 'text-blue-400', 'hover:text-blue-600', 'cursor-pointer', 'select-none')
     .setText('#');
 
-  linkIcon.element.addEventListener('click', () => {
+  sectionLink.element.addEventListener('click', () => {
     location.href = `${location.origin}${location.pathname}#${heading.element.id}`;
   });
 
-  heading.prepend(linkIcon);
+  heading.prepend(sectionLink);
 }
 
 /** Scan DOM, adding Table of Contents element to the document.

@@ -8,7 +8,7 @@
 :4-1-1-p_en: The adjectives are divided into three declensions.
 
 :4-1-2-p_ga: Ní dhíochlaontar an aidiacht ach amháin nuair a úsáidtear mar aidiacht cháilíochta í.
-:4-1-2-p_en: The adjective is not declined except when it is used as an attributive adjective.
+:4-1-2-p_en: The adjective is only declined when it is used as an attributive adjective.
 
 :4-1-3-p_ga: Braitheann foirm aidiachta cáilíochta ar inscne, tuiseal agus uimhir an ainmfhocail atá á cháiliú léi agus ar dhíochlaonadh na haidiachta féin. Féach link:./chapter9-ga.html[Caibidil 9] le haghaidh rialacha maidir le haidiachtaí a úsáid le huimhreacha.
 :4-1-3-p_en: The form of the attributive adjective depends on gender, case and number of the noun that it is qualifying and on the declension of the adjective itself. See link:./chapter9-en.html[Chapter 9] for rules on using adjectives with numbers.
@@ -487,7 +487,7 @@
 :Table4G-caption_en: Summary of the Adjectives' Declensions — Feminine Plural
 
 :4-8-title_ga: Céimeanna Comparáide na hAidiachta
-:4-8-title_en: Degrees of Comparison of the Adjective
+:4-8-title_en: Degrees of Comparison of the Adjectives
 
 :4-8-1-a-p_ga: Is gnách gurb ionann foirm do bhreischéim agus do shárchéim aidiachta agus don ghinideach uatha baininscneach, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _deacair_, _deacra_; _díreach_, _dírí_.
 :4-8-1-a-p_en: The form of the comparative degree and superlative forms of adjectives is usually the same as the feminine genitive singular, e.g., _ard_, _airde_; _breá_, _breátha_; _cóir_, _córa_; _dathúil_, _dathúla_; _diacair_, _diacra_; _diríct_, _diríct_.
@@ -529,7 +529,7 @@
 :4-8-3-title_en: Forms following _dá_ and _a_
 
 :4-8-3-a-p_ga: I ndiaidh _dá_ agus _a_, is cuma feidhm réamhthagrach nó feidhm iarthagrach a bheith acu, is gnách go n-úsáidtear foirm is ionann agus foirm na breischéime den aidiacht nó foirm a dhíorthaíonn ón mbreischéim nó ón mbunchéim agus a chríochnaíonn ar _-cht_.
-:4-8-3-a-p_en: After _dá_ and _a_, regardless of whether they have a proleptic or analeptic(?) function, a form that is the same as the comparative form of the adjective or a form that derives from the comparative or the base form and ends in _-cht_ is usually used.
+:4-8-3-a-p_en: After _dá_ and _a_, regardless of whether they have a proleptic or anaphoric function, a form that is the same as the comparative form of the adjective or a form that derives from the comparative or the base form and ends in _-cht_ is usually used.
 
 :4-8-3-b-p_ga: Ní úsáidtear ach foirm amháin i gcás na n-aidiachtaí seo a leanas: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; agus i gcás na leaganacha neamhrialta seo: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_.
 :4-8-3-b-p_en: Only one form is used for the following adjectives: _dócha_, _dóichí_; _dona_, _donacht_; _furasta_, _fusacht_; _gearr_, _giorracht_; and for these irregular forms: _beag_, _laghad_; _fada_, _fad_; _iomaí_, _liacht_; _maith_, _feabhas_; _mór_, _méad/méid_; _olc_, _olcas_; _tiubh_, _tiús_. (_Translation note_: These are abstract nouns. e.g., _beag_ (_small_) → _laghad_ (_smallness_))
