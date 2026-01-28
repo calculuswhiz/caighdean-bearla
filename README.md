@@ -140,6 +140,9 @@ npm run generate-docs
   - Names of places, if they have a common English name, shall be translated
   - Abbreviations shall be translated if a common English translation for the noun exists. E.g. RTÉ will not be translated, but **SAM** becomes **USA**.
 
+- **athrú an ghinidigh**
+  - This describes what happens when a nominative is changed to a genitive, for example, in a verbal noun. This will be translated as **genitive change**. Discussed further in ch 3.
+
 ## Abbreviations and sources
 Some of these may appear in annotations and comments in the Asciidoc code.
 - GT - Google Translate

@@ -965,7 +965,7 @@ h|
 
 | {Table3G-row3-condition}
 | {Table3G-row3-rule}
-| Bhí na fir shlándála ar tí *no doirse* a dhúnadh.
+| Bhí na fir shlándála ar tí *na doirse* a dhúnadh.
 
 | {Table3G-row4-condition}
 | {Table3G-row4-rule}
