@@ -1226,7 +1226,7 @@ h| 104ú | beithígh an chéad is ceathrú feirmeoir
 . {9-6-1-a-p}
 . {9-6-1-b-p1}
 +
-{9-6-1-p2}
+{9-6-1-b-p2}
 . {9-6-1-c-p}
 . {9-6-1-d-p}
 . {9-6-1-e-p}
@@ -1445,7 +1445,7 @@ h| 81/84
 .*{Table} 9EE* {Table9EECaption}
 |===
 
-h| 0-19 h| {TheNominativeCase} h| {TheGenitiveCase} h| {Tabel9EE-col4}
+h| 0&ndash;19 h| {TheNominativeCase} h| {TheGenitiveCase} h| {Tabel9EE-col4}
 
 h| {Table9EE-Row1} 
 a| . aon bhileog ghlan amháin

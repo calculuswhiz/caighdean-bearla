@@ -324,30 +324,24 @@
     <tr>
       <td>
         {Table11A-row1-col1}
-        {Table11A-row1-col1}
       </td>
       <td>
-        {Table11A-row1-col2}
         {Table11A-row1-col2}
       </td>
     </tr>
     <tr>
       <td>
         {Table11A-row2-col1}
-        {Table11A-row2-col1}
       </td>
       <td>
-        {Table11A-row2-col2}
         {Table11A-row2-col2}
       </td>
     </tr>
     <tr>
       <td>
         {Table11A-row3-col1}
-        {Table11A-row3-col1}
       </td>
       <td>
-        {Table11A-row3-col2}
         {Table11A-row3-col2}
       </td>
     </tr>
@@ -388,30 +382,24 @@
     <tr>
       <td>
         {Table11B-row1-col1}
-        {Table11B-row1-col1}
       </td>
       <td>
-        {Table11B-row1-col2}
         {Table11B-row1-col2}
       </td>
     </tr>
     <tr>
       <td>
         {Table11B-row2-col1}
-        {Table11B-row2-col1}
       </td>
       <td>
-        {Table11B-row2-col2}
         {Table11B-row2-col2}
       </td>
     </tr>
     <tr>
       <td>
         {Table11B-row3-col1}
-        {Table11B-row3-col1}
       </td>
       <td>
-        {Table11B-row3-col2}
         {Table11B-row3-col2}
       </td>
     </tr>
