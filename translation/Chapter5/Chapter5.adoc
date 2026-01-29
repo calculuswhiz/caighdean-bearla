@@ -425,7 +425,7 @@ fágaimis
     <tr>
       <th class="font-bold" rowspan="2">{PastHabitualTense}</th>
       <td>d'at + taí</td>
-      <td>d'at + taí</td>
+      <td>d'ataí</td>
       <td>loit + tí</td>
       <td>loití</td>
     </tr>
