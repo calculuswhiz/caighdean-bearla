@@ -1589,7 +1589,7 @@
 :10-13-2-title_en: After _ní_
 
 :10-13-2-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ ar na forainmnigh thaispeántacha _éard_, _eo_, _in_ agus _iúd_, e.g., _ní héard_; _ní heo_; _ní hin_; _ní hiúd_.
-:10-13-2-p_en: _h_ is placed before a vowel after _ní_ on the demonstrative pronominals _éard_, _eo_, _in_ and _iúd_, e.g., _ní héard_; _ní heo_; _ní hin_; _ní hiúd_. (_TL Note:_ eo, in, _and_ iúd _are secondary forms in dialectical Irish according to https://en.wikisource.org/wiki/Graim%C3%A9ar_na_Gaedhilge/Part_II_Chapter_IV[Graiméar na Gaedhilge, Part II Chapter IV]. These entries are not found in FGB._)
+:10-13-2-p_en: _h_ is placed before a vowel after _ní_ on the demonstrative pronominals _éard_, _eo_, _in_ and _iúd_, e.g., _ní héard_; _ní heo_; _ní hin_; _ní hiúd_.
 
 :10-13-2-sample-1_ga: *Ní heo* é an rud atá le déanamh.
 :10-13-2-sample-1_en: *This* is not the thing to be done.

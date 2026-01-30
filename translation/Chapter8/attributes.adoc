@@ -185,16 +185,16 @@
 :8-3-2-p_en: The emphatic forms of the third person pronominal (_seisean_, _sise_, _siadsan_) can also be used to express emphasis, e.g., _a gheansaí seisean_; _a cóta sise_; _a dteach siadsan_.
 
 :8-3-2-sample1_ga: Ní raibh mórán i gceist *lena mhodúil seisean*.
-:8-3-2-sample1_en: There wasn't much to *his module*.
+:8-3-2-sample1_en: There wasn't much to *_his_ module*.
 
 :8-3-2-sample2_ga: An bhfaca tú *a carr sise*?
-:8-3-2-sample2_en: Did you see *her car*?
+:8-3-2-sample2_en: Did you see *_her_ car*?
 
 :8-3-2-sample3_ga: Tá neart le déanamh ar *a bhfeirm siadsan*.
-:8-3-2-sample3_en: There is plenty to do on *their farm*.
+:8-3-2-sample3_en: There is plenty to do on *_their_ farm*.
 
 :8-3-3-p_ga: I gcás ina bhfuil an bhunuimhir _dhá_ idir an aidiacht shealbhach agus an t-ainmfhocal, ní ar an mbunuimhir ach ar an ainmfhocal a dhéantar na hathruithe tosaigh.
-:8-3-3-p_en: When the number _dhá_ (_En -- two_) appears between a possessive adjective and a noun, it is the noun that undergoes the initial mutation, not the possessive adjective.
+:8-3-3-p_en: When the number _dhá_ (_EN: two_) appears between a possessive adjective and a noun, it is the noun that undergoes the initial mutation, not the possessive adjective.
 
 :8C-caption_ga: An Aidiacht Shealbhach agus _dhá_
 :8C-caption_en: The Possessive Adjective and _dhá_
@@ -398,7 +398,7 @@
 :8F-caption_en: The Prepositional Pronominals
 
 :TheThirdPerson_ga: An Triú Pearsa
-:TheThirdPerson_en: The Third Person
+:TheThirdPerson_en: Third Person
 
 :8-4-p_ga: Tabhair faoi deara:
 :8-4-p_en: Note that:
@@ -527,7 +527,7 @@
 :8-6-1-d-p_en: with an adverbial function, e.g., _chomh híseal seo_ (_sin_, _siúd_); _chomh mór seo_ (_sin_, _siúd_).
 
 :8-6-2-p_ga: Is minic a úsáidtear na foirmeacha _eo_, _in_ agus _iúd_ in ionad _seo_, _sin_ agus _siúd_ ar lorg na copaile. Tabhair faoi deara nach n-úsáidtear na leaganacha _eo_, _in_ ná _iúd_ tar éis _is_.
-:8-6-2-p_en: The forms _eo_, _in_ and _iúd_ are often used instead of _seo_, _sin_ and _siúd_ in the copula. Note that the forms _eo_, _in_ and _iúd_ are not used after _is_.
+:8-6-2-p_en: The forms _eo_, _in_ and _iúd_ are often used instead of _seo_, _sin_ and _siúd_ in the copula. Note that the forms _eo_, _in_ and _iúd_ are not used after _is_. (*TL Note*: _eo_, _in_, and _iúd_ are secondary forms in dialectical Irish according to https://en.wikisource.org/wiki/Graim%C3%A9ar_na_Gaedhilge/Part_II_Chapter_IV[Graiméar na Gaedhilge, Part II Chapter IV]. These entries are not found in FGB.)
 
 :8-6-2-sample1_ga: B'*eo* an áit.
 :8-6-2-sample1_en: *This* was the place.

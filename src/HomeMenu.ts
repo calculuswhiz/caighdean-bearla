@@ -76,7 +76,7 @@ const availableChapters: {
     {
       labelChain: ["chapterTitles", "Chapter8"],
       id: "chapter8",
-      bg: "bg-gray-600",
+      bg: "bg-green-700",
       fg: "text-white"
     },
     {

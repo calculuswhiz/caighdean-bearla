@@ -54,9 +54,9 @@
     <tr>
         <td>{TheThirdPersonMasc}</td>
         <td>sé, é</td>
-        <td rowspan="2">siad, iad</td>
+        <td rowspan="2" class="align-middle">siad, iad</td>
         <td>seisean, eisean</td>
-        <td rowspan="2">siadsan, iadsan</td>
+        <td rowspan="2" class="align-middle">siadsan, iadsan</td>
     </tr>
     <tr>
         <td>{TheThirdPersonFem}</td>
@@ -299,7 +299,7 @@ endif::[]
                 <li>a athairsean</li>
             </ul>
         </td>
-        <td rowspan=2>
+        <td rowspan=2 class="align-middle">
             <ul>
                 <li>a mbádnasan</li>
                 <li>a n-aránsan</li>
@@ -429,7 +429,7 @@ endif::[]
                 <li>a dhá fheirm </li>
             </ul>
         </td>
-        <td rowspan=2>
+        <td rowspan=2 class="align-middle">
             <ul>
                 <li>a dhá gcarr</li>
                 <li>a dhá n-úll</li>
@@ -476,40 +476,51 @@ endif::[]
 . {8-3-4-a-p}
 . {8-3-4-b-p}
 
-[.chapter-8]
-[%header]
-[cols="1.5,1,1,1,1"]
-.*{Table} 8D* {8D-caption}
-|===
-h|
-| {TheSingular}
-| {ThePlural}
-| {TheSingular}
-| {ThePlural}
-
-| {TheFirstPerson}
-| mo cheannsa
-| ár gceann-na
-| mo chuidse
-| ár gcuidne
-
-| {TheSecondPerson}
-| do cheannsa
-| bhur gceannsa
-| do chuidse
-| bhur gcuidse
-
-| {TheThirdPersonMasc}
-| a ceannsan
-.2+| a gceannsan
-| a chuidsean
-.2+| a gcuidsean
-
-| {TheThirdPersonFem}
-| a ceannsa
-| a cuidse
-
-|===
+[subs="attributes,replacements,macros"]
+++++
+<table class="chapter-8">
+  <caption>
+      <strong>{Table} 8D</strong> {8D-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th></th>
+        <th>{TheSingular}</th>
+        <th>{ThePlural}</th>
+        <th>{TheSingular}</th>
+        <th>{ThePlural}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>{TheFirstPerson}</td>
+        <td>mo cheannsa</td>
+        <td>ár gceann-na</td>
+        <td>mo chuidse</td>
+        <td>ár gcuidne</td>
+    </tr>
+    <tr>
+        <td>{TheSecondPerson}</td>
+        <td>do cheannsa</td>
+        <td>bhur gceannsa</td>
+        <td>do chuidse</td>
+        <td>bhur gcuidse</td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonMasc}</td>
+        <td>a cheannsan</td>
+        <td rowspan="2" class="align-middle">a gceannsan</td>
+        <td>a chuidsean</td>
+        <td rowspan="2" class="align-middle">a gcuidsean</td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonFem}</td>
+        <td>a cheannsa</td>
+        <td>a cuidse</td>
+    </tr>
+  </tbody>
+</table>
+++++
 
 [.samplebox]
 ifndef::isGa[]
@@ -543,40 +554,51 @@ endif::[]
 
 {8-3-5-p}
 
-[.chapter-8]
-[%header]
-[cols="1.5,1,1,1,1"]
-.*{Table} 8E* {8E-caption}
-|===
-h|
-| {TheSingular}
-| {ThePlural}
-| {TheSingular}
-| {ThePlural}
-
-| {TheFirstPerson}
-| do m'ainmniú
-| dár n-ainmniú
-| do mo thástáil
-| dár dtástáil
-
-| {TheSecondPerson}
-| do d'ainmniú
-| do bhur n-ainmniú
-| do do thástáil
-| do bhur dtástáil
-
-| {TheThirdPersonMasc}
-| á ainmniú
-.2+| á n-ainmniú
-| á thástáil
-.2+| á dtástáil
-
-| {TheThirdPersonFem}
-| á hainmniú
-| á tástáil
-
-|===
+[subs="attributes,replacements,macros"]
+++++
+<table class="chapter-8">
+  <caption>
+      <strong>{Table} 8E</strong> {8E-caption}
+  </caption>
+  <thead>
+    <tr>
+      <th></th>
+      <th>{TheSingular}</th>
+      <th>{ThePlural}</th>
+      <th>{TheSingular}</th>
+      <th>{ThePlural}</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>{TheFirstPerson}</td>
+        <td>do m'ainmniú</td>
+        <td>dár n-ainmniú</td>
+        <td>do mo thástáil</td>
+        <td>dár dtástáil</td>
+    </tr>
+    <tr>
+        <td>{TheSecondPerson}</td>
+        <td>do d'ainmniú</td>
+        <td>do bhur n-ainmniú</td>
+        <td>do do thástáil</td>
+        <td>do bhur dtástáil</td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonMasc}</td>
+        <td>á ainmniú</td>
+        <td rowspan="2" class="align-middle">á n-ainmniú</td>
+        <td>á thástáil</td>
+        <td rowspan="2" class="align-middle">á dtástáil</td>
+    </tr>
+    <tr>
+        <td>{TheThirdPersonFem}</td>
+        <td>á hainmniú</td>
+        <td>á tástáil</td>
+    </tr>
+  </tbody>
+</table>
+++++
 
 [.samplebox]
 ifndef::isGa[]
