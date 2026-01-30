@@ -59,6 +59,17 @@ function convertCommon(raw, devMode, isGa = false) {
   });
 }
 
+function convertAtPath(filePath, devMode, isGa = false) {
+  return asciidoctor.convertFile(filePath, {
+    attributes: {
+      rootRef: devMode ? "/public/" : "/caighdean-i18n/",
+      idprefix: "sec_",
+      // If the isGa attribute is set, we are generating the Irish version
+      isGa: isGa ? "1" : undefined,
+    }
+  });
+}
+
 /** Generate html for chapter by number.
  * Does not generate full document, only chapter content in a div.
  * @param {string} chapterFolder The chapter folder to load
@@ -67,10 +78,11 @@ function convertCommon(raw, devMode, isGa = false) {
  * @returns {Promise<string>} The processed chapter content as a string
  */
 async function makeChapterHtml(chapterFolder, language, devMode) {
+  const chapterBaseDir = `./translation/${chapterFolder}`;
   const [chapterAdocModule, chapterAttributesModule, commonAttributesModule] =
     await Promise.all([
-      fs.readFile(`./translation/${chapterFolder}/${chapterFolder}.adoc`, "utf-8"),
-      fs.readFile(`./translation/${chapterFolder}/attributes.adoc`, "utf-8"),
+      fs.readFile(`${chapterBaseDir}/${chapterFolder}.adoc`, "utf-8"),
+      fs.readFile(`${chapterBaseDir}/attributes.adoc`, "utf-8"),
       fs.readFile(`./translation/CommonAttributes.adoc`, "utf-8"),
     ]);
 

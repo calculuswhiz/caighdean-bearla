@@ -68,7 +68,7 @@
 :6-1-1-f-p2_en: Note that _níos_ can be used in all tenses but _ní b'_/_ní ba_ is only used in the past tense, the past habitual tense and the conditional mood. _ní b'_ is used before an adjective beginning with a vowel or _fh-_ + _vowel_, e.g., _Ba ghá dóibh dréimire níos fearr_/_ní b'fhearr a fháil anuraidh_; _Dá mbeinn bliain níos óige_/_ní b'óige_, _d'imreoinn an cluiche_; and _ní ba_ is used before a consonant, e.g., _Bhí na braillíní níos gile_/_ní ba ghile ná an sneachta_.
 
 :6-1-1-g-p_ga: *dobhriathar treise*, e.g., _féin_:
-:6-1-1-g-p_en: *strong adverb*, e.g., _féin_:
+:6-1-1-g-p_en: *emphatic adverb*, e.g., _féin_:
 
 :6-1-1-g-SampleBox-eg1_ga: Má bhí sé tuirseach *féin*, chuaigh sé chuig an Oireachtas.
 :6-1-1-g-SampleBox-eg1_en: If he was tired him**self**, he went to the Oireachtas.
@@ -89,13 +89,13 @@
 :6-1-1-i-p_en: *adjective used as an adverb*, e.g., _gann_, _gearr_:
 
 :6-1-1-i-SampleBox-eg1_ga: Bhí siad duine *gearr*.
-:6-1-1-i-SampleBox-eg1_en: They were a *short* person.
+:6-1-1-i-SampleBox-eg1_en: They were *short* a person.
 
 :6-1-1-i-SampleBox-eg2_ga: Bhí muid *gann* i mbainne.
 :6-1-1-i-SampleBox-eg2_en: We were *short* of milk.
 
 :6-1-1-j-p_ga: *dobhriathar a úsáid go haidiachtach*, e.g., _amach_, _aniar_, _anuas_, _isteach_:
-:6-1-1-j-p_en: *adverb used as an adjective*, e.g., _amach_, _aniar_, _anuas_, _isteach_:<br />(*TL Note*: Similar constructions do not exist in English. These imply direction or origin. E.g. a literal translation of "fear amach" would be "outwardly man", but that is not idiomatic English. Translations here will just give the meaning without attempting to parallel.)
+:6-1-1-j-p_en: *adverb used as an adjective*, e.g., _amach_, _aniar_, _anuas_, _isteach_:<br />(*TL Note*: Similar constructions do not exist in English. These imply direction or origin. E.g. a literal translation of _fear amach_ would be _outwardly man_, but that is not idiomatic English. Translations here will just give the meaning without attempting to parallel.)
 
 :6-1-1-j-SampleBox-eg1_ga: An bhfeiceann tú an fear *amach*?
 :6-1-1-j-SampleBox-eg1_en: Do you see the man who went out?
@@ -139,8 +139,8 @@
 :6-2-c-p_ga: má thagann dobhriathar aidiachtach roimh an dobhriathar:
 :6-2-c-p_en: if an adjectival adverb comes before the adverb:
 
-:6-2-d-p_ga: i ndiaidh na ndobhriathra *cuibheasach* agus *sách*, má tá siad ag cáiliú focal atá díreach ina ndiaidh:
-:6-2-d-p_en: after the adverbs *cuibheasach* and *sách*, if they are qualifying a word immediately following them:
+:6-2-d-p_ga: i ndiaidh na ndobhriathra _cuibheasach_ agus _sách_, má tá siad ag cáiliú focal atá díreach ina ndiaidh:
+:6-2-d-p_en: after the adverbs _cuibheasach_ and _sách_, if they are qualifying a word immediately following them:
 
 :6-3-title_ga: Dobhriathra Áite agus Treo
 :6-3-title_en: Adverbs of Place and Direction
@@ -157,19 +157,107 @@
 :Table6A-caption_ga: Dobhriathra Áite
 :Table6A-caption_en: Adverbs of Place
  
-:Table6A-row1_en: -- Above
-:Table6A-row2_en: -- Below
-:Table6A-row3_en: -- Outside
-:Table6A-row4_en: -- Inside
+:Table6A-row1-suas-sample_ga: Tá sé ag dul *suas* an staighre.
+:Table6A-row1-suas-sample_en: _EN_: He's going *up* the stairs.
+
+:Table6A-row1-thuas_en: -- Above
+
+:Table6A-row1-thuas-sample_ga: Tá sé *thuas* staighre.
+:Table6A-row1-thuas-sample_en: _EN_: He's *up* the stairs.
+
+:Table6A-row1-anuas-sample_ga: Tá sé ag teacht *anuas* an staighre.
+:Table6A-row1-anuas-sample_en: _EN_: He's coming *from up* the stairs.
+
+:Table6A-row2-síos-sample_ga: Tá sí ag dul *síos* an staighre.
+:Table6A-row2-síos-sample_en: _EN_: She's going *down* the stairs.
+
+:Table6A-row2-thíos_en: -- Below
+
+:Table6A-row2-thíos-sample_ga: Tá sí *thíos* staighre.
+:Table6A-row2-thíos-sample_en: _EN_: She's *down* the stairs.
+
+:Table6A-row2-aníos-sample_ga: Tá sí ag teacht *aníos* an staighre.
+:Table6A-row2-aníos-sample_en: _EN_: She's coming *up* the stairs.
+
+:Table6A-row3-amach-sample-1_ga: An bhfuil tú ag dul *amach* don oíche?
+:Table6A-row3-amach-sample-1_en: _EN_: Are you going *out* for the night?
+
+:Table6A-row3-amuigh_en: -- Outside
+
+:Table6A-row3-amuigh-sample_ga: Tá mé *amuigh*.
+:Table6A-row3-amuigh-sample_en: _EN_: I'm *outside*.
+
+:Table6A-row3-amach-sample-2_ga: Tá sí ag teacht *amach* chomh fada leat.
+:Table6A-row3-amach-sample-2_en: _EN_: She's coming *out* as far as you.
+
+:Table6A-row4-isteach-sample-1_ga: An bhfuil tú ag dul *isteach* sa teach?
+:Table6A-row4-isteach-sample-1_en: _EN_: Are you going *in* the house?
+
+:Table6A-row4-istigh_en: -- Inside
+
+:Table6A-row4-istigh-sample_ga: Is *istigh* sa teach a tharla an timpiste.
+:Table6A-row4-istigh-sample_en: _EN_: The accident happened *inside* the house.
+
+:Table6A-row4-isteach-sample-2_ga: Tar *isteach* chugam!
+:Table6A-row4-isteach-sample-2_en: _EN_: Come *in* to me!
 
 :Table6B-caption_ga: Dobhriathra Treo
 :Table6B-caption_en: Adverbs of Direction
 
-:Table6B-row1_en: -- North
-:Table6B-row2_en: -- South
-:Table6B-row3_en: -- East
-:Table6B-row4_en: -- West
-:Table6B-row5_en: -- Over (e.g. there)
+:Table6B-row1-óThuaidh-sample_ga: Rachaimid *ó thuaidh* amárach.
+:Table6B-row1-óThuaidh-sample_en: _EN_: We will go *north* tomorrow.
+
+:Table6B-row1-thuaidh_en: -- North
+
+:Table6B-row1-thuaidh-sample_ga: Tá an siopa sin ar an taobh *ó thuaidh*/*thuaidh* den chontae.
+:Table6B-row1-thuaidh-sample_en: _EN_: That shop is on the *north* side of the county.
+
+:Table6B-row1-aduaidh-sample_ga: Tháinig siad *aduaidh* inné.
+:Table6B-row1-aduaidh-sample_en: _EN_: They came *from the north* yesterday.
+
+:Table6B-row2-óDheas-sample_ga: D'imigh sé *ó dheas* ar maidin. 
+:Table6B-row2-óDheas-sample_en: _EN_: He went *south* this morning.
+
+:Table6B-row2-theas_en: -- South
+
+:Table6B-row2-theas-sample_ga: Tá teach acu ar an gcósta *ó dheas*/*theas*.
+:Table6B-row2-theas-sample_en: _EN_: They have a house on the *south* coast.
+
+:Table6B-row2-aneas-sample_ga: Tá sí ag teacht *aneas* faoi láthair.
+:Table6B-row2-aneas-sample_en: _EN_: She is coming *south* at present.
+
+:Table6B-row3-soir-sample_ga: An ndeachaigh tú *soir* chucu?
+:Table6B-row3-soir-sample_en: _EN_: Did you go *east* to them?
+
+:Table6B-row3-thoir_en: -- East
+
+:Table6B-row3-thoir-sample_ga: Chuaigh, ach ní raibh aon duine *thoir*.
+:Table6B-row3-thoir-sample_en: _EN_: They went, but there was no one *east*.
+
+:Table6B-row3-anoir-sample_ga: Bhí orm teacht *anoir* arís.
+:Table6B-row3-anoir-sample_en: _EN_: I had to come *east* again.
+
+:Table6B-row4-siar-sample_ga: An bhfuil tú ag dul *siar* anocht?
+:Table6B-row4-siar-sample_en: _EN_: Are you going *west* tonight?
+
+:Table6B-row4-thiar_en: -- West
+
+:Table6B-row4-thiar-sample_ga: An raibh tú *thiar* aréir?
+:Table6B-row4-thiar-sample_en: _EN_: Were you *west* last night?
+
+:Table6B-row4-aniar-sample_ga: An mbeidh siad ag teacht *aniar* ar cuairt?
+:Table6B-row4-aniar-sample_en: _EN_: Will they be coming *west* on a visit?
+
+:Table6B-row5-anonn-sample_ga: An ndeachaigh Áine *sall/anonn* go Sasana inné?
+:Table6B-row5-anonn-sample_en: _EN_: Did Áine go *over* to England yesterday?
+
+:Table6B-row5-thall_en: -- Over (e.g. there)
+
+:Table6B-row5-thall-sample_ga: Chuaigh, tá sí *thall* le seachtain.
+:Table6B-row5-thall-sample_en: _EN_: She went, she is *over* for a week.
+
+:Table6B-row5-anall-sample_ga: Cén uair a thiocfaidh sí *anall* arís?
+:Table6B-row5-anall-sample_en: _EN_: When will she be coming *over* again?
 
 :6-4-title_ga: Airde an Chompáis
 :6-4-title_en: Points on the Compass

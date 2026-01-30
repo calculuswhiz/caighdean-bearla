@@ -267,40 +267,112 @@ endif::[]
 |{6-3-tables-col1} |{6-3-tables-col2} |{6-3-tables-col3}
 
 | *suas* +
-Tá sé ag dul *suas* an staighre.
+ifdef::isGa[]
+{Table6A-row1-suas-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row1-suas-sample_ga} +
+{Table6A-row1-suas-sample}
+endif::[]
 a| *thuas*
-ifndef::isGa[{Table6A-row1} +]
-ifdef::isGa[ +]
-Tá sé *thuas* staighre.
+ifdef::isGa[]
+ +
+{Table6A-row1-thuas-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row1-thuas} +
+{Table6A-row1-thuas-sample_ga} +
+{Table6A-row1-thuas-sample}
+endif::[]
 | *anuas* +
-Tá sé ag teacht *anuas* an staighre.
+ifdef::isGa[]
+{Table6A-row1-anuas-sample}
+endif::[]
+ifndef::isGa[]
+{Table6A-row1-anuas-sample_ga} +
+{Table6A-row1-anuas-sample}
+endif::[]
 
-| *síos*
-Tá sí ag dul *síos* an staighre.
+| *síos* +
+ifdef::isGa[]
+{Table6A-row2-síos-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row2-síos-sample_ga} +
+{Table6A-row2-síos-sample}
+endif::[]
 | *thíos* 
-ifndef::isGa[{Table6A-row2} +]
-ifdef::isGa[ +]
-Tá sí *thíos* staighre.
+ifdef::isGa[]
+ +
+{Table6A-row2-thíos-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row2-thíos} +
+{Table6A-row2-thíos-sample_ga} +
+{Table6A-row2-thíos-sample}
+endif::[]
 | *aníos* +
-Tá sí ag teacht *aníos* an staighre.
+ifdef::isGa[]
+{Table6A-row2-aníos-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row2-aníos-sample_ga} +
+{Table6A-row2-aníos-sample}
+endif::[]
 
-| *amach*
-An bhfuil tú ag dul *amach* don oíche?
-| *amuigh*
-ifndef::isGa[{Table6A-row3} +]
-ifdef::isGa[ +]
-Táim *amuigh*.
 | *amach* +
-Tá sí ag teacht *amach* chomh fada leat.
+ifdef::isGa[]
+{Table6A-row3-amach-sample-1} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row3-amach-sample-1_ga} +
+{Table6A-row3-amach-sample-1}
+endif::[]
+| *amuigh*
+ifdef::isGa[]
+ +
+{Table6A-row3-amuigh-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row3-amuigh} +
+{Table6A-row3-amuigh-sample_ga} +
+{Table6A-row3-amuigh-sample}
+endif::[]
+| *amach* +
+ifdef::isGa[]
+{Table6A-row3-amach-sample-2} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row3-amach-sample-2_ga} +
+{Table6A-row3-amach-sample-2}
+endif::[]
 
-| *isteach*
-An bhfuil tú ag dul *isteach* sa teach?
-| *istigh*
-ifndef::isGa[{Table6A-row4} +]
-ifdef::isGa[ +]
-Is *istigh* sa teach a tharla an timpiste.
 | *isteach* +
-Tar *isteach* chugam!
+ifdef::isGa[]
+{Table6A-row4-isteach-sample-1} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row4-isteach-sample-1_ga} +
+{Table6A-row4-isteach-sample-1}
+endif::[]
+| *istigh*
+ifdef::isGa[]
+ +
+{Table6A-row4-istigh-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row4-istigh} +
+{Table6A-row4-istigh-sample_ga} +
+{Table6A-row4-istigh-sample}
+endif::[]
+| *isteach* +
+ifdef::isGa[]
+{Table6A-row4-isteach-sample-2} +
+endif::[]
+ifndef::isGa[]
+{Table6A-row4-isteach-sample-2_ga} +
+{Table6A-row4-isteach-sample-2}
+endif::[]
 |===
 
 .*{Table} 6B*  {Table6B-caption}
@@ -309,49 +381,139 @@ Tar *isteach* chugam!
 |{6-3-tables-col1} |{6-3-tables-col2} |{6-3-tables-col3}
 
 | *ó thuaidh* +
-Rachaimid *ó thuaidh* amárach.
+ifdef::isGa[]
+{Table6B-row1-óThuaidh-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row1-óThuaidh-sample_ga} +
+{Table6B-row1-óThuaidh-sample}
+endif::[]
 | *ó thuaidh*/*thuaidh*
-ifndef::isGa[{Table6B-row1} +]
-ifdef::isGa[ +]
-Tá an siopa sin ar an taobh *ó thuaidh*/*thuaidh* den chontae.
+ifdef::isGa[]
+ +
+{Table6B-row1-thuaidh-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row1-thuaidh} +
+{Table6B-row1-thuaidh-sample_ga} +
+{Table6B-row1-thuaidh-sample}
+endif::[]
 | *aduaidh* +
-Tháinig siad *aduaidh* inné.
+ifdef::isGa[]
+{Table6B-row1-aduaidh-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row1-aduaidh-sample_ga} +
+{Table6B-row1-aduaidh-sample}
+endif::[]
 
 | *ó dheas* +
-D'imigh sé *ó dheas* ar maidin.
+ifdef::isGa[]
+{Table6B-row2-óDheas-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row2-óDheas-sample_ga} +
+{Table6B-row2-óDheas-sample}
+endif::[]
 | *ó dheas*/*theas*
-ifndef::isGa[{Table6B-row2} +]
-ifdef::isGa[ +]
-Tá teach acu ar an gcósta *ó dheas*/*theas*.
+ifdef::isGa[]
+ +
+{Table6B-row2-theas-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row2-theas} +
+{Table6B-row2-theas-sample_ga} +
+{Table6B-row2-theas-sample}
+endif::[]
 | *aneas* +
-Tá sí ag teacht *aneas* faoi láthair.
+ifdef::isGa[]
+{Table6B-row2-aneas-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row2-aneas-sample_ga} +
+{Table6B-row2-aneas-sample}
+endif::[]
 
 | *soir* + 
-An ndeachaigh tú *soir* chucu?
+ifdef::isGa[]
+{Table6B-row3-soir-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6B-row3-soir-sample_ga} +
+{Table6B-row3-soir-sample}
+endif::[]
 | *thoir*
-ifndef::isGa[{Table6B-row3} +]
-ifdef::isGa[ +]
-Chuaigh, ach ní raibh aon duine *thoir*.
+ifdef::isGa[]
+ +
+{Table6B-row3-thoir-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row3-thoir} +
+{Table6B-row3-thoir-sample_ga} +
+{Table6B-row3-thoir-sample}
+endif::[]
 | *anoir* +
-Bhí orm teacht *anoir* arís.
+ifdef::isGa[]
+{Table6B-row3-anoir-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6B-row3-anoir-sample_ga} +
+{Table6B-row3-anoir-sample}
+endif::[]
 
 | *siar* +
-An bhfuil tú ag dul *siar* anocht?
+ifdef::isGa[]
+{Table6B-row4-siar-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6B-row4-siar-sample_ga} +
+{Table6B-row4-siar-sample}
+endif::[]
 | *thiar*
-ifndef::isGa[{Table6B-row4} +]
-ifdef::isGa[ +]
-An raibh tú *thiar* aréir?
+ifdef::isGa[]
+ +
+{Table6B-row4-thiar-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row4-thiar} +
+{Table6B-row4-thiar-sample_ga} +
+{Table6B-row4-thiar-sample}
+endif::[]
 | *aniar* +
-An mbeidh siad ag teacht *aniar* ar cuairt?
+ifdef::isGa[]
+{Table6B-row4-aniar-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6B-row4-aniar-sample_ga} +
+{Table6B-row4-aniar-sample}
+endif::[]
 
 | *anonn*/*sall* +
-An ndeachaigh Áine *sall*/*anonn* go Sasana inné?
+ifdef::isGa[]
+{Table6B-row5-anonn-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row5-anonn-sample_ga} +
+{Table6B-row5-anonn-sample}
+endif::[]
 | *thall*
-ifndef::isGa[{Table6B-row5} +]
-ifdef::isGa[ +]
-Chuaigh, tá sí *thall* le seachtain.
+ifdef::isGa[]
+ +
+{Table6B-row5-thall-sample}
+endif::[]
+ifndef::isGa[]
+{Table6B-row5-thall} +
+{Table6B-row5-thall-sample_ga} +
+{Table6B-row5-thall-sample}
+endif::[]
 | *anall* +
-Cén uair a thiocfaidh sí *anall* arís?
+ifdef::isGa[]
+{Table6B-row5-anall-sample} +
+endif::[]
+ifndef::isGa[]
+{Table6B-row5-anall-sample_ga} +
+{Table6B-row5-anall-sample}
+endif::[]
 |===
 
 '''
