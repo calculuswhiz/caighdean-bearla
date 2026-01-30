@@ -161,7 +161,7 @@
 :9-3-2-b-p_en: The plural form is not lenited after 3&ndash;6 or after numbers ending in 3&ndash;6, e.g., _trí seachtaine_; _ceithre cinn déag_.
 
 :9-3-2-c-p_ga: I ndiaidh 3&ndash;6 agus i ndiaidh uimhreacha a chríochnaíonn ar 3&ndash;6 cuirtear _h_ roimh an leagan iolra _uaire_, e.g., _cúig huaire_.
-:9-3-2-c-p_en: After 3&ndash;6 and after numbers ending in 3&ndash;6 _h_ is preceded by the plural form _uaire_, e.g., _cúig huaire_.
+:9-3-2-c-p_en: After 3&ndash;6 and after numbers ending in 3&ndash;6 _h_ is placed before the plural form _uaire_, e.g., _cúig huaire_.
 
 :9-3-2-d-p_ga: Cuireann na huimhreacha 7&ndash;10 agus uimhreacha a chríochnaíonn ar 7&ndash;9 urú ar an leagan iolra, e.g., _seacht mbliana_; _ocht bpingine déag_.
 :9-3-2-d-p_en: The numbers 7&ndash;10 and numbers ending in 7&ndash;9 eclipse the plural form, e.g., _seacht mbliana_; _ocht bpingine déag_.

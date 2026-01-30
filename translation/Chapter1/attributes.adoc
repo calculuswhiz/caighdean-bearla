@@ -385,8 +385,8 @@
 :CoreSystem_ga: An Córas Lárnach
 :CoreSystem_en: The Core System
 
-:nopass-1-4-title_ga: An Tuiseal Tabharthach Uatha — {CoreSystem}
-:nopass-1-4-title_en: The Dative Singular Case — {CoreSystem}
+:nopass-1-4-title_ga: An Tuiseal Tabharthach Uatha &mdash; {CoreSystem}
+:nopass-1-4-title_en: The Dative Singular Case &mdash; {CoreSystem}
 
 :1-4-1-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas _d_, _t_ agus _s_), cuirtear séimhiú orthu i ndiaidh _den_, _don_, _sa/san_ agus urú i ngach cás eile, mar a léirítear sa tábla thíos.
 :1-4-1-p_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), lenition is applied to them following _den_, _don_, _sa/san_ and eclipsis in every other context, as shown in the table below.
@@ -591,8 +591,8 @@ This will (mostly) just be some algebra here...
 :1-7-3-p_ga: I gCóras an tSéimhithe, cuirtear séimhiú ar ainmfhocail dar tús consan (seachas _d_, _t_ agus _s_) agus ar na haidiachtaí a ghabhann leo. Féach an tábla thíos.
 :1-7-3-p_en: In the Lenition system, nouns starting with the a consonant are lenited (other than _d_, _t_ and _s_) as well as the adjectives attached to them. See the table below.
 
-:Table1J-header_ga: Córas an tSéimhithe —<br />Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
-:Table1J-header_en: The Lenition System —<br />Nouns starting with a consonant other than _d_, _t_, and _s_
+:Table1J-header_ga: Córas an tSéimhithe &mdash;<br />Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
+:Table1J-header_en: The Lenition System &mdash;<br />Nouns starting with a consonant other than _d_, _t_, and _s_
 
 :Table1J-caption-start_ga: An Tuiseal Tabharthach Uatha
 :Table1J-caption-start_en: The Dative Singular Case
@@ -612,8 +612,8 @@ This will (mostly) just be some algebra here...
 :1-7-5-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.
 :1-7-5-p_en: No change is done to either masculine nouns or feminine nouns starting with vowels. See the table below.
 
-:Table1L-header_ga: Córas an tSéimhithe — Ainmfhocail dar tús Guta
-:Table1L-header_en: The Lenition System — Nouns Starting with a Vowel
+:Table1L-header_ga: Córas an tSéimhithe &mdash; Ainmfhocail dar tús Guta
+:Table1L-header_en: The Lenition System &mdash; Nouns Starting with a Vowel
 
 :nopass-Table1L-caption-start_ga: {Table1J-caption-start}
 :nopass-Table1L-caption-start_en: {Table1J-caption-start}
@@ -621,8 +621,8 @@ This will (mostly) just be some algebra here...
 :1-7-6-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_. Féach an tábla thíos.
 :1-7-6-p_en: No change is done to either masculine nouns or feminine nouns starting with _d_ and _t_. See the table below.
 
-:Table1M-Header_ga: Córas an tSéimhithe — Ainmfhocail dar tús _d_ agus _t_
-:Table1M-Header_en: The Lenition System — Nouns Starting with _d_ and _t_
+:Table1M-Header_ga: Córas an tSéimhithe &mdash; Ainmfhocail dar tús _d_ agus _t_
+:Table1M-Header_en: The Lenition System &mdash; Nouns Starting with _d_ and _t_
 
 :nopass-Table1M-caption-start_ga: {Table1J-caption-start}
 :nopass-Table1M-caption-start_en: {Table1J-caption-start}

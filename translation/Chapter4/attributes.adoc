@@ -436,8 +436,8 @@
 :Table4D-title_ga: Ainmfhocal Firinscneach Uatha
 :Table4D-title_en: Masculine Singular Noun
 
-:Table4D-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Firinscneach Uatha
-:Table4D-caption_en: Summary of the Adjectives' Declensions — Masculine Singular
+:Table4D-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta &mdash; Firinscneach Uatha
+:Table4D-caption_en: Summary of the Adjectives' Declensions &mdash; Masculine Singular
 
 :Table4D-col1_ga: Tuiseal
 :Table4D-col1_en: Case
@@ -469,22 +469,22 @@
 :Table4E-title_ga: Ainmfhocal Baininscneach Uatha
 :Table4E-title_en: Feminine Singular Noun
 
-:Table4E-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Baininscneach Uatha
-:Table4E-caption_en: Summary of the Adjectives' Declensions — Feminine Singular
+:Table4E-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta &mdash; Baininscneach Uatha
+:Table4E-caption_en: Summary of the Adjectives' Declensions &mdash; Feminine Singular
 
 // 4E-G re-uses headers form other sources
 
 :Table4F-title_ga: Ainmfhocal Firinscneach Iolra
 :Table4F-title_en: Masculine Plural Noun
 
-:Table4F-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Firinscneach Iolra
-:Table4F-caption_en: Summary of the Adjectives' Declensions — Masculine Plural
+:Table4F-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta &mdash; Firinscneach Iolra
+:Table4F-caption_en: Summary of the Adjectives' Declensions &mdash; Masculine Plural
 
 :Table4G-title_ga: Ainmfhocal Baininscneach Iolra
 :Table4G-title_en: Feminine Plural Noun
 
-:Table4G-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta — Baininscneach Iolra
-:Table4G-caption_en: Summary of the Adjectives' Declensions — Feminine Plural
+:Table4G-caption_ga: Achoimre ar Dhíochlaontaí na hAidiachta &mdash; Baininscneach Iolra
+:Table4G-caption_en: Summary of the Adjectives' Declensions &mdash; Feminine Plural
 
 :4-8-title_ga: Céimeanna Comparáide na hAidiachta
 :4-8-title_en: Degrees of Comparison of the Adjectives
