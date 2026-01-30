@@ -245,11 +245,8 @@ h| 9,999 | naoi míle, naoi gcéad nócha a naoi
 . {9-3-1-d-p}
 . {9-3-1-e-p}
 . {9-3-1-f-p}
-
++
 {9-3-1-p}
-
-[list-[lower-alpha]]
-[start=7]
 . {9-3-1-g-p}
 . {9-3-1-h-p}
 . {9-3-1-i-p}
@@ -882,13 +879,15 @@ h| 12 | an dáréag | airgead an dáréag
 
 [list-[lower-alpha]]
 . *{9-4-3-a-title}*
++
+--
 [list-[lower-roman]]
 .. {9-4-3-a-i-p}
 .. {9-4-3-a-ii-p}
 .. {9-4-3-a-iii-p}
 .. {9-4-3-a-iv-p}
 .. {9-4-3-a-v-p}
-
+--
 +
 *{OtherCasesFootnote}
 
@@ -934,12 +933,14 @@ h| 12 | dháréag bádóirí | soitheach dháréag bádóirí
 +
 [list-[lower-alpha]]
 . *{9-4-3-b-title}*
++
+--
 [list-[lower-roman]]
 .. {9-4-3-b-i-p}
 .. {9-4-3-b-ii-p}
 .. {9-4-3-b-iii-p}
 .. {9-4-3-b-iv-p}
-
+--
 +
 [.chapter-9]
 [cols="2,4,4"]
@@ -968,12 +969,14 @@ h| 12  | an dáréag bádóirí | soitheach an dáréag bádóirí
 
 +
 . *{9-4-3-c-title}*
++
+--
 [list-[lower-roman]]
 .. {9-4-3-c-i-p}
 .. {9-4-3-c-ii-p}
 .. {9-4-3-c-iii-p}
 .. {9-4-3-c-iv-p}
-
+--
 +
 [.chapter-9]
 [cols="2,4,4"]
@@ -1053,6 +1056,7 @@ h| 12
 *{Table9U-footnote}
 
 === 9.4.4 {9-4-4-title}
+
 [list-[lower-alpha]]
 . {9-4-4-a-p}
 . {9-4-4-b-p}

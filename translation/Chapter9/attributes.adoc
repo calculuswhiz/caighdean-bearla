@@ -35,7 +35,7 @@
 :9-1-1-e-title_en: The Fraction
 
 :9-1-1-e-p_ga: Cainníocht uimhriúil nach slánuimhir (uimhir iomlán) is ea an codán, e.g., _ceathrú (1/4)_; _ceithre chúigiú (4/5)_; _cúig shéú (5/6)_ (féach link:#sec_9_6[9.6]).
-:9-1-1-e-p_en: A fraction is a numerical quantity that is not an integer (whole number)., e.g., _ceathrú (1/4)_; _ceithre chúigiú (4/5)_; _cúig shéú (5/6)_ (see link:#sec_9_6[9.6]).
+:9-1-1-e-p_en: A fraction is a numerical quantity that is not an integer (whole number), e.g., _ceathrú (1/4)_; _ceithre chúigiú (4/5)_; _cúig shéú (5/6)_ (see link:#sec_9_6[9.6]).
 
 :9-1-1-f-title_ga: An Uimhir Dheachúlach
 :9-1-1-f-title_en: The Decimal Number
@@ -59,7 +59,7 @@
 :9-2-1-a-p_en: The particle _a_ is placed before numbers from 1&ndash;19, e.g., _a haon_; _a dó_; _a trí_; _bus a ceathair_; _a hocht déag_; and for 20&ndash;99 (other than the tens), it is placed before the last number, e.g., _fiche a haon_; _daichead a sé_; _seachtó a hocht_.
 
 :9-2-1-b-p_ga: Tá comhstádas ag na focail _ceathracha_ agus _daichead_.
-:9-2-1-b-p_en: The words _ceathracha_ and _daichead_ have a similar status. (_Note: Both of these mean "forty."_)
+:9-2-1-b-p_en: The words _ceathracha_ and _daichead_ have a similar status. (*TL Note*: Both of these mean "forty.")
 
 :9-2-1-p1_ga: Seo mar a scríobhtar na maoluimhreacha ó 0&ndash;19.
 :9-2-1-p1_en: This is how the bare numbers from 0&ndash;19 are written.
@@ -128,7 +128,7 @@
 :9-3-1-e-p_en: _d_, _t_ or _s_ is not lenited after _aon_, e.g., _aon doras amháin_; _aon teach amháin_.
 
 :9-3-1-f-p_ga: I ndiaidh an ainmfhocail a thagann an focal _déag_, e.g., _ceithre leabhar déag_. Séimhítear an focal _déag_ má chríochnaíonn an focal díreach roimhe ar ghuta (ach féach link:#sec_9_3_2[9.3.2](e)), seachas i ndiaidh _euro_.
-:9-3-1-f-p_en: After the noun comes the word _déag_, e.g., _ceithre leabhar déag_. The word _déag_ is omitted if the word immediately preceding it ends in a vowel (but see link:#sec_9_3_2[9.3.2](e)), rather than after _euro_.
+:9-3-1-f-p_en: After the noun comes the word _déag_, e.g., _ceithre leabhar déag_. The word _déag_ is lenited if the word directly before it ends in a vowel (but see link:#sec_9_3_2[9.3.2](e)), except after _euro_.
 
 :9-3-1-p_ga: Tabhair faoi deara, más aonad brí ar leith an t-ainmfhocal agus an cáilitheoir, e.g., _madra rua_; _cat crainn_; _teach tábhairne_; _láthair champála_ (seachas gnáth-ainmfhocal agus cáilitheoir, e.g., _leabhar dearg_) is i ndiaidh an ainmfhocail agus an cháilitheora a chuirtear _déag_, e.g., _ceithre mhadra rua dhéag_; _cúig theach tábhairne dhéag_; _sé chat crainn déag_; _seacht n-iora ghlasa dhéag_. Cuirtear aon cháilitheoir eile i ndiaidh _déag_, e.g., _sé chat crainn déag mhóra_; _seacht n-iora ghlasa dhéag fhiáine_.
 :9-3-1-p_en: Note that if the noun and the qualifier are a separate unit of meaning, e.g., _madra rua_ (_EN: fox_); _cat crainn_ (_EN: pine marten_); _teach tábhairne_ (_EN: pub_); _láthair champála_ (_EN: campsite_) (rather than an ordinary noun and qualifier, e.g., _leabhar dearg_) _déag_ is placed after the noun and the qualifier, e.g., _ceithre mhadra rua dhéag_; _cúig theach tábhairne dhéag_; _sé chat crainn déag_; _seacht n-iora ghlasa dhéag_. Any other qualifier is added after _déag_, e.g., _sé chat crainn déag mhóra_; _seacht n-iora ghlasa dhéag fhiáine_.
@@ -155,7 +155,7 @@
 :Table9G-caption_en: The Cardinal Numbers -- Forms of Nouns that have a distinct Plural Version
 
 :9-3-2-a-p_ga: Foirm an ainmnigh uatha de na hainmfhocail a úsáidtear leis na bunuimhreacha 1&ndash;2 agus i ndiaidh uimhreacha a chríochnaíonn ar 1&ndash;2, e.g., _aon phingin amháin_; _dhá bhliain_; _aon uair déag_; _dhá cheann is tríocha_.
-:9-3-2-a-p_en: The nominative singular form of nouns used with the base numbers 1&ndash;2 and after numbers ending in 1&ndash;2, e.g., _aon phingin amháin_; _dhá bhliain_; _aon uair déag_; _dhá cheann is tríocha_.
+:9-3-2-a-p_en: The nominative singular form of nouns used with the cardinal numbers 1&ndash;2 and after numbers ending in 1&ndash;2, e.g., _aon phingin amháin_; _dhá bhliain_; _aon uair déag_; _dhá cheann is tríocha_.
 
 :9-3-2-b-p_ga: Ní chuirtear séimhiú ar an leagan iolra i ndiaidh 3&ndash;6 ná i ndiaidh uimhreacha a chríochnaíonn ar 3&ndash;6, e.g., _trí seachtaine_; _ceithre cinn déag_.
 :9-3-2-b-p_en: The plural form is not lenited after 3&ndash;6 or after numbers ending in 3&ndash;6, e.g., _trí seachtaine_; _ceithre cinn déag_.
@@ -251,10 +251,10 @@
 :9-3-6-title_en: The Cardinal Numbers 1&ndash;19  --  The Genitive Case without the Article
 
 :9-3-6-a-p_ga: Téann athrú foirme ar ainmfhocal agus ar aidiacht sa ghinideach i ndiaidh _aon_, e.g., _ualach aon chapaill mhóir amháin_; _fráma aon fhuinneoige báine amháin_; ach amháin nuair atá _déag_ ag gabháil leis, e.g., _ualach aon chapall déag mhóra_; _fráma aon fhuinneog déag bhána_.
-:9-3-6-a-p_en: Nouns and adjectives change form in the genitive after _aon_, e.g., _ualach aon chapaill mhóir amháin_; _fráma aon fhuinneoige báine amháin_; except when _déag_ accompanying accompanies it, e.g., _ualach aon chapall déag mhóra_; _fráma aon fhuinneog déag bhána_.
+:9-3-6-a-p_en: Nouns and adjectives change form in the genitive after _aon_, e.g., _ualach aon chapaill mhóir amháin_; _fráma aon fhuinneoige báine amháin_; except when _déag_ follows, e.g., _ualach aon chapall déag mhóra_; _fráma aon fhuinneog déag bhána_.
 
 :9-3-6-b-p_ga: I gcás 2&ndash;19, ní théann aon athrú foirme sa ghinideach ar an ainmfhocal ná ar an mbunuimhir, e.g., _fad dhá mhéadar_; _costas trí fhuinneog_; _úinéir seacht ngabhar_; _tréimhse naoi n-oíche_; _tiománaithe trí thacsaí dhéag_; ach cuirtear an aidiacht san uimhir iolra agus séimhítear í, e.g., _costas trí fhuinneog dheasa_; _úinéir seacht ngabhar chrosta_; _tiománaithe trí thacsaí dhéag chostasacha_; ach amháin más leagan iolra ar leith é a chríochnaíonn ar ghuta nó ar chonsan leathan, e.g., _trí bliana crua_.
-:9-3-6-b-p_en: For 2&ndash;19, the form of the noun or the cardinal number in the genitive does not change, e.g., _fad dhá mhéadar_; _costas trí fhuinneog_; _úinéir seacht ngabhar_; _tréimhse naoi n-oíche_; _tiománaithe trí thacsaí dhéag_; but the adjective in the plural is placed and it is lenited, e.g., _costas trí fhuinneog dheasa_; _úinéir seacht ngabhar chrosta_; _tiománaithe trí thacsaí dhéag chostasacha_; unless it is a distinct plural form ending in a vowel or a broad consonant, e.g., _trí bliana crua_.
+:9-3-6-b-p_en: For 2&ndash;19, the form of the noun or the cardinal number in the genitive does not change, e.g., _fad dhá mhéadar_; _costas trí fhuinneog_; _úinéir seacht ngabhar_; _tréimhse naoi n-oíche_; _tiománaithe trí thacsaí dhéag_; but the adjective is put in the plural, and it is lenited, e.g., _costas trí fhuinneog dheasa_; _úinéir seacht ngabhar chrosta_; _tiománaithe trí thacsaí dhéag chostasacha_; unless it is a distinct plural form ending in a vowel or a broad consonant, e.g., _trí bliana crua_.
 
 :9-3-7-title_ga: Na Bunuimhreacha 1&ndash;19  --  An Tuiseal Ginideach leis an Alt
 :9-3-7-title_en: The Cardinal Numbers 1&ndash;19  --  The Genitive Case with the Article
@@ -272,7 +272,7 @@
 :9-3-7-a-iii-p_en: If the noun is masculine, the _t-_ is removed before the cardinal number _aon_, e.g., _ar feadh an aon lae amháin sin_.
 
 :9-3-7-b-p_ga: Déantar _dá_ de _dhá_ i ndiaidh an ailt uatha (_an_, _don_, _sa_, etc.).
-:9-3-7-b-p_en: Chnge _dhá_ to _dá_ after the singular article (_an_, _don_, _sa_, etc.).
+:9-3-7-b-p_en: Change _dhá_ to _dá_ after the singular article (_an_, _don_, _sa_, etc.).
 
 :9-3-7-c-p_ga: I gcás na mbunuimhreacha _trí_ go _deich_, uraítear na bunuimhreacha inuraithe (_trí_, _ceithre_, _cúig_, _ocht_, _deich_) sa tuiseal ginideach i ndiaidh an ailt (_na_).
 :9-3-7-c-p_en: For the cardinal numbers _trí_ to _deich_, the cardinal numbers (_trí_, _ceithre_, _cúig_, _ocht_, _deich_) are eclipsed in the genitive case after the article (_na_).
@@ -328,8 +328,8 @@
 :9-3-9-note-p1_ga: Nuair a úsáidtear leagan iolra na ndeicheanna is sa ghinideach iolra a bhíonn an t-ainmfhocal ina dhiaidh, e.g., _na céadta daoine_; _na mílte dathanna_.
 :9-3-9-note-p1_en: When the plural form of the tens is used in the genitive plural, the noun following it is also in the plural, e.g., _na céadta daoine_; _na mílte dathanna_.
 
-:9-3-9-note-p2_ga: Leanann an ginideach iolra na hainmfhocail uatha dosaen agus scór freisin, e.g., _dosaen amhrán_; _scór daoine_.
-:9-3-9-note-p2_en: The genitive plural of the singular nouns also follows dozens and scores, e.g., _dosaen amhrán_; _scór daoine_.
+:9-3-9-note-p2_ga: Leanann an ginideach iolra na hainmfhocail uatha _dosaen_ agus _scór_ freisin, e.g., _dosaen amhrán_; _scór daoine_.
+:9-3-9-note-p2_en: The genitive plural of the singular nouns also follows _dosaen_ (dozen) and _scór_ (score), e.g., _dosaen amhrán_; _scór daoine_.
 
 :9-3-10-title_ga: Na Bunuimhreacha eile 20+
 :9-3-10-title_en: The other Cardinal Numbers 20+
@@ -428,7 +428,7 @@
 :9-4-2-b-title_en: The article before the bare personal number
 
 :9-4-2-b-i-p_ga: Ainmfhocail fhirinscneacha is ea na huimhreacha pearsanta go léir seachas _beirt_, e.g., _an bheirt_; _an ceathrar_; _an t-ochtar_.
-:9-4-2-b-i-p_en: Feminine nouns are all the personal numbers except for _beirt_, e.g., _an bheirt_; _an ceathrar_; _an t-ochtar_.
+:9-4-2-b-i-p_en: All personal numbers except _beirt_ are masculine nouns, e.g., _an bheirt_; _an ceathrar_; _an t-ochtar_.
 
 :9-4-2-b-ii-p_ga: Ní shéimhítear _dháréag_ i ndiaidh an ailt, _aon_ ná _céad_, e.g., _bhí an dáréag ann_; _gach aon dáréag acu_; _an chéad dáréag a cháiligh_.
 :9-4-2-b-ii-p_en: _Dháréag_ is not lenited after the article, _aon_ or _céad_, e.g., _bhí an dáréag ann_; _gach aon dáréag acu_; _an chéad dáréag a cháiligh_.
@@ -752,7 +752,7 @@
 :Table9CCCaption_en: When the numerator is more than 10, bare numbers are used as follows: _the numerator_ (stated as a bare number) + _de_ + _the plural of the denominator_.
 
 :TheBareNumberModifiedBy_ga: An Mhaoluimhir Móide
-:TheBareNumberModifiedBy_en: The Bare Number Modified by
+:TheBareNumberModifiedBy_en: Bare Number Modified by
 
 :9-6-4-title_ga: Uimhreoirí agus Ainmneoirí Móra
 :9-6-4-title_en: Large Numerators and Denominators
