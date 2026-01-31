@@ -4,20 +4,19 @@ import path from "path";
 
 /*
 Run command to generate all chapters:
-node ./scripts/generateDocs.js --dev --all
+npx tsx ./scripts/generateDocs.ts --dev --all
 */
 
 const asciidoctor = Asciidoctor();
 
 /** Special processing for handling language-specific content in AsciiDoc files
- * @param {string} contents The raw contents of the AsciiDoc file
- * @param {'ga' | 'en'} language The language selection
- * @returns {string} The processed contents
+ * @param contents The raw contents of the AsciiDoc file
+ * @param language The language selection
+ * @returns The processed contents
  */
-export function processAdocFileContents(contents, language) {
+export function processAdocFileContents(contents: string, language: string) {
   const lines = contents.split('\n');
-  /** @type {string[]} */
-  const outputBuffer = [];
+  const outputBuffer: string[] = [];
 
   let inBlockComment = false;
 
@@ -48,19 +47,8 @@ export function processAdocFileContents(contents, language) {
   return outputBuffer.join("\n");
 }
 
-function convertCommon(raw, devMode, isGa = false) {
+function convertCommon(raw: string, devMode: boolean, isGa = false) {
   return asciidoctor.convert(raw, {
-    attributes: {
-      rootRef: devMode ? "/public/" : "/caighdean-i18n/",
-      idprefix: "sec_",
-      // If the isGa attribute is set, we are generating the Irish version
-      isGa: isGa ? "1" : undefined,
-    }
-  });
-}
-
-function convertAtPath(filePath, devMode, isGa = false) {
-  return asciidoctor.convertFile(filePath, {
     attributes: {
       rootRef: devMode ? "/public/" : "/caighdean-i18n/",
       idprefix: "sec_",
@@ -72,12 +60,12 @@ function convertAtPath(filePath, devMode, isGa = false) {
 
 /** Generate html for chapter by number.
  * Does not generate full document, only chapter content in a div.
- * @param {string} chapterFolder The chapter folder to load
- * @param {'ga' | 'en'} language The language selection
- * @param {boolean} devMode Whether to generate in dev mode
- * @returns {Promise<string>} The processed chapter content as a string
+ * @param chapterFolder The chapter folder to load
+ * @param language The language selection
+ * @param devMode Whether to generate in dev mode
+ * @returns The processed chapter content as a string
  */
-async function makeChapterHtml(chapterFolder, language, devMode) {
+async function makeChapterHtml(chapterFolder: string, language: string, devMode: boolean) {
   const chapterBaseDir = `./translation/${chapterFolder}`;
   const [chapterAdocModule, chapterAttributesModule, commonAttributesModule] =
     await Promise.all([
@@ -97,14 +85,14 @@ async function makeChapterHtml(chapterFolder, language, devMode) {
     processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
   ].join("\n");
 
-  return convertCommon(combined, devMode, language === 'ga');
+  return convertCommon(combined, devMode, language === 'ga') as string;
 }
 
 /**
  * Generate the full HTML document for a chapter and write to `entrypoints`.
- * @param {string} chapterFolder The chapter id
+ * @param chapterFolder The chapter id
  */
-async function generateDoc(chapterFolder) {
+async function generateDoc(chapterFolder: string) {
   const devMode = process.argv.includes("--dev");
 
   const translationHtml = await makeChapterHtml(chapterFolder, 'en', devMode);
@@ -151,6 +139,9 @@ async function generateDoc(chapterFolder) {
     console.log("Watching for changes...");
     const watcher = fs.watch("./translation/", { recursive: true });
     for await (const event of watcher) {
+      if (event.filename == null || !event.filename.endsWith(".adoc"))
+        continue;
+
       console.log(`File changed: ${event.filename}`);
       // Regenerate the document for the changed chapter
       const chapterFolder = path.dirname(event.filename);
@@ -159,11 +150,10 @@ async function generateDoc(chapterFolder) {
   } else {
     let chapterFolder = null;
     const folderArg = process.argv.find(arg => arg.startsWith("--folder="));
-    if (folderArg != null) {
+    if (folderArg != null)
       chapterFolder = folderArg.split("=")[1];
-    } else {
+    else
       throw new Error("Please specify a folder to generate with --folder=ChapterN");
-    }
 
     await generateDoc(chapterFolder);
   }
