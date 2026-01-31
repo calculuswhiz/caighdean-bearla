@@ -77,7 +77,7 @@
 :Table4A-row2_en: Vocative
 
 :Table4A-row3_ga: Tabharthach*
-:Table4A-row3_en: Vocative*
+:Table4A-row3_en: Dative*
 
 :Table4A-row4_ga: Ginideach
 :Table4A-row4_en: Genitive
@@ -458,7 +458,7 @@
 :Table4D-case2_en: Vocative
 
 :Table4D-case3_ga: Tabharthach
-:Table4D-case3_en: Accusative
+:Table4D-case3_en: Dative
 
 :Table4D-case4_ga: Ginideach
 :Table4D-case4_en: Genitive

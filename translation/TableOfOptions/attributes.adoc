@@ -20,7 +20,7 @@
 :ch1-link_en: link:./chapter1-en.html[1]
 
 :Choice1A_ga: An Tuiseal Tabharthach
-:Choice1A_en: The Vocative Case
+:Choice1A_en: The Dative Case
 
 :CrossRef1A_ga: link:./chapter1-ga.html#sec_1_4_4[1.4.4] N.B.
 :CrossRef1A_en: link:./chapter1-en.html#sec_1_4_4[1.4.4] N.B.

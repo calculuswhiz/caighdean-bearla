@@ -569,7 +569,7 @@
 :9-5-1-b-p_en: The ordinal number _céad_ is lenited after the article, e.g., _an chéad leabhar_; _na chéad rialacha_, but it is not lenited:
 
 :9-5-1-b-i-p_ga: sna cásanna a luaitear i link:./chapter1-ga.html[gCaibidil 1] ina mbíonn urú i ndiaidh an ailt sa tuiseal tabharthach, e.g., _ar an gcéad duine_; _leis an gcéad cheadúnas_;
-:9-5-1-b-i-p_en: in the contexts mentioned in link:./chapter1-en.html[Chapter 1] where there is eclipsis after the article in the accusative case, e.g., _ar an gcéad duine_; _leis an gcéad cheadúnas_;
+:9-5-1-b-i-p_en: in the contexts mentioned in link:./chapter1-en.html[Chapter 1] where there is eclipsis after the article in the dative case, e.g., _ar an gcéad duine_; _leis an gcéad cheadúnas_;
 
 :9-5-1-b-ii-p_ga: nuair a úsáidtear _céad_ mar réimír in ainmfhocal firinscneach nó in ainmfhocal san iolra, e.g., _céadainm_, _an céadainm_; _Céad-Aire_, _an Céad-Aire_; _céadonóracha_, _na céadonóracha_; (ach _céadghairm_, _an chéadghairm_; _céadsearc_, _an chéadsearc_; de réir ghnáthrialacha an ainmfhocail bhaininscnigh); nó mar réimír i mbriathar, e.g., _céadbhlaisim_, _céadbhlaisfidh sé_ (ach _ón uair a chéadbhlais mé é_, de réir ghnáthrialacha na mbriathra san aimsir chaite, modh táscach);
 :9-5-1-b-ii-p_en: when _céad_ is used as a prefix in a masculine noun or in a plural noun, e.g., _céadainm_, _an céadainm_; _Céad-Aire_, _an Céad-Aire_; _céadonóracha_, _na céadonóracha_; (but _céadghairm_, _an chéadghairm_; _céadsearc_, _an chéadsearc_; according to the usual rules of the feminine noun); or as a prefix in a verb, e.g., _céadbhlaisim_, _céadbhlaisfidh sé_ (but _ón uair a chéadbhlais mé é_, according to the usual rules of verbs in the past tense, indicative mood);

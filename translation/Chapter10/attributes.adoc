@@ -1,5 +1,3 @@
-// Translation file. Irish maked by ga suffix and English by en suffix.
-
 :chapterTitle_ga: Na hAthruithe Tosaigh
 :chapterTitle_en: The Initial Mutations
 
@@ -7,7 +5,7 @@
 :10-1-title_en: General
 
 :10-1-p_ga: Is é is athrú tosaigh ann athrú a dhéantar ar thús focail mar gheall ar inscne, tuiseal, aimsir nó cúinsí eile gramadaí. Áirítear ar na hathruithe tosaigh an séimhiú, an t-urú, _t_ roimh ghuta, _t_ roimh _s_, _h_ roimh ghuta agus _d'_ roimh ghuta nó roimh _fh-_. Tugtar míniú anseo ar úsáid na n-athruithe tosaigh, lena n-áirítear an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal baininscneach agus an séimhiú ar ainmfhocal éiginnte i ndiaidh ainmfhocal san iolra a chríochnaíonn ar chonsan caol.
-:10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include the lenition, the eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a slender consonant.
+:10-1-p_en: An initial mutation is a change made to the beginning of a word due to gender, case, tense or other grammatical circumstances. The initial mutations include lenition, eclipsis, _t_ before a vowel, _t_ before _s_, _h_ before a vowel and _d'_ before a vowel or before _fh-_. The use of initial mutations is explained here, including the lenition of an indefinite noun after a feminine noun and the lenition of an indefinite noun after a plural noun ending in a slender consonant.
 
 :h2-gp-2-5-title_ga: An Séimhiú
 :h2-gp-2-5-title_en: Lenition
@@ -626,7 +624,7 @@
 :10-2-10-b-p_en: to a definite noun that is the object of the following nouns:
 
 :10-2-10-b-i-p_ga: _Féile_ sa ghinideach, e.g., _Lá Fhéile Pádraig_; _Samhradh beag na Féile Michíl_:
-:10-2-10-b-i-p_en: _Féile_ in the genitive, e.g., _St. Patrick's Day_; _The small summer of Michaelmas_:
+:10-2-10-b-i-p_en: _Féile_ in the genitive, e.g., _Lá Fhéile Pádraig_; _Samhradh beag na Féile Michíl_:
 
 :10-2-10-b-i-sample-1_ga: Is ar *Lá Fhéile Bríde* a rugadh í.
 :10-2-10-b-i-sample-1_en: She was born on *St. Brigid's Day*.
@@ -704,7 +702,7 @@
 :10-3-1-p_en: The initial consonant of a qualifying adjective is lenited --
 
 :10-3-1-a-p1_ga: i ndiaidh ainmfhocal atá san ainmneach, sa tabharthach nó sa ghairmeach uatha baininscneach, e.g., _bean mhór_; _don bhean mhór_; _a bhean mhór_:
-:10-3-1-a-p1_en: after a noun in the nominative, dative or vocative singular feminine, e.g., _bean mhór_; _don bhean mhór_; _a bhean mhór_:
+:10-3-1-a-p1_en: after a noun in the nominative, dative or dative singular feminine, e.g., _bean mhór_; _don bhean mhór_; _a bhean mhór_:
 
 :10-3-1-a-sample-1_ga: Ceannaíonn sé feoil *bhlasta* i gcónaí.
 :10-3-1-a-sample-1_en: He always buys *tasty* meat.
@@ -767,7 +765,7 @@
 :10-3-1-d-iii-sample-1_en: She found three *empty* ones in the search.
 
 :10-3-1-e-p_ga: sa tabharthach uatha firinscneach, má tá Córas an tSéimhithe á úsáid (féach link:./chapter1-ga.html#sec_1_7[1.7]).
-:10-3-1-e-p_en: in the masculine vocative singular, if the Lenition System is being used (see link:./chapter1-en.html#sec_1_7[1.7]).
+:10-3-1-e-p_en: in the masculine dative singular, if the Lenition System is being used (see link:./chapter1-en.html#sec_1_7[1.7]).
 
 :10-3-2-title_ga: Roimh Ainmfhocal
 :10-3-2-title_en: Before a Noun
@@ -797,7 +795,7 @@
 :10-3-2-b-sample-2_en: The food of the *twentieth* man was still to be distributed.
 
 :10-3-2-b-p2_ga: Tabhair faoi deara nach séimhítear --
-:10-3-2-b-p2_en: Note that lenition is not applied --
+:10-3-2-b-p2_en: Note that lenition is not applied to --
 
 :10-3-2-b-i-p_ga: an orduimhir san ainmneach, ach amháin _céad_ (féach link:./chapter9-ga.html#sec_9_5_1[9.5.1](b)), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
 :10-3-2-b-i-p_en: the ordinal number in the nominative case, except _céad_ (see link:./chapter9-en.html#sec_9_5_1[9.5.1](b)), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
@@ -823,10 +821,10 @@
 :10-3-2-b-iii-p_ga: na haidiachtaí sealbhacha _mo_ agus _do_, e.g., _ar mo mhála_; _faoi do chara_:
 :10-3-2-b-iii-p_en: the possessive adjectives _mo_ and _do_, e.g., _ar mo mhála_; _faoi do chara_:
 
-:10-3-2-b-iii-sample-1_ga: Rachadh sé trí _do_ chroí.
+:10-3-2-b-iii-sample-1_ga: Rachadh sé trí *do* chroí.
 :10-3-2-b-iii-sample-1_en: He would go through *your* heart.
 
-:10-3-2-b-iii-sample-2_ga: Chonaic mé é ar _do_ shuíomh gréasáin.
+:10-3-2-b-iii-sample-2_ga: Chonaic mé é ar *do* shuíomh gréasáin.
 :10-3-2-b-iii-sample-2_en: I saw it on *your* website.
 
 :10-3-3-title_ga: Ar _dhá_ agus ar _dháréag_
@@ -1031,7 +1029,7 @@
 :h2-gp-6-8-title_en: Eclipsis
 
 :h2-gp-6-8-p_ga: Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_. Cuirtear _n-_ roimh ghuta san áit a ndéanfaí urú a chur ar chonsan, ach amháin sa tuiseal tabharthach ar lorg an ailt nó an ailt i gcumasc le réamhfhocal, e.g., _ar an uisce_, _faoin ábhar_; agus i gcás _i_ (féach link:#sec_10_6_4[10.6.4]). Cuirtear fleiscín idir an t-urú _n_ agus guta, e.g., _líon na n-ospidéal_; ach amháin nuair is ceannlitir an guta, e.g., _meon na nAlbanach_.
-:h2-gp-6-8-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the vocative case after the article or the article composed with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see link:#sec_10_6_4[10.6.4]). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
+:h2-gp-6-8-p_en: The eclipsed consonants are: _b_, _c_, _d_, _f_, _g_, _p_ and _t_. _N-_ is prefixed to a vowel where an eclipse would be applied to a consonant, except in the dative case after the article or the article composed with a preposition, e.g., _ar an uisce_, _faoin ábhar_; and with _i_ (see link:#sec_10_6_4[10.6.4]). A hyphen is placed between the eclipse _n_ and a vowel, e.g., _líon na n-ospidéal_; except when the vowel is a proper noun, e.g., _meon na nAlbanach_.
 
 :10-6-title_ga: Urú ar an Ainmfhocal
 :10-6-title_en: Eclipsis on the Noun
@@ -1046,7 +1044,7 @@
 :10-6-1-p_en: Eclipsis is applied to the noun after the article --
 
 :10-6-1-a-p1_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna nuair a ghabhann réamhfhocal leis an alt, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (féach link:./chapter1-ga.html#sec_1_4[1.4]):
-:10-6-1-a-p1_en: in the vocative singular, masculine and feminine, in certain contexts when a preposition accompanies the article, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (see link:./chapter1-en.html#sec_1_4[1.4]):
+:10-6-1-a-p1_en: in the dative singular, masculine and feminine, in certain contexts when a preposition accompanies the article, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (see link:./chapter1-en.html#sec_1_4[1.4]):
 
 :10-6-1-a-sample-1_ga: Fuair sé teachtaireacht bhuíochais *ón mbrídeach*.
 :10-6-1-a-sample-1_en: He received a thank-you message *from the bride*.
@@ -1121,7 +1119,7 @@
 :10-6-4-a-sample-2_en: It is *in Béal Átha an Ghaorthaidh* that Munster College was founded.
 
 :10-6-4-a-p2_ga: Scríobhtar _in_ roimh fhocail a thosaíonn ar ghuta, e.g., _in eaglais_; _in Albain_; _in Áth Dara_; _in Éirinn_; _in aon chás_; agus sna cásanna seo a leanas:
-:10-6-4-a-p2_en: _In_ is written before words beginning with a vowel, e.g., _in eaglais_; _in Albain_; _in Áth Dara_; _in Éirinn_; _in aon chás_; and in the following contexts:
+:10-6-4-a-p2_en: _in_ is written before words beginning with a vowel, e.g., _in eaglais_; _in Albain_; _in Áth Dara_; _in Éirinn_; _in aon chás_; and in the following contexts:
 
 :10-6-4-a-i-p_ga: roimh _bhur_, _dhá_ agus _go leor_, e.g., _an áit a bhfuil sibh in bhur gcónaí_; _in dhá áit_; _in go leor cásanna_:
 :10-6-4-a-i-p_en: before _bhur_, _dhá_ and _go leor_, e.g., _an áit a bhfuil sibh in bhur gcónaí_; _in dhá áit_; _in go leor cásanna_:
@@ -1175,7 +1173,7 @@
 :10-7-title_en: Eclipsis on the Adjective
 
 :10-7-p1_ga: Cuirtear urú ar aidiacht a thagann roimh ainmfhocal ar an tslí chéanna ar a n-uraítear an t-ainmfhocal (féach link:#sec_10_6[10.6]). Is é sin le rá, go n-uraítear aidiacht i ndiaidh an ailt sa tabharthach uatha i gcásanna áirithe, e.g., _ar an gceathrú hurlár_; sa tuiseal ginideach iolra, e.g., _i rith na gcúig oíche_; i ndiaidh na n-aidiachtaí sealbhacha san iolra, e.g., _ár gcéad mhac_; agus i ndiaidh an réamhfhocail _i_, e.g., _i ngach leabhar_.
-:10-7-p1_en: Eclipsis is applied to an adjective that precedes a noun in the same way as the noun is eclipsed (see link:#sec_10_6[10.6]). That is to say, the adjective is eclipsed after the article in the vocative singular in certain contexts, e.g., _ar an gceathrú hurlár_; in the genitive plural, e.g., _i rith na gcúig oíche_; after the possessive adjectives in the plural, e.g., _ár gcéad mhac_; and after the preposition _i_, e.g., _i ngach leabhar_.
+:10-7-p1_en: Eclipsis is applied to an adjective that precedes a noun in the same way as the noun is eclipsed (see link:#sec_10_6[10.6]). That is to say, the adjective is eclipsed after the article in the dative singular in certain contexts, e.g., _ar an gceathrú hurlár_; in the genitive plural, e.g., _i rith na gcúig oíche_; after the possessive adjectives in the plural, e.g., _ár gcéad mhac_; and after the preposition _i_, e.g., _i ngach leabhar_.
 
 :10-7-sample-1_ga: Cá bhfuil *bhur dtríú* haiste don tionscadal?
 :10-7-sample-1_en: Where is *your third* essay for the project?
@@ -1331,10 +1329,10 @@
 :10-10-title_en: _t_ before _s_ after the Article
 
 :10-10-1-p_ga: Cuirtear _t_ roimh _s_ i ndiaidh an ailt más guta nó _l_, _n_ nó _r_ atá ar a lorg i gcásanna áirithe i ndiaidh an ailt de réir link:./chapter1-ga.html[Chaibidil 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
-:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial sound in certain contexts after the article according to link:./chapter1-en.html[Chapter 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
+:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial letter in certain contexts after the article according to link:./chapter1-en.html[Chapter 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
 
 :10-10-1-sample-1_ga: Ná bain *an tsrón* díom!
-:10-10-1-sample-1_en: Don't *take the nose from me*!
+:10-10-1-sample-1_en: Don't *take the nose from me*! (Meaning: Don't bite my nose off!)
 
 :10-10-1-sample-2_ga: An bhfaca tú eireaball *an tsionnaigh*?
 :10-10-1-sample-2_en: Did you see the tail *of the squirrel*?
@@ -1740,6 +1738,9 @@
 
 :10-16-p2_ga: Mar áis tagartha, tugtar achoimre anseo ar na cásanna ina gcuirtear urú ar ainmfhocail, ar aidiachtaí agus ar bhriathra.
 :10-16-p2_en: As a reference aid, a summary is given here of the contexts in which eclipsis is applied to nouns, adjectives, and verbs.
+
+:ThirdPersonPl_ga: tríú pearsa iol.
+:ThirdPersonPl_en: third person pl.
 
 :Table10B-caption_ga: Achoimre ar an Urú
 :Table10B-caption_en: Summary of Eclipsis

@@ -8,7 +8,7 @@
 :11-1-1-p_en: A conjunction called the _relative particle_ (affirmative: _a_, _ar_; negative: _nach_, _nár_) is used to link a main clause and a relative subordinate clause together.
 
 :11-1-2-p_ga: Is roimh an mbriathar san fhochlásal a chuirtear an mhír choibhneasta. Más í an chopail atá san fhochlásal, ní úsáidtear mír choibhneasta chun an príomhchlásal agus an fochlásal a nascadh le chéile ach bíonn foirm ar leith ar an gcopail féin (féach link:#sec_11_8[11.8]).
-:11-1-2-p_en: The relative particle is placed before the verb in the subordinate clause. If the copula is in the subordinate clause, the relative particle is not used to link the main clause and the subordinate clause together but the copula itself has a special form (see link:#sec_11_8[11.8]).
+:11-1-2-p_en: The relative particle is placed before the verb in the subordinate clause. If the copula is in the subordinate clause, the relative particle is not used to link the main clause and the subordinate clause together, but the copula itself has a special form (see link:#sec_11_8[11.8]).
 
 :11-1-3-p_ga: Déantar idirdhealú idir _clásal coibhneasta díreach_ agus _clásal coibhneasta indíreach_ (féach link:#sec_11_2[11.2] agus link:#sec_11_3[11.3]).
 :11-1-3-p_en: A distinction is made between a _direct relative clause_ and an _indirect relative clause_ (see link:#sec_11_2[11.2] and link:#sec_11_3[11.3]).
@@ -275,7 +275,7 @@
 :11-3-1-c-ii-sample-2a_en: An application for planning permission was submitted in respect of the building.
 
 :11-3-1-c-ii-sample-2b_ga: Sin é an foirgneamh *ar ina leith* a cuireadh iarratas ar chead pleanála isteach.
-:11-3-1-c-ii-sample-2b_en: It is that building *in respect of which* an application for planning permission *was submitted*.
+:11-3-1-c-ii-sample-2b_en: It is that building *in respect of which* an application for planning permission was submitted.
 
 :11-3-1-d-p_ga: nuair atá nasc ginidigh idir an réamhtheachtaí agus ainmní nó cuspóir (díreach nó indíreach) an bhriathair sa chlásal coibhneasta. Sa chás sin, aidiacht shealbhach atá san iartheachtaí:
 :11-3-1-d-p_en: when there is a genitive link between the antecedent and a noun or object (direct or indirect) of the verb in the relative clause. In that context, the subsequent is a possessive adjective:
@@ -795,13 +795,13 @@
 :11-7-3-a-p_en: The dependent form of the verb is eclipsed after _nach_.
 
 :11-7-3-a-sample-1_ga: Sin é an sliotar *nach mbuaileann* an bhean.
-:11-7-3-a-sample-1_en: That is the ball *that* the woman *does not hit*.
+:11-7-3-a-sample-1_en: That is the hurley ball *that* the woman *does not hit*.
 
 :11-7-3-a-sample-2_ga: Sin é an gaothscáth *nach mbrisfidh* an buachaill.
 :11-7-3-a-sample-2_en: That is the windscreen *that* the boy *will not break*.
 
 :11-7-3-a-sample-3_ga: Sin é an sliotar *nach mbuaileann* an bhean é.
-:11-7-3-a-sample-3_en: That is the ball *that* the woman *does not hit*.
+:11-7-3-a-sample-3_en: That is the hurley ball *that* the woman *does not hit*.
 
 :11-7-3-a-sample-4_ga: Sin í an bhean *nach gceannóidh* an buachaill a carr.
 :11-7-3-a-sample-4_en: That is the woman from *whom* the boy *will not buy* a car.
@@ -840,10 +840,10 @@
 :Table11D-caption_en: Forms of the Copula in a Relative Clause
 
 :Table11D-header-1_ga: An Aimsir Láithreach agus An Aimsir Fháistineach
-:Table11D-header-1_en: The Present and Future Tense
+:Table11D-header-1_en: Present and Future Tense
 
 :Table11D-header-2_ga: An Aimsir Chaite, An Aimsir Ghnáthchaite agus An Modh Coinníollach
-:Table11D-header-2_en: The Past Tense, Habitual Past Tense and Conditional Mood
+:Table11D-header-2_en: Past Tense, Habitual Past Tense and Conditional Mood
 
 :Table11D-subheader-1_ga: roimh chonsan
 :Table11D-subheader-1_en: before a consonant
