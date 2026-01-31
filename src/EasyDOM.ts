@@ -8,17 +8,23 @@ import type { SelectWritable } from "./metaTypes";
 * - Use {@link fromHtml} when you are loading raw HTML string in (e.g. with fetch API)
 */
 export class EasyDOM<TElement extends HTMLElement> {
+  /** Lets you override this for JSDOM instead of browser environment */
+  static document = globalThis.document;
+
   /** Provides access to the underlying element */
   element: TElement;
 
   /** Use this when constructing from an existing typed HTML element. */
   constructor(element: TElement) {
     this.element = element;
+
+    if (EasyDOM.document == null)
+      throw new Error("EasyDOM.document is not set. Are you in NodeJS without JSDOM?");
   }
 
   /** Analagous to {@link document.createElement} */
   static createElement<TElementName extends keyof HTMLElementTagNameMap>(tagName: TElementName) {
-    return new EasyDOM(document.createElement(tagName));
+    return new EasyDOM(EasyDOM.document.createElement(tagName));
   }
 
   /** 
@@ -26,7 +32,7 @@ export class EasyDOM<TElement extends HTMLElement> {
    * @returns null if {@link document.querySelector} would return null
    */
   static querySelector<TElement extends HTMLElement>(selector: string) {
-    const element = document.querySelector<TElement>(selector);
+    const element = EasyDOM.document.querySelector<TElement>(selector);
     return element == null
       ? null
       : new EasyDOM(element);
@@ -38,13 +44,13 @@ export class EasyDOM<TElement extends HTMLElement> {
    * @returns Array of elements that match against the query selectors.
    */
   static querySelectorAll<TElement extends HTMLElement>(selector: string) {
-    const elements = document.querySelectorAll<TElement>(selector);
+    const elements = EasyDOM.document.querySelectorAll<TElement>(selector);
     return [...elements].map(el => new EasyDOM(el));
   }
 
   /** Create a node defined by given string. If more than one child is contained, throws an error. */
   static fromHtml<TElement extends HTMLElement>(html: string) {
-    const template = document.createElement('template');
+    const template = EasyDOM.document.createElement('template');
     // Removes UTF-8 BOM charactter
     template.innerHTML = html.trim();
 
