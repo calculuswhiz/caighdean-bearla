@@ -318,51 +318,36 @@
 :EclipsisNote_ga: *Is iad seo na consain inuraithe: _b_, _c_, _d_, _f_, _g_, _p_ agus _t_.
 :EclipsisNote_en: *These are the eclipsable consonants: _b_, _c_, _d_, _f_, _g_, _p_ and _t_
 
+:gachConsan_ga: gach consan
+:gachConsan_en: every consonant
+
+:gachGuta_ga: gach guta
+:gachGuta_en: every vowel
+
+:ganAonAthru_ga: gan aon athrú
+:ganAonAthru_en: no change
+
+:séimhiú_ga: séimhiú
+:séimhiú_en: lenition
+
+:tRoimhe_ga: _t_ roimhe
+:tRoimhe_en: _t_ in front
+
+:dNoT_ga: _d_ nó _t_
+:dNoT_en: _d_ or _t_
+
+:consanInséimhitheSeachasDTS_ga: consan inséimhithe*, <br /> (seachas _d_, _t_ nó _s_)
+:consanInséimhitheSeachasDTS_en: lenitable consonants*, <br /> (other than _d_, _t_ or _s_)
+
+:sSeachasCFMPTV_ga: _s_ <br /> (seachas _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
+:sSeachasCFMPTV_en: _s_ <br /> (other than _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
+
 // Consonant/vowel covered by CommonAttributes
 
 // Table1A
 
 :Table1A-caption_ga: An Tuiseal Ainmneach agus an Tuiseal Cuspóireach Uatha
 :Table1A-caption_en: The Nominative Case and the Singular Accusative Case
-
-:Table1A-masc-cons-col1_ga: gach consan
-:Table1A-masc-cons-col1_en: every consonant
-
-:Table1A-masc-cons-col3_ga: gan aon athrú
-:Table1A-masc-cons-col3_en: no change
-
-:Table1A-masc-vowel-col1_ga: gach guta
-:Table1A-masc-vowel-col1_en: every vowel
-
-:Table1A-masc-vowel-col3_ga: _t_ roimhe
-:Table1A-masc-vowel-col3_en: _t_ in front
-
-// Interstitial empty line is important to terminate line break
-:Table1A-fem-cons-case1-col1_ga: consan inséimhithe*, <br /> (seachas _d_, _t_ nó _s_)
-
-:Table1A-fem-cons-case1-col1_en: lenitable consonants*, <br /> (other than _d_, _t_ or _s_)
-
-:Table1A-fem-cons-case1-col3_ga: séimhiú
-:Table1A-fem-cons-case1-col3_en: lenition
-
-:Table1A-fem-cons-case2-col1_ga: _d_ nó _t_
-:Table1A-fem-cons-case2-col1_en: _d_ or _t_
-
-:Table1A-fem-cons-case2-col3_ga: gan aon athrú
-:Table1A-fem-cons-case2-col3_en: no change
-
-:Table1A-fem-cons-case3-col1_ga: _s_ <br /> (seachas _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
-
-:Table1A-fem-cons-case3-col1_en: _s_ <br /> (other than _sc-_, _sf-_, _sm-_, _sp-_, _st-_, _sv-_)
-
-:Table1A-fem-cons-case3-col3_ga: _t_ roimhe
-:Table1A-fem-cons-case3-col3_en: _t_ in front
-
-:Table1A-fem-vowel-col1_ga: gach guta
-:Table1A-fem-vowel-col1_en: every vowel
-
-:Table1A-fem-vowel-col3_ga: gan aon athrú
-:Table1A-fem-vowel-col3_en: no change
 
 :1-3-title_ga: An Tuiseal Tabharthach Uatha
 :1-3-title_en: The Dative Singular Case
@@ -385,8 +370,8 @@
 :CoreSystem_ga: An Córas Lárnach
 :CoreSystem_en: The Core System
 
-:nopass-1-4-title_ga: An Tuiseal Tabharthach Uatha &mdash; {CoreSystem}
-:nopass-1-4-title_en: The Dative Singular Case &mdash; {CoreSystem}
+:1-4-title_ga: An Tuiseal Tabharthach Uatha &mdash; An Córas Lárnach
+:1-4-title_en: The Dative Singular Case &mdash; The Core System
 
 :1-4-1-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús consan (seachas _d_, _t_ agus _s_), cuirtear séimhiú orthu i ndiaidh _den_, _don_, _sa/san_ agus urú i ngach cás eile, mar a léirítear sa tábla thíos.
 :1-4-1-p_en: As for masculine and feminine nouns starting with a consonant (other than _d_, _t_ and _s_), lenition is applied to them following _den_, _don_, _sa/san_ and eclipsis in every other context, as shown in the table below.
@@ -487,46 +472,8 @@
 :Table1F-caption_ga: An Tuiseal Ginideach Uatha
 :Table1F-caption_en: The Genitive Singular Case
 
-////
-Very similar to 1A, except masc/fem swapped and h instead of t.
-This will (mostly) just be some algebra here...
-////
-
-:nopass-Table1F-masc-cons-case1-col1_ga: {Table1A-fem-cons-case1-col1}
-:nopass-Table1F-masc-cons-case1-col1_en: {Table1A-fem-cons-case1-col1}
-
-:nopass-Table1F-masc-cons-case1-col3_ga: {Table1A-fem-cons-case1-col3}
-:nopass-Table1F-masc-cons-case1-col3_en: {Table1A-fem-cons-case1-col3}
-
-:nopass-Table1F-masc-cons-case2-col1_ga: {Table1A-fem-cons-case2-col1}
-:nopass-Table1F-masc-cons-case2-col1_en: {Table1A-fem-cons-case2-col1}
-
-:nopass-Table1F-masc-cons-case2-col3_ga: {Table1A-fem-cons-case2-col3}
-:nopass-Table1F-masc-cons-case2-col3_en: {Table1A-fem-cons-case2-col3}
-
-:nopass-Table1F-masc-cons-case3-col1_ga: {Table1A-fem-cons-case3-col1}
-:nopass-Table1F-masc-cons-case3-col1_en: {Table1A-fem-cons-case3-col1}
-
-:nopass-Table1F-masc-cons-case3-col3_ga: {Table1A-fem-cons-case3-col3}
-:nopass-Table1F-masc-cons-case3-col3_en: {Table1A-fem-cons-case3-col3}
-
-:nopass-Table1F-masc-vowel-col1_ga: {Table1A-fem-vowel-col1}
-:nopass-Table1F-masc-vowel-col1_en: {Table1A-fem-vowel-col1}
-
-:nopass-Table1F-masc-vowel-col3_ga: {Table1A-fem-vowel-col3}
-:nopass-Table1F-masc-vowel-col3_en: {Table1A-fem-vowel-col3}
-
-:nopass-Table1F-fem-cons-col1_ga: {Table1A-masc-cons-col1}
-:nopass-Table1F-fem-cons-col1_en: {Table1A-masc-cons-col1}
-
-:nopass-Table1F-fem-cons-col3_ga: {Table1A-masc-cons-col3}
-:nopass-Table1F-fem-cons-col3_en: {Table1A-masc-cons-col3}
-
-:nopass-Table1F-fem-vowel-col1_ga: {Table1A-masc-vowel-col1}
-:nopass-Table1F-fem-vowel-col1_en: {Table1A-masc-vowel-col1}
-
-:Table1F-fem-vowel-col3_ga: _h_ roimhe
-:Table1F-fem-vowel-col3_en: _h_ in front
+:hRoimhe_ga: _h_ roimhe
+:hRoimhe_en: _h_ in front
 
 :1-6-title_ga: An tIolra
 :1-6-title_en: The Plural
@@ -545,12 +492,6 @@ This will (mostly) just be some algebra here...
 :Table1G-caption_ga: An Tuiseal Ainmneach Iolra agus an Tuiseal Cuspóireach Iolra
 :Table1G-caption_en: The Nominative Plural Case and the Accusative Plural Case
 
-:nopass-Table1G-cons-col3_ga: {Table1F-fem-cons-col3}
-:nopass-Table1G-cons-col3_en: {Table1F-fem-cons-col3}
-
-:nopass-Table1G-vowel-col3_ga: {Table1F-fem-vowel-col3}
-:nopass-Table1G-vowel-col3_en: {Table1F-fem-vowel-col3}
-
 :1-6-2-title_ga: An Tuiseal Tabharthach Iolra
 :1-6-2-title_en: The Dative Plural Case
 
@@ -559,13 +500,6 @@ This will (mostly) just be some algebra here...
 
 :Table1H-caption_ga: An Tuiseal Tabharthach Iolra
 :Table1H-caption_en: The Dative Plural Case
-
-// Same cases as 1G.
-:nopass-Table1H-cons-col3_ga: {Table1G-cons-col3}
-:nopass-Table1H-cons-col3_en: {Table1G-cons-col3}
-
-:nopass-Table1H-vowel-col3_ga: {Table1G-vowel-col3}
-:nopass-Table1H-vowel-col3_en: {Table1G-vowel-col3}
 
 :1-6-3-title_ga: An Tuiseal Ginideach Iolra
 :1-6-3-title_en: The Genitive Plural Case
@@ -576,8 +510,8 @@ This will (mostly) just be some algebra here...
 :Table1I-caption_ga: An Tuiseal Ginideach Iolra
 :Table1I-caption_en: The Genitive Plural Case
 
-:Table1I-Row1Name_ga: Consan inuraithe*
-:Table1I-Row1Name_en: Eclipsable consonants*
+:ConsanInuraithe_ga: Consan inuraithe*
+:ConsanInuraithe_en: Eclipsable consonants*
 
 :1-7-Title_ga: An Tuiseal Tabharthach Uatha -- Córas an tSéimhithe
 :1-7-Title_en: The Dative Singular Case -- The Lenition System
@@ -594,8 +528,8 @@ This will (mostly) just be some algebra here...
 :Table1J-header_ga: Córas an tSéimhithe &mdash;<br />Ainmfhocail dar tús Consan seachas _d_, _t_ agus _s_
 :Table1J-header_en: The Lenition System &mdash;<br />Nouns starting with a consonant other than _d_, _t_, and _s_
 
-:Table1J-caption-start_ga: An Tuiseal Tabharthach Uatha
-:Table1J-caption-start_en: The Dative Singular Case
+:AnTuisealTabharthachUatha_ga: An Tuiseal Tabharthach Uatha
+:AnTuisealTabharthachUatha_en: The Dative Singular Case
 
 :1-7-4-p_ga: Maidir le hainmfhocail fhirinscneacha agus bhaininscneacha dar tús _s_, cuirtear _t_ roimh an _s_ (seachas i gcás ainmfhocail dar tús _sc-_, _sf-_, _sm-_, _sp-_, _st-_ nó _sv-_ a fhágtar lom) mar a léirítear sa tábla thíos.
 :1-7-4-p_en: As for masculine nouns and feminine nouns starting with _s_, a _t_ is placed before the _s_ (other than with nouns starting with _sc-_, _sf-_, _sm-_, _sp-_, _st-_ or _sv-_ which are left bare) as shown in the table below.
@@ -606,23 +540,14 @@ This will (mostly) just be some algebra here...
 :Table1K-header_ga: Córas an tSéimhithe &mdash; Ainmfhocail dar tús _s_
 :Table1K-header_en: The Lenition System &mdash; Nouns Starting with _s_
 
-:nopass-Table1K-caption-start_ga: {Table1J-caption-start}
-:nopass-Table1K-caption-start_en: {Table1J-caption-start}
-
 :1-7-5-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús guta. Féach an tábla thíos.
 :1-7-5-p_en: No change is done to either masculine nouns or feminine nouns starting with vowels. See the table below.
 
 :Table1L-header_ga: Córas an tSéimhithe &mdash; Ainmfhocail dar tús Guta
 :Table1L-header_en: The Lenition System &mdash; Nouns Starting with a Vowel
 
-:nopass-Table1L-caption-start_ga: {Table1J-caption-start}
-:nopass-Table1L-caption-start_en: {Table1J-caption-start}
-
 :1-7-6-p_ga: Ní dhéantar aon athrú ar ainmfhocail fhirinscneacha ná ar ainmfhocail bhaininscneacha dar tús _d_ agus _t_. Féach an tábla thíos.
 :1-7-6-p_en: No change is done to either masculine nouns or feminine nouns starting with _d_ and _t_. See the table below.
 
 :Table1M-Header_ga: Córas an tSéimhithe &mdash; Ainmfhocail dar tús _d_ agus _t_
 :Table1M-Header_en: The Lenition System &mdash; Nouns Starting with _d_ and _t_
-
-:nopass-Table1M-caption-start_ga: {Table1J-caption-start}
-:nopass-Table1M-caption-start_en: {Table1J-caption-start}

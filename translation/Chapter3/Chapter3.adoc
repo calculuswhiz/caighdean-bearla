@@ -1464,28 +1464,28 @@ h|
 | {Table3G-col3}
 
 | {Table3G-row1-condition}
-| {Table3G-row1-rule}
+| {leanannAnGinideach}
 | Bhí bus *fhoireann* Chorcaí ann.
 
 | {Table3G-row2-condition}
-| {Table3G-row2-rule}
+| {leanannAnGinideach}
 | Tá an t-iniúchóir ag fiosrú *an chur i gcéill* sin faoi láthair.
 
 | {Table3G-row3-condition}
-| {Table3G-row3-rule}
+| {leanannAnGinideach}
 | Bhí na fir shlándála ar tí *na doirse* a dhúnadh.
 
 | {Table3G-row4-condition}
-| {Table3G-row4-rule}
+| {leanannAnGinideach}
 a| . Gortaíodh í le linn *ceann* de na cluichí áitiúla.
 . Tá laghdú tagtha ar mhéid *mo chuid* oibre.
 
 | {Table3G-row5-condition}
-| {Table3G-row5-rule}
+| {leanannAnGinideach}
 | Cá bhfuil príomhoifig *Bóthar*?
 
 | {Table3G-row6-condition}
-| {Table3G-row6-rule}
+| {leanannAnGinideach}
 | Tá sé tar éis *a rá* go ndéanfaidh sé é.
 
 | {Table3G-row7-condition}
@@ -1493,7 +1493,7 @@ a| . Gortaíodh í le linn *ceann* de na cluichí áitiúla.
 | An bhfuil sé chun *iomáint* le Corcaigh?
 
 | {Table3G-row8-condition}
-| {Table3G-row8-rule}
+| {leanannAnGinideach}
 | Cén cineál *cur chuige* a d'úsáid siad?
 
 | {Table3G-row9-condition}
@@ -1515,11 +1515,11 @@ a| . Tá an lánúin sin ar tí *pósadh*.
 | Tá siad ag tabhairt *aghaidh* ar an bhfoireann eile anois.
 
 | {Table3G-row13-condition}
-| {Table3G-row13-rule}
+| {leanannAnGinideach}
 | Tá sé ag déanamh *bolg le gréin* sa Fhrainc faoi láthair.
 
 | {Table3G-row14-condition}
-| {Table3G-row14-rule}
+| {leanannAnGinideach}
 | Déantar ócáid *deireadh* seachtaine a eagrú gach bliain.
 
 | {Table3G-row15-condition}

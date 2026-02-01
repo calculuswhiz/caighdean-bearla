@@ -104,7 +104,7 @@ clann na mná *bige*
 ++++
 <table class="chapter-4">
   <caption>
-    <strong>{Table} 4B</strong>  {Table4B-caption}
+    <strong>{Table} 4B</strong> {4-2-5-title}
   </caption>
   <thead>
     <tr>
@@ -524,7 +524,7 @@ endif::[]
 
 {4-4-4-p}
 
-.*{Table} 4C*  {Table4C-caption}
+.*{Table} 4C*  {4-4-4-title}
 [.chapter-4]
 [%header]
 [cols="2,2,1"]
@@ -566,7 +566,7 @@ a|
 === 4.5.1 {4-5-1-title}
 
 [list-[lower-alpha]]
-a. *{4-5-1-a-title}*
+a. *{Masculine}*
 +
 {4-5-1-a-p}
 +
@@ -586,7 +586,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-b. *{4-5-1-b-title}*
+b. *{Feminine}*
 +
 {4-5-1-b-p}
 +

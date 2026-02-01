@@ -324,7 +324,7 @@
           </thead>
           <tbody>
             <tr>
-              <td rowspan=2>{Table2E-row1-cell1}</td>
+              <td rowspan=2>{Masculine}</td>
               <td rowspan=2>{Table2E-row1-cell2}</td>
               <td rowspan=2>{Table2E-row1-cell3}</td>
               <td>{Table2E-row1-cell4}</td>

@@ -91,9 +91,6 @@
 :4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin link:./chapter10-ga.html#sec_10_3_1[10.3.1]).
 :4-2-5-p_en: In the plural, the initial consonant of the adjective is lenited if the plural noun starts with a slender consonant, as in the table below (see also link:./chapter10-en.html#sec_10_3_1[10.3.1]).
 
-:nopass-Table4B-caption_ga: {4-2-5-title}
-:nopass-Table4B-caption_en: {4-2-5-title}
-
 :Table4B-col1-main_ga: Séimhiú
 :Table4B-col1-main_en: Lenition
 
@@ -343,9 +340,6 @@
 :4-4-4-p_ga: Déantar coimriú sa tuiseal ginideach uatha baininscneach agus san uimhir iolra i ngach tuiseal ar na haidiachtaí sa tábla seo a leanas, i measc eile, ach ní choimrítear na foirmeacha idir lúibíní.
 :4-4-4-p_en: The adjectives in the following table, among others, are syncopated in the feminine genitive singular case and in the plural in each case, but the forms in brackets are not syncopated.
 
-:nopass-Table4C-caption_ga: {4-4-4-title}
-:nopass-Table4C-caption_en: {4-4-4-title}
-
 :Table4C-col1_ga: Ainmneach Uatha
 :Table4C-col1_en: Nominative Singular
 
@@ -364,9 +358,6 @@
 :4-5-1-title_ga: Foirm an Ghinidigh Uatha
 :4-5-1-title_en: Form of the Genitive Singular
 
-:nopass-4-5-1-a-title_ga: {Masculine}
-:nopass-4-5-1-a-title_en: {Masculine}
-
 :4-5-1-a-p_ga: Ní théann aon infhilleadh ar aidiachtaí an díochlaonta seo.
 :4-5-1-a-p_en: Adjectives of this declension do not undergo any inflection.
 
@@ -384,9 +375,6 @@
 
 :4-5-1-b-p-sample2_ga: Léigh mé tús na haiste *deacra*.
 :4-5-1-b-p-sample2_en: I read the start of the *difficult* essay.
-
-:nopass-4-5-1-b-title_ga: {Feminine}
-:nopass-4-5-1-b-title_en: {Feminine}
 
 :4-5-2-title_ga: Foirm an Iolra -- Gach Tuiseal
 :4-5-2-title_en: Form of the Plural -- Every Case

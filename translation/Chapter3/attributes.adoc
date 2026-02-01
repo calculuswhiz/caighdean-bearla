@@ -870,40 +870,23 @@
 :Table3G-row1-condition_ga: Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (link:#sec_3_3_1[3.3.1](a))
 :Table3G-row1-condition_en: A noun that comes before a definite noun in the genitive (link:#sec_3_3_1[3.3.1](a))
 
-:Table3G-row1-rule_ga: Focal nó leagan a leanann an ginideach é
-:Table3G-row1-rule_en: Word or form following the genitive
+:leanannAnGinideach_ga: Focal nó leagan a leanann an ginideach é
+:leanannAnGinideach_en: Word or form following the genitive
 
 :Table3G-row2-condition_ga: Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (link:#sec_3_3_1[3.3.1](b))
 :Table3G-row2-condition_en: A certain definite unit of which a verbal noun is an integral part (link:#sec_3_3_1[3.3.1](b))
 
-:nopass-Table3G-row2-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row2-rule_en: {Table3G-row1-rule}
-
 :Table3G-row3-condition_ga: Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (link:#sec_3_3_2[3.3.2](a))
 :Table3G-row3-condition_en: A noun or noun phrase, definite or indefinite, connected by a preposition _a_ (from _do_) to a verbal noun (link:#sec_3_3_2[3.3.2](a))
-
-:nopass-Table3G-row3-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row3-rule_en: {Table3G-row1-rule}
 
 :Table3G-row4-condition_ga: _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (link:#sec_3_3_2[3.3.2](b))
 :Table3G-row4-condition_en: _cuid_ and _ceann_, and genitive partitive or dative partitive subject to it (link:#sec_3_3_2[3.3.2](b))
 
-:nopass-Table3G-row4-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row4-rule_en: {Table3G-row1-rule}
-
 :Table3G-row5-condition_ga: Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (link:#sec_3_3_2[3.3.2](c))
 :Table3G-row5-condition_en: A single common noun without the article that is used as the name of a company, association or program (link:#sec_3_3_2[3.3.2](c))
 
-:nopass-Table3G-row5-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row5-rule_en: {Table3G-row1-rule}
-
-// FYI Page break in doc
-
 :Table3G-row6-condition_ga: Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (link:#sec_3_3_3[3.3.3](a))
 :Table3G-row6-condition_en: A verbal noun that is preceded by the proleptic pronominal _a_ (link:#sec_3_3_3[3.3.3](a))
-
-:nopass-Table3G-row6-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row6-rule_en: {Table3G-row1-rule}
 
 :Table3G-row7-condition_ga: Ainm briathartha (link:#sec_3_3_3[3.3.3](b))
 :Table3G-row7-condition_en: A verbal noun (link:#sec_3_3_3[3.3.3](b))
@@ -913,9 +896,6 @@
 
 :Table3G-row8-condition_ga: Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (link:#sec_3_3_3[3.3.3](c))
 :Table3G-row8-condition_en: A certain indefinite unit has a verbal noun as an integral part (link:#sec_3_3_3[3.3.3](c))
-
-:nopass-Table3G-row8-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row8-rule_en: {Table3G-row1-rule}
 
 :Table3G-row9-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (link:#sec_3_3_4[3.3.4](a))
 :Table3G-row9-condition_en: An indefinite noun is used as a verbal noun also, and has a normal genitive subject to one of the declensions, that is used as a verbal noun (link:#sec_3_3_4[3.3.4](a))
@@ -944,14 +924,8 @@
 :Table3G-row13-condition_ga: An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (link:#sec_3_3_6[3.3.6](a))
 :Table3G-row13-condition_en: The first indefinite noun in a multi-word phrase that has a specific meaning (link:#sec_3_3_6[3.3.6](a)) 
 
-:nopass-Table3G-row13-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row13-rule_en: {Table3G-row1-rule}
-
 :Table3G-row14-condition_ga: _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (link:#sec_3_3_6[3.3.6](b))
 :Table3G-row14-condition_en: _tús_, _lár_ or _deireadh_, if they are the first noun in a unit of two indefinite nouns (link:#sec_3_3_6[3.3.6](b))
-
-:nopass-Table3G-row14-rule_ga: {Table3G-row1-rule}
-:nopass-Table3G-row14-rule_en: {Table3G-row1-rule}
 
 // FYI Page break in doc
 :Table3G-row15-condition_ga: Ainmfhocal i liosta (link:#sec_3_3_7[3.3.7])

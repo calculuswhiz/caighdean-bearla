@@ -13,33 +13,6 @@ function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
     );
 }
 
-/** 1) Removes everything after the numeric prefix.
- *   E.g. "sec_1_1_general" becomes "sec_1_1".
- * 2) Also encapsulate the number part in a span for styling.
- */
-function processHeading(heading: EasyDOM<HTMLHeadingElement>) {
-  const id = heading.element.id;
-  const newId = id.replace(/(sec(_\d+)+).*/, '$1');
-  heading.element.id = newId;
-
-  // Use innerHTML because we want to preserve any inner markup (like <em> and <strong>)
-  const match = heading.element.innerHTML?.match(/^(\d+(\.\d+)+)(.*)/);
-  if (match) {
-    const numberSpan = EasyDOM.createElement("span")
-      .addClasses('mr-2')
-      .setText(match[1] + ' ');
-
-    const restText = match[3] ?? '';
-
-    heading
-      .setText('')
-      .append(
-        numberSpan,
-        EasyDOM.createElement("span").setHtml(restText)
-      )
-  }
-}
-
 function addSectionLinks(heading: EasyDOM<HTMLHeadingElement>) {
   const sectionLink = EasyDOM.createElement("a")
     .setProperties({ title: "Link to this section" })
@@ -57,14 +30,11 @@ function addSectionLinks(heading: EasyDOM<HTMLHeadingElement>) {
  * Also processes heading IDs for easier reference linking.
  * Will not add TOC if there are no headings.
  */
-export function cleanHeadersAndMakeToC(docLang: keyof typeof translations["tableOfContents"] = 'en') {
+export function makeToC(docLang: keyof typeof translations["tableOfContents"] = 'en') {
   const headings = document.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
 
   if (headings.length === 0)
     return;
-
-  for (const heading of headings)
-    processHeading(new EasyDOM(heading));
 
   const showHideSpan = EasyDOM.createElement("span")
     .addClasses('toc-toggle', 'text-sm', 'ml-4', 'cursor-pointer', 'text-blue-700')

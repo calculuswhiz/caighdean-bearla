@@ -184,9 +184,6 @@
 :2-1-7-notes-3_ga: Tabhair faoi deara, má tá _iar_ ag teacht roimh theideal a thosaíonn ar cheannlitir, nach gá fleiscín a chur idir _iar_ agus an teideal, e.g., _an t-iarArd-Reachtaire Cuntas agus Ciste_.
 :2-1-7-notes-3_en: Note if _iar_ is coming before a title starting with a capital letter, the placement of a hyphen is not necessary between _iar_ and the title, e.g., _an t-iarArd-Reachtaire Cuntas agus Ciste_.
 
-:nopass-Table2E-row1-cell1_ga: {Masculine}
-:nopass-Table2E-row1-cell1_en: {Masculine}
-
 :Table2E-row1-cell2_ga: Críochnaíonn ar chonsan leathan, e.g., _bád_, _cás_, _ceol_, _marcach_.
 :Table2E-row1-cell2_en: Ends with a broad consonant, e.g., _bád_, _cás_, _ceol_, _marcach_.
 
@@ -259,8 +256,8 @@
 :2-1-8-notes_ga: Mar a luadh in link:#sec_2_1_2[2.1.2], is ionann foirm don Tuiseal Ainmneach, don Tuiseal Cuspóireach agus don Tuiseal Tabharthach agus áirítear iad uile faoin teideal Ainmneach.
 :2-1-8-notes_en: As mentioned in link:#sec_2_1_2[2.1.2], the form is the same in the Nominative Case, the Accusative Case and the Dative Case and all of them are included under the title Nominative.
 
-:nopass-2-2-title_ga: {declension-1}
-:nopass-2-2-title_en: {declension-1}
+:2-2-title_ga: An Chéad Díochlaonadh
+:2-2-title_en: The First Declension
 
 :2-2-1-title_ga: An tUatha
 :2-2-1-title_en: The Singular

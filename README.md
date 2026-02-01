@@ -52,8 +52,6 @@ In the **translation** folder, each chapter has a main **.adoc** file and an **a
 
 Notes:
 - The attributes names have a version for each language, suffixed with `_en` and `_ga` respectively.
-- For attributes that reference other attributes, prefix the attribute with `nopass-`.
-  - To reference another attributes, leave out the language suffix in the reference. The preprocessor scrubs these.
 
 ### Table standardization
 

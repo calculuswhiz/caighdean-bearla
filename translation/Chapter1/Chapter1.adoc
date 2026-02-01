@@ -437,9 +437,9 @@ endif::[]
             <tbody>
               <tr>
                 <th class="bg-stone-300">{Consonant}</th>
-                <td>{Table1A-masc-cons-col1}</td>
+                <td>{gachConsan}</td>
                 <td>an</td>
-                <td>{Table1A-masc-cons-col3}</td>
+                <td>{ganAonAthru}</td>
                 <td>
                   <ul>
                     <li>an cnoc</li>
@@ -453,9 +453,9 @@ endif::[]
               </tr>
               <tr>
                 <th class="bg-stone-300">{Vowel}</th>
-                <td>{Table1A-masc-vowel-col1}</td>
+                <td>{gachGuta}</td>
                 <td>an</td>
-                <td>{Table1A-masc-vowel-col3}</td>
+                <td>{tRoimhe}</td>
                 <td>
                   <ul>
                     <li>an t-íochtar</li>
@@ -494,9 +494,9 @@ endif::[]
             <tbody>
               <tr>
                 <th rowspan=3 class="bg-stone-300">{Consonant}</th>
-                <td>{Table1A-fem-cons-case1-col1}</td>
+                <td>{consanInséimhitheSeachasDTS}</td>
                 <td>an</td>
-                <td>{Table1A-fem-cons-case1-col3}</td>
+                <td>{séimhiú}</td>
                 <td>
                   <ul>
                     <li>an fhuinneog</li>
@@ -505,9 +505,9 @@ endif::[]
                 </td>
               </tr>
               <tr>
-                <td>{Table1A-fem-cons-case2-col1}</td>
+                <td>{dNoT}</td>
                 <td>an</td>
-                <td>{Table1A-fem-cons-case2-col3}</td>
+                <td>{ganAonAthru}</td>
                 <td>
                   <ul>
                     <li>an deoch</li>
@@ -516,9 +516,9 @@ endif::[]
                 </td>
               </tr>
               <tr>
-                <td>{Table1A-fem-cons-case3-col1}</td>
+                <td>{sSeachasCFMPTV}</td>
                 <td>an</td>
-                <td>{Table1A-fem-cons-case3-col3}</td>
+                <td>{tRoimhe}</td>
                 <td>
                   <ul>
                     <li>an tsráid</li>
@@ -528,9 +528,9 @@ endif::[]
               </tr>
               <tr>
                 <th class="bg-stone-300">{Vowel}</th>
-                <td>{Table1A-fem-vowel-col1}</td>
+                <td>{gachGuta}</td>
                 <td>an</td>
-                <td>{Table1A-fem-vowel-col3}</td>
+                <td>{ganAonAthru}</td>
                 <td>
                   <ul>
                     <li>an áit</li>
@@ -1047,9 +1047,9 @@ endif::[]
           <tbody>
             <tr>
               <th rowspan=3 class="bg-stone-300">{Consonant}</th>
-              <td>{Table1F-masc-cons-case1-col1}</td>
+              <td>{consanInséimhitheSeachasDTS}</td>
               <td>an</td>
-              <td>{Table1F-masc-cons-case1-col3}</td>
+              <td>{séimhiú}</td>
               <td>
                 <ul>
                   <li>barr an chnoic</li>
@@ -1058,9 +1058,9 @@ endif::[]
               </td>
             </tr>
             <tr>
-              <td>{Table1F-masc-cons-case2-col1}</td>
+              <td>{dNoT}</td>
               <td>an</td>
-              <td>{Table1F-masc-cons-case2-col3}</td>
+              <td>{ganAonAthru}</td>
               <td>
                 <ul>
                   <li>chun an diabhail</li>
@@ -1069,9 +1069,9 @@ endif::[]
               </td>
             </tr>
             <tr>
-              <td>{Table1F-masc-cons-case3-col1}</td>
+              <td>{sSeachasCFMPTV}</td>
               <td>an</td>
-              <td>{Table1F-masc-cons-case3-col3}</td>
+              <td>{tRoimhe}</td>
               <td>
                 <ul>
                   <li>tús an tsaoil</li>
@@ -1081,9 +1081,9 @@ endif::[]
             </tr>
             <tr>
               <th class="bg-stone-300">{Vowel}</th>
-              <td>{Table1A-masc-vowel-col1}</td>
+              <td>{gachGuta}</td>
               <td>an</td>
-              <td>{Table1F-masc-vowel-col3}</td>
+              <td>{ganAonAthru}</td>
               <td>
                 <ul>
                   <li>de réir an ailt</li>
@@ -1120,9 +1120,9 @@ endif::[]
           <tbody>
             <tr>
               <th class="bg-stone-300">{Consonant}</th>
-              <td>{Table1F-fem-cons-col1}</td>
+              <td>{gachConsan}</td>
               <td>na</td>
-              <td>{Table1F-fem-cons-col3}</td>
+              <td>{ganAonAthru}</td>
               <td>
                 <ul>
                   <li>leac na fuinneoige</li>
@@ -1134,9 +1134,9 @@ endif::[]
             </tr>
             <tr>
               <th class="bg-stone-300">{Vowel}</th>
-              <td>{Table1F-fem-vowel-col1}</td>
+              <td>{gachGuta}</td>
               <td>na</td>
-              <td>{Table1F-fem-vowel-col3}</td>
+              <td>{hRoimhe}</td>
               <td>
                 <ul>
                   <li>timpeall na háite</li>
@@ -1192,7 +1192,7 @@ endif::[]
     <tr>
       <th class="bg-stone-300">{Consonant}</th>
       <td>na</td>
-      <td>{Table1G-cons-col3}</td>
+      <td>{ganAonAthru}</td>
       <td>
         <ul>
           <li>na capaill ghlasa</li>
@@ -1206,7 +1206,7 @@ endif::[]
     <tr>
       <th class="bg-stone-300">{Vowel}</th>
       <td>na</td>
-      <td>{Table1G-vowel-col3}</td>
+      <td>{hRoimhe}</td>
       <td>
         <ul>
           <li>na hAchtanna tábhachtacha</li>
@@ -1252,7 +1252,7 @@ endif::[]
     <tr>
       <th class="bg-stone-300">{Consonant}</th>
       <td>na</td>
-      <td>{Table1H-cons-col3}</td>
+      <td>{ganAonAthru}</td>
       <td>
         <ul>
           <li>ag na fir mhóra</li>
@@ -1276,7 +1276,7 @@ endif::[]
     <tr>
       <th class="bg-stone-300">{Vowel}</th>
       <td>na</td>
-      <td>{Table1H-vowel-col3}</td>
+      <td>{hRoimhe}</td>
       <td>
         <ul>
           <li>ag na hiníonacha fásta</li>
@@ -1329,7 +1329,7 @@ endif::[]
   </thead>
   <tbody>
     <tr>
-      <th class="bg-stone-300">{Table1I-Row1Name}</th>
+      <th class="bg-stone-300">{ConsanInuraithe}</th>
       <td>na</td>
       <td>{Eclipsis}</td>
       <td>
@@ -1378,7 +1378,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1J</strong> {Table1J-caption-start} &mdash; {Table1J-header}
+    <strong>{Table} 1J</strong> {AnTuisealTabharthachUatha} &mdash; {Table1J-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1478,7 +1478,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1K</strong> {Table1K-caption-start} &mdash; {Table1K-header}
+    <strong>{Table} 1K</strong> {AnTuisealTabharthachUatha} &mdash; {Table1K-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1569,7 +1569,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1L</strong> {Table1L-caption-start} &mdash; {Table1L-header}
+    <strong>{Table} 1L</strong> {AnTuisealTabharthachUatha} &mdash; {Table1L-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1625,7 +1625,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1M</strong> {Table1M-caption-start} &mdash; {Table1M-header}
+    <strong>{Table} 1M</strong> {AnTuisealTabharthachUatha} &mdash; {Table1M-header}
   </caption>
   <colgroup>
     <col class="w-1/2">

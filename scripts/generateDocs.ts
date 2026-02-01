@@ -1,6 +1,8 @@
 import Asciidoctor from "asciidoctor";
 import fs from "fs/promises";
 import path from "path";
+import { JSDOM } from "jsdom";
+import { EasyDOM } from "../src/EasyDOM";
 
 /*
 Run command to generate all chapters:
@@ -9,53 +11,34 @@ npx tsx ./scripts/generateDocs.ts --dev --all
 
 const asciidoctor = Asciidoctor();
 
-/** Special processing for handling language-specific content in AsciiDoc files
+/** Special processing for handling language-specific content in AsciiDoc files:
+ * - Remove suffixes of `_en:` or `_ga:` based on selected language
+ * - Add `pass:q[]` to all attribute definitions to prevent AsciiDoc from processing them
+ * - NOTE: Do not use multi-line attributes. Use <br /> instead
  * @param contents The raw contents of the AsciiDoc file
  * @param language The language selection
  * @returns The processed contents
  */
-export function processAdocFileContents(contents: string, language: string) {
+export function processAttributeFile(contents: string, language: string) {
   const lines = contents.split('\n');
   const outputBuffer: string[] = [];
-
-  let inBlockComment = false;
 
   // Line-by-line is easier and faster than global regex.
   for (const line of lines) {
     const trimmed = line.trim();
-    if (trimmed.startsWith('////')) {
-      inBlockComment = !inBlockComment;
-      continue;
-    } else if (inBlockComment)
-      continue;
-    else if (trimmed.startsWith('//'))
+
+    if (trimmed === "")
       continue;
 
     const langSelect = trimmed.replace(new RegExp(`_${language}:`), ':');
+
     // Default behavior is "pass" as a lot of our text is marked up.
-    // Allow cancelling "pass" by prefixing id with `nopass-`
-    if (langSelect.startsWith(":nopass-") || langSelect === '') {
-      outputBuffer.push(langSelect.replace('nopass-', ''));
-    } else {
-      const stage1 = langSelect
-        .replace(/^:(.+?): (.*?)$/, ":$1: pass:q[$2");
-      const stage2 = stage1.endsWith(" + \\") ? stage1 : `${stage1}]`;
-      outputBuffer.push(stage2);
-    }
+    const addPass = langSelect
+      .replace(/^:(.+?): (.*?)$/, ":$1: pass:q[$2]");
+    outputBuffer.push(addPass);
   }
 
   return outputBuffer.join("\n");
-}
-
-function convertCommon(raw: string, devMode: boolean, isGa = false) {
-  return asciidoctor.convert(raw, {
-    attributes: {
-      rootRef: devMode ? "/public/" : "/caighdean-i18n/",
-      idprefix: "sec_",
-      // If the isGa attribute is set, we are generating the Irish version
-      isGa: isGa ? "1" : undefined,
-    }
-  });
 }
 
 /** Generate html for chapter by number.
@@ -65,27 +48,77 @@ function convertCommon(raw: string, devMode: boolean, isGa = false) {
  * @param devMode Whether to generate in dev mode
  * @returns The processed chapter content as a string
  */
-async function makeChapterHtml(chapterFolder: string, language: string, devMode: boolean) {
-  const chapterBaseDir = `./translation/${chapterFolder}`;
-  const [chapterAdocModule, chapterAttributesModule, commonAttributesModule] =
-    await Promise.all([
-      fs.readFile(`${chapterBaseDir}/${chapterFolder}.adoc`, "utf-8"),
-      fs.readFile(`${chapterBaseDir}/attributes.adoc`, "utf-8"),
-      fs.readFile(`./translation/CommonAttributes.adoc`, "utf-8"),
-    ]);
+async function makeChapterHtml(
+  layoutModule: string,
+  chapterAttributesModule: string,
+  commonAttributesModule: string,
+  language: string, devMode: boolean) {
 
-  const rawChapterAdoc = chapterAdocModule;
-  const rawChapterAttributes = chapterAttributesModule;
-  const rawCommonAttributes = commonAttributesModule;
 
-  const processedChapterAttrs = processAdocFileContents(rawChapterAttributes, language);
-  const processedCommonAttrs = processAdocFileContents(rawCommonAttributes, language);
+  const rawChapterAdoc = layoutModule;
+  const processedChapterAttrs = processAttributeFile(chapterAttributesModule, language);
+  const processedCommonAttrs = processAttributeFile(commonAttributesModule, language);
 
   const combined = [
     processedCommonAttrs, processedChapterAttrs, rawChapterAdoc,
   ].join("\n");
 
-  return convertCommon(combined, devMode, language === 'ga') as string;
+  return asciidoctor.convert(combined, {
+    attributes: {
+      rootRef: devMode ? "/public/" : "/caighdean-i18n/",
+      idprefix: "sec_",
+      // If the isGa attribute is set, we are generating the Irish version
+      isGa: language === 'ga' ? "1" : undefined,
+    }
+  }) as string;
+}
+
+/**
+ * Clean the headers in the given JSDOM document. (in-place)
+ * 1) Removes everything after the numeric prefix.
+ *   E.g. "sec_1_1_general" becomes "sec_1_1".
+ * 2) Also encapsulate the number part in a span for styling.
+ * @param jsDom 
+ */
+function cleanHeaders() {
+  const headings = EasyDOM.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
+
+  for (const heading of headings) {
+    const id = heading.element.id;
+    const newId = id.replace(/(sec(_\d+)+).*/, '$1');
+    heading.element.id = newId;
+
+    // Use innerHTML because we want to preserve any inner markup (like <em> and <strong>)
+    const match = heading.element.innerHTML?.match(/^(\d+(\.\d+)+)(.*)/);
+    if (match) {
+      const numberSpan = EasyDOM.createElement("span")
+        .addClasses('mr-2')
+        .setText(match[1] + ' ');
+
+      const restText = match[3] ?? '';
+
+      heading
+        .setText('')
+        .append(
+          numberSpan,
+          EasyDOM.createElement("span").setHtml(restText)
+        )
+    }
+  }
+}
+
+/** Give tables ids. E.g. Table/Tábla 1A -> table1a */
+function giveTablesIds(document: Document) {
+  const allTables = document.querySelectorAll<HTMLTableElement>("table");
+  for (const table of allTables) {
+    const captionId = table.querySelector("caption > strong");
+    if (captionId) {
+      const id = captionId.textContent
+        ?.match(/\d+[A-Z]/)?.[0]
+        .toLowerCase();
+      table.id = `table${id}`;
+    }
+  }
 }
 
 /**
@@ -95,23 +128,40 @@ async function makeChapterHtml(chapterFolder: string, language: string, devMode:
 async function generateDoc(chapterFolder: string) {
   const devMode = process.argv.includes("--dev");
 
-  const translationHtml = await makeChapterHtml(chapterFolder, 'en', devMode);
-  const originalIrishHtml = await makeChapterHtml(chapterFolder, 'ga', devMode);
   const chapterTemplate = await fs.readFile(`./src/chapterTemplate.html`, "utf-8");
+  const languages = ['en', 'ga'];
 
-  const finalTranslatedHtml = chapterTemplate
-    .replace("<!-- Insert content here -->", translationHtml);
-  const finalOriginalIrishHtml = chapterTemplate
-    .replace("<!-- Insert content here -->", originalIrishHtml);
+  const chapterBaseDir = `./translation/${chapterFolder}`;
+  const [layoutModule, chapterAttributesModule, commonAttributesModule] =
+    await Promise.all([
+      `${chapterBaseDir}/${chapterFolder}.adoc`,
+      `${chapterBaseDir}/attributes.adoc`,
+      `./translation/CommonAttributes.adoc`,
+    ].map(x => fs.readFile(x, "utf-8")));
 
-  await fs.writeFile(
-    `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-en.html`,
-    finalTranslatedHtml,
-    "utf-8");
-  await fs.writeFile(
-    `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-ga.html`,
-    finalOriginalIrishHtml,
-    "utf-8");
+  for (const lang of languages) {
+    console.log(`  Generating language: ${lang}`);
+    const convertedHtmlFragment = await makeChapterHtml(
+      layoutModule, chapterAttributesModule, commonAttributesModule,
+      lang, devMode
+    );
+    const completeHtml = chapterTemplate
+      .replace("<!-- Insert content here -->", convertedHtmlFragment);
+
+    const jsDom = new JSDOM(completeHtml);
+
+    // Setup EasyDOM to use this JSDOM instance
+    EasyDOM.document = jsDom.window.document;
+    EasyDOM.HTMLElement = jsDom.window.HTMLElement;
+
+    cleanHeaders();
+    giveTablesIds(jsDom.window.document);
+
+    await fs.writeFile(
+      `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-${lang}.html`,
+      jsDom.serialize(),
+      "utf-8");
+  }
 }
 
 (async () => {

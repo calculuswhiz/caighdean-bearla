@@ -10,6 +10,7 @@ import type { SelectWritable } from "./metaTypes";
 export class EasyDOM<TElement extends HTMLElement> {
   /** Lets you override this for JSDOM instead of browser environment */
   static document = globalThis.document;
+  static HTMLElement = globalThis.HTMLElement;
 
   /** Provides access to the underlying element */
   element: TElement;
@@ -119,7 +120,7 @@ export class EasyDOM<TElement extends HTMLElement> {
   append(...children: (HTMLElement | EasyDOM<HTMLElement>)[]) {
     for (const child of children) {
       this.element.append(
-        child instanceof HTMLElement
+        child instanceof EasyDOM.HTMLElement
           ? child
           : child.element
       )
@@ -132,7 +133,7 @@ export class EasyDOM<TElement extends HTMLElement> {
   prepend(...children: (HTMLElement | EasyDOM<HTMLElement>)[]) {
     for (const child of children) {
       this.element.prepend(
-        child instanceof HTMLElement
+        child instanceof EasyDOM.HTMLElement
           ? child
           : child.element
       )
@@ -142,15 +143,15 @@ export class EasyDOM<TElement extends HTMLElement> {
   }
 
   /**
-   * Set innerText of element
+   * Set textContent of element
    */
   setText(text: string) {
-    this.element.innerText = text;
+    this.element.textContent = text;
     return this;
   }
 
   /**
-   * This lets you set whatever HTML you want. THis is meant for loading raw HTML files.
+   * This lets you set whatever HTML you want. This is meant for loading raw HTML files.
    * If you're passing a string literal here, you're doing it wrong.
    */
   setHtml(htmlText: string) {
@@ -159,7 +160,7 @@ export class EasyDOM<TElement extends HTMLElement> {
   }
 
   /**
-   * Set the dataset key-value pairs specified. Use sparingy as this leads to bad type-safety.
+   * Set the dataset key-value pairs specified. Use sparingly as this leads to bad type-safety.
    */
   setDataAttributes(o: Record<string, string>) {
     for (const [key, value] of Object.entries(o))
@@ -167,5 +168,3 @@ export class EasyDOM<TElement extends HTMLElement> {
     return this;
   }
 }
-
-
