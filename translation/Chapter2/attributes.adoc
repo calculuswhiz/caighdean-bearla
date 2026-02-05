@@ -55,8 +55,8 @@
 :2-1-2-d-title_ga: An Gairmeach
 :2-1-2-d-title_en: The Vocative
 
-:2-1-2-d-p1_ga: Sa tuiseal gairmeach, cuirtear an mhír ghairmeach _a_ roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach link:#sec_2_2_3[2.2.3] agus link:#sec_2_2_4[2.2.4](c)).
-:2-1-2-d-p1_en: In the vocative case, the vocative particle _a_ is put before the noun and the initial consonant of the following noun is lenited. The form of the vocative is the same as the nominative except in the first declension and does not need to be specified separately outside of that declension (see link:#sec_2_2_3[2.2.3] and link:#sec_2_2_4[2.2.4](c)).
+:2-1-2-d-p1_ga: Sa tuiseal gairmeach, cuirtear an mhír ghairmeach _a_ roimh an ainmfhocal agus séimhítear túschonsan an ainmfhocail ar a lorg. Is ionann foirm don ghairmeach agus don ainmneach ach amháin sa Chéad Díochlaonadh agus ní gá an gairmeach a shonrú ar leithligh taobh amuigh den díochlaonadh sin (féach link:#sec_2_2_3[2.2.3] agus link:#sec_2_2_4_c[2.2.4(c)]).
+:2-1-2-d-p1_en: In the vocative case, the vocative particle _a_ is put before the noun and the initial consonant of the following noun is lenited. The form of the vocative is the same as the nominative except in the first declension and does not need to be specified separately outside of that declension (see link:#sec_2_2_3[2.2.3] and link:#sec_2_2_4_c[2.2.4(c)]).
 
 :2-1-3-title_ga: An tIolra
 :2-1-3-title_en: The Plural
@@ -496,8 +496,8 @@
 :2-4-2-title_ga: An Ginideach Uatha
 :2-4-2-title_en: The Genitive Singular
 
-:2-4-2-a_ga: Mar a luadh in (b) thuas, críochnaíonn an ginideach uatha ar _-a_.
-:2-4-2-a_en: As with in (b) above, the genitive singular ends with _-a_.
+:2-4-2-a_ga: Mar a luadh in link:#sec_2_4_1_b[(b)] thuas, críochnaíonn an ginideach uatha ar _-a_.
+:2-4-2-a_en: As with in link:#sec_2_4_1_b[(b)] above, the genitive singular ends with _-a_.
 
 :2-4-2-b_ga: Is iondúil go n-athraítear _-io-_ go _-ea-_ sa ghinideach uatha i gcás ainmfhocail aonsiollacha, e.g., _crios_, _creasa_; _lios_, _leasa_; ach _cion_ (sa bhrí _coir_), _ciona_.
 :2-4-2-b_en: It is customary to change _-io-_ to _-ea-_ in the genitive singular for monosyllabic nouns, e.g., _crios_, _creasa_; _lios_, _leasa_; but not _cion_ (meaning _coir_, _EN: crime_), _ciona_.

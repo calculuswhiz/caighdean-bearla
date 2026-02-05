@@ -322,8 +322,8 @@
 :4-4-3-title_ga: Foirm an Iolra -- Gach Tuiseal
 :4-4-3-title_en: Form of the Plural -- Every Case
 
-:4-4-3-p_ga: Cuirtear _-a_ leis na haidiachtaí a chríochnaíonn ar chonsan leathan agus _-e_ leis na haidiachtaí a chríochnaíonn ar chonsan caol agus coimrítear aidiachtaí áirithe (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2[4.3.2](b)).
-:4-4-3-p_en: _-a_ is added to adjectives ending in a broad consonant and _-e_ to adjectives ending in a slender consonant and some adjectives are syncopated (but see weak plurals in the genitive plural, link:#sec_4_3_2[4.3.2](b)).
+:4-4-3-p_ga: Cuirtear _-a_ leis na haidiachtaí a chríochnaíonn ar chonsan leathan agus _-e_ leis na haidiachtaí a chríochnaíonn ar chonsan caol agus coimrítear aidiachtaí áirithe (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2_b[4.3.2(b)]).
+:4-4-3-p_en: _-a_ is added to adjectives ending in a broad consonant and _-e_ to adjectives ending in a slender consonant and some adjectives are syncopated (but see weak plurals in the genitive plural, link:#sec_4_3_2_b[4.3.2(b)]).
 
 :4-4-3-p-sample1_ga: Cá bhfuil na peileadóirí *clúiteacha*?
 :4-4-3-p-sample1_en: Where are the *famous* footballers?
@@ -379,8 +379,8 @@
 :4-5-2-title_ga: Foirm an Iolra -- Gach Tuiseal
 :4-5-2-title_en: Form of the Plural -- Every Case
 
-:4-5-2-a-p_ga: Leathnaítear an consan deiridh agus cuirtear _-a_ leis mar a dhéantar sa ghinideach uatha baininscneach (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2[4.3.2](b))).
-:4-5-2-a-p_en: The final consonant is broadened and _-a_ is added as in the feminine genitive singular (but see genitive plurals, link:#sec_4_3_2[4.3.2](b)).
+:4-5-2-a-p_ga: Leathnaítear an consan deiridh agus cuirtear _-a_ leis mar a dhéantar sa ghinideach uatha baininscneach (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2_b[4.3.2(b)]).
+:4-5-2-a-p_en: The final consonant is broadened and _-a_ is added as in the feminine genitive singular (but see genitive plurals, link:#sec_4_3_2_b[4.3.2(b)]).
 
 :4-5-2-a-p-sample1_ga: Cá bhfuil na fir *cháiliúla* agus na mná *dathúla*?
 :4-5-2-a-p-sample1_en: Where are the *famous* men and the *beautiful* women?
@@ -397,8 +397,8 @@
 :4-6-1-p_ga: Cuimsítear sa díochlaonadh seo aidiachtaí a chríochnaíonn ar ghuta, e.g., _cliste_, _cróga_.
 :4-6-1-p_en: This declension includes adjectives that end in a vowel, e.g., _cliste_, _cróga_.
 
-:4-6-2-p_ga: Ní dhéantar infhilleadh ach ar dhá aidiacht sa díochlaonadh seo: _breá_ agus _te_. Athraíonn _breá_ go _breátha_ sa ghinideach uatha baininscneach agus san uimhir iolra agus athraíonn _te_ go _teo_ san uimhir iolra (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2[4.3.2](b)).
-:4-6-2-p_en: Only two adjectives are inflected in this declension: _breá_ and _te_. _breá_ changes to _breátha_ in the feminine genitive singular and plural and _te_ changes to _teo_ in the plural (but see weak plurals in the genitive plural, link:#sec_4_3_2[4.3.2](b)).
+:4-6-2-p_ga: Ní dhéantar infhilleadh ach ar dhá aidiacht sa díochlaonadh seo: _breá_ agus _te_. Athraíonn _breá_ go _breátha_ sa ghinideach uatha baininscneach agus san uimhir iolra agus athraíonn _te_ go _teo_ san uimhir iolra (ach féach lagiolraí sa ghinideach iolra, link:#sec_4_3_2_b[4.3.2(b)]).
+:4-6-2-p_en: Only two adjectives are inflected in this declension: _breá_ and _te_. _breá_ changes to _breátha_ in the feminine genitive singular and plural and _te_ changes to _teo_ in the plural (but see weak plurals in the genitive plural, link:#sec_4_3_2_b[4.3.2(b)]).
 
 :4-6-2-sample-row1_ga: Ainmneach uatha
 :4-6-2-sample-row1_en: Nominative singular

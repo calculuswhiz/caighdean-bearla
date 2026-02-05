@@ -360,8 +360,8 @@
 :7-2-2-B-title_ga: An Aimsir Chaite, an Aimsir Ghnáthchaite agus an Modh Coinníollach
 :7-2-2-B-title_en: The Past Tense, the Past Habitual Tense and the Conditional Mood
 
-:7-2-2-B-p_ga: Leanann séimhiú foirmeacha na copaile san aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach. Tá rogha ann i gcás na bhfoirmeacha deimhneacha -- féach (a) agus (b) ina dhiaidh seo.
-:7-2-2-B-p_en: Lenition follows with the forms of the copula in the past tense, the past habitual tense and the conditional mood. There is an option for the positive forms -- see (a) and (b) below.
+:7-2-2-B-p_ga: Leanann séimhiú foirmeacha na copaile san aimsir chaite, san aimsir ghnáthchaite agus sa mhodh coinníollach. Tá rogha ann i gcás na bhfoirmeacha deimhneacha -- féach link:#sec_7_2_2_B_a[(a)] agus link:#sec_7_2_2_B_b[(b)] ina dhiaidh seo.
+:7-2-2-B-p_en: Lenition follows with the forms of the copula in the past tense, the past habitual tense and the conditional mood. There is an option for the positive forms -- see link:#sec_7_2_2_B_a[(a)] and link:#sec_7_2_2_B_b[(b)] below.
 
 :7-2-2-B-a-title_ga: _gur_ nó _gurbh_
 :7-2-2-B-a-title_en: _gur_ or _gurbh_
@@ -717,8 +717,8 @@
 :7-3-4-B-title_ga: An Aimsir Chaite agus an Aimsir Ghnáthchaite
 :7-3-4-B-title_en: The Past Tense and the Past Habitual Tense
 
-:7-3-4-B-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir chaite nó san aimsir ghnáthchaite. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1[7.2.1]B).
-:7-3-4-B-p_en: In the table below, examples of _má_ composed with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1[7.2.1]B).
+:7-3-4-B-p_ga: Sa tábla thíos, leagtar amach samplaí de _má_ i gcumasc leis an gcopail san aimsir chaite nó san aimsir ghnáthchaite. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1_B[7.2.1B]).
+:7-3-4-B-p_en: In the table below, examples of _má_ composed with the copula in the past tense or past habitual tense are given. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1_B[7.2.1B]).
 
 :Table7T-caption_ga: _má_ i gcumasc leis an gCopail &mdash; An Aimsir Chaite agus an Aimsir Ghnáthchaite
 :Table7T-caption_en: _má_ composed with the copula &mdash; The Past Tense and the Past Habitual Tense
@@ -729,8 +729,8 @@
 :7-3-5-title_ga: _dá_ agus an Chopail
 :7-3-5-title_en: _dá_ and the Copula
 
-:7-3-5-p_ga: Sa tábla thíos, leagtar amach samplaí de _dá_ leis an gcopail. Is sa mhodh coinníollach amháin a úsáidtear _dá_. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1[7.2.1]B).
-:7-3-5-p_en: In the table below, examples of _dá_ combined with the copula are given. _dá_ is used only in the conditional mood. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1[7.2.1]B).
+:7-3-5-p_ga: Sa tábla thíos, leagtar amach samplaí de _dá_ leis an gcopail. Is sa mhodh coinníollach amháin a úsáidtear _dá_. Is iad na rialacha atá i bhfeidhm maidir le húsáid _ba_ agus _b'_ atá i bhfeidhm anseo freisin (féach link:#sec_7_2_1_B[7.2.1B]).
+:7-3-5-p_en: In the table below, examples of _dá_ combined with the copula are given. _dá_ is used only in the conditional mood. The rules for the use of _ba_ and _b'_ also apply here (see link:#sec_7_2_1_B[7.2.1B]).
 
 :Table7U-caption_ga: _dá_ agus an Chopail &mdash; An Modh Coinníollach
 :Table7U-caption_en: _dá_ and the Copula &mdash; The Conditional Mood

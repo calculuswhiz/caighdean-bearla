@@ -73,14 +73,14 @@
 :Choice7A_ga: _Ba_/_ab_
 :Choice7A_en: _Ba_/_ab_
 
-:CrossRef7A_ga: link:./chapter7-ga.html#sec_7_2_1[7.2.1]B(d)
-:CrossRef7A_en: link:./chapter7-en.html#sec_7_2_1[7.2.1]B(d)
+:CrossRef7A_ga: link:./chapter7-ga.html#sec_7_2_1_B_d[7.2.1B(d)]
+:CrossRef7A_en: link:./chapter7-en.html#sec_7_2_1_B_d[7.2.1B(d)]
 
 :Choice7B_ga: _Gurbh_/_go mba_, _go mb'_
 :Choice7B_en: _Gurbh_/_go mba_, _go mb'_
 
-:CrossRef7B_ga: link:./chapter7-ga.html#sec_7_2_2[7.2.2]B
-:CrossRef7B_en: link:./chapter7-en.html#sec_7_2_2[7.2.2]B
+:CrossRef7B_ga: link:./chapter7-ga.html#sec_7_2_2_B[7.2.2B]
+:CrossRef7B_en: link:./chapter7-en.html#sec_7_2_2_B[7.2.2B]
 
 :ch9-link_ga: link:./chapter9-ga.html[9]
 :ch9-link_en: link:./chapter9-en.html[9]
@@ -100,8 +100,8 @@
 :Choice9C_ga: An Codán
 :Choice9C_en: The Partitive
 
-:CrossRef9C_ga: link:./chapter9-ga.html#sec_9_6_1[9.6.1](e)
-:CrossRef9C_en: link:./chapter9-en.html#sec_9_6_1[9.6.1](e)
+:CrossRef9C_ga: link:./chapter9-ga.html#sec_9_6_1_e[9.6.1(e)]
+:CrossRef9C_en: link:./chapter9-en.html#sec_9_6_1_e[9.6.1(e)]
 
 :ch11-link_ga: link:./chapter11-ga.html[11]
 :ch11-link_en: link:./chapter11-en.html[11]
@@ -109,11 +109,11 @@
 :Choice11A_ga: Clásal coibhneasta díreach nó indíreach tar éis dobhriathra ama
 :Choice11A_en: Relative clause direct or indirect after temporal verbs
 
-:CrossRef11A_ga: link:./chapter11-ga.html#sec_11_2_1[11.2.1](e) agus link:./chapter11-ga.html#sec_11_3_1[11.3.1](g)
-:CrossRef11A_en: link:./chapter11-en.html#sec_11_2_1[11.2.1](e) and link:./chapter11-en.html#sec_11_3_1[11.3.1](g)
+:CrossRef11A_ga: link:./chapter11-ga.html#sec_11_2_1_e[11.2.1(e)] agus link:./chapter11-ga.html#sec_11_3_1_g[11.3.1(g)]
+:CrossRef11A_en: link:./chapter11-en.html#sec_11_2_1_e[11.2.1(e)] and link:./chapter11-en.html#sec_11_3_1_g[11.3.1(g)]
 
 :Choice11B_ga: An fhoirm choibhneasta den bhriathar
 :Choice11B_en: The relative form of the verb
 
-:CrossRef11B_ga: link:./chapter11-ga.html#sec_11_7_4[11.7.4](a)
-:CrossRef11B_en: link:./chapter11-en.html#sec_11_7_4[11.7.4](a)
+:CrossRef11B_ga: link:./chapter11-ga.html#sec_11_7_4_a[11.7.4(a)]
+:CrossRef11B_en: link:./chapter11-en.html#sec_11_7_4_a[11.7.4(a)]

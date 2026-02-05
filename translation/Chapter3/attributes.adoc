@@ -109,8 +109,8 @@
 :3-1-3-p2_ga: Tabhair faoi deara, i gcásanna inar gnách an t-alt a úsáid le hainm dílis, nach gcuirtear an t-alt isteach má tá an t-ainm dílis sin ag feidhmiú i gcáil aidiachta, e.g., _an Nollaig_ ach _cárta Nollag_; _an Ardteist_ ach _scrúdú Ardteiste_; _an Cháisc_ ach _ubh Chásca_.
 :3-1-3-p2_en: Note, in contexts where it is usual to use the article with a proper name, the article is not put in if the proper name is functioning as an adjective, e.g., _an Nollaig_ vs _cárta Nollag_; _an Ardteist_ vs _scrúdú Ardteiste_; _an Cháisc_ vs _ubh Chásca_.
 
-:3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (féach link:./chapter1-ga.html#sec_1_1_5[1.1.5](i)A).
-:3-1-4-p1_en: The article is used before genitive _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (see link:./chapter1-en.html#sec_1_1_5[1.1.5](i)A).
+:3-1-4-p1_ga: Úsáidtear an t-alt roimh ghinideach _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (féach link:./chapter1-ga.html#sec_1_1_5_i_A[1.1.5(i)A]).
+:3-1-4-p1_en: The article is used before genitive _Éire_, _Albain_, _Gaillimh_, e.g., _oileán na hÉireann_, _foireann na hAlban_, _cathair na Gaillimhe_ (see link:./chapter1-en.html#sec_1_1_5_i_A[1.1.5(i)A]).
 
 :3-1-4-p1-sample1_ga: Tá an-eolas aici ar litríocht *na hÉireann*.
 :3-1-4-p1-sample1_en: She knows a lot about *the* literature *of Ireland*.
@@ -220,8 +220,8 @@
 :3-1-10-c-p-sample2_ga: Ar léigh sibh *tuarascáil ó Pharlaimint na hEorpa*?
 :3-1-10-c-p-sample2_en: Have you [all] read *a report from the European Parliament*?
 
-:3-1-11-p_ga: Is minic i gcás link:#sec_3_1_10[3.1.10](b) thuas, áfach, gur feiliúnaí ceann de na focail ionadacha _ceann_, _cuid_ nó _duine_ a chur in ionad an chéad ainmfhocail, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. Is féidir, freisin, an t-ainmfhocal a úsáid faoi dhó, e.g., _dán de dhánta Uí Bhruadair_.
-:3-1-11-p_en: Often as with link:#sec_3_1_10[3.1.10](b) above, however, one of the substitute words _ceann_, _cuid_ or _duine_ is more appropriate in place of the first noun, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. It is also possible to use the noun twice, e.g., _dán de dhánta Uí Bhruadair_.
+:3-1-11-p_ga: Is minic i gcás link:#sec_3_1_10_b[3.1.10(b)] thuas, áfach, gur feiliúnaí ceann de na focail ionadacha _ceann_, _cuid_ nó _duine_ a chur in ionad an chéad ainmfhocail, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. Is féidir, freisin, an t-ainmfhocal a úsáid faoi dhó, e.g., _dán de dhánta Uí Bhruadair_.
+:3-1-11-p_en: Often as with link:#sec_3_1_10_b[3.1.10(b)] above, however, one of the substitute words _ceann_, _cuid_ or _duine_ is more appropriate in place of the first noun, e.g., _ceann de ríomhairí na hoifige_; _duine d'iománaithe na Gaillimhe_. It is also possible to use the noun twice, e.g., _dán de dhánta Uí Bhruadair_.
 
 :3-1-11-p-sample1_ga: Bhris sé *ceann* de na cupáin sa chistin.
 :3-1-11-p-sample1_en: He broke *one* of the cups in the kitchen.
@@ -295,8 +295,8 @@
 :3-2-2-A-title_ga: Nithe aonaracha -- an córas gan an t-alt
 :3-2-2-A-title_en: Individual things -- the system without the article
 
-:3-2-2-A-a-p_ga: Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach link:#sec_3_2_3[3.2.3](b)). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
-:3-2-2-A-a-p_en: In the system without the article, abbreviations and acronyms are treated as nouns are not preceded by the article (but see link:#sec_3_2_3[3.2.3](b)). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+:3-2-2-A-a-p_ga: Sa chóras gan an t-alt, is mar ainmfhocail chinnte a phléitear le giorrúcháin agus le hacrainmneacha agus ní chuirtear an t-alt rompu (ach féach link:#sec_3_2_3_b[3.2.3(b)]). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
+:3-2-2-A-a-p_en: In the system without the article, abbreviations and acronyms are treated as nouns are not preceded by the article (but see link:#sec_3_2_3_b[3.2.3(b)]). (_CTT -- an Clár Tacaíochta Teaghlaigh_; _NA -- na Náisiúin Aontaithe_; _OÉ -- Ollscoil na hÉireann_)
 
 :3-2-2-A-a-p-sample1_ga: Tá *SAM* ina bhall den Chomhairle Slándála.
 :3-2-2-A-a-p-sample1_en: The *USA* is a member of the Security Council.
@@ -427,8 +427,8 @@
 :3-3-1-b-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é:
 :3-3-1-b-p_en: When a verbal noun is an integral part of a particular unit, e.g., _cur chun cinn_; _cur chuige_; _teacht i bhfeidhm_; which is subject to another noun or to a form followed by the genitive:
 
-:3-3-1-b-i-p_ga: má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach link:#sec_3_3_3[3.3.3](c)):
-:3-3-1-b-i-p_en: if the article precedes that verbal noun, it is the singular masculine that precedes it in every case and the verbal noun is not inflected, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. The article applies to the initial letter of the verbal noun, however, as it would apply on a singular masculine noun in the genitive, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (see link:#sec_3_3_3[3.3.3](c)):
+:3-3-1-b-i-p_ga: má tá an t-alt roimh an ainm briathartha sin, is é an t-alt firinscneach uatha a bhíonn roimhe i ngach tuiseal agus ní dhéantar an t-ainm briathartha a infhilleadh, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. Imríonn an t-alt ar thúslitir an ainm bhriathartha, áfach, mar a d'imreodh ar ainmfhocal firinscneach uatha sa ghinideach, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (féach link:#sec_3_3_3_c[3.3.3(c)]):
+:3-3-1-b-i-p_en: if the article precedes that verbal noun, it is the singular masculine that precedes it in every case and the verbal noun is not inflected, e.g., _luas an dul chun cinn_; _ag moladh an teacht i bhfeidhm_; _le linn an tabhairt amach_; _i bhfianaise an tabhairt suas_; _faoi réir an leagan amach_. The article applies to the initial letter of the verbal noun, however, as it would apply on a singular masculine noun in the genitive, e.g., _fad an chur síos_; _castacht an chur chuige_; _ag cáineadh an éirí in airde_; _ag comóradh an éirí amach_; _de dheasca an tsracfhéachaint ar gcúl_; _d'ainneoin an chéim ar gcúl_ (see link:#sec_3_3_3_c[3.3.3(c)]):
 
 :3-3-1-b-i-p-sample1_ga: Tá an t-iniúchóir *ag fiosrú an chur i gcéill* sin faoi láthair.
 :3-3-1-b-i-p-sample1_en: The auditor *is currently investigating* this allegation.
@@ -538,8 +538,8 @@
 :3-3-3-b-p2_ga: *Ach*, más í an bhrí _le haghaidh_ atá ag _chun_, úsáidtear an ginideach.
 :3-3-3-b-p2_en: *But*, if the meaning of _chun_ is _le haghaidh (for)_, the genitive is used.
 
-:3-3-3-c-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é, má tá sé éiginnte fágtar an t-ainm briathartha gan infhilleadh agus ní dhéantar a thúschonsan a shéimhiú, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (féach link:#sec_3_3_1[3.3.1](b)):
-:3-3-3-c-p_en: When the verbal noun is an integral part of a particular unit, e.g., _cur chun cinn_; _cur chuige_; subject to another noun or a form followed by a genitive, if it is indefinite, the verbal noun is left uninflected and the initial consonant is not lenited, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (see link:#sec_3_3_1[3.3.1](b)):
+:3-3-3-c-p_ga: I gcás ainm briathartha a bheith ina dhlúthchuid d'aonad áirithe, e.g., _cur chun cinn_; _cur chuige_; atá faoi réir ag ainmfhocal eile nó ag leagan a leanann an ginideach é, má tá sé éiginnte fágtar an t-ainm briathartha gan infhilleadh agus ní dhéantar a thúschonsan a shéimhiú, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (féach link:#sec_3_3_1_b[3.3.1(b)]):
+:3-3-3-c-p_en: When the verbal noun is an integral part of a particular unit, e.g., _cur chun cinn_; _cur chuige_; subject to another noun or a form followed by a genitive, if it is indefinite, the verbal noun is left uninflected and the initial consonant is not lenited, e.g., _fad cur síos_; _i gcás cur i gcéill_; _ag ullmhú cur i láthair_; _i bhfianaise teacht i bhfeidhm_ (see link:#sec_3_3_1_b[3.3.1(b)]):
 
 :3-3-3-c-p-sample1_ga: Cén *cineál cur chuige* a d'úsáid siad?
 :3-3-3-c-p-sample1_en: What *kind of approach* did they use?
@@ -553,8 +553,8 @@
 :3-3-4-title_ga: An tAinmfhocal Éiginnte -- Ainmfhocail Éiginnte a úsáidtear mar Ainmneacha Briathartha
 :3-3-4-title_en: The Indefinite Noun -- Indefinite Nouns used as Verbal Nouns
 
-:3-3-4-a-p1_ga: Má tá gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter5_ga#sec_5_6_1[5.6.1](a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, ní dhéantar athrú an ghinidigh air nuair a úsáidtear mar ainm briathartha é.
-:3-3-4-a-p1_en: If an indefinite noun has a normal genitive following one of the declensions (see link:./chapter5-en#sec_5_6_1[5.6.1](a)) also used as a verbal noun, the genitive change is not made to it when it is used as a verbal noun.
+:3-3-4-a-p1_ga: Má tá gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter5_ga#sec_5_6_1_a[5.6.1(a)]) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, ní dhéantar athrú an ghinidigh air nuair a úsáidtear mar ainm briathartha é.
+:3-3-4-a-p1_en: If an indefinite noun has a normal genitive following one of the declensions (see link:./chapter5-en#sec_5_6_1_a[5.6.1(a)]) also used as a verbal noun, the genitive change is not made to it when it is used as a verbal noun.
 
 :3-3-4-a-p1-sample1_ga: Bhí na léirsitheoirí *ag diúltú imeacht*.
 :3-3-4-a-p1-sample1_en: The demonstrators were *refusing to leave*.
@@ -577,8 +577,8 @@
 :3-3-4-a-p2-sample3_ga: Bíonn siad amuigh istoíche *ag iarraidh troda* (_sa bhrí_ ag lorg troda).
 :3-3-4-a-p2-sample3_en: They are out in the open *seeking a fight* (_meaning_ looking for a fight).
 
-:3-3-4-b-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter5_en#sec_5_6_1[5.6.1](a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
-:3-3-4-b-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see link:./chapter5-en#sec_5_6_1[5.6.1](a)), and if it is the direct object of a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_), the genitive change is not made to it.
+:3-3-4-b-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter5_en#sec_5_6_1_a[5.6.1(a)]) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé ina chuspóir go díreach ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, ní dhéantar athrú an ghinidigh air.
+:3-3-4-b-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see link:./chapter5-en#sec_5_6_1_a[5.6.1(a)]), and if it is the direct object of a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_), the genitive change is not made to it.
 
 :3-3-4-b-p1-sample1_ga: Tá siad *ag déanamh leasú* (athrú, marú, coigeartú).
 :3-3-4-b-p1-sample1_en: They are *making an amendment* (a change, a killing, an adjustment).
@@ -613,8 +613,8 @@
 :3-3-4-b-p2-sample4_ga: Is *ag léamh gach leasaithe* roimh an gcruinniú atá sí.
 :3-3-4-b-p2-sample4_en: She is *reading every amendment* before the meeting.
 
-:3-3-4-c-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter5-ga#sec_5_6_1[5.6.1](a)) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé faoi réir ag réamhfhocal comhshuite nó i ndiaidh _chun_, ní dhéantar athrú an ghinidigh air.
-:3-3-4-c-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see link:./chapter5-en#sec_5_6_1[5.6.1](a)), and if it is subject to a compound preposition or follows _chun_, the genitive change is not made to it.
+:3-3-4-c-p1_ga: Mura bhfuil gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter5-ga#sec_5_6_1_a[5.6.1(a)]) ar ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus má tá sé faoi réir ag réamhfhocal comhshuite nó i ndiaidh _chun_, ní dhéantar athrú an ghinidigh air.
+:3-3-4-c-p1_en: If an indefinite noun that is also used as a verbal noun does not have a normal genitive according to one of the declensions (see link:./chapter5-en#sec_5_6_1_a[5.6.1(a)]), and if it is subject to a compound preposition or follows _chun_, the genitive change is not made to it.
 
 :3-3-4-c-p1-sample1_ga: Tá an lánúin sin *ar tí pósadh*.
 :3-3-4-c-p1-sample1_en: The couple is *about to marry*.
@@ -766,8 +766,8 @@
 :3-3-8-a-p_ga: Ní dhéantar athrú an ghinidigh ar ainmfhocal éiginnte atá faoi réir ag ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe, faoi réir ag réamhfhocal comhshuite nó faoi réir ag cainníocht éiginnte má tá an t-ainmfhocal éiginnte cáilithe le ceann de na cáilitheoirí a liostaítear i dtáblaí link:#table3b[3B], link:#table3c[3C] agus link:#table3d[3D] ina dhiaidh seo.
 :3-3-8-a-p_en: The genitive change is not made to an indefinite noun that is subject to a verbal noun preceded by _ag_ or _do_ (or _a_ from _do_), subject to a compound preposition or subject to an indefinite quantity if the indefinite noun is qualified with one of the qualifiers listed in tables link:#table3b[3B], link:#table3c[3C] and link:#table3d[3D] below.
 
-:3-3-8-b-p_ga: Ní foláir an t-ainmfhocal éiginnte féin a bheith cáilithe leis an gcáilitheoir chun an ginideach a chur ar ceal. Má tá feidhm seachas feidhm aidiachtach ag an gcáilitheoir (feidhm dhobhriathair, mar shampla), déantar athrú an ghinidigh ar an ainmfhocal éiginnte (féach link:#sec_3_3_12[3.3.12](b)).
-:3-3-8-b-p_en: The indefinite noun itself must be qualified with the qualifier to cancel the genitive. If the qualifier functions as something other than an adjective (as an adverb, for example), the genitive change is made to the indefinite noun (see link:#sec_3_3_12[3.3.12](b)).
+:3-3-8-b-p_ga: Ní foláir an t-ainmfhocal éiginnte féin a bheith cáilithe leis an gcáilitheoir chun an ginideach a chur ar ceal. Má tá feidhm seachas feidhm aidiachtach ag an gcáilitheoir (feidhm dhobhriathair, mar shampla), déantar athrú an ghinidigh ar an ainmfhocal éiginnte (féach link:#sec_3_3_12_b[3.3.12(b)]).
+:3-3-8-b-p_en: The indefinite noun itself must be qualified with the qualifier to cancel the genitive. If the qualifier functions as something other than an adjective (as an adverb, for example), the genitive change is made to the indefinite noun (see link:#sec_3_3_12_b[3.3.12(b)]).
 
 :3-3-9-title_ga: Ainmfhocal Éiginnte Cáilithe atá faoi réir ag Ainm Briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
 :3-3-9-title_en: A Qualified Indefinite Noun subject to a Verbal Noun preceded by _ag_ or _do_ (or _a_ from _do_)
@@ -867,26 +867,26 @@
 :Table3G-col3_ga: Úsáidtear foirm an ainmnigh in ionad an ghinidigh:
 :Table3G-col3_en: The form of the nominative is used in place of the genitive:
 
-:Table3G-row1-condition_ga: Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (link:#sec_3_3_1[3.3.1](a))
-:Table3G-row1-condition_en: A noun that comes before a definite noun in the genitive (link:#sec_3_3_1[3.3.1](a))
+:Table3G-row1-condition_ga: Ainmfhocal a thagann roimh ainmfhocal cinnte sa ghinideach (link:#sec_3_3_1_a[3.3.1(a)])
+:Table3G-row1-condition_en: A noun that comes before a definite noun in the genitive (link:#sec_3_3_1_a[3.3.1(a)])
 
 :leanannAnGinideach_ga: Focal nó leagan a leanann an ginideach é
 :leanannAnGinideach_en: Word or form following the genitive
 
-:Table3G-row2-condition_ga: Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (link:#sec_3_3_1[3.3.1](b))
-:Table3G-row2-condition_en: A certain definite unit of which a verbal noun is an integral part (link:#sec_3_3_1[3.3.1](b))
+:Table3G-row2-condition_ga: Aonad cinnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (link:#sec_3_3_1_b[3.3.1(b)])
+:Table3G-row2-condition_en: A certain definite unit of which a verbal noun is an integral part (link:#sec_3_3_1_b[3.3.1(b)])
 
-:Table3G-row3-condition_ga: Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (link:#sec_3_3_2[3.3.2](a))
-:Table3G-row3-condition_en: A noun or noun phrase, definite or indefinite, connected by a preposition _a_ (from _do_) to a verbal noun (link:#sec_3_3_2[3.3.2](a))
+:Table3G-row3-condition_ga: Ainmfhocal nó abairtín ainmfhoclach, cinnte nó éiginnte, atá á cheangal ag an réamhfhocal _a_ (as _do_) le hainm briathartha (link:#sec_3_3_2_a[3.3.2(a)])
+:Table3G-row3-condition_en: A noun or noun phrase, definite or indefinite, connected by a preposition _a_ (from _do_) to a verbal noun (link:#sec_3_3_2_a[3.3.2(a)])
 
-:Table3G-row4-condition_ga: _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (link:#sec_3_3_2[3.3.2](b))
-:Table3G-row4-condition_en: _cuid_ and _ceann_, and genitive partitive or dative partitive subject to it (link:#sec_3_3_2[3.3.2](b))
+:Table3G-row4-condition_ga: _cuid_ agus _ceann_, agus ginideach rannaíoch nó tabharthach rannaíoch faoina réir (link:#sec_3_3_2_b[3.3.2(b)])
+:Table3G-row4-condition_en: _cuid_ and _ceann_, and genitive partitive or dative partitive subject to it (link:#sec_3_3_2_b[3.3.2(b)])
 
-:Table3G-row5-condition_ga: Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (link:#sec_3_3_2[3.3.2](c))
-:Table3G-row5-condition_en: A single common noun without the article that is used as the name of a company, association or program (link:#sec_3_3_2[3.3.2](c))
+:Table3G-row5-condition_ga: Ainmfhocal coiteann amháin gan an t-alt leis atá á úsáid mar ainm comhlachta, cumainn nó cláir (link:#sec_3_3_2_c[3.3.2(c)])
+:Table3G-row5-condition_en: A single common noun without the article that is used as the name of a company, association or program (link:#sec_3_3_2_c[3.3.2(c)])
 
-:Table3G-row6-condition_ga: Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (link:#sec_3_3_3[3.3.3](a))
-:Table3G-row6-condition_en: A verbal noun that is preceded by the proleptic pronominal _a_ (link:#sec_3_3_3[3.3.3](a))
+:Table3G-row6-condition_ga: Ainm briathartha a bhfuil an forainmneach réamhthagrach _a_ roimhe (link:#sec_3_3_3_a[3.3.3(a)])
+:Table3G-row6-condition_en: A verbal noun that is preceded by the proleptic pronominal _a_ (link:#sec_3_3_3_a[3.3.3(a)])
 
 :Table3G-row7-condition_ga: Ainm briathartha (link:#sec_3_3_3[3.3.3](b))
 :Table3G-row7-condition_en: A verbal noun (link:#sec_3_3_3[3.3.3](b))
@@ -894,23 +894,23 @@
 :Table3G-row7-rule_ga: _chun_, sa struchtúr _chun_ + _ainm briathartha_ a úsáidtear chun gníomh atá le teacht a chur in iúl
 :Table3G-row7-rule_en: _chun_, in the structure _chun_ + _verbal noun_ used to express an upcoming action
 
-:Table3G-row8-condition_ga: Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (link:#sec_3_3_3[3.3.3](c))
-:Table3G-row8-condition_en: A certain indefinite unit has a verbal noun as an integral part (link:#sec_3_3_3[3.3.3](c))
+:Table3G-row8-condition_ga: Aonad éiginnte áirithe a bhfuil ainm briathartha ina dhlúthchuid de (link:#sec_3_3_3_c[3.3.3(c)])
+:Table3G-row8-condition_en: A certain indefinite unit has a verbal noun as an integral part (link:#sec_3_3_3_c[3.3.3(c)])
 
-:Table3G-row9-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (link:#sec_3_3_4[3.3.4](a))
-:Table3G-row9-condition_en: An indefinite noun is used as a verbal noun also, and has a normal genitive subject to one of the declensions, that is used as a verbal noun (link:#sec_3_3_4[3.3.4](a))
+:Table3G-row9-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus a bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá á úsáid mar ainm briathartha (link:#sec_3_3_4_a[3.3.4(a)])
+:Table3G-row9-condition_en: An indefinite noun is used as a verbal noun also, and has a normal genitive subject to one of the declensions, that is used as a verbal noun (link:#sec_3_3_4_a[3.3.4(a)])
 
 :Table3G-row9-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe nó réamhfhocal comhshuite
 :Table3G-row9-rule_en: A verbal noun is preceded by _ag_ or _do_ (or _a_ from _do_) or a compound preposition
 
-:Table3G-row10-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá mar chuspóir díreach ainm bhriathartha (link:#sec_3_3_4[3.3.4](b))
-:Table3G-row10-condition_en: An indefinite noun is used as a verbal noun also, and does not have a normal genitive subject to one of the declensions, that is the direct object of a verbal noun (link:#sec_3_3_4[3.3.4](b))
+:Table3G-row10-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí, atá mar chuspóir díreach ainm bhriathartha (link:#sec_3_3_4_b[3.3.4(b)])
+:Table3G-row10-condition_en: An indefinite noun is used as a verbal noun also, and does not have a normal genitive subject to one of the declensions, that is the direct object of a verbal noun (link:#sec_3_3_4_b[3.3.4(b)])
 
 :Table3G-row10-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
 :Table3G-row10-rule_en: Verbal noun preceded by _ag_ or _do_ (or _a_ from _do_)
 
-:Table3G-row11-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí (link:#sec_3_3_4[3.3.4](c))
-:Table3G-row11-condition_en: An indefinite noun that is used as a verbal noun also, and does not have a normal genitive subject to one of the declensions (link:#sec_3_3_4[3.3.4](c))
+:Table3G-row11-condition_ga: Ainmfhocal éiginnte a úsáidtear mar ainm briathartha freisin, agus nach bhfuil gnáthghinideach aige de réir ceann de na díochlaontaí (link:#sec_3_3_4_c[3.3.4(c)])
+:Table3G-row11-condition_en: An indefinite noun that is used as a verbal noun also, and does not have a normal genitive subject to one of the declensions (link:#sec_3_3_4_c[3.3.4(c)])
 
 :Table3G-row11-rule_ga: Réamhfhocal comhshuite nó _chun_ sa bhrí _i dtreo_
 :Table3G-row11-rule_en: A compound preposition or _chun_ meaning _i dtreo_ (_towards_)
@@ -921,13 +921,12 @@
 :Table3G-row12-rule_ga: Ainm briathartha a bhfuil _ag_ nó _do_ (nó _a_ as _do_) roimhe
 :Table3G-row12-rule_en: Verbal noun preceded by _ag_ or _do_ (or _a_ from _do_)
 
-:Table3G-row13-condition_ga: An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (link:#sec_3_3_6[3.3.6](a))
-:Table3G-row13-condition_en: The first indefinite noun in a multi-word phrase that has a specific meaning (link:#sec_3_3_6[3.3.6](a)) 
+:Table3G-row13-condition_ga: An chéad ainmfhocal éiginnte i bhfrása ilfhoclach a bhfuil brí ar leith leis (link:#sec_3_3_6_a[3.3.6(a)])
+:Table3G-row13-condition_en: The first indefinite noun in a multi-word phrase that has a specific meaning (link:#sec_3_3_6_a[3.3.6(a)]) 
 
-:Table3G-row14-condition_ga: _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (link:#sec_3_3_6[3.3.6](b))
-:Table3G-row14-condition_en: _tús_, _lár_ or _deireadh_, if they are the first noun in a unit of two indefinite nouns (link:#sec_3_3_6[3.3.6](b))
+:Table3G-row14-condition_ga: _tús_, _lár_ nó _deireadh_, más an chéad ainmfhocal in aonad dhá ainmfhocal éiginnte é (link:#sec_3_3_6_b[3.3.6(b)])
+:Table3G-row14-condition_en: _tús_, _lár_ or _deireadh_, if they are the first noun in a unit of two indefinite nouns (link:#sec_3_3_6_b[3.3.6(b)])
 
-// FYI Page break in doc
 :Table3G-row15-condition_ga: Ainmfhocal i liosta (link:#sec_3_3_7[3.3.7])
 :Table3G-row15-condition_en: A noun in a list (link:#sec_3_3_7[3.3.7])
 

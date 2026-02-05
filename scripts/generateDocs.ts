@@ -121,6 +121,59 @@ function giveTablesIds(document: Document) {
   }
 }
 
+const romanMap: Record<number, string> = {
+  1: 'i',
+  2: 'ii',
+  3: 'iii',
+  4: 'iv',
+  5: 'v',
+  6: 'vi',
+  7: 'vii',
+  8: 'viii',
+  9: 'ix',
+  10: 'x'
+};
+
+const alphaMap = "abcdefghijklmnopqrstuvwxyz".split("");
+
+/** Give list items ids based on their position and containing section's id.
+ */
+function giveListItemsIds(document: Document) {
+  // Applies only to ordered lists. Unordered lists are never referenced.
+  const allLists = document.querySelectorAll<HTMLUListElement>("ol");
+
+  for (const list of allLists) {
+    const listStyle = list.classList.contains("list-[lower-roman]")
+      ? "roman"
+      : list.classList.contains("list-[lower-alpha]")
+        ? "lowerAlpha"
+        : "upperAlpha";
+
+    const parentSection = list.closest(".sect1, .sect2, .sect3, li");
+    if (parentSection == null)
+      continue;
+
+    // li should have id, sectionbody is below header with id
+    const parentId = parentSection.tagName.toLowerCase() === "li"
+      ? parentSection.id
+      : parentSection.firstElementChild?.id;
+    if (parentId == null)
+      continue;
+
+    const listItems = list.querySelectorAll<HTMLLIElement>(":scope > li");
+    for (const [index, listItem] of listItems.entries()) {
+      const indexSuffix = listStyle === "roman"
+        ? romanMap[index + 1]
+        : listStyle === "lowerAlpha"
+          ? alphaMap[index]
+          : alphaMap[index].toUpperCase();
+
+      // Nesting is accounted for by using the parent section/li id, so we don't need to worry about it here.
+      listItem.id = `${parentId}_${indexSuffix}`;
+    }
+  }
+}
+
 /**
  * Generate the full HTML document for a chapter and write to `entrypoints`.
  * @param chapterFolder The chapter id
@@ -156,6 +209,7 @@ async function generateDoc(chapterFolder: string) {
 
     cleanHeaders();
     giveTablesIds(jsDom.window.document);
+    giveListItemsIds(jsDom.window.document);
 
     await fs.writeFile(
       `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-${lang}.html`,

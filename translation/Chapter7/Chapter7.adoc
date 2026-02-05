@@ -232,10 +232,11 @@ endif::[]
 
 === 7.2.1 {7-2-1-title}
 
-==== A {7-2-1-A-title}
-
+[list-[upper-alpha]]
+. *{7-2-1-A-title}*
++
 {7-2-1-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -299,29 +300,31 @@ endif::[]
 </table>
 ++++
 
-==== B {7-2-1-B-title}
-
+. *{7-2-1-B-title}*
++
 {7-2-1-B-p1}
-
++
+--
 [list-[lower-alpha]]
-. {7-2-1-B-a-p}
-. {7-2-1-B-b-p}
+.. {7-2-1-B-a-p}
+.. {7-2-1-B-b-p}
 +
 [list-[lower-roman]]
-.. {7-2-1-B-b-i-p}
-.. {7-2-1-B-b-ii-p}
-.. {7-2-1-B-b-iii-p}
-.. {7-2-1-B-b-iv-p}
-. {7-2-1-B-c-p}
+... {7-2-1-B-b-i-p}
+... {7-2-1-B-b-ii-p}
+... {7-2-1-B-b-iii-p}
+... {7-2-1-B-b-iv-p}
+.. {7-2-1-B-c-p}
 [list-[lower-roman]]
-.. {7-2-1-B-c-i-p}
-.. {7-2-1-B-c-ii-p}
-.. {7-2-1-B-c-iii-p}
-.. {7-2-1-B-c-iv-p}
-. {7-2-1-B-d-p}
-
+... {7-2-1-B-c-i-p}
+... {7-2-1-B-c-ii-p}
+... {7-2-1-B-c-iii-p}
+... {7-2-1-B-c-iv-p}
+.. {7-2-1-B-d-p}
+--
++
 {7-2-1-B-p2}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -370,9 +373,9 @@ endif::[]
 </tbody>
 </table>
 ++++
-
++
 {7-2-1-B-p2}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -416,30 +419,33 @@ endif::[]
 
 === 7.2.2 {7-2-2-title}
 
-==== A {7-2-2-A-title}
-
+[list-[upper-alpha]]
+. *{7-2-2-A-title}*
++
 {7-2-2-A-p1}
-
++
+--
 [list-[lower-alpha]]
-. {7-2-2-A-a-p}
-. {7-2-2-A-b-p}
+.. {7-2-2-A-a-p}
+.. {7-2-2-A-b-p}
 [list-[lower-roman]]
-.. {7-2-2-A-b-i-p}
-.. {7-2-2-A-b-ii-p}
-.. {7-2-2-A-b-iii-p}
-.. {7-2-2-A-b-iv-p}
-.. {7-2-2-A-b-v-p}
-. {7-2-2-A-c-p}
+... {7-2-2-A-b-i-p}
+... {7-2-2-A-b-ii-p}
+... {7-2-2-A-b-iii-p}
+... {7-2-2-A-b-iv-p}
+... {7-2-2-A-b-v-p}
+.. {7-2-2-A-c-p}
 [list-[lower-roman]]
-.. {7-2-2-A-c-i-p}
-.. {7-2-2-A-c-ii-p}
-.. {7-2-2-A-c-iii-p}
-.. {7-2-2-A-c-iv-p}
-.. {7-2-2-A-c-v-p}
-.. {7-2-2-A-c-vi-p}
-
+... {7-2-2-A-c-i-p}
+... {7-2-2-A-c-ii-p}
+... {7-2-2-A-c-iii-p}
+... {7-2-2-A-c-iv-p}
+... {7-2-2-A-c-v-p}
+... {7-2-2-A-c-vi-p}
+--
++
 {7-2-2-A-p2}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -511,21 +517,22 @@ endif::[]
 </table>
 ++++
 
-==== B {7-2-2-B-title}
-
+. *{7-2-2-B-title}*
++
 {7-2-2-B-p}
-
++
 [list-[lower-alpha]]
-. {7-2-2-B-a-title}
+.. {7-2-2-B-a-title}
 +
 {7-2-2-B-a-p1}
++
+--
 [list-[lower-roman]]
-.. {7-2-2-B-a-i}
-.. {7-2-2-B-a-ii}
-
+... {7-2-2-B-a-i}
+... {7-2-2-B-a-ii}
+--
 +
 {7-2-2-B-a-p2}
-
 +
 [subs="attributes,replacements,macros"]
 ++++
@@ -568,27 +575,28 @@ endif::[]
 </table>
 ++++
 
-. {7-2-2-B-b-title}
+.. {7-2-2-B-b-title}
 +
 {7-2-2-B-b-p1}
++
+--
 [list-[lower-roman]]
-.. {7-2-2-B-b-i}
-.. {7-2-2-B-b-ii}
+... {7-2-2-B-b-i}
+... {7-2-2-B-b-ii}
 [.list-dots]
-*** {7-2-2-B-b-ii-1}
-*** {7-2-2-B-b-ii-2}
-*** {7-2-2-B-b-ii-3}
-*** {7-2-2-B-b-ii-4}
-.. {7-2-2-B-b-iii}
+**** {7-2-2-B-b-ii-1}
+**** {7-2-2-B-b-ii-2}
+**** {7-2-2-B-b-ii-3}
+**** {7-2-2-B-b-ii-4}
+... {7-2-2-B-b-iii}
 [.list-dots]
-*** {7-2-2-B-b-iii-1}
-*** {7-2-2-B-b-iii-2}
-*** {7-2-2-B-b-iii-3}
-*** {7-2-2-B-b-iii-4}
-
+**** {7-2-2-B-b-iii-1}
+**** {7-2-2-B-b-iii-2}
+**** {7-2-2-B-b-iii-3}
+**** {7-2-2-B-b-iii-4}
+--
 +
 {7-2-2-B-b-p2}
-
 +
 [subs="attributes,replacements,macros"]
 ++++
@@ -631,18 +639,17 @@ endif::[]
 </table>
 ++++
 
-. {7-2-2-B-c-title}
+.. {7-2-2-B-c-title}
 +
 {7-2-2-B-c-p1}
 +
 --
 [list-[lower-roman]]
-.. {7-2-2-B-c-i}
-.. {7-2-2-B-c-ii}
+... {7-2-2-B-c-i}
+... {7-2-2-B-c-ii}
 --
 +
 {7-2-2-B-c-p2}
-
 +
 [subs="attributes,replacements,macros"]
 ++++
@@ -687,10 +694,11 @@ endif::[]
 
 === 7.2.3 {7-2-3-title}
 
-==== A {7-2-3-A-title}
-
+[list-[upper-alpha]]
+. *{7-2-3-A-title}*
++
 {7-2-3-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -735,10 +743,10 @@ endif::[]
 </table>
 ++++
 
-==== B {7-2-3-B-title}
-
+. *{7-2-3-B-title}*
++
 {7-2-3-B-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -796,10 +804,11 @@ endif::[]
 
 === 7.2.4 {7-2-4-title}
 
-==== A {7-2-4-A-title}
-
+[list-[upper-alpha]]
+. *{7-2-4-A-title}*
++
 {7-2-4-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -855,10 +864,10 @@ endif::[]
 </table>
 ++++
 
-==== B {7-2-4-B-title}
-
+. *{7-2-4-B-title}*
++
 {7-2-4-B-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -904,30 +913,33 @@ endif::[]
 
 === 7.2.5 {7-2-5-title}
 
-==== A {7-2-5-A-title}
-
+[list-[upper-alpha]]
+. *{7-2-5-A-title}*
++
+--
 [list-[lower-alpha]]
-. {7-2-5-A-a-p}
+.. {7-2-5-A-a-p}
 [list-[lower-roman]]
-.. {7-2-5-A-a-i-p}
-.. {7-2-5-A-a-ii-p}
-.. {7-2-5-A-a-iii-p}
-. {7-2-5-A-b-p}
+... {7-2-5-A-a-i-p}
+... {7-2-5-A-a-ii-p}
+... {7-2-5-A-a-iii-p}
+.. {7-2-5-A-b-p}
 [list-[lower-roman]]
-.. {7-2-5-A-b-i-p}
-.. {7-2-5-A-b-ii-p}
-.. {7-2-5-A-b-iii-p}
-.. {7-2-5-A-b-iv-p}
-.. {7-2-5-A-b-v-p}
-.. {7-2-5-A-b-vi-p}
-. {7-2-5-A-c-p}
+... {7-2-5-A-b-i-p}
+... {7-2-5-A-b-ii-p}
+... {7-2-5-A-b-iii-p}
+... {7-2-5-A-b-iv-p}
+... {7-2-5-A-b-v-p}
+... {7-2-5-A-b-vi-p}
+.. {7-2-5-A-c-p}
 [list-[lower-roman]]
-.. {7-2-5-A-c-i-p}
-.. {7-2-5-A-c-ii-p}
-.. {7-2-5-A-c-iii-p}
-
+... {7-2-5-A-c-i-p}
+... {7-2-5-A-c-ii-p}
+... {7-2-5-A-c-iii-p}
+--
++
 {7-2-5-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -975,8 +987,8 @@ endif::[]
 </table>
 ++++
 
-==== B {7-2-5-B-title}
-
+. *{7-2-5-B-title}*
++
 {7-2-5-B-p}
 
 '''
@@ -985,10 +997,11 @@ endif::[]
 
 === 7.3.1 {7-3-1-title}
 
-==== A {7-3-1-A-title}
-
+[list-[upper-alpha]]
+. *{7-3-1-A-title}*
++
 {7-3-1-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1019,10 +1032,10 @@ endif::[]
 </table>
 ++++
 
-==== B {7-3-1-B-title}
-
+. *{7-3-1-B-title}*
++
 {7-3-1-B-p1}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1052,15 +1065,16 @@ endif::[]
 </tbody>
 </table>
 ++++
-
++
 {7-3-1-p}
 
 === 7.3.2 {7-3-2-title}
 
-==== A {7-3-2-A-title}
-
+[list-[upper-alpha]]
+. *{7-3-2-A-title}*
++
 {7-3-2-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1114,10 +1128,10 @@ endif::[]
 </table>
 ++++
 
-==== B {7-3-2-B-title}
-
+. *{7-3-2-B-title}*
++
 {7-3-2-B-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1136,7 +1150,7 @@ endif::[]
         <th>{BeforeConsonantQualified}</th>
         <th>{BeforeVowelQualified}</th>
     </tr></thead>
-<tbody>
+  <tbody>
     <tr>
         <th>de/do</th>
         <td>Cuireadh iniúchadh i gcrích don bhliain <strong>dar</strong> chríoch an 8 Márta 1998.</td>
@@ -1167,16 +1181,17 @@ endif::[]
         <td>Bhí fóram ann <strong>trínar</strong> ghnách leis an bhfoireann ceisteanna a ardú.</td>
         <td>Dúnadh an tollán <strong>trínarbh</strong> fhéidir tiomáint.</td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 ++++
 
 === 7.3.3 {7-3-3-title}
 
-==== A {7-3-3-A-title}
-
+[list-[upper-alpha]]
+. *{7-3-3-A-title}*
++
 {7-3-3-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1192,7 +1207,7 @@ endif::[]
         <th>{BeforeConsonant}</th>
         <th>{BeforeVowel}</th>
     </tr></thead>
-<tbody>
+  <tbody>
     <tr>
         <th>sula</th>
         <td><strong>Sular</strong> féidir leis carr a cheannach, caithfidh sé airgead a shábháil.</td>
@@ -1203,14 +1218,14 @@ endif::[]
         <td><strong>Ós</strong> rud é gur agat atá eochracha an chairr, is tú a rachaidh chuig an siopa.</td>
         <td><strong>Ós</strong> aici a bheidh an seomra, caithfidh sí féin é a réiteach.</td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 ++++
 
-==== B {7-3-3-B-title}
-
+. *{7-3-3-B-title}*
++
 {7-3-3-B-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1226,7 +1241,7 @@ endif::[]
         <th>{BeforeConsonantQualified}</th>
         <th>{BeforeVowelQualified}</th>
     </tr></thead>
-<tbody>
+  <tbody>
     <tr>
         <th>sula</th>
         <td><strong>Sular</strong> féidir leis carr a cheannach, caithfidh sé airgead a shábháil.</td>
@@ -1237,7 +1252,7 @@ endif::[]
         <td><strong>Ós</strong> rud é gur agat atá eochracha an chairr, is tú a rachaidh chuig an siopa.</td>
         <td><strong>Ós</strong> aici a bheidh an seomra, caithfidh sí féin é a réiteach.</td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 ++++
 
@@ -1245,10 +1260,11 @@ endif::[]
 
 {7-3-4-p}
 
-==== A {7-3-4-A-title}
-
+[list-[upper-alpha]]
+. *{7-3-4-A-title}*
++
 {7-3-4-A-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">
@@ -1264,7 +1280,7 @@ endif::[]
         <th colspan=2>{BeforeConsonant}</th>
         <th colspan=2>{BeforeVowel}</th>
     </tr></thead>
-<tbody>
+  <tbody>
     <tr>
         <td>{Positive}</td>
         <th>más</th>
@@ -1299,14 +1315,14 @@ endif::[]
             </ul>
         </td>
     </tr>
-</tbody>
+  </tbody>
 </table>
 ++++
 
-==== B {7-3-4-B-title}
-
+. *{7-3-4-B-title}*
++
 {7-3-4-B-p}
-
++
 [subs="attributes,replacements,macros"]
 ++++
 <table class="chapter-7">

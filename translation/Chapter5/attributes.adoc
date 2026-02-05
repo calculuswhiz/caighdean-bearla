@@ -364,8 +364,8 @@
 :Table5N-caption_ga: Na Briathra Neamhrialta &mdash; Réimniú an Bhriathair _abair_
 :Table5N-caption_en: The Irregular Verbs &mdash; Conjugation of the Verb _abair_
 
-:Table5N-Note_ga: Mar a luadh in link:#sec_5_4_5[5.4.5](b), ní shéimhítear an briathar _abair_ in aon chás.
-:Table5N-Note_en: As mentioned in link:#sec_5_4_5[5.4.5](b), the verb _abair_ is never lenited.
+:Table5N-Note_ga: Mar a luadh in link:#sec_5_4_5_b[5.4.5(b)], ní shéimhítear an briathar _abair_ in aon chás.
+:Table5N-Note_en: As mentioned in link:#sec_5_4_5_b[5.4.5(b)], the verb _abair_ is never lenited.
 
 :Table5O-caption_ga: Na Briathra Neamhrialta &mdash; Réimniú an Bhriathair _beir_
 :Table5O-caption_en: The Irregular Verbs &mdash; Conjugation of the Verb _beir_
@@ -595,8 +595,8 @@
 :Table5CC-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcásanna ina gcuirtear foirceann leis an mbun-ainmfhocal, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ agus i gcás corrainm briathartha eile (féach link:./chapter2-ga.html#sec_2_4_2[2.4.2])
 :Table5CC-trait-3_en: As a noun in the Third Declension, where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and for other verbal nouns (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
 
-:Table5CC-Note_ga: Ainmneacha briathartha de na cineálacha sin atá luaite in (b)(ii) roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
-:Table5CC-Note_en: Verbal nouns of the types mentioned in (b)(ii) above do not have a form for the verbal adjective. Some regular nouns also lack the verbal adjective form, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
+:Table5CC-Note_ga: Ainmneacha briathartha de na cineálacha sin atá luaite in link:#sec_5_6_1_b_ii[5.6.1(b)(ii)] roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
+:Table5CC-Note_en: Verbal nouns of the types mentioned in link:#sec_5_6_1_b_ii[5.6.1(b)(ii)] above do not have a form for the verbal adjective. Some regular nouns also lack the verbal adjective form, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
 
 :5-6-1-b-iii-p_ga: ar na hathleaganacha atá ar mhórán ainmneacha briathartha chun leanúnachas, minicíocht, teibíocht, torann, treise, fochiall nó beart aonair a chur in iúl, e.g., _aistriú_ go _aistriúchán_; _liú_ go _liúireach_:
 // TL note: "beart" meaning is uncertain in this context
