@@ -1,4 +1,4 @@
-= Chapter 9 | {chapterTitle}
+= Chapter 9 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -49,7 +49,7 @@
 [.chapter-9]
 [cols="1,5"]
 [options="header"]
-.*{Table} 9A* {TheBareNumbers} 0&ndash;19
+.*{Tábla} 9A* {TheBareNumbers} 0&ndash;19
 |===
 2+h| {TheBareNumbers} 0&ndash;19
 
@@ -66,7 +66,7 @@ h| 11&ndash;19 | a haon déag, a dó dhéag, a trí déag, a ceathair déag, a c
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9B* {TheBareNumbers} 20&ndash;99
+.*{Tábla} 9B* {TheBareNumbers} 20&ndash;99
 |===
 4+h| {TheBareNumbers} 20&ndash;99
 
@@ -93,7 +93,7 @@ h| 90&ndash;99 | nócha, nócha a ceathair, nócha a cúig, nócha a sé ...
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9C* {TheBareNumbers} -- {TheTens}
+.*{Tábla} 9C* {TheBareNumbers} -- {TheTens}
 |===
 4+h| {TheBareNumbers} -- {TheTens}
 
@@ -114,7 +114,7 @@ h| 17,000,000,000 | seacht mbilliún déag
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9D* {TheBareNumbers} 100&ndash;9,999
+.*{Tábla} 9D* {TheBareNumbers} 100&ndash;9,999
 |===
 4+h| {TheBareNumbers} 100&ndash;9,999
 
@@ -170,7 +170,7 @@ h| 9,999 | naoi míle, naoi gcéad nócha a naoi
 ++++
 <table class="chapter-9">
     <caption>
-        <strong>{Table} 9E</strong> {TheBareNumbers} 10,000+
+        <strong>{Tábla} 9E</strong> {TheBareNumbers} 10,000+
     </caption>
   <thead>
     <tr>
@@ -254,7 +254,7 @@ h| 9,999 | naoi míle, naoi gcéad nócha a naoi
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9F* {TheCardinalNumbers} 1&ndash;19
+.*{Tábla} 9F* {TheCardinalNumbers} 1&ndash;19
 |===
 4+h| {TheCardinalNumbers} 1&ndash;19
 
@@ -316,7 +316,7 @@ deich n-oíche
 [.chapter-9]
 [cols="2,1,1,1"]
 [options="header"]
-.*{Table} 9G* {Table9G-caption}
+.*{Tábla} 9G* {Table9G-caption}
 |===
 h| h| 2 h| 3&ndash;6 h| 7&ndash;10
 
@@ -348,7 +348,7 @@ h| uair (_sa bhrí_ babhta) | uair | huaire | n-uaire
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9H* {Table9H-caption}
+.*{Tábla} 9H* {Table9H-caption}
 |===
 4+h| {Table9H-header}
 
@@ -393,7 +393,7 @@ h| 10 | deich dtroithe ||
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9I* {Table9I-caption}
+.*{Tábla} 9I* {Table9I-caption}
 |===
 4+h| {Table9I-header}
 
@@ -439,7 +439,7 @@ h| 10 | deich leabhar mhóra | |
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9J* {Table9J-caption}
+.*{Tábla} 9J* {Table9J-caption}
 |===
 4+h| {Table9J-header}
 
@@ -473,7 +473,7 @@ h| 10 | deich dtroithe cearnacha ||
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9K* {Table9K-caption}
+.*{Tábla} 9K* {Table9K-caption}
 |===
 4+h| {Table9K-header}
 
@@ -509,7 +509,7 @@ h| 19 | na naoi bhfuinneog déag
 h| 10 | na deich bhfuinneog ||
 |===
 
-*{Note}*: {9-3-5-note}
+*{Nóta}*: {9-3-5-note}
 
 === 9.3.6 {9-3-6-title}
 
@@ -535,7 +535,7 @@ h| 10 | na deich bhfuinneog ||
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9L* {Table9L-caption}
+.*{Tábla} 9L* {Table9L-caption}
 |===
 4+h| {Table9L-header}
 
@@ -587,7 +587,7 @@ h| 10 | achar na ndeich ngairdín chlocharacha ||
 [.chapter-9]
 [cols="1,4,4,4"]
 [options="header"]
-.*{Table} 9M* {Table9M-caption}
+.*{Tábla} 9M* {Table9M-caption}
 |===
 h| 
 h| {TheNominativeCase} 
@@ -638,7 +638,7 @@ h| 90
 
 |===
 
-*{Note}*:
+*{Nóta}*:
 
 [.list-dots]
 - {9-3-9-note-p1}
@@ -662,7 +662,7 @@ h| 90
 [.chapter-9]
 [cols="1,4,4"]
 [options="header"]
-.*{Table} 9N* {Table9N-caption}
+.*{Tábla} 9N* {Table9N-caption}
 |===
 h| h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
 
@@ -700,7 +700,7 @@ h| 99
 | nócha a naoi bád costasach
 |===
 
-*{Note}*:
+*{Nóta}*:
 [.list-dots]
 - {9-3-10-note-p1}
 - {9-3-10-note-p2}
@@ -714,7 +714,7 @@ h| 99
 [.chapter-9]
 [cols="1,4,4"]
 [options="header"]
-.*{Table} 9O* {Table9O-caption}
+.*{Tábla} 9O* {Table9O-caption}
 |===
 h| h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
 
@@ -754,7 +754,7 @@ h| 100,513
 [.chapter-9]
 [cols="1,4,4"]
 [options="header"]
-.*{Table} 9P* {Table9P-caption}
+.*{Tábla} 9P* {Table9P-caption}
 |===
 h| h| {TheEstablishedSystem} h| {TheSimplifiedSystem}
 
@@ -815,7 +815,7 @@ h| 191
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9Q* {Table9Q-caption}
+.*{Tábla} 9Q* {Table9Q-caption}
 |===
 4+h| {Table9Q-header}
 
@@ -844,7 +844,7 @@ h| 6 | seisear h| 12 | dháréag
 [.chapter-9]
 [cols="2,4,4"]
 [options="header"]
-.*{Table} 9R* {Table9R-caption}
+.*{Tábla} 9R* {Table9R-caption}
 |===
 h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
@@ -895,7 +895,7 @@ h| 12 | an dáréag | airgead an dáréag
 [.chapter-9]
 [cols="2,4,4"]
 [options="header"]
-.*{Table} 9S* {Table9S-caption}
+.*{Tábla} 9S* {Table9S-caption}
 |===
 h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
@@ -945,7 +945,7 @@ h| 12 | dháréag bádóirí | soitheach dháréag bádóirí
 [.chapter-9]
 [cols="2,4,4"]
 [options="header"]
-.*{Table} 9T* {Table9T-caption}
+.*{Tábla} 9T* {Table9T-caption}
 |===
 h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
@@ -981,7 +981,7 @@ h| 12  | an dáréag bádóirí | soitheach an dáréag bádóirí
 [.chapter-9]
 [cols="2,4,4"]
 [options="header"]
-.*{Table} 9U* {Table9U-caption}
+.*{Tábla} 9U* {Table9U-caption}
 |===
 h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
@@ -1095,7 +1095,7 @@ h| 12
 [.chapter-9]
 [cols="1,2,1,2,1,2,1,2"]
 [options="header"]
-.*{Table} 9V* {TheOrdinalNumbers} 1&ndash;100
+.*{Tábla} 9V* {TheOrdinalNumbers} 1&ndash;100
 |===
 8+h| {TheOrdinalNumbers} 1&ndash;100
 
@@ -1159,7 +1159,7 @@ h| 100ú | an céadú custaiméir
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9W* {TheOrdinalNumbers} 100+
+.*{Tábla} 9W* {TheOrdinalNumbers} 100+
 |===
 4+h| {TheOrdinalNumbers} 100+
 
@@ -1193,7 +1193,7 @@ h| 1,000,000ú | an milliúnú huair
 [.chapter-9]
 [cols="1,4,1,4"]
 [options="header"]
-.*{Table} 9X* {Table9XCaption}
+.*{Tábla} 9X* {Table9XCaption}
 |===
 4+h| {Table9XHeader}
 
@@ -1253,7 +1253,7 @@ h| 104ú | beithígh an chéad is ceathrú feirmeoir
 +
 [.chapter-9]
 [options="header"]
-.*{Table} 9Y* {Table9YCaption}
+.*{Tábla} 9Y* {Table9YCaption}
 |===
 h| {TheFraction} h| {TheDenominator} h| {TheFormWithCuid} h| {TheFraction} h| {TheDenominator} h| {TheFormWithCuid}
 
@@ -1292,7 +1292,7 @@ h| 1/19 | naoidéagú | an naoidéagú cuid
 +
 [.chapter-9]
 [options="header"]
-.*{Table} 9Z* {Table9ZCaption}
+.*{Tábla} 9Z* {Table9ZCaption}
 |===
 h| {TheFraction} h| {TheFormWithCuid} h| {TheFraction} h| {TheFormWithCuid}
 
@@ -1316,7 +1316,7 @@ h| 1/76 | an seachtó séú cuid   h| 1/3,234,567 | an trí mhilliún, dhá ché
 +
 [.chapter-9]
 [options="header"]
-.*{Table} 9AA* {Table9AACaption}
+.*{Tábla} 9AA* {Table9AACaption}
 |===
 h| {TheFraction} h| h| {TheFraction} h| h| {TheFraction} h|
 
@@ -1354,7 +1354,7 @@ h| 5/1,000,000 | cúig mhilliúnú
 +
 [.chapter-9]
 [options="header"]
-.*{Table} 9BB* {Table9BBCaption}
+.*{Tábla} 9BB* {Table9BBCaption}
 |===
 h| {TheFraction} h| _ceann_/_cinn_ + _de_ h| {TheFraction} h| _ceann_/_cinn_ + _de_ 
 
@@ -1377,7 +1377,7 @@ h| 3/3,234,567 | trí cinn de thrí mhilliún, dhá chéad tríocha is ceithre m
 +
 [.chapter-9]
 [options="header"]
-.*{Table} 9CC* {Table9CCCaption}
+.*{Tábla} 9CC* {Table9CCCaption}
 |===
 h| {TheFraction} h| {TheBareNumberModifiedBy} _de_ h| {TheFraction} h| {TheBareNumberModifiedBy} _de_
 
@@ -1405,7 +1405,7 @@ h| 123/12 | céad fiche a trí de dhódhéaguithe
 
 [.chapter-9]
 [options="header"]
-.*{Table} 9DD* {Table9DDCaption}
+.*{Tábla} 9DD* {Table9DDCaption}
 |===
 h| {TheFraction} h| {TheBareNumberModifiedBy} _de_ h| {TheBareNumberModifiedBy} _ar_ h| {TheBareNumberModifiedBy} _os cionn_
 
@@ -1446,7 +1446,7 @@ h| 81/84
 [.chapter-9]
 [options="header"]
 [cols="2,3,3,3"]
-.*{Table} 9EE* {Table9EECaption}
+.*{Tábla} 9EE* {Table9EECaption}
 |===
 
 h| 0&ndash;19 h| {TheNominativeCase} h| {TheGenitiveCase} h| {Tabel9EE-col4}
@@ -1514,7 +1514,7 @@ a| . an 1ú fear cróga
 [.chapter-9]
 [options="header"]
 [cols="2,3,3"]
-.*{Table} 9FF* {Table9FFCaption}
+.*{Tábla} 9FF* {Table9FFCaption}
 |===
 
 h| 20+ h| {TheEstablishedSystem} h| {TheSimplifiedSystem}

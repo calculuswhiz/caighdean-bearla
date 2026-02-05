@@ -1,7 +1,7 @@
 import translations from "../translation/json/translations.json";
 import { EasyDOM } from "./EasyDOM";
 
-const availableChapters: {
+export const availableChapters: {
   labelChain: string[];
   id: string;
   bg: string;

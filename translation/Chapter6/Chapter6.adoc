@@ -1,4 +1,4 @@
-= {Chapter} 6 | {chapterTitle}
+= {Caibidil} 6 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -261,7 +261,7 @@ endif::[]
 
 == 6.3 {6-3-title}
 
-.*{Table} 6A*  {Table6A-caption}
+.*{Tábla} 6A*  {Table6A-caption}
 [.chapter-6]
 |===
 |{6-3-tables-col1} |{6-3-tables-col2} |{6-3-tables-col3}
@@ -375,7 +375,7 @@ ifndef::isGa[]
 endif::[]
 |===
 
-.*{Table} 6B*  {Table6B-caption}
+.*{Tábla} 6B*  {Table6B-caption}
 [.chapter-6]
 |===
 |{6-3-tables-col1} |{6-3-tables-col2} |{6-3-tables-col3}
@@ -553,7 +553,7 @@ ifdef::isGa[| *I (an t-iarthar)*]
 
 {6-4-p2}
 
-.*{Table} 6C*  {Table6C-caption}
+.*{Tábla} 6C*  {Table6C-caption}
 [.chapter-6]
 [cols="1,3,3,3"]
 |===

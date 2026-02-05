@@ -80,7 +80,7 @@ async function makeChapterHtml(
  * 2) Also encapsulate the number part in a span for styling.
  * @param jsDom 
  */
-function cleanHeaders() {
+function normalizeHeadingIds() {
   const headings = EasyDOM.querySelectorAll<HTMLHeadingElement>("h2,h3,h4,h5,h6");
 
   for (const heading of headings) {
@@ -207,7 +207,7 @@ async function generateDoc(chapterFolder: string) {
     EasyDOM.document = jsDom.window.document;
     EasyDOM.HTMLElement = jsDom.window.HTMLElement;
 
-    cleanHeaders();
+    normalizeHeadingIds();
     giveTablesIds(jsDom.window.document);
     giveListItemsIds(jsDom.window.document);
 

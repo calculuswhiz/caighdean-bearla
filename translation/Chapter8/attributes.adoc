@@ -1,5 +1,5 @@
-:ChapterTitle_ga: An Forainmneach
-:ChapterTitle_en: The Pronominal
+:teidealNaCaibidle_ga: An Forainmneach
+:teidealNaCaibidle_en: The Pronominal
 
 :8-1-title_ga: Ginearálta
 :8-1-title_en: General

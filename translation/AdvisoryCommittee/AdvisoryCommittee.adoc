@@ -1,7 +1,7 @@
-= {AdvisoryCommitteeTitle}
+= {ChoisteChomhairligh}
 :showtitle:
 
-*An Dr Éamonn Ó hÓgáin ({Chairman})*,
+*An Dr Éamonn Ó hÓgáin ({Cathaoirleach})*,
 
 {name1-line1}
 

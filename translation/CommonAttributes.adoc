@@ -1,70 +1,67 @@
-:Chapter_ga: Caibidil
-:Chapter_en: Chapter
+:Caibidil_ga: Caibidil
+:Caibidil_en: Chapter
 
-:Masculine_ga: Firinscneach
-:Masculine_en: Masculine
+:Firinscneach_ga: Firinscneach
+:Firinscneach_en: Masculine
 
-:Feminine_ga: Baininscneach
-:Feminine_en: Feminine
+:Baininscneach_ga: Baininscneach
+:Baininscneach_en: Feminine
 
-:MascAndFem_ga: Firinscneach agus Baininscneach
-:MascAndFem_en: Masculine and Feminine
+:FirAgusBain_ga: Firinscneach agus Baininscneach
+:FirAgusBain_en: Masculine and Feminine
 
-:Consonant_ga: Consan
-:Consonant_en: Consonant
+:Consan_ga: Consan
+:Consan_en: Consonant
 
-:Vowel_ga: Guta
-:Vowel_en: Vowel
+:Guta_ga: Guta
+:Guta_en: Vowel
 
-:Eclipsis_ga: urú
-:Eclipsis_en: eclipsis
+:urú_ga: urú
+:urú_en: eclipsis
 
-:Lenition_ga: séimhiú
-:Lenition_en: lenition
+:séimhiú_ga: séimhiú
+:séimhiú_en: lenition
 
-:Table_ga: Tábla
-:Table_en: Table
+:Tábla_ga: Tábla
+:Tábla_en: Table
 
-:General_ga: Ginearálta
-:General_en: General
+:Ginearálta_ga: Ginearálta
+:Ginearálta_en: General
 
-:Singular_ga: Uatha
-:Singular_en: Singular
+:Uatha_ga: Uatha
+:Uatha_en: Singular
 
-:Sg_ga: u.
-:Sg_en: sg.
+:Iolra_ga: Iolra
+:Iolra_en: Plural
 
-:Plural_ga: Iolra
-:Plural_en: Plural
+:Ainmneach_ga: Ainmneach
+:Ainmneach_en: Nominative
 
-:Pl_ga: iol.
-:Pl_en: pl.
+:Ginideach_ga: Ginideach
+:Ginideach_en: Genitive
 
-:Nominative_ga: Ainmneach
-:Nominative_en: Nominative
+:GachTuiseal_ga: Gach Tuiseal
+:GachTuiseal_en: Every Case
 
-:Genitive_ga: Ginideach
-:Genitive_en: Genitive
+:Nóta_ga: Nóta
+:Nóta_en: Note
 
-:EveryCase_ga: Gach Tuiseal
-:EveryCase_en: Every Case
+:Inscne_ga: Inscne
+:Inscne_en: Gender
 
-:Declension_ga: Díochlaonadh
-:Declension_en: Declension
+:GanAthrú_ga: Gan athrú
+:GanAthrú_en: No change
 
-:note_ga: Nóta
-:note_en: Note
-
-:Gender_ga: Inscne
-:Gender_en: Gender
-
-:NoChange_ga: Gan athrú
-:NoChange_en: No change
-
-:meaning_ga: sa bhrí
-:meaning_en: meaning
+:saBhrí_ga: sa bhrí
+:saBhrí_en: meaning
 
 // Abbreviations
 
-:abbrev-autonomous_ga: sb.
-:abbrev-autonomous_en: aut.
+:nod-u_ga: u.
+:nod-u_en: sg.
+
+:nod-iol_ga: iol.
+:nod-iol_en: pl.
+
+:nod-sb_ga: sb.
+:nod-sb_en: aut.

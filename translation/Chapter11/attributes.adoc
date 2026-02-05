@@ -1,5 +1,5 @@
-:chapterTitle_ga: An Clásal Coibhneasta
-:chapterTitle_en: The Relative Clause
+:teidealNaCaibidle_ga: An Clásal Coibhneasta
+:teidealNaCaibidle_en: The Relative Clause
 
 :11-1-title_ga: Ginearálta
 :11-1-title_en: General

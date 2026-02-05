@@ -1,5 +1,5 @@
-:chapterTitle_ga: Ainmfhocail Chinnte agus Éiginnte, Giorrúcháin agus Foirm An Ainmnigh in ionad An Ghinidigh
-:chapterTitle_en: Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in Place of the Genitive
+:teidealNaCaibidle_ga: Ainmfhocail Chinnte agus Éiginnte, Giorrúcháin agus Foirm An Ainmnigh in ionad An Ghinidigh
+:teidealNaCaibidle_en: Definite and Indefinite Nouns, Abbreviations and the Form of the Nominative in Place of the Genitive
 
 :3-1-title_ga: Ainmfhocail Chinnte agus Éiginnte
 :3-1-title_en: Definite and Indefinite Nouns

@@ -1,4 +1,4 @@
-= Chapter 11 | {chapterTitle}
+= Chapter 11 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -125,7 +125,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-2-1-b-note-p}
+*{Nóta}:* {11-2-1-b-note-p}
 
 . {11-2-1-c-p}
 +
@@ -149,7 +149,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-2-1-c-note-p}
+*{Nóta}:* {11-2-1-c-note-p}
 
 . {11-2-1-d-p}
 +
@@ -187,7 +187,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-2-1-e-note-p}
+*{Nóta}:* {11-2-1-e-note-p}
 
 . {11-2-1-f-p}
 +
@@ -276,7 +276,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-3-1-b-note}
+*{Nóta}:* {11-3-1-b-note}
 
 . {11-3-1-c-p1}
 +
@@ -419,7 +419,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-3-1-e-note-p}
+*{Nóta}:* {11-3-1-e-note-p}
 
 . {11-3-1-f-p}
 +
@@ -466,7 +466,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-3-1-g-note-p}
+*{Nóta}:* {11-3-1-g-note-p}
 
 . {11-3-1-h-p}
 +
@@ -494,7 +494,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {11-3-1-h-note-p}
+*{Nóta}:* {11-3-1-h-note-p}
 
 . {11-3-1-i-p1}
 +
@@ -530,7 +530,7 @@ endif::[]
 
 {11-4-2-p}
 
-*{Note}:* {11-4-2-note-p}
+*{Nóta}:* {11-4-2-note-p}
 
 === 11.4.3
 
@@ -540,7 +540,7 @@ endif::[]
 ++++
 <table class="chapter-11">
   <caption>
-    <strong>{Table} 11A</strong> {Table11A-caption}
+    <strong>{Tábla} 11A</strong> {Table11A-caption}
   </caption>
   <thead>
     <tr>
@@ -586,7 +586,7 @@ ifndef::isGa[{Table11A-row3-col2_ga} <br />]
 </table>
 ++++
 
-*{Note}:* {11-4-3-note-p}
+*{Nóta}:* {11-4-3-note-p}
 
 '''
 
@@ -604,7 +604,7 @@ ifndef::isGa[{Table11A-row3-col2_ga} <br />]
 ++++
 <table class="chapter-11">
   <caption>
-    <strong>{Table} 11B</strong> {Table11B-caption}
+    <strong>{Tábla} 11B</strong> {Table11B-caption}
   </caption>
   <thead>
     <tr>
@@ -650,7 +650,7 @@ ifndef::isGa[{Table11B-row3-col2_ga} <br />]
 </table>
 ++++
 
-*{Note}:* {11-5-2-note-p}
+*{Nóta}:* {11-5-2-note-p}
 
 '''
 
@@ -809,7 +809,7 @@ endif::[]
 +
 {11-6-1-c-p}
 +
-.*{Table} 11C* {Table11C-caption}
+.*{Tábla} 11C* {Table11C-caption}
 [.chapter-11]
 [cols="1,1,1"]
 |===
@@ -1074,7 +1074,7 @@ endif::[]
 ++++
 <table class="chapter-11">
   <caption>
-    <strong>{Table} 11D</strong> {Table11D-caption}
+    <strong>{Tábla} 11D</strong> {Table11D-caption}
   </caption>
   <thead>
     <tr>
@@ -1198,7 +1198,7 @@ endif::[]
 
 {11-8-5-p}
 
-.*{Table} 11E* {Table11E-caption}
+.*{Tábla} 11E* {Table11E-caption}
 [.chapter-11]
 [cols="1,1,1,1"]
 |===
@@ -1216,7 +1216,7 @@ h| {Table11E-header1} h| {Table11E-header2} h| {Table11E-header3} h| {Table11E-h
 
 == 11.9 {11-9-title}
 
-.*{Table} 11F* {Table11F-caption}
+.*{Tábla} 11F* {Table11F-caption}
 [.chapter-11]
 [cols="1,3"]
 |===
@@ -1265,7 +1265,7 @@ h| nuair | Cuirfidh mé scairt ort nuair a bheidh deis agam.
 
 *{Table-11F-footnote}
 
-.*{Table} 11G* {Table11G-caption}
+.*{Tábla} 11G* {Table11G-caption}
 [.chapter-11]
 [cols="1,3"]
 |===

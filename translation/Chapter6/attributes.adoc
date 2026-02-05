@@ -1,5 +1,5 @@
-:chapterTitle_ga: An Dobhriathar
-:chapterTitle_en: The Adverb
+:teidealNaCaibidle_ga: An Dobhriathar
+:teidealNaCaibidle_en: The Adverb
 
 :6-1-title_ga: Príomhchineálacha Dobhriathra
 :6-1-title_en: Main Types of Adverbs

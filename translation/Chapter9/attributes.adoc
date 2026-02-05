@@ -1,5 +1,5 @@
-:chapterTitle_ga: An Uimhir
-:chapterTitle_en: The Number
+:teidealNaCaibidle_ga: An Uimhir
+:teidealNaCaibidle_en: The Number
 
 :9-1-title_ga: Ginearálta
 :9-1-title_en: General

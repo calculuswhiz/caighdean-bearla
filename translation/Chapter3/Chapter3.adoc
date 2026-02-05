@@ -1,4 +1,4 @@
-= {Chapter} 3 | {chapterTitle}
+= {Caibidil} 3 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -429,7 +429,7 @@ ifdef::isGa[]
 |===
 endif::[]
 
-*{Note}:* {3-1-11-note}
+*{Nóta}:* {3-1-11-note}
 
 [.samplebox]
 ifndef::isGa[]
@@ -789,7 +789,7 @@ endif::[]
 [list-[lower-alpha]]
 a. {3-3-2-a-p}
 +
-.*{Table} 3A*  {Table-3A-Col2Title} -- {Table-3A-caption-part}
+.*{Tábla} 3A*  {Table-3A-Col2Title} -- {Table-3A-caption-part}
 [.chapter-3]
 [%header]
 [cols="1,1"]
@@ -1241,7 +1241,7 @@ b. {3-3-8-b-p}
 
 {3-3-9-p}
 
-.*{Table} 3B*  {Table3B-caption}
+.*{Tábla} 3B*  {Table3B-caption}
 [.chapter-3]
 [%header]
 [cols="2,3,3"]
@@ -1298,7 +1298,7 @@ h| {Table3B-Col3}
 
 {3-3-10-p1}
 
-.*{Table} 3C*  {Table3C-caption}
+.*{Tábla} 3C*  {Table3C-caption}
 [.chapter-3]
 [%header]
 [cols="1,2,2"]
@@ -1367,7 +1367,7 @@ h| {Table3B-Col3}
 
 {3-3-11-p1}
 
-.*{Table} 3D*  {Table3D-caption}
+.*{Tábla} 3D*  {Table3D-caption}
 [.chapter-3]
 [%header]
 [cols="1,2,2"]
@@ -1391,13 +1391,13 @@ h| {Table3B-Col3}
 [list-[lower-alpha]]
 a. {3-3-12-a-p}
 +
-.*{Table} 3E*  {Table3E-caption}
+.*{Tábla} 3E*  {Table3E-caption}
 [.chapter-3]
 [%header]
 [cols="1,1"]
 |===
-h| {Singular}
-h| {Plural}
+h| {Uatha}
+h| {Iolra}
 
 | An *leabhar múinteora scoile* é seo?
 | Is *calafort bád iascaigh* é.
@@ -1427,15 +1427,15 @@ h| {Plural}
 
 b. {3-3-12-b-p}
 +
-.*{Table} 3F*  {Table3F-caption}
+.*{Tábla} 3F*  {Table3F-caption}
 [.chapter-3]
 [%header]
 [cols="1,1"]
 |===
 a|
-{Singular}
+{Uatha}
 a|
-{Plural}
+{Iolra}
 
 | Bhí siad *i mbun ceoil ar an tsráid*.
 | Bhí an madra *ar thóir éan sa pháirc*.
@@ -1452,7 +1452,7 @@ a|
 
 {3-3-13-p}
 
-.*{Table} 3G* {Table3G-caption}
+.*{Tábla} 3G* {Table3G-caption}
 [.chapter-3-alt]
 [%header]
 [cols="2,1,1"]
@@ -1529,22 +1529,22 @@ a| . 1lb *plúr*
 
 | {Table3G-row16-condition}
 | {Table3G-row16-rule}
-a| . Bímse ag ullmhú *lóin shláintiúla* dom féin. (_{Pl}_)
-. Táim ag réiteach *cupán tae*. (_{Sg}_) 
-. Níl siad ag fáil *pingin ar bith*. (_{Sg}_)
-. Ní fiú bheith ag ordú *trealamh atá daor*. (_{Sg}_)
-. Nílim ag ceannach *aon dearbháin* i mbliana. (_{Pl}_)
-. Tá na mic léinn ag déanamh *an-obair* ar an tionscadal sin. (_{Sg}_)
+a| . Bímse ag ullmhú *lóin shláintiúla* dom féin. (_{nod-iol}_)
+. Táim ag réiteach *cupán tae*. (_{nod-u}_) 
+. Níl siad ag fáil *pingin ar bith*. (_{nod-u}_)
+. Ní fiú bheith ag ordú *trealamh atá daor*. (_{nod-u}_)
+. Nílim ag ceannach *aon dearbháin* i mbliana. (_{nod-iol}_)
+. Tá na mic léinn ag déanamh *an-obair* ar an tionscadal sin. (_{nod-u}_)
 
 | {Table3G-row17-condition}
 | {Table3G-row17-rule}
-a| . Chuaigh sé i gcomhair *cupán tae*. (_{Sg}_) 
-. D'fhéadfaí a leithéid a rá i gcás *cláir ar bith*. (_{Pl}_) 
-. Fuarthas an admháil i measc *iarratais ó dhaltaí scoile*. (_{Pl}_) 
-. Fágadh gan mhaoiniú iad de bharr *scéim ar tháinig deireadh léi*. (_{Sg}_) 
-. Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_{Sg}_) 
+a| . Chuaigh sé i gcomhair *cupán tae*. (_{nod-u}_) 
+. D'fhéadfaí a leithéid a rá i gcás *cláir ar bith*. (_{nod-iol}_) 
+. Fuarthas an admháil i measc *iarratais ó dhaltaí scoile*. (_{nod-iol}_) 
+. Fágadh gan mhaoiniú iad de bharr *scéim ar tháinig deireadh léi*. (_{nod-u}_) 
+. Bíonn an obair sin le déanamh i gcás *aon chonradh*. (_{nod-u}_) 
 | {Table3G-row18-condition}
 | {Table3G-row18-rule}
-| Thit go leor *báisteach throm* an tseachtain seo caite. (_{Sg}_)
+| Thit go leor *báisteach throm* an tseachtain seo caite. (_{nod-u}_)
 
 |===

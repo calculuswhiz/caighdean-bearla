@@ -1,5 +1,5 @@
-:chapterTitle_ga: Na hAthruithe Tosaigh
-:chapterTitle_en: The Initial Mutations
+:teidealNaCaibidle_ga: Na hAthruithe Tosaigh
+:teidealNaCaibidle_en: The Initial Mutations
 
 :10-1-title_ga: Ginearálta
 :10-1-title_en: General

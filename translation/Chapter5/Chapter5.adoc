@@ -1,4 +1,4 @@
-= {Chapter} 5 | {chapterTitle}
+= {Caibidil} 5 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -59,7 +59,7 @@
 
 {5-1-8-p}
 
-*{Note}*: {5-1-8-note}
+*{Nóta}*: {5-1-8-note}
 
 === 5.1.9 {5-1-9-title}
 
@@ -69,7 +69,7 @@
 
 {5-1-10-p}
 
-.*{Table} 5A*  {Table5A-caption}
+.*{Tábla} 5A*  {Table5A-caption}
 [.chapter-5]
 [%header]
 [cols="1,1,1"]
@@ -132,7 +132,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5B</strong> {Table5B-caption}
+    <strong>{Tábla} 5B</strong> {Table5B-caption}
   </caption>
   <tbody>
     <tr>
@@ -198,10 +198,10 @@ fágaimis
               <td>molfaidh siad</td>
             </tr>
             <tr>
-              <td><em>{abbrev-autonomous}</em> moltar</td>
-              <td><em>{abbrev-autonomous}</em> moladh</td>
-              <td><em>{abbrev-autonomous}</em> mholtaí</td>
-              <td><em>{abbrev-autonomous}</em> molfar</td>
+              <td><em>{nod-sb}</em> moltar</td>
+              <td><em>{nod-sb}</em> moladh</td>
+              <td><em>{nod-sb}</em> mholtaí</td>
+              <td><em>{nod-sb}</em> molfar</td>
             </tr>
           </tbody>
         </table>
@@ -254,9 +254,9 @@ fágaimis
               <td>molaidís</td>
             </tr>
             <tr>
-              <td><em>{abbrev-autonomous}</em> mholfaí</td>
-              <td><em>{abbrev-autonomous}</em> go moltar</td>
-              <td><em>{abbrev-autonomous}</em> moltar</td>
+              <td><em>{nod-sb}</em> mholfaí</td>
+              <td><em>{nod-sb}</em> go moltar</td>
+              <td><em>{nod-sb}</em> moltar</td>
             </tr>
           </tbody>
         </table>
@@ -292,7 +292,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5C</strong> {Table5C-caption}
+    <strong>{Tábla} 5C</strong> {Table5C-caption}
   </caption>
   <tbody>
     <tr>
@@ -327,7 +327,7 @@ fágaimis
             <tr><td>brisimid</td><td>bhriseamar</td><td>bhrisimis</td><td>brisfimid</td></tr>
             <tr><td>briseann sibh</td><td>bhris sibh</td><td>bhriseadh sibh</td><td>brisfidh sibh</td></tr>
             <tr><td>briseann siad</td><td>bhris siad</td><td>bhrisidís</td><td>brisfidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> bristear</td><td><em>{abbrev-autonomous}</em> briseadh</td><td><em>{abbrev-autonomous}</em> bhristí</td><td><em>{abbrev-autonomous}</em> brisfear</td></tr>
+            <tr><td><em>{nod-sb}</em> bristear</td><td><em>{nod-sb}</em> briseadh</td><td><em>{nod-sb}</em> bhristí</td><td><em>{nod-sb}</em> brisfear</td></tr>
           </tbody>
         </table>
       </td>
@@ -354,7 +354,7 @@ fágaimis
             <tr><td>bhrisfimis</td><td>go mbrisimid</td><td>brisimis</td></tr>
             <tr><td>bhrisfeadh sibh</td><td>go mbrise sibh</td><td>brisigí</td></tr>
             <tr><td>bhrisfidís</td><td>go mbrise siad</td><td>brisidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> bhrisfí</td><td><em>{abbrev-autonomous}</em> go mbristear</td><td><em>{abbrev-autonomous}</em> bristear</td></tr>
+            <tr><td><em>{nod-sb}</em> bhrisfí</td><td><em>{nod-sb}</em> go mbristear</td><td><em>{nod-sb}</em> bristear</td></tr>
           </tbody>
         </table>
       </td>
@@ -385,7 +385,7 @@ fágaimis
 </table>
 ++++
 
-*{Note}*: {Table5C-Note}
+*{Nóta}*: {Table5C-Note}
 
 [list-[lower-alpha]]
 . {5-2-1-a-p}
@@ -531,7 +531,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5D</strong> {Table5D-caption}
+    <strong>{Tábla} 5D</strong> {Table5D-caption}
   </caption>
   <tbody>
     <tr>
@@ -566,7 +566,7 @@ fágaimis
             <tr><td>sábhálaimid</td><td>shábhálamar</td><td>shábhálaimis</td><td>sábhálfaimid</td></tr>
             <tr><td>sábhálann sibh</td><td>shábháil sibh</td><td>shábháladh sibh</td><td>sábhálfaidh sibh</td></tr>
             <tr><td>sábhálann siad</td><td>shábháil siad</td><td>shábhálaidís</td><td>sábhálfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> sábháiltear</td><td><em>{abbrev-autonomous}</em> sábháladh</td><td><em>{abbrev-autonomous}</em> shábháiltí</td><td><em>{abbrev-autonomous}</em> sábhálfar</td></tr>
+            <tr><td><em>{nod-sb}</em> sábháiltear</td><td><em>{nod-sb}</em> sábháladh</td><td><em>{nod-sb}</em> shábháiltí</td><td><em>{nod-sb}</em> sábhálfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -593,7 +593,7 @@ fágaimis
             <tr><td>shábhálfaimis</td><td>go sábhálaimid</td><td>sábhálaimis</td></tr>
             <tr><td>shábhálfadh sibh</td><td>go sábhála sibh</td><td>sábhálaigí</td></tr>
             <tr><td>shábhálfaidís</td><td>go sábhála siad</td><td>sábhálaidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> shábhálfaí</td><td><em>{abbrev-autonomous}</em> go sábháiltear</td><td><em>{abbrev-autonomous}</em> sábháiltear</td></tr>
+            <tr><td><em>{nod-sb}</em> shábhálfaí</td><td><em>{nod-sb}</em> go sábháiltear</td><td><em>{nod-sb}</em> sábháiltear</td></tr>
           </tbody>
         </table>
       </td>
@@ -624,13 +624,13 @@ fágaimis
 </table>
 ++++
 
-*{Note}*: {Table5D-note}
+*{Nóta}*: {Table5D-note}
 
 [subs="attributes,replacements,macros"]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5E</strong> {Table5E-caption}
+    <strong>{Tábla} 5E</strong> {Table5E-caption}
   </caption>
   <tbody>
     <tr>
@@ -665,7 +665,7 @@ fágaimis
             <tr><td>tíolacaimid</td><td>thíolacamar</td><td>thíolacaimis</td><td>tíolacfaimid</td></tr>
             <tr><td>tíolacann sibh</td><td>thíolaic sibh</td><td>thíolacadh sibh</td><td>tíolacfaidh sibh</td></tr>
             <tr><td>tíolacann siad</td><td>thíolaic siad</td><td>thíolacaidís</td><td>tíolacfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> tíolactar</td><td><em>{abbrev-autonomous}</em> tíolacadh</td><td><em>{abbrev-autonomous}</em> thíolactaí</td><td><em>{abbrev-autonomous}</em> tíolacfar</td></tr>
+            <tr><td><em>{nod-sb}</em> tíolactar</td><td><em>{nod-sb}</em> tíolacadh</td><td><em>{nod-sb}</em> thíolactaí</td><td><em>{nod-sb}</em> tíolacfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -692,7 +692,7 @@ fágaimis
             <tr><td>thíolacfaimis</td><td>go dtíolacaimid</td><td>tíolacaimis</td></tr>
             <tr><td>thíolacfadh sibh</td><td>go dtíolaca sibh</td><td>tíolacaigí</td></tr>
             <tr><td>thíolacfaidís</td><td>go dtíolaca siad</td><td>tíolacaidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> thíolacfaí</td><td><em>{abbrev-autonomous}</em> go dtíolactar</td><td><em>{abbrev-autonomous}</em> tíolactar</td></tr>
+            <tr><td><em>{nod-sb}</em> thíolacfaí</td><td><em>{nod-sb}</em> go dtíolactar</td><td><em>{nod-sb}</em> tíolactar</td></tr>
           </tbody>
         </table>
       </td>
@@ -866,7 +866,7 @@ fágaimis
 </table>
 ++++
 
-*{Note}*: {5-2-2-note}
+*{Nóta}*: {5-2-2-note}
 
 === 5.2.3 {5-2-3-title}
 
@@ -877,7 +877,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5F</strong> {Table5F-caption}
+    <strong>{Tábla} 5F</strong> {Table5F-caption}
   </caption>
   <tbody>
     <tr>
@@ -912,7 +912,7 @@ fágaimis
             <tr><td>cráimid</td><td>chrámar</td><td>chráimis</td><td>cráfaimid</td></tr>
             <tr><td>cránn sibh</td><td>chráigh sibh</td><td>chrádh sibh</td><td>cráfaidh sibh</td></tr>
             <tr><td>cránn siad</td><td>chráigh siad</td><td>chráidís</td><td>cráfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> cráitear</td><td><em>{abbrev-autonomous}</em> crádh</td><td><em>{abbrev-autonomous}</em> chráití</td><td><em>{abbrev-autonomous}</em> cráfar</td></tr>
+            <tr><td><em>{nod-sb}</em> cráitear</td><td><em>{nod-sb}</em> crádh</td><td><em>{nod-sb}</em> chráití</td><td><em>{nod-sb}</em> cráfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -939,7 +939,7 @@ fágaimis
             <tr><td>chráfaimis</td><td>go gcráimid</td><td>cráimis</td></tr>
             <tr><td>chráfadh sibh</td><td>go gcrá sibh</td><td>cráigí</td></tr>
             <tr><td>chráfaidís</td><td>go gcrá siad</td><td>cráidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> chráfaí</td><td><em>{abbrev-autonomous}</em> go gcráitear</td><td><em>{abbrev-autonomous}</em> cráitear</td></tr>
+            <tr><td><em>{nod-sb}</em> chráfaí</td><td><em>{nod-sb}</em> go gcráitear</td><td><em>{nod-sb}</em> cráitear</td></tr>
           </tbody>
         </table>
       </td>
@@ -970,13 +970,13 @@ fágaimis
 </table>
 ++++
 +
-*{Note}*: {Table5F-note}
+*{Nóta}*: {Table5F-note}
 +
 [subs="attributes,replacements,macros"]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5G</strong> {Table5G-caption}
+    <strong>{Tábla} 5G</strong> {Table5G-caption}
   </caption>
   <tbody>
     <tr>
@@ -1011,7 +1011,7 @@ fágaimis
             <tr><td>dóimid</td><td>dhómar</td><td>dhóimis</td><td>dófaimid</td></tr>
             <tr><td>dónn sibh</td><td>dhóigh sibh</td><td>dhódh sibh</td><td>dófaidh sibh</td></tr>
             <tr><td>dónn siad</td><td>dhóigh siad</td><td>dhóidís</td><td>dófaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> dóitear</td><td><em>{abbrev-autonomous}</em> dódh</td><td><em>{abbrev-autonomous}</em> dhóití</td><td><em>{abbrev-autonomous}</em> dófar</td></tr>
+            <tr><td><em>{nod-sb}</em> dóitear</td><td><em>{nod-sb}</em> dódh</td><td><em>{nod-sb}</em> dhóití</td><td><em>{nod-sb}</em> dófar</td></tr>
           </tbody>
         </table>
       </td>
@@ -1038,7 +1038,7 @@ fágaimis
             <tr><td>dhófaimis</td><td>go ndóimid</td><td>dóimis</td></tr>
             <tr><td>dhófadh sibh</td><td>go ndó sibh</td><td>dóigí</td></tr>
             <tr><td>dhófaidís</td><td>go ndó siad</td><td>dóidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> dhófaí</td><td><em>{abbrev-autonomous}</em> go ndóitear</td><td><em>{abbrev-autonomous}</em> dóitear</td></tr>
+            <tr><td><em>{nod-sb}</em> dhófaí</td><td><em>{nod-sb}</em> go ndóitear</td><td><em>{nod-sb}</em> dóitear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1130,7 +1130,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5H</strong> {Table5H-caption}
+    <strong>{Tábla} 5H</strong> {Table5H-caption}
   </caption>
   <tbody>
     <tr>
@@ -1165,7 +1165,7 @@ fágaimis
             <tr><td>léimid</td><td>léamar</td><td>léimis</td><td>léifimid</td></tr>
             <tr><td>léann sibh</td><td>léigh sibh</td><td>léadh sibh</td><td>léifidh sibh</td></tr>
             <tr><td>léann siad</td><td>léigh siad</td><td>léidís</td><td>léifidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> léitear</td><td><em>{abbrev-autonomous}</em> léadh</td><td><em>{abbrev-autonomous}</em> léití</td><td><em>{abbrev-autonomous}</em> léifear</td></tr>
+            <tr><td><em>{nod-sb}</em> léitear</td><td><em>{nod-sb}</em> léadh</td><td><em>{nod-sb}</em> léití</td><td><em>{nod-sb}</em> léifear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1192,7 +1192,7 @@ fágaimis
             <tr><td>léifimis</td><td>go léimid</td><td>léimis</td></tr>
             <tr><td>léifeadh sibh</td><td>go lé sibh</td><td>léigí</td></tr>
             <tr><td>léifidís</td><td>go lé siad</td><td>léidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> léifí</td><td><em>{abbrev-autonomous}</em> go léitear</td><td><em>{abbrev-autonomous}</em> léitear</td></tr>
+            <tr><td><em>{nod-sb}</em> léifí</td><td><em>{nod-sb}</em> go léitear</td><td><em>{nod-sb}</em> léitear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1227,7 +1227,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5I</strong> {Table5I-caption}
+    <strong>{Tábla} 5I</strong> {Table5I-caption}
   </caption>
   <tbody>
     <tr>
@@ -1262,7 +1262,7 @@ fágaimis
             <tr><td>nímid</td><td>níomar</td><td>nímis</td><td>nífimid</td></tr>
             <tr><td>níonn sibh</td><td>nigh sibh</td><td>níodh sibh</td><td>nífidh sibh</td></tr>
             <tr><td>níonn siad</td><td>nigh siad</td><td>nídís</td><td>nífidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> nitear</td><td><em>{abbrev-autonomous}</em> níodh</td><td><em>{abbrev-autonomous}</em> nití</td><td><em>{abbrev-autonomous}</em> nífear</td></tr>
+            <tr><td><em>{nod-sb}</em> nitear</td><td><em>{nod-sb}</em> níodh</td><td><em>{nod-sb}</em> nití</td><td><em>{nod-sb}</em> nífear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1289,7 +1289,7 @@ fágaimis
             <tr><td>nífimis</td><td>go nímid</td><td>nímis</td></tr>
             <tr><td>nífeadh sibh</td><td>go ní sibh</td><td>nígí</td></tr>
             <tr><td>nífidís</td><td>go ní siad</td><td>nídís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> nífí</td><td><em>{abbrev-autonomous}</em> go nitear</td><td><em>{abbrev-autonomous}</em> nitear</td></tr>
+            <tr><td><em>{nod-sb}</em> nífí</td><td><em>{nod-sb}</em> go nitear</td><td><em>{nod-sb}</em> nitear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1334,7 +1334,7 @@ fágaimis
   </tr></thead>
 <tbody>
   <tr><td>éigh</td><td>éim</td><td>éamh</td><td>éite</td></tr>
-  <tr><td>téigh ({meaning} <em>teas</em>)</td><td>téim</td><td>téamh</td><td>téite</td></tr>
+  <tr><td>téigh ({saBhrí} <em>teas</em>)</td><td>téim</td><td>téamh</td><td>téite</td></tr>
   <tr><td>pléigh</td><td>pléim</td><td>plé</td><td>pléite</td></tr>
   <tr><td>spréigh</td><td>spréim</td><td>spré</td><td>spréite</td></tr>
   <tr><td>caígh</td><td>caím</td><td>caí</td><td>caíte</td></tr>
@@ -1397,7 +1397,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5J</strong> {Table5J-caption}
+    <strong>{Tábla} 5J</strong> {Table5J-caption}
   </caption>
   <tbody>
     <tr>
@@ -1432,7 +1432,7 @@ fágaimis
             <tr><td>beannaímid</td><td>bheannaíomar</td><td>bheannaímis</td><td>beannóimid</td></tr>
             <tr><td>beannaíonn sibh</td><td>bheannaigh sibh</td><td>bheannaíodh sibh</td><td>beannóidh sibh</td></tr>
             <tr><td>beannaíonn siad</td><td>bheannaigh siad</td><td>bheannaídís</td><td>beannóidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> beannaítear</td><td><em>{abbrev-autonomous}</em> beannaíodh</td><td><em>{abbrev-autonomous}</em> bheannaítí</td><td><em>{abbrev-autonomous}</em> beannófar</td></tr>
+            <tr><td><em>{nod-sb}</em> beannaítear</td><td><em>{nod-sb}</em> beannaíodh</td><td><em>{nod-sb}</em> bheannaítí</td><td><em>{nod-sb}</em> beannófar</td></tr>
           </tbody>
         </table>
       </td>
@@ -1459,7 +1459,7 @@ fágaimis
             <tr><td>bheannóimis</td><td>go mbeannaímid</td><td>beannaímis</td></tr>
             <tr><td>bheannódh sibh</td><td>go mbeannaí sibh</td><td>beannaígí</td></tr>
             <tr><td>bheannóidís</td><td>go mbeannaí siad</td><td>beannaídís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> bheannófaí</td><td><em>{abbrev-autonomous}</em> go mbeannaítear</td><td><em>{abbrev-autonomous}</em> beannaítear</td></tr>
+            <tr><td><em>{nod-sb}</em> bheannófaí</td><td><em>{nod-sb}</em> go mbeannaítear</td><td><em>{nod-sb}</em> beannaítear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1494,7 +1494,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5K</strong> {Table5K-caption}
+    <strong>{Tábla} 5K</strong> {Table5K-caption}
   </caption>
   <tbody>
     <tr>
@@ -1529,7 +1529,7 @@ fágaimis
             <tr><td>cruinnímid</td><td>chruinníomar</td><td>chruinnímis</td><td>cruinneoimid</td></tr>
             <tr><td>cruinníonn sibh</td><td>chruinnigh sibh</td><td>chruinníodh sibh</td><td>cruinneoidh sibh</td></tr>
             <tr><td>cruinníonn siad</td><td>chruinnigh siad</td><td>chruinnídís</td><td>cruinneoidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> cruinnítear</td><td><em>{abbrev-autonomous}</em> cruinníodh</td><td><em>{abbrev-autonomous}</em> chruinnítí</td><td><em>{abbrev-autonomous}</em> cruinneofar</td></tr>
+            <tr><td><em>{nod-sb}</em> cruinnítear</td><td><em>{nod-sb}</em> cruinníodh</td><td><em>{nod-sb}</em> chruinnítí</td><td><em>{nod-sb}</em> cruinneofar</td></tr>
           </tbody>
         </table>
       </td>
@@ -1556,7 +1556,7 @@ fágaimis
             <tr><td>chruinneoimis</td><td>go gcruinnímid</td><td>cruinnímis</td></tr>
             <tr><td>chruinneodh sibh</td><td>go gcruinní sibh</td><td>cruinnígí</td></tr>
             <tr><td>chruinneoidís</td><td>go gcruinní siad</td><td>cruinnídís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> chruinneofaí</td><td><em>{abbrev-autonomous}</em> go gcruinnítear</td><td><em>{abbrev-autonomous}</em> cruinnítear</td></tr>
+            <tr><td><em>{nod-sb}</em> chruinneofaí</td><td><em>{nod-sb}</em> go gcruinnítear</td><td><em>{nod-sb}</em> cruinnítear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1587,7 +1587,7 @@ fágaimis
 </table>
 ++++
 
-*{Note}*: {Table5K-note}
+*{Nóta}*: {Table5K-note}
 
 === 5.3.2 {5-3-2-title}
 
@@ -1595,7 +1595,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5L</strong> {Table5L-caption}
+    <strong>{Tábla} 5L</strong> {Table5L-caption}
   </caption>
   <tbody>
     <tr>
@@ -1630,7 +1630,7 @@ fágaimis
             <tr><td>ceanglaímid</td><td>cheanglaíomar</td><td>cheanglaímis</td><td>ceanglóimid</td></tr>
             <tr><td>ceanglaíonn sibh</td><td>cheangail sibh</td><td>cheanglaíodh sibh</td><td>ceanglóidh sibh</td></tr>
             <tr><td>ceanglaíonn siad</td><td>cheangail siad</td><td>cheanglaídís</td><td>ceanglóidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> ceanglaítear</td><td><em>{abbrev-autonomous}</em> ceanglaíodh</td><td><em>{abbrev-autonomous}</em> cheanglaítí</td><td><em>{abbrev-autonomous}</em> ceanglófar</td></tr>
+            <tr><td><em>{nod-sb}</em> ceanglaítear</td><td><em>{nod-sb}</em> ceanglaíodh</td><td><em>{nod-sb}</em> cheanglaítí</td><td><em>{nod-sb}</em> ceanglófar</td></tr>
           </tbody>
         </table>
       </td>
@@ -1657,7 +1657,7 @@ fágaimis
             <tr><td>cheanglóimis</td><td>go gceanglaímid</td><td>ceanglaímis</td></tr>
             <tr><td>cheanglódh sibh</td><td>go gceanglaí sibh</td><td>ceanglaígí</td></tr>
             <tr><td>cheanglóidís</td><td>go gceanglaí siad</td><td>ceanglaídís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> cheanglófaí</td><td><em>{abbrev-autonomous}</em> go gceanglaítear</td><td><em>{abbrev-autonomous}</em> ceanglaítear</td></tr>
+            <tr><td><em>{nod-sb}</em> cheanglófaí</td><td><em>{nod-sb}</em> go gceanglaítear</td><td><em>{nod-sb}</em> ceanglaítear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1692,7 +1692,7 @@ fágaimis
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5M</strong> {Table5M-caption}
+    <strong>{Tábla} 5M</strong> {Table5M-caption}
   </caption>
   <tbody>
     <tr>
@@ -1727,7 +1727,7 @@ fágaimis
             <tr><td>díbrímid</td><td>dhíbríomar</td><td>dhíbrímis</td><td>díbreoimid</td></tr>
             <tr><td>díbríonn sibh</td><td>dhíbir sibh</td><td>dhíbríodh sibh</td><td>díbreoidh sibh</td></tr>
             <tr><td>díbríonn siad</td><td>dhíbir siad</td><td>dhíbrídís</td><td>díbreoidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> díbrítear</td><td><em>{abbrev-autonomous}</em> díbríodh</td><td><em>{abbrev-autonomous}</em> dhíbrítí</td><td><em>{abbrev-autonomous}</em> díbreofar</td></tr>
+            <tr><td><em>{nod-sb}</em> díbrítear</td><td><em>{nod-sb}</em> díbríodh</td><td><em>{nod-sb}</em> dhíbrítí</td><td><em>{nod-sb}</em> díbreofar</td></tr>
           </tbody>
         </table>
       </td>
@@ -1754,7 +1754,7 @@ fágaimis
             <tr><td>dhíbreoimis</td><td>go ndíbrímid</td><td>díbrímis</td></tr>
             <tr><td>dhíbreodh sibh</td><td>go ndíbrí sibh</td><td>díbrígí</td></tr>
             <tr><td>dhíbreoidís</td><td>go ndíbrí siad</td><td>díbrídís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> dhíbreofaí</td><td><em>{abbrev-autonomous}</em> go ndíbrítear</td><td><em>{abbrev-autonomous}</em> díbrítear</td></tr>
+            <tr><td><em>{nod-sb}</em> dhíbreofaí</td><td><em>{nod-sb}</em> go ndíbrítear</td><td><em>{nod-sb}</em> díbrítear</td></tr>
           </tbody>
         </table>
       </td>
@@ -1944,7 +1944,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5N</strong> {Table5N-caption}
+    <strong>{Tábla} 5N</strong> {Table5N-caption}
   </caption>
   <tbody>
     <tr>
@@ -1979,7 +1979,7 @@ endif::[]
             <tr><td>deirimid</td><td>dúramar</td><td>deirimis</td><td>déarfaimid</td></tr>
             <tr><td>deir sibh</td><td>dúirt sibh</td><td>deireadh sibh</td><td>déarfaidh sibh</td></tr>
             <tr><td>deir siad</td><td>dúirt siad</td><td>deiridís</td><td>déarfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> deirtear</td><td><em>{abbrev-autonomous}</em> dúradh</td><td><em>{abbrev-autonomous}</em> deirtí</td><td><em>{abbrev-autonomous}</em> déarfar</td></tr>
+            <tr><td><em>{nod-sb}</em> deirtear</td><td><em>{nod-sb}</em> dúradh</td><td><em>{nod-sb}</em> deirtí</td><td><em>{nod-sb}</em> déarfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -2006,7 +2006,7 @@ endif::[]
             <tr><td>déarfaimis</td><td>go ndeirimid</td><td>abraimis</td></tr>
             <tr><td>déarfadh sibh</td><td>go ndeire sibh</td><td>abraigí</td></tr>
             <tr><td>déarfaidís</td><td>go ndeire siad</td><td>abraidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> déarfaí</td><td><em>{abbrev-autonomous}</em> go ndeirtear</td><td><em>{abbrev-autonomous}</em> abraítear</td></tr>
+            <tr><td><em>{nod-sb}</em> déarfaí</td><td><em>{nod-sb}</em> go ndeirtear</td><td><em>{nod-sb}</em> abraítear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2037,13 +2037,13 @@ endif::[]
 </table>
 ++++
 
-*{Note}*: {Table5N-Note}
+*{Nóta}*: {Table5N-Note}
 
 [subs="attributes,replacements,macros"]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5O</strong> {Table5O-caption}
+    <strong>{Tábla} 5O</strong> {Table5O-caption}
   </caption>
   <tbody>
     <tr>
@@ -2078,7 +2078,7 @@ endif::[]
             <tr><td>beirimid</td><td>rugamar</td><td>bheirimis</td><td>béarfaimid</td></tr>
             <tr><td>beireann sibh</td><td>rug sibh</td><td>bheireadh sibh</td><td>béarfaidh sibh</td></tr>
             <tr><td>beireann siad</td><td>rug siad</td><td>bheiridís</td><td>béarfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> beirtear</td><td><em>{abbrev-autonomous}</em> rugadh</td><td><em>{abbrev-autonomous}</em> bheirtí</td><td><em>{abbrev-autonomous}</em> béarfar</td></tr>
+            <tr><td><em>{nod-sb}</em> beirtear</td><td><em>{nod-sb}</em> rugadh</td><td><em>{nod-sb}</em> bheirtí</td><td><em>{nod-sb}</em> béarfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -2105,7 +2105,7 @@ endif::[]
             <tr><td>bhéarfaimis</td><td>go mbeirimid</td><td>beirimis</td></tr>
             <tr><td>bhéarfadh sibh</td><td>go mbeire sibh</td><td>beirigí</td></tr>
             <tr><td>bhéarfaidís</td><td>go mbeire siad</td><td>beiridís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> bhéarfaí</td><td><em>{abbrev-autonomous}</em> go mbeirtear</td><td><em>{abbrev-autonomous}</em> beirtear</td></tr>
+            <tr><td><em>{nod-sb}</em> bhéarfaí</td><td><em>{nod-sb}</em> go mbeirtear</td><td><em>{nod-sb}</em> beirtear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2140,7 +2140,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5P</strong> {Table5P-caption}
+    <strong>{Tábla} 5P</strong> {Table5P-caption}
   </caption>
   <tbody>
     <tr>
@@ -2207,10 +2207,10 @@ endif::[]
                     <td>bíonn siad</td>
                   </tr>
                   <tr>
-                    <td><em>{abbrev-autonomous}</em> táthar</td>
-                    <td><em>{abbrev-autonomous}</em> níltear</td>
-                    <td><em>{abbrev-autonomous}</em> go bhfuiltear</td>
-                    <td><em>{abbrev-autonomous}</em> bítear</td>
+                    <td><em>{nod-sb}</em> táthar</td>
+                    <td><em>{nod-sb}</em> níltear</td>
+                    <td><em>{nod-sb}</em> go bhfuiltear</td>
+                    <td><em>{nod-sb}</em> bítear</td>
                   </tr>
                 </tbody>
                 </table>
@@ -2269,10 +2269,10 @@ endif::[]
                     <td>beidh siad</td>
                   </tr>
                   <tr>
-                    <td><em>{abbrev-autonomous}</em> bhíothas</td>
-                    <td><em>{abbrev-autonomous}</em> ní rabhthas</td>
-                    <td><em>{abbrev-autonomous}</em> bhítí</td>
-                    <td><em>{abbrev-autonomous}</em> beifear</td>
+                    <td><em>{nod-sb}</em> bhíothas</td>
+                    <td><em>{nod-sb}</em> ní rabhthas</td>
+                    <td><em>{nod-sb}</em> bhítí</td>
+                    <td><em>{nod-sb}</em> beifear</td>
                   </tr>
                 </tbody>
                 </table>
@@ -2304,7 +2304,7 @@ endif::[]
             <tr><td>bheimis</td><td>go rabhaimid</td><td>bímis</td></tr>
             <tr><td>bheadh sibh</td><td>go raibh sibh</td><td>bígí</td></tr>
             <tr><td>bheidís</td><td>go raibh siad</td><td>bídís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> bheifí</td><td><em>{abbrev-autonomous}</em> go rabhthar</td><td><em>{abbrev-autonomous}</em> bítear</td></tr>
+            <tr><td><em>{nod-sb}</em> bheifí</td><td><em>{nod-sb}</em> go rabhthar</td><td><em>{nod-sb}</em> bítear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2335,7 +2335,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5Q</strong> {Table5Q-caption}
+    <strong>{Tábla} 5Q</strong> {Table5Q-caption}
   </caption>
   <tbody>
     <tr>
@@ -2370,7 +2370,7 @@ endif::[]
             <tr><td>cloisimid/cluinimid</td><td>chualamar</td><td>chloisimis/chluinimis</td><td>cloisfimid/cluinfimid</td></tr>
             <tr><td>cloiseann/cluineann sibh</td><td>chuala sibh</td><td>chloiseadh/chluineadh sibh</td><td>cloisfidh/cluinfidh sibh</td></tr>
             <tr><td>cloiseann/cluineann siad</td><td>chuala siad</td><td>chloisidís/chluinidís</td><td>cloisfidh/cluinfidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> cloistear/cluintear</td><td><em>{abbrev-autonomous}</em> chualathas</td><td><em>{abbrev-autonomous}</em> chloistí/chluintí</td><td><em>{abbrev-autonomous}</em> cloisfear/cluinfear</td></tr>
+            <tr><td><em>{nod-sb}</em> cloistear/cluintear</td><td><em>{nod-sb}</em> chualathas</td><td><em>{nod-sb}</em> chloistí/chluintí</td><td><em>{nod-sb}</em> cloisfear/cluinfear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2397,7 +2397,7 @@ endif::[]
             <tr><td>chloisfimis/chluinfimis</td><td>go gcloisimid/go gcluinimid</td><td>cloisimis/cluinimis</td></tr>
             <tr><td>chloisfeadh/chluinfeadh sibh</td><td>go gcloise/go gcluine sibh</td><td>cloisigí/cluinigí</td></tr>
             <tr><td>chloisfidís/chluinfidís</td><td>go gcloise/go gcluine siad</td><td>cloisidís/cluinidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> chloisfí/chluinfí</td><td><em>{abbrev-autonomous}</em> go gcloistear/go gcluintear</td><td><em>{abbrev-autonomous}</em> cloistear/cluintear</td></tr>
+            <tr><td><em>{nod-sb}</em> chloisfí/chluinfí</td><td><em>{nod-sb}</em> go gcloistear/go gcluintear</td><td><em>{nod-sb}</em> cloistear/cluintear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2432,7 +2432,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5R</strong> {Table5R-caption}
+    <strong>{Tábla} 5R</strong> {Table5R-caption}
   </caption>
   <tbody>
     <tr>
@@ -2508,11 +2508,11 @@ endif::[]
               <td>déanfaidh siad</td>
             </tr>
             <tr>
-              <td><em>{abbrev-autonomous}</em> déantar</td>
-              <td><em>{abbrev-autonomous}</em> rinneadh/deineadh</td>
-              <td><em>{abbrev-autonomous}</em> ní dhearnadh/níor deineadh</td>
-              <td><em>{abbrev-autonomous}</em> dhéantaí</td>
-              <td><em>{abbrev-autonomous}</em> déanfar</td>
+              <td><em>{nod-sb}</em> déantar</td>
+              <td><em>{nod-sb}</em> rinneadh/deineadh</td>
+              <td><em>{nod-sb}</em> ní dhearnadh/níor deineadh</td>
+              <td><em>{nod-sb}</em> dhéantaí</td>
+              <td><em>{nod-sb}</em> déanfar</td>
             </tr>
           </tbody>
         </table>
@@ -2540,7 +2540,7 @@ endif::[]
             <tr><td>dhéanfaimis</td><td>go ndéanaimid</td><td>déanaimis</td></tr>
             <tr><td>dhéanfadh sibh</td><td>go ndéana sibh</td><td>déanaigí</td></tr>
             <tr><td>dhéanfaidís</td><td>go ndéana siad</td><td>déanaidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> dhéanfaí</td><td><em>{abbrev-autonomous}</em> go ndéantar</td><td><em>{abbrev-autonomous}</em> déanta</td></tr>
+            <tr><td><em>{nod-sb}</em> dhéanfaí</td><td><em>{nod-sb}</em> go ndéantar</td><td><em>{nod-sb}</em> déanta</td></tr>
           </tbody>
         </table>
       </td>
@@ -2570,13 +2570,13 @@ endif::[]
   </tbody>
 </table>
 ++++
-*{Note}*: {Table5R-Note}
+*{Nóta}*: {Table5R-Note}
 
 [subs="attributes,replacements,macros"]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5S</strong> {Table5S-caption}
+    <strong>{Tábla} 5S</strong> {Table5S-caption}
   </caption>
   <tbody>
     <tr>
@@ -2652,11 +2652,11 @@ endif::[]
               <td>ní bhfaighidh siad</td>
             </tr>
             <tr>
-              <td><em>{abbrev-autonomous}</em> faightear</td>
-              <td><em>{abbrev-autonomous}</em> fuarthas</td>
-              <td><em>{abbrev-autonomous}</em> d'fhaightí</td>
-              <td><em>{abbrev-autonomous}</em> gheofar</td>
-              <td><em>{abbrev-autonomous}</em> ní bhfaighfear</td>
+              <td><em>{nod-sb}</em> faightear</td>
+              <td><em>{nod-sb}</em> fuarthas</td>
+              <td><em>{nod-sb}</em> d'fhaightí</td>
+              <td><em>{nod-sb}</em> gheofar</td>
+              <td><em>{nod-sb}</em> ní bhfaighfear</td>
             </tr>
           </tbody>
         </table>
@@ -2688,7 +2688,7 @@ endif::[]
             <tr><td>gheobhaimis</td><td>ní bhfaighimis</td><td>go bhfaighimid</td><td>faighimis</td></tr>
             <tr><td>gheobhadh sibh</td><td>ní bhfaigheadh sibh</td><td>go bhfaighe sibh</td><td>faighigí</td></tr>
             <tr><td>gheobhaidís</td><td>ní bhfaighidís</td><td>go bhfaighe siad</td><td>faighidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> gheofaí</td><td><em>{abbrev-autonomous}</em> ní bhfaighfí</td><td><em>{abbrev-autonomous}</em> go bhfaightear</td><td><em>{abbrev-autonomous}</em> faightear</td></tr>
+            <tr><td><em>{nod-sb}</em> gheofaí</td><td><em>{nod-sb}</em> ní bhfaighfí</td><td><em>{nod-sb}</em> go bhfaightear</td><td><em>{nod-sb}</em> faightear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2723,7 +2723,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5T</strong> {Table5T-caption}
+    <strong>{Tábla} 5T</strong> {Table5T-caption}
   </caption>
   <tbody>
     <tr>
@@ -2799,11 +2799,11 @@ endif::[]
               <td>feicfidh siad</td>
             </tr>
             <tr>
-              <td><em>{abbrev-autonomous}</em> feictear</td>
-              <td><em>{abbrev-autonomous}</em> chonacthas</td>
-              <td><em>{abbrev-autonomous}</em> ní fhacthas</td>
-              <td><em>{abbrev-autonomous}</em> d'fheictí</td>
-              <td><em>{abbrev-autonomous}</em> feicfear</td>
+              <td><em>{nod-sb}</em> feictear</td>
+              <td><em>{nod-sb}</em> chonacthas</td>
+              <td><em>{nod-sb}</em> ní fhacthas</td>
+              <td><em>{nod-sb}</em> d'fheictí</td>
+              <td><em>{nod-sb}</em> feicfear</td>
             </tr>
           </tbody>
         </table>
@@ -2831,7 +2831,7 @@ endif::[]
             <tr><td>d'fheicfimis</td><td>go bhfeicimid</td><td>feicimis</td></tr>
             <tr><td>d'fheicfeadh sibh</td><td>go bhfeice sibh</td><td>feicigí</td></tr>
             <tr><td>d'fheicfidís</td><td>go bhfeice siad</td><td>feicidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> d'fheicfí</td><td><em>{abbrev-autonomous}</em> go bhfeictear</td><td><em>{abbrev-autonomous}</em> feictear</td></tr>
+            <tr><td><em>{nod-sb}</em> d'fheicfí</td><td><em>{nod-sb}</em> go bhfeictear</td><td><em>{nod-sb}</em> feictear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2862,13 +2862,13 @@ endif::[]
 </table>
 ++++
 
-*{Note}*: {Table5T-Note}
+*{Nóta}*: {Table5T-Note}
 
 [subs="attributes,replacements,macros"]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5U</strong> {Table5U-caption}
+    <strong>{Tábla} 5U</strong> {Table5U-caption}
   </caption>
   <tbody>
     <tr>
@@ -2903,7 +2903,7 @@ endif::[]
             <tr><td>ithimid</td><td>d'itheamar</td><td>d'ithimis</td><td>íosfaimid</td></tr>
             <tr><td>itheann sibh</td><td>d'ith sibh</td><td>d'itheadh sibh</td><td>íosfaidh sibh</td></tr>
             <tr><td>itheann siad</td><td>d'ith siad</td><td>d'ithidís</td><td>íosfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> itear</td><td><em>{abbrev-autonomous}</em> itheadh</td><td><em>{abbrev-autonomous}</em> d'ití</td><td><em>{abbrev-autonomous}</em> íosfar</td></tr>
+            <tr><td><em>{nod-sb}</em> itear</td><td><em>{nod-sb}</em> itheadh</td><td><em>{nod-sb}</em> d'ití</td><td><em>{nod-sb}</em> íosfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -2930,7 +2930,7 @@ endif::[]
             <tr><td>d'íosfaimis</td><td>go n-ithimid</td><td>ithimis</td></tr>
             <tr><td>d'íosfadh sibh</td><td>go n-ithe sibh</td><td>ithigí</td></tr>
             <tr><td>d'íosfaidís</td><td>go n-ithe siad</td><td>ithidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> d'íosfaí</td><td><em>{abbrev-autonomous}</em> go n-itear</td><td><em>{abbrev-autonomous}</em> itear</td></tr>
+            <tr><td><em>{nod-sb}</em> d'íosfaí</td><td><em>{nod-sb}</em> go n-itear</td><td><em>{nod-sb}</em> itear</td></tr>
           </tbody>
         </table>
       </td>
@@ -2960,13 +2960,13 @@ endif::[]
   </tbody>
 </table>
 ++++
-*{Note}*: {Table5U-Note}
+*{Nóta}*: {Table5U-Note}
 
 [subs="attributes,replacements,macros"]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5V</strong> {Table5V-caption}
+    <strong>{Tábla} 5V</strong> {Table5V-caption}
   </caption>
   <tbody>
     <tr>
@@ -3001,7 +3001,7 @@ endif::[]
             <tr><td>tugaimid</td><td>thugamar</td><td>thugaimis</td><td>tabharfaimid</td></tr>
             <tr><td>tugann sibh</td><td>thug sibh</td><td>thugadh sibh</td><td>tabharfaidh sibh</td></tr>
             <tr><td>tugann siad</td><td>thug siad</td><td>thugaidís</td><td>tabharfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> tugtar</td><td><em>{abbrev-autonomous}</em> tugadh</td><td><em>{abbrev-autonomous}</em> thugtaí</td><td><em>{abbrev-autonomous}</em> tabharfar</td></tr>
+            <tr><td><em>{nod-sb}</em> tugtar</td><td><em>{nod-sb}</em> tugadh</td><td><em>{nod-sb}</em> thugtaí</td><td><em>{nod-sb}</em> tabharfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -3028,7 +3028,7 @@ endif::[]
             <tr><td>thabharfaimis</td><td>go dtugaimid</td><td>tugaimis</td></tr>
             <tr><td>thabharfadh sibh</td><td>go dtuga sibh</td><td>tugaigí</td></tr>
             <tr><td>thabharfaidís</td><td>go dtuga siad</td><td>tugaidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> thabharfaí</td><td><em>{abbrev-autonomous}</em> go dtugtar</td><td><em>{abbrev-autonomous}</em> tugtar</td></tr>
+            <tr><td><em>{nod-sb}</em> thabharfaí</td><td><em>{nod-sb}</em> go dtugtar</td><td><em>{nod-sb}</em> tugtar</td></tr>
           </tbody>
         </table>
       </td>
@@ -3063,7 +3063,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5W</strong> {Table5W-caption}
+    <strong>{Tábla} 5W</strong> {Table5W-caption}
   </caption>
   <tbody>
     <tr>
@@ -3098,7 +3098,7 @@ endif::[]
             <tr><td>tagaimid</td><td>thángamar</td><td>thagaimis</td><td>tiocfaimid</td></tr>
             <tr><td>tagann sibh</td><td>tháinig sibh</td><td>thagadh sibh</td><td>tiocfaidh sibh</td></tr>
             <tr><td>tagann siad</td><td>tháinig siad</td><td>thagaidís</td><td>tiocfaidh siad</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> tagtar</td><td><em>{abbrev-autonomous}</em> thángthas</td><td><em>{abbrev-autonomous}</em> thagtaí</td><td><em>{abbrev-autonomous}</em> tiocfar</td></tr>
+            <tr><td><em>{nod-sb}</em> tagtar</td><td><em>{nod-sb}</em> thángthas</td><td><em>{nod-sb}</em> thagtaí</td><td><em>{nod-sb}</em> tiocfar</td></tr>
           </tbody>
         </table>
       </td>
@@ -3125,7 +3125,7 @@ endif::[]
             <tr><td>thiocfaimis</td><td>go dtagaimid</td><td>tagaimis</td></tr>
             <tr><td>thiocfadh sibh</td><td>go dtaga sibh</td><td>tagaigí</td></tr>
             <tr><td>thiocfaidís</td><td>go dtaga siad</td><td>tagaidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> thiocfaí</td><td><em>{abbrev-autonomous}</em> go dtagtar</td><td><em>{abbrev-autonomous}</em> tagtar</td></tr>
+            <tr><td><em>{nod-sb}</em> thiocfaí</td><td><em>{nod-sb}</em> go dtagtar</td><td><em>{nod-sb}</em> tagtar</td></tr>
           </tbody>
         </table>
       </td>
@@ -3160,7 +3160,7 @@ endif::[]
 ++++
 <table class="verb-table w-full">
   <caption>
-    <strong>{Table} 5X</strong> {Table5X-caption}
+    <strong>{Tábla} 5X</strong> {Table5X-caption}
   </caption>
   <tbody>
     <tr>
@@ -3267,7 +3267,7 @@ endif::[]
             <tr><td>rachaimis</td><td>go dtéimid</td><td>téimis</td></tr>
             <tr><td>rachadh sibh</td><td>go dté sibh</td><td>téigí</td></tr>
             <tr><td>rachaidís</td><td>go dté siad</td><td>téidís</td></tr>
-            <tr><td><em>{abbrev-autonomous}</em> rachfaí</td><td><em>{abbrev-autonomous}</em> go dtéitear</td><td><em>{abbrev-autonomous}</em> téitear</td></tr>
+            <tr><td><em>{nod-sb}</em> rachfaí</td><td><em>{nod-sb}</em> go dtéitear</td><td><em>{nod-sb}</em> téitear</td></tr>
           </tbody>
         </table>
       </td>
@@ -3306,7 +3306,7 @@ endif::[]
 
 {5-5-1-p}
 
-.*{Table} 5Y*  {Table5Y-caption}
+.*{Tábla} 5Y*  {Table5Y-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5Y-col2}
@@ -3331,7 +3331,7 @@ endif::[]
 
 {5-5-2-p}
 
-.*{Table} 5Z*  {Table5Z-caption}
+.*{Tábla} 5Z*  {Table5Z-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5Y-col2}
@@ -3358,7 +3358,7 @@ endif::[]
 [list-[lower-alpha]]
 . {5-6-1-a-p}
 +
-.*{Table} 5AA*  {Table5AA-caption}
+.*{Tábla} 5AA*  {Table5AA-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
@@ -3405,13 +3405,13 @@ a| . práta bruite
 . dorn druidte
 |===
 +
-*{Note}*: {Table5AA-Note}
+*{Nóta}*: {Table5AA-Note}
 +
 . {5-6-1-b-p}
 [list-[lower-roman]]
 .. {5-6-1-b-i-p}
 +
-.*{Table} 5BB*  {Table5BB-caption}
+.*{Tábla} 5BB*  {Table5BB-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
@@ -3441,7 +3441,7 @@ a| . práta bruite
 +
 .. {5-6-1-b-ii-p}
 +
-.*{Table} 5CC*  {Table5CC-caption}
+.*{Tábla} 5CC*  {Table5CC-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
@@ -3463,11 +3463,11 @@ a| . práta bruite
 . port feadaíola
 |===
 +
-*{Note}*: {Table5CC-Note}
+*{Nóta}*: {Table5CC-Note}
 +
 .. {5-6-1-b-iii-p}
 +
-.*{Table} 5DD*  {Table5DD-caption}
+.*{Tábla} 5DD*  {Table5DD-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5AA-col2} |{Table5AA-col3}
@@ -3479,7 +3479,7 @@ a| . práta bruite
 +
 . {5-6-1-c-p}
 +
-.*{Table} 5EE*  {Table5EE-caption}
+.*{Tábla} 5EE*  {Table5EE-caption}
 [.chapter-5]
 |===
 |{Trait} |{Table5AA-col2} |{Table5EE-col3}
@@ -3533,7 +3533,7 @@ a| . práta bruite
 ... {5-6-1-c-i-p}
 ... {5-6-1-c-ii-p}
 +
-.*{Table} 5FF*  {Table5FF-caption}
+.*{Tábla} 5FF*  {Table5FF-caption}
 [.chapter-5]
 |===
 |{Table5FF-Col1} |{Table5FF-col2} |{Table5FF-col3}

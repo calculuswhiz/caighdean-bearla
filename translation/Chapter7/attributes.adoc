@@ -1,5 +1,5 @@
-:ChapterTitle_ga: An Chopail
-:ChapterTitle_en: The Copula
+:teidealNaCaibidle_ga: An Chopail
+:teidealNaCaibidle_en: The Copula
 
 :7-1-title_ga: Ginearálta
 :7-1-title_en: General

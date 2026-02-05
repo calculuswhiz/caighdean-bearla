@@ -1,4 +1,4 @@
-= Chapter 10 | {chapterTitle}
+= Chapter 10 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -257,7 +257,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {10-2-5-note-p}
+*{Nóta}:* {10-2-5-note-p}
 
 . {10-2-5-b-p1}
 +
@@ -407,7 +407,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-*{Note}:* {10-2-5-e-note-p}
+*{Nóta}:* {10-2-5-e-note-p}
 
 ==== 10.2.6 {10-2-6-title}
 
@@ -461,7 +461,7 @@ endif::[]
 
 {10-2-7-p2}
 
-*{Note}:* {10-2-7-note-p}
+*{Nóta}:* {10-2-7-note-p}
 
 [list-[lower-alpha]]
 . {10-2-7-a-p}
@@ -782,7 +782,7 @@ endif::[]
 
 {10-2-8-p2}
 
-*{Note}:* {10-2-8-note-p}
+*{Nóta}:* {10-2-8-note-p}
 
 [list-[lower-alpha]]
 . {10-2-8-a-p}
@@ -1144,7 +1144,7 @@ ifdef::isGa[]
 |===
 endif::[]
 
-*{Note}:* {10-2-12-note-p}
+*{Nóta}:* {10-2-12-note-p}
 
 ==== 10.2.13 {10-2-13-title}
 
@@ -2674,7 +2674,7 @@ endif::[]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10A</strong> {Table10A-caption}
+    <strong>{Tábla} 10A</strong> {Table10A-caption}
   </caption>
   <thead>
     <tr>
@@ -2796,7 +2796,7 @@ endif::[]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10B</strong> {Table10B-caption}
+    <strong>{Tábla} 10B</strong> {Table10B-caption}
   </caption>
   <thead>
     <tr>
@@ -2860,7 +2860,7 @@ endif::[]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10C</strong> {Table10C-caption}
+    <strong>{Tábla} 10C</strong> {Table10C-caption}
   </caption>
   <thead>
     <tr>
@@ -2886,7 +2886,7 @@ endif::[]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10D</strong> {Table10D-caption}
+    <strong>{Tábla} 10D</strong> {Table10D-caption}
   </caption>
   <thead>
     <tr>
@@ -2912,7 +2912,7 @@ endif::[]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10E</strong> {Table10E-caption}
+    <strong>{Tábla} 10E</strong> {Table10E-caption}
   </caption>
   <thead>
     <tr>
@@ -3010,7 +3010,7 @@ endif::[]
 ++++
 <table class="chapter-10">
   <caption>
-    <strong>{Table} 10F</strong> {Table10F-caption}
+    <strong>{Tábla} 10F</strong> {Table10F-caption}
   </caption>
   <thead>
     <tr>

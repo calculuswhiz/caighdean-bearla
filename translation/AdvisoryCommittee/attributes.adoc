@@ -1,10 +1,8 @@
-:AdvisoryCommitteeTitle_ga: Comhaltaí an Choiste Chomhairligh
-:AdvisoryCommitteeTitle_en: Members of the Advisory Committee
+:ChoisteChomhairligh_ga: Comhaltaí an Choiste Chomhairligh
+:ChoisteChomhairligh_en: Members of the Advisory Committee
 
-:Chairman_ga: Cathaoirleach
-:Chairman_en: Chairman
-
-// TODO Check org names
+:Cathaoirleach_ga: Cathaoirleach
+:Cathaoirleach_en: Chairman
 
 :name1-line1_ga: iarEagarthóir ar Fhoclóir Stairiúil na Nua-Ghaeilge,
 :name1-line1_en: Former Editor of the Historical Dictionary of Modern Irish,

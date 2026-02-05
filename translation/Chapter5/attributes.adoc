@@ -38,8 +38,8 @@
 
 // Normal chapter stuff
 
-:chapterTitle_ga: An Briathar
-:chapterTitle_en: The Verb
+:teidealNaCaibidle_ga: An Briathar
+:teidealNaCaibidle_en: The Verb
 
 :5-1-title_ga: Na Briathra Rialta
 :5-1-title_en: The Regular Verbs

@@ -1,8 +1,8 @@
-= {Chapter} 1 | {chapterTitle}
+= {Caibidil} 1 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
-== 1.1 {General}
+== 1.1 {Ginearálta}
 
 === 1.1.1
 
@@ -410,7 +410,7 @@ endif::[]
 ++++
 <table class="w-full top-level-table">
   <caption>
-    <strong>{Table} 1A</strong> {Table1A-caption}
+    <strong>{Tábla} 1A</strong> {Table1A-caption}
   </caption>
   <tbody>
       <!-- Top half -->
@@ -425,7 +425,7 @@ endif::[]
             </colgroup>
             <thead>
               <tr>
-                <th colspan=5 class="text-2xl">{Masculine}</th>
+                <th colspan=5 class="text-2xl">{Firinscneach}</th>
               </tr>
               <tr>
                 <th colspan=2>{ArticleTable-col1-th}</th>
@@ -436,7 +436,7 @@ endif::[]
             </thead>
             <tbody>
               <tr>
-                <th class="bg-stone-300">{Consonant}</th>
+                <th class="bg-stone-300">{Consan}</th>
                 <td>{gachConsan}</td>
                 <td>an</td>
                 <td>{ganAonAthru}</td>
@@ -452,7 +452,7 @@ endif::[]
                 </td>
               </tr>
               <tr>
-                <th class="bg-stone-300">{Vowel}</th>
+                <th class="bg-stone-300">{Guta}</th>
                 <td>{gachGuta}</td>
                 <td>an</td>
                 <td>{tRoimhe}</td>
@@ -482,7 +482,7 @@ endif::[]
             </colgroup>
             <thead>
               <tr>
-                <th colspan=5 class="text-2xl">{Feminine}</th>
+                <th colspan=5 class="text-2xl">{Baininscneach}</th>
               </tr>
               <tr>
                 <th colspan=2>{ArticleTable-col1-th}</th>
@@ -493,7 +493,7 @@ endif::[]
             </thead>
             <tbody>
               <tr>
-                <th rowspan=3 class="bg-stone-300">{Consonant}</th>
+                <th rowspan=3 class="bg-stone-300">{Consan}</th>
                 <td>{consanInséimhitheSeachasDTS}</td>
                 <td>an</td>
                 <td>{séimhiú}</td>
@@ -527,7 +527,7 @@ endif::[]
                 </td>
               </tr>
               <tr>
-                <th class="bg-stone-300">{Vowel}</th>
+                <th class="bg-stone-300">{Guta}</th>
                 <td>{gachGuta}</td>
                 <td>an</td>
                 <td>{ganAonAthru}</td>
@@ -603,15 +603,15 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1B</strong> {1-4-title} &mdash; {Table1B-caption}
+    <strong>{Tábla} 1B</strong> {1-4-title} &mdash; {Table1B-caption}
   </caption>
   <thead>
     <tr>
       <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1B-caption}</th>
     </tr>
     <tr>
-      <th class="py-2">{Masculine}</th>
-      <th class="py-2">{Feminine}</th>
+      <th class="py-2">{Firinscneach}</th>
+      <th class="py-2">{Baininscneach}</th>
     </tr>
   </thead>
   <tbody>
@@ -699,7 +699,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1C</strong> {1-4-title} &mdash; {Table1C-caption}
+    <strong>{Tábla} 1C</strong> {1-4-title} &mdash; {Table1C-caption}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -710,12 +710,12 @@ endif::[]
       <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1C-caption}</th>
     </tr>
     <tr>
-      <th class="py-2">{Masculine}</th>
-      <th class="py-2">{Feminine}</th>
+      <th class="py-2">{Firinscneach}</th>
+      <th class="py-2">{Baininscneach}</th>
     </tr>
     <tr>
       <th class="text-center bg-stone-300">
-        <strong>{NoChange}</strong>
+        <strong>{GanAthrú}</strong>
       </th>
       <th class="text-center bg-stone-300">
         <strong>{Table1C-col2-subheader}</strong>
@@ -795,15 +795,15 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1D</strong> {1-4-title} &mdash; {Table1D-caption}
+    <strong>{Tábla} 1D</strong> {1-4-title} &mdash; {Table1D-caption}
   </caption>
   <thead>
     <tr>
       <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1D-caption}</th>
     </tr>
     <tr>
-      <th class="py-2">{Masculine}</th>
-      <th class="py-2">{Feminine}</th>
+      <th class="py-2">{Firinscneach}</th>
+      <th class="py-2">{Baininscneach}</th>
     </tr>
   </thead>
   <tbody>
@@ -847,15 +847,15 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1E</strong> {1-4-title} &mdash; {Table1E-caption}
+    <strong>{Tábla} 1E</strong> {1-4-title} &mdash; {Table1E-caption}
   </caption>
   <thead>
     <tr>
       <th colspan=2 class="text-2xl px-4 py-2">{CoreSystem} &mdash; {Table1E-caption}</th>
     </tr>
     <tr>
-      <th class="py-2">{Masculine}</th>
-      <th class="py-2">{Feminine}</th>
+      <th class="py-2">{Firinscneach}</th>
+      <th class="py-2">{Baininscneach}</th>
     </tr>
   </thead>
   <tbody>
@@ -1021,7 +1021,7 @@ endif::[]
 ++++
 <table class="w-full top-level-table">
   <caption>
-    <strong>{Table} 1F</strong> {Table1F-caption}
+    <strong>{Tábla} 1F</strong> {Table1F-caption}
   </caption>
   <tbody>
     <tr>
@@ -1035,7 +1035,7 @@ endif::[]
           </colgroup>
           <thead>
             <tr>
-              <th colspan=5 class="text-2xl px-4 py-2">{Masculine}</th>
+              <th colspan=5 class="text-2xl px-4 py-2">{Firinscneach}</th>
             </tr>
             <tr>
               <th colspan=2>{ArticleTable-col1-th}</th>
@@ -1046,7 +1046,7 @@ endif::[]
           </thead>
           <tbody>
             <tr>
-              <th rowspan=3 class="bg-stone-300">{Consonant}</th>
+              <th rowspan=3 class="bg-stone-300">{Consan}</th>
               <td>{consanInséimhitheSeachasDTS}</td>
               <td>an</td>
               <td>{séimhiú}</td>
@@ -1080,7 +1080,7 @@ endif::[]
               </td>
             </tr>
             <tr>
-              <th class="bg-stone-300">{Vowel}</th>
+              <th class="bg-stone-300">{Guta}</th>
               <td>{gachGuta}</td>
               <td>an</td>
               <td>{ganAonAthru}</td>
@@ -1108,7 +1108,7 @@ endif::[]
           </colgroup>
           <thead>
             <tr>
-              <th colspan=5 class="text-2xl px-4 py-2">{Feminine}</th>
+              <th colspan=5 class="text-2xl px-4 py-2">{Baininscneach}</th>
             </tr>
             <tr>
               <th colspan=2>{ArticleTable-col1-th}</th>
@@ -1119,7 +1119,7 @@ endif::[]
             </head>
           <tbody>
             <tr>
-              <th class="bg-stone-300">{Consonant}</th>
+              <th class="bg-stone-300">{Consan}</th>
               <td>{gachConsan}</td>
               <td>na</td>
               <td>{ganAonAthru}</td>
@@ -1133,7 +1133,7 @@ endif::[]
               </td>
             </tr>
             <tr>
-              <th class="bg-stone-300">{Vowel}</th>
+              <th class="bg-stone-300">{Guta}</th>
               <td>{gachGuta}</td>
               <td>na</td>
               <td>{hRoimhe}</td>
@@ -1170,7 +1170,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1G</strong> {Table1G-caption}
+    <strong>{Tábla} 1G</strong> {Table1G-caption}
   </caption>
   <colgroup>
     <col class="w-2/12">
@@ -1179,7 +1179,7 @@ endif::[]
   </colgroup>
   <thead>
     <tr>
-      <th colspan=4 class="text-2xl px-4 py-2">{MascAndFem}</th>
+      <th colspan=4 class="text-2xl px-4 py-2">{FirAgusBain}</th>
     </tr>
     <tr>
       <th>{ArticleTable-col1-th}</th>
@@ -1190,7 +1190,7 @@ endif::[]
   </thead>
   <tbody>
     <tr>
-      <th class="bg-stone-300">{Consonant}</th>
+      <th class="bg-stone-300">{Consan}</th>
       <td>na</td>
       <td>{ganAonAthru}</td>
       <td>
@@ -1204,7 +1204,7 @@ endif::[]
       </td>
     </tr>
     <tr>
-      <th class="bg-stone-300">{Vowel}</th>
+      <th class="bg-stone-300">{Guta}</th>
       <td>na</td>
       <td>{hRoimhe}</td>
       <td>
@@ -1229,7 +1229,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1H</strong> {Table1H-caption}
+    <strong>{Tábla} 1H</strong> {Table1H-caption}
   </caption>
   <colgroup>
     <col class="w-1/8">
@@ -1239,7 +1239,7 @@ endif::[]
   </colgroup>
   <thead>
     <tr>
-      <th colspan=4 class="text-2xl px-4 py-2">{MascAndFem}</th>
+      <th colspan=4 class="text-2xl px-4 py-2">{FirAgusBain}</th>
     </tr>
     <tr>
       <th>{ArticleTable-col1-th}</th>
@@ -1250,7 +1250,7 @@ endif::[]
   </thead>
   <tbody>
     <tr>
-      <th class="bg-stone-300">{Consonant}</th>
+      <th class="bg-stone-300">{Consan}</th>
       <td>na</td>
       <td>{ganAonAthru}</td>
       <td>
@@ -1274,7 +1274,7 @@ endif::[]
       </td>
     </tr>
     <tr>
-      <th class="bg-stone-300">{Vowel}</th>
+      <th class="bg-stone-300">{Guta}</th>
       <td>na</td>
       <td>{hRoimhe}</td>
       <td>
@@ -1309,7 +1309,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1I</strong> {Table1I-caption}
+    <strong>{Tábla} 1I</strong> {Table1I-caption}
   </caption>
   <colgroup>
     <col class="w-2/6">
@@ -1318,7 +1318,7 @@ endif::[]
   </colgroup>
   <thead>
     <tr>
-      <th colspan=4 class="text-2xl">{MascAndFem}</th>
+      <th colspan=4 class="text-2xl">{FirAgusBain}</th>
     </tr>
     <tr>
       <th>{ArticleTable-col1-th}</th>
@@ -1331,7 +1331,7 @@ endif::[]
     <tr>
       <th class="bg-stone-300">{ConsanInuraithe}</th>
       <td>na</td>
-      <td>{Eclipsis}</td>
+      <td>{urú}</td>
       <td>
         <ul>
           <li>trasna na gcnoc íseal</li>
@@ -1341,9 +1341,9 @@ endif::[]
       </td>
     </tr>
     <tr>
-      <th class="bg-stone-300">{Vowel}</th>
+      <th class="bg-stone-300">{Guta}</th>
       <td>na</td>
-      <td>{Eclipsis}</td>
+      <td>{urú}</td>
       <td>
         <ul>
           <li>líon na n-áiteanna breátha</li>
@@ -1378,7 +1378,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1J</strong> {AnTuisealTabharthachUatha} &mdash; {Table1J-header}
+    <strong>{Tábla} 1J</strong> {AnTuisealTabharthachUatha} &mdash; {Table1J-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1389,8 +1389,8 @@ endif::[]
       <th colspan=2 class="text-2xl px-4 py-2">{Table1J-header}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th>{Firinscneach}</th>
+      <th>{Baininscneach}</th>
     </tr>
   </thead>
   <tbody>
@@ -1478,7 +1478,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1K</strong> {AnTuisealTabharthachUatha} &mdash; {Table1K-header}
+    <strong>{Tábla} 1K</strong> {AnTuisealTabharthachUatha} &mdash; {Table1K-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1489,8 +1489,8 @@ endif::[]
       <th colspan=2 class="text-2xl px-4 py-2">{Table1K-header}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th>{Firinscneach}</th>
+      <th>{Baininscneach}</th>
     </tr>
     <tr>
       <th colspan=2 class="bg-stone-300">{Table1K-subheading}</th>
@@ -1569,7 +1569,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1L</strong> {AnTuisealTabharthachUatha} &mdash; {Table1L-header}
+    <strong>{Tábla} 1L</strong> {AnTuisealTabharthachUatha} &mdash; {Table1L-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1580,8 +1580,8 @@ endif::[]
       <th colspan=2 class="text-2xl px-4 py-2">{Table1L-header}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th>{Firinscneach}</th>
+      <th>{Baininscneach}</th>
     </tr>
   </thead>
   <tbody>
@@ -1625,7 +1625,7 @@ endif::[]
 ++++
 <table class="chapter-1">
   <caption>
-    <strong>{Table} 1M</strong> {AnTuisealTabharthachUatha} &mdash; {Table1M-header}
+    <strong>{Tábla} 1M</strong> {AnTuisealTabharthachUatha} &mdash; {Table1M-header}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -1636,8 +1636,8 @@ endif::[]
       <th colspan=2 class="text-2xl px-4 py-2">{Table1M-header}</th>
     </tr>
     <tr>
-      <th>{Masculine}</th>
-      <th>{Feminine}</th>
+      <th>{Firinscneach}</th>
+      <th>{Baininscneach}</th>
     </tr>
   </thead>
   <tbody>

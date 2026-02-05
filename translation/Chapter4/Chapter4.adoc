@@ -1,4 +1,4 @@
-= {Chapter} 4 | {chapterTitle}
+= {Caibidil} 4 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -58,7 +58,7 @@ b. {4-2-2-b-p}
 
 {4-2-4-p}
 
-.*{Table} 4A*  {Table4A-caption}
+.*{Tábla} 4A*  {Table4A-caption}
 [.chapter-4]
 [%header]
 [cols="1,2,2"]
@@ -71,23 +71,23 @@ h| {Table4A-col3}
 h| {Table4A-row1}
 | _{no-lenition}_ +
 an fear *beag*
-| _{lenition}_ +
+| _{séimhiú}_ +
 an bhean *bheag*
 
 h| {Table4A-row2}
-| _{lenition}_ +
+| _{séimhiú}_ +
 a fhir *bhig*
-| _{lenition}_ +
+| _{séimhiú}_ +
 a bhean *bheag*
 
 h| {Table4A-row3}
 | _{no-lenition}_ +
 ar an bhfear *beag*
-| _{lenition}_ +
+| _{séimhiú}_ +
 ar an mbean *bheag*
 
 h| {Table4A-row4}
-| _{lenition}_ +
+| _{séimhiú}_ +
 clann an fhir *bhig*
 | _{no-lenition}_ +
 clann na mná *bige*
@@ -104,7 +104,7 @@ clann na mná *bige*
 ++++
 <table class="chapter-4">
   <caption>
-    <strong>{Table} 4B</strong> {4-2-5-title}
+    <strong>{Tábla} 4B</strong> {4-2-5-title}
   </caption>
   <thead>
     <tr>
@@ -524,7 +524,7 @@ endif::[]
 
 {4-4-4-p}
 
-.*{Table} 4C*  {4-4-4-title}
+.*{Tábla} 4C*  {4-4-4-title}
 [.chapter-4]
 [%header]
 [cols="2,2,1"]
@@ -566,7 +566,7 @@ a|
 === 4.5.1 {4-5-1-title}
 
 [list-[lower-alpha]]
-a. *{Masculine}*
+a. *{Firinscneach}*
 +
 {4-5-1-a-p}
 +
@@ -586,7 +586,7 @@ ifdef::isGa[]
 |===
 endif::[]
 +
-b. *{Feminine}*
+b. *{Baininscneach}*
 +
 {4-5-1-b-p}
 +
@@ -672,7 +672,7 @@ endif::[]
 ++++
 <table class="chapter-4">
   <caption>
-    <strong>{Table} 4D</strong>  {Table4D-caption}
+    <strong>{Tábla} 4D</strong>  {Table4D-caption}
   </caption>
   <thead>
     <tr>
@@ -763,7 +763,7 @@ endif::[]
 ++++
 <table class="chapter-4">
   <caption>
-    <strong>{Table} 4E</strong> {Table4E-caption}
+    <strong>{Tábla} 4E</strong> {Table4E-caption}
   </caption>
   <thead>
     <tr>
@@ -852,7 +852,7 @@ endif::[]
 ++++
 <table class="chapter-4">
   <caption>
-    <strong>{Table} 4F</strong> {Table4F-caption}
+    <strong>{Tábla} 4F</strong> {Table4F-caption}
   </caption>
   <thead>
     <tr>
@@ -941,7 +941,7 @@ endif::[]
 ++++
 <table class="chapter-4">
   <caption>
-    <strong>{Table} 4G</strong> {Table4G-caption}
+    <strong>{Tábla} 4G</strong> {Table4G-caption}
   </caption>
   <thead>
     <tr>

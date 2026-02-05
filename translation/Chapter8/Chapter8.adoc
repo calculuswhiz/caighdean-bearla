@@ -1,4 +1,4 @@
-= {Chapter} 8 | {chapterTitle}
+= {Caibidil} 8 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -20,7 +20,7 @@
 ++++
 <table class="chapter-8">
     <caption>
-        <strong>{Table} 8A</strong> {8A-caption}
+        <strong>{Tábla} 8A</strong> {8A-caption}
     </caption>
   <thead>
     <tr>
@@ -241,7 +241,7 @@ endif::[]
 ++++
 <table class="chapter-8">
     <caption>
-        <strong>{Table} 8B</strong> {8B-caption}
+        <strong>{Tábla} 8B</strong> {8B-caption}
     </caption>
   <thead>
     <tr>
@@ -370,7 +370,7 @@ endif::[]
 ++++
 <table class="chapter-8">
     <caption>
-        <strong>{Table} 8C</strong> {8C-caption}
+        <strong>{Tábla} 8C</strong> {8C-caption}
     </caption>
   <thead>
     <tr>
@@ -480,7 +480,7 @@ endif::[]
 ++++
 <table class="chapter-8">
   <caption>
-      <strong>{Table} 8D</strong> {8D-caption}
+      <strong>{Tábla} 8D</strong> {8D-caption}
   </caption>
   <thead>
     <tr>
@@ -558,7 +558,7 @@ endif::[]
 ++++
 <table class="chapter-8">
   <caption>
-      <strong>{Table} 8E</strong> {8E-caption}
+      <strong>{Tábla} 8E</strong> {8E-caption}
   </caption>
   <thead>
     <tr>
@@ -787,7 +787,7 @@ ifdef::isGa[]
 endif::[]
 
 +
-*{Note}*: {8-3-8-e-note}
+*{Nóta}*: {8-3-8-e-note}
 +
 [.samplebox]
 ifndef::isGa[]
@@ -839,7 +839,7 @@ endif::[]
 ++++
 <table class="chapter-8">
     <caption>
-        <strong>{Table} 8F</strong> {8F-caption}
+        <strong>{Tábla} 8F</strong> {8F-caption}
     </caption>
   <thead>
     <tr>

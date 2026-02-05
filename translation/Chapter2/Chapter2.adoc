@@ -1,8 +1,8 @@
-= {Chapter} 2 | {chapterTitle}
+= {Caibidil} 2 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
-== 2.1 {General}
+== 2.1 {Ginearálta}
 
 === 2.1.1 {2-1-1-title}
 
@@ -40,7 +40,7 @@
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2A</strong> {Table2A-Title}
+    <strong>{Tábla} 2A</strong> {Table2A-Title}
   </caption>
   <colgroup>
     <col class="w-1/3">
@@ -52,14 +52,14 @@
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2A-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th colspan=2 class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th colspan=2 class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
@@ -119,7 +119,7 @@
 ++++
 <table class="chapter-2 w-1/2">
   <caption>
-    <strong>{Table} 2B</strong> {Table2B-Title}
+    <strong>{Tábla} 2B</strong> {Table2B-Title}
   </caption>
   <thead>
     <tr>
@@ -127,18 +127,18 @@
     </tr>
     <tr>
       <th class="bg-orange-600 text-white"></th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th class="bg-orange-600 text-white">{Singular}</th>
+      <th class="bg-orange-600 text-white">{Uatha}</th>
       <td>fear</td>
       <td>fir</td>
     </tr>
     <tr>
-      <th class="bg-orange-600 text-white">{Plural}</th>
+      <th class="bg-orange-600 text-white">{Iolra}</th>
       <td>fir</td>
       <td>fear</td>
     </tr>
@@ -153,7 +153,7 @@
 ++++
 <table class="chapter-2 w-1/2">
   <caption>
-    <strong>{Table} 2C</strong> {Table2C-Title}
+    <strong>{Tábla} 2C</strong> {Table2C-Title}
   </caption>
   <thead>
     <tr>
@@ -161,18 +161,18 @@
     </tr>
     <tr>
       <th class="bg-orange-600 text-white"></th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <th class="bg-orange-600 text-white">{Singular}</th>
+      <th class="bg-orange-600 text-white">{Uatha}</th>
       <td>fuinneog</td>
       <td>fuinneoige</td>
     </tr>
     <tr>
-      <th class="bg-orange-600 text-white">{Plural}</th>
+      <th class="bg-orange-600 text-white">{Iolra}</th>
       <td>fuinneoga</td>
       <td>fuinneog</td>
     </tr>
@@ -188,7 +188,7 @@
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2D</strong> {Table2D-Title}
+    <strong>{Tábla} 2D</strong> {Table2D-Title}
   </caption>
   <colgroup>
     <col class="w-1/3">
@@ -200,14 +200,14 @@
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2A-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th colspan=2 class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th colspan=2 class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
@@ -286,7 +286,7 @@
 . {2-1-7-e}
 . {2-1-7-f}
 
-**{Note}**
+**{Nóta}**
 [list-[disc]]
 . {2-1-7-notes-1}
 . {2-1-7-notes-2}
@@ -298,7 +298,7 @@
 ++++
 <table class="chapter-2 top-level-table">
   <caption>
-    <strong>{Table} 2E</strong> {2-1-8-title}
+    <strong>{Tábla} 2E</strong> {2-1-8-title}
   </caption>
   <tbody>
     <tr>
@@ -315,16 +315,16 @@
               <th colspan=5>{declension-1}</th>
             </tr>
             <tr>
-              <th>{Gender}</th>
-              <th>{Nominative} {Singular}</th>
-              <th>{Genitive} {Singular}</th>
-              <th>{Nominative} {Plural}</th>
-              <th>{Genitive} {Plural}</th>
+              <th>{Inscne}</th>
+              <th>{Ainmneach} {Uatha}</th>
+              <th>{Ginideach} {Uatha}</th>
+              <th>{Ainmneach} {Iolra}</th>
+              <th>{Ginideach} {Iolra}</th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td rowspan=2>{Masculine}</td>
+              <td rowspan=2>{Firinscneach}</td>
               <td rowspan=2>{Table2E-row1-cell2}</td>
               <td rowspan=2>{Table2E-row1-cell3}</td>
               <td>{Table2E-row1-cell4}</td>
@@ -351,11 +351,11 @@
               <th colspan=5>{declension-2}</th>
             </tr>
             <tr>
-              <th>{Gender}</th>
-              <th>{Nominative} {Singular}</th>
-              <th>{Genitive} {Singular}</th>
-              <th>{Nominative} {Plural}</th>
-              <th>{Genitive} {Plural}</th>
+              <th>{Inscne}</th>
+              <th>{Ainmneach} {Uatha}</th>
+              <th>{Ginideach} {Uatha}</th>
+              <th>{Ainmneach} {Iolra}</th>
+              <th>{Ginideach} {Iolra}</th>
             </tr>
           </thead>
           <tbody>
@@ -387,11 +387,11 @@
               <th colspan=5>{declension-3}</th>
             </tr>
             <tr>
-              <th>{Gender}</th>
-              <th>{Nominative} {Singular}</th>
-              <th>{Genitive} {Singular}</th>
-              <th>{Nominative} {Plural}</th>
-              <th>{Genitive} {Plural}</th>
+              <th>{Inscne}</th>
+              <th>{Ainmneach} {Uatha}</th>
+              <th>{Ginideach} {Uatha}</th>
+              <th>{Ainmneach} {Iolra}</th>
+              <th>{Ginideach} {Iolra}</th>
             </tr>
           </thead>
           <tbody>
@@ -419,11 +419,11 @@
               <th colspan=5>{declension-4}</th>
             </tr>
             <tr>
-              <th>{Gender}</th>
-              <th>{Nominative} {Singular}</th>
-              <th>{Genitive} {Singular}</th>
-              <th>{Nominative} {Plural}</th>
-              <th>{Genitive} {Plural}</th>
+              <th>{Inscne}</th>
+              <th>{Ainmneach} {Uatha}</th>
+              <th>{Ginideach} {Uatha}</th>
+              <th>{Ainmneach} {Iolra}</th>
+              <th>{Ginideach} {Iolra}</th>
             </tr>
           </thead>
           <tbody>
@@ -450,11 +450,11 @@
               <th colspan=5>{declension-5}</th>
             </tr>
             <tr>
-              <th>{Gender}</th>
-              <th>{Nominative} {Singular}</th>
-              <th>{Genitive} {Singular}</th>
-              <th>{Nominative} {Plural}</th>
-              <th>{Genitive} {Plural}</th>
+              <th>{Inscne}</th>
+              <th>{Ainmneach} {Uatha}</th>
+              <th>{Ginideach} {Uatha}</th>
+              <th>{Ainmneach} {Iolra}</th>
+              <th>{Ginideach} {Iolra}</th>
             </tr>
           </thead>
           <tbody>
@@ -472,7 +472,7 @@
 </table>
 ++++
 
-*{Note}*: {2-1-8-notes}
+*{Nóta}*: {2-1-8-notes}
 
 '''
 
@@ -515,7 +515,7 @@ a. *{2-2-4-a}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2F</strong> {Table2F-Title}
+    <strong>{Tábla} 2F</strong> {Table2F-Title}
   </caption>
   <colgroup>
     <col class="w-4/8">
@@ -525,13 +525,13 @@ a. *{2-2-4-a}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2F-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{EveryCase}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{GachTuiseal}</th>
     </tr>
   </thead>
   <tbody>
@@ -656,7 +656,7 @@ b. *{2-2-4-b}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2G</strong> {Table2G-Title}
+    <strong>{Tábla} 2G</strong> {Table2G-Title}
   </caption>
   <colgroup>
     <col class="w-3/8">
@@ -664,14 +664,14 @@ b. *{2-2-4-b}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2G-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th colspan=2 class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th colspan=2 class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
@@ -749,7 +749,7 @@ a. *{2-3-4-a-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2H</strong> {Table2H-Title}
+    <strong>{Tábla} 2H</strong> {Table2H-Title}
   </caption>
   <colgroup>
     <col class="w-4/8">
@@ -757,13 +757,13 @@ a. *{2-3-4-a-title}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2H-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{EveryCase}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{GachTuiseal}</th>
     </tr>
   </thead>
   <tbody>
@@ -885,7 +885,7 @@ b. *{2-3-4-b-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2I</strong> {Table2I-Title}
+    <strong>{Tábla} 2I</strong> {Table2I-Title}
   </caption>
   <colgroup>
     <col class="w-1/3">
@@ -893,14 +893,14 @@ b. *{2-3-4-b-title}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2I-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th colspan=2 class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th colspan=2 class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
@@ -985,7 +985,7 @@ a. *{2-4-3-a-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2J</strong> {Table2J-Title}
+    <strong>{Tábla} 2J</strong> {Table2J-Title}
   </caption>
   <colgroup>
     <col class="w-1/2">
@@ -993,13 +993,13 @@ a. *{2-4-3-a-title}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2J-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{EveryCase}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{GachTuiseal}</th>
     </tr>
   </thead>
   <tbody>
@@ -1080,7 +1080,7 @@ a. *{2-4-3-a-title}*
         <div>{Table2J-rh5-title}</div>
         <div class="font-normal">{Table2J-rh5-p}</div>
       </th>
-      <td>cion (<em>{meaning}</em> coir)</td> <td>ciona</td> <td>cionta</td>
+      <td>cion (<em>{saBhrí}</em> coir)</td> <td>ciona</td> <td>cionta</td>
     </tr>
     <tr>
       <td>feoil</td> <td>feola</td> <td>feolta</td>
@@ -1126,7 +1126,7 @@ b. *{2-4-3-b-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2K</strong> {Table2K-Title}
+    <strong>{Tábla} 2K</strong> {Table2K-Title}
   </caption>
   <colgroup>
     <col class="w-1/4">
@@ -1134,14 +1134,14 @@ b. *{2-4-3-b-title}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2K-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th colspan=2 class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th colspan=2 class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
     </tr>
   </thead>
   <tbody>
@@ -1193,7 +1193,7 @@ a. *{2-5-3-a-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2L</strong> {Table2L-Title}
+    <strong>{Tábla} 2L</strong> {Table2L-Title}
   </caption>
   <colgroup>
     <col class="w-2/3">
@@ -1202,12 +1202,12 @@ a. *{2-5-3-a-title}*
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2L-CornerHeading}</th>
-      <th class="text-center">{Singular}</th>
-      <th class="text-center">{Plural}</th>
+      <th class="text-center">{Uatha}</th>
+      <th class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{EveryCase}</th>
-      <th class="text-center">{EveryCase}</th>
+      <th class="text-center">{GachTuiseal}</th>
+      <th class="text-center">{GachTuiseal}</th>
     </tr>
   </thead>
   <tbody>
@@ -1360,7 +1360,7 @@ a. *{2-5-3-a-title}*
 </table>
 ++++
 +
-**{Note}**: {2-5-3-Note}
+**{Nóta}**: {2-5-3-Note}
 
 '''
 
@@ -1383,20 +1383,20 @@ a. *{2-6-2-a-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2M</strong> {Table2M-Title}
+    <strong>{Tábla} 2M</strong> {Table2M-Title}
   </caption>
   <colgroup>
   </colgroup>
   <thead>
     <tr>
       <th rowspan=2 class="text-center text-xl">{Table2M-CornerHeading}</th>
-      <th colspan=2 class="text-center">{Singular}</th>
-      <th class="text-center">{Plural}</th>
+      <th colspan=2 class="text-center">{Uatha}</th>
+      <th class="text-center">{Iolra}</th>
     </tr>
     <tr>
-      <th class="text-center">{Nominative}</th>
-      <th class="text-center">{Genitive}</th>
-      <th class="text-center">{EveryCase}</th>
+      <th class="text-center">{Ainmneach}</th>
+      <th class="text-center">{Ginideach}</th>
+      <th class="text-center">{GachTuiseal}</th>
     </tr>
   </thead>
   <tbody>
@@ -1531,7 +1531,7 @@ a. *{2-6-2-a-title}*
 ++++
 <table class="chapter-2">
   <caption>
-    <strong>{Table} 2N</strong> {Table2N-Title}
+    <strong>{Tábla} 2N</strong> {Table2N-Title}
   </caption>
   <colgroup>
     <col class="w-1/3">
@@ -1540,13 +1540,13 @@ a. *{2-6-2-a-title}*
   </colgroup>
   <thead>
     <tr>
-      <th colspan=2 class="text-xl">{Singular}</th>
-      <th class="text-xl">{Plural}</th>
+      <th colspan=2 class="text-xl">{Uatha}</th>
+      <th class="text-xl">{Iolra}</th>
     </tr>
     <tr>
-      <th>{Nominative}</th>
-      <th>{Genitive}</th>
-      <th>{EveryCase}</th>
+      <th>{Ainmneach}</th>
+      <th>{Ginideach}</th>
+      <th>{GachTuiseal}</th>
     </tr>
   </thead>
   <tbody>
@@ -1589,4 +1589,4 @@ a. *{2-6-2-a-title}*
 </table>
 ++++
 
-**{Note}**: {2-7-Note}
+**{Nóta}**: {2-7-Note}

@@ -1,5 +1,5 @@
-:chapterTitle_ga: An Aidiacht
-:chapterTitle_en: The Adjective
+:teidealNaCaibidle_ga: An Aidiacht
+:teidealNaCaibidle_en: The Adjective
 
 :4-1-title_ga: An Aidiacht Cháilíochta
 :4-1-title_en: The Attributive Adjective

@@ -1,4 +1,4 @@
-= {Chapter} 7 | {chapterTitle}
+= {Caibidil} 7 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
@@ -241,7 +241,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7A</strong> {Table7A-caption}
+    <strong>{Tábla} 7A</strong> {Table7A-caption}
   </caption>
   <colgroup>
     <col class="w-3/16">
@@ -329,7 +329,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7B</strong> {Table7B-caption}
+    <strong>{Tábla} 7B</strong> {Table7B-caption}
   </caption>
   <thead>
   <tr>
@@ -380,7 +380,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7C</strong> {Table7C-caption}
+    <strong>{Tábla} 7C</strong> {Table7C-caption}
   </caption>
   <thead>
   <tr>
@@ -450,7 +450,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7D</strong> {Table7D-caption}
+    <strong>{Tábla} 7D</strong> {Table7D-caption}
   </caption>
   <colgroup>
     <col class="w-1/7">
@@ -538,7 +538,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7E</strong> {Table7E-caption}
+    <strong>{Tábla} 7E</strong> {Table7E-caption}
   </caption>
   <thead>
     <tr>
@@ -602,7 +602,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7F</strong> {Table7F-caption}
+    <strong>{Tábla} 7F</strong> {Table7F-caption}
   </caption>
   <thead>
     <tr>
@@ -655,7 +655,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7G</strong> {Table7G-caption}
+    <strong>{Tábla} 7G</strong> {Table7G-caption}
   </caption>
   <thead>
     <tr>
@@ -703,7 +703,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7H</strong> {Table7H-caption}
+    <strong>{Tábla} 7H</strong> {Table7H-caption}
   </caption>
   <colgroup>
     <col>
@@ -751,7 +751,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7I</strong> {Table7I-caption}
+    <strong>{Tábla} 7I</strong> {Table7I-caption}
   </caption>
   <thead>
     <tr>
@@ -813,7 +813,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7J</strong> {Table7J-caption}
+    <strong>{Tábla} 7J</strong> {Table7J-caption}
   </caption>
   <thead>
     <tr>
@@ -872,7 +872,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7K</strong> {Table7K-caption}
+    <strong>{Tábla} 7K</strong> {Table7K-caption}
   </caption>
   <thead>
     <tr>
@@ -944,7 +944,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7L</strong> {Table7L-caption}
+    <strong>{Tábla} 7L</strong> {Table7L-caption}
   </caption>
   <colgroup>
     <col style="width: 50%"/>
@@ -1006,7 +1006,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7M</strong> {Table7M-caption}
+    <strong>{Tábla} 7M</strong> {Table7M-caption}
   </caption>
   <thead>
     <tr>
@@ -1040,7 +1040,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7N</strong> {Table7N-caption}
+    <strong>{Tábla} 7N</strong> {Table7N-caption}
   </caption>
   <thead>
     <tr>
@@ -1079,7 +1079,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7O</strong> {Table7O-caption}
+    <strong>{Tábla} 7O</strong> {Table7O-caption}
   </caption>
   <colgroup>
     <col class="w-20">
@@ -1136,7 +1136,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7P</strong> {Table7P-caption}
+    <strong>{Tábla} 7P</strong> {Table7P-caption}
   </caption>
   <colgroup>
     <col class="w-20">
@@ -1196,7 +1196,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7Q</strong> {Table7Q-caption}
+    <strong>{Tábla} 7Q</strong> {Table7Q-caption}
   </caption>
   <thead>
     <tr>
@@ -1230,7 +1230,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7R</strong> {Table7R-caption}
+    <strong>{Tábla} 7R</strong> {Table7R-caption}
   </caption>
   <thead>
     <tr>
@@ -1269,7 +1269,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7S</strong> {Table7S-caption}
+    <strong>{Tábla} 7S</strong> {Table7S-caption}
   </caption>
   <thead>
     <tr>
@@ -1327,7 +1327,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7T</strong> {Table7T-caption}
+    <strong>{Tábla} 7T</strong> {Table7T-caption}
   </caption>
   <thead>
     <tr>
@@ -1383,7 +1383,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7U</strong> {Table7U-caption}
+    <strong>{Tábla} 7U</strong> {Table7U-caption}
   </caption>
   <thead>
     <tr>
@@ -1420,7 +1420,7 @@ endif::[]
 ++++
 <table class="chapter-7">
   <caption>
-    <strong>{Table} 7V</strong> {Table7V-caption}
+    <strong>{Tábla} 7V</strong> {Table7V-caption}
   </caption>
   <thead>
     <tr>
