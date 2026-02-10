@@ -43,8 +43,8 @@
 :10-2-1-b-sample-2_ga: Ba ghá dom imeacht roimh dheireadh *an chluiche*.
 :10-2-1-b-sample-2_en: I needed to leave before the end *of the game*.
 
-:10-2-1-c-p_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna ina ngabhann réamhfhocal leis an alt de réir an Chórais Lárnaigh, e.g., _den chapall_ (féach link:./chapter1-ga.html#sec_1_4[1.4]), nó de réir Chóras an tSéimhithe, e.g., _ar an chapall_ (féach link:./chapter1-ga.html#sec_1_7[1.7]):
-:10-2-1-c-p_en: in the dative singular, masculine and feminine, in some situations where a preposition takes the article according to the Core System, e.g., _den chapall_ (see link:./chapter1-en.html#sec_1_4[1.4]), or according to the Lenition System, e.g., _ar an chapall_ (see link:./chapter1-en.html#sec_1_7[1.7]):
+:10-2-1-c-p_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna ina ngabhann réamhfhocal leis an alt de réir an Chórais Lárnaigh, e.g., _den chapall_ (féach link:./chapter1.html#sec_1_4[1.4]), nó de réir Chóras an tSéimhithe, e.g., _ar an chapall_ (féach link:./chapter1.html#sec_1_7[1.7]):
+:10-2-1-c-p_en: in the dative singular, masculine and feminine, in some situations where a preposition takes the article according to the Core System, e.g., _den chapall_ (see link:./chapter1.html#sec_1_4[1.4]), or according to the Lenition System, e.g., _ar an chapall_ (see link:./chapter1.html#sec_1_7[1.7]):
 
 :10-2-1-c-sample-1_ga: Mheallfadh sí an t-éan *den chrann*.
 :10-2-1-c-sample-1_en: She would attract the bird *from the tree*.
@@ -112,8 +112,8 @@
 :10-2-4-a-sample-2_ga: Ba é sin an *chéad phictiúr* a dhíol sé riamh.
 :10-2-4-a-sample-2_en: That was the *first picture* he ever sold.
 
-:10-2-4-b-p_ga: _dhá_, e.g., _dhá chrann_; _an dá chóta_; ach amháin má tá an aidiacht shealbhach _a_ (tríú pearsa uatha, baininscneach agus tríú pearsa iolra), _ár_ nó _bhur_ roimhe, e.g., _dhá chapall ach a dhá géag_ (tríú pearsa uatha baininscneach); _ár dhá gcapall_; _bhur dhá dteach_; _a dhá mbó_ (tríú pearsa iolra) (féach link:./chapter8-ga.html#sec_8_3_3[8.3.3]):
-:10-2-4-b-p_en: _dhá_, e.g., _dhá chrann_; _an dá chóta_; except when the possessive adjective _a_ (third person singular feminine and third person plural), _ár_ or _bhur_ precedes it, e.g., _dhá chapall ach a dhá géag_ (third person singular feminine); _ár dhá gcapall_; _bhur dhá dteach_; _a dhá mbó_ (third person plural) (see link:./chapter8-en.html#sec_8_3_3[8.3.3]):
+:10-2-4-b-p_ga: _dhá_, e.g., _dhá chrann_; _an dá chóta_; ach amháin má tá an aidiacht shealbhach _a_ (tríú pearsa uatha, baininscneach agus tríú pearsa iolra), _ár_ nó _bhur_ roimhe, e.g., _dhá chapall ach a dhá géag_ (tríú pearsa uatha baininscneach); _ár dhá gcapall_; _bhur dhá dteach_; _a dhá mbó_ (tríú pearsa iolra) (féach link:./chapter8.html#sec_8_3_3[8.3.3]):
+:10-2-4-b-p_en: _dhá_, e.g., _dhá chrann_; _an dá chóta_; except when the possessive adjective _a_ (third person singular feminine and third person plural), _ár_ or _bhur_ precedes it, e.g., _dhá chapall ach a dhá géag_ (third person singular feminine); _ár dhá gcapall_; _bhur dhá dteach_; _a dhá mbó_ (third person plural) (see link:./chapter8.html#sec_8_3_3[8.3.3]):
 
 :10-2-4-b-sample-1_ga: Ba ise an bhean a raibh *dhá mhadra* aici.
 :10-2-4-b-sample-1_en: She was the woman who had *two dogs*.
@@ -121,8 +121,8 @@
 :10-2-4-b-sample-2_ga: Tá an *dá thionscadal* críochnaithe anois.
 :10-2-4-b-sample-2_en: The *two projects* are finished now.
 
-:10-2-4-c-p_ga: _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí bhád_; _ceithre bhó_ (ach amháin i gcás na n-ainmfhocal a bhfuil leagan iolra ar leith acu i ndiaidh na mbunuimhreacha -- féach link:./chapter9-ga.html#sec_9_3_2[9.3.2], agus i gcás an fhocail _cent_, e.g., _dhá cent_; _cúig cent_):
-:10-2-4-c-p_en: _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí bhád_; _ceithre bhó_ (except for nouns that have a special plural form after the cardinal numbers -- see link:./chapter9-en.html#sec_9_3_2[9.3.2], and for the word _cent_, e.g., _dhá cent_; _cúig cent_):
+:10-2-4-c-p_ga: _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí bhád_; _ceithre bhó_ (ach amháin i gcás na n-ainmfhocal a bhfuil leagan iolra ar leith acu i ndiaidh na mbunuimhreacha -- féach link:./chapter9.html#sec_9_3_2[9.3.2], agus i gcás an fhocail _cent_, e.g., _dhá cent_; _cúig cent_):
+:10-2-4-c-p_en: _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí bhád_; _ceithre bhó_ (except for nouns that have a special plural form after the cardinal numbers -- see link:./chapter9.html#sec_9_3_2[9.3.2], and for the word _cent_, e.g., _dhá cent_; _cúig cent_):
 
 :10-2-4-c-sample-1_ga: Níor sheol mé ach *cúig chárta* Nollag i mbliana.
 :10-2-4-c-sample-1_en: I only sent *five Christmas cards* this year.
@@ -136,8 +136,8 @@
 :10-2-4-note-a-i-p_ga: gurb é an t-athrú tosaigh a ghabhann leis an uimhir dheiridh i sraith a bhíonn le cur ar an bhfocal atá faoina réir, e.g., _sé nó seacht mbád_;
 :10-2-4-note-a-i-p_en: that the initial mutation that applies is that of the final number in a series to be placed before the word it qualifies, e.g., _sé nó seacht mbád_;
 
-:10-2-4-note-a-ii-p_ga: má úsáidtear an Córas Simplithe os cionn fiche (féach link:./chapter9-ga.html#sec_9_3_10[9.3.10] -- link:./chapter9-ga.html#sec_9_3_12[9.3.12]), nach gcuirtear séimhiú ar an ainmfhocal, e.g., _fiche a trí capall_; _56 fuinneog_.
-:10-2-4-note-a-ii-p_en: that if the Simplified System above twenty (_fiche_) is used (see link:./chapter9-en.html#sec_9_3_10[9.3.10] -- link:./chapter9-en.html#sec_9_3_12[9.3.12]), lenition is not applied to the noun, e.g., _fiche a trí capall_; _56 fuinneog_.
+:10-2-4-note-a-ii-p_ga: má úsáidtear an Córas Simplithe os cionn fiche (féach link:./chapter9.html#sec_9_3_10[9.3.10] -- link:./chapter9.html#sec_9_3_12[9.3.12]), nach gcuirtear séimhiú ar an ainmfhocal, e.g., _fiche a trí capall_; _56 fuinneog_.
+:10-2-4-note-a-ii-p_en: that if the Simplified System above twenty (_fiche_) is used (see link:./chapter9.html#sec_9_3_10[9.3.10] -- link:./chapter9.html#sec_9_3_12[9.3.12]), lenition is not applied to the noun, e.g., _fiche a trí capall_; _56 fuinneog_.
 
 :10-2-5-title_ga: I nDiaidh Réamhfhocail Shimplí Áirithe
 :10-2-5-title_en: After Certain Simple Prepositions
@@ -166,8 +166,8 @@
 :10-2-5-note-p_ga: Ní shéimhítear _b_, _m_ ná _p_ tar éis _um_, e.g., _ordú um praghsanna a chobhsú_; _an tÚdarás um Bóithre Náisiúnta_.
 :10-2-5-note-p_en: _b_, _m_ and _p_ are not lenited after _um_, e.g., _ordú um praghsanna a chobhsú_; _an tÚdarás um Bóithre Náisiúnta_.
 
-:10-2-5-b-p1_ga: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (féach freisin link:./chapter10-ga.html#sec_10_6_4_b[10.6.4(b)]):
-:10-2-5-b-p1_en: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (see also link:./chapter10-en.html#sec_10_6_4_b[10.6.4(b)]):
+:10-2-5-b-p1_ga: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (féach freisin link:./chapter10.html#sec_10_6_4_b[10.6.4(b)]):
+:10-2-5-b-p1_en: _ar_, e.g., _ar bhád_, _ar chlé_, _ar dheis_, _ar dhaoine_ (see also link:./chapter10.html#sec_10_6_4_b[10.6.4(b)]):
 
 :10-2-5-b-sample-1_ga: Níl a fhios aici conas cnaipe a chur *ar chóta*.
 :10-2-5-b-sample-1_en: She does not know how to put a button *on a coat*.
@@ -250,8 +250,8 @@
 :10-2-6-title_ga: I nDiaidh Réamhfhocal Comhshuite
 :10-2-6-title_en: After Certain Compound Prepositions
 
-:10-2-6-p1_ga: Séimhítear ainmfhocal cinnte (féach link:./chapter3-ga.html#sec_3_1_2[3.1.2]) atá faoi réir ag réamhfhocal comhshuite nó _cois_, _dála_, _fearacht_, _timpeall_, _trasna_, e.g., _ar aghaidh dhoras an tséipéil_; _cois Bhóthar na hUaimhe_; _de bhun mhír (b)_; _fearacht Sheáin_; _le haghaidh chlár a ceathair_.
-:10-2-6-p1_en: A definite noun (see link:./chapter3-en.html#sec_3_1_2[3.1.2]) that is subject to a compound preposition or by _cois_, _dála_, _fearacht_, _timpeall_, _trasna_ is lenited, e.g., _ar aghaidh dhoras an tséipéil_; _cois Bhóthar na hUaimhe_; _de bhun mhír (b)_; _fearacht Sheáin_; _le haghaidh chlár a cheathair_.
+:10-2-6-p1_ga: Séimhítear ainmfhocal cinnte (féach link:./chapter3.html#sec_3_1_2[3.1.2]) atá faoi réir ag réamhfhocal comhshuite nó _cois_, _dála_, _fearacht_, _timpeall_, _trasna_, e.g., _ar aghaidh dhoras an tséipéil_; _cois Bhóthar na hUaimhe_; _de bhun mhír (b)_; _fearacht Sheáin_; _le haghaidh chlár a ceathair_.
+:10-2-6-p1_en: A definite noun (see link:./chapter3.html#sec_3_1_2[3.1.2]) that is subject to a compound preposition or by _cois_, _dála_, _fearacht_, _timpeall_, _trasna_ is lenited, e.g., _ar aghaidh dhoras an tséipéil_; _cois Bhóthar na hUaimhe_; _de bhun mhír (b)_; _fearacht Sheáin_; _le haghaidh chlár a cheathair_.
 
 :10-2-6-sample-1_ga: Tá tithe aici *ar fud Bhaile Átha Cliath* agus *chathair Chorcaí*.
 :10-2-6-sample-1_en: She has houses *all over Dublin* and *Cork city*.
@@ -635,8 +635,8 @@
 :10-2-10-b-ii-sample-1_ga: Bhí siad ag imirt i gcoinne *Scoil Naomh Fionnbarra*.
 :10-2-10-b-ii-sample-1_en: They were playing against *St. Finbar's School*.
 
-:10-2-10-c-p_ga: ar ainm briathartha a bhfuil ainmfhocal cinnte ar a lorg, e.g., _madra cosanta na monarcha; bean fuascailte na ceiste_; _beach cealgtha an pháiste_; _innill buailte an arbhair_; _seachtain bailithe na rátaí_ (féach link:./chapter3-ga.html#sec_3_3_1_a[3.3.1(a)]).
-:10-2-10-c-p_en: to a verb whose object is a definite noun, e.g., _madra cosanta na monarcha; bean fuascailte na ceiste_; _beach cealgtha an pháiste_; _innill buailte an arbhair_; _seachtain bailithe na rátaí_ (see link:./chapter3-en.html#sec_3_3_1_a[3.3.1(a)]).
+:10-2-10-c-p_ga: ar ainm briathartha a bhfuil ainmfhocal cinnte ar a lorg, e.g., _madra cosanta na monarcha; bean fuascailte na ceiste_; _beach cealgtha an pháiste_; _innill buailte an arbhair_; _seachtain bailithe na rátaí_ (féach link:./chapter3.html#sec_3_3_1_a[3.3.1(a)]).
+:10-2-10-c-p_en: to a verb whose object is a definite noun, e.g., _madra cosanta na monarcha; bean fuascailte na ceiste_; _beach cealgtha an pháiste_; _innill buailte an arbhair_; _seachtain bailithe na rátaí_ (see link:./chapter3.html#sec_3_3_1_a[3.3.1(a)]).
 
 :10-2-11-title_ga: I Sloinnte
 :10-2-11-title_en: In Surnames
@@ -674,14 +674,14 @@
 :10-2-12-sample-3_ga: Tá *carrchlós* díreach in aice leis an *mbunscoil*.
 :10-2-12-sample-3_en: The *car park* is right next to the *primary school*.
 
-:10-2-12-note-p_ga: Ní shéimhítear an dara focal i gcomhfhocal i ndiaidh _an-_ (réimír threise) nuair a thagann _d_, _t_ nó _s_ ar a lorg, e.g., _An-duine is ea é_; _Bhí an-dea-aimsir ann an samhradh sin_; _An-drochrud a bhí sa bhean sin_ (féach link:./chapter2-ga.html#sec_2_1_7[2.1.7]).
-:10-2-12-note-p_en: The second word in a compound word is not lenited after _an-_ (the emphatic prefix) when _d_, _t_ or _s_ follow it, e.g., _An-duine is ea é_; _Bhí an-dea-aimsir ann an samhradh sin_; _An-drochrud a bhí sa bhean sin_ (see link:./chapter2-en.html#sec_2_1_7[2.1.7]).
+:10-2-12-note-p_ga: Ní shéimhítear an dara focal i gcomhfhocal i ndiaidh _an-_ (réimír threise) nuair a thagann _d_, _t_ nó _s_ ar a lorg, e.g., _An-duine is ea é_; _Bhí an-dea-aimsir ann an samhradh sin_; _An-drochrud a bhí sa bhean sin_ (féach link:./chapter2.html#sec_2_1_7[2.1.7]).
+:10-2-12-note-p_en: The second word in a compound word is not lenited after _an-_ (the emphatic prefix) when _d_, _t_ or _s_ follow it, e.g., _An-duine is ea é_; _Bhí an-dea-aimsir ann an samhradh sin_; _An-drochrud a bhí sa bhean sin_ (see link:./chapter2.html#sec_2_1_7[2.1.7]).
 
 :10-2-13-title_ga: I nDiaidh na Copaile
 :10-2-13-title_en: After the Copula
 
-:10-2-13-p_ga: Cuirtear séimhiú ar an ainmfhocal i ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach, e.g., _Ba dhuine mór é_; _Ar shagart é?_; _Níor dhochtúir é_; _Nár cheoltóir maith é?_; _Is dóigh leis gur ghadaí a bhí ann_; _Dúirt sí gurbh fhiú labhairt léi_; _Deir sé nár dhochar é_; _cér chás é (ach)_; _dá mba chailín í_; _fear dar shloinne Ó Murchú_; _má ba bhithiúnach é_; _murar bhréag é_ (féach link:./chapter7-ga.html[Caibidil 7]):
-:10-2-13-p_en: Lenition is applied to the noun following the copula in the indicative mood, past tense and past habitual tense, and in the conditional mood, e.g., _Ba dhuine mór é_; _Ar shagart é?_; _Níor dhochtúir é_; _Nár cheoltóir maith é?_; _Is dóigh leis gur ghadaí a bhí ann_; _Dúirt sí gurbh fhiú labhairt léi_; _Deir sé nár dhochar é_; _cér chás é (ach)_; _dá mba chailín í_; _fear dar shloinne Ó Murchú_; _má ba bhithiúnach é_; _murar bhréag é_ (see link:./chapter7-en.html[Chapter 7]):
+:10-2-13-p_ga: Cuirtear séimhiú ar an ainmfhocal i ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach, e.g., _Ba dhuine mór é_; _Ar shagart é?_; _Níor dhochtúir é_; _Nár cheoltóir maith é?_; _Is dóigh leis gur ghadaí a bhí ann_; _Dúirt sí gurbh fhiú labhairt léi_; _Deir sé nár dhochar é_; _cér chás é (ach)_; _dá mba chailín í_; _fear dar shloinne Ó Murchú_; _má ba bhithiúnach é_; _murar bhréag é_ (féach link:./chapter7.html[Caibidil 7]):
+:10-2-13-p_en: Lenition is applied to the noun following the copula in the indicative mood, past tense and past habitual tense, and in the conditional mood, e.g., _Ba dhuine mór é_; _Ar shagart é?_; _Níor dhochtúir é_; _Nár cheoltóir maith é?_; _Is dóigh leis gur ghadaí a bhí ann_; _Dúirt sí gurbh fhiú labhairt léi_; _Deir sé nár dhochar é_; _cér chás é (ach)_; _dá mba chailín í_; _fear dar shloinne Ó Murchú_; _má ba bhithiúnach é_; _murar bhréag é_ (see link:./chapter7.html[Chapter 7]):
 
 :10-2-13-sample-1_ga: *Ba mheicneoir* í nuair a bhí sí óg.
 :10-2-13-sample-1_en: She *was a mechanic* when she was young.
@@ -710,8 +710,8 @@
 :10-3-1-a-sample-2_ga: Fan taobh thiar den líne *bhuí*.
 :10-3-1-a-sample-2_en: Stay behind the *yellow* line.
 
-:10-3-1-a-p2_ga: Tabhair faoi deara nach gcuirtear séimhiú ar fhrásaí aidiachtacha ilfhoclacha, e.g., _athnuachan saor in aisce_; _bean mór le rá_; _tuarascáil cothrom le dáta_ (féach link:./chapter4-ga.html#sec_4_3_8[4.3.8]).
-:10-3-1-a-p2_en: Note that lenition is not applied to multi-word adjectival phrases, e.g., _athnuachan saor in aisce_; _bean mór le rá_; _tuarascáil cothrom le dáta_ (see link:./chapter4-en.html#sec_4_3_8[4.3.8]).
+:10-3-1-a-p2_ga: Tabhair faoi deara nach gcuirtear séimhiú ar fhrásaí aidiachtacha ilfhoclacha, e.g., _athnuachan saor in aisce_; _bean mór le rá_; _tuarascáil cothrom le dáta_ (féach link:./chapter4.html#sec_4_3_8[4.3.8]).
+:10-3-1-a-p2_en: Note that lenition is not applied to multi-word adjectival phrases, e.g., _athnuachan saor in aisce_; _bean mór le rá_; _tuarascáil cothrom le dáta_ (see link:./chapter4.html#sec_4_3_8[4.3.8]).
 
 :10-3-1-b-p_ga: i ndiaidh ainmfhocal atá sa ghinideach nó sa ghairmeach uatha firinscneach, e.g., _mac fir mhóir_; _a fhir mhóir_:
 :10-3-1-b-p_en: after a noun in the genitive or vocative singular masculine, e.g., _mac fir mhóir_; _a fhir mhóir_:
@@ -755,8 +755,8 @@
 :10-3-1-d-ii-sample-2_ga: Taispeánadh deich scannán *cháiliúla* le linn na féile.
 :10-3-1-d-ii-sample-2_en: Ten *famous* films were shown during the festival.
 
-:10-3-1-d-ii-p2_ga: Tabhair faoi deara, má úsáidtear an Córas Simplithe os cionn fiche (féach link:./chapter9-ga.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9-ga.html#sec_9_3_12[9.3.12]) nach gcuirtear séimhiú ach amháin ar aidiacht a thagann i ndiaidh ainmfhocal baininscneach, e.g., _fiche a trí capall mór_; _45 fuinneog mhór_.
-:10-3-1-d-ii-p2_en: Note that, when the Simplified System above twenty is used (see link:./chapter9-en.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9-en.html#sec_9_3_12[9.3.12]), lenition is applied only to an adjective following a feminine noun, e.g., _fiche a trí capall mór_; _45 fuinneog mhór_.
+:10-3-1-d-ii-p2_ga: Tabhair faoi deara, má úsáidtear an Córas Simplithe os cionn fiche (féach link:./chapter9.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9.html#sec_9_3_12[9.3.12]) nach gcuirtear séimhiú ach amháin ar aidiacht a thagann i ndiaidh ainmfhocal baininscneach, e.g., _fiche a trí capall mór_; _45 fuinneog mhór_.
+:10-3-1-d-ii-p2_en: Note that, when the Simplified System above twenty is used (see link:./chapter9.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9.html#sec_9_3_12[9.3.12]), lenition is applied only to an adjective following a feminine noun, e.g., _fiche a trí capall mór_; _45 fuinneog mhór_.
 
 :10-3-1-d-iii-p_ga: i ndiaidh an leagain iolra _cinn_ nuair atá uimhir ó _trí_ go _deich_ roimhe, e.g., _trí cinn dhubha_; _cúig cinn mhóra is seasca_:
 :10-3-1-d-iii-p_en: after the plural form _cinn_ when preceded by a number from _three_ to _ten_, e.g., _trí cinn dhubha_; _cúig cinn mhóra is seasca_:
@@ -764,8 +764,8 @@
 :10-3-1-d-iii-sample-1_ga: D'aimsigh sí trí cinn *fholmha* sa chuardach.
 :10-3-1-d-iii-sample-1_en: She found three *empty* ones in the search.
 
-:10-3-1-e-p_ga: sa tabharthach uatha firinscneach, má tá Córas an tSéimhithe á úsáid (féach link:./chapter1-ga.html#sec_1_7[1.7]).
-:10-3-1-e-p_en: in the masculine dative singular, if the Lenition System is being used (see link:./chapter1-en.html#sec_1_7[1.7]).
+:10-3-1-e-p_ga: sa tabharthach uatha firinscneach, má tá Córas an tSéimhithe á úsáid (féach link:./chapter1.html#sec_1_7[1.7]).
+:10-3-1-e-p_en: in the masculine dative singular, if the Lenition System is being used (see link:./chapter1.html#sec_1_7[1.7]).
 
 :10-3-2-title_ga: Roimh Ainmfhocal
 :10-3-2-title_en: Before a Noun
@@ -773,8 +773,8 @@
 :10-3-2-p_ga: Nuair a thagann aidiacht roimh ainmfhocal --
 :10-3-2-p_en: When an adjective precedes a noun --
 
-:10-3-2-a-p_ga: séimhítear an aidiacht ar lorg réamhfhocal simplí, ar lorg réamhfhocal simplí agus an ailt agus ar lorg aidiacht shealbhach ar an tslí chéanna ar a séimhítear an t-ainmfhocal, e.g., _ar thrí euro_; _don cheathrú bean_; _mo shéú hubh_ (féach link:./chapter9-ga.html#sec_9_5_1[9.5.1]):
-:10-3-2-a-p_en: the adjective is lenited after a simple preposition, after a simple preposition and the definite article, and after a possessive adjective in the same way as the noun is lenited, e.g., _ar thrí euro_; _don cheathrú bean_; _mo shéú hubh_ (see link:./chapter9-en.html#sec_9_5_1[9.5.1]):
+:10-3-2-a-p_ga: séimhítear an aidiacht ar lorg réamhfhocal simplí, ar lorg réamhfhocal simplí agus an ailt agus ar lorg aidiacht shealbhach ar an tslí chéanna ar a séimhítear an t-ainmfhocal, e.g., _ar thrí euro_; _don cheathrú bean_; _mo shéú hubh_ (féach link:./chapter9.html#sec_9_5_1[9.5.1]):
+:10-3-2-a-p_en: the adjective is lenited after a simple preposition, after a simple preposition and the definite article, and after a possessive adjective in the same way as the noun is lenited, e.g., _ar thrí euro_; _don cheathrú bean_; _mo shéú hubh_ (see link:./chapter9.html#sec_9_5_1[9.5.1]):
 
 :10-3-2-a-sample-1_ga: Déanfar é laistigh *de cheithre* mhí.
 :10-3-2-a-sample-1_en: It will be done within *four* months.
@@ -785,8 +785,8 @@
 :10-3-2-a-sample-3_ga: Ba é *a thríú* hiarracht é.
 :10-3-2-a-sample-3_en: It was *his third* attempt.
 
-:10-3-2-b-p1_ga: cuirtear séimhiú ar an orduimhir sa tuiseal ginideach ar an tslí chéanna a gcuirtear séimhiú ar ainmfhocal firinscneach, e.g., _doras an cheathrú seomra_, ach ní shéimhítear _f_, e.g., _i dtrátha an fichiú lá_ (féach link:./chapter9-ga.html#sec_9_5_4_d[9.5.4(d)])
-:10-3-2-b-p1_en: the numeral in the genitive case is lenited in the same way as a masculine noun, e.g., _doras an cheathrú seomra_, but _f_ is not lenited, e.g., _i dtrátha an fichiú lá_ (see link:./chapter9-en.html#sec_9_5_4_d[9.5.4(d)])
+:10-3-2-b-p1_ga: cuirtear séimhiú ar an orduimhir sa tuiseal ginideach ar an tslí chéanna a gcuirtear séimhiú ar ainmfhocal firinscneach, e.g., _doras an cheathrú seomra_, ach ní shéimhítear _f_, e.g., _i dtrátha an fichiú lá_ (féach link:./chapter9.html#sec_9_5_4_d[9.5.4(d)])
+:10-3-2-b-p1_en: the numeral in the genitive case is lenited in the same way as a masculine noun, e.g., _doras an cheathrú seomra_, but _f_ is not lenited, e.g., _i dtrátha an fichiú lá_ (see link:./chapter9.html#sec_9_5_4_d[9.5.4(d)])
 
 :10-3-2-b-sample-1_ga: Chuaigh bróga *an chúigiú* girseach amú.
 :10-3-2-b-sample-1_en: The shoes of the *fifth* girl got lost.
@@ -797,8 +797,8 @@
 :10-3-2-b-p2_ga: Tabhair faoi deara nach séimhítear --
 :10-3-2-b-p2_en: Note that lenition is not applied to --
 
-:10-3-2-b-i-p_ga: an orduimhir san ainmneach, ach amháin _céad_ (féach link:./chapter9-ga.html#sec_9_5_1_b[9.5.1(b)]), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
-:10-3-2-b-i-p_en: the ordinal number in the nominative case, except _céad_ (see link:./chapter9-en.html#sec_9_5_1_b[9.5.1(b)]), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
+:10-3-2-b-i-p_ga: an orduimhir san ainmneach, ach amháin _céad_ (féach link:./chapter9.html#sec_9_5_1_b[9.5.1(b)]), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
+:10-3-2-b-i-p_en: the ordinal number in the nominative case, except _céad_ (see link:./chapter9.html#sec_9_5_1_b[9.5.1(b)]), e.g., _an tríú duine_; _an cúigiú bean_; _ach an chéad áit_; _na chéad chéimeanna_:
 
 :10-3-2-b-i-sample-1_ga: Is tusa *an ceathrú* duine a chuir an cheist sin orm.
 :10-3-2-b-i-sample-1_en: You are the *fourth* person to ask me that question.
@@ -848,8 +848,8 @@
 :10-3-4-title_ga: Ar _déag_ agus ar _fichead_
 :10-3-4-title_en: To _déag_ and _fichead_
 
-:10-3-4-p_ga: Bíonn séimhiú ar _déag_ i ndiaidh _dó_ agus i ndiaidh ainmfhocal uatha a chríochnaíonn ar ghuta, e.g., _trí bhó dhéag_; _cúig lá dhéag_; ach amháin sna horduimhreacha (féach link:./chapter9-ga.html#sec_9_5_2_e[9.5.2(e)]). Séimhítear _fichead_ i ndiaidh ainmfhocal a bhfuil iolra caol air, e.g., _trí cinn fhichead_.
-:10-3-4-p_en: Lenition is applied to _déag_ after _dó_ and after a singular noun ending in a vowel, e.g., _trí bhó dhéag_; _cúig lá dhéag_; except in the ordinal numbers (see link:./chapter9-en.html#sec_9_5_2_e[9.5.2(e)]). _Fichead_ is lenited after a noun in the slender plural, e.g., _trí cinn fhichead_.
+:10-3-4-p_ga: Bíonn séimhiú ar _déag_ i ndiaidh _dó_ agus i ndiaidh ainmfhocal uatha a chríochnaíonn ar ghuta, e.g., _trí bhó dhéag_; _cúig lá dhéag_; ach amháin sna horduimhreacha (féach link:./chapter9.html#sec_9_5_2_e[9.5.2(e)]). Séimhítear _fichead_ i ndiaidh ainmfhocal a bhfuil iolra caol air, e.g., _trí cinn fhichead_.
+:10-3-4-p_en: Lenition is applied to _déag_ after _dó_ and after a singular noun ending in a vowel, e.g., _trí bhó dhéag_; _cúig lá dhéag_; except in the ordinal numbers (see link:./chapter9.html#sec_9_5_2_e[9.5.2(e)]). _Fichead_ is lenited after a noun in the slender plural, e.g., _trí cinn fhichead_.
 
 :10-3-4-sample-1_ga: Fuair sé bus uimhir a dó *dhéag*.
 :10-3-4-sample-1_en: He got bus number twelve (two *ten*).
@@ -878,8 +878,8 @@
 :10-3-6-title_ga: I nDiaidh na Copaile
 :10-3-6-title_en: After the Copula
 
-:10-3-6-p_ga: Cuirtear séimhiú ar an aidiacht i ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach, e.g., _Ba dheas uait é_; _Ar mhaith leat é?_; _Níor bheag an gaisce é_; _Nár dhona an lá é?_; _B'fhéidir nár chneasta uaim é_; _Dá mba mhaith leat teacht, bheadh fáilte romhat_; _má ba shaibhir an fear é_ (féach link:./chapter7-ga.html[Caibidil 7]).
-:10-3-6-p_en: Lenition is applied to the adjective following the copula in the indicative mood, past tense and past habitual tense, and in the conditional mood, e.g., _Ba dheas uait é_; _Ar mhaith leat é?_; _Níor bheag an gaisce é_; _Nár dhona an lá é?_; _B'fhéidir nár chneasta uaim é_; _Dá mba mhaith leat teacht, bheadh fáilte romhat_; _má ba shaibhir an fear é_ (see link:./chapter7-en.html[Chapter 7]).
+:10-3-6-p_ga: Cuirtear séimhiú ar an aidiacht i ndiaidh na copaile sa mhodh táscach, aimsir chaite agus aimsir ghnáthchaite, agus sa mhodh coinníollach, e.g., _Ba dheas uait é_; _Ar mhaith leat é?_; _Níor bheag an gaisce é_; _Nár dhona an lá é?_; _B'fhéidir nár chneasta uaim é_; _Dá mba mhaith leat teacht, bheadh fáilte romhat_; _má ba shaibhir an fear é_ (féach link:./chapter7.html[Caibidil 7]).
+:10-3-6-p_en: Lenition is applied to the adjective following the copula in the indicative mood, past tense and past habitual tense, and in the conditional mood, e.g., _Ba dheas uait é_; _Ar mhaith leat é?_; _Níor bheag an gaisce é_; _Nár dhona an lá é?_; _B'fhéidir nár chneasta uaim é_; _Dá mba mhaith leat teacht, bheadh fáilte romhat_; _má ba shaibhir an fear é_ (see link:./chapter7.html[Chapter 7]).
 
 :10-3-6-sample-1_ga: Dúirt sé *gur mhór* an leas dó é.
 :10-3-6-sample-1_en: He said *that* it was a *great* benefit to him.
@@ -1043,8 +1043,8 @@
 :10-6-1-p_ga: Cuirtear urú ar an ainmfhocal i ndiaidh an ailt --
 :10-6-1-p_en: Eclipsis is applied to the noun after the article --
 
-:10-6-1-a-p1_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna nuair a ghabhann réamhfhocal leis an alt, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (féach link:./chapter1-ga.html#sec_1_4[1.4]):
-:10-6-1-a-p1_en: in the dative singular, masculine and feminine, in certain contexts when a preposition accompanies the article, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (see link:./chapter1-en.html#sec_1_4[1.4]):
+:10-6-1-a-p1_ga: sa tabharthach uatha, firinscneach agus baininscneach, i roinnt cásanna nuair a ghabhann réamhfhocal leis an alt, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (féach link:./chapter1.html#sec_1_4[1.4]):
+:10-6-1-a-p1_en: in the dative singular, masculine and feminine, in certain contexts when a preposition accompanies the article, e.g., _ar an gcapall_; _faoin bhfoirgneamh_ (see link:./chapter1.html#sec_1_4[1.4]):
 
 :10-6-1-a-sample-1_ga: Fuair sé teachtaireacht bhuíochais *ón mbrídeach*.
 :10-6-1-a-sample-1_en: He received a thank-you message *from the bride*.
@@ -1076,14 +1076,14 @@
 :10-6-2-sample-2_ga: Deirtear gurb iad *a gcácaí* siúd na cácaí is deise dá bhfuil ann.
 :10-6-2-sample-2_en: It is said that *their cakes* are the best there are.
 
-:10-6-2-p2_ga: Tabhair faoi deara go ndéantar urú i ndiaidh _dhá_ má tá aidiacht shealbhach san uimhir iolra roimhe, e.g., _ár dhá gcapall_; _ár dhá gcúigiú cuid_; _bhur dhá dteach_; _a dhá mbó_ (féach link:./chapter8-ga.html#sec_8_3_3[8.3.3]).
-:10-6-2-p2_en: Note that eclipsis is used after _dhá_ if there is a possessive adjective in the plural before it, e.g., _ár dhá gcapall_; _ár dhá gcúigiú cuid_; _bhur dhá dteach_; _a dhá mbó_ (see link:./chapter8-en.html#sec_8_3_3[8.3.3]).
+:10-6-2-p2_ga: Tabhair faoi deara go ndéantar urú i ndiaidh _dhá_ má tá aidiacht shealbhach san uimhir iolra roimhe, e.g., _ár dhá gcapall_; _ár dhá gcúigiú cuid_; _bhur dhá dteach_; _a dhá mbó_ (féach link:./chapter8.html#sec_8_3_3[8.3.3]).
+:10-6-2-p2_en: Note that eclipsis is used after _dhá_ if there is a possessive adjective in the plural before it, e.g., _ár dhá gcapall_; _ár dhá gcúigiú cuid_; _bhur dhá dteach_; _a dhá mbó_ (see link:./chapter8.html#sec_8_3_3[8.3.3]).
 
 :10-6-3-title_ga: I nDiaidh Uimhreacha Áirithe
 :10-6-3-title_en: After Certain Numbers
 
-:10-6-3-p1_ga: Cuirtear urú ar an ainmfhocal i ndiaidh na mbunuimhreacha _seacht_ go _deich_, e.g., _seacht ndícheall_; _ocht gcinn_; _naoi mbliana_; _deich n-eachtra_ (féach link:./chapter9-ga.html#sec_9_3_1_i[9.3.1(i)]):
-:10-6-3-p1_en: Eclipsis is applied to the noun after the cardinal numbers _seacht_ to _deich_, e.g., _seacht ndícheall_; _ocht gcinn_; _naoi mbliana_; _deich n-eachtra_ (see link:./chapter9-en.html#sec_9_3_1_i[9.3.1(i)]):
+:10-6-3-p1_ga: Cuirtear urú ar an ainmfhocal i ndiaidh na mbunuimhreacha _seacht_ go _deich_, e.g., _seacht ndícheall_; _ocht gcinn_; _naoi mbliana_; _deich n-eachtra_ (féach link:./chapter9.html#sec_9_3_1_i[9.3.1(i)]):
+:10-6-3-p1_en: Eclipsis is applied to the noun after the cardinal numbers _seacht_ to _deich_, e.g., _seacht ndícheall_; _ocht gcinn_; _naoi mbliana_; _deich n-eachtra_ (see link:./chapter9.html#sec_9_3_1_i[9.3.1(i)]):
 
 :10-6-3-sample-1_ga: Cuirfear tús le *seacht gclár* faisnéise nua Dé Luain seo chugainn.
 :10-6-3-sample-1_en: A new *seven-part* documentary series will begin next Monday.
@@ -1099,9 +1099,8 @@
 
 :10-6-3-a-p_ga: gurb é an t-athrú tosaigh a ghabhann leis an uimhir dheiridh i sraith a bhíonn le cur ar an bhfocal nó ar na focail eile atá faoina réir, e.g., _sé nó seacht mbád_;
 :10-6-3-a-p_en: that the initial mutation that accompanies the final number in a series is applied to the word or words that follow it, e.g., _sé nó seacht mbád_;
-
-:10-6-3-b-p_ga: má úsáidtear an Córas Simplithe os cionn fiche (féach link:./chapter9-ga.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9-ga.html#sec_9_3_12[9.3.12]), nach gcuirtear urú ar an ainmfhocal, e.g., _fiche a seacht capall_; _49 fuinneog_.
-:10-6-3-b-p_en: if the Simplified System is used above twenty (see link:./chapter9-en.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9-en.html#sec_9_3_12[9.3.12]), no eclipsis is applied to the noun, e.g., _fiche a seacht capall_; _49 fuinneog_.
+:10-6-3-b-p_ga: má úsáidtear an Córas Simplithe os cionn fiche (féach link:./chapter9.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9.html#sec_9_3_12[9.3.12]), nach gcuirtear urú ar an ainmfhocal, e.g., _fiche a seacht capall_; _49 fuinneog_.
+:10-6-3-b-p_en: if the Simplified System is used above twenty (see link:./chapter9.html#sec_9_3_10[9.3.10] &ndash; link:./chapter9.html#sec_9_3_12[9.3.12]), no eclipsis is applied to the noun, e.g., _fiche a seacht capall_; _49 fuinneog_.
 
 :10-6-4-title_ga: I nDiaidh Réamhfhocail Shimplí Áirithe
 :10-6-4-title_en: After Certain Simple Prepositions
@@ -1130,8 +1129,8 @@
 :10-6-4-a-i-sample-2_ga: Tá an grúpa ceoil ar an ngearrliosta *in dhá* chomórtas.
 :10-6-4-a-i-sample-2_en: The music group is on the shortlist *in two* competitions.
 
-:10-6-4-a-ii-p_ga: roimh theidil leabhar, irisí nó scannán, etc., agus roimh ghiorrúcháin ar theidil eagraíochtaí, comhaontuithe, scéimeanna, etc., e.g., _in_ An tOileánach; _alt in_ Comhar; _in AE_; _in CAE_; _in FSS_ (ach féach link:./chapter3-ga.html#sec_3_2_2_B[3.2.2B]):
-:10-6-4-a-ii-p_en: before book titles, magazines or films, etc., and before abbreviations of titles of organizations, agreements, schemes, etc., e.g., _in_ An tOileánach; _alt in_ Comhar; _in AE_; _in CAE_; _in FSS_ (but see link:./chapter3-en.html#sec_3_2_2_B[3.2.2B]):
+:10-6-4-a-ii-p_ga: roimh theidil leabhar, irisí nó scannán, etc., agus roimh ghiorrúcháin ar theidil eagraíochtaí, comhaontuithe, scéimeanna, etc., e.g., _in_ An tOileánach; _alt in_ Comhar; _in AE_; _in CAE_; _in FSS_ (ach féach link:./chapter3.html#sec_3_2_2_B[3.2.2B]):
+:10-6-4-a-ii-p_en: before book titles, magazines or films, etc., and before abbreviations of titles of organizations, agreements, schemes, etc., e.g., _in_ An tOileánach; _alt in_ Comhar; _in AE_; _in CAE_; _in FSS_ (but see link:./chapter3.html#sec_3_2_2_B[3.2.2B]):
 
 :10-6-4-a-ii-sample-1_ga: Léigh mé alt suimiúil *in _Feasta_* an mhí seo caite.
 :10-6-4-a-ii-sample-1_en: I read an interesting article *in _Feasta_* last month.
@@ -1223,8 +1222,8 @@
 :10-8-1-a-sample-2_ga: Is é sin an fear *a dtugtar* aire dó san ionad cónaithe.
 :10-8-1-a-sample-2_en: That is the man *who is given* care in the residential center.
 
-:10-8-1-b-p_ga: réamhfhocal i gcumasc le _a_, coibhneas indíreach (féach link:./chapter11-ga.html#sec_11_6_1_c[11.6.1(c)]), e.g., _an tAcht dá_ (as _do+a_) _dtagraítear_; _an Bille lena_ (as _le+a_) _ndéantar leasú_:
-:10-8-1-b-p_en: a preposition composed with _a_, indirect relative (see link:./chapter11-en.html#sec_11_6_1_c[11.6.1(c)]), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
+:10-8-1-b-p_ga: réamhfhocal i gcumasc le _a_, coibhneas indíreach (féach link:./chapter11.html#sec_11_6_1_c[11.6.1(c)]), e.g., _an tAcht dá_ (as _do+a_) _dtagraítear_; _an Bille lena_ (as _le+a_) _ndéantar leasú_:
+:10-8-1-b-p_en: a preposition composed with _a_, indirect relative (see link:./chapter11.html#sec_11_6_1_c[11.6.1(c)]), e.g., _an tAcht dá_ (from _do+a_) _dtagraítear_; _an Bille lena_ (from _le+a_) _ndéantar leasú_:
 
 :10-8-1-b-sample-1_ga: Is é sin an chuideachta *óna bhfuair* mé mo théacsleabhair.
 :10-8-1-b-sample-1_en: That is the company *from which* I got my textbooks.
@@ -1328,8 +1327,8 @@
 :10-10-title_ga: _t_ roimh _s_ i nDiaidh an Ailt
 :10-10-title_en: _t_ before _s_ after the Article
 
-:10-10-1-p_ga: Cuirtear _t_ roimh _s_ i ndiaidh an ailt más guta nó _l_, _n_ nó _r_ atá ar a lorg i gcásanna áirithe i ndiaidh an ailt de réir link:./chapter1-ga.html[Chaibidil 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
-:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial letter in certain contexts after the article according to link:./chapter1-en.html[Chapter 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
+:10-10-1-p_ga: Cuirtear _t_ roimh _s_ i ndiaidh an ailt más guta nó _l_, _n_ nó _r_ atá ar a lorg i gcásanna áirithe i ndiaidh an ailt de réir link:./chapter1.html[Chaibidil 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
+:10-10-1-p_en: _t_ is placed before _s_ after the article if a vowel or _l_, _n_ or _r_ is the initial letter in certain contexts after the article according to link:./chapter1.html[Chapter 1], e.g., _an tslat_; _an tsnaidhm_; _an tsreang_; _ar an tsráid_; _faoin tsinsearacht_; _deireadh an tséasúir_; _eochair an tsiopadóra_; _cótaí an tseachtair_.
 
 :10-10-1-sample-1_ga: Ná bain *an tsrón* díom!
 :10-10-1-sample-1_en: Don't *take the nose from me*! (Meaning: Don't bite my nose off!)
@@ -1403,8 +1402,8 @@
 :10-11-2-a-sample-2_ga: Tá *an t-ochtú heagrán* den iris ar fáil anois.
 :10-11-2-a-sample-2_en: *The eighth edition* of the magazine is now available.
 
-:10-11-2-b-p1_ga: Cuirtear _h_ roimh uaire i ndiaidh _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí_ (_ceithre_, _cúig_, _sé_) _huaire_ (féach link:./chapter9-ga.html#sec_9_3_2_c[9.3.2(c)]).
-:10-11-2-b-p1_en: _h_ is placed before hour after _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí_ (_ceithre_, _cúig_, _sé_) _huaire_ (see link:./chapter9-en.html#sec_9_3_2_c[9.3.2(c)]).
+:10-11-2-b-p1_ga: Cuirtear _h_ roimh uaire i ndiaidh _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí_ (_ceithre_, _cúig_, _sé_) _huaire_ (féach link:./chapter9.html#sec_9_3_2_c[9.3.2(c)]).
+:10-11-2-b-p1_en: _h_ is placed before hour after _trí_, _ceithre_, _cúig_, _sé_, e.g., _trí_ (_ceithre_, _cúig_, _sé_) _huaire_ (see link:./chapter9.html#sec_9_3_2_c[9.3.2(c)]).
 
 :10-11-2-b-sample-1_ga: Theip uirthi *trí huaire* as a chéile.
 :10-11-2-b-sample-1_en: She failed *three times* in a row.
@@ -1478,8 +1477,8 @@
 :10-11-8-title_ga: I nDiaidh _ní_
 :10-11-8-title_en: After _ní_
 
-:10-11-8-p1_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ (an fhoirm dhiúltach, aimsir láithreach den chopail (féach link:./chapter7-ga.html#sec_7_2_5[7.2.5])):
-:10-11-8-p1_en: _h_ is placed before a vowel after _ní_ (the negative form, present tense of the copula (see link:./chapter7-en.html#sec_7_2_5[7.2.5])):
+:10-11-8-p1_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ (an fhoirm dhiúltach, aimsir láithreach den chopail (féach link:./chapter7.html#sec_7_2_5[7.2.5])):
+:10-11-8-p1_en: _h_ is placed before a vowel after _ní_ (the negative form, present tense of the copula (see link:./chapter7.html#sec_7_2_5[7.2.5])):
 
 :10-11-8-a-p_ga: ar na hainmfhocail _áibhéil_, _ionadh_, _iontas_ agus _ualach_:
 :10-11-8-a-p_en: on the nouns _áibhéil_, _ionadh_, _iontas_ and _ualach_:
@@ -1532,8 +1531,8 @@
 :10-12-2-title_ga: I nDiaidh _ní_
 :10-12-2-title_en: After _ní_
 
-:10-12-2-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ (an fhoirm dhiúltach, aimsir láithreach den chopail (féach link:./chapter7-ga.html[Caibidil 7])):
-:10-12-2-p_en: _h_ is placed before a vowel after _ní_ (the negative form, present tense of the copula (see link:./chapter7-en.html[Chapter 7])):
+:10-12-2-p_ga: Cuirtear _h_ roimh ghuta i ndiaidh _ní_ (an fhoirm dhiúltach, aimsir láithreach den chopail (féach link:./chapter7.html[Caibidil 7])):
+:10-12-2-p_en: _h_ is placed before a vowel after _ní_ (the negative form, present tense of the copula (see link:./chapter7.html[Chapter 7])):
 
 :10-12-2-a-p_ga: ar na haidiachtaí _amháin_, _aon_, _ionann_ agus _iondúil_, agus ar na dobhriathra _amhlaidh_ agus _annamh_:
 :10-12-2-a-p_en: on the adjectives _amháin_, _aon_, _ionann_ and _iondúil_, and on the adverbs _amhlaidh_ and _annamh_:

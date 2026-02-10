@@ -115,10 +115,10 @@
 :5-1-8-title_ga: An Fhoirm Spleách
 :5-1-8-title_en: The Dependent Form
 
-:5-1-8-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ nó _do_ + _a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach link:./chapter10-ga.html#sec_10_4_2[10.4.2] agus link:./chapter10-ga.html#sec_10_8_2[10.8.2])).
-:5-1-8-p_en: The dependent form follows these conjunctions, relative pronominals and verbs: _a/ar_ (= the relative particle), _a/ar_ (= _an méid a/ar_, _EN: the size/extent_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ or _do_ + _a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see link:./chapter10-en.html#sec_10_4_2[10.4.2] and link:./chapter10-en.html#sec_10_8_2[10.8.2]).
+:5-1-8-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ nó _do_ + _a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach link:./chapter10.html#sec_10_4_2[10.4.2] agus link:./chapter10.html#sec_10_8_2[10.8.2])).
+:5-1-8-p_en: The dependent form follows these conjunctions, relative pronominals and verbs: _a/ar_ (= the relative particle), _a/ar_ (= _an méid a/ar_, _EN: the size/extent_), _an/ar_, _cá/cár_, _dá/dár_, (_de_ or _do_ + _a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see link:./chapter10.html#sec_10_4_2[10.4.2] and link:./chapter10.html#sec_10_8_2[10.8.2]).
 
-:5-1-8-note_ga: San aimsir chaite amháin a úsáidtear na leaganacha a chríochnaíonn ar _-r_ thuas (ach féach link:./chapter5-ga.html#sec_5_4_5[5.4.5]).
+:5-1-8-note_ga: San aimsir chaite amháin a úsáidtear na leaganacha a chríochnaíonn ar _-r_ thuas (ach féach link:./chapter5.html#sec_5_4_5[5.4.5]).
 :5-1-8-note_en: The forms ending in _-r_ above are used only in the past tense (but see link:./chapter5-en.html#sec_5_4_5[5.4.5]).
 
 :5-1-9-title_ga: Aimsir an Bhriathair i gcás _má_ agus _nuair_
@@ -160,8 +160,8 @@
 :Table5C-caption_ga: An Chéad Réimniú &#8212; Réimniú an Bhriathair _bris_
 :Table5C-caption_en: The First Conjugation &#8212; Conjugation of the Verb _bris_
 
-:Table5C-Note_ga: Séimhítear an briathar neamhspleách rialta sa mhodh táscach, aimsir chaite (seachas an saorbhriathar) agus aimsir ghnáthchaite, agus sa mhodh coinníollach. Tá tuilleadh eolais in link:./chapter10-ga.html#sec_10_4[10.4] faoi na cásanna eile ina séimhítear an briathar spleách agus neamhspleách agus pléitear na cásanna ina n-uraítear an briathar in link:./chapter10-ga.html#sec_10_8[10.8].
-:Table5C-Note_en: The independent verb is lenited in the indicative mood for past tense (other than the autonomous verb) and for past habitual tense, and in the conditional mood. There is more information in link:./chapter10-en.html#sec_10_4[10.4] about the other contexts in which the dependent and independent verb is lenited and the contexts in which the verb is eclipsed are discussed in link:./chapter10-en.html#sec_10_8[10.8].
+:Table5C-Note_ga: Séimhítear an briathar neamhspleách rialta sa mhodh táscach, aimsir chaite (seachas an saorbhriathar) agus aimsir ghnáthchaite, agus sa mhodh coinníollach. Tá tuilleadh eolais in link:./chapter10.html#sec_10_4[10.4] faoi na cásanna eile ina séimhítear an briathar spleách agus neamhspleách agus pléitear na cásanna ina n-uraítear an briathar in link:./chapter10.html#sec_10_8[10.8].
+:Table5C-Note_en: The independent verb is lenited in the indicative mood for past tense (other than the autonomous verb) and for past habitual tense, and in the conditional mood. There is more information in link:./chapter10.html#sec_10_4[10.4] about the other contexts in which the dependent and independent verb is lenited and the contexts in which the verb is eclipsed are discussed in link:./chapter10.html#sec_10_8[10.8].
 
 :5-2-1-a-p_ga: Is ar an gcuma chéanna le _mol_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan leathan, agus is ar an gcuma chéanna le _bris_ a réimnítear briathra rialta ó fhréamhacha aonsiollacha a chríochnaíonn ar chonsan caol.
 :5-2-1-a-p_en: Regular verbs from monosyllabic roots ending in a broad consonant are formed in the same way as _mol_, and regular verbs are formed from monosyllabic roots ending in a slender consonant in the same way as _bris_.
@@ -316,7 +316,7 @@
 :5-4-5-title_ga: An Fhoirm Spleách
 :5-4-5-title_en: The Dependent Form
 
-:5-4-5-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ nó _do+a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach link:./chapter10-ga.html#sec_10_4_2[10.4.2] agus link:./chapter10-ga.html#sec_10_8_2[10.8.2]). Is le _ní_ nó _go_ a léirítear an fhoirm spleách sna táblaí.
+:5-4-5-p_ga: Is í an fhoirm spleách a leanann na cónaisc, na forainmneacha coibhneasta agus na míreanna briathartha seo: _a/ar_ (= an mhír choibhneasta), _a/ar_ (= _an méid a/ar_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ nó _do+a_ (_ar_)) agus _dá_ (coinníollach), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (féach link:./chapter10.html#sec_10_4_2[10.4.2] agus link:./chapter10.html#sec_10_8_2[10.8.2]). Is le _ní_ nó _go_ a léirítear an fhoirm spleách sna táblaí.
 :5-4-5-p_en: The dependent form follows these conjunctions, relative pronominals and verbs: _a/ar_ (= the relative clause), _a/ar_ (= _an méid a/ar_, _EN: the size/extent_), _an/ar_, _cá/cár_, _dá/dár_ (_de_ or _do+a_ (_ar_)) and _dá_ (conditional), _go/gur_, _mura/murar_, _nach/nár_, _ní/níor_, _sula/sular_ (see link:./chapter10-en.html#sec_10_4_2[10.4.2] and link:./chapter10-en.html#sec_10_8_2[10.8.2]). The dependent form in the tables is represented by _ní_ or _go_.
 
 :5-4-5-a-p_ga: Úsáidtear na míreanna sin leis na briathra neamhrialta ar an modh céanna ar a n-úsáidtear iad leis na briathra rialta.
@@ -559,8 +559,8 @@
 :Table5AA-trait6_ga: Corrainm briathartha eile
 :Table5AA-trait6_en: A few other verbal nouns
 
-:Table5AA-Note_ga: Níl gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter3-ga.html#sec_3_3_4[3.3.4]) ag ainmneacha briathartha a chríochnaíonn ar _-(e)adh_ nó a chríochnaíonn ar ghuta fada, e.g., _bearradh_, _cló_, _cónaí_.
-:Table5AA-Note_en: Verbal nouns ending in _-(e)adh_ or ending in a long vowel do not have a normal genitive according to one of the declensions (see link:./chapter3-en.html#sec_3_3_4[3.3.4]), e.g., _bearradh_, _cló_, _cónaí_.
+:Table5AA-Note_ga: Níl gnáthghinideach de réir ceann de na díochlaontaí (féach link:./chapter3.html#sec_3_3_4[3.3.4]) ag ainmneacha briathartha a chríochnaíonn ar _-(e)adh_ nó a chríochnaíonn ar ghuta fada, e.g., _bearradh_, _cló_, _cónaí_.
+:Table5AA-Note_en: Verbal nouns ending in _-(e)adh_ or ending in a long vowel do not have a normal genitive according to one of the declensions (see link:./chapter3.html#sec_3_3_4[3.3.4]), e.g., _bearradh_, _cló_, _cónaí_.
 
 :5-6-1-b-p_ga: Is é ginideach an ainmfhocail, de réir an díochlaonta lena mbaineann, a bhíonn --
 :5-6-1-b-p_en: The genitive of the noun, according to the related declension, may belong to --
@@ -571,14 +571,14 @@
 :Table5BB-caption_ga: Díochlaonadh an Ainm Bhriathartha &mdash; Ainmneacha Briathartha Áirithe
 :Table5BB-caption_en: Declension of the Verbal Noun &mdash; Certain Verb Nouns
 
-:Table5BB-trait1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach link:./chapter2-ga.html#sec_2_2_2[2.2.2])
-:Table5BB-trait1_en: As a noun in the First Declension (see link:./chapter2-en.html#sec_2_2_2[2.2.2])
+:Table5BB-trait1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach link:./chapter2.html#sec_2_2_2[2.2.2])
+:Table5BB-trait1_en: As a noun in the First Declension (see link:./chapter2.html#sec_2_2_2[2.2.2])
 
-:Table5BB-trait2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach link:./chapter2-ga.html#sec_2_3_2[2.3.2])
-:Table5BB-trait2_en: As a noun in the Second Declension (see link:./chapter2-en.html#sec_2_3_2[2.3.2])
+:Table5BB-trait2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach link:./chapter2.html#sec_2_3_2[2.3.2])
+:Table5BB-trait2_en: As a noun in the Second Declension (see link:./chapter2.html#sec_2_3_2[2.3.2])
 
-:Table5BB-trait3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, _-aíl_, _-áint_, _-úint_, _-cht_ agus corrainm briathartha eile (féach link:./chapter2-ga.html#sec_2_4_2[2.4.2])
-:Table5BB-trait3_en: As a noun in the Third Declension, for verbal nouns ending in _-áil_, _-áíl_, _-áint_, _-únt_, _-cht_ and other verbal nouns (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
+:Table5BB-trait3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcás ainmneacha briathartha a chríochnaíonn ar _-áil_, _-aíl_, _-áint_, _-úint_, _-cht_ agus corrainm briathartha eile (féach link:./chapter2.html#sec_2_4_2[2.4.2])
+:Table5BB-trait3_en: As a noun in the Third Declension, for verbal nouns ending in _-áil_, _-áíl_, _-áint_, _-únt_, _-cht_ and other verbal nouns (see link:./chapter2.html#sec_2_4_2[2.4.2])
 
 :5-6-1-b-ii-p_ga: ar ghnáth-ainmfhocail a úsáidtear chun feidhmeanna de chuid ainm briathartha a dhéanamh ach nach dtéann réimniú briathair thairis sin orthu:
 :5-6-1-b-ii-p_en: common nouns which are used to perform the functions of a verbal noun but which do not undergo verbal conjugation beyond that:
@@ -586,14 +586,14 @@
 :Table5CC-caption_ga: Díochlaonadh an Ainm Bhriathartha &mdash; Gnáth-Ainmfhocail a úsáidtear chun Feidhmeanna de chuid Ainm Briathartha a dhéanamh
 :Table5CC-caption_en: Declension of the Verbal Noun &mdash; Common Nouns used to Perform Verbal Noun Functions
 
-:Table5CC-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach link:./chapter2-ga.html#sec_2_2_2[2.2.2])
-:Table5CC-trait-1_en: As a noun in the First Declension (see link:./chapter2-en.html#sec_2_2_2[2.2.2])
+:Table5CC-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach link:./chapter2.html#sec_2_2_2[2.2.2])
+:Table5CC-trait-1_en: As a noun in the First Declension (see link:./chapter2.html#sec_2_2_2[2.2.2])
 
-:Table5CC-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach link:./chapter2-ga.html#sec_2_3_2[2.3.2])
-:Table5CC-trait-2_en: As a noun in the Second Declension (see link:./chapter2-en.html#sec_2_3_2[2.3.2])
+:Table5CC-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach link:./chapter2.html#sec_2_3_2[2.3.2])
+:Table5CC-trait-2_en: As a noun in the Second Declension (see link:./chapter2.html#sec_2_3_2[2.3.2])
 
-:Table5CC-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcásanna ina gcuirtear foirceann leis an mbun-ainmfhocal, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ agus i gcás corrainm briathartha eile (féach link:./chapter2-ga.html#sec_2_4_2[2.4.2])
-:Table5CC-trait-3_en: As a noun in the Third Declension, where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and for other verbal nouns (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
+:Table5CC-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh, i gcásanna ina gcuirtear foirceann leis an mbun-ainmfhocal, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ agus i gcás corrainm briathartha eile (féach link:./chapter2.html#sec_2_4_2[2.4.2])
+:Table5CC-trait-3_en: As a noun in the Third Declension, where a suffix is added to the base noun, e.g., _bádóir_, _bádóireacht_; _peata_, _peataireacht_ and for other verbal nouns (see link:./chapter2.html#sec_2_4_2[2.4.2])
 
 :Table5CC-Note_ga: Ainmneacha briathartha de na cineálacha sin atá luaite in link:#sec_5_6_1_b_ii[5.6.1(b)(ii)] roimhe seo, ní bhíonn foirm don aidiacht bhriathartha orthu. Tá foirm na haidiachta briathartha in easnamh freisin ar ghnáthainmneacha briathartha áirithe, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
 :Table5CC-Note_en: Verbal nouns of the types mentioned in link:#sec_5_6_1_b_ii[5.6.1(b)(ii)] above do not have a form for the verbal adjective. Some regular nouns also lack the verbal adjective form, e.g., _achainí_, _uair na hachainí_; _fónamh_, _fear fónaimh_; _gol_, _racht goil_; _guí_, _faoi bhrí na guí_; _maireachtáil_, _slí mhaireachtála_.
@@ -608,14 +608,14 @@
 :Table5DD-col1_ga: Athleagan ar Ainm Briathartha
 :Table5DD-col1_en: Alternate Version of the Verbal Noun
 
-:Table5DD-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach link:./chapter2-ga.html#sec_2_2_2[2.2.2])
-:Table5DD-trait-1_en: As a noun in the First Declension (see link:./chapter2-en.html#sec_2_2_2[2.2.2])
+:Table5DD-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (féach link:./chapter2.html#sec_2_2_2[2.2.2])
+:Table5DD-trait-1_en: As a noun in the First Declension (see link:./chapter2.html#sec_2_2_2[2.2.2])
 
-:Table5DD-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach link:./chapter2-ga.html#sec_2_3_2[2.3.2])
-:Table5DD-trait-2_en: As a noun in the Second Declension (see link:./chapter2-en.html#sec_2_3_2[2.3.2])
+:Table5DD-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (féach link:./chapter2.html#sec_2_3_2[2.3.2])
+:Table5DD-trait-2_en: As a noun in the Second Declension (see link:./chapter2.html#sec_2_3_2[2.3.2])
 
-:Table5DD-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh (féach link:./chapter2-ga.html#sec_2_4_2[2.4.2])
-:Table5DD-trait-3_en: As a noun in the Third Declension (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
+:Table5DD-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh (féach link:./chapter2.html#sec_2_4_2[2.4.2])
+:Table5DD-trait-3_en: As a noun in the Third Declension (see link:./chapter2.html#sec_2_4_2[2.4.2])
 
 :5-6-1-c-p_ga: Tá roinnt ainmneacha briathartha ann a bhfuil dhá fhoirm orthu sa ghinideach -- foirm na haidiachta briathartha agus foirm de réir ceann de dhíochlaontaí na n-ainmfhocal:
 :5-6-1-c-p_en: There are some verbal nouns that have two forms in the genitive -- the form of the verbal adjective and the form according to one of the noun declensions:
@@ -626,13 +626,13 @@
 :Table5EE-col3_ga: Foirm an Ghinidigh de réir Ceann de na Díochlaontaí
 :Table5EE-col3_en: Form of the Genitive according to One of the Declensions
 
-:Table5EE-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (formhór na n-ainmneacha briathartha firinscneacha a chríochnaíonn ar chonsan leathan) (féach link:./chapter2-ga.html#sec_2_2_2[2.2.2])
-:Table5EE-trait-1_en: As a noun in the First Declension (most masculine verbal nouns ending in a broad consonant) (see link:./chapter2-en.html#sec_2_2_2[2.2.2])
+:Table5EE-trait-1_ga: Amhail ainmfhocal den Chéad Díochlaonadh (formhór na n-ainmneacha briathartha firinscneacha a chríochnaíonn ar chonsan leathan) (féach link:./chapter2.html#sec_2_2_2[2.2.2])
+:Table5EE-trait-1_en: As a noun in the First Declension (most masculine verbal nouns ending in a broad consonant) (see link:./chapter2.html#sec_2_2_2[2.2.2])
 
-:Table5EE-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (beagán ainmneacha briathartha baininscneacha) (féach link:./chapter2-ga.html#sec_2_3_2[2.3.2])
-:Table5EE-trait-2_en: As a noun in the Second Declension (a few feminine verbal nouns) (see link:./chapter2-en.html#sec_2_3_2[2.3.2])
+:Table5EE-trait-2_ga: Amhail ainmfhocal den Dara Díochlaonadh (beagán ainmneacha briathartha baininscneacha) (féach link:./chapter2.html#sec_2_3_2[2.3.2])
+:Table5EE-trait-2_en: As a noun in the Second Declension (a few feminine verbal nouns) (see link:./chapter2.html#sec_2_3_2[2.3.2])
 
-:Table5EE-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh (ainmneacha briathartha baininscneacha a chríochnaíonn ar _-chan_ agus _crith_, _foghlaim_, _íoc_, _reic_, _rith_, _seinm_, _slad_, _snámh_, _sníomh_, _tairiscint_, _tál_, _trácht_, _triall_, _troid_, _tuiscint_) (féach link:./chapter2-ga.html#sec_2_4_2[2.4.2])
+:Table5EE-trait-3_ga: Amhail ainmfhocal den Tríú Díochlaonadh (ainmneacha briathartha baininscneacha a chríochnaíonn ar _-chan_ agus _crith_, _foghlaim_, _íoc_, _reic_, _rith_, _seinm_, _slad_, _snámh_, _sníomh_, _tairiscint_, _tál_, _trácht_, _triall_, _troid_, _tuiscint_) (féach link:./chapter2.html#sec_2_4_2[2.4.2])
 :Table5EE-trait-3_en: As a noun in the Third Declension (feminine nouns ending in _-chan_ and _crith_, _foghlaim_, _íoc_, _reic_, _rith_, _seinm_, _slad_, _snámh_, _sníomh_, _tairiscint_, _tál_, _trácht_, _triall_, _troid_, _tuiscint_) (see link:./chapter2-en.html#sec_2_4_2[2.4.2])
 
 :5-6-1-c-i-p_ga: Is í foirm na haidiachta briathartha a úsáidtear nuair atá cuspóir ag gabháil leis an ainm briathartha.
@@ -680,5 +680,5 @@
 :5-7-1-title_ga: Réimíreanna leis an Aidiacht Bhriathartha
 :5-7-1-title_en: Prefixes with the Verbal Adjective
 
-:5-7-1-p_ga: Úsáidtear na réimíreanna _do-_, _in-_, _so-_ le foirm na haidiachta briathartha chun rangabhálacha a dhéanamh, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (Féach link:./chapter4-ga.html#sec_4_12[4.12] le haghaidh tuilleadh eolais ar an aidiacht bhriathartha.)
-:5-7-1-p_en: The prefixes _do-_, _in-_, _so-_ are used with the form of the verbal adjective to make classifications, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (See link:./chapter4-en.html#sec_4_12[4.12] for more information on the verbal adjective.)
+:5-7-1-p_ga: Úsáidtear na réimíreanna _do-_, _in-_, _so-_ le foirm na haidiachta briathartha chun rangabhálacha a dhéanamh, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (Féach link:./chapter4.html#sec_4_12[4.12] le haghaidh tuilleadh eolais ar an aidiacht bhriathartha.)
+:5-7-1-p_en: The prefixes _do-_, _in-_, _so-_ are used with the form of the verbal adjective to make classifications, e.g., _dochoiscthe_, _dofheicthe_, _doghluaiste_, _dothuigthe_, _indéanta_, _inscrúdaithe_, _sofheicthe_, _sofhoghlamtha_, _sophacáilte_. (See link:./chapter4.html#sec_4_12[4.12] for more information on the verbal adjective.)

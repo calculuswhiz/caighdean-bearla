@@ -3,6 +3,7 @@ import fs from "fs/promises";
 import path from "path";
 import { JSDOM } from "jsdom";
 import { EasyDOM } from "../src/EasyDOM";
+import { applyMenuTranslations } from "./HomeMenu";
 
 /*
 Run command to generate all chapters:
@@ -174,6 +175,7 @@ function giveListItemsIds(document: Document) {
   }
 }
 
+const languages = ['en', 'ga'] as const;
 /**
  * Generate the full HTML document for a chapter and write to `entrypoints`.
  * @param chapterFolder The chapter id
@@ -182,7 +184,6 @@ async function generateDoc(chapterFolder: string) {
   const devMode = process.argv.includes("--dev");
 
   const chapterTemplate = await fs.readFile(`./src/chapterTemplate.html`, "utf-8");
-  const languages = ['en', 'ga'];
 
   const chapterBaseDir = `./translation/${chapterFolder}`;
   const [layoutModule, chapterAttributesModule, commonAttributesModule] =
@@ -212,7 +213,27 @@ async function generateDoc(chapterFolder: string) {
     giveListItemsIds(jsDom.window.document);
 
     await fs.writeFile(
-      `./entrypoints/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}-${lang}.html`,
+      `./entrypoints/${lang}/${chapterFolder[0].toLocaleLowerCase()}${chapterFolder.slice(1)}.html`,
+      jsDom.serialize(),
+      "utf-8");
+  }
+}
+
+/** Using menuTemplate.html, generate the main page for each language */
+async function generateMainPages() {
+  console.log("Generating main pages...");
+
+  const menuTemplate = await fs.readFile(`./src/menuTemplate.html`, "utf-8");
+
+  for (const lang of languages) {
+    const jsDom = new JSDOM(menuTemplate);
+    EasyDOM.document = jsDom.window.document;
+    EasyDOM.HTMLElement = jsDom.window.HTMLElement;
+
+    applyMenuTranslations(lang);
+
+    await fs.writeFile(
+      `./entrypoints/${lang}/index.html`,
       jsDom.serialize(),
       "utf-8");
   }
@@ -234,11 +255,15 @@ async function generateDoc(chapterFolder: string) {
   if (process.argv.includes("--all")) {
     await fs.rm("./entrypoints/", { recursive: true, force: true });
     await fs.mkdir("./entrypoints/");
+    await fs.mkdir("./entrypoints/en");
+    await fs.mkdir("./entrypoints/ga");
 
     for (const chapterFolder of allChapters) {
       console.log(`Generating chapter: ${chapterFolder}`);
       await generateDoc(chapterFolder);
     }
+
+    await generateMainPages();
   } else if (process.argv.includes("--watch")) {
     console.log("Watching for changes...");
     const watcher = fs.watch("./translation/", { recursive: true });

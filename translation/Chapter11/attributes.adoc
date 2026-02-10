@@ -833,8 +833,8 @@
 :11-8-title_ga: An Chopail agus an Clásal Coibhneasta
 :11-8-title_en: The Copula and the Relative Clause
 
-:11-8-1-p_ga: Seo thíos foirmeacha na copaile a úsáidtear i gclásail choibhneasta (féach freisin link:./chapter7-ga.html#sec_7_2_3[7.2.3] agus link:./chapter7-ga.html#sec_7_2_4[7.2.4] le haghaidh tuilleadh faisnéise).
-:11-8-1-p_en: Below are the forms of the copula used in relative clauses (see also link:./chapter7-en.html#sec_7_2_3[7.2.3] and link:./chapter7-en.html#sec_7_2_4[7.2.4] for further information).
+:11-8-1-p_ga: Seo thíos foirmeacha na copaile a úsáidtear i gclásail choibhneasta (féach freisin link:./chapter7.html#sec_7_2_3[7.2.3] agus link:./chapter7.html#sec_7_2_4[7.2.4] le haghaidh tuilleadh faisnéise).
+:11-8-1-p_en: Below are the forms of the copula used in relative clauses (see also link:./chapter7.html#sec_7_2_3[7.2.3] and link:./chapter7.html#sec_7_2_4[7.2.4] for further information).
 
 :Table11D-caption_ga: Foirmeacha na Copaile i gClásal Coibhneasta
 :Table11D-caption_en: Forms of the Copula in a Relative Clause
@@ -920,8 +920,8 @@
 :11-8-4-sample-6_ga: Is de réir a chéile *a dhéantar* dul chun cinn.
 :11-8-4-sample-6_en: It is gradually *that* progress is made.
 
-:11-8-5-p_ga: Déantar cumasc idir na foirmeacha den chopail _ar_, _arb_ agus _arbh_ agus na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ mar a leagtar amach anseo thíos (féach freisin link:./chapter7-ga.html#sec_7_3_2[7.3.2]).
-:11-8-5-p_en: A compound is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also link:./chapter7-en.html#sec_7_3_2[7.3.2]).
+:11-8-5-p_ga: Déantar cumasc idir na foirmeacha den chopail _ar_, _arb_ agus _arbh_ agus na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ mar a leagtar amach anseo thíos (féach freisin link:./chapter7.html#sec_7_3_2[7.3.2]).
+:11-8-5-p_en: A compound is made between the forms of the copula _ar_, _arb_ and _arbh_ and the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ as outlined below (see also link:./chapter7.html#sec_7_3_2[7.3.2]).
 
 :Table11E-caption_ga: Foirmeacha Cumaisc -- Réamhfhocail leis na Míreanna _ar_, _arb_ agus _arbh_
 :Table11E-caption_en: Fused Forms -- Prepositions with the Particles _ar_, _arb_ and _arbh_

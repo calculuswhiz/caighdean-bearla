@@ -618,8 +618,8 @@
 :7-3-1-A-title_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :7-3-1-A-title_en: The Present Tense and the Future Tense
 
-:7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach link:./chapter8-ga.html#sec_8_5_4[8.5.4]).
-:7-3-1-A-p_en: In the table below, examples of interrogative pronominals composed with the copula in the present tense or future tense are given (see link:./chapter8-en.html#sec_8_5_4[8.5.4]).
+:7-3-1-A-p_ga: Sa tábla thíos, leagtar amach samplaí d'fhorainmnigh cheisteacha i gcumasc leis an gcopail san aimsir láithreach nó san aimsir fháistineach (féach link:./chapter8.html#sec_8_5_4[8.5.4]).
+:7-3-1-A-p_en: In the table below, examples of interrogative pronominals composed with the copula in the present tense or future tense are given (see link:./chapter8.html#sec_8_5_4[8.5.4]).
 
 :Table7M-header_ga: An Aimsir Láithreach agus an Aimsir Fháistineach
 :Table7M-header_en: The Present Tense and Future Tense

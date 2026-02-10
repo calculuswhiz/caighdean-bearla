@@ -175,8 +175,8 @@
 :1-1-5-i-A-iii_ga: má chríochnaíonn sé ar _-e_, _-é_, e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 :1-1-5-i-A-iii_en: if it ends with _-e_, _-é_ e.g., _an Chóiré_, _an Chrimé_, _an Ghuine_, _an tSile_.
 
-:1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain_, _Éire_ (féach link:./chapter3-ga.html#sec_3_1_4[3.1.4]).
-:1-1-5-i-A-p2_en: Some names of countries and regions end with a slender consonant but are not accompanied by the article, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive for _Albain_, _Éire_ (see link:./chapter3-en#sec_3_1_4[3.1.4]).
+:1-1-5-i-A-p2_ga: Tá roinnt ainmneacha tíortha agus réigiún ann a chríochnaíonn ar chonsan caol ach nach ngabhann an t-alt leo, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, nó atá san uimhir uatha agus a chríochnaíonn ar _-í_ agus nach ngabhann an t-alt leo, e.g., _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. Ní úsáidtear an t-alt ach amháin sa ghinideach i gcás _Albain_, _Éire_ (féach link:./chapter3.html#sec_3_1_4[3.1.4]).
+:1-1-5-i-A-p2_en: Some names of countries and regions end with a slender consonant but are not accompanied by the article, e.g., _Bairéin_, _Beinin_, _Cuáit_, _Éimin_, _Guadalúip_, _Lichtinstéin_, _Mósaimbíc_, or end with _-í_ in the singular but are not accompanied by the article e.g. _Geansaí_, _Geirsí_, _Háítí_, _Haváí_, _Mailí_, _Taihítí_. The article is not used except for the genitive for _Albain_, _Éire_ (see link:./chapter3.html#sec_3_1_4[3.1.4]).
 
 :1-1-5-i-A-sample1_ga: Is tír álainn í *an Fhrainc*.
 :1-1-5-i-A-sample1_en: *France* is a beautiful country.
@@ -289,8 +289,8 @@
 :h2-gp-2-5-title_ga: Na Tuisil
 :h2-gp-2-5-title_en: The Cases
 
-:h2-gp-2-5-p_ga: Cúig thuiseal atá sa Ghaeilge: an tuiseal ainmneach, an tuiseal cuspóireach, an tuiseal tabharthach, an tuiseal ginideach agus an tuiseal gairmeach (féach link:./chapter2-ga#sec_2_1_2[2.1.2]). Sna táblaí a leanas, taispeántar na hathruithe a dhéantar ar an alt agus ar thúslitir an ainmfhocail bunaithe ar cheithre ní -- inscne, tuiseal, uimhir agus túslitir an ainmfhocail. Féach freisin link:chapter10-ga.html[Caibidil 10] le haghaidh eolas breise ar na hathruithe tosaigh.
-:h2-gp-2-5-p_en: There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see link:./chapter2-en#sec_2_1_2[2.1.2]). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items -- gender, case, number and the first letter of the noun. Also see link:chapter10-en.html[Chapter 10] for additional information about initial mutations.
+:h2-gp-2-5-p_ga: Cúig thuiseal atá sa Ghaeilge: an tuiseal ainmneach, an tuiseal cuspóireach, an tuiseal tabharthach, an tuiseal ginideach agus an tuiseal gairmeach (féach link:./chapter2.html#sec_2_1_2[2.1.2]). Sna táblaí a leanas, taispeántar na hathruithe a dhéantar ar an alt agus ar thúslitir an ainmfhocail bunaithe ar cheithre ní -- inscne, tuiseal, uimhir agus túslitir an ainmfhocail. Féach freisin link:chapter10.html[Caibidil 10] le haghaidh eolas breise ar na hathruithe tosaigh.
+:h2-gp-2-5-p_en: There are five cases in the Irish language: the nominative case, the accusative case, the dative case, the genitive case and the vocative case (see link:./chapter2.html#sec_2_1_2[2.1.2]). In the following tables, changes applied to the article and the first letter of the noun are shown based on four items -- gender, case, number and the first letter of the noun. Also see link:chapter10.html[Chapter 10] for additional information about initial mutations.
 
 :1-2-title_ga: An Tuiseal Ainmneach agus an Tuiseal Cuspóireach Uatha
 :1-2-title_en: The Nominative Case and the Singular Accusative Case
@@ -463,8 +463,8 @@
 :1-5-1-e-sample2_ga: Rinne siad achomharc *chun na cúirte*.
 :1-5-1-e-sample2_en: They made an appeal *to the court*.
 
-:1-5-1-p2_ga: Féach link:./chapter3-ga#sec_3_3[3.3] le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
-:1-5-1-p2_en: See link:./chapter3-en#sec_3_3[3.3] for contexts where the nominative form is used instead of the genitive.
+:1-5-1-p2_ga: Féach link:./chapter3.html#sec_3_3[3.3] le haghaidh cásanna ina n-úsáidtear foirm an ainmnigh in ionad an ghinidigh.
+:1-5-1-p2_en: See link:./chapter3.html#sec_3_3[3.3] for contexts where the nominative form is used instead of the genitive.
 
 :1-5-2-p_ga: Sa tábla thíos, léirítear an tionchar a bhíonn ag an alt ar an ainmfhocal sa tuiseal ginideach uatha.
 :1-5-2-p_en: In the table below, the effect of the article on the noun in the genitive singular case is shown.

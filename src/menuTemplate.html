@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The Irish Official Standard - Web Version</title>
+  <link rel="stylesheet" href="/src/index.css" />
+</head>
+
+<body>
+  <div id="root">
+    <div class="max-w-[900px] pl-1 pt-1">
+      <header class="border-b-1 border-black text-center bg-green-100 select-none">
+        <h1 id="book-title" class="text-2xl font-bold">Irish Grammar</h1>
+        <h2 id="book-subtitle" class="text-xl mb-1">The Official Standard</h2>
+        <p id="book-about">The guide to writing in Irish</p>
+        <p id="publisher-info">As published by the Houses of the Oireachtas, translated into English</p>
+      </header>
+      <b id="chapter-selection-label">Chapter Selection:</b><br />
+      <div id="chapter-select" class="flex flex-col flex-wrap border-1 border-dashed border-black mb-1">
+        <!-- Chapter menu items -->
+      </div>
+      <div>
+        Notes:
+        <ul class="list-disc list-inside text-sm">
+          <li>
+            A lot of work was assisted by machine translation.
+            While these are heavily QC'd, I'm sure there will be mistakes I
+            go along as Irish isn't anywhere near my first language.
+          </li>
+          <li>
+            The project is tracked at <a class="text-blue-400"
+              href="https://github.com/calculuswhiz/caighdean-i18n">GitHub</a>.
+            You can find a roadmap of the project there. We are still a bit away from 1st draft status.
+          </li>
+        </ul>
+      </div>
+      <footer class="fixed bottom-0 w-[100%] p-2 border-y-1 border-black bg-white">
+        <!-- Footer disclaimer will be inserted here -->
+      </footer>
+    </div>
+  </div>
+</body>
+
+</html>
