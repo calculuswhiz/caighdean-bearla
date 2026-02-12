@@ -1,0 +1,81 @@
+[]
+= {teidealNaCaibidle}
+:showtitle:
+
+// One-off styles for the index page. Gives warning, but it does work.
+++++
+<style>
+  .sectionbody {
+    li {
+      font-weight: bold;
+
+      & a {
+        font-weight: normal;
+
+        margin-left: 1em;
+      }
+    }
+  }
+</style>
+++++
+
+// Segregate by language. This is an alphabetized index, so the order will not match.
+ifeval::["{docLang}" == "ga"]
+
+== A
+
+. acrainm:
+link:./chapter3.html#sec_3_2[3.2]
+.. feidhm aidiachtach
+link:./chapter3.html#sec_3_2_3_b[3.2.3.b]
+.. gan an t-alt
+link:./chapter3.html#sec_3_2_2_A[3.2.2A]
+.. iolra
+link:./chapter3.html#sec_3_2_3_c[3.2.3.c]
+.. leis an alt
+link:./chapter3.html#sec_3_2_2_A[3.2.2A]
+
+. aidiacht:
+link:./chapter4.html[4]
+.. achoimre
+link:./chapter4.html#sec_4_7[4.7]
+.. aidiachtaí aonsiollacha
+link:./chapter4.html#sec_4_4_1_a_ii[4.4.1.a.ii]
+link:./chapter4.html#sec_4_4_1_a_iv[4.4.1.a.iv]
+link:./chapter4.html#sec_4_4_1_a_v[4.4.1.a.v]
+.. aidiacht cháilíochta
+link:./chapter3.html#sec_3_3_9[3.3.9]
+link:./chapter3.html#sec_3_3_10[3.3.10]
+link:./chapter3.html#sec_3_3_11[3.3.11]
+link:./chapter4.html#sec_4_1[4.1]
+link:./chapter4.html#sec_4_2[4.2]
+link:./chapter4.html#sec_4_12_1[4.12.1]
+link:./chapter10.html#sec_10_3_1[10.3.1]
+.. aidiacht rannach
+link:./chapter10.html#sec_10_2_3_b[10.2.3.b]
+link:./chapter10.html#sec_10_16[10.16] 
+.. aidiacht shealbhach
+link:chapter1.html#sec_1_1_1[1.1.1]
+link:./chapter3.html#sec_3_1_2_c[3.1.2.c]
+link:./chapter3.html#sec_3_3_1_a_iii[3.3.1.a.iii]
+link:./chapter3.html#sec_3_3_1_b_ii[3.3.1.b.ii]
+link:./chapter3.html#sec_3_3_11[3.3.11]
+link:./chapter4.html#sec_4_9[4.9]
+link:./chapter8.html#sec_8_3[8.3]
+link:./chapter8.html#sec_8_5_5[8.5.5]
+link:./chapter9.html#sec_9_5_1_b_iii[9.5.1.b.iii]
+link:./chapter9.html#sec_9_5_2_c[9.5.2.c]
+link:./chapter10.html#sec_10_2_4_b[10.2.4.b]
+link:./chapter10.html#sec_10_3_2_a[10.3.2.a]
+link:./chapter10.html#sec_10_6_2[10.6.2]
+link:./chapter10.html#sec_10_7_a[10.7.a]
+link:./chapter10.html#sec_10_11_7[10.11.7]
+link:./chapter10.html#sec_10_16[10.16]
+link:./chapter11.html#sec_11_1_5[11.1.5]
+link:./chapter11.html#sec_11_2_1_c[11.2.1.c]
+
+endif::[]
+
+ifeval::["{docLang}" == "en"]
+
+endif::[]

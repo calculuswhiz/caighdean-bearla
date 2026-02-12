@@ -102,6 +102,12 @@ export const availableChapters: {
       id: "tableOfOptions",
       bg: "bg-purple-800",
       fg: "text-white"
+    },
+    {
+      labelChain: ["index"],
+      id: "bookIndex",
+      bg: "bg-purple-800",
+      fg: "text-white"
     }
   ];
 

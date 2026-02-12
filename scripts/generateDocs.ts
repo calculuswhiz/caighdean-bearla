@@ -70,6 +70,7 @@ async function makeChapterHtml(
       idprefix: "sec_",
       // If the isGa attribute is set, we are generating the Irish version
       isGa: language === 'ga' ? "1" : undefined,
+      docLang: language
     }
   }) as string;
 }
@@ -181,11 +182,15 @@ const languages = ['en', 'ga'] as const;
  * @param chapterFolder The chapter id
  */
 async function generateDoc(chapterFolder: string) {
+  const chapterBaseDir = `./translation/${chapterFolder}`;
+  if (!(await fs.readdir(chapterBaseDir)).some(x => x.endsWith(".adoc"))) {
+    // Skip if no adoc files.
+    return;
+  }
   const devMode = process.argv.includes("--dev");
 
   const chapterTemplate = await fs.readFile(`./src/chapterTemplate.html`, "utf-8");
 
-  const chapterBaseDir = `./translation/${chapterFolder}`;
   const [layoutModule, chapterAttributesModule, commonAttributesModule] =
     await Promise.all([
       `${chapterBaseDir}/${chapterFolder}.adoc`,
@@ -247,7 +252,7 @@ async function generateMainPages() {
   const allChapters = xlateFolderEnts
     .filter(ent =>
       ent.isDirectory()
-      // ! The main page is not built with asciidoc, ignore
+      // ! Pages not built with AsciiDoc are built with json pairs, so we ignore them
       && ent.name !== "json"
     )
     .map(ent => ent.name);

@@ -1,7 +1,7 @@
 import { EasyDOM } from "./EasyDOM";
 import translations from "../translation/json/translations.json";
 
-// This script processes headings and uses them to make Table of Contents
+// This runtime script reads headings and uses them to make Table of Contents for a chapter
 
 function createListItem(heading: HTMLHeadingElement): EasyDOM<HTMLLIElement> {
   return EasyDOM.createElement("li")

@@ -1,18 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Caighdeán I18n Home</title>
+  <link rel="stylesheet" href="/src/index.css" />
 </head>
+
 <body>
-  <h2>
+  <h2 class="bg-gray-200 p-2 text-center">
     <p>Fáilte. Roghnaigh teanga le do thoil.</p>
     <p>Welcome. Please select a language.</p>
   </h2>
-  <ul>
+  <ul class="list-disc list-inside">
     <li><a href="./entrypoints/ga/index.html">Gaeilge</a></li>
     <li><a href="./entrypoints/en/index.html">English</a></li>
   </ul>
+  <hr />
+  <div>
+    Notes:
+    <ul class="list-disc list-inside text-sm">
+      <li>
+        A lot of work was assisted by machine translation.
+        While these are heavily QC'd, I'm sure there will be mistakes I
+        go along as Irish isn't anywhere near my first language.
+      </li>
+      <li>
+        The project is tracked at <a class="text-blue-400"
+          href="https://github.com/calculuswhiz/caighdean-i18n">GitHub</a>.
+        You can find a roadmap of the project there. We are still a bit away from 1st draft status.
+      </li>
+      <li>
+        Note that the intended format of this document is web only.
+        I have no plans to release a PDF or physical copy as the PDF exists
+        already and is available on for free on the web
+        <a href="https://data.oireachtas.ie/ie/oireachtas/caighdeanOifigiul/2017/2017-08-03_an-caighdean-oifigiuil-2017_ga.pdf" target="_blank">
+          here
+        </a>.
+      </li>
+    </ul>
+  </div>
 </body>
+
 </html>

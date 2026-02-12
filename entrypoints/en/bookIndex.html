@@ -1,0 +1,42 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>
+    &lt;!-- Insert title here --&gt;
+  </title>
+  <link rel="stylesheet" href="/src/index.css">
+</head>
+
+<body>
+  <header>
+    <div id="home-menu-container">
+      <a id="menu-link" href="../"></a>
+    </div>
+  </header>
+  <div id="toc-container"></div>
+  <div id="root">
+    <h1>The Index</h1>
+<style>
+  .sectionbody {
+    li {
+      font-weight: bold;
+
+      & a {
+        font-weight: normal;
+
+        margin-left: 1em;
+      }
+    }
+  }
+</style>
+  </div>
+  <footer class="fixed bottom-0 w-[100%] p-2 border-y-1 border-black bg-white">
+    <!-- Insert footer disclaimer here -->
+  </footer>
+  <script>
+    document.title = document.querySelector('h1').textContent;
+  </script>
+  <script type="module" src="/src/chapterScripts.ts"></script>
+
+
+</body></html>

@@ -1,4 +1,4 @@
-= Chapter 9 | {teidealNaCaibidle}
+= {Caibidil} 9 | {teidealNaCaibidle}
 :showtitle:
 :table-caption!:
 
