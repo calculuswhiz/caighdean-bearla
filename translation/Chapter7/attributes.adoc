@@ -16,7 +16,7 @@
 :7-1-1-p_ga: Is iad príomhfheidhmeanna na copaile --
 :7-1-1-p_en: The primary functions of the copula are --<br />(*TL Note*: The copula does not always translate directly, so no attempt will be made to parallel.)
 
-:7-1-1-a-p_ga: an t-ainmní a aicmiú:
+:7-1-1-a-p_ga: an t&#x2011;ainmní a aicmiú:
 :7-1-1-a-p_en: classification of the subject:
 
 :7-1-1-a-sample1_ga: *Is* sáraisteoir í. 
@@ -31,7 +31,7 @@
 :7-1-1-a-sample4_ga: *Is* fear é. 
 :7-1-1-a-sample4_en: He is a man.
 
-:7-1-1-b-p_ga: an t-ainmní a ionannú:
+:7-1-1-b-p_ga: an t&#x2011;ainmní a ionannú:
 :7-1-1-b-p_en: identification of the subject:
 
 :7-1-1-b-sample1_ga: *Ba* í Úna an bainisteoir. 
@@ -40,7 +40,7 @@
 :7-1-1-b-sample2_ga: *Is* é Baile Átha Cliath príomhchathair na hÉireann. 
 :7-1-1-b-sample2_en: Dublin is the capital of Ireland.
 
-:7-1-1-c-p_ga: an t-ainmní a cháiliú le faisnéis aidiachtach nó le frása a thosaíonn ar réamhfhocal:
+:7-1-1-c-p_ga: an t&#x2011;ainmní a cháiliú le faisnéis aidiachtach nó le frása a thosaíonn ar réamhfhocal:
 :7-1-1-c-p_en: qualification of the subject with a predicate adjective or with a phrase starting with a preposition:
 
 :7-1-1-c-sample1_ga: *Nach* deas é? 
@@ -312,8 +312,8 @@
 :7-2-2-A-b-p_ga: Cuirtear _gur_ roimh ghuta sna cásanna seo a leanas:
 :7-2-2-A-b-p_en: _gur_ is placed before a vowel in the following contexts:
 
-:7-2-2-A-b-i-p_ga: ainmfhocail (seachas ainmfhocail sna frásaí copaile réamhfhoclacha a luaitear faoi _gurb_ thíos), e.g., _Is dóigh liom gur áit dheas an t-óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
-:7-2-2-A-b-i-p_en: nouns (other than nouns in prepositional copula phrases mentioned under _gurb_ below), e.g., _Is dóigh liom gur áit dheas an t-óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
+:7-2-2-A-b-i-p_ga: ainmfhocail (seachas ainmfhocail sna frásaí copaile réamhfhoclacha a luaitear faoi _gurb_ thíos), e.g., _Is dóigh liom gur áit dheas an t&#x2011;óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
+:7-2-2-A-b-i-p_en: nouns (other than nouns in prepositional copula phrases mentioned under _gurb_ below), e.g., _Is dóigh liom gur áit dheas an t&#x2011;óstán sin_; _Síleann an tAire gur acmhainn theoranta an ciste sin_; _Dúirt sí gur oifigeach maith é_;
 
 :7-2-2-A-b-ii-p_ga: réamhfhocail, e.g., _Deir sí gur ag an rince a bheidh sí_;
 :7-2-2-A-b-ii-p_en: prepositions, e.g., _Deir sí gur ag an rince a bheidh sí_;
@@ -336,8 +336,8 @@
 :7-2-2-A-c-ii-p_ga: _amhlaidh (gurb amhlaidh)_, nó dobhriathra aidiachtacha (_go hard_, _gurb ard_; _go hannamh_, _gurb annamh_), e.g., _Measaim gurb amhlaidh atá; Sílim gurb annamh a tharlaíonn a leithéid_;
 :7-2-2-A-c-ii-p_en: _amhlaidh (gurb amhlaidh)_, or adjectival adverbs (_go hard_, _gurb ard_; _go hannamh_, _gurb annamh_), e.g., _Measaim gurb amhlaidh atá; Sílim gurb annamh a tharlaíonn a leithéid_;
 
-:7-2-2-A-c-iii-p_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_ nuair nach gníomhaí ná cuspóir ainm bhriathartha an forainmneach, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
-:7-2-2-A-c-iii-p_en: the pronominals _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_ when the pronominal is neither the agent nor the object of the verb noun, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t-ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
+:7-2-2-A-c-iii-p_ga: na forainmnigh _é_, _í_, _ea_, _eisean_, _ise_, _iad_ agus _iadsan_ nuair nach gníomhaí ná cuspóir ainm bhriathartha an forainmneach, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t&#x2011;ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
+:7-2-2-A-c-iii-p_en: the pronominals _é_, _í_, _ea_, _eisean_, _ise_, _iad_ and _iadsan_ when the pronominal is neither the agent nor the object of the verb noun, e.g., _Deir sí gurb í a hiníon í_; _Dar le hAoife gurb eisean a rinne é_; _Dúirt sise gurb é Sorcha an t&#x2011;ainm a bhí uirthi féin_; _D'admhaigh sí gurb í féin a rinne é_;
 
 :7-2-2-A-c-iv-p_ga: na forainmnigh thaispeántacha _eo_, _in_ agus _iúd_, e.g., _Deir sí gurb in é an fear_;
 :7-2-2-A-c-iv-p_en: the demonstrative pronominals _eo_, _in_ and _iúd_, e.g., _Deir sí gurb in é an fear_;

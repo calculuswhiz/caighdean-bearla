@@ -121,8 +121,8 @@
 :11-2-1-d-sample-2_ga: An cuimhin leat an uair *a chuamar* go dtí an Spáinn?
 :11-2-1-d-sample-2_en: Do you remember the time *when we went* to Spain?
 
-:11-2-1-e-p_ga: más dobhriathar ama amhail _an tráth_, _an mhaidin_, _an dáta_, _an oíche_, _an t-am_, etc. an réamhtheachtaí:
-:11-2-1-e-p_en: if a temporal adverb such as _an tráth_, _an mhaidin_, _an dáta_, _an oíche_, _an t-am_, etc. is the antecedent:
+:11-2-1-e-p_ga: más dobhriathar ama amhail _an tráth_, _an mhaidin_, _an dáta_, _an oíche_, _an t&#x2011;am_, etc. an réamhtheachtaí:
+:11-2-1-e-p_en: if a temporal adverb such as _an tráth_, _an mhaidin_, _an dáta_, _an oíche_, _an t&#x2011;am_, etc. is the antecedent:
 
 :11-2-1-e-sample-1_ga: An bhfuil a fhios agat cén tráth *a fhoilseofar* é?
 :11-2-1-e-sample-1_en: Do you know the time *when* it *will be published*?
@@ -142,10 +142,10 @@
 :11-2-1-f-sample-1b_ga: Is de réir a chéile *a dhéanfar* an obair.
 :11-2-1-f-sample-1b_en: It is gradually *that* the work *will be done*.
 
-:11-2-1-f-sample-2a_ga: Shábháil mé an t-airgead sa chomhar creidmheasa.
+:11-2-1-f-sample-2a_ga: Shábháil mé an t&#x2011;airgead sa chomhar creidmheasa.
 :11-2-1-f-sample-2a_en: I saved the money in the credit union.
 
-:11-2-1-f-sample-2b_ga: Is sa chomhar creidmheasa *a shábháil* mé an t-airgead.
+:11-2-1-f-sample-2b_ga: Is sa chomhar creidmheasa *a shábháil* mé an t&#x2011;airgead.
 :11-2-1-f-sample-2b_en: It is in the credit union *that* I *saved* the money.
 
 :11-2-1-f-sample-3a_ga: Bíonn sé ag labhairt thar ceann an pholaiteora.
@@ -208,10 +208,10 @@
 :11-3-1-c-p1_ga: nuair is cuspóir indíreach don bhriathar sa chlásal coibhneasta an réamhtheachtaí:
 :11-3-1-c-p1_en: when the antecedent is the indirect object of the verb in the relative clause:
 
-:11-3-1-c-sample-1a_ga: Cuireadh an t-agallamh ar an mbean sin.
+:11-3-1-c-sample-1a_ga: Cuireadh an t&#x2011;agallamh ar an mbean sin.
 :11-3-1-c-sample-1a_en: The interview was put on that woman.
 
-:11-3-1-c-sample-1b_ga: Sin í an bhean *ar cuireadh* an t-agallamh *uirthi*.
+:11-3-1-c-sample-1b_ga: Sin í an bhean *ar cuireadh* an t&#x2011;agallamh *uirthi*.
 :11-3-1-c-sample-1b_en: It is that woman *on whom* the interview *was put*.
 
 :11-3-1-c-sample-2a_ga: Ceannaím éadaí ón bhfear sin.
@@ -244,10 +244,10 @@
 :11-3-1-c-i-p_ga: I gcás gur réamhfhocal simplí (_as_, _de_, _do_, etc.) a cheanglaíonn an briathar leis an gcuspóir indíreach, is féidir an réamhfhocal a thabhairt chun tosaigh roimh an mír choibhneasta. Déantar cumasc ansin idir na réamhfhocail _de_, _do_, _faoi_, _i_, _le_, _ó_ agus _trí_ agus na míreanna coibhneasta _a_ agus _ar_, faoi seach (féach link:#sec_11_6_1_c[11.6.1(c)]).
 :11-3-1-c-i-p_en: When a simple preposition (_as_, _de_, _do_, etc.) links the verb to the indirect object, the preposition can be brought to the front before the relative particle. A compound is then formed between the prepositions _de_, _do_, _faoi_, _i_, _le_, _ó_ and _trí_ and the relative particles _a_ and _ar_, respectively (see link:#sec_11_6_1_c[11.6.1(c)]).
 
-:11-3-1-c-i-sample-1a_ga: Cuireadh an t-agallamh ar an mbean sin.
+:11-3-1-c-i-sample-1a_ga: Cuireadh an t&#x2011;agallamh ar an mbean sin.
 :11-3-1-c-i-sample-1a_en: The interview was put on that woman.
 
-:11-3-1-c-i-sample-1b_ga: Sin í an bhean *ar ar cuireadh* an t-agallamh.
+:11-3-1-c-i-sample-1b_ga: Sin í an bhean *ar ar cuireadh* an t&#x2011;agallamh.
 :11-3-1-c-i-sample-1b_en: It is that woman *on whom* the interview *was put*.
 
 :11-3-1-c-i-sample-2a_ga: Ceannaím éadaí ón bhfear sin.
@@ -314,10 +314,10 @@
 // TODO Awkward sentence...
 :11-3-1-e-sample-2b_en: It is that woman *whom* I *think* I saw her daughter on television last night.
 
-:11-3-1-e-sample-3a_ga: Creideann an t-oifigeach gur cuireadh iarratas ar chead pleanála isteach i leith an fhoirgnimh sin.
+:11-3-1-e-sample-3a_ga: Creideann an t&#x2011;oifigeach gur cuireadh iarratas ar chead pleanála isteach i leith an fhoirgnimh sin.
 :11-3-1-e-sample-3a_en: The officer believes that an application for planning permission was submitted in respect of that building.
 
-:11-3-1-e-sample-3b_ga: Sin é an foirgneamh *a gcreideann* an t-oifigeach gur cuireadh iarratas ar chead pleanála isteach *ina leith*.
+:11-3-1-e-sample-3b_ga: Sin é an foirgneamh *a gcreideann* an t&#x2011;oifigeach gur cuireadh iarratas ar chead pleanála isteach *ina leith*.
 :11-3-1-e-sample-3b_en: It is that building *which* the officer *believes* an application for planning permission was submitted in respect of.
 
 :11-3-1-e-sample-4a_ga: Teastaíonn uainn fál a thógáil idir an pháirc sin agus an bóthar.
@@ -350,8 +350,8 @@
 :11-3-1-f-sample-3b_ga: Cé *leis a raibh* tú ag caint?
 :11-3-1-f-sample-3b_en: Who *was it to whom* you *were* talking?
 
-:11-3-1-g-p_ga: nuair is dobhriathar ama ar nós _an tráth_, _an t-am_, etc. an réamhtheachtaí, is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh (úsáidtear an clásal coibhneasta díreach i ndiaidh _nuair_ agus _uair_ i gcónaí, féach link:#sec_11_2_1_d[11.2.1(d)]):
-:11-3-1-g-p_en: when a temporal adverb such as _an tráth_, _an t-am_, etc. is the antecedent, an indirect relative clause can be used instead of a direct relative clause (a direct relative clause is always used after _nuair_ and _uair_, see link:#sec_11_2_1_d[11.2.1(d)]):
+:11-3-1-g-p_ga: nuair is dobhriathar ama ar nós _an tráth_, _an t&#x2011;am_, etc. an réamhtheachtaí, is féidir an clásal coibhneasta indíreach a úsáid in ionad an chlásail choibhneasta dhírigh (úsáidtear an clásal coibhneasta díreach i ndiaidh _nuair_ agus _uair_ i gcónaí, féach link:#sec_11_2_1_d[11.2.1(d)]):
+:11-3-1-g-p_en: when a temporal adverb such as _an tráth_, _an t&#x2011;am_, etc. is the antecedent, an indirect relative clause can be used instead of a direct relative clause (a direct relative clause is always used after _nuair_ and _uair_, see link:#sec_11_2_1_d[11.2.1(d)]):
 
 :11-3-1-g-sample-1_ga: An bhfuil a fhios agat cén tráth *a bhfoilseofar* é?
 :11-3-1-g-sample-1_en: Do you know the time *when* it *will be published*?
@@ -482,7 +482,7 @@
 :Table11B-row2-col2_ga: Cá háit *is fusa* a n-eagrófar an cheolchoirm?
 :Table11B-row2-col2_en: Where is it *easiest* to organize the concert?
 
-:Table11B-row3-col1_ga: Sin (é) an t-amhrán *is fearr* a thaitin liom. 
+:Table11B-row3-col1_ga: Sin (é) an t&#x2011;amhrán *is fearr* a thaitin liom. 
 :Table11B-row3-col1_en: That is the song I liked *best*.
 
 :Table11B-row3-col2_ga: Is é sin an chaoi *is gasta* a ndéanfar é.
@@ -905,7 +905,7 @@
 :11-8-4-sample-1_ga: Is arú inné *a tháinig* siad abhaile.
 :11-8-4-sample-1_en: It was yesterday *that* they came home.
 
-:11-8-4-sample-2_ga: Is ón gcomhar creidmheasa *a fuair* mé an t-airgead.
+:11-8-4-sample-2_ga: Is ón gcomhar creidmheasa *a fuair* mé an t&#x2011;airgead.
 :11-8-4-sample-2_en: It was from the credit union *that* I got the money.
 
 :11-8-4-sample-3_ga: Ba leis-sean *a bhí* mé ag caint.

@@ -327,7 +327,7 @@ a. {3-1-9-a-p}
 [cols="4,1,4"]
 |===
 | an cóta + an bhean | -> | Is é sin *cóta na mná*.
-| an t-údar + na leabhair | -> | Is í *údar na leabhar* í.
+| an t&#x2011;údar + na leabhair | -> | Is í *údar na leabhar* í.
 |===
 
 b. {3-1-9-b-p}
@@ -343,7 +343,7 @@ c. {3-1-9-c-p}
 [cols="2,1,4"]
 |===
 | an cóta + bean | -> | An bhfaca tú *an cóta mná* sin?
-| an t-údar + leabhair | -> | Is í *an t-údar leabhar* is cáiliúla in Éirinn í.
+| an t&#x2011;údar + leabhair | -> | Is í *an t&#x2011;údar leabhar* is cáiliúla in Éirinn í.
 |===
 
 === 3.1.10
@@ -814,7 +814,7 @@ a| {Table-3A-Col2Title}
 | Cuideachta áitiúil atá *i mbun an teach a thógáil*.
 
 | An bhfuil siad *ag geallúint an airgid* dúinn?
-| Níl aon duine *ag bagairt an t-airgead a thógáil* ar ais.
+| Níl aon duine *ag bagairt an t&#x2011;airgead a thógáil* ar ais.
 |===
 
 b. {3-3-2-b-p1}
@@ -1418,7 +1418,7 @@ h| {Iolra}
 | An ball de *chumann óstán idirnáisiúnta* é?
 
 | Cá bhfuil *an tIonad Nuálaíochta Gnó*?
-| Cá bhfuil *an t-ionad diúscartha crann Nollag*?
+| Cá bhfuil *an t&#x2011;ionad diúscartha crann Nollag*?
 
 | Ní mór páirt a ghlacadh *i bpróiseas réitigh díospóidí tionscail*.
 | Cén cineál taithí a bhíonn *ag láithreoirí clár cúrsaí reatha*?
@@ -1469,7 +1469,7 @@ h|
 
 | {Table3G-row2-condition}
 | {leanannAnGinideach}
-| Tá an t-iniúchóir ag fiosrú *an chur i gcéill* sin faoi láthair.
+| Tá an t&#x2011;iniúchóir ag fiosrú *an chur i gcéill* sin faoi láthair.
 
 | {Table3G-row3-condition}
 | {leanannAnGinideach}

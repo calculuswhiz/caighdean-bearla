@@ -214,7 +214,7 @@
 :5-2-2-b-p_ga: Briathra a réimnítear ar nós _tíolaic_:
 :5-2-2-b-p_en: Verbs conjugated like _tíolaic_:
 
-:5-2-2-c-p_ga: Briathra a choinnítear caol tríd síos (gan an t-ainm briathartha a áireamh) ina réimniú:
+:5-2-2-c-p_ga: Briathra a choinnítear caol tríd síos (gan an t&#x2011;ainm briathartha a áireamh) ina réimniú:
 :5-2-2-c-p_en: Verbs that are kept slender throughout (excluding the verbal noun) in their conjugation:
 
 :5-2-2-d-p_ga: Briathra a choinnítear leathan tríd síos ina réimniú:
@@ -352,7 +352,7 @@
 :5-4-5-SampleBox2-4_ga: Deir sí *go raibh* siad ann.
 :5-4-5-SampleBox2-4_en: She says *that* they *were* there.
 
-:5-4-5-SampleBox2-5_ga: *Ní bhfuair* sé an t-airgead fós.
+:5-4-5-SampleBox2-5_ga: *Ní bhfuair* sé an t&#x2011;airgead fós.
 :5-4-5-SampleBox2-5_en: He *did not get* the money yet.
 
 :5-4-5-b-p_ga: Ní shéimhítear an briathar _abair_ in aon chás, e.g., _ní deirim_ (_deirimis_, _dúirt sé_, _déarfainn_), _má deir tú_ (_deiridís_), _na rudaí a déarfaidh_ (_a déarfadh_) _sé_.

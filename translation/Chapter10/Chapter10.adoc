@@ -2874,7 +2874,7 @@ endif::[]
     </tr>
     <tr>
       <td>{Table10C-rule-1}</td>
-      <td>an t-eitleán; an t-aon duine; an t-ochtú clár sa tsraith</td>
+      <td>an t&#x2011;eitleán; an t&#x2011;aon duine; an t&#x2011;ochtú clár sa tsraith</td>
     </tr>
   </tbody>
 </table>

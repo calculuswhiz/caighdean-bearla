@@ -477,10 +477,10 @@ h| 10 | deich dtroithe cearnacha ||
 |===
 4+h| {Table9K-header}
 
-h| 1 | an t-aon chapall amháin + 
-an t-aon fhuinneog amháin
-h| 11 | an t-aon chapall déag +
-an t-aon fhuinneog déag
+h| 1 | an t&#x2011;aon chapall amháin + 
+an t&#x2011;aon fhuinneog amháin
+h| 11 | an t&#x2011;aon chapall déag +
+an t&#x2011;aon fhuinneog déag
 
 h| 2 | an dá chapall
 h| 12 | an dá chapall déag
@@ -848,17 +848,17 @@ h| 6 | seisear h| 12 | dháréag
 |===
 h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
-h| 1 | an t-aon duine amháin | ainm an aon duine amháin
+h| 1 | an t&#x2011;aon duine amháin | ainm an aon duine amháin
 h| 2 | an bheirt | tuairimí na beirte
 h| 3 | an triúr | éadaí an triúir
 h| 4 | an ceathrar | táillí an cheathrair
 h| 5 | an cúigear | bád an chúigir
 h| 6 | an seisear | teach an tseisir
 h| 7 | an seachtar | scoil an tseachtair
-h| 8 | an t-ochtar | meitheal an ochtair
+h| 8 | an t&#x2011;ochtar | meitheal an ochtair
 h| 9 | an naonúr | foireann an naonúir
 h| 10 | an deichniúr | tithe an deichniúir
-h| 11 | an t-aon duine dhéag | foireann an aon duine dhéag
+h| 11 | an t&#x2011;aon duine dhéag | foireann an aon duine dhéag
 h| 12 | an dáréag | airgead an dáréag
 |===
 +
@@ -949,8 +949,8 @@ h| 12 | dháréag bádóirí | soitheach dháréag bádóirí
 |===
 h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
-h| 1 | an t-aon fhear amháin +
-an t-aon bhean amháin
+h| 1 | an t&#x2011;aon fhear amháin +
+an t&#x2011;aon bhean amháin
 | hata an aon fhir amháin +
 hata na haon mhná amháin
 h| 2   | an bheirt bhan | páistí na beirte ban
@@ -959,10 +959,10 @@ h| 4   | an ceathrar scoláirí | torthaí an cheathrar scoláirí
 h| 5   | an cúigear fear | gaolta an chúigear fear
 h| 6   | an seisear ban | páistí an tseisear ban
 h| 7   | an seachtar bádóirí | long an tseachtar bádóirí
-h| 8   | an t-ochtar báicéirí | cístí an ochtar báicéirí
+h| 8   | an t&#x2011;ochtar báicéirí | cístí an ochtar báicéirí
 h| 9   | an naonúr fear | talamh an naonúr fear
 h| 10  | an deichniúr girseach | airgead an deichniúr girseach
-h| 11* | an t-aon imreoir déag | cluiche an aon imreoir déag
+h| 11* | an t&#x2011;aon imreoir déag | cluiche an aon imreoir déag
 h| 12  | an dáréag bádóirí | soitheach an dáréag bádóirí
 |===
 *{Table9T-footnote}
@@ -987,8 +987,8 @@ h| {TheNumber} h| {TheNominativeCase} h| {TheGenitiveCase}
 
 h| 1 a| . fear ciallmhar amháin
 . bean shaibhir amháin
-. an t-aon fhear cineálta amháin
-. an t-aon bhean dheas amháin
+. an t&#x2011;aon fhear cineálta amháin
+. an t&#x2011;aon bhean dheas amháin
 a| . cóta aon fhir chiallmhair amháin
 . geansaí aon mhná saibhre amháin
 . cóta an aon fhir chineálta amháin
@@ -1031,7 +1031,7 @@ h| 7
 | long seachtar (an tseachtar) bádóirí óga
 
 h| 8
-| ochtar (an t-ochtar) báicéirí díograiseacha
+| ochtar (an t&#x2011;ochtar) báicéirí díograiseacha
 | cístí ochtar (an ochtar) báicéirí díograiseacha
 
 h| 9
@@ -1043,7 +1043,7 @@ h| 10
 | airgead deichniúr (an deichniúr) girseach bríomhar
 
 h| 11*
-| aon (an t-aon) imreoir déag thapa
+| aon (an t&#x2011;aon) imreoir déag thapa
 | cultacha aon (an aon) imreoir déag thapa
 
 h| 12
@@ -1100,13 +1100,13 @@ h| 12
 8+h| {TheOrdinalNumbers} 1&ndash;100
 
 h| 1ú | an chéad fhear
-h| 11ú | an t-aonú bean déag
+h| 11ú | an t&#x2011;aonú bean déag
 h| 20ú | an fichiú capall
 h| 30ú | an tríochadú bean
 
 h| 2ú | an dara/dóú bean
 h| 12ú | an dara/dóú bosca déag
-h| 21ú | an t-aonú capall is fiche
+h| 21ú | an t&#x2011;aonú capall is fiche
 h| 39ú | an naoú hoíche is tríocha
 
 h| 3ú | an tríú leabhar
@@ -1117,7 +1117,7 @@ h| 40ú | an daicheadú/ceathrachadú cuairteoir
 h| 4ú | an ceathrú méadar
 h| 14ú | an ceathrú bád déag
 h| 23ú | an tríú leabhar is fiche
-h| 48ú | an t-ochtú bó is daichead
+h| 48ú | an t&#x2011;ochtú bó is daichead
 
 h| 5ú | an cúigiú bád
 h| 15ú | an cúigiú hábhar déag
@@ -1134,14 +1134,14 @@ h| 17ú | an seachtú fuinneog déag
 h| 26ú | an séú hábhar is fiche
 h| 75ú | an cúigiú bád is seachtó
 
-h| 8ú | an t-ochtú bó
-h| 18ú | an t-ochtú hoíche déag
+h| 8ú | an t&#x2011;ochtú bó
+h| 18ú | an t&#x2011;ochtú hoíche déag
 h| 27ú | an seachtú fuinneog is fiche
 h| 84ú | an ceathrú méadar is ochtó
 
 h| 9ú | an naoú hoíche
 h| 19ú | an naoú capall déag
-h| 28ú | an t-ochtú bó is fiche
+h| 28ú | an t&#x2011;ochtú bó is fiche
 h| 93ú | an tríú leabhar is nócha
 
 h| 10ú | an deichiú capall
@@ -1258,7 +1258,7 @@ h| 104ú | beithígh an chéad is ceathrú feirmeoir
 h| {TheFraction} h| {TheDenominator} h| {TheFormWithCuid} h| {TheFraction} h| {TheDenominator} h| {TheFormWithCuid}
 
 h| 1/2 | leath | an leathchuid 
-h| 1/11 | aondéagú | an t-aondéagú cuid
+h| 1/11 | aondéagú | an t&#x2011;aondéagú cuid
 
 h| 1/3 | trian | an tríú cuid 
 h| 1/12 | dódhéagú | an dódhéagú cuid
@@ -1275,11 +1275,11 @@ h| 1/15 | cúigdéagú | an cúigdéagú cuid
 h| 1/7 | seachtú | an seachtú cuid 
 h| 1/16 | sédéagú | an sédéagú cuid
 
-h| 1/8 | ochtú | an t-ochtú cuid 
+h| 1/8 | ochtú | an t&#x2011;ochtú cuid 
 h| 1/17 | seachtdéagú | an seachtdéagú cuid
 
 h| 1/9 | naoú | an naoú cuid 
-h| 1/18 | ochtdéagú | an t-ochtdéagú cuid
+h| 1/18 | ochtdéagú | an t&#x2011;ochtdéagú cuid
 
 h| 1/10 | deichiú | an deichiú cuid 
 h| 1/19 | naoidéagú | an naoidéagú cuid
@@ -1296,7 +1296,7 @@ h| 1/19 | naoidéagú | an naoidéagú cuid
 |===
 h| {TheFraction} h| {TheFormWithCuid} h| {TheFraction} h| {TheFormWithCuid}
 
-h| 1/21 | an fiche aonú cuid    h| 1/87 | an t-ochtó seachtú cuid
+h| 1/21 | an fiche aonú cuid    h| 1/87 | an t&#x2011;ochtó seachtú cuid
 h| 1/32 | an tríocha dóú cuid   h| 1/98 | an nócha ochtú cuid
 h| 1/43 | an daichead tríú cuid h| 1/99 | an nócha naoú cuid
 h| 1/54 | an caoga ceathrú cuid h| 1/156 | an céad caoga séú cuid
@@ -1473,7 +1473,7 @@ a| . beirt bhan mhisniúla
 . beirt fhear chróga
 . an bheirt scoláirí chumasacha
 . an ceathrar feirmeoirí gnóthacha
-. an t-ochtar aisteoirí maithe
+. an t&#x2011;ochtar aisteoirí maithe
 . trí fheirmeoir déag Éireannacha
 . na seacht n-oibrí dhéag ghnóthacha
 a| . ainmneacha na beirte ban mhisniúla
@@ -1495,7 +1495,7 @@ a| . an chéad fhear cróga
 . an tríú cupán tae
 . an cúigiú hionstraim reachtúil
 . an seachtú hábhar déag nua
-. an t-ochtú capall déag mór
+. an t&#x2011;ochtú capall déag mór
 a| . ráiteas an chéad fhir chróga
 . buiséad na chéad dánlainne nua-aoisí
 . blas an tríú cupán tae

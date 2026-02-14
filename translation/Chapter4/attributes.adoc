@@ -37,7 +37,7 @@
 :4-2-2-a-i-p_ga: i gcás ainmfhocal firinscneach, ní shéimhítear an aidiacht atá á cháiliú, e.g., _an fear beag_; _ag an bhfear beag_; ach amháin sa tuiseal gairmeach agus sa tuiseal ginideach e.g., _a fhir bhig_; _hata an fhir bhig_;
 :4-2-2-a-i-p_en: when there is a masculine noun, the adjective that qualifies it is not lenited, e.g., _an fear beag_; _ag an bhfear beag_; except in the vocative case and in the genitive case e.g., _a fhir bhig_; _hata an fhir bhig_;
 
-:4-2-2-a-ii-p_ga: má tá Córas an tSéimhithe (féach link:./chapter1.html#sec_1_7[1.7]) in úsáid, séimhítear an aidiacht a cháilíonn ainmfhocal firinscneach sa tuiseal tabharthach má ghabhann an t-alt leis an ainmfhocal sin, e.g., _ag an fhear bheag_.
+:4-2-2-a-ii-p_ga: má tá Córas an tSéimhithe (féach link:./chapter1.html#sec_1_7[1.7]) in úsáid, séimhítear an aidiacht a cháilíonn ainmfhocal firinscneach sa tuiseal tabharthach má ghabhann an t&#x2011;alt leis an ainmfhocal sin, e.g., _ag an fhear bheag_.
 :4-2-2-a-ii-p_en: if the Lenition System (see link:./chapter1.html#sec_1_7[1.7]) is in use, the adjective that qualifies the masculine noun is lenited in the dative case if the article goes with that noun, e.g., _ag an fhear bheag_.
 
 :4-2-2-b-p_ga: San uimhir uatha, i gcás ainmfhocal baininscneach, séimhítear an aidiacht atá á cháiliú sna tuisil go léir, e.g., _an bhean bheag_; _a bhean bheag_; _ag an mbean bheag_; ach amháin sa tuiseal ginideach, e.g., _hata na mná bige_.
@@ -88,7 +88,7 @@
 :4-2-5-title_ga: Séimhiú ar Aidiacht Cháilíochta san Uimhir Iolra
 :4-2-5-title_en: Lenition of Attributive Adjective in the Plural
 
-:4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t-ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin link:./chapter10.html#sec_10_3_1[10.3.1]).
+:4-2-5-p_ga: San uimhir iolra, séimhítear túschonsan aidiachta má chríochnaíonn an t&#x2011;ainmfhocal iolra ar chonsan caol, mar atá sa tábla thíos (féach freisin link:./chapter10.html#sec_10_3_1[10.3.1]).
 :4-2-5-p_en: In the plural, the initial consonant of the adjective is lenited if the plural noun starts with a slender consonant, as in the table below (see also link:./chapter10.html#sec_10_3_1[10.3.1]).
 
 :Table4B-col1-main_ga: Séimhiú
@@ -136,7 +136,7 @@
 :4-3-2-b-sample-row2_ga: Ginideach iolra
 :4-3-2-b-sample-row2_en: Genitive plural
 
-:4-3-2-b-sample1_ga: Foilsíonn an t-údarás *áitiúil* tuarascáil gach bliain.
+:4-3-2-b-sample1_ga: Foilsíonn an t&#x2011;údarás *áitiúil* tuarascáil gach bliain.
 :4-3-2-b-sample1_en: The *local* authority publishes a report every year.
 
 :4-3-2-b-sample2_ga: Foilsíodh tuarascálacha na n-údarás *áitiúil*.
@@ -573,7 +573,7 @@
 :4-10-p-sample6_ga: Díoladh a theach *siúd* inné.
 :4-10-p-sample6_en: *That* house was sold yesterday.
 
-:4-10-p-sample7_ga: Is aige *siúd* a bhí an t-airgead.
+:4-10-p-sample7_ga: Is aige *siúd* a bhí an t&#x2011;airgead.
 :4-10-p-sample7_en: He was *the one* that had the money.
 
 :4-10-p-sample8_ga: An bhfeiceann tú an pháirc *úd* thall?

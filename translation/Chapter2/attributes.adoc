@@ -124,7 +124,7 @@
 :2-1-4-c-p1_ga: _-ío-_ go _-í-_, e.g., _síol_, _síl_;
 :2-1-4-c-p1_en: _-ío-_ to _-í-_, e.g., _síol_, _síl_;
 
-:2-1-4-d-p1_ga: in ainmfhocail ilsiollacha, _-ach_ go _-aigh_, _-each_ go _-igh_, _-íoch_ go _-ígh_, e.g., _bithiúnach_, _bithiúnaigh_; _cléireach_, _cléirigh_; _gaiscíoch_, _gaiscígh_. Baineann an t-athrú sin leis na hainmfhocail aonsiollacha seo a leanas a scríobhtaí tráth mar fhocail dhéshiollacha, e.g., _dúch_, _dúigh_; _fiach_, _fiaigh_; agus le corr-ainmfhocal aonsiollach eile, e.g., _fraoch_, _fraoigh_.
+:2-1-4-d-p1_ga: in ainmfhocail ilsiollacha, _-ach_ go _-aigh_, _-each_ go _-igh_, _-íoch_ go _-ígh_, e.g., _bithiúnach_, _bithiúnaigh_; _cléireach_, _cléirigh_; _gaiscíoch_, _gaiscígh_. Baineann an t&#x2011;athrú sin leis na hainmfhocail aonsiollacha seo a leanas a scríobhtaí tráth mar fhocail dhéshiollacha, e.g., _dúch_, _dúigh_; _fiach_, _fiaigh_; agus le corr-ainmfhocal aonsiollach eile, e.g., _fraoch_, _fraoigh_.
 :2-1-4-d-p1_en: in the polysyllabic nouns, _-ach_ to _-aigh_, _-each_ to _-igh_, _-ioch_ to _-igh_, e.g., _bithiúnach_, _bithiúnaigh_; _cléireach_, _cléirigh_; _gaiscíoch_, _gaiscígh_. That change applies to these monosyllabic nouns which were once written as disyllabic nouns, e.g., _dúch_, _dúigh_; _fiach_, _fiaigh_; and occasionally with other monosyllabic nouns, e.g., _fraoch_, _fraoigh_.
 
 :2-1-5-title_ga: Leathnú
@@ -181,8 +181,8 @@
 :2-1-7-notes-2_ga: Ní gá fleiscín a chur i dtéarma riaracháin ina bhfuil níos mó ná réimír amháin má tá brí an téarma soiléir gan é, e.g., _comhfhochoiste_; _roghfhochoiste_.
 :2-1-7-notes-2_en: The placement of a hyphen is not needed in an administrative term with more than one prefix if the meaning of the term is clear without it, e.g., _comhfhochoiste_; _roghfhochoiste_.
 
-:2-1-7-notes-3_ga: Tabhair faoi deara, má tá _iar_ ag teacht roimh theideal a thosaíonn ar cheannlitir, nach gá fleiscín a chur idir _iar_ agus an teideal, e.g., _an t-iarArd-Reachtaire Cuntas agus Ciste_.
-:2-1-7-notes-3_en: Note if _iar_ is coming before a title starting with a capital letter, the placement of a hyphen is not necessary between _iar_ and the title, e.g., _an t-iarArd-Reachtaire Cuntas agus Ciste_.
+:2-1-7-notes-3_ga: Tabhair faoi deara, má tá _iar_ ag teacht roimh theideal a thosaíonn ar cheannlitir, nach gá fleiscín a chur idir _iar_ agus an teideal, e.g., _an t&#x2011;iarArd-Reachtaire Cuntas agus Ciste_.
+:2-1-7-notes-3_en: Note if _iar_ is coming before a title starting with a capital letter, the placement of a hyphen is not necessary between _iar_ and the title, e.g., _an t&#x2011;iarArd-Reachtaire Cuntas agus Ciste_.
 
 :Table2E-row1-cell2_ga: Críochnaíonn ar chonsan leathan, e.g., _bád_, _cás_, _ceol_, _marcach_.
 :Table2E-row1-cell2_en: Ends with a broad consonant, e.g., _bád_, _cás_, _ceol_, _marcach_.

@@ -458,9 +458,9 @@ endif::[]
                 <td>{tRoimhe}</td>
                 <td>
                   <ul>
-                    <li>an t-íochtar</li>
-                    <li>an t-uisce</li>
-                    <li>an t-alt</li>
+                    <li>an t&#x2011;íochtar</li>
+                    <li>an t&#x2011;uisce</li>
+                    <li>an t&#x2011;alt</li>
                     <li>an tAcht</li>
                     <li>an tUltach</li>
                   </ul>

@@ -28,7 +28,7 @@ ifeval::["{docLang}" == "ga"]
 link:./chapter3.html#sec_3_2[3.2]
 ** feidhm aidiachtach
 link:./chapter3.html#sec_3_2_3_b[3.2.3.b]
-** gan an t-alt
+** gan an t&#x2011;alt
 link:./chapter3.html#sec_3_2_2_A[3.2.2A]
 ** iolra
 link:./chapter3.html#sec_3_2_3_c[3.2.3.c]

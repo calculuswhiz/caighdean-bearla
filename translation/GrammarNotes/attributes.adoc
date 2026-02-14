@@ -19,7 +19,7 @@
 :row2-term_ga: abairt chopaileach
 :row2-term_en: copular sentence
 
-:row2-definition_ga: abairt ina gceanglaítear an t-ainmní leis an bhfaisnéis, e.g., _ba cheoltóir é_; _is fada liom uaim í_
+:row2-definition_ga: abairt ina gceanglaítear an t&#x2011;ainmní leis an bhfaisnéis, e.g., _ba cheoltóir é_; _is fada liom uaim í_
 :row2-definition_en: a sentence where the subject is connected to the object, e.g., _ba cheoltóir é_; _is fada liom uaim í_
 
 :row3-term_ga: abairtín dobhriathartha

@@ -545,10 +545,10 @@ ifndef::isGa[| *T (an tuaisceart {CompassT})*]
 ifdef::isGa[| *T (an tuaisceart)*]
 ifndef::isGa[| *D (an deisceart {CompassD})*]
 ifdef::isGa[| *D (an deisceart)*]
-ifndef::isGa[| *O (an t-oirthear {CompassO})*]
-ifdef::isGa[| *O (an t-oirthear)*]
-ifndef::isGa[| *I (an t-iarthar {CompassI})*]
-ifdef::isGa[| *I (an t-iarthar)*]
+ifndef::isGa[| *O (an t&#x2011;oirthear {CompassO})*]
+ifdef::isGa[| *O (an t&#x2011;oirthear)*]
+ifndef::isGa[| *I (an t&#x2011;iarthar {CompassI})*]
+ifdef::isGa[| *I (an t&#x2011;iarthar)*]
 |===
 
 {6-4-p2}
@@ -559,7 +559,7 @@ ifdef::isGa[| *I (an t-iarthar)*]
 |===
 | {Table6C-col1} | {Table6C-col2} | {Table6C-col3} | {Table6C-col4}
 
-| *I* | siar | an t-iarthar | aniar
+| *I* | siar | an t&#x2011;iarthar | aniar
 | *ILD* | siar lámh ó dheas | thiar lámh theas | aniar lámh aneas
 | *IID* | siar siar ó dheas | thiar thiar theas | aniar aniar aneas
 | *IDLI* | siar ó dheas lámh siar | thiar theas lámh thiar | aniar aneas lámh aniar

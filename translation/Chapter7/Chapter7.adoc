@@ -856,7 +856,7 @@ endif::[]
     <td>
         <ul>
             <li>Is í sin an bhean <strong>nach</strong> iriseoir a deartháir.</li>
-            <li>Sin é an t-aisteoir <strong>nach</strong> eol dó a chuid línte.</li>
+            <li>Sin é an t&#x2011;aisteoir <strong>nach</strong> eol dó a chuid línte.</li>
         </ul>
     </td>
   </tr>
