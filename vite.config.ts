@@ -19,7 +19,8 @@ const chapterBaseNames = [
   "chapter9",
   "chapter10",
   "chapter11",
-  "tableOfOptions"
+  "tableOfOptions",
+  "bookIndex"
 ];
 
 const languageEntryPointMaps: Record<string, string>[] = [];
