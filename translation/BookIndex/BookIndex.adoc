@@ -24,26 +24,26 @@ ifeval::["{docLang}" == "ga"]
 
 == A
 
-. acrainm:
+* acrainm:
 link:./chapter3.html#sec_3_2[3.2]
-.. feidhm aidiachtach
+** feidhm aidiachtach
 link:./chapter3.html#sec_3_2_3_b[3.2.3.b]
-.. gan an t-alt
+** gan an t-alt
 link:./chapter3.html#sec_3_2_2_A[3.2.2A]
-.. iolra
+** iolra
 link:./chapter3.html#sec_3_2_3_c[3.2.3.c]
-.. leis an alt
+** leis an alt
 link:./chapter3.html#sec_3_2_2_A[3.2.2A]
 
-. aidiacht:
+* aidiacht:
 link:./chapter4.html[4]
-.. achoimre
+** achoimre
 link:./chapter4.html#sec_4_7[4.7]
-.. aidiachtaí aonsiollacha
+** aidiachtaí aonsiollacha
 link:./chapter4.html#sec_4_4_1_a_ii[4.4.1.a.ii]
 link:./chapter4.html#sec_4_4_1_a_iv[4.4.1.a.iv]
 link:./chapter4.html#sec_4_4_1_a_v[4.4.1.a.v]
-.. aidiacht cháilíochta
+** aidiacht cháilíochta
 link:./chapter3.html#sec_3_3_9[3.3.9]
 link:./chapter3.html#sec_3_3_10[3.3.10]
 link:./chapter3.html#sec_3_3_11[3.3.11]
@@ -51,10 +51,10 @@ link:./chapter4.html#sec_4_1[4.1]
 link:./chapter4.html#sec_4_2[4.2]
 link:./chapter4.html#sec_4_12_1[4.12.1]
 link:./chapter10.html#sec_10_3_1[10.3.1]
-.. aidiacht rannach
+** aidiacht rannach
 link:./chapter10.html#sec_10_2_3_b[10.2.3.b]
 link:./chapter10.html#sec_10_16[10.16] 
-.. aidiacht shealbhach
+** aidiacht shealbhach
 link:chapter1.html#sec_1_1_1[1.1.1]
 link:./chapter3.html#sec_3_1_2_c[3.1.2.c]
 link:./chapter3.html#sec_3_3_1_a_iii[3.3.1.a.iii]
@@ -73,6 +73,208 @@ link:./chapter10.html#sec_10_11_7[10.11.7]
 link:./chapter10.html#sec_10_16[10.16]
 link:./chapter11.html#sec_11_1_5[11.1.5]
 link:./chapter11.html#sec_11_2_1_c[11.2.1.c]
+
+** aidiacht thaispeántach
+link:./chapter4.html#sec_4_10[4.10]
+
+** ainmneach
+link:./chapter4.html#sec_4_2_4[4.2.4]
+link:./chapter4.html#sec_4_3_1[4.3.1]
+link:./chapter4.html#sec_4_3_2[4.3.2]
+link:./chapter4.html#sec_4_3_4[4.3.4]
+link:./chapter4.html#sec_4_4_2[4.4.2]
+link:./chapter4.html#sec_4_4_4[4.4.4]
+link:./chapter4.html#sec_4_6_2[4.6.2]
+link:./chapter4.html#sec_4_7[4.7]
+link:./chapter9.html#sec_9_4_2_c_i[9.4.2.c.i]
+link:./chapter9.html#sec_9_4_2_d_i[9.4.2.d.i]
+
+** an chéad díochlaonadh
+link:./chapter4.html#sec_4_4[4.4]
+link:./chapter4.html#sec_4_7[4.7]
+
+** an dara díochlaonadh
+link:./chapter4.html#sec_4_5[4.5]
+
+** an tríú díochlaonadh
+link:./chapter4.html#sec_4_6[4.6]
+
+** baininscneach
+link:./chapter4.html#sec_4_2_2_b[4.2.2.b]
+link:./chapter4.html#sec_4_2_4[4.2.4]
+link:./chapter4.html#sec_4_3_3_b[4.3.3.b]
+link:./chapter4.html#sec_4_4_1_b[4.4.1.b]
+link:./chapter4.html#sec_4_4_4[4.4.4]
+link:./chapter4.html#sec_4_5_1_b[4.5.1.b]
+link:./chapter4.html#sec_4_5_2_a[4.5.2.a]
+link:./chapter4.html#sec_4_6_2[4.6.2]
+link:./chapter4.html#sec_4_7[4.7]
+link:./chapter4.html#sec_4_8_1[4.8.1]
+
+** breischéim
+link:./chapter4.html#sec_4_8_1[4.8.1]
+link:./chapter4.html#sec_4_8_3_a[4.8.3.a]
+link:./chapter7.html#sec_7_1_1_e[7.1.1.e]
+
+** coimriú
+link:./chapter4.html#sec_4_4_4[4.4.4]
+link:./chapter4.html#sec_4_5_2_b[4.5.2.b]
+
+** consan caol
+link:./chapter4.html#sec_4_2_5[4.2.5]
+link:./chapter4.html#sec_4_4_1_a_iii[4.4.1.a.iii]
+link:./chapter4.html#sec_4_4_3[4.4.3]
+
+** consan leathan
+link:./chapter4.html#sec_4_2_5[4.2.5]
+link:./chapter4.html#sec_4_4_1_a_i[4.4.1.a.i]
+link:./chapter4.html#sec_4_4_3[4.4.3]
+link:./chapter9.html#sec_9_3_6_b[9.3.6.b]
+
+** Córas an tSéimhithe
+link:./chapter1.html#sec_1_7[1.7]
+link:./chapter4.html#sec_4_2_2_a_ii[4.2.2.a.ii]
+link:./chapter10.html#sec_10_3_1_e[10.3.1.e]
+link:./chapter10.html#sec_10_16[10.16]
+
+** dobhriathra
+link:./chapter4.html#sec_4_3_5[4.3.5]
+link:./chapter6.html#sec_6_1_1_k[6.1.1.k]
+link:./chapter7.html#sec_7_2_1_B_b_iv[7.2.1.B.b.iv]
+link:./chapter7.html#sec_7_2_1_B_c_iv[7.2.1.B.c.iv]
+link:./chapter7.html#sec_7_2_2_A_b_iv[7.2.2.A.b.iv]
+link:./chapter7.html#sec_7_2_2_A_c_ii[7.2.2.A.c.ii]
+link:./chapter7.html#sec_7_2_2_B_b_ii[7.2.2.B.b.ii]
+link:./chapter7.html#sec_7_2_2_B_b_iii[7.2.2.B.b.iii]
+
+** firinscneach
+link:./chapter4.html#sec_4_2_2_a[4.2.2.a]
+link:./chapter4.html#sec_4_2_4[4.2.4]
+link:./chapter4.html#sec_4_3_3[4.3.3]
+link:./chapter4.html#sec_4_4_1_a[4.4.1.a]
+link:./chapter4.html#sec_4_4_2[4.4.2]
+link:./chapter4.html#sec_4_5_1_a[4.5.1.a]
+link:./chapter4.html#sec_4_7[4.7]
+
+** foirmeacha neamhrialta
+link:./chapter4.html#sec_4_8_2[4.8.2]
+link:./chapter4.html#sec_4_8_3[4.8.3]
+
+** gairmeach
+link:./chapter4.html#sec_4_2_2_a_i[4.2.2.a.i]
+link:./chapter4.html#sec_4_3_3_a[4.3.3.a]
+link:./chapter4.html#sec_4_4_2[4.4.2]
+link:./chapter10.html#sec_10_3_1_a[10.3.1.a]
+link:./chapter10.html#sec_10_3_1_b[10.3.1.b]
+
+** ginideach
+link:./chapter4.html#sec_4_2_2[4.2.2]
+link:./chapter4.html#sec_4_2_4[4.2.4]
+link:./chapter4.html#sec_4_3_2[4.3.2]
+link:./chapter4.html#sec_4_4_1_a_ii[4.4.1.a.ii]
+link:./chapter4.html#sec_4_4_1_a_iv[4.4.1.a.iv]
+link:./chapter4.html#sec_4_4_1_a_v[4.4.1.a.v]
+link:./chapter4.html#sec_4_4_2[4.4.2]
+link:./chapter4.html#sec_4_4_3[4.4.3]
+link:./chapter4.html#sec_4_4_4[4.4.4]
+link:./chapter4.html#sec_4_5_2[4.5.2]
+link:./chapter4.html#sec_4_6_2[4.6.2]
+link:./chapter4.html#sec_4_7[4.7]
+link:./chapter9.html#sec_9_3_6[9.3.6]
+link:./chapter9.html#sec_9_3_7[9.3.7]
+link:./chapter9.html#sec_9_4_3_c_ii[9.4.3.c.ii]
+link:./chapter9.html#sec_9_4_3_c_iii[9.4.3.c.iii]
+link:./chapter9.html#sec_9_4_3_c_iv[9.4.3.c.iv]
+
+** inscne
+link:./chapter4.html#sec_4_1_3[4.1.3]
+link:./chapter4.html#sec_4_2[4.2]
+link:./chapter9.html#sec_9_3_3_a[9.3.3.a]
+link:./chapter9.html#sec_9_3_4_a[9.3.4.a]
+link:./chapter9.html#sec_9_3_9_b[9.3.9.b]
+link:./chapter9.html#sec_9_3_10_b_ii[9.3.10.b.ii]
+link:./chapter9.html#sec_9_3_10_c_i[9.3.10.c.i]
+
+** iolra
+link:./chapter4.html#sec_4_2_5[4.2.5]
+link:./chapter4.html#sec_4_3_1[4.3.1]
+link:./chapter4.html#sec_4_3_2[4.3.2]
+link:./chapter4.html#sec_4_4_3[4.4.3]
+link:./chapter4.html#sec_4_4_4[4.4.4]
+link:./chapter4.html#sec_4_5_2[4.5.2]
+link:./chapter4.html#sec_4_6_2[4.6.2]
+link:./chapter4.html#table4f[Table 4F]
+link:./chapter4.html#table4g[Table 4G]
+link:./chapter9.html#sec_9_3_4[9.3.4]
+link:./chapter9.html#sec_9_3_5[9.3.5]
+link:./chapter9.html#sec_9_4_3_c[9.4.3.c]
+
+** mír/réimír threise
+link:./chapter4.html#sec_4_6_3[4.6.3]
+
+** séimhiú
+link:./chapter4.html#sec_4_2_2_a_ii[4.2.2.a.ii]
+link:./chapter4.html#sec_4_2_4[4.2.4]
+link:./chapter4.html#sec_4_2_5[4.2.5]
+link:./chapter4.html#sec_4_3_3[4.3.3]
+link:./chapter4.html#sec_4_3_7[4.3.7]
+link:./chapter4.html#sec_4_11[4.11]
+link:./chapter9.html#sec_9_3_3_b[9.3.3.b]
+link:./chapter9.html#sec_9_3_4_b[9.3.4.b]
+link:./chapter9.html#sec_9_3_6_b[9.3.6.b]
+link:./chapter9.html#sec_9_3_10_b_ii[9.3.10.b.ii]
+link:./chapter9.html#sec_9_3_10_c_i[9.3.10.c.i]
+link:./chapter9.html#sec_9_4_2_c[9.4.2.c]
+link:./chapter9.html#sec_9_4_2_d_i[9.4.2.d.i]
+link:./chapter10.html#sec_10_3[10.3]
+
+** tuiseal
+link:./chapter4.html#sec_4_1_3[4.1.3]
+link:./chapter4.html#sec_4_2[4.2]
+link:./chapter4.html#sec_4_4_3[4.4.3]
+link:./chapter4.html#sec_4_4_4[4.4.4]
+
+** uatha
+link:./chapter4.html#sec_4_2_2[4.2.2]
+link:./chapter4.html#sec_4_2_4[4.2.4]
+link:./chapter4.html#sec_4_3_1[4.3.1]
+link:./chapter4.html#sec_4_3_2_b[4.3.2.b]
+link:./chapter4.html#sec_4_3_8[4.3.8]
+link:./chapter4.html#sec_4_4_1[4.4.1]
+link:./chapter4.html#sec_4_4_2[4.4.2]
+link:./chapter4.html#sec_4_4_4[4.4.4]
+link:./chapter4.html#sec_4_5_1[4.5.1]
+link:./chapter4.html#sec_4_5_2[4.5.2]
+link:./chapter4.html#sec_4_6_2[4.6.2]
+link:./chapter4.html#table4d[Table&nbsp;4D]
+link:./chapter9.html#sec_9_3_4_a[9.3.4.a]
+link:./chapter9.html#sec_9_3_5_a[9.3.5.a]
+link:./chapter9.html#sec_9_4_2_c_ii[9.4.2.c.ii]
+link:./chapter9.html#sec_9_4_2_d_i[9.4.2.d.i]
+link:./chapter10.html#sec_10_3_1_a[10.3.1.a]
+link:./chapter10.html#sec_10_3_1_b[10.3.1.b]
+link:./chapter10.html#sec_10_3_1_d_ii[10.3.1.d.ii]
+link:./chapter10.html#sec_10_3_1_e[10.3.1.e]
+
+** uimhir
+link:./chapter9.html#sec_9_3_3[9.3.3]
+link:./chapter9.html#sec_9_3_4[9.3.4]
+link:./chapter9.html#sec_9_3_5[9.3.5]
+link:./chapter9.html#sec_9_3_6[9.3.6]
+link:./chapter9.html#sec_9_3_7[9.3.7]
+link:./chapter9.html#sec_9_3_10[9.3.10]
+link:./chapter9.html#sec_9_3_10[9.3.10]
+link:./chapter9.html#sec_9_3_11[9.3.11]
+link:./chapter9.html#sec_9_3_12[9.3.12]
+link:./chapter9.html#sec_9_4_2_c[9.4.2.c]
+link:./chapter9.html#sec_9_4_2_d[9.4.2.d]
+link:./chapter9.html#sec_9_4_3[9.4.3]
+link:./chapter9.html#sec_9_4_3_c[9.4.3.c]
+link:./chapter9.html#sec_9_5_5[9.5.5]
+link:./chapter10.html#sec_10_3_1_d[10.3.1.d]
+
+** urú
+link:./chapter10.html#sec_10_7[10.7]
 
 endif::[]
 
