@@ -248,10 +248,10 @@
 :8-3-4-sample8_en: Have you seen *mine*?
 
 :8-3-5-p_ga: Chun aidiacht shealbhach a úsáid mar chuspóir ainm bhriathartha, cuirtear an réamhfhocal _do_ roimh an aidiacht shealbhach sa chéad agus sa dara pearsa, uatha agus iolra, agus cuirtear _á_ roimh an tríú pearsa, uatha agus iolra, mar seo a leanas:
-:8-3-5-p_en: To use a possessive adjective as a possessive pronominal, the preposition _do_ is placed before the possessive adjective in the first and second person singular and plural, and _á_ is placed before the third person singular and plural, as follows:
+:8-3-5-p_en: To use a possessive adjective as a possessive verbal noun, the preposition _do_ is placed before the possessive adjective in the first and second person singular and plural, and _á_ is placed before the third person singular and plural, as follows:
 
 :8E-caption_ga: An Aidiacht Shealbhach mar Chuspóir Ainm Bhriathartha
-:8E-caption_en: The Possessive Adjective as a Possessive Pronominal
+:8E-caption_en: The Possessive Adjective as a Possessive Verbal Noun
 
 :8-3-5-sample1_ga: Ná bí *do mo chéasadh*!
 :8-3-5-sample1_en: Don't *torture me*!
@@ -380,7 +380,7 @@
 :8-3-8-e-sample6_en: We were there *until* twelve.
 
 :8-3-9-p_ga: Cuirtear _n_ idir an réamhfhocal _ar_ agus an aidiacht shealbhach _a_ chun _arna_ a chruthú. Réitíonn an t&#x2011;ainm briathartha le hinscne agus le huimhir an ainmfhocail a thagann roimhe, e.g., _leabhar arna eisiúint_; _tuarascáil arna seoladh_; _doiciméid arna bhfoilsiú_.
-:8-3-9-p_en: _n_ is placed between the preposition _ar_ and the possessive adjective _a_ to form _arna_. The verb agrees with the gender and number of the noun that precedes it, e.g., _leabhar arna eisiúint_; _tuarascáil arna seoladh_; _doiciméid arna bhfoilsiú_.
+:8-3-9-p_en: _n_ is placed between the preposition _ar_ and the possessive adjective _a_ to form _arna_. The verbal noun agrees with the gender and number of the noun that precedes it, e.g., _leabhar arna eisiúint_; _tuarascáil arna seoladh_; _doiciméid arna bhfoilsiú_.
 
 :8-3-9-sample1_ga: Measfar é a bheith *arna thoghadh* faoin Acht seo. (_fir._)
 :8-3-9-sample1_en: He shall be deemed to have been *elected* under this Act. (_masc._)
